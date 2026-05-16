@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2ffed2d338",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Inworld Realtime TTS-2: Emotional AI Speech System",
+ "summary": "A low-latency conversational voice AI that dynamically adapts its tone and emotional expression based on user audio input. It features a 'behavioral layer' for social reasoning and supports natural language steering across over 100 languages.",
+ "research_notes": "Developed by Inworld AI; it consistently ranks at the top of the Artificial Analysis Speech Arena and competes directly with OpenAI's Realtime API.",
+ "project": {
+  "name": "Realtime TTS-2",
+  "family_slug": "realtime-tts",
+  "family_display": "Realtime TTS-2",
+  "model_slug": "realtime-tts-2",
+  "model_display": "Realtime TTS-2",
+  "version": "2",
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Realtime TTS-2",
+  "realtime-tts",
+  "realtime-tts-2",
+  "audio-music",
+  "family:realtime-tts",
+  "model:realtime-tts-2",
+  "voice-clone",
+  "realtime",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "realtime-tts"
+  ],
+  "versions": [
+   "realtime-tts-2"
+  ],
+  "features": [
+   "voice-clone",
+   "realtime"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "realtime-tts-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://inworld.ai/blog/realtime-tts-2",
+   "host": "inworld.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://realtime.ai/",
+   "host": "realtime.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:04:34Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://platform.inworld.ai/v2/workspaces/default-pddgzikoqaoyopsp5orjvw/tts-playground",
+   "host": "platform.inworld.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in May 2026 as a major upgrade from version 1.5, moving beyond simple audio fidelity to emotional context awareness. It is currently in research preview and serves as a benchmark for conversational AI latency and expressiveness.",
+  "latest_version": "Realtime TTS-2 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "A low-latency conversational voice AI that dynamically adapts its tone and emotional expression based on user audio input. It features a 'behavioral layer' for social reasoning and supports natural language steering across over 100 languages."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:04:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

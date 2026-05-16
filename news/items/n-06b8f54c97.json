@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-06b8f54c97",
+ "entry_type": "paper",
+ "category": "papers-theory",
+ "lang": "en",
+ "title": "MARBLE: Reinforcement Learning Framework for Multi-Aspect Diffusion Alignment",
+ "summary": "MARBLE is a reinforcement learning framework designed to fine-tune diffusion models by balancing multiple quality criteria simultaneously. It replaces manual reward weighting with gradient-space harmonization to improve aesthetics, text alignment, and safety in a single training run.",
+ "research_notes": "Built upon DiffusionNFT; uses the Multiple Gradient Descent Algorithm (MGDA) to harmonize conflicting reward gradients.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MARBLE",
+  "marble",
+  "papers-theory",
+  "family:marble",
+  "training",
+  "paper",
+  "github"
+ ],
+ "facets": {
+  "category": "papers-theory",
+  "entry_type": "paper",
+  "projects": [],
+  "versions": [],
+  "features": [
+   "training"
+  ],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://aim-uofa.github.io/MARBLE/",
+   "host": "aim-uofa.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/aim-uofa/MARBLE",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:36:30Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Currently expanding from static image diffusion fine-tuning to video generation models; releasing full training code and multi-node scripts.",
+  "latest_version": "MARBLE (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "MARBLE is a reinforcement learning framework designed to fine-tune diffusion models by balancing multiple quality criteria simultaneously. It replaces manual reward weighting with gradient-space harmonization to improve aesthetics, text alignment, and safety in a single training run."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:36:30Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

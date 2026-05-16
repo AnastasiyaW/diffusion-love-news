@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-6a0618307a",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Nemotron-OCR v2: NVIDIA Multilingual Document Intelligence System",
+ "summary": "A high-speed, production-ready OCR model specialized in multilingual text recognition and complex document structure parsing. It utilizes a modular transformer architecture to process over 30 pages per second with high accuracy.",
+ "research_notes": "Optimized for RAG and document-heavy AI agents; includes a relational module for precise reading order and logical grouping.",
+ "project": {
+  "name": "Nemotron OCR v2",
+  "family_slug": "nemotron",
+  "family_display": "Nemotron OCR",
+  "model_slug": "nemotron",
+  "model_display": "Nemotron",
+  "version": "v2",
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nemotron OCR v2",
+  "Nemotron",
+  "Nemotron OCR",
+  "nemotron",
+  "vlm",
+  "family:nemotron",
+  "huggingface",
+  "nemotron-v2",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "nemotron"
+  ],
+  "versions": [
+   "nemotron-v2"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/nemotron-ocr-v2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:56:12Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Building on the English-only v1, v2 introduced support for over 14,000 characters across multiple scripts. It has since been integrated into the unified Nemotron-3 Nano Omni multimodal model for real-time agentic workflows.",
+  "latest_version": "Nemotron-3 Nano Omni (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A high-speed, production-ready OCR model specialized in multilingual text recognition and complex document structure parsing. It utilizes a modular transformer architecture to process over 30 pages per second with high accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:56:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

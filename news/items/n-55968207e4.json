@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-55968207e4",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "PixelSmile for ComfyUI: Precise Facial Expression Control",
+ "summary": "PixelSmile is a conditioning interpolation tool that enables fine-grained control over character facial expressions and smiles in ComfyUI. It mathematically blends neutral and target expressions at the embedding level to preserve character identity while minimizing semantic entanglement on Qwen-based models.",
+ "research_notes": "The project is notable for its 'reduced semantic entanglement' approach, ensuring that changing a smile does not affect the background or character likeness. The initial ComfyUI node development was notably assisted by Gemini AI.",
+ "project": {
+  "name": "PixelSmile",
+  "family_slug": "pixelsmile",
+  "family_display": "PixelSmile",
+  "model_slug": "pixelsmile",
+  "model_display": "PixelSmile",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PixelSmile",
+  "pixelsmile",
+  "tools-frontend",
+  "family:pixelsmile",
+  "face",
+  "edit",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "pixelsmile"
+  ],
+  "versions": [
+   "pixelsmile"
+  ],
+  "features": [
+   "face",
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/judian17/ComfyUI-PixelSmile-Conditioning-Interpolation",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:20:41Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following the ComfyUI node release in March 2026, the official team released training code in April 2026, allowing users to create custom expression LoRAs. The ComfyUI implementation was subsequently updated to support simultaneous multi-expression blending and improved intensity ranges for the Qwen-Image-Edit-2511 base.",
+  "latest_version": "PixelSmile Training & Node Update (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "PixelSmile is a conditioning interpolation tool that enables fine-grained control over character facial expressions and smiles in ComfyUI. It mathematically blends neutral and target expressions at the embedding level to preserve character identity while minimizing semantic entanglement on Qwen-based models."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:20:41Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

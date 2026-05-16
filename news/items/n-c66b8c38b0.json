@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c66b8c38b0",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "RS Nodes: ComfyUI LoRA Training for Video",
+ "summary": "A suite of custom ComfyUI nodes optimized for high-performance video generation and memory-efficient LoRA training, specifically for LTX-Video models. It features the proprietary Rose optimizer, enabling training on consumer GPUs with as little as 11GB VRAM.",
+ "research_notes": "Features the Rose optimizer, a custom stateless PyTorch optimizer developed by RichServo that significantly reduces memory overhead compared to 8-bit AdamW.",
+ "project": {
+  "name": "RS Nodes",
+  "family_slug": "rs-nodes",
+  "family_display": "RS Nodes",
+  "model_slug": "rs-nodes",
+  "model_display": "RS Nodes",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "rs-nodes"
+  }
+ },
+ "tags": [
+  "RS Nodes",
+  "rs-nodes",
+  "tools-frontend",
+  "family:rs-nodes",
+  "adaptation:lora",
+  "lora-for:rs-nodes",
+  "training",
+  "lora",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "rs-nodes"
+  ],
+  "versions": [
+   "rs-nodes"
+  ],
+  "features": [
+   "training",
+   "lora"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/richservo/rs-nodes",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:00:25Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a utility node collection into a comprehensive training ecosystem for LTX-Video, introducing conditioning-safe LoRAs and integration with MOSS-TTS for synchronized audio-video workflows.",
+  "latest_version": "LTX-2.3 Compatible (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "A suite of custom ComfyUI nodes optimized for high-performance video generation and memory-efficient LoRA training, specifically for LTX-Video models. It features the proprietary Rose optimizer, enabling training on consumer GPUs with as little as 11GB VRAM."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:00:25Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

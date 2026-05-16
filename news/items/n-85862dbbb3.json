@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-85862dbbb3",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Geo Register Plugin for 3D Gaussian Splatting Scenes",
+ "summary": "An open-source Python tool for georeferencing 3D Gaussian Splatting models to real-world coordinates using image EXIF metadata or external CSV logs. It enables professional GIS integration by exporting scenes to 3D Tiles 1.1, LAS, and LAZ formats.",
+ "research_notes": "Utilizes a robust RANSAC + Umeyama solver for outlier-resistant coordinate alignment; features a 'No Scene' mode for processing standalone PLY files using existing similarity matrices.",
+ "project": {
+  "name": "Geo Register Plugin",
+  "family_slug": "geo-register-plugin",
+  "family_display": "Geo Register Plugin",
+  "model_slug": "geo-register-plugin",
+  "model_display": "Geo Register Plugin",
+  "version": null,
+  "released": "2026-05-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Geo Register Plugin",
+  "geo-register-plugin",
+  "gaussian-splatting",
+  "family:geo-register-plugin",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "geo-register-plugin"
+  ],
+  "versions": [
+   "geo-register-plugin"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/dozeri83/geo-register-plugin",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:33:59Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project expanded from basic EXIF registration to supporting high-accuracy imports from RealityScan and Agisoft Metashape. It introduced SPZ v3 compression for 14x smaller file sizes and full compatibility with CesiumJS and ArcGIS via 3D Tiles 1.1.",
+  "latest_version": "Early Development (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "An open-source Python tool for georeferencing 3D Gaussian Splatting models to real-world coordinates using image EXIF metadata or external CSV logs. It enables professional GIS integration by exporting scenes to 3D Tiles 1.1, LAS, and LAZ formats."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:33:59Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

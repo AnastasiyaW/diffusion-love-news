@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-63cbd51a4a",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Multica: Open-Source AI Agent Management Platform",
+ "summary": "An open-source managed agents platform that integrates autonomous coding agents into human workflows as first-class teammates. It provides a vendor-neutral operating layer coordinating local daemons and cloud runtimes for agents like Claude Code, Gemini, and GitHub Copilot CLI.",
+ "research_notes": "The project is named after the Multics operating system and aims to function as a Human-AI Operating System for collaborative software development.",
+ "project": {
+  "name": "Multica",
+  "family_slug": "multica",
+  "family_display": "Multica",
+  "model_slug": "multica",
+  "model_display": "Multica",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Multica",
+  "multica",
+  "llm",
+  "family:multica",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "multica"
+  ],
+  "versions": [
+   "multica"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/multica-ai/multica",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:25:12Z"
+  },
+  {
+   "kind": "code",
+   "url": "http://github.com/forrestchang/andrej-karpathy-skills",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a macOS desktop client into a full-stack platform featuring a 'Squads' system for multi-agent collaboration and a standardized Agent Client Protocol (ACP). Recently added a skills framework for packaging agent patterns and a template catalog for one-click deployment.",
+  "latest_version": "v0.3.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "An open-source managed agents platform that integrates autonomous coding agents into human workflows as first-class teammates. It provides a vendor-neutral operating layer coordinating local daemons and cloud runtimes for agents like Claude Code, Gemini, and GitHub Copilot CLI."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:25:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.2",
+ "id": "n-01b786ce9f",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "AlayaRenderer: Generative World Renderer for AAA Games",
+ "summary": "An AI-native framework that unifies forward and inverse rendering using video diffusion models. It extracts 3D geometric data from game videos and allows for high-fidelity scene editing via text prompts.",
+ "research_notes": "Developed by Shanda AI Research Tokyo. Utilizes a novel VLM-based evaluation protocol to measure semantic and spatial consistency in the absence of ground truth.",
+ "project": {
+  "name": "Generative World Renderer",
+  "family_slug": "alaya",
+  "family_display": "Generative World Renderer",
+  "model_slug": "generative-world-renderer",
+  "model_display": "Generative World Renderer",
+  "version": null,
+  "released": "2026-04-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Generative World Renderer",
+  "alaya",
+  "generative-world-renderer",
+  "3d",
+  "family:alaya",
+  "model:generative-world-renderer",
+  "depth",
+  "normal-map",
+  "edit",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "alaya"
+  ],
+  "versions": [
+   "alaya"
+  ],
+  "features": [
+   "depth",
+   "normal-map",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "generative-world-renderer"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://alaya-studio.github.io/renderer/",
+   "host": "alaya-studio.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ShandaAI/AlayaRenderer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:52:12Z"
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/Brian9999/game-editing",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Introduces a large-scale dataset of 4 million continuous AAA frames with synchronized G-buffer labels. The framework establishes a bidirectional rendering pipeline that outperforms previous methods in temporal stability and real-world generalization.",
+  "latest_version": "Initial Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-04",
+  "excerpt": "An AI-native framework that unifies forward and inverse rendering using video diffusion models. It extracts 3D geometric data from game videos and allows for high-fidelity scene editing via text prompts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:52:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

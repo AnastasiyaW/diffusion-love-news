@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-525a6be75a",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "EMF: Extending One-Step Image Generation (Alibaba)",
+ "summary": "Developed by Alibaba's DreamX team, EMF is a research framework for high-efficiency one-step text-to-image generation. It utilizes discriminative text representations to map complex semantics into a single-step generation process, significantly reducing inference latency while maintaining quality.",
+ "research_notes": "Requires Python 3.11 and a manual patch of the diffusers v0.34.0 library (specifically the sana_transformer.py) for integration.",
+ "project": {
+  "name": "EMF",
+  "family_slug": "emf",
+  "family_display": "EMF",
+  "model_slug": "emf",
+  "model_display": "EMF",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "EMF",
+  "emf",
+  "diffusion-image",
+  "family:emf",
+  "text-to-image",
+  "github",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "emf"
+  ],
+  "versions": [
+   "emf"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2604.18168",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/zhuyu-cs/MeanFlow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/AMAP-ML/EMF",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:37:41Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project was officially open-sourced in April 2026 following its acceptance at the CVPR 2026 conference. It currently provides full PyTorch implementation, training scripts, and specific patches for the diffusers library to support its architecture.",
+  "latest_version": "CVPR 2026 Official Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "Developed by Alibaba's DreamX team, EMF is a research framework for high-efficiency one-step text-to-image generation. It utilizes discriminative text representations to map complex semantics into a single-step generation process, significantly reducing inference latency while maintaining quality."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:37:41Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

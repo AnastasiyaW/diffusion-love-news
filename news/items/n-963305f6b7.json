@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-963305f6b7",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "HyperFrames: HeyGen's Programmatic Video Framework",
+ "summary": "An Apache 2.0 open-source framework for building high-quality videos using web technologies like HTML, CSS, and React. It is designed for high-performance rendering and optimized for programmatic control by AI agents.",
+ "research_notes": "Positioned as a fully open-source alternative to Remotion with an Apache 2.0 license and first-class support for AI-native video generation workflows.",
+ "project": {
+  "name": "HyperFrames",
+  "family_slug": "hyperframes",
+  "family_display": "HyperFrames",
+  "model_slug": "hyperframes",
+  "model_display": "HyperFrames",
+  "version": null,
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HyperFrames",
+  "hyperframes",
+  "tools-frontend",
+  "family:hyperframes",
+  "text-to-video",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "hyperframes"
+  ],
+  "versions": [
+   "hyperframes"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/heygen-com/hyperframes/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:04:59Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from an internal HeyGen tool to a major open-source ecosystem with over 12,000 stars. Recent updates introduced an 'Agentic Video Stack' and integration with AI coding assistants.",
+  "latest_version": "v0.4.10 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "An Apache 2.0 open-source framework for building high-quality videos using web technologies like HTML, CSS, and React. It is designed for high-performance rendering and optimized for programmatic control by AI agents."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:04:59Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

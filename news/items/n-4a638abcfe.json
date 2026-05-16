@@ -1,0 +1,125 @@
+{
+ "schema_version": "1.2",
+ "id": "n-4a638abcfe",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "SenseNova-U1: Unified Multimodal AI with NEO-unify",
+ "summary": "A native unified multimodal model series by SenseTime that integrates understanding, reasoning, and generation within a single end-to-end architecture. It utilizes a Mixture-of-Transformers backbone to process raw pixels and text tokens without separate encoders.",
+ "research_notes": "Developed by SenseTime and Light-AI; represents a shift from modular adapters to native end-to-end multimodal intelligence.",
+ "project": {
+  "name": "SenseNova-U1",
+  "family_slug": "sensenova",
+  "family_display": "SenseNova-U1",
+  "model_slug": "sensenova",
+  "model_display": "SenseNova",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SenseNova-U1",
+  "SenseNova",
+  "sensenova",
+  "vlm",
+  "family:sensenova",
+  "text-to-image",
+  "edit",
+  "huggingface",
+  "github"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "sensenova"
+  ],
+  "versions": [
+   "sensenova"
+  ],
+  "features": [
+   "text-to-image",
+   "edit"
+  ],
+  "formats": [
+   "huggingface",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenSenseNova/SenseNova-U1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:11:17Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenSenseNova/SenseNova-U1/tree/main",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/sensenova/sensenova-u1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://unify.light-ai.top/home",
+   "host": "unify.light-ai.top",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the initial release, the project introduced the A3B-MoT Mixture-of-Experts variant and 8-step high-speed inference weights. It currently supports GGUF quantization for consumer GPU deployment and native integration into agentic workflows.",
+  "latest_version": "SenseNova-U1-A3B-MoT (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "A native unified multimodal model series by SenseTime that integrates understanding, reasoning, and generation within a single end-to-end architecture. It utilizes a Mixture-of-Transformers backbone to process raw pixels and text tokens without separate encoders."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:11:17Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

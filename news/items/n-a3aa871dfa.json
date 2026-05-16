@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a3aa871dfa",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab",
+ "summary": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
+ "research_notes": "Supports free Google Colab T4 GPUs for Gemma 4 E2B and E4B models.",
+ "project": {
+  "name": "Unsloth",
+  "family_slug": "unsloth",
+  "family_display": "Unsloth",
+  "model_slug": "unsloth",
+  "model_display": "Unsloth",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unsloth",
+  "unsloth",
+  "llm",
+  "family:unsloth",
+  "fine-tuning",
+  "colab",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "unsloth"
+  ],
+  "versions": [
+   "unsloth"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "colab"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/unslothai/unsloth",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:17:29Z"
+  },
+  {
+   "kind": "colab",
+   "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
+   "host": "colab.research.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Expanded from LLM fine-tuning to support Gemma 4 multimodal vision/audio variants and GRPO reinforcement learning. Integrated into the official PyTorch Ecosystem in May 2026.",
+  "latest_version": "Gemma 4 Support (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:17:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

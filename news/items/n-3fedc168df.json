@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-3fedc168df",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "SpatialEdit-16B: Fine-Grained Image Spatial Editing",
+ "summary": "A multimodal research model designed for precise geometric image manipulations, enabling users to move, rotate, or scale objects and adjust camera viewpoints with high mathematical accuracy. It integrates a Qwen3-VL multimodal encoder with an MM-DiT diffusion decoder for state-of-the-art spatial reasoning.",
+ "research_notes": "Utilizes the SpatialEdit-500K synthetic dataset for training and introduces SpatialEdit-Bench for measuring geometric fidelity and perceptual plausibility.",
+ "project": {
+  "name": "SpatialEdit-16B",
+  "family_slug": "spatialedit",
+  "family_display": "SpatialEdit-16B",
+  "model_slug": "spatialedit-16b",
+  "model_display": "SpatialEdit-16B",
+  "version": "16B",
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SpatialEdit-16B",
+  "spatialedit",
+  "spatialedit-16b",
+  "vlm",
+  "family:spatialedit",
+  "model:spatialedit-16b",
+  "image-to-video",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "spatialedit"
+  ],
+  "versions": [
+   "spatialedit-16b"
+  ],
+  "features": [
+   "image-to-video",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "spatialedit-16b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/EasonXiao-888/SpatialEdit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:06:09Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/EasonXiao-888/SpatialEdit-16B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Developed from an earlier 7B LLaVA-based prototype to address spatial failures in models like GPT-4V. It now serves as a foundational baseline for 3D-aware image editing and maintaining consistency in video generation models.",
+  "latest_version": "SpatialEdit-16B (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "A multimodal research model designed for precise geometric image manipulations, enabling users to move, rotate, or scale objects and adjust camera viewpoints with high mathematical accuracy. It integrates a Qwen3-VL multimodal encoder with an MM-DiT diffusion decoder for state-of-the-art spatial reasoning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:06:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

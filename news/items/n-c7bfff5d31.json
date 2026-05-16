@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c7bfff5d31",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Gemma 4: Google's Multimodal Open Model Family",
+ "summary": "Gemma 4 is a series of natively multimodal open models ranging from 2B to 31B parameters, optimized for on-device execution and high-throughput agentic workflows. It features a toggleable thinking mode for complex reasoning and is released under a fully open Apache 2.0 license.",
+ "research_notes": "Introduced 'Thinking' mode for internal Chain-of-Thought and native support for text, image, video, and audio inputs across all model sizes.",
+ "project": {
+  "name": "Gemma 4",
+  "family_slug": "gemma",
+  "family_display": "Gemma",
+  "model_slug": "gemma-4",
+  "model_display": "Gemma 4",
+  "version": "4",
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemma 4",
+  "Gemma",
+  "gemma",
+  "gemma-4",
+  "llm",
+  "family:gemma",
+  "model:gemma-4",
+  "huggingface",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gemma"
+  ],
+  "versions": [
+   "gemma-4"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "gemma-4"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+   "host": "blog.google",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/google/gemma-4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:20:27Z"
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/unsloth/gemma-4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released on April 2, 2026, marking a shift to Apache 2.0 licensing. In May 2026, Google added Multi-Token Prediction (MTP) drafter models for all sizes, achieving 3x faster inference. The family is now integrated natively into Android AICore for system-level privacy-first features.",
+  "latest_version": "Gemma 4 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "Gemma 4 is a series of natively multimodal open models ranging from 2B to 31B parameters, optimized for on-device execution and high-throughput agentic workflows. It features a toggleable thinking mode for complex reasoning and is released under a fully open Apache 2.0 license."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:20:27Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

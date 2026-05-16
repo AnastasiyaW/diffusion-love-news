@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b2c1d5a768",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "FLUX.2 Small Decoder (Distilled VAE)",
+ "summary": "A distilled Variational Autoencoder (VAE) decoder designed to optimize inference performance for the FLUX.2 model family. It significantly reduces VRAM usage and increases decoding speed with minimal loss in visual quality.",
+ "research_notes": "Licensed under Apache 2.0; provides approximately 1.4x faster decoding and a 44% reduction in parameter count compared to the standard FLUX.2 decoder.",
+ "project": {
+  "name": "FLUX.2 Small Decoder",
+  "family_slug": "flux",
+  "family_display": "FLUX.2 Small Decoder",
+  "model_slug": "flux-2",
+  "model_display": "FLUX.2",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FLUX.2 Small Decoder",
+  "FLUX.2",
+  "flux",
+  "flux-2",
+  "diffusion-image",
+  "family:flux",
+  "model:flux-2",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "flux"
+  ],
+  "versions": [
+   "flux"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "flux-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/black-forest-labs/FLUX.2-small-decoder",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:08:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as a key efficiency update for the FLUX.2 ecosystem, following the flagship FLUX.2 [dev] release in late 2025. It is now standard for consumer-grade inference pipelines.",
+  "latest_version": "FLUX.2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A distilled Variational Autoencoder (VAE) decoder designed to optimize inference performance for the FLUX.2 model family. It significantly reduces VRAM usage and increases decoding speed with minimal loss in visual quality."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:08:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

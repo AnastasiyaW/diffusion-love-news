@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8a620616a1",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.6-35B-A3B-NVFP4: High-Efficiency Blackwell Optimized MoE",
+ "summary": "Qwen3.6-35B-A3B-NVFP4 is a 35B Mixture-of-Experts LLM optimized by Red Hat for the NVIDIA Blackwell architecture using 4-bit floating point quantization. It achieves significant throughput gains on RTX 50-series GPUs while preserving reasoning capabilities through its 3B active parameter sub-network.",
+ "research_notes": "Native hardware acceleration requires NVIDIA Blackwell (RTX 50-series or B100); compatible with vLLM, SGLang, and Ollama.",
+ "project": {
+  "name": "Qwen3.6-35B-A3B-NVFP4",
+  "family_slug": "qwen",
+  "family_display": "Qwen3.6-35B-A3B-NVFP4",
+  "model_slug": "qwen3-6-35b",
+  "model_display": "Qwen3.6-35B",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-35B-A3B-NVFP4",
+  "Qwen3.6-35B",
+  "qwen",
+  "qwen3-6-35b",
+  "llm",
+  "family:qwen",
+  "model:qwen3-6-35b",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "qwen3-6-35b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/RedHatAI/Qwen3.6-35B-A3B-NVFP4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:12:35Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, Qwen3.6 introduced 'Thinking Preservation' to maintain reasoning consistency in long dialogues and significantly improved agentic coding performance. This NVFP4 version represents the current state-of-the-art for local MoE deployment on consumer and enterprise hardware.",
+  "latest_version": "Qwen3.6 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "Qwen3.6-35B-A3B-NVFP4 is a 35B Mixture-of-Experts LLM optimized by Red Hat for the NVIDIA Blackwell architecture using 4-bit floating point quantization. It achieves significant throughput gains on RTX 50-series GPUs while preserving reasoning capabilities through its 3B active parameter sub-network."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:12:35Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

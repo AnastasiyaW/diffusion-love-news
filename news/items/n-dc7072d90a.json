@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-dc7072d90a",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.6-27B-DFlash Speculative Decoding Model",
+ "summary": "A block-diffusion based speculative decoding drafter tailored for the Qwen3.6-27B series, providing significant inference speedups. The project includes optimized and uncensored variants for versatile local deployment.",
+ "research_notes": "Gated repository. Requires FP16 or high-precision quantization to maintain efficiency; optimized specifically for NVIDIA Blackwell and Ada architectures.",
+ "project": {
+  "name": "Qwen3.6-27B-DFlash",
+  "family_slug": "qwen",
+  "family_display": "Qwen3.6-27B-DFlash",
+  "model_slug": "qwen3-6-27b",
+  "model_display": "Qwen3.6-27B",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-27B-DFlash",
+  "Qwen3.6-27B",
+  "qwen",
+  "qwen3-6-27b",
+  "llm",
+  "family:qwen",
+  "model:qwen3-6-27b",
+  "fine-tuning",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "qwen3-6-27b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:07:28Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://z-lab.ai/projects/dflash/",
+   "host": "z-lab.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Updated in late April 2026 to align with the official Qwen3.6 release, stabilizing weights for math and coding. It is now a primary component of the DGX Spark v4 ecosystem.",
+  "latest_version": "Qwen3.6-27B (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A block-diffusion based speculative decoding drafter tailored for the Qwen3.6-27B series, providing significant inference speedups. The project includes optimized and uncensored variants for versatile local deployment."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:07:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

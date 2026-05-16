@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5e356466d0",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "AURA — Always-On Understanding and Real-Time Assistance",
+ "summary": "AURA is an end-to-end streaming visual interaction framework for continuous video understanding and real-time assistance. It integrates ASR, VLM, and TTS into a unified asynchronous pipeline to process live video at 2 FPS. The system enables proactive QA and multi-response interactions with sub-second latency.",
+ "research_notes": "Built on the Qwen3-VL-8B-Instruct backbone and utilizes a dual sliding-window context management system to handle infinite video streams.",
+ "project": {
+  "name": "AURA",
+  "family_slug": "aura",
+  "family_display": "AURA",
+  "model_slug": "aura",
+  "model_display": "AURA",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AURA",
+  "aura",
+  "vlm",
+  "family:aura",
+  "realtime",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "aura"
+  ],
+  "versions": [
+   "aura"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://aurateam2026.github.io/",
+   "host": "aurateam2026.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/aurateam2026/AURA",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:06:57Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/aurateam/AURA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as a joint project by Huawei Research and CUHK MMLab. It establishes a new state-of-the-art on the StreamingBench leaderboard, surpassing previous proprietary models in real-time visual reasoning and proactive alerting.",
+  "latest_version": "AURA-8B (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "AURA is an end-to-end streaming visual interaction framework for continuous video understanding and real-time assistance. It integrates ASR, VLM, and TTS into a unified asynchronous pipeline to process live video at 2 FPS. The system enables proactive QA and multi-response interactions with sub-second latency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:06:57Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

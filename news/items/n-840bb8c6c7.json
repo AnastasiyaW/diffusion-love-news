@@ -1,0 +1,153 @@
+{
+ "schema_version": "1.2",
+ "id": "n-840bb8c6c7",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Chandra OCR 2: Open-Source Document Understanding Model",
+ "summary": "A state-of-the-art vision-language model designed to convert images and PDFs into structured Markdown, HTML, or JSON. It preserves complex layouts, including multi-column text, tables with merged cells, and mathematical equations.",
+ "research_notes": "Supports over 90 languages with specialized improvements for South Asian scripts. Developed by Datalab, it is currently considered a top-tier open-source alternative to proprietary OCR solutions.",
+ "project": {
+  "name": "Chandra OCR 2",
+  "family_slug": "chandra",
+  "family_display": "Chandra OCR",
+  "model_slug": "chandra",
+  "model_display": "Chandra",
+  "version": "2",
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Chandra OCR 2",
+  "Chandra",
+  "Chandra OCR",
+  "chandra",
+  "vlm",
+  "family:chandra",
+  "segmentation",
+  "github",
+  "huggingface",
+  "chandra-2",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "chandra"
+  ],
+  "versions": [
+   "chandra-2"
+  ],
+  "features": [
+   "segmentation"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.datalab.to/blog/chandra-2",
+   "host": "datalab.to",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.datalab.to/",
+   "host": "datalab.to",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/datalab-to/chandra",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:31:05Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/datalab-to/chandra-ocr-2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:datalab-to/chandra-ocr-2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.datalab.to/playground/documents/new",
+   "host": "datalab.to",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/victor/chandra-ocr-2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Chandra OCR 2 was released in March 2026 as a major update to the original model, reducing parameter count from 9B to 4B while improving benchmark performance by 12%. It introduced new capabilities for extracting diagrams in Mermaid format and chemistry molecular structures.",
+  "latest_version": "Chandra OCR 2 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "A state-of-the-art vision-language model designed to convert images and PDFs into structured Markdown, HTML, or JSON. It preserves complex layouts, including multi-column text, tables with merged cells, and mathematical equations."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:31:05Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

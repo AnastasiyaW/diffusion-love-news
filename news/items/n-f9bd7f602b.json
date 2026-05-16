@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f9bd7f602b",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "TRIBE Review MVP",
+ "summary": "A local web application for analyzing Meta video advertisements using the TRIBE v2 behavioral inference model. It translates raw brain-response predictions into a visual review format to help optimize video structure and creative hooks.",
+ "research_notes": "Requires NVIDIA GPU (6GB+ VRAM) and Windows; specifically designed to reverse-engineer viral video hooks and structural patterns.",
+ "project": {
+  "name": "TRIBE Review MVP",
+  "family_slug": "tribe",
+  "family_display": "TRIBE Review MVP",
+  "model_slug": "tribe",
+  "model_display": "TRIBE",
+  "version": null,
+  "released": "2026-05-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TRIBE Review MVP",
+  "TRIBE",
+  "tribe",
+  "tools-frontend",
+  "family:tribe",
+  "edit",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "tribe"
+  ],
+  "versions": [
+   "tribe"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/amirmushichge/tribeV2_ViralAnalyser",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T17:48:32Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/tribev2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Based on Meta's TRansformative Inference for Behavioral Evaluation (TRIBE) v2 framework; the tool includes local Whisper transcription and Ollama-based editing recommendations for creative strategy.",
+  "latest_version": "TRIBE v2 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-11",
+  "excerpt": "A local web application for analyzing Meta video advertisements using the TRIBE v2 behavioral inference model. It translates raw brain-response predictions into a visual review format to help optimize video structure and creative hooks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T17:48:32Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "schema_version": "1.2",
+ "id": "n-83af6888de",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "VOID: Video Object and Interaction Deletion from Netflix",
+ "summary": "A physics-aware video inpainting framework that removes objects and their secondary causal effects. It uses a unique 'quadmask' strategy to ensure physical consistency, such as removing a ball and its impact on other objects.",
+ "research_notes": "Requires significant hardware (40GB+ VRAM) and a multi-stage pipeline involving Google Gemini for scene reasoning and SAM3 for masking.",
+ "project": {
+  "name": "VOID",
+  "family_slug": "void",
+  "family_display": "VOID",
+  "model_slug": "void",
+  "model_display": "VOID",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "VOID",
+  "void",
+  "diffusion-video",
+  "family:void",
+  "inpainting",
+  "edit",
+  "github",
+  "huggingface",
+  "colab",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "void"
+  ],
+  "versions": [
+   "void"
+  ],
+  "features": [
+   "inpainting",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "colab"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://void-model.github.io/",
+   "host": "void-model.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Netflix/void-model",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:53:07Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/netflix/void-model",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/sam-motamed/VOID",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "colab",
+   "url": "https://colab.research.google.com/github/netflix/void-model/blob/main/notebook.ipynb",
+   "host": "colab.research.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as Netflix's first major open-source AI tool. It has since been integrated into the CogVideoX ecosystem and updated to support SAM3 for automated mask generation.",
+  "latest_version": "VOID v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A physics-aware video inpainting framework that removes objects and their secondary causal effects. It uses a unique 'quadmask' strategy to ensure physical consistency, such as removing a ball and its impact on other objects."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:53:07Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

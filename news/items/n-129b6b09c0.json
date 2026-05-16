@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-129b6b09c0",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.6-35B Claude 4.6 Opus Reasoning Distilled",
+ "summary": "A 35B Mixture-of-Experts LLM based on the Qwen3.6 architecture, fine-tuned using reasoning traces distilled from Claude 4.6 Opus. It is optimized for agentic coding and complex problem-solving while maintaining high inference speeds on consumer hardware.",
+ "research_notes": "Native context window of 262,144 tokens; compatible with latest llama.cpp. Avoid using with CUDA 13.2 due to reported output corruption.",
+ "project": {
+  "name": "Qwen3.6-35B-Reasoning-Distilled",
+  "family_slug": "qwen",
+  "family_display": "Qwen3.6-35B-Reasoning-Distilled",
+  "model_slug": "qwen3-6-35b",
+  "model_display": "Qwen3.6-35B",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-35B-Reasoning-Distilled",
+  "Qwen3.6-35B",
+  "qwen",
+  "qwen3-6-35b",
+  "llm",
+  "family:qwen",
+  "model:qwen3-6-35b",
+  "fine-tuning",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "qwen3-6-35b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:44:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/end000/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-IQ4_XS-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "This model succeeded earlier Qwen3.5-based distillation experiments, leveraging the newer MoE architecture and Multi-Token Prediction (MTP) for improved efficiency. It remains a top choice for local reasoning tasks as of mid-2026.",
+  "latest_version": "Qwen3.6-35B-A3B (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "A 35B Mixture-of-Experts LLM based on the Qwen3.6 architecture, fine-tuned using reasoning traces distilled from Claude 4.6 Opus. It is optimized for agentic coding and complex problem-solving while maintaining high inference speeds on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:44:20Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

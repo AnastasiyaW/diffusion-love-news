@@ -1,0 +1,130 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2aa536ccdc",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Kimi K2.6: Moonshot AI Frontier Agentic LLM",
+ "summary": "Moonshot AI's flagship 1T-parameter MoE model designed for complex, long-horizon autonomous agent tasks. It supports native multimodality and features a 262K context window optimized for software engineering and coordination.",
+ "research_notes": "Released as an open-weight model under a Modified MIT License; excels specifically in SWE-Bench Pro and long-horizon task decomposition.",
+ "project": {
+  "name": "Kimi K2.6",
+  "family_slug": "kimi",
+  "family_display": "Kimi K2.6",
+  "model_slug": "kimi",
+  "model_display": "Kimi",
+  "version": "6",
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Kimi K2.6",
+  "Kimi",
+  "kimi",
+  "llm",
+  "family:kimi",
+  "huggingface",
+  "kimi-6",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "kimi"
+  ],
+  "versions": [
+   "kimi-6"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.kimi.com/blog/kimi-k2-6",
+   "host": "kimi.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:45:06Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/unsloth/Kimi-K2.6-GGUF/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.kimi.com/",
+   "host": "kimi.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://platform.moonshot.ai/",
+   "host": "platform.moonshot.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Succeeds the Kimi-K2 series with native Agent Swarm coordination of up to 300 sub-agents and 12-hour autonomous execution. Support for older K2 models is sunsetting as the ecosystem shifts to this execution-focused architecture.",
+  "latest_version": "Kimi K2.6 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "Moonshot AI's flagship 1T-parameter MoE model designed for complex, long-horizon autonomous agent tasks. It supports native multimodality and features a 262K context window optimized for software engineering and coordination."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:45:06Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

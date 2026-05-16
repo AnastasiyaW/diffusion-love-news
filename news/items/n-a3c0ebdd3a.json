@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a3c0ebdd3a",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "UniCorrn: Unified Correspondence Transformer Across 2D and 3D",
+ "summary": "A unified transformer model developed by Adobe Research and Northeastern University that performs 2D-2D, 2D-3D, and 3D-3D matching tasks within a single architecture. It uses shared weights and a dual-stream attention mechanism to achieve state-of-the-art results in geometric correspondence.",
+ "research_notes": "Introduces a novel dual-stream attention decoder that handles appearance and positional features separately while sharing core weights; presented at CVPR 2026.",
+ "project": {
+  "name": "UniCorrn",
+  "family_slug": "unicorrn",
+  "family_display": "UniCorrn",
+  "model_slug": "unicorrn",
+  "model_display": "UniCorrn",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniCorrn",
+  "unicorrn",
+  "3d",
+  "family:unicorrn",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "unicorrn"
+  ],
+  "versions": [
+   "unicorrn"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://neu-vi.github.io/UniCorrn/",
+   "host": "neu-vi.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/neu-vi/UniCorrn",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:42:51Z"
+  }
+ ],
+ "evolution": {
+  "summary": "As of mid-2026, UniCorrn represents the current state-of-the-art in unified cross-modal matching, merging previously separate image and point cloud registration tasks into one foundation model framework.",
+  "latest_version": "UniCorrn (CVPR 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "A unified transformer model developed by Adobe Research and Northeastern University that performs 2D-2D, 2D-3D, and 3D-3D matching tasks within a single architecture. It uses shared weights and a dual-stream attention mechanism to achieve state-of-the-art results in geometric correspondence."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:42:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

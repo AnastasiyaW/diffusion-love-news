@@ -1,0 +1,92 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2405c2d2f2",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GPT-5.5: Official OpenAI Prompting Guidance",
+ "summary": "The official technical manual for GPT-5.5, OpenAI's flagship multimodal model released in April 2026. It outlines the 'Outcome-First' prompting paradigm, prioritizing the definition of success criteria over step-by-step instructions.",
+ "research_notes": "Achieved a record 82.7% on Terminal-Bench 2.0; the guide emphasizes prompt compression and the removal of 'process noise' for optimal performance.",
+ "project": {
+  "name": "GPT-5.5",
+  "family_slug": "gpt",
+  "family_display": "GPT-5.5",
+  "model_slug": "gpt-5-5",
+  "model_display": "GPT-5.5",
+  "version": "5.5",
+  "released": "2026-05-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT-5.5",
+  "gpt",
+  "gpt-5-5",
+  "llm",
+  "family:gpt",
+  "model:gpt-5-5",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gpt"
+  ],
+  "versions": [
+   "gpt-5-5"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "gpt-5-5"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5",
+   "host": "developers.openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned to the default ChatGPT model on May 5, 2026, replacing the GPT-5.3 series. It is the first fully retrained base model since GPT-4.5, featuring native omnimodality and deep Codex integration.",
+  "latest_version": "GPT-5.5 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-02",
+  "excerpt": "The official technical manual for GPT-5.5, OpenAI's flagship multimodal model released in April 2026. It outlines the 'Outcome-First' prompting paradigm, prioritizing the definition of success criteria over step-by-step instructions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:06:20Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-807bf78763",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Pika Generative AI Video and Animation Platform",
+ "summary": "Pika is an advanced generative AI platform that creates high-quality videos and animations from text, images, and video prompts. It offers specialized tools for character consistency, lip-syncing, and physics-based effects.",
+ "research_notes": "The platform focuses on cinematic quality and 'Pikaffects' for dynamic object transformations. It migrated its primary domain from pika.me to pika.art.",
+ "project": {
+  "name": "AI Selfes",
+  "family_slug": "pika",
+  "family_display": "AI Selfes",
+  "model_slug": "ai-selfes",
+  "model_display": "AI Selfes",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AI Selfes",
+  "pika",
+  "ai-selfes",
+  "animation-motion",
+  "family:pika",
+  "model:ai-selfes",
+  "character",
+  "face",
+  "paid"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "pika"
+  ],
+  "versions": [
+   "pika"
+  ],
+  "features": [
+   "character",
+   "face"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "ai-selfes"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://pika.art/",
+   "host": "pika.art",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-15T01:07:00Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.pika.me/onboarding",
+   "host": "pika.me",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Pika transitioned from a Discord-based beta to a robust web platform. It recently introduced the 'AI Self' feature, evolving the 'AI Selfie' tool into a monetization ecosystem where users earn revenue from their digital clones.",
+  "latest_version": "Pika 1.5 (Oct 2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "Pika is an advanced generative AI platform that creates high-quality videos and animations from text, images, and video prompts. It offers specialized tools for character consistency, lip-syncing, and physics-based effects."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:07:00Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

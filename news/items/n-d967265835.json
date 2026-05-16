@@ -1,0 +1,152 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d967265835",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "LongCat-AudioDiT: High-Fidelity Waveform Latent Diffusion TTS",
+ "summary": "A state-of-the-art diffusion-based speech synthesis framework that operates directly in waveform latent space using Wav-VAE. It enables high-fidelity zero-shot voice cloning and natural speech generation with optimized inference.",
+ "research_notes": "Outperforms Seed-TTS on benchmarks for speaker similarity and naturalness; released under the MIT license for broad accessibility.",
+ "project": {
+  "name": "LongCat-AudioDiT",
+  "family_slug": "longcat-audiodit",
+  "family_display": "LongCat-AudioDiT",
+  "model_slug": "longcat-audiodit",
+  "model_display": "LongCat-AudioDiT",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LongCat-AudioDiT",
+  "longcat-audiodit",
+  "audio-music",
+  "family:longcat-audiodit",
+  "voice-clone",
+  "github",
+  "comfyui",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "longcat-audiodit"
+  ],
+  "versions": [
+   "longcat-audiodit"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://aria-k-alethia.github.io/LongCat-AudioDiT-demo/",
+   "host": "aria-k-alethia.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/meituan-longcat/LongCat-AudioDiT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:55:12Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/meituan-longcat/LongCat-AudioDiT-1B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/hysts/LongCat-AudioDiT-3.5B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-fp8",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/drbaph/LongCat-AudioDiT-3.5B-bf16",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a research prototype to a production-ready model suite including 3.5B and 1B variants. It introduced Adaptive Projection Guidance (APG) and gained full integration into the ComfyUI ecosystem.",
+  "latest_version": "LongCat-AudioDiT-3.5B (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "A state-of-the-art diffusion-based speech synthesis framework that operates directly in waveform latent space using Wav-VAE. It enables high-fidelity zero-shot voice cloning and natural speech generation with optimized inference."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:55:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-3ae3ddb34b",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX-2.3-22b-IC-LoRA-Outpaint Video Frame Extension",
+ "summary": "An Input-Conditioned LoRA for the LTX-2.3 22B model that enables video outpainting by using black pixels as mask sentinels. It generates temporally stable content to extend canvas dimensions while maintaining original scene consistency.",
+ "research_notes": "Requires pure black (0,0,0) for masking; widely used in ComfyUI with GGUF/FP8 variants for low-VRAM GPUs.",
+ "project": {
+  "name": "LTX-2.3 22B IC-LoRA Outpaint",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3 22B IC-LoRA Outpaint",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3 22B",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "Outpaint",
+   "base_model_slug": "ltx-2-3-22b"
+  }
+ },
+ "tags": [
+  "LTX-2.3 22B IC-LoRA Outpaint",
+  "LTX-2.3 22B",
+  "ltx",
+  "ltx-2-3-22b",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3-22b",
+  "adaptation:lora",
+  "lora-for:ltx-2-3-22b",
+  "lora",
+  "inpainting",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "inpainting"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx-2-3-22b"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/oumoumad/LTX-2.3-22b-IC-LoRA-Outpaint",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:19:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The base LTX-2.3 model evolved into a distilled v1.1 version with improved VAE for texture stability. Workflows now utilize a specific 'Gamma Trick' to prevent the model from misidentifying dark shadows as areas requiring outpainting.",
+  "latest_version": "LTX-2.3 v1.1 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "An Input-Conditioned LoRA for the LTX-2.3 22B model that enables video outpainting by using black pixels as mask sentinels. It generates temporally stable content to extend canvas dimensions while maintaining original scene consistency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:19:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

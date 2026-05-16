@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9e0a0fba7f",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Pixal3D: Pixel-Aligned 3D Generation by Tencent",
+ "summary": "A state-of-the-art framework by Tencent ARC Lab that generates high-fidelity 3D models with PBR textures from single images using a pixel-aligned back-projection scheme. It achieves near-reconstruction fidelity by directly lifting 2D features into 3D space.",
+ "research_notes": "Accepted to SIGGRAPH 2026; requires TRELLIS.2 environment for latest inference models.",
+ "project": {
+  "name": "Pixal3D",
+  "family_slug": "pixal3d",
+  "family_display": "Pixal3D",
+  "model_slug": "pixal3d",
+  "model_display": "Pixal3D",
+  "version": null,
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Pixal3D",
+  "pixal3d",
+  "3d",
+  "family:pixal3d",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "pixal3d"
+  ],
+  "versions": [
+   "pixal3d"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://ldyang694.github.io/projects/pixal3d/",
+   "host": "ldyang694.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/TencentARC/Pixal3D",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:30:21Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TencentARC/Pixal3D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/TencentARC/Pixal3D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally released using the Direct3D-S2 backbone, the project was upgraded in May 2026 to incorporate the TRELLIS.2 backbone for superior geometry and texture quality. The research was officially accepted to SIGGRAPH 2026 and now includes support for multi-view generation and modular scene-level synthesis.",
+  "latest_version": "V1.1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A state-of-the-art framework by Tencent ARC Lab that generates high-fidelity 3D models with PBR textures from single images using a pixel-aligned back-projection scheme. It achieves near-reconstruction fidelity by directly lifting 2D features into 3D space."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:30:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

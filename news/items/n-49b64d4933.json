@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-49b64d4933",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "UniRelight Joint Video Decomposition and Synthesis Framework",
+ "summary": "Developed by NVIDIA, UniRelight is a single-pass video relighting framework that jointly performs intrinsic decomposition and synthesis. It utilizes the 7B-parameter Cosmos-Predict1 foundation model to achieve high fidelity and temporal consistency in complex lighting scenarios.",
+ "research_notes": "Uses NVIDIA OneWay Noncommercial License; requires Cosmos-Predict1 backbone weights and Hugging Face access.",
+ "project": {
+  "name": "UniRelight",
+  "family_slug": "unirelight",
+  "family_display": "UniRelight",
+  "model_slug": "unirelight",
+  "model_display": "UniRelight",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniRelight",
+  "unirelight",
+  "diffusion-image",
+  "family:unirelight",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "unirelight"
+  ],
+  "versions": [
+   "unirelight"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/nv-tlabs/UniRelight",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:20:18Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/UniRelight",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its NeurIPS 2025 presentation, the code and weights were released in April 2026. It represents a shift to single-pass joint modeling using the NVIDIA Cosmos backbone, significantly outperforming previous multi-stage relighting pipelines.",
+  "latest_version": "UniRelight v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "Developed by NVIDIA, UniRelight is a single-pass video relighting framework that jointly performs intrinsic decomposition and synthesis. It utilizes the 7B-parameter Cosmos-Predict1 foundation model to achieve high fidelity and temporal consistency in complex lighting scenarios."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:20:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

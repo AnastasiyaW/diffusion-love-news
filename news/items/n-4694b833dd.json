@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-4694b833dd",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Pi-HOC: Pairwise 3D Human-Object Contact",
+ "summary": "An instance-aware framework for predicting dense 3D human-object contact from single images. It utilizes the InteractionFormer architecture and a SAM-based decoder to map contact masks onto SMPL human meshes in multi-person scenes.",
+ "research_notes": "Established new state-of-the-art results on the MMHOI and DAMON datasets, outperforming previous Vision-Language Models like InteractVLM.",
+ "project": {
+  "name": "Pi-HOC",
+  "family_slug": "pi-hoc",
+  "family_display": "Pi-HOC",
+  "model_slug": "pi-hoc",
+  "model_display": "Pi-HOC",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Pi-HOC",
+  "pi-hoc",
+  "3d",
+  "family:pi-hoc",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "pi-hoc"
+  ],
+  "versions": [
+   "pi-hoc"
+  ],
+  "features": [],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://pi-hoc.github.io/",
+   "host": "pi-hoc.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:15:21Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/SravanChittupalli/Pi-HOC",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the PICO-fit (2025) optimization-based approach to a single-pass transformer model. It introduced 'Referential Contact' allowing for natural language queries and significantly improved inference throughput for large-scale video processing.",
+  "latest_version": "Pi-HOC (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "An instance-aware framework for predicting dense 3D human-object contact from single images. It utilizes the InteractionFormer architecture and a SAM-based decoder to map contact masks onto SMPL human meshes in multi-person scenes."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:15:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

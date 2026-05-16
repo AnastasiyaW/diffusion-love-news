@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-110bebc860",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Spark 2.0: Large-Scale Web-Based Gaussian Splatting Engine",
+ "summary": "Spark 2.0 is a high-performance web-based rendering engine developed by World Labs for massive 3D Gaussian Splatting scenes. It implements hierarchical Level-of-Detail (LoD) and the streamable .RAD format to visualize environments with billions of splats in real-time.",
+ "research_notes": "Introduces a custom .RAD file format supporting HTTP Range requests for progressive loading and a Rust-powered LoD builder for processing billions of splats.",
+ "project": {
+  "name": "Spark 2.0",
+  "family_slug": "spark",
+  "family_display": "Spark",
+  "model_slug": "spark-2-0",
+  "model_display": "Spark 2.0",
+  "version": "2.0",
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spark 2.0",
+  "Spark",
+  "spark",
+  "spark-2-0",
+  "gaussian-splatting",
+  "family:spark",
+  "model:spark-2-0",
+  "realtime",
+  "edit",
+  "scene",
+  "github"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "spark"
+  ],
+  "versions": [
+   "spark-2-0"
+  ],
+  "features": [
+   "realtime",
+   "edit",
+   "scene"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "spark-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/sparkjsdev/spark/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:36:26Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://sparkjs.dev/",
+   "host": "sparkjs.dev",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://sparkjs.dev/viewer/",
+   "host": "sparkjs.dev",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the 2.0 launch, the engine added SparkXr for immersive WebXR support and experimental linear blend skinning for animated splats. It evolved from a simple renderer into a comprehensive streaming platform for composite 3D worlds.",
+  "latest_version": "v2.0.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "Spark 2.0 is a high-performance web-based rendering engine developed by World Labs for massive 3D Gaussian Splatting scenes. It implements hierarchical Level-of-Detail (LoD) and the streamable .RAD format to visualize environments with billions of splats in real-time."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:36:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

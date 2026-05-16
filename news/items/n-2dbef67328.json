@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2dbef67328",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "SlopLobster: Local Browser-Based AI Coding Assistant",
+ "summary": "A lightweight, open-source tool that enables autonomous AI-driven programming directly in the browser without requiring external API keys. It leverages local model execution to provide a simplified environment for agentic coding tasks and rapid experimentation.",
+ "research_notes": "Maintained by PasiKoodaa alongside other local-first tools like Chat-with-Screen and Screen-Analysis-Overlay.",
+ "project": {
+  "name": "SlopLobster",
+  "family_slug": "sloplobster",
+  "family_display": "SlopLobster",
+  "model_slug": "sloplobster",
+  "model_display": "SlopLobster",
+  "version": null,
+  "released": "2026-05-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SlopLobster",
+  "sloplobster",
+  "llm",
+  "family:sloplobster",
+  "realtime",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "sloplobster"
+  ],
+  "versions": [
+   "sloplobster"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/PasiKoodaa/SlopLobster",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:30:42Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Originally released as a satirical commentary on 'AI slop', the project evolved into a functional template for local-first browser-based agents. It is frequently cited in discussions regarding 'Vibe Coding' and the proliferation of low-effort autonomous AI systems.",
+  "latest_version": "Active Experimental State (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-09",
+  "excerpt": "A lightweight, open-source tool that enables autonomous AI-driven programming directly in the browser without requiring external API keys. It leverages local model execution to provide a simplified environment for agentic coding tasks and rapid experimentation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:30:42Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

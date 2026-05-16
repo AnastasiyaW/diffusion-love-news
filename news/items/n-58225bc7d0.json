@@ -1,0 +1,144 @@
+{
+ "schema_version": "1.2",
+ "id": "n-58225bc7d0",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Spectrum: Adaptive Spectral Feature Forecasting for Diffusion Acceleration",
+ "summary": "A training-free framework that accelerates diffusion sampling by modeling latent feature evolution with Chebyshev polynomials. It enables significant speedups for models like FLUX.1 and Wan2.1 while maintaining high image and video fidelity.",
+ "research_notes": "Developed by Stanford and ByteDance; uses global spectral forecasting to prevent compounding errors during inference.",
+ "project": {
+  "name": "Spectrum",
+  "family_slug": "spectrum",
+  "family_display": "Spectrum",
+  "model_slug": "spectrum",
+  "model_display": "Spectrum",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spectrum",
+  "spectrum",
+  "diffusion-video",
+  "family:spectrum",
+  "text-to-video",
+  "github",
+  "paper",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "spectrum"
+  ],
+  "versions": [
+   "spectrum"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://hanjq17.github.io/Spectrum/",
+   "host": "hanjq17.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/hanjq17/Spectrum",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:43:50Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xmarre/ComfyUI-Spectrum-WAN-Proper",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xmarre/ComfyUI-Spectrum-Proper",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xmarre/ComfyUI-Spectrum-SDXL-Proper",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1s5d6uv/update_spectrum_for_wan_fixed_156x_speedup_in_my/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Accepted to CVPR 2026, the project expanded support to include FLUX.1, Wan2.1, and HunyuanVideo. It has been integrated into the ComfyUI ecosystem via community-developed nodes.",
+  "latest_version": "CVPR 2026 (support for Wan2.1/FLUX.1)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A training-free framework that accelerates diffusion sampling by modeling latent feature evolution with Chebyshev polynomials. It enables significant speedups for models like FLUX.1 and Wan2.1 while maintaining high image and video fidelity."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:43:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

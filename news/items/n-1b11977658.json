@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1b11977658",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI Hires Fix Ultra All-in-One Node",
+ "summary": "A comprehensive custom node for ComfyUI that streamlines the high-resolution fix process by consolidating multiple upscaling steps into one interface. It includes built-in tiled VAE processing and color correction to prevent OOM errors and desaturation during latent upscaling.",
+ "research_notes": "Regarded as a faster, more user-friendly alternative to Ultimate SD Upscale for daily 1.5x–4.0x image enhancements.",
+ "project": {
+  "name": "ComfyUI Hires Fix Ultra",
+  "family_slug": "comfyui-hires-fix",
+  "family_display": "ComfyUI Hires Fix Ultra",
+  "model_slug": "comfyui-hires-fix",
+  "model_display": "ComfyUI Hires Fix",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Hires Fix Ultra",
+  "ComfyUI Hires Fix",
+  "comfyui-hires-fix",
+  "tools-frontend",
+  "family:comfyui-hires-fix",
+  "upscale",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "comfyui-hires-fix"
+  ],
+  "versions": [
+   "comfyui-hires-fix"
+  ],
+  "features": [
+   "upscale"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ThetaCursed/ComfyUI-HiresFix-Ultra-AllInOne",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:22:11Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a complex 6-node workflow into a single-node solution to eliminate 'spaghetti' workflows in ComfyUI. Recent updates have integrated Deep Histogram color matching and improved compatibility with FLUX.1 models via ComfyUI Manager.",
+  "latest_version": "Initial Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A comprehensive custom node for ComfyUI that streamlines the high-resolution fix process by consolidating multiple upscaling steps into one interface. It includes built-in tiled VAE processing and color correction to prevent OOM errors and desaturation during latent upscaling."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:22:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

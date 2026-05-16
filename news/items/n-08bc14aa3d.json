@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.2",
+ "id": "n-08bc14aa3d",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Superwhisper: Universal AI Speech-to-Text for Desktop and Mobile",
+ "summary": "An offline-first AI transcription tool that uses Whisper models to convert speech to text across multiple platforms. It features customizable modes and agentic workflows for polishing text into specific formats using local or cloud LLMs.",
+ "research_notes": "Supports offline processing on Apple Silicon and Bring Your Own Key (BYOK) for models like GPT-5.5 and Claude 4.7.",
+ "project": {
+  "name": "Superwhisper",
+  "family_slug": "superwhisper",
+  "family_display": "Superwhisper",
+  "model_slug": "superwhisper",
+  "model_display": "Superwhisper",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Superwhisper",
+  "superwhisper",
+  "audio-music",
+  "family:superwhisper",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "superwhisper"
+  ],
+  "versions": [
+   "superwhisper"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://superwhisper.com/",
+   "host": "superwhisper.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:52:45Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from a simple Mac dictation utility to a multi-platform agentic ecosystem with deep integration for local and cloud LLMs. Added 'Modes' for task-specific formatting and SOC 2/HIPAA compliance for enterprise use.",
+  "latest_version": "2.13.2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "An offline-first AI transcription tool that uses Whisper models to convert speech to text across multiple platforms. It features customizable modes and agentic workflows for polishing text into specific formats using local or cloud LLMs."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:52:45Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-af1e479850",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Muffins Flat 2: ComfyUI VR Panoramic Nodes",
+ "summary": "A suite of ComfyUI nodes for creating immersive VR-panoramas by outpainting standard video content. It utilizes LTX-Video 2.3 for panoramic expansion and supports VR180, 360 equirectangular, and fisheye projections.",
+ "research_notes": "Includes a VRAM-aware installer and specialized nodes for side-by-side (SBS) 3D depth generation.",
+ "project": {
+  "name": "Muffins Flat 2 Panoramic Node",
+  "family_slug": "muffins-vr",
+  "family_display": "Muffins Flat 2 Panoramic Node",
+  "model_slug": "muffins-flat-2-panoramic-node",
+  "model_display": "Muffins Flat 2 Panoramic Node",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Muffins Flat 2 Panoramic Node",
+  "muffins-vr",
+  "muffins-flat-2-panoramic-node",
+  "tools-frontend",
+  "family:muffins-vr",
+  "model:muffins-flat-2-panoramic-node",
+  "edit",
+  "animation",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "muffins-vr"
+  ],
+  "versions": [
+   "muffins-vr"
+  ],
+  "features": [
+   "edit",
+   "animation"
+  ],
+  "formats": [],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "muffins-flat-2-panoramic-node"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Ragamuffin20/Muffins-Flat-2-Panoramic-node",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:31:07Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.patreon.com/posts/make-any-video-2-156226420",
+   "host": "patreon.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=c5Dj_0qZBLs",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from basic stereo utility nodes to a comprehensive panoramic outpainting system integrated with LTX-Video 2.3 for field-of-view expansion.",
+  "latest_version": "Muffins Flat 2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "A suite of ComfyUI nodes for creating immersive VR-panoramas by outpainting standard video content. It utilizes LTX-Video 2.3 for panoramic expansion and supports VR180, 360 equirectangular, and fisheye projections."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:31:07Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

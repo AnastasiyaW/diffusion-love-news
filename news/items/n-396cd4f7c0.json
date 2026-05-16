@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-396cd4f7c0",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "MotionDeblur IC-LoRA for LTX-2.3 Video Restoration",
+ "summary": "A specialized In-Context LoRA (IC-LoRA) for the Lightricks LTX-2.3 (22B) model designed to remove motion blur and per-frame smearing. It functions as a video-to-video restoration tool, reconstructing sharp frames using the blurred source as conditioning.",
+ "research_notes": "Requires the specialized LTXICLoRALoaderModelOnly node for implementation within ComfyUI pipelines.",
+ "project": {
+  "name": "LTX-2.3 22B IC-LoRA MotionDeblur",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3 22B IC-LoRA MotionDeblur",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3 22B",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "MotionDeblur",
+   "base_model_slug": "ltx-2-3-22b"
+  }
+ },
+ "tags": [
+  "LTX-2.3 22B IC-LoRA MotionDeblur",
+  "LTX-2.3 22B",
+  "ltx",
+  "ltx-2-3-22b",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3-22b",
+  "adaptation:lora",
+  "lora-for:ltx-2-3-22b",
+  "lora",
+  "edit",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "ltx-2-3-22b"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/oumoumad/LTX-2.3-22b-IC-LoRA-MotionDeblur",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:48:34Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Expanded into a comprehensive Video Restoration Suite for LTX-2.3, including ReFocus (lens blur), Deinterlace, and Uncompress tools. The project is now central to the LTX Collaborations organization, providing professional-grade restoration workflows.",
+  "latest_version": "LTX-2.3 Video Restoration Suite (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "A specialized In-Context LoRA (IC-LoRA) for the Lightricks LTX-2.3 (22B) model designed to remove motion blur and per-frame smearing. It functions as a video-to-video restoration tool, reconstructing sharp frames using the blurred source as conditioning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:48:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

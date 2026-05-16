@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-af7e0341d4",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "GPT Image 2 (OpenAI)",
+ "summary": "A unified multimodal foundation model from OpenAI released in April 2026 that replaced the DALL-E series. It introduces native reasoning ('Thinking Mode'), near-perfect typography across multiple scripts, and native 4K resolution support.",
+ "research_notes": "First image generation model to feature a native reasoning step for complex spatial planning and self-correction. Available via API as gpt-image-2.",
+ "project": {
+  "name": "GPT Image 2",
+  "family_slug": "gpt-image",
+  "family_display": "GPT Image",
+  "model_slug": "gpt-image-2",
+  "model_display": "GPT Image 2",
+  "version": "2",
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT Image 2",
+  "GPT Image",
+  "gpt-image",
+  "gpt-image-2",
+  "diffusion-image",
+  "family:gpt-image",
+  "model:gpt-image-2",
+  "text-to-image",
+  "closed"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "gpt-image"
+  ],
+  "versions": [
+   "gpt-image-2"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "gpt-image-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://openai.com/index/gpt-image-2/",
+   "host": "openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:46:13Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially succeeded DALL-E 3; OpenAI retired the entire DALL-E brand on May 12, 2026, to consolidate image generation under the GPT multimodal architecture. It currently leads the Image Arena leaderboard.",
+  "latest_version": "GPT Image 2 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "A unified multimodal foundation model from OpenAI released in April 2026 that replaced the DALL-E series. It introduces native reasoning ('Thinking Mode'), near-perfect typography across multiple scripts, and native 4K resolution support."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:46:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

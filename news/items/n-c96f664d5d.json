@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c96f664d5d",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Habitat-GS: Gaussian Splatting Simulator for Robot Navigation",
+ "summary": "A high-fidelity navigation simulator that integrates 3D Gaussian Splatting into the Meta Habitat ecosystem. It enables photorealistic RGB and depth rendering for training autonomous agents while maintaining compatibility with traditional navigation meshes and physics.",
+ "research_notes": "Introduces visual-navigation decoupling where 3DGS handles appearance while NavMeshes handle collisions. Supports dynamic humanoid avatars from GaussianAvatar for human-aware navigation training.",
+ "project": {
+  "name": "Habitat-GS",
+  "family_slug": "habitat-gs",
+  "family_display": "Habitat-GS",
+  "model_slug": "habitat-gs",
+  "model_display": "Habitat-GS",
+  "version": null,
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Habitat-GS",
+  "habitat-gs",
+  "gaussian-splatting",
+  "family:habitat-gs",
+  "realtime",
+  "training",
+  "scene",
+  "github"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "habitat-gs"
+  ],
+  "versions": [
+   "habitat-gs"
+  ],
+  "features": [
+   "realtime",
+   "training",
+   "scene"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://zju3dv.github.io/habitat-gs/",
+   "host": "zju3dv.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://aihabitat.org/",
+   "host": "aihabitat.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/zju3dv/habitat-gs",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:34:24Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially released in April 2026 with 65 high-quality scenes. As of May 2026, it has been updated with interactive Gaussian scenes and an LLM-powered HabitatAgent demo that supports natural language navigation.",
+  "latest_version": "Habitat-GS v1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "A high-fidelity navigation simulator that integrates 3D Gaussian Splatting into the Meta Habitat ecosystem. It enables photorealistic RGB and depth rendering for training autonomous agents while maintaining compatibility with traditional navigation meshes and physics."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:34:24Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

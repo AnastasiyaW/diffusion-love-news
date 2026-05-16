@@ -1,0 +1,119 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ccb2a502fb",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Adaptive Spatio-Temporal 3D Gaussian Splatting",
+ "summary": "A framework for dynamic scene reconstruction that uses adaptive space-time densification to model complex oscillatory motions such as vegetation in wind or water ripples. It achieves high-fidelity 4D rendering by refining primitives based on motion variance and error moments.",
+ "research_notes": "Introduced a weighted Adam optimizer and image-driven as-rigid-as-possible (ARAP) regularization now widely used in real-time VR/AR rendering pipelines.",
+ "project": {
+  "name": "Adaptive Spatio-Temporal 3DGS",
+  "family_slug": "gaussian-splatting",
+  "family_display": "Adaptive Spatio-Temporal",
+  "model_slug": "adaptive-spatio-temporal-3dgs",
+  "model_display": "Adaptive Spatio-Temporal 3DGS",
+  "version": "3DGS",
+  "released": "2026-05-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Adaptive Spatio-Temporal 3DGS",
+  "Adaptive Spatio-Temporal",
+  "gaussian-splatting",
+  "adaptive-spatio-temporal-3dgs",
+  "family:gaussian-splatting",
+  "model:adaptive-spatio-temporal-3dgs",
+  "realtime",
+  "github",
+  "paper",
+  "gaussian-splatting-3dgs",
+  "open"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "gaussian-splatting"
+  ],
+  "versions": [
+   "gaussian-splatting-3dgs"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "adaptive-spatio-temporal-3dgs"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/graphdeco-inria/adaptive-spatio-temporal",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-14T18:21:16Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://repo-sam.inria.fr/nerphys/adaptive-spatio-temporal/",
+   "host": "repo-sam.inria.fr",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/graphdeco/adaptive-spatio-temporal-gaussians",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from static 3DGS (2023) and fixed-interval 4DGS (2024) into an adaptive densification model presented at Eurographics 2026. It replaces rigid temporal intervals with motion-aware refinement, significantly improving performance on stochastic dynamic scenes.",
+  "latest_version": "Eurographics 2026 Version",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-11",
+  "excerpt": "A framework for dynamic scene reconstruction that uses adaptive space-time densification to model complex oscillatory motions such as vegetation in wind or water ripples. It achieves high-fidelity 4D rendering by refining primitives based on motion variance and error moments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:21:16Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

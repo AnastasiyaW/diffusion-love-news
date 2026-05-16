@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0948d8e4a5",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "CutClaw: Agentic Multi-Agent Music-Synchronized Video Editing",
+ "summary": "CutClaw is an end-to-end multi-agent framework that automates the editing of hours-long video footage into music-synchronized shorts. It employs a pipeline of specialized agents—Playwriter, Editor, and Reviewer—to handle narrative planning and rhythmic alignment.",
+ "research_notes": "The system utilizes LiteLLM for model orchestration and extracts musical beats and energy signals to ensure edits align with rhythmic shifts.",
+ "project": {
+  "name": "CutClaw",
+  "family_slug": "cutclaw",
+  "family_display": "CutClaw",
+  "model_slug": "cutclaw",
+  "model_display": "CutClaw",
+  "version": null,
+  "released": "2026-04-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CutClaw",
+  "cutclaw",
+  "diffusion-video",
+  "family:cutclaw",
+  "edit",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "cutclaw"
+  ],
+  "versions": [
+   "cutclaw"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/GVCLab/CutClaw",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:51:10Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Since its release alongside the paper in March 2026, the project has moved toward ecosystem integration. Current roadmap priorities include ARC-Chapter integration for reduced computational costs, a low-cost selective footage reading mode, and future support for Claude Code MCP.",
+  "latest_version": "Active Development (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-04",
+  "excerpt": "CutClaw is an end-to-end multi-agent framework that automates the editing of hours-long video footage into music-synchronized shorts. It employs a pipeline of specialized agents—Playwriter, Editor, and Reviewer—to handle narrative planning and rhythmic alignment."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:51:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

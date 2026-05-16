@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d192447768",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "JoyAI-Image: Unified Multimodal Foundation Model",
+ "summary": "A unified open-source model by JD Open Source that integrates image understanding, generation, and precise instruction-guided editing. It combines an 8B reasoning VLM with a 16B diffusion transformer to perform complex spatial manipulations like object relocation.",
+ "research_notes": "Supports advanced editing tasks including object rotation, 3D camera adjustments, and high-fidelity text rendering. The reasoning engine is based on Qwen3-VL.",
+ "project": {
+  "name": "JoyAI-Image",
+  "family_slug": "joyai-image",
+  "family_display": "JoyAI-Image",
+  "model_slug": "joyai-image",
+  "model_display": "JoyAI-Image",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "JoyAI-Image",
+  "joyai-image",
+  "vlm",
+  "family:joyai-image",
+  "image-to-image",
+  "edit",
+  "text-to-image",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "joyai-image"
+  ],
+  "versions": [
+   "joyai-image"
+  ],
+  "features": [
+   "image-to-image",
+   "edit",
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jd-opensource/JoyAI-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:52:39Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/jdopensource/JoyAI-Image-Edit",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released official ComfyUI and Diffusers library support in April 2026. Published a comprehensive technical report and the OpenSpatial-3M dataset in May 2026 to facilitate research into spatially-aware image editing and camera control.",
+  "latest_version": "JoyAI-Image v1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A unified open-source model by JD Open Source that integrates image understanding, generation, and precise instruction-guided editing. It combines an 8B reasoning VLM with a 16B diffusion transformer to perform complex spatial manipulations like object relocation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:52:39Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

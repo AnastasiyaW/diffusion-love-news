@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-3b297c8441",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "World Labs Marble: Generative 3D World Models",
+ "summary": "A spatial intelligence platform that generates persistent and navigable 3D environments from text, images, or video using Gaussian Splatting. It provides high-fidelity world generation for creators, developers, and robotics training.",
+ "research_notes": "Founded by Dr. Fei-Fei Li; employs 3D Gaussian Splatting to ensure geometric stability and photorealism across generated worlds.",
+ "project": {
+  "name": "Marble 1.1",
+  "family_slug": "marble",
+  "family_display": "Marble",
+  "model_slug": "marble-1-1",
+  "model_display": "Marble 1.1",
+  "version": "1.1",
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Marble 1.1",
+  "Marble",
+  "marble",
+  "marble-1-1",
+  "3d",
+  "family:marble",
+  "model:marble-1-1",
+  "edit",
+  "paid"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "marble"
+  ],
+  "versions": [
+   "marble-1-1"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "marble-1-1"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://worldlabs.ai",
+   "host": "worldlabs.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:55:23Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://radiancefields.com/world-labs-releases-marble-1.1-and-marble-1.1-plus",
+   "host": "radiancefields.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://marble.worldlabs.ai/create",
+   "host": "marble.worldlabs.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The platform evolved from a research preview to a commercial ecosystem with the release of version 1.1 and 1.1 Plus, featuring Dynamic Cubes for massive landscapes and the Chisel editor for manual layout control.",
+  "latest_version": "Marble 1.1 / 1.1 Plus (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A spatial intelligence platform that generates persistent and navigable 3D environments from text, images, or video using Gaussian Splatting. It provides high-fidelity world generation for creators, developers, and robotics training."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:55:23Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

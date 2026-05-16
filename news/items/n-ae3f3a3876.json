@@ -1,0 +1,92 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ae3f3a3876",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Gemma Gem: Local Browser AI Agent via WebGPU",
+ "summary": "A fully autonomous AI agent that runs locally in the browser using hardware-accelerated WebGPU and Google's Gemma 4 models. It performs web navigation, form filling, and JS execution without requiring external API keys or cloud connections.",
+ "research_notes": "Privacy-first architecture using Chrome extensions; requires a WebGPU-compatible browser.",
+ "project": {
+  "name": "Gemma Gem",
+  "family_slug": "gemma",
+  "family_display": "Gemma Gem",
+  "model_slug": "gemma",
+  "model_display": "Gemma",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemma Gem",
+  "Gemma",
+  "gemma",
+  "llm",
+  "family:gemma",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gemma"
+  ],
+  "versions": [
+   "gemma"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/kessler/gemma-gem",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:07:37Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Leverages the Gemma 4 model family released in April 2026, which introduced 'Thinking Mode' and massive improvements in agentic reasoning. The project currently supports quantized E2B and E4B models for optimized on-device performance.",
+  "latest_version": "Gemma 4 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A fully autonomous AI agent that runs locally in the browser using hardware-accelerated WebGPU and Google's Gemma 4 models. It performs web navigation, form filling, and JS execution without requiring external API keys or cloud connections."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:07:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

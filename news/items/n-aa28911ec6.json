@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-aa28911ec6",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Sapiens2: Meta's Foundation Models for Human-Centric Vision",
+ "summary": "Sapiens2 is a suite of foundation models from Meta AI designed for precise human body reconstruction and analysis from single images. It supports 2D pose estimation, body-part segmentation, surface normals, and 3D geometry recovery at up to 4K resolution.",
+ "research_notes": "The model tracks 308 keypoints and is released under the Sapiens2 License with weights available on Hugging Face.",
+ "project": {
+  "name": "Sapiens2",
+  "family_slug": "sapiens",
+  "family_display": "Sapiens2",
+  "model_slug": "sapiens2",
+  "model_display": "Sapiens2",
+  "version": null,
+  "released": "2026-05-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sapiens2",
+  "sapiens",
+  "sapiens2",
+  "animation-motion",
+  "family:sapiens",
+  "model:sapiens2",
+  "mocap",
+  "pose",
+  "segmentation",
+  "normal-map",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "sapiens"
+  ],
+  "versions": [
+   "sapiens"
+  ],
+  "features": [
+   "mocap",
+   "pose",
+   "segmentation",
+   "normal-map"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "sapiens2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/sapiens2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:03:09Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/facebook/sapiens2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Sapiens2 scales the original 2024 project to 1 billion training images and 5 billion parameters. It introduces pointmap and albedo estimation alongside significantly improved performance in pose and segmentation tasks.",
+  "latest_version": "Sapiens2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-03",
+  "excerpt": "Sapiens2 is a suite of foundation models from Meta AI designed for precise human body reconstruction and analysis from single images. It supports 2D pose estimation, body-part segmentation, surface normals, and 3D geometry recovery at up to 4K resolution."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:03:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

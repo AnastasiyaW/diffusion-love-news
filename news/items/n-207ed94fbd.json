@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-207ed94fbd",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "MUA: Mobile Ultra-detailed Animatable Avatars",
+ "summary": "MUA is a mobile-optimized framework for rendering high-fidelity digital humans with complex clothing dynamics. It distills server-grade visual quality into a lightweight format capable of running at 24 FPS on standalone hardware like Meta Quest 3.",
+ "research_notes": "Achieves over 180 FPS on desktop hardware and 24 FPS on Meta Quest 3; supports dynamic relighting and self-shadowing.",
+ "project": {
+  "name": "Mobile Ultra-detailed Animatable Avatars",
+  "family_slug": "uma",
+  "family_display": "Mobile Ultra-detailed Animatable Avatars",
+  "model_slug": "mobile-ultra-detailed-animatable-avatars",
+  "model_display": "Mobile Ultra-detailed Animatable Avatars",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Mobile Ultra-detailed Animatable Avatars",
+  "uma",
+  "mobile-ultra-detailed-animatable-avatars",
+  "animation-motion",
+  "family:uma",
+  "model:mobile-ultra-detailed-animatable-avatars",
+  "realtime",
+  "character",
+  "animation"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "uma"
+  ],
+  "versions": [
+   "uma"
+  ],
+  "features": [
+   "realtime",
+   "character",
+   "animation"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "mobile-ultra-detailed-animatable-avatars"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://vcai.mpi-inf.mpg.de/projects/MUA/",
+   "host": "vcai.mpi-inf.mpg.de",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:41:42Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://vcai.mpi-inf.mpg.de/projects/UMA/",
+   "host": "vcai.mpi-inf.mpg.de",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Developed as the mobile-ready 'student' model of the high-end UMA project, MUA reduces computational costs by 2000x. It uses wavelet spectral decomposition to maintain extreme skin and clothing detail while achieving real-time performance on mobile GPUs.",
+  "latest_version": "MUA (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "MUA is a mobile-optimized framework for rendering high-fidelity digital humans with complex clothing dynamics. It distills server-grade visual quality into a lightweight format capable of running at 24 FPS on standalone hardware like Meta Quest 3."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:41:42Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

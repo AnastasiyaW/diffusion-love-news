@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5cac0a3186",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Luma Agents: Multimodal AI Creative Collaborators",
+ "summary": "Luma Agents are autonomous AI collaborators designed to manage end-to-end creative workflows from initial brief to final delivery. Powered by the Uni-1 reasoning model, they orchestrate text, image, video, and audio generation within a unified 'Creative Operating System'.",
+ "research_notes": "Luma Agents have been adopted by major global advertising agencies like Publicis Groupe for localized high-budget campaign execution.",
+ "project": {
+  "name": "Luma Agents",
+  "family_slug": "luma",
+  "family_display": "Luma Agents",
+  "model_slug": "luma",
+  "model_display": "Luma",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Luma Agents",
+  "Luma",
+  "luma",
+  "llm",
+  "family:luma",
+  "text-to-video",
+  "text-to-image",
+  "web-demo",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "luma"
+  ],
+  "versions": [
+   "luma"
+  ],
+  "features": [
+   "text-to-video",
+   "text-to-image"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://lumalabs.ai/agents",
+   "host": "lumalabs.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:09:16Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://app.lumalabs.ai/?seed=984aa029-e3fb-42a6-bcfa-f157330bfdcc",
+   "host": "app.lumalabs.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Luma AI transitioned from standalone generative tools like Dream Machine to a full orchestration layer with Luma Agents in early 2026. The system now utilizes the Ray3 reasoning video model and the Uni-1 multimodal transformer to handle complex, persistent project contexts.",
+  "latest_version": "Uni-1.1 API (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "Luma Agents are autonomous AI collaborators designed to manage end-to-end creative workflows from initial brief to final delivery. Powered by the Uni-1 reasoning model, they orchestrate text, image, video, and audio generation within a unified 'Creative Operating System'."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:09:16Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

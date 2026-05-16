@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-73d2d5938e",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Superset Parallel AI Agent Orchestrator",
+ "summary": "An open-source terminal and IDE orchestrator designed for parallel execution of multiple AI coding agents. It uses Git worktrees to isolate agent tasks, preventing file conflicts and context mixing during concurrent development.",
+ "research_notes": "Key technical features include Git worktree isolation for branch-level task separation and Electric SQL for real-time synchronization across workspaces.",
+ "project": {
+  "name": "Superset",
+  "family_slug": "superset",
+  "family_display": "Superset",
+  "model_slug": "superset",
+  "model_display": "Superset",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Superset",
+  "superset",
+  "llm",
+  "family:superset",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "superset"
+  ],
+  "versions": [
+   "superset"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/superset-sh/superset",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:58:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from local-only orchestration to a remote-first model in version 2.0, adding Cloud Workspaces and a standalone CLI. It expanded from supporting Claude Code and Codex to an agnostic ecosystem including Cursor and Gemini CLI.",
+  "latest_version": "Superset 2.0 Open Beta (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "An open-source terminal and IDE orchestrator designed for parallel execution of multiple AI coding agents. It uses Git worktrees to isolate agent tasks, preventing file conflicts and context mixing during concurrent development."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:58:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a6a4ba2d0f",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Cursor: The AI-Native Code Editor",
+ "summary": "An AI-powered integrated development environment built as a fork of VS Code to provide deep codebase context. It enables autonomous software engineering through cloud-based agents, multi-file editing, and real-time AI assistance.",
+ "research_notes": "Credited with popularizing 'vibe coding,' where developers focus on architectural intent while autonomous agents handle end-to-end implementation.",
+ "project": {
+  "name": "Cursor 3",
+  "family_slug": "cursor",
+  "family_display": "Cursor",
+  "model_slug": "cursor-3",
+  "model_display": "Cursor 3",
+  "version": "3",
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Cursor 3",
+  "Cursor",
+  "cursor",
+  "cursor-3",
+  "llm",
+  "family:cursor",
+  "model:cursor-3",
+  "paid"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "cursor"
+  ],
+  "versions": [
+   "cursor-3"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "cursor-3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://cursor.com",
+   "host": "cursor.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:58:23Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://cursor.com/blog/cursor-3",
+   "host": "cursor.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://cursor.com/home",
+   "host": "cursor.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Shifted from basic autocomplete to an autonomous platform with Background Agents and Composer 2.0. Introduced proprietary coding models and automated PR reviews via BugBot. Achieved significant market dominance with over $2 billion ARR by early 2026.",
+  "latest_version": "Cursor v3.4 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "An AI-powered integrated development environment built as a fork of VS Code to provide deep codebase context. It enables autonomous software engineering through cloud-based agents, multi-file editing, and real-time AI assistance."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:58:23Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

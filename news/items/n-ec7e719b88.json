@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ec7e719b88",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Phi-Ground-Any: Microsoft GUI Grounding Multimodal Model",
+ "summary": "A 4B-parameter visual language model specialized in GUI grounding for precise screen element localization. It enables AI agents to interact with complex interfaces across diverse resolutions and aspect ratios.",
+ "research_notes": "Outperforms OpenAI Operator and Claude Computer Use in GUI click accuracy benchmarks despite its compact size.",
+ "project": {
+  "name": "Phi-Ground-Any",
+  "family_slug": "phi",
+  "family_display": "Phi-Ground-Any",
+  "model_slug": "phi",
+  "model_display": "Phi",
+  "version": null,
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Phi-Ground-Any",
+  "Phi",
+  "phi",
+  "vlm",
+  "family:phi",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "phi"
+  ],
+  "versions": [
+   "phi"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://microsoft.github.io/Phi-Ground/",
+   "host": "microsoft.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/microsoft/Phi-Ground",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:35:08Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/microsoft/Phi-Ground",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the Phi-Ground-4B-7C research model into an official Microsoft project integrated into Windows Copilot's 'Vision Highlighting'. The current 'Any' version features improved robustness for 4K screens and high-resolution UI interaction.",
+  "latest_version": "Phi-Ground-Any (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A 4B-parameter visual language model specialized in GUI grounding for precise screen element localization. It enables AI agents to interact with complex interfaces across diverse resolutions and aspect ratios."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:35:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

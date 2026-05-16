@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e63a0d4512",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "M-XR Image-to-Material Production PBR Generation",
+ "summary": "A foundational AI model that generates production-grade PBR material maps from a single image or video. It leverages proprietary measured data to produce physically accurate textures for 3D rendering and game engines.",
+ "research_notes": "Trained on the 'Marso Measure' dataset, the world's largest library of measured material properties. The company raised $7M in 2026 to scale its material intelligence infrastructure.",
+ "project": {
+  "name": "Image-to-Material",
+  "family_slug": "m-xr",
+  "family_display": "Image-to-Material",
+  "model_slug": "image-to-material",
+  "model_display": "Image-to-Material",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Image-to-Material",
+  "m-xr",
+  "image-to-material",
+  "3d",
+  "family:m-xr",
+  "model:image-to-material",
+  "image-to-image",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "m-xr"
+  ],
+  "versions": [
+   "m-xr"
+  ],
+  "features": [
+   "image-to-image"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "image-to-material"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.m-xr.com/",
+   "host": "m-xr.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:06:03Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.m-xr.com/image-to-material",
+   "host": "m-xr.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://marso.app/",
+   "host": "marso.app",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from a capture service into the I2M foundational model and API. It is now integrated into the Marso Studio platform, focusing on automated PBR generation and retexturing of photogrammetry assets.",
+  "latest_version": "I2M (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "A foundational AI model that generates production-grade PBR material maps from a single image or video. It leverages proprietary measured data to produce physically accurate textures for 3D rendering and game engines."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:06:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

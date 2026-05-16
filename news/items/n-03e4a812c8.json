@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-03e4a812c8",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "OmniShow: Unified Multimodal Human-Object Interaction Video Generation",
+ "summary": "OmniShow is an end-to-end framework for generating high-fidelity videos of humans interacting with objects using images, audio, and poses. It specializes in precise motion control and lip-sync for e-commerce and digital avatar applications.",
+ "research_notes": "Developed by ByteDance in collaboration with major research universities including CUHK and HKU.",
+ "project": {
+  "name": "OmniShow",
+  "family_slug": "omnishow",
+  "family_display": "OmniShow",
+  "model_slug": "omnishow",
+  "model_display": "OmniShow",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniShow",
+  "omnishow",
+  "animation-motion",
+  "family:omnishow",
+  "animation",
+  "lip-sync",
+  "pose",
+  "character",
+  "github"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "omnishow"
+  ],
+  "versions": [
+   "omnishow"
+  ],
+  "features": [
+   "animation",
+   "lip-sync",
+   "pose",
+   "character"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://correr-zhou.github.io/OmniShow/",
+   "host": "correr-zhou.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Correr-Zhou/OmniShow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:50:03Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in April 2026 for ICML, OmniShow introduced the RAP2V framework and the HOIVG-Bench evaluation benchmark. It currently stands as a primary solution for unified multimodal conditioning in video generation.",
+  "latest_version": "April 2026",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "OmniShow is an end-to-end framework for generating high-fidelity videos of humans interacting with objects using images, audio, and poses. It specializes in precise motion control and lip-sync for e-commerce and digital avatar applications."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:50:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

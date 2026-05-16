@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-cfec66a95b",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "AgentOfficeSuite (AOSE) — Collaborative Office Suite for Humans and AI Agents",
+ "summary": "A local-first office suite designed for real-time collaboration between humans and AI agents across documents, databases, slides, and flowcharts. It allows agents to interact directly with live objects instead of static chat messages, featuring a comprehensive agent-traceable version history.",
+ "research_notes": "Uses Model Context Protocol (MCP) to expose tools to agents; deployment is managed via the 'aose-main' npm package.",
+ "project": {
+  "name": "AgentOfficeSuite",
+  "family_slug": "aose",
+  "family_display": "AgentOfficeSuite",
+  "model_slug": "agentofficesuite",
+  "model_display": "AgentOfficeSuite",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AgentOfficeSuite",
+  "aose",
+  "agentofficesuite",
+  "llm",
+  "family:aose",
+  "model:agentofficesuite",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "aose"
+  ],
+  "versions": [
+   "aose"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "agentofficesuite"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/manpoai/AgentOfficeSuite",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:44:53Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from a research prototype to a production-ready local service with MCP integration. It now supports major agent platforms like Claude Code and Gemini CLI, offering deep traceability for agent-made edits.",
+  "latest_version": "AOSE Production (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "A local-first office suite designed for real-time collaboration between humans and AI agents across documents, databases, slides, and flowcharts. It allows agents to interact directly with live objects instead of static chat messages, featuring a comprehensive agent-traceable version history."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:44:53Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

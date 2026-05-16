@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-33f31b6935",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "MOSS-Audio-8B-Thinking",
+ "summary": "An open-source audio foundation model designed for complex audio reasoning and timestamped transcription using Chain-of-Thought capabilities. It leverages a Qwen3-8B backbone and cross-layer feature injection to maintain high-fidelity acoustic details.",
+ "research_notes": "Achieves state-of-the-art performance in audio reasoning benchmarks, outperforming much larger models like Step-Audio-R1 33B.",
+ "project": {
+  "name": "MOSS-Audio-8B-Thinking Demo",
+  "family_slug": "moss-audio",
+  "family_display": "MOSS-Audio-8B-Thinking Demo",
+  "model_slug": "moss-audio-8b",
+  "model_display": "MOSS-Audio-8B",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MOSS-Audio-8B-Thinking Demo",
+  "MOSS-Audio-8B",
+  "moss-audio",
+  "moss-audio-8b",
+  "audio-music",
+  "family:moss-audio",
+  "model:moss-audio-8b",
+  "web-demo",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "moss-audio"
+  ],
+  "versions": [
+   "moss-audio"
+  ],
+  "features": [],
+  "formats": [
+   "web-demo",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "moss-audio-8b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenMOSS/MOSS-Audio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:26:21Z"
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-Audio-8B-Thinking",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "After the initial MOSS-Audio release in April 2026, the team expanded the family with MOSS-Music-8B in May 2026 for specialized music QA. The project has since added full support for SGLang serving and comprehensive LoRA fine-tuning workflows.",
+  "latest_version": "MOSS-Music-8B (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "An open-source audio foundation model designed for complex audio reasoning and timestamped transcription using Chain-of-Thought capabilities. It leverages a Qwen3-8B backbone and cross-layer feature injection to maintain high-fidelity acoustic details."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:26:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

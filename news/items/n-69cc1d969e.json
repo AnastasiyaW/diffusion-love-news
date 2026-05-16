@@ -1,0 +1,128 @@
+{
+ "schema_version": "1.2",
+ "id": "n-69cc1d969e",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX-2.3 EditAnything IC-LoRA",
+ "summary": "An experimental In-Context LoRA designed for the LTX-2.3 video model that enables prompt-driven video editing. It allows users to add, remove, or replace objects and change styles using specific natural language instructions without manual masking.",
+ "research_notes": "Optimal performance requires specific prompt structures and CFG settings (typically CFG 1.0); often bundled with specialized ComfyUI workflows for low-VRAM usage.",
+ "project": {
+  "name": "ltx23_edit_anything",
+  "family_slug": "ltx",
+  "family_display": "ltx23_edit_anything",
+  "model_slug": "ltx23-edit-anything",
+  "model_display": "ltx23_edit_anything",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "ltx23-edit-anything"
+  }
+ },
+ "tags": [
+  "ltx23_edit_anything",
+  "ltx",
+  "ltx23-edit-anything",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx23-edit-anything",
+  "adaptation:lora",
+  "lora-for:ltx23-edit-anything",
+  "lora",
+  "edit",
+  "inpainting",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit",
+   "inpainting"
+  ],
+  "formats": [],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx23-edit-anything"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2553102/editanything",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:07:34Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Alissonerdx/LTX-LoRAs/blob/main/workflows/ltx23_edit_anything_v1.json",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://civitai.red/models/2553102/editanything",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from simple style transfers to a sophisticated IC-LoRA recognizing specific action verbs (Add, Remove, Replace, Convert). It is currently being refined through extended training steps to improve temporal consistency and prompt adherence.",
+  "latest_version": "9,000 Step AdamW (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "An experimental In-Context LoRA designed for the LTX-2.3 video model that enables prompt-driven video editing. It allows users to add, remove, or replace objects and change styles using specific natural language instructions without manual masking."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:07:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

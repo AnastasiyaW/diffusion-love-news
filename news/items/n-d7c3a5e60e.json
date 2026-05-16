@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d7c3a5e60e",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "TRELLIS.2: High-Fidelity 3D Generation on Mac",
+ "summary": "A 4B parameter foundation model for generating detailed 3D assets with PBR materials from images or text. It utilizes Omni-Voxel representation to handle arbitrary topologies and complex surface geometry.",
+ "research_notes": "The shivampkumar/trellis-mac repository ports the model to Apple Silicon using the MPS backend, though some CUDA-specific features like texture baking are limited.",
+ "project": {
+  "name": "TRELLIS.2",
+  "family_slug": "trellis",
+  "family_display": "TRELLIS.2",
+  "model_slug": "trellis-2",
+  "model_display": "TRELLIS.2",
+  "version": "2",
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TRELLIS.2",
+  "trellis",
+  "trellis-2",
+  "3d",
+  "family:trellis",
+  "model:trellis-2",
+  "github"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "trellis"
+  ],
+  "versions": [
+   "trellis-2"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "trellis-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/shivampkumar/trellis-mac",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:23:04Z"
+  }
+ ],
+ "evolution": {
+  "summary": "TRELLIS.2 succeeded the original 2B parameter version, introducing Omni-Voxels (O-Voxels) and full Physically Based Rendering (PBR) support. It expanded resolution capabilities and improved geometric accuracy for non-manifold surfaces.",
+  "latest_version": "TRELLIS.2 (Dec 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "A 4B parameter foundation model for generating detailed 3D assets with PBR materials from images or text. It utilizes Omni-Voxel representation to handle arbitrary topologies and complex surface geometry."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:23:04Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

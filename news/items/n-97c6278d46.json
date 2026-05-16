@@ -1,0 +1,144 @@
+{
+ "schema_version": "1.2",
+ "id": "n-97c6278d46",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.6-27B: High-Performance Open-Weight Coding Model",
+ "summary": "A 27B parameter dense model from Alibaba released in April 2026, specialized for agentic coding and complex logical reasoning. It utilizes a hybrid architecture combining Gated Attention and Gated DeltaNet to efficiently manage long-context repository-level tasks.",
+ "research_notes": "Licensed under Apache 2.0; achieves a 77.2% success rate on SWE-bench Verified, positioning it as a leading local alternative to proprietary coding agents.",
+ "project": {
+  "name": "Qwen3.6-27B",
+  "family_slug": "qwen",
+  "family_display": "Qwen3.6-27B",
+  "model_slug": "qwen3-6-27b",
+  "model_display": "Qwen3.6-27B",
+  "version": "27B",
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-27B",
+  "qwen",
+  "qwen3-6-27b",
+  "llm",
+  "family:qwen",
+  "model:qwen3-6-27b",
+  "github",
+  "huggingface",
+  "qwen-27b",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen-27b"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "qwen3-6-27b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+   "host": "qwen.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/QwenLM/Qwen3.6",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:30:10Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:Qwen/Qwen3.6-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:finetune:Qwen/Qwen3.6-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "vendor-page",
+   "url": "https://chat.qwen.ai/?models=qwen3.6-27b",
+   "host": "chat.qwen.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in late April 2026 as an advancement over the Qwen3.5 MoE series, it introduced 'Thinking Preservation' for multi-turn reasoning consistency. As of May 2026, it has gained native Multi-Token Prediction (MTP) support in local inference engines like llama.cpp, enhancing performance on consumer hardware.",
+  "latest_version": "Qwen3.6-27B (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "A 27B parameter dense model from Alibaba released in April 2026, specialized for agentic coding and complex logical reasoning. It utilizes a hybrid architecture combining Gated Attention and Gated DeltaNet to efficiently manage long-context repository-level tasks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:30:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

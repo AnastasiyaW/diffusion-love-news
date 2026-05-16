@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.2",
+ "id": "n-7cc366b545",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenGame: Open Agentic Coding for Web Games",
+ "summary": "An open-source agentic framework for autonomous end-to-end web game creation using specialized LLMs. It generates fully playable 2D games from natural language prompts by integrating design, coding, and automated debugging skills.",
+ "research_notes": "Developed by CUHK MMLab researchers; utilizes VLM judges for real-time playability and visual alignment verification.",
+ "project": {
+  "name": "OpenGame",
+  "family_slug": "opengame",
+  "family_display": "OpenGame",
+  "model_slug": "opengame",
+  "model_display": "OpenGame",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenGame",
+  "opengame",
+  "llm",
+  "family:opengame",
+  "github",
+  "huggingface",
+  "web-demo",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "opengame"
+  ],
+  "versions": [
+   "opengame"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.opengame-project-page.com/",
+   "host": "opengame-project-page.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/leigest519/OpenGame",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:34:43Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.opengame-project-page.com/#demo",
+   "host": "opengame-project-page.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 with the GameCoder-27B model and OpenGame-Bench evaluation suite. It evolved from basic code generation to a dual-skill system (Template & Debug) using execution-grounded reinforcement learning.",
+  "latest_version": "v0.6.0-nightly (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "An open-source agentic framework for autonomous end-to-end web game creation using specialized LLMs. It generates fully playable 2D games from natural language prompts by integrating design, coding, and automated debugging skills."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:34:43Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

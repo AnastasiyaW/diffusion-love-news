@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-6a60e32785",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen 3.6 Plus",
+ "summary": "Qwen 3.6 Plus is a multimodal large language model from Alibaba specifically optimized for autonomous agentic workflows and repository-level software engineering. It features a default 1-million token context window and utilizes a next-generation hybrid architecture for high-speed inference.",
+ "research_notes": "Achieved a score of 78.8 on SWE-bench Verified; currently priced disruptively for production use at approximately $0.50 per 1M input tokens.",
+ "project": {
+  "name": "Qwen 3.6 Plus",
+  "family_slug": "qwen",
+  "family_display": "Qwen 3.6 Plus",
+  "model_slug": "qwen-3-6",
+  "model_display": "Qwen 3.6",
+  "version": null,
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen 3.6 Plus",
+  "Qwen 3.6",
+  "qwen",
+  "qwen-3-6",
+  "llm",
+  "family:qwen",
+  "model:qwen-3-6",
+  "web-demo",
+  "china",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "qwen-3-6"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://qwen.ai/blog?id=qwen3.6",
+   "host": "qwen.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:17:42Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://openrouter.ai/qwen/qwen3.6-plus:free",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://modelstudio.alibabacloud.com/?spm=a2ty_o06.30285417.0.0.a321c9217bL8U7",
+   "host": "modelstudio.alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Building on the Qwen 3.5 series, the 3.6 Plus release introduced always-on reasoning, a 65K output token limit, and significantly improved performance on coding benchmarks like SWE-bench.",
+  "latest_version": "Qwen 3.6 Plus (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "Qwen 3.6 Plus is a multimodal large language model from Alibaba specifically optimized for autonomous agentic workflows and repository-level software engineering. It features a default 1-million token context window and utilizes a next-generation hybrid architecture for high-speed inference."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:17:42Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

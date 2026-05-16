@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-332335c756",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI Wan VACE Video Joiner for Seamless Transitions",
+ "summary": "A specialized ComfyUI utility for creating smooth transitions between video clips using Wan VACE models. It provides automated color matching, cross-fading, and batch processing tools to maintain visual consistency.",
+ "research_notes": "Requires the companion 'ComfyUI-Wan-VACE-Prep' custom node package to enable the latest v2.5 batch features.",
+ "project": {
+  "name": "ComfyUI Wan VACE Video Joiner",
+  "family_slug": "wanvideo",
+  "family_display": "ComfyUI Wan VACE Video Joiner",
+  "model_slug": "comfyui-wan-vace-video-joiner",
+  "model_display": "ComfyUI Wan VACE Video Joiner",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Wan VACE Video Joiner",
+  "wanvideo",
+  "comfyui-wan-vace-video-joiner",
+  "tools-frontend",
+  "family:wanvideo",
+  "model:comfyui-wan-vace-video-joiner",
+  "edit",
+  "consistency",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "wanvideo"
+  ],
+  "versions": [
+   "wanvideo"
+  ],
+  "features": [
+   "edit",
+   "consistency"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "comfyui-wan-vace-video-joiner"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/stuttlepress/ComfyUI-Wan-VACE-Video-Joiner",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:40:29Z"
+  },
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2024299/wan-vace-clip-joiner-smooth-ai-video-transitions-for-wan-ltx-2-hunyuan-and-any-other-video-source",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from a basic workflow to a robust node-based system in v2.5. Major updates include seamless looping, optimized RAM usage via Meta Batching, and 16-bit color shift mitigation.",
+  "latest_version": "v2.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A specialized ComfyUI utility for creating smooth transitions between video clips using Wan VACE models. It provides automated color matching, cross-fading, and batch processing tools to maintain visual consistency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:40:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

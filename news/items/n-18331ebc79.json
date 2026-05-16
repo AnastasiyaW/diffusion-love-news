@@ -1,0 +1,177 @@
+{
+ "schema_version": "1.2",
+ "id": "n-18331ebc79",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "JavisDiT: Joint Audio-Video Diffusion Transformer",
+ "summary": "A multimodal ecosystem for joint audio-video generation and understanding. It employs a unified Diffusion Transformer architecture to produce temporally synchronized sounding videos from text prompts.",
+ "research_notes": "Includes the JavisBench evaluation suite and utilizes Audio-Video Direct Preference Optimization (AV-DPO) for output alignment.",
+ "project": {
+  "name": "JavisVerse",
+  "family_slug": "javisverse",
+  "family_display": "JavisVerse",
+  "model_slug": "javisverse",
+  "model_display": "JavisVerse",
+  "version": null,
+  "released": "2026-05-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "JavisVerse",
+  "javisverse",
+  "vlm",
+  "family:javisverse",
+  "text-to-video",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "javisverse"
+  ],
+  "versions": [
+   "javisverse"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://javisverse.github.io/",
+   "host": "javisverse.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://javisverse.github.io/JavisDiT-page/",
+   "host": "javisverse.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://javisverse.github.io/JavisDiT2-page/",
+   "host": "javisverse.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://javisverse.github.io/JavisGPT-page/",
+   "host": "javisverse.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/JavisVerse/JavisDiT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:18:14Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/JavisVerse/JavisGPT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/JavisVerse/javisdit-v01",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/JavisDiT/JavisDiT-v0.1-jav",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/JavisVerse/JavisGPT-v0.1-7B-Instruct",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/JavisVerse/javisgpt",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the initial JavisDiT (v0.1) into the JavisVerse ecosystem, unifying generation and comprehension via JavisGPT. The latest JavisDiT++ (v1.0) was accepted at ICLR 2026, introducing a Mixture-of-Experts (MoE) design and Temporally Aligned RoPE for precise audio-visual synchronization.",
+  "latest_version": "JavisDiT++ (v1.0, Feb 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-11",
+  "excerpt": "A multimodal ecosystem for joint audio-video generation and understanding. It employs a unified Diffusion Transformer architecture to produce temporally synchronized sounding videos from text prompts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:18:14Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

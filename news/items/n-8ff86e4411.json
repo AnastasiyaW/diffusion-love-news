@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8ff86e4411",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "M2SVid: Monocular-to-Stereo Video Conversion",
+ "summary": "M2SVid is a Google Research project that converts 2D monocular videos into stereoscopic 3D. It utilizes a conditional latent diffusion model based on Stable Video Diffusion to generate the missing right-eye view with high temporal consistency.",
+ "research_notes": "Uses a single-step feed-forward prediction architecture; supports high-resolution outputs through spatial and temporal stitching techniques.",
+ "project": {
+  "name": "M2SVid",
+  "family_slug": "m2svid",
+  "family_display": "M2SVid",
+  "model_slug": "m2svid",
+  "model_display": "M2SVid",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "M2SVid",
+  "m2svid",
+  "diffusion-video",
+  "family:m2svid",
+  "depth",
+  "video-to-video",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "m2svid"
+  ],
+  "versions": [
+   "m2svid"
+  ],
+  "features": [
+   "depth",
+   "video-to-video"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://m2svid.github.io/",
+   "host": "m2svid.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/google-research/m2svid",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:50:09Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Archit01/M2SVID-gui",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "After appearing as a research paper in mid-2025, the project was accepted to 3DV 2026 and the official source code and pre-trained weights were released in March 2026. It is currently recognized for being significantly faster than previous iterative diffusion-based stereoscopic methods.",
+  "latest_version": "Official Release (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "M2SVid is a Google Research project that converts 2D monocular videos into stereoscopic 3D. It utilizes a conditional latent diffusion model based on Stable Video Diffusion to generate the missing right-eye view with high temporal consistency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:50:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2090ac5f1b",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Waypoint-1.5: Real-time Interactive Video World Model",
+ "summary": "Waypoint-1.5 is a generative world model that enables real-time first-person exploration of AI-synthesized environments. It is designed for local execution on consumer hardware, supporting responsive navigation and high-frame-rate interactions.",
+ "research_notes": "Open-sourced under Apache 2.0; supports first-person control and real-time environment consistency.",
+ "project": {
+  "name": "Waypoint-1.5",
+  "family_slug": "waypoint",
+  "family_display": "Waypoint-1.5",
+  "model_slug": "waypoint-1-5",
+  "model_display": "Waypoint-1.5",
+  "version": "1.5",
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Waypoint-1.5",
+  "waypoint",
+  "waypoint-1-5",
+  "diffusion-video",
+  "family:waypoint",
+  "model:waypoint-1-5",
+  "realtime",
+  "scene",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "waypoint"
+  ],
+  "versions": [
+   "waypoint-1-5"
+  ],
+  "features": [
+   "realtime",
+   "scene"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "waypoint-1-5"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/overworld-labs/waypoint-1.5",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:23:10Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://over.world/blog/waypoint-1-5",
+   "host": "over.world",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://over.world/install",
+   "host": "over.world",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.overworld.stream/",
+   "host": "overworld.stream",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/Overworld/waypoint-1-5",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from Waypoint-1 with 100x larger training scale, introducing the Biome runtime for local GPU acceleration and optimized tiers for diverse hardware.",
+  "latest_version": "Waypoint-1.5 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "Waypoint-1.5 is a generative world model that enables real-time first-person exploration of AI-synthesized environments. It is designed for local execution on consumer hardware, supporting responsive navigation and high-frame-rate interactions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:23:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

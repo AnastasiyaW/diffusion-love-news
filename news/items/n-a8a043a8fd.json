@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a8a043a8fd",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "INSID3: Fast In-Context Segmentation with DINOv3",
+ "summary": "INSID3 is a training-free framework for high-performance object segmentation that utilizes the emergent properties of Meta's DINOv3 vision foundation model. It identifies object regions through agglomerative clustering of dense features and removes positional biases via a simple orthogonal projection.",
+ "research_notes": "Demonstrates 3.4x faster inference speed than multi-stage pipelines while outperforming state-of-the-art methods by +7.5% mIoU.",
+ "project": {
+  "name": "INSID3",
+  "family_slug": "insid3",
+  "family_display": "INSID3",
+  "model_slug": "insid3",
+  "model_display": "INSID3",
+  "version": null,
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "INSID3",
+  "insid3",
+  "vlm",
+  "family:insid3",
+  "segmentation",
+  "paper"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "insid3"
+  ],
+  "versions": [
+   "insid3"
+  ],
+  "features": [
+   "segmentation"
+  ],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://visinf.github.io/INSID3/",
+   "host": "visinf.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:22:51Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following its research debut, INSID3 was selected for an Oral presentation at CVPR 2026 and officially released with full code and interactive demos. It has since established itself as a benchmark for training-free, single-backbone segmentation frameworks.",
+  "latest_version": "INSID3 (CVPR 2026 Oral)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "INSID3 is a training-free framework for high-performance object segmentation that utilizes the emergent properties of Meta's DINOv3 vision foundation model. It identifies object regions through agglomerative clustering of dense features and removes positional biases via a simple orthogonal projection."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:22:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

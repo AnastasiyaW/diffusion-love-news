@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e4b7a4de7b",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "MiroFish: Open-Source Multi-Agent Social Behavior Simulation Engine",
+ "summary": "MiroFish is a swarm intelligence engine that creates parallel digital worlds populated by AI agents to simulate social dynamics and market trends. It uses GraphRAG for grounded interaction and supports dynamic variable injection for real-time social predictive modeling.",
+ "research_notes": "Gained viral fame for a simulation predicting the lost ending of 'Dream of the Red Chamber' by feeding its first 80 chapters into the engine's agent focus groups.",
+ "project": {
+  "name": "MiroFish",
+  "family_slug": "mirofish",
+  "family_display": "MiroFish",
+  "model_slug": "mirofish",
+  "model_display": "MiroFish",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiroFish",
+  "mirofish",
+  "llm",
+  "family:mirofish",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "mirofish"
+  ],
+  "versions": [
+   "mirofish"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://666ghj.github.io/mirofish-demo/",
+   "host": "666ghj.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/666ghj/MiroFish",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:01:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project reached 60,000 GitHub stars in early 2026, introducing the OASIS framework for scaling simulations to millions of agents and integrating GraphRAG for grounded entity memory. A community-led MiroFish-Offline version was launched for local execution.",
+  "latest_version": "MiroFish (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "MiroFish is a swarm intelligence engine that creates parallel digital worlds populated by AI agents to simulate social dynamics and market trends. It uses GraphRAG for grounded interaction and supports dynamic variable injection for real-time social predictive modeling."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:01:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

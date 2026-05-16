@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-367db0be8e",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Nous Hermes Agent: Autonomous Self-Evolving Framework",
+ "summary": "An open-source autonomous agent framework designed for persistent, self-improving workflows using a closed learning loop. It leverages Xiaomi's MiMo reasoning models and features integrated cloud browsing for robust web interaction.",
+ "research_notes": "Uses Markdown skill files (SKILL.md) for persistent learning; features a 'Tenacity' Kanban board for long-running goal tracking.",
+ "project": {
+  "name": "Hermes Agent",
+  "family_slug": "hermes",
+  "family_display": "Hermes Agent",
+  "model_slug": "hermes",
+  "model_display": "Hermes",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hermes Agent",
+  "Hermes",
+  "hermes",
+  "llm",
+  "family:hermes",
+  "github",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "hermes"
+  ],
+  "versions": [
+   "hermes"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:57:20Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://portal.nousresearch.com/",
+   "host": "portal.nousresearch.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/alchaincyf/hermes-agent-orange-book",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Introduced 'The Curator' for autonomous skill auditing, a unified cloud/local browser gateway, and native support for Xiaomi MiMo-V2-Pro reasoning models.",
+  "latest_version": "v0.13.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "An open-source autonomous agent framework designed for persistent, self-improving workflows using a closed learning loop. It leverages Xiaomi's MiMo reasoning models and features integrated cloud browsing for robust web interaction."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:57:20Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

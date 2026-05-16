@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d4f61075f4",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Prompt Relay: Inference-Time Temporal Control for Video",
+ "summary": "A training-free inference method that enables precise chronological control in video generation by routing prompts to specific time segments. It suppresses semantic leakage between events by applying distance-based penalties to the cross-attention mechanism.",
+ "research_notes": "Effectively solves temporal entanglement in diffusion-based video models without requiring additional training or fine-tuning.",
+ "project": {
+  "name": "Prompt Relay",
+  "family_slug": "prompt-relay",
+  "family_display": "Prompt Relay",
+  "model_slug": "prompt-relay",
+  "model_display": "Prompt Relay",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Prompt Relay",
+  "prompt-relay",
+  "diffusion-video",
+  "family:prompt-relay",
+  "consistency",
+  "text-to-video",
+  "github"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "prompt-relay"
+  ],
+  "versions": [
+   "prompt-relay"
+  ],
+  "features": [
+   "consistency",
+   "text-to-video"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://gordonchen19.github.io/Prompt-Relay/",
+   "host": "gordonchen19.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/GordonChen19/Prompt-Relay/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:38:50Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a research implementation, Prompt-Relay has become a standard utility integrated into the Wan 2.2 and LTX 2.3 ecosystems. It is now a core component of the LTX Director timeline editor and various ComfyUI nodes for multi-event storytelling.",
+  "latest_version": "Integrated in LTX 2.3 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "A training-free inference method that enables precise chronological control in video generation by routing prompts to specific time segments. It suppresses semantic leakage between events by applying distance-based penalties to the cross-attention mechanism."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:38:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

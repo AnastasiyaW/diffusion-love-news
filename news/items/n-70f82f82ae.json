@@ -1,0 +1,126 @@
+{
+ "schema_version": "1.2",
+ "id": "n-70f82f82ae",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "C-MET: Cross-Modal Emotion Transfer for Talking Face Video",
+ "summary": "A modular framework for fine-grained emotion editing in talking face videos by mapping speech features to facial expressions. It supports complex emotional states like sarcasm and empathy beyond basic categories and integrates with existing disentanglement-based generators.",
+ "research_notes": "Developed by researchers from UNIST and KAIST; utilizes emotion2vec+ for high-fidelity semantic audio feature extraction.",
+ "project": {
+  "name": "C-MET",
+  "family_slug": "c-met",
+  "family_display": "C-MET",
+  "model_slug": "c-met",
+  "model_display": "C-MET",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "C-MET",
+  "c-met",
+  "animation-motion",
+  "family:c-met",
+  "lip-sync",
+  "face",
+  "github",
+  "huggingface",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "c-met"
+  ],
+  "versions": [
+   "c-met"
+  ],
+  "features": [
+   "lip-sync",
+   "face"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://chanhyeok-choi.github.io/C-MET/",
+   "host": "chanhyeok-choi.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ChanHyeok-Choi/C-MET",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:38:17Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/coldhyuk/C-MET",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/coldhyuk/C-MET",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Presented at CVPR 2026, C-MET introduced zero-shot capability for extended emotions by leveraging self-supervised audio encoders. It currently serves as a state-of-the-art plug-and-play module for emotional talking head synthesis.",
+  "latest_version": "C-MET (CVPR 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "A modular framework for fine-grained emotion editing in talking face videos by mapping speech features to facial expressions. It supports complex emotional states like sarcasm and empathy beyond basic categories and integrates with existing disentanglement-based generators."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:38:17Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-348f0ce004",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "DisCa: Distillation-Compatible Learnable Feature Caching",
+ "summary": "A Tencent-developed inference acceleration framework that unifies learnable feature caching with step-distillation for video diffusion transformers. It achieves near-lossless 11.8x speedups, enabling high-fidelity video generation on consumer hardware.",
+ "research_notes": "Introduces the Restricted MeanFlow distillation scheme to eliminate inter-frame jitter and is specifically optimized for high-resolution Image-to-Video and Text-to-Video workflows.",
+ "project": {
+  "name": "DisCa",
+  "family_slug": "hunyuan-video",
+  "family_display": "DisCa",
+  "model_slug": "disca",
+  "model_display": "DisCa",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DisCa",
+  "hunyuan-video",
+  "disca",
+  "diffusion-video",
+  "family:hunyuan-video",
+  "model:disca",
+  "video-to-video",
+  "github",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "hunyuan-video"
+  ],
+  "versions": [
+   "hunyuan-video"
+  ],
+  "features": [
+   "video-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "disca"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/DisCa",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/DisCa",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:41:25Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially accepted to CVPR 2026, DisCa has been fully integrated into the HunyuanVideo-1.5 ecosystem as of May 2026. It evolved from previous Tencent research (TaylorSeer, ToCa, DuCa), transitioning from heuristic-based caching to a learnable neural predictor architecture.",
+  "latest_version": "HunyuanVideo-1.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "A Tencent-developed inference acceleration framework that unifies learnable feature caching with step-distillation for video diffusion transformers. It achieves near-lossless 11.8x speedups, enabling high-fidelity video generation on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:41:25Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

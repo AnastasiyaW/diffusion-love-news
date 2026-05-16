@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ccdb07b0af",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX-2.3-22b-IC-LoRA-Ungrade Neutral Color Recovery",
+ "summary": "A specialized In-Context LoRA for the LTX-2.3 video foundation model designed to remove cinematic color grading and contrast. It processes input videos to restore natural lighting and a neutral color balance, serving as a 'de-grading' tool for further production.",
+ "research_notes": "Created by Oumoumad Mohamed; part of a suite of utility IC-LoRAs that include outpainting and HDR conversion.",
+ "project": {
+  "name": "LTX-2.3-22b-IC-LoRA-Ungrade",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3-22b-IC-LoRA-Ungrade",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3-22b",
+  "version": null,
+  "released": "2026-04-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "Ungrade",
+   "base_model_slug": "ltx-2-3-22b"
+  }
+ },
+ "tags": [
+  "LTX-2.3-22b-IC-LoRA-Ungrade",
+  "LTX-2.3-22b",
+  "ltx",
+  "ltx-2-3-22b",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3-22b",
+  "adaptation:lora",
+  "lora-for:ltx-2-3-22b",
+  "lora",
+  "edit",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx-2-3-22b"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/oumoumad/LTX-2.3-22b-IC-LoRA-Ungrade",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:36:51Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The LTX-2.3 (22B) series was the open-source peak of the family before the transition to LTX-3. While LTX-2.3 remains the standard for local ComfyUI workflows, the ecosystem has moved towards LTX-3 for professional long-form video generation.",
+  "latest_version": "LTX-3 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-11",
+  "excerpt": "A specialized In-Context LoRA for the LTX-2.3 video foundation model designed to remove cinematic color grading and contrast. It processes input videos to restore natural lighting and a neutral color balance, serving as a 'de-grading' tool for further production."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:36:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

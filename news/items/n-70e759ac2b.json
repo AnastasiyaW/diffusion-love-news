@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-70e759ac2b",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "UniVidX: Unified Multimodal Video Diffusion Framework",
+ "summary": "A unified 'any-to-any' video diffusion framework designed for 15+ tasks including video matting, relighting, and inverse rendering. It treats various modalities like RGB, depth, and alpha as interchangeable conditions or targets within a single architecture.",
+ "research_notes": "Built on the Wan2.1 backbone using Stochastic Condition Masking and Decoupled Gated LoRA to maintain consistency across modalities with minimal training data.",
+ "project": {
+  "name": "UniVidX",
+  "family_slug": "unividx",
+  "family_display": "UniVidX",
+  "model_slug": "unividx",
+  "model_display": "UniVidX",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniVidX",
+  "unividx",
+  "diffusion-video",
+  "family:unividx",
+  "text-to-video",
+  "depth",
+  "normal-map",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "unividx"
+  ],
+  "versions": [
+   "unividx"
+  ],
+  "features": [
+   "text-to-video",
+   "depth",
+   "normal-map"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://houyuanchen111.github.io/UniVidX.github.io/",
+   "host": "houyuanchen111.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/houyuanchen111/UniVidX",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:27:30Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/houyuanchen/UniVidX",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Officially released in May 2026 and accepted for SIGGRAPH 2026. The framework debuted with two specialized models: UniVid-Intrinsic for physical properties and UniVid-Alpha for layer decomposition.",
+  "latest_version": "UniVidX v1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "A unified 'any-to-any' video diffusion framework designed for 15+ tasks including video matting, relighting, and inverse rendering. It treats various modalities like RGB, depth, and alpha as interchangeable conditions or targets within a single architecture."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:27:30Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a4fb636ca8",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Face Anything: Unified 4D Facial Reconstruction and Tracking",
+ "summary": "A transformer-based framework for unified 4D facial reconstruction and dense tracking from monocular video sequences. It jointly predicts canonical coordinates, depth maps, and normal maps to ensure high temporal consistency even under extreme viewpoint variations.",
+ "research_notes": "Introduces a large-scale dynamic 3D face dataset derived from NeRSemble for high-fidelity training.",
+ "project": {
+  "name": "Face Anything",
+  "family_slug": "face-anything",
+  "family_display": "Face Anything",
+  "model_slug": "face-anything",
+  "model_display": "Face Anything",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Face Anything",
+  "face-anything",
+  "3d",
+  "family:face-anything",
+  "face",
+  "animation",
+  "github"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "face-anything"
+  ],
+  "versions": [
+   "face-anything"
+  ],
+  "features": [
+   "face",
+   "animation"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://kocasariumut.github.io/FaceAnything/",
+   "host": "kocasariumut.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:35:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, the project is currently in the stage of preparing public code and model weights for GitHub. It establishes new benchmarks in facial tracking, significantly outperforming prior methods like Sapiens and V-DPM.",
+  "latest_version": "v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "A transformer-based framework for unified 4D facial reconstruction and dense tracking from monocular video sequences. It jointly predicts canonical coordinates, depth maps, and normal maps to ensure high temporal consistency even under extreme viewpoint variations."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:35:31Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

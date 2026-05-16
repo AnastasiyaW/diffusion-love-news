@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f3c22d2162",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "PhoneClaw: Local Gemma 4 On-Device Agent for iOS",
+ "summary": "An open-source iOS application that runs Gemma 4 models locally using LiteRT-LM and Metal acceleration for offline inference. It supports multimodal vision, agentic tool-use with native iOS apps, and optimized speculative decoding.",
+ "research_notes": "Positioned as the primary reference for Gemma 4 on iOS due to delayed official support in Google's AI Edge Gallery for the platform; requires iPhone 15 Pro or newer for optimal performance.",
+ "project": {
+  "name": "PhoneClaw",
+  "family_slug": "phoneclaw",
+  "family_display": "PhoneClaw",
+  "model_slug": "phoneclaw",
+  "model_display": "PhoneClaw",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PhoneClaw",
+  "phoneclaw",
+  "llm",
+  "family:phoneclaw",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "phoneclaw"
+  ],
+  "versions": [
+   "phoneclaw"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/kellyvv/PhoneClaw",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:17:55Z"
+  },
+  {
+   "kind": "apple-store",
+   "url": "https://apps.apple.com/us/app/google-ai-edge-gallery/id6749645337",
+   "host": "apps.apple.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "play-store",
+   "url": "https://play.google.com/store/apps/details?id=com.google.ai.edge.gallery",
+   "host": "play.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/google-ai-edge/gallery",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved into a comprehensive local agent in 2026 with the release of Gemma 4, adding Multi-Token Prediction (MTP) for 37% faster inference and deep integration with iOS HealthKit and Contacts.",
+  "latest_version": "v1.4.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "An open-source iOS application that runs Gemma 4 models locally using LiteRT-LM and Metal acceleration for offline inference. It supports multimodal vision, agentic tool-use with native iOS apps, and optimized speculative decoding."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:17:55Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

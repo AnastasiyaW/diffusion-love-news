@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e33dfb0bdb",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Vanast: Unified Human Animation and Virtual Try-On",
+ "summary": "Vanast is a single-stage framework that unifies full-body virtual try-on with pose-guided human animation. It generates high-fidelity videos directly from a person's image, garment inputs, and motion sequences, ensuring temporal consistency and identity preservation.",
+ "research_notes": "Developed by SNU Visual Computing Lab; utilizes a novel synthetic triplet supervision method to train on unpaired data.",
+ "project": {
+  "name": "Vanast",
+  "family_slug": "vanast",
+  "family_display": "Vanast",
+  "model_slug": "vanast",
+  "model_display": "Vanast",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Vanast",
+  "vanast",
+  "animation-motion",
+  "family:vanast",
+  "image-to-video",
+  "character",
+  "pose",
+  "github"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "vanast"
+  ],
+  "versions": [
+   "vanast"
+  ],
+  "features": [
+   "image-to-video",
+   "character",
+   "pose"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://hyunsoocha.github.io/vanast/",
+   "host": "hyunsoocha.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/snuvclab/vanast",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:05:21Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Selected as a CVPR 2026 Highlight, the project formally launched in April 2026. It represents a major shift from disjointed two-stage pipelines to a unified diffusion-based architecture, with public inference code and weights released in May 2026.",
+  "latest_version": "Vanast (CVPR 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "Vanast is a single-stage framework that unifies full-body virtual try-on with pose-guided human animation. It generates high-fidelity videos directly from a person's image, garment inputs, and motion sequences, ensuring temporal consistency and identity preservation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:05:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

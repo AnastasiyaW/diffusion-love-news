@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e4fab55e05",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "StorySplat v2.3: Interactive 3D Gaussian Splatting Editor",
+ "summary": "A web-based platform for creating, hosting, and embedding interactive 3D scenes using Gaussian Splatting technology. It features a PlayCanvas-based engine that supports LOD streaming, dynamic lighting, and first-person navigation within captured environments.",
+ "research_notes": "Includes proprietary SOG compression to reduce file sizes and supports 4D Gaussian Splatting playback.",
+ "project": {
+  "name": "StorySplat",
+  "family_slug": "storysplat",
+  "family_display": "StorySplat",
+  "model_slug": "storysplat",
+  "model_display": "StorySplat",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "StorySplat",
+  "storysplat",
+  "gaussian-splatting",
+  "family:storysplat",
+  "edit",
+  "scene",
+  "web-demo",
+  "free"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "storysplat"
+  ],
+  "versions": [
+   "storysplat"
+  ],
+  "features": [
+   "edit",
+   "scene"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://storysplat.com/",
+   "host": "storysplat.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:38:58Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://storysplat.com/editor",
+   "host": "storysplat.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "After the v2.0 rebuild on PlayCanvas, the platform introduced SOG compression and LOD streaming. Newer updates in v2.2 and v2.3 added Image-to-Splat generation, 3D measurement tools, and an embeddable NPM viewer, while requiring legacy scenes to be re-exported for compatibility.",
+  "latest_version": "v2.3 (Feb 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "A web-based platform for creating, hosting, and embedding interactive 3D scenes using Gaussian Splatting technology. It features a PlayCanvas-based engine that supports LOD streaming, dynamic lighting, and first-person navigation within captured environments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:38:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

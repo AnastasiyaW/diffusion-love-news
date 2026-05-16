@@ -1,0 +1,152 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0841776bd9",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Hunyuan3 Preview (Hy3-preview)",
+ "summary": "A 295B parameter Mixture-of-Experts (MoE) large language model by Tencent designed for high-efficiency reasoning. It features a 256K context window and is optimized for multi-step agentic workflows and complex tool usage.",
+ "research_notes": "Achieved 74.4% on SWE-bench Verified; integrated into Tencent's Yuanbao assistant and WeChat ecosystem with significantly lower inference costs compared to Hy2.",
+ "project": {
+  "name": "Hy3",
+  "family_slug": "hunyuan",
+  "family_display": "Hy3",
+  "model_slug": "hy3",
+  "model_display": "Hy3",
+  "version": null,
+  "released": "2026-04-24",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hy3",
+  "hunyuan",
+  "hy3",
+  "llm",
+  "family:hunyuan",
+  "model:hy3",
+  "github",
+  "huggingface",
+  "china",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "hunyuan"
+  ],
+  "versions": [
+   "hunyuan"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "hy3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://hy.tencent.com/hy3-preview",
+   "host": "hy.tencent.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/Hy3-preview",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:18:55Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/Hy3-preview",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://modelscope.cn/models/Tencent-Hunyuan/Hy3-preview",
+   "host": "modelscope.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://aistudio.tencent.com/",
+   "host": "aistudio.tencent.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://cloud.tencent.com/login?s_url=https%3A%2F%2Fconsole.cloud.tencent.com%2Ftokenhub%2Fmodels%2Fdetail%3FmodelId%3Dhy3-preview%26regionId%3D1",
+   "host": "cloud.tencent.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://openrouter.ai/tencent/hy3-preview:free",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched as a strategic '90-day reset' for Tencent, moving from dense architectures to a 21B-active MoE structure. It introduced configurable 'fast and slow thinking' reasoning modes and replaced the older Hunyuan-Pro models in production.",
+  "latest_version": "Hunyuan3 Preview (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-24",
+  "excerpt": "A 295B parameter Mixture-of-Experts (MoE) large language model by Tencent designed for high-efficiency reasoning. It features a 256K context window and is optimized for multi-step agentic workflows and complex tool usage."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:18:55Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

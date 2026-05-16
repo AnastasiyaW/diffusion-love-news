@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2af8215f2c",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "DiffHDR: Generative LDR to HDR Video Diffusion",
+ "summary": "A framework for converting 8-bit LDR videos into 32-bit HDR sequences using generative radiance inpainting. It leverages pretrained video diffusion models to hallucinate realistic highlights while maintaining strict temporal consistency.",
+ "research_notes": "The 2026 update is noted for its high computational requirements, typically necessitating A100-class GPUs for efficient processing.",
+ "project": {
+  "name": "DiffHDR",
+  "family_slug": "diffhdr",
+  "family_display": "DiffHDR",
+  "model_slug": "diffhdr",
+  "model_display": "DiffHDR",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DiffHDR",
+  "diffhdr",
+  "diffusion-video",
+  "family:diffhdr",
+  "video-to-video",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "diffhdr"
+  ],
+  "versions": [
+   "diffhdr"
+  ],
+  "features": [
+   "video-to-video"
+  ],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "blog",
+   "url": "https://yzmblog.github.io/projects/DiffHDR/",
+   "host": "yzmblog.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:57:50Z"
+  },
+  {
+   "kind": "paper",
+   "url": "https://arxiv.org/html/2604.06161v1",
+   "host": "arxiv.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from a 2023 image-based deghosting tool to a comprehensive video diffusion framework in early 2026. The current version uses Log-Gamma color mapping and video priors to restore lost radiance in legacy 8-bit content.",
+  "latest_version": "DiffHDR v2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "A framework for converting 8-bit LDR videos into 32-bit HDR sequences using generative radiance inpainting. It leverages pretrained video diffusion models to hallucinate realistic highlights while maintaining strict temporal consistency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:57:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

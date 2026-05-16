@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-6562acabdd",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Happy Horse 1.0: Unified Video and Audio Generation Model",
+ "summary": "A 15-billion parameter multimodal model from Alibaba that generates high-quality video and synchronized audio simultaneously. It features phoneme-level lip-sync and 1080p resolution optimized for production-ready content.",
+ "research_notes": "Utilizes a unified single-stream Transformer architecture; supports native lip-sync in over 7 languages including English, Mandarin, and Japanese.",
+ "project": {
+  "name": "Happy Horse 1.0",
+  "family_slug": "happyhorse",
+  "family_display": "Happy Horse",
+  "model_slug": "happy-horse-1-0",
+  "model_display": "Happy Horse 1.0",
+  "version": "1.0",
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Happy Horse 1.0",
+  "Happy Horse",
+  "happyhorse",
+  "happy-horse-1-0",
+  "diffusion-video",
+  "family:happyhorse",
+  "model:happy-horse-1-0",
+  "text-to-video",
+  "image-to-video",
+  "lip-sync",
+  "happyhorse-1-0",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "happyhorse"
+  ],
+  "versions": [
+   "happyhorse-1-0"
+  ],
+  "features": [
+   "text-to-video",
+   "image-to-video",
+   "lip-sync"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "happy-horse-1-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://happyhorses.io/",
+   "host": "happyhorses.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:19:28Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/happy-horse/happyhorse-1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Initially appearing anonymously as a top-ranked model on global leaderboards in April 2026, it was revealed as an Alibaba project and transitioned to full commercial availability in May 2026.",
+  "latest_version": "Happy Horse 1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A 15-billion parameter multimodal model from Alibaba that generates high-quality video and synchronized audio simultaneously. It features phoneme-level lip-sync and 1080p resolution optimized for production-ready content."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:19:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

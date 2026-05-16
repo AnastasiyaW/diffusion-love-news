@@ -1,0 +1,126 @@
+{
+ "schema_version": "1.2",
+ "id": "n-7c1f689c14",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "UniGeo: Camera-Controllable Image Editing via Video Models",
+ "summary": "UniGeo is a framework for high-fidelity camera-controllable image editing that leverages video diffusion models as priors. It introduces unified geometric guidance across representation, architecture, and loss levels to maintain strict structural consistency during viewpoint changes.",
+ "research_notes": "The project includes a specialized 'Geometric Anchor Attention' mechanism and trajectory-endpoint supervision to prevent geometric drift during complex camera movements.",
+ "project": {
+  "name": "UniGeo",
+  "family_slug": "unigeo",
+  "family_display": "UniGeo",
+  "model_slug": "unigeo",
+  "model_display": "UniGeo",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniGeo",
+  "unigeo",
+  "3d",
+  "family:unigeo",
+  "scene",
+  "depth",
+  "image-to-image",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "unigeo"
+  ],
+  "versions": [
+   "unigeo"
+  ],
+  "features": [
+   "scene",
+   "depth",
+   "image-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://mo230761.github.io/UniGeo.github.io/",
+   "host": "mo230761.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/mo230761/UniGeo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:29:41Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/123123aa123/UniGeo/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/123123aa123/UniGeo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "UniGeo addresses the structural 'warping' common in traditional image diffusion models by utilizing video priors and 3D point cloud injection. It currently represents a state-of-the-art approach, outperforming benchmarks like ViewCrafter and CAT3D.",
+  "latest_version": "Initial Release (Oct 2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "UniGeo is a framework for high-fidelity camera-controllable image editing that leverages video diffusion models as priors. It introduces unified geometric guidance across representation, architecture, and loss levels to maintain strict structural consistency during viewpoint changes."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:29:41Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

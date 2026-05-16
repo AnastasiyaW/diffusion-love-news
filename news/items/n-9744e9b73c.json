@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9744e9b73c",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Z-Image Turbo Face Detailing Workflow",
+ "summary": "A high-performance ComfyUI workflow optimized for facial enhancement using Alibaba's Z-Image Turbo 6B DiT model. It utilizes a precision crop-and-inpainting pipeline with YOLOv8 and SAM to deliver high-fidelity skin textures in just 8-10 steps.",
+ "research_notes": "Requires the Qwen 2.5 VL text encoder and specific VAE for optimal results; significantly outpaces traditional SDXL detailers in speed-to-quality ratio.",
+ "project": {
+  "name": "Z-Image Turbo workflow",
+  "family_slug": "z-image",
+  "family_display": "Z-Image Turbo workflow",
+  "model_slug": "z-image",
+  "model_display": "Z-Image",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Z-Image Turbo workflow",
+  "Z-Image",
+  "z-image",
+  "tools-frontend",
+  "family:z-image",
+  "face",
+  "upscale",
+  "edit",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "z-image"
+  ],
+  "versions": [
+   "z-image"
+  ],
+  "features": [
+   "face",
+   "upscale",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Z-Image/Z-Image-Turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:37:03Z"
+  },
+  {
+   "kind": "attachment",
+   "url": "https://drive.google.com/drive/folders/13SIwKvFXo2apVJ4pHwZjI8jEVbvxM3AF?usp=sharing",
+   "host": "drive.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://www.reddit.com/r/comfyui/comments/1t12tz1/remade_the_gatekept_advanced_face_detail_workflow/?share_id=FGrNTXc2eN_toXKHox0Lz&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The Z-Image project evolved from heavy DiT models into the distilled 'Turbo' version to enable real-time detailing. It has since been integrated into the 'Z-Image Power Nodes' ecosystem, supporting advanced features like low-sigma detailing and specialized facial LoRAs.",
+  "latest_version": "Z-Image Turbo (Dec 2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "A high-performance ComfyUI workflow optimized for facial enhancement using Alibaba's Z-Image Turbo 6B DiT model. It utilizes a precision crop-and-inpainting pipeline with YOLOv8 and SAM to deliver high-fidelity skin textures in just 8-10 steps."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:37:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

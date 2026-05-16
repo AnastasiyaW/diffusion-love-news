@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ea5cb3e3f2",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "CoPaw-Flash-9B: Autonomous Data Analyst Agent",
+ "summary": "A specialized agentic model based on the Qwen3.5-9B architecture, fine-tuned specifically for autonomous data science workflows using agent trajectory data. It independently handles the full analysis lifecycle, including data cleaning, statistical profiling, and generating visualizations via Python.",
+ "research_notes": "Developed by Alibaba's AgentScope team; achieves optimal performance when paired with specific LoRA adapters and the vLLM execution environment.",
+ "project": {
+  "name": "CoPaw-Flash-9B-DataAnalyst-LoRA",
+  "family_slug": "copaw",
+  "family_display": "CoPaw-Flash-9B-DataAnalyst-LoRA",
+  "model_slug": "copaw",
+  "model_display": "CoPaw",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "copaw"
+  }
+ },
+ "tags": [
+  "CoPaw-Flash-9B-DataAnalyst-LoRA",
+  "CoPaw",
+  "copaw",
+  "llm",
+  "family:copaw",
+  "adaptation:lora",
+  "lora-for:copaw",
+  "lora",
+  "fine-tuning",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "copaw"
+  ],
+  "versions": [
+   "copaw"
+  ],
+  "features": [
+   "lora",
+   "fine-tuning"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/IIIIQIIII/data-analyst",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:47:15Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/jason1966/CoPaw-Flash-9B-DataAnalyst-LoRA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from basic tool-calling LLMs into a fully autonomous 'agentic' framework within the QwenPaw ecosystem, capable of multi-step task execution and self-correction without human prompts.",
+  "latest_version": "CoPaw-Flash-9B (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "A specialized agentic model based on the Qwen3.5-9B architecture, fine-tuned specifically for autonomous data science workflows using agent trajectory data. It independently handles the full analysis lifecycle, including data cleaning, statistical profiling, and generating visualizations via Python."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:47:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

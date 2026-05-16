@@ -1,0 +1,135 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c5207bfa4a",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+ "summary": "A unified geometry-aware architecture for open-vocabulary monocular 3D object detection from a single RGB image. It supports multi-modal prompts including text, points, and boxes, functioning as a promptable detector similar to SAM.",
+ "research_notes": "Built on SAM 3 backbone and LingBot-Depth; achieves state-of-the-art zero-shot performance on Argoverse 2 and ScanNet.",
+ "project": {
+  "name": "WildDet3D",
+  "family_slug": "wilddet3d",
+  "family_display": "WildDet3D",
+  "model_slug": "wilddet3d",
+  "model_display": "WildDet3D",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "WildDet3D",
+  "wilddet3d",
+  "vlm",
+  "family:wilddet3d",
+  "realtime",
+  "segmentation",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "wilddet3d"
+  ],
+  "versions": [
+   "wilddet3d"
+  ],
+  "features": [
+   "realtime",
+   "segmentation"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://allenai.github.io/WildDet3D/",
+   "host": "allenai.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/allenai/WildDet3D",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:57:08Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/allenai/WildDet3D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/allenai/WildDet3D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "apple-store",
+   "url": "https://apps.apple.com/us/app/wilddet3d/id6760861157",
+   "host": "apps.apple.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in April 2026 with inference code and model weights; expanded in late April 2026 with full training code and the massive WildDet3D-Data dataset containing over 1 million images. A companion iPhone app for real-time on-device 3D detection was also released.",
+  "latest_version": "v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "A unified geometry-aware architecture for open-vocabulary monocular 3D object detection from a single RGB image. It supports multi-modal prompts including text, points, and boxes, functioning as a promptable detector similar to SAM."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:57:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

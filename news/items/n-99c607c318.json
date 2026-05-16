@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-99c607c318",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Luma Uni-1.1 Unified Intelligence API",
+ "summary": "Luma Uni-1.1 is a production-grade multimodal intelligence API that utilizes a unified reasoning architecture for high-precision image generation and editing. It supports complex tasks like multi-reference grounding with up to 9 inputs and natural-language image modification.",
+ "research_notes": "Utilizes a reasoning-first approach where the model plans compositions before rendering; currently integrated by industry leaders including Adobe and Freepik.",
+ "project": {
+  "name": "Luma Uni-1.1",
+  "family_slug": "luma",
+  "family_display": "Luma Uni-1.1",
+  "model_slug": "luma",
+  "model_display": "Luma",
+  "version": "1.1",
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Luma Uni-1.1",
+  "Luma",
+  "luma",
+  "diffusion-image",
+  "family:luma",
+  "text-to-image",
+  "edit",
+  "luma-1-1",
+  "paid"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "luma"
+  ],
+  "versions": [
+   "luma-1-1"
+  ],
+  "features": [
+   "text-to-image",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://lumalabs.ai/api",
+   "host": "lumalabs.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:24:16Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the Dream Machine video model (2024) and Ray2 multimodal architecture (2025) into a unified autoregressive transformer system. The Uni-1.1 update released in May 2026 transitioned the technology into a production-ready API with superior spatial reasoning and multilingual text rendering.",
+  "latest_version": "Uni-1.1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "Luma Uni-1.1 is a production-grade multimodal intelligence API that utilizes a unified reasoning architecture for high-precision image generation and editing. It supports complex tasks like multi-reference grounding with up to 9 inputs and natural-language image modification."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:24:16Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

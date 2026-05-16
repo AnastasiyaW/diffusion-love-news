@@ -1,0 +1,89 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ec5428386a",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Claude Design: Prototype and UI Generation with Opus 4.7",
+ "summary": "Specialized interface for generating high-fidelity UI/UX prototypes and professional presentation layouts using the Claude Opus 4.7 model. It supports high-resolution image analysis and adaptive reasoning to ensure pixel-accurate design execution.",
+ "research_notes": "Features 3.75-megapixel vision support and achieved 87.6% on SWE-bench Verified.",
+ "project": {
+  "name": "Claude Design",
+  "family_slug": "claude",
+  "family_display": "Claude Design",
+  "model_slug": "claude",
+  "model_display": "Claude",
+  "version": null,
+  "released": "2026-04-18",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claude Design",
+  "Claude",
+  "claude",
+  "llm",
+  "family:claude",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "claude"
+  ],
+  "versions": [
+   "claude"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "http://claude.ai/design",
+   "host": "claude.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:08:28Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The product remains the flagship design tool in the Anthropic Labs suite, recently gaining deep integration with automated coding workflows via GitHub webhooks. It is part of the broader Claude 4 series which transitioned to an adaptive thinking architecture.",
+  "latest_version": "Claude Opus 4.7 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-18",
+  "excerpt": "Specialized interface for generating high-fidelity UI/UX prototypes and professional presentation layouts using the Claude Opus 4.7 model. It supports high-resolution image analysis and adaptive reasoning to ensure pixel-accurate design execution."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:08:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

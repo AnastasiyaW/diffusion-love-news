@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-df001e7bab",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GPT Image 2 Prompt Gallery & Skill",
+ "summary": "A curated collection of 160+ high-signal prompts and an agentic skill for OpenAI's GPT Image 2 model. It uses a Reference Gallery Atlas architecture to optimize context window efficiency for AI assistants and autonomous agents.",
+ "research_notes": "Includes a unique budget dial feature to control API spending and specialized prompts for research figures, UI mockups, and complex scene editing.",
+ "project": {
+  "name": "GPT Image 2 Prompt Gallery",
+  "family_slug": "gpt-image",
+  "family_display": "GPT Image 2 Prompt Gallery",
+  "model_slug": "gpt-image-2",
+  "model_display": "GPT Image 2",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT Image 2 Prompt Gallery",
+  "GPT Image 2",
+  "gpt-image",
+  "gpt-image-2",
+  "llm",
+  "family:gpt-image",
+  "model:gpt-image-2",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gpt-image"
+  ],
+  "versions": [
+   "gpt-image"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "gpt-image-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/wuyoscar/gpt_image_2_skill",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:49:15Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/wuyoscar/gpt_image_2_skill/blob/main/README.md",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Pivoted from a flat prompt list to a structured Atlas architecture with category-specific files to minimize token usage for agents. Added a dedicated CLI tool installable via uv and official plugin support for Claude Code and Codex.",
+  "latest_version": "v0.2.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "A curated collection of 160+ high-signal prompts and an agentic skill for OpenAI's GPT Image 2 model. It uses a Reference Gallery Atlas architecture to optimize context window efficiency for AI assistants and autonomous agents."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:49:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

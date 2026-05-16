@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a7521b7b08",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "BACH 1.0: Multi-Shot AI Video Generation",
+ "summary": "BACH is an industrial-grade video generation engine focusing on character stability and directorial control. It allows users to generate 30-second multi-shot films from a single text prompt with synchronized audio.",
+ "research_notes": "Founded by former Tencent scientist Dr. Wei Liu; currently ranks #6 globally on the Artificial Analysis Video Arena benchmark.",
+ "project": {
+  "name": "BACH",
+  "family_slug": "bach",
+  "family_display": "BACH",
+  "model_slug": "bach",
+  "model_display": "BACH",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "BACH",
+  "bach",
+  "diffusion-video",
+  "family:bach",
+  "text-to-video",
+  "image-to-video",
+  "web-demo",
+  "free"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "bach"
+  ],
+  "versions": [
+   "bach"
+  ],
+  "features": [
+   "text-to-video",
+   "image-to-video"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.bach.art/",
+   "host": "bach.art",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:37:39Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.videorebirth.com/",
+   "host": "videorebirth.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the 'BachVid' research paper (2025) to a full industrial launch in May 2026. It has since stabilized as a top-tier cinematic tool featuring a unique multi-shot 'Montage Mode' and 1080p native rendering.",
+  "latest_version": "BACH 1.0 Preview (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "BACH is an industrial-grade video generation engine focusing on character stability and directorial control. It allows users to generate 30-second multi-shot films from a single text prompt with synchronized audio."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:37:39Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

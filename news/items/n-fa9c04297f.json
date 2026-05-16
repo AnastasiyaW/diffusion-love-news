@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-fa9c04297f",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "SillyTavern: Advanced AI Roleplay Interface",
+ "summary": "A highly customizable local-first frontend for interacting with Large Language Models, optimized for roleplay and storytelling. It supports multiple backends including local runners, API providers, and advanced features like character expressions and world-building tools.",
+ "research_notes": "Maintains a rolling release model with a highly active staging branch; requires Node.js 20+ for current stable builds.",
+ "project": {
+  "name": "SillyTavern",
+  "family_slug": "sillytavern",
+  "family_display": "SillyTavern",
+  "model_slug": "sillytavern",
+  "model_display": "SillyTavern",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SillyTavern",
+  "sillytavern",
+  "tools-frontend",
+  "family:sillytavern",
+  "character",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "sillytavern"
+  ],
+  "versions": [
+   "sillytavern"
+  ],
+  "features": [
+   "character"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/SillyTavern/SillyTavern",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:59:21Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/SillyTavern/SillyTavern/blob/release/.github/readme-ru_ru.md",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned into a comprehensive 'AI Roleplay Console' with integrated RAG, live 2D expressions, and native support for multimodal reasoning models like DeepSeek v4 and Claude 4.7. Recent updates focus on interleaved thinking for complex tool-calling and enhanced security against SSRF attacks.",
+  "latest_version": "v1.18.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "A highly customizable local-first frontend for interacting with Large Language Models, optimized for roleplay and storytelling. It supports multiple backends including local runners, API providers, and advanced features like character expressions and world-building tools."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:59:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

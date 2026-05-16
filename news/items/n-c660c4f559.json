@@ -1,0 +1,128 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c660c4f559",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "CDM: Continuous-Time Distribution Matching Diffusion Distillation",
+ "summary": "Continuous-Time Distribution Matching (CDM) is a state-of-the-art framework to accelerate text-to-image diffusion models into high-fidelity, few-step (4 steps) generators. It uses a continuous optimization space, eliminating over-smoothing and visual artifacts without complex auxiliary modules.",
+ "research_notes": "CDM distinguishes itself by not requiring real images, GAN discriminators, or external reward models during training, simplifying the distillation process compared to previous methods.",
+ "project": {
+  "name": "Continuous-Time Distribution Matching",
+  "family_slug": "cdm",
+  "family_display": "Continuous-Time Distribution Matching",
+  "model_slug": "continuous-time-distribution-matching",
+  "model_display": "Continuous-Time Distribution Matching",
+  "version": null,
+  "released": "2026-05-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Continuous-Time Distribution Matching",
+  "cdm",
+  "continuous-time-distribution-matching",
+  "diffusion-image",
+  "family:cdm",
+  "model:continuous-time-distribution-matching",
+  "text-to-image",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "cdm"
+  ],
+  "versions": [
+   "cdm"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "continuous-time-distribution-matching"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://byliutao.github.io/cdm_page/",
+   "host": "byliutao.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/byliutao/Longcat-Image-Turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/byliutao/cdm",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T17:53:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Since its introduction, CDM has been used to distill 'Turbo' versions of popular models like Stable Diffusion 3 Medium and Longcat Image, which are actively maintained and available on Hugging Face. These models achieve high-quality results in just 4 steps, matching or surpassing 100-step teacher models.",
+  "latest_version": "Turbo models (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-11",
+  "excerpt": "Continuous-Time Distribution Matching (CDM) is a state-of-the-art framework to accelerate text-to-image diffusion models into high-fidelity, few-step (4 steps) generators. It uses a continuous optimization space, eliminating over-smoothing and visual artifacts without complex auxiliary modules."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T17:53:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-2.5-flash"
+  },
+  "schema_validated": false
+ }
+}

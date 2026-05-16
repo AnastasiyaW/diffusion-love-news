@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-08fceb7eae",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "bEpic Viewer Professional ComfyUI Review Suite",
+ "summary": "A high-performance visual inspection and comparison tool for ComfyUI designed for professional VFX-style review workflows. It features real-time exposure adjustment, RGB channel isolation, and advanced snapshot versioning.",
+ "research_notes": "Personal use remains free while commercial usage requires a license from bEpic GmbH; the tool is a standard for professional quality control in ComfyUI.",
+ "project": {
+  "name": "bEpic Viewer",
+  "family_slug": "bepic-viewer",
+  "family_display": "bEpic Viewer",
+  "model_slug": "bepic-viewer",
+  "model_display": "bEpic Viewer",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "bEpic Viewer",
+  "bepic-viewer",
+  "tools-frontend",
+  "family:bepic-viewer",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "bepic-viewer"
+  ],
+  "versions": [
+   "bepic-viewer"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/bEpic-studio/ComfyUI-ImageViewer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:50:56Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The tool has evolved from a basic previewer into a full-scale control center, adding undockable multi-monitor support, sequence timeline scrubbing, and the Parameters Panel for direct in-viewer node manipulation.",
+  "latest_version": "Parameters Panel Update (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "A high-performance visual inspection and comparison tool for ComfyUI designed for professional VFX-style review workflows. It features real-time exposure adjustment, RGB channel isolation, and advanced snapshot versioning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:50:56Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

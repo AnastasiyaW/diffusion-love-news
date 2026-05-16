@@ -1,0 +1,125 @@
+{
+ "schema_version": "1.2",
+ "id": "n-596ffa06da",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "ACE-Step 1.5 XL",
+ "summary": "An open-source 4B-parameter Diffusion Transformer (DiT) music foundation model developed by ACE Studio and StepFun. It utilizes a planner-executor architecture to generate full-length high-fidelity songs from text or lyrics.",
+ "research_notes": "Includes a hybrid architecture with an LM planner for song structure and a DiT executor for audio. Supports over 50 languages and commercial use under Apache-2.0/MIT.",
+ "project": {
+  "name": "AceStep 1.5 XL",
+  "family_slug": "acestep",
+  "family_display": "AceStep 1.5 XL",
+  "model_slug": "acestep-1-5",
+  "model_display": "AceStep 1.5",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AceStep 1.5 XL",
+  "AceStep 1.5",
+  "acestep",
+  "acestep-1-5",
+  "audio-music",
+  "family:acestep",
+  "model:acestep-1-5",
+  "huggingface",
+  "gguf",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "acestep"
+  ],
+  "versions": [
+   "acestep"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface",
+   "gguf"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "acestep-1-5"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ace-step/ACE-Step",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:55:37Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Comfy-Org/ace_step_1.5_ComfyUI_files/tree/main/split_files/diffusion_models",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Serveurperso/ACE-Step-1.5-GGUF/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/naxneri/Ace_Step_1.5_XL_Turbo_nvfp4_Comfyui/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from the original 2B model to a 4B parameter DiT in the v1.5 XL release. It added XL-Turbo for 8-step inference, improved vocal coherence, and native ComfyUI support for advanced editing like inpainting and style transfer.",
+  "latest_version": "ACE-Step 1.5 XL (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "An open-source 4B-parameter Diffusion Transformer (DiT) music foundation model developed by ACE Studio and StepFun. It utilizes a planner-executor architecture to generate full-length high-fidelity songs from text or lyrics."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:55:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

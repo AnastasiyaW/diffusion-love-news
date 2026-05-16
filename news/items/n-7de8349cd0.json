@@ -1,0 +1,150 @@
+{
+ "schema_version": "1.2",
+ "id": "n-7de8349cd0",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "CosyVoice 3.0 Multilingual Speech Generation and Cloning",
+ "summary": "A state-of-the-art multilingual speech generation model developed by Alibaba's FunAudioLLM for real-time synthesis and zero-shot voice cloning. It utilizes massive data scaling and reinforcement learning to achieve high-fidelity prosody and emotion across nine major languages.",
+ "research_notes": "Supports Russian among 9 major languages, features 18+ Chinese dialects, and maintains ultra-low first-packet latency of 150ms for streaming applications.",
+ "project": {
+  "name": "CosyVoice 3",
+  "family_slug": "cosyvoice",
+  "family_display": "CosyVoice",
+  "model_slug": "cosyvoice-3",
+  "model_display": "CosyVoice 3",
+  "version": "3",
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CosyVoice 3",
+  "CosyVoice",
+  "cosyvoice",
+  "cosyvoice-3",
+  "audio-music",
+  "family:cosyvoice",
+  "model:cosyvoice-3",
+  "voice-clone",
+  "realtime",
+  "github",
+  "comfyui",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "cosyvoice"
+  ],
+  "versions": [
+   "cosyvoice-3"
+  ],
+  "features": [
+   "voice-clone",
+   "realtime"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "cosyvoice-3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://funaudiollm.github.io/cosyvoice3/",
+   "host": "funaudiollm.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FunAudioLLM/CosyVoice",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:48:19Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/satoza/my-english-voice-tts",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/filliptm/ComfyUI_FL-CosyVoice3",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from v1.0 and v2.0 into v3.0, which introduced a Differentiable Reward Model (DiffRO) for reinforcement learning and scaled training to 1 million hours of speech. Current development focuses on runtime optimizations via TensorRT-LLM and vLLM integration.",
+  "latest_version": "CosyVoice 3.0 (Dec 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "A state-of-the-art multilingual speech generation model developed by Alibaba's FunAudioLLM for real-time synthesis and zero-shot voice cloning. It utilizes massive data scaling and reinforcement learning to achieve high-fidelity prosody and emotion across nine major languages."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:48:19Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

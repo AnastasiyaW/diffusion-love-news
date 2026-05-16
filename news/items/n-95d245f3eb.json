@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-95d245f3eb",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Hermes Agent: Autonomous Creative Workflow System",
+ "summary": "An open-source autonomous agent framework by NousResearch designed for complex task orchestration. It features deep integration with ComfyUI, enabling natural language control over node-based image and video generation workflows.",
+ "research_notes": "The system includes automated hardware checks and self-healing dependency management for complex ComfyUI custom nodes.",
+ "project": {
+  "name": "Hermes Agent",
+  "family_slug": "hermes-agent",
+  "family_display": "Hermes Agent",
+  "model_slug": "hermes-agent",
+  "model_display": "Hermes Agent",
+  "version": null,
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hermes Agent",
+  "hermes-agent",
+  "llm",
+  "family:hermes-agent",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "hermes-agent"
+  ],
+  "versions": [
+   "hermes-agent"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/NousResearch/hermes-agent",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:07:59Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/comfyui",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from a modular skill-based harness into a bundled-by-default autonomous platform. The latest updates introduced Kanban-style multi-agent orchestration and persistent goal tracking across sessions.",
+  "latest_version": "v0.13.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "An open-source autonomous agent framework by NousResearch designed for complex task orchestration. It features deep integration with ComfyUI, enabling natural language control over node-based image and video generation workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:07:59Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

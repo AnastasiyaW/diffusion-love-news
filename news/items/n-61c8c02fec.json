@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-61c8c02fec",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Nvidia Kimodo: Kinematic Motion Diffusion for 3D Animation",
+ "summary": "NVIDIA Kimodo is a kinematic motion diffusion model that generates high-fidelity 3D human and robot animations from text prompts. It utilizes the proprietary Rigplay (RP) dataset and SOMA skeleton model to achieve professional-grade motion quality.",
+ "research_notes": "The model employs a two-stage diffusion architecture that separates root motion from limb movement, effectively eliminating artifacts like foot sliding.",
+ "project": {
+  "name": "Kimodo-SOMA-RP-v1.1",
+  "family_slug": "kimodo",
+  "family_display": "Kimodo-SOMA-RP-v1.1",
+  "model_slug": "kimodo",
+  "model_display": "Kimodo",
+  "version": "v1.1",
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Kimodo-SOMA-RP-v1.1",
+  "Kimodo",
+  "kimodo",
+  "animation-motion",
+  "family:kimodo",
+  "animation",
+  "huggingface",
+  "paper",
+  "kimodo-v1-1"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "kimodo"
+  ],
+  "versions": [
+   "kimodo-v1-1"
+  ],
+  "features": [
+   "animation"
+  ],
+  "formats": [
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Kimodo-SOMA-RP-v1.1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:58:46Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/TMR-SOMA-RP-v1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its March 2026 release, Kimodo was integrated into NVIDIA's ProtoMotions framework to generate synthetic training data for humanoid robots like the Unitree G1. It is currently being expanded for use in NVIDIA Omniverse for industrial digital twin simulations.",
+  "latest_version": "Kimodo v1.1 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "NVIDIA Kimodo is a kinematic motion diffusion model that generates high-fidelity 3D human and robot animations from text prompts. It utilizes the proprietary Rigplay (RP) dataset and SOMA skeleton model to achieve professional-grade motion quality."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:58:46Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

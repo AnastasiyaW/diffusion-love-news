@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2ff0f435cc",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI-mesh2motion: Interactive 3D Mesh Editor for AI Animation",
+ "summary": "A custom node for ComfyUI that integrates an interactive 3D editor for mesh animation and rigging. It enables real-time camera control, skeleton manipulation, and direct video output for generative AI workflows.",
+ "research_notes": "Version 1.2 removed heavy UI dependencies like Vue to ensure seamless integration with the ComfyUI frontend.",
+ "project": {
+  "name": "ComfyUI-mesh2motion",
+  "family_slug": "mesh2motion",
+  "family_display": "ComfyUI-mesh2motion",
+  "model_slug": "mesh2motion",
+  "model_display": "mesh2motion",
+  "version": null,
+  "released": "2026-05-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-mesh2motion",
+  "mesh2motion",
+  "tools-frontend",
+  "family:mesh2motion",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "mesh2motion"
+  ],
+  "versions": [
+   "mesh2motion"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jtydhr88/ComfyUI-mesh2motion",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:28:18Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/jtydhr88/ComfyUI-mesh2motion?ysclid=moxyuvdndb763495137",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://mesh2motion.org/",
+   "host": "mesh2motion.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from a multi-node experimental setup to a consolidated 'Mesh2Motion Explore' node. It now features an embedded iframe-based 3D editor, support for custom FBX asset imports, and direct WebM video generation.",
+  "latest_version": "v1.2.x (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-09",
+  "excerpt": "A custom node for ComfyUI that integrates an interactive 3D editor for mesh animation and rigging. It enables real-time camera control, skeleton manipulation, and direct video output for generative AI workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:28:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ac33c5f998",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX2.3-Multifunctional: Advanced Local AI Video Suite",
+ "summary": "A comprehensive desktop application for high-quality local video generation using the LTX-2.3 diffusion model. It provides hardware-optimized performance, integrated lip-sync, and multi-GPU task queuing for professional AI workflows.",
+ "research_notes": "Optimized for 24GB VRAM hardware; supports fp8 quantization and GGUF model switching to lower entry barriers compared to official releases.",
+ "project": {
+  "name": "LTX2.3-Multifunctional",
+  "family_slug": "ltx",
+  "family_display": "LTX2.3-Multifunctional",
+  "model_slug": "ltx2-3-multifunctional",
+  "model_display": "LTX2.3-Multifunctional",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "ltx2-3-multifunctional"
+  }
+ },
+ "tags": [
+  "LTX2.3-Multifunctional",
+  "ltx",
+  "ltx2-3-multifunctional",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx2-3-multifunctional",
+  "adaptation:lora",
+  "lora-for:ltx2-3-multifunctional",
+  "lip-sync",
+  "edit",
+  "lora",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lip-sync",
+   "edit",
+   "lora"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx2-3-multifunctional"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/hero8152/LTX2.3-Multifunctional",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:18:34Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/dx8152/LTX2.3-Multifunctional",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Lightricks/LTX-Desktop/releases",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a VRAM-optimized fork for consumer GPUs, it evolved into a power-user suite supporting multi-frame modes for unlimited video lengths. Recent updates added support for Gemma-3 text encoders and integrated voice cloning pipelines.",
+  "latest_version": "LTX-2.3 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A comprehensive desktop application for high-quality local video generation using the LTX-2.3 diffusion model. It provides hardware-optimized performance, integrated lip-sync, and multi-GPU task queuing for professional AI workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:18:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c2ca134086",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "ERNIE-Image-Turbo 8B Open-Weight Diffusion Transformer",
+ "summary": "An 8-billion parameter text-to-image model by Baidu based on the Diffusion Transformer (DiT) architecture. It utilizes Distribution Matching Distillation (DMD) and reinforcement learning to generate high-fidelity images in just 8 inference steps.",
+ "research_notes": "Widely recognized for its industry-leading text rendering capabilities and performance in generating complex layouts like infographics and storyboards.",
+ "project": {
+  "name": "Ernie Image Turbo",
+  "family_slug": "ernie-image",
+  "family_display": "Ernie Image Turbo",
+  "model_slug": "ernie-image",
+  "model_display": "Ernie Image",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ernie Image Turbo",
+  "Ernie Image",
+  "ernie-image",
+  "diffusion-image",
+  "family:ernie-image",
+  "text-to-image",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "ernie-image"
+  ],
+  "versions": [
+   "ernie-image"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/baidu/ERNIE-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:16:51Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.patreon.com/file?h=155727922&m=647060631",
+   "host": "patreon.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1smo359/i_tested_ernie_image_turbo_fp8_nvfp4_fp16_and/?share_id=QTxmJsJsWEYjP4Q41EUew&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Baidu released the model weights under the Apache 2.0 license in April 2026, marking a strategic shift toward open-source accessibility. It has since gained native support in the Diffusers library and extensive ComfyUI integration.",
+  "latest_version": "ERNIE-Image-Turbo (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "An 8-billion parameter text-to-image model by Baidu based on the Diffusion Transformer (DiT) architecture. It utilizes Distribution Matching Distillation (DMD) and reinforcement learning to generate high-fidelity images in just 8 inference steps."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:16:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

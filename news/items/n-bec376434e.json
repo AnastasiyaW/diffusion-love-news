@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bec376434e",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "TinyMU: Compact Audio-Language Model for Music Understanding",
+ "summary": "TinyMU is an efficient 229M-parameter model designed for deep music understanding, achieving 82% of SOTA performance while being 35x smaller than major models. It leverages the MATPAC++ audio encoder and the MusicSkills-3.5M dataset to provide fine-grained musical reasoning.",
+ "research_notes": "Trained on the MusicSkills-3.5M dataset; outperforms larger predecessors like MusiLingo and Audio-Flamingo on music reasoning benchmarks.",
+ "project": {
+  "name": "TinyMU",
+  "family_slug": "tinymu",
+  "family_display": "TinyMU",
+  "model_slug": "tinymu",
+  "model_display": "TinyMU",
+  "version": null,
+  "released": "2026-04-25",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TinyMU",
+  "tinymu",
+  "audio-music",
+  "family:tinymu",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "tinymu"
+  ],
+  "versions": [
+   "tinymu"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/xiquan-li/TinyMU",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:10:37Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AndreasXi/TinyMU/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Accepted by ICASSP 2026 and publicly released in April 2026, TinyMU proves that high-quality supervision and specialized encoders can replace massive parameter scale. The research evolved into fine-grained pre-training with FineLAP and MeanAudio later in 2026.",
+  "latest_version": "TinyMU (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-25",
+  "excerpt": "TinyMU is an efficient 229M-parameter model designed for deep music understanding, achieving 82% of SOTA performance while being 35x smaller than major models. It leverages the MATPAC++ audio encoder and the MusicSkills-3.5M dataset to provide fine-grained musical reasoning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:10:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

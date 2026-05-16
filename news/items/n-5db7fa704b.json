@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5db7fa704b",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "World-R1: Reinforcing 3D Constraints for Video Generation",
+ "summary": "A research project from Microsoft that improves 3D geometric consistency in text-to-video models using the Flow-GRPO reinforcement learning framework. It optimizes models like Wan 2.1 using feedback from 3D foundation models to prevent object warping and hallucinations during camera movement.",
+ "research_notes": "Uses feedback from Depth Anything 3 and Qwen3-VL to reinforce 3D constraints during training.",
+ "project": {
+  "name": "World-R1",
+  "family_slug": "world-r1",
+  "family_display": "World-R1",
+  "model_slug": "world-r1",
+  "model_display": "World-R1",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "World-R1",
+  "world-r1",
+  "diffusion-video",
+  "family:world-r1",
+  "text-to-video",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "world-r1"
+  ],
+  "versions": [
+   "world-r1"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://microsoft.github.io/World-R1/",
+   "host": "microsoft.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/microsoft/World-R1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:30:25Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, World-R1 introduced a post-training reinforcement learning approach that requires no 3D assets. It achieved significant geometric consistency improvements (7-10 dB PSNR) over base models and was presented at ICML 2026.",
+  "latest_version": "World-R1-Large (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "A research project from Microsoft that improves 3D geometric consistency in text-to-video models using the Flow-GRPO reinforcement learning framework. It optimizes models like Wan 2.1 using feedback from 3D foundation models to prevent object warping and hallucinations during camera movement."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:30:25Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

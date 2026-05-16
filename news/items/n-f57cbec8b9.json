@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f57cbec8b9",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "LingBot-Map Real-time Streaming 3D Scene Reconstruction",
+ "summary": "LingBot-Map is a 3D foundation model designed for real-time, streaming 3D reconstruction from standard RGB video sequences. It utilizes a Geometric Context Transformer (GCT) architecture to handle coordinate grounding and long-range drift correction for embodied AI applications.",
+ "research_notes": "Achieved state-of-the-art results on Oxford Spires and ETH3D benchmarks at launch, outperforming both streaming and offline methods.",
+ "project": {
+  "name": "LingBot-Map",
+  "family_slug": "lingbot-map",
+  "family_display": "LingBot-Map",
+  "model_slug": "lingbot-map",
+  "model_display": "LingBot-Map",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LingBot-Map",
+  "lingbot-map",
+  "3d",
+  "family:lingbot-map",
+  "realtime",
+  "scene",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "lingbot-map"
+  ],
+  "versions": [
+   "lingbot-map"
+  ],
+  "features": [
+   "realtime",
+   "scene"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://technology.robbyant.com/lingbot-map",
+   "host": "technology.robbyant.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Robbyant/lingbot-map",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:17:45Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/robbyant/lingbot-map",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched by Ant Group's Robbyant division in mid-April 2026. Rapidly updated with FlashInfer KV cache optimizations for long sequences and hardware acceleration enabling 20 FPS real-time performance. A 25,000-frame indoor walkthrough demo was released in late April to demonstrate long-term stability.",
+  "latest_version": "LingBot-Map (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "LingBot-Map is a 3D foundation model designed for real-time, streaming 3D reconstruction from standard RGB video sequences. It utilizes a Geometric Context Transformer (GCT) architecture to handle coordinate grounding and long-range drift correction for embodied AI applications."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:17:45Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

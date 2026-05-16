@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d9b76e73f7",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Vista4D: Netflix Framework for 4D Video Reshooting",
+ "summary": "Vista4D is a framework by Netflix’s Eyeline Labs for synthesizing existing video footage from entirely new camera trajectories using 4D point clouds. It combines 4D reconstruction with generative video models to enable post-production camera framing and scene recomposition.",
+ "research_notes": "Developed by Eyeline Studios (Netflix) in collaboration with researchers from Columbia, UCLA, Stony Brook, and Oxford.",
+ "project": {
+  "name": "Vista4D",
+  "family_slug": "vista4d",
+  "family_display": "Vista4D",
+  "model_slug": "vista4d",
+  "model_display": "Vista4D",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Vista4D",
+  "vista4d",
+  "3d",
+  "family:vista4d",
+  "scene",
+  "depth",
+  "video-to-video",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "vista4d"
+  ],
+  "versions": [
+   "vista4d"
+  ],
+  "features": [
+   "scene",
+   "depth",
+   "video-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://eyeline-labs.github.io/Vista4D/",
+   "host": "eyeline-labs.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Eyeline-Labs/Vista4D",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:16:33Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Eyeline-Labs/Vista4D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Selected as a CVPR 2026 Highlight, Vista4D was released in April 2026 with open-source inference code and model weights (384p and 720p). It utilizes the Wan2.1-T2V-14B base model and is currently part of Netflix’s AI-driven filmmaking roadmap.",
+  "latest_version": "Vista4D (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "Vista4D is a framework by Netflix’s Eyeline Labs for synthesizing existing video footage from entirely new camera trajectories using 4D point clouds. It combines 4D reconstruction with generative video models to enable post-production camera framing and scene recomposition."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:16:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

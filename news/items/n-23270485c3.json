@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-23270485c3",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "LiveActionAOV Standalone Tool for Batch VFX Pass Generation",
+ "summary": "An open-source standalone application that generates high-quality VFX passes like depth, normals, and segmentation masks from live-action footage. It automates the creation of Nuke-compatible sidecar EXR files while managing scene-linear colorspace conversions and batch processing.",
+ "research_notes": "Created specifically for Nuke compositors to provide reliable, multi-channel AI passes without the complexity of node-based AI graphs.",
+ "project": {
+  "name": "LiveActionAOV",
+  "family_slug": "liveactionaov",
+  "family_display": "LiveActionAOV",
+  "model_slug": "liveactionaov",
+  "model_display": "LiveActionAOV",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LiveActionAOV",
+  "liveactionaov",
+  "tools-frontend",
+  "family:liveactionaov",
+  "depth",
+  "normal-map",
+  "segmentation",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "liveactionaov"
+  ],
+  "versions": [
+   "liveactionaov"
+  ],
+  "features": [
+   "depth",
+   "normal-map",
+   "segmentation"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/lettidude/LiveActionAOV",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:41:41Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=HnosSnK1MKs",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Developed from a manual ComfyUI workflow into a unified standalone GUI/CLI tool to solve flicker and colorspace issues in professional VFX pipelines. Recent updates integrated SAM 3 for high-precision alpha refinement and semantic masking.",
+  "latest_version": "v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "An open-source standalone application that generates high-quality VFX passes like depth, normals, and segmentation masks from live-action footage. It automates the creation of Nuke-compatible sidecar EXR files while managing scene-linear colorspace conversions and batch processing."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:41:41Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

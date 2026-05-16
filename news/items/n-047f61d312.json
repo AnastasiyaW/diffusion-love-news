@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-047f61d312",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "video-use: AI Agent Video Editing Toolkit",
+ "summary": "An open-source framework that enables AI agents like Claude Code to perform automated video editing via natural language. It uses visual composites and structured metadata to guide FFmpeg for precise, token-efficient production.",
+ "research_notes": "Optimized for terminal-based agents; features '12 hard rules' for professional-grade cuts and recently updated to support UTF-8 encoding and portrait orientation preservation.",
+ "project": {
+  "name": "video-use",
+  "family_slug": "video-use",
+  "family_display": "video-use",
+  "model_slug": "video-use",
+  "model_display": "video-use",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "video-use",
+  "llm",
+  "family:video-use",
+  "edit",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "video-use"
+  ],
+  "versions": [
+   "video-use"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/browser-use/video-use",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:23:04Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a basic automation script into a specialized agent skill with local-first rendering, automated filler removal, and support for programmatic overlays via HyperFrames and Remotion.",
+  "latest_version": "Main Branch (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "An open-source framework that enables AI agents like Claude Code to perform automated video editing via natural language. It uses visual composites and structured metadata to guide FFmpeg for precise, token-efficient production."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:23:04Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

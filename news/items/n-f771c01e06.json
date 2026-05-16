@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f771c01e06",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "CORAL: Infrastructure for Autonomous Multi-Agent Evolution",
+ "summary": "CORAL is an open-source framework by Human-Agent-Society designed for building self-evolving multi-agent organizations. It enables autonomous agents to conduct experiments in isolated worktrees while sharing a persistent knowledge hub to drive open-ended scientific discovery and system optimization.",
+ "research_notes": "Achieved new SOTA results in kernel engineering and mathematical optimization, including a 20% performance gain over human-level baselines in Anthropic's kernel benchmark.",
+ "project": {
+  "name": "CORAL",
+  "family_slug": "coral",
+  "family_display": "CORAL",
+  "model_slug": "coral",
+  "model_display": "CORAL",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CORAL",
+  "coral",
+  "llm",
+  "family:coral",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "coral"
+  ],
+  "versions": [
+   "coral"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://human-agent-society.github.io/CORAL/",
+   "host": "human-agent-society.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Human-Agent-Society/Coral",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:48:37Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a 2025 project focused on collaborative reasoning between LLMs, it evolved in early 2026 into an autonomous research platform. It now supports 'spontaneous organization' where agents form alliances and self-refine their collaborative structures to solve complex engineering and mathematical tasks.",
+  "latest_version": "CORAL Infrastructure (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "CORAL is an open-source framework by Human-Agent-Society designed for building self-evolving multi-agent organizations. It enables autonomous agents to conduct experiments in isolated worktrees while sharing a persistent knowledge hub to drive open-ended scientific discovery and system optimization."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:48:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

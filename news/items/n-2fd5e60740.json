@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2fd5e60740",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "QuickMagic AI: Professional Video-to-Mocap and Avatar Service",
+ "summary": "QuickMagic is an AI-driven platform that converts standard video into high-fidelity 3D motion capture data for body, hands, and face. It provides creators with a cost-effective alternative to hardware-based mocap suits for game development and animation.",
+ "research_notes": "Includes a free tier with 50 credits per month and direct export plugins for Unreal Engine 5.6+ and Blender.",
+ "project": {
+  "name": "QuickMagic",
+  "family_slug": "quickmagic",
+  "family_display": "QuickMagic",
+  "model_slug": "quickmagic",
+  "model_display": "QuickMagic",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "QuickMagic",
+  "quickmagic",
+  "animation-motion",
+  "family:quickmagic",
+  "mocap",
+  "animation",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "quickmagic"
+  ],
+  "versions": [
+   "quickmagic"
+  ],
+  "features": [
+   "mocap",
+   "animation"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.quickmagic.ai/home",
+   "host": "quickmagic.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:00:29Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.quickmagic.ai/avatar",
+   "host": "quickmagic.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "In early 2026, the project released the Animation Base Model V2.0, significantly improving motion trajectory and handling complex airborne actions. It now features Physics Optimization 2.0 to prevent foot sliding and supports multi-subject tracking alongside native iClone integration.",
+  "latest_version": "Animation Base Model V2.0 (Feb 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "QuickMagic is an AI-driven platform that converts standard video into high-fidelity 3D motion capture data for body, hands, and face. It provides creators with a cost-effective alternative to hardware-based mocap suits for game development and animation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:00:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

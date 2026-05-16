@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-6b3a93f373",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "VibeComfy 2.0: Agentic ComfyUI Python Interface",
+ "summary": "An agent-centric interface for ComfyUI that replaces manual node-graph editing with a code-first Python environment. It utilizes a specialized Intermediate Representation to allow AI agents to programmatically orchestrate generative media pipelines.",
+ "research_notes": "It uses a pip-installable fork of ComfyUI, making the entire generative engine a standard Python dependency that can be embedded directly into scripts.",
+ "project": {
+  "name": "VibeComfy 2.0",
+  "family_slug": "vibecomfy",
+  "family_display": "VibeComfy",
+  "model_slug": "vibecomfy-2-0",
+  "model_display": "VibeComfy 2.0",
+  "version": "2.0",
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "VibeComfy 2.0",
+  "VibeComfy",
+  "vibecomfy",
+  "vibecomfy-2-0",
+  "tools-frontend",
+  "family:vibecomfy",
+  "model:vibecomfy-2-0",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "vibecomfy"
+  ],
+  "versions": [
+   "vibecomfy-2-0"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "vibecomfy-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/peteromallet/VibeComfy",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T21:50:04Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project was completely rebuilt in version 2.0 to transition from manual JSON editing to an 'agent-first' design. Post-release updates have focused on expanding the template library for newer video models and improving the indexing of third-party custom nodes.",
+  "latest_version": "VibeComfy 2.0 (Feb 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "An agent-centric interface for ComfyUI that replaces manual node-graph editing with a code-first Python environment. It utilizes a specialized Intermediate Representation to allow AI agents to programmatically orchestrate generative media pipelines."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T21:50:04Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

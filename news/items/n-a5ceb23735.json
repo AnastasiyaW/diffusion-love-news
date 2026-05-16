@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a5ceb23735",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Uni-ViGU: Unified Video Generation and Understanding",
+ "summary": "Uni-ViGU is a unified framework that extends a diffusion-based video generator to perform both video generation and understanding tasks. It utilizes a modality-driven Mixture-of-Experts architecture and a unified flow matching mechanism to integrate continuous video and discrete text modalities.",
+ "research_notes": "Built on the Wan2.1 Diffusion Transformer architecture; introduces specialized Feed-Forward Network experts to handle different modalities within a single flow.",
+ "project": {
+  "name": "Uni-ViGU",
+  "family_slug": "uni-vigu",
+  "family_display": "Uni-ViGU",
+  "model_slug": "uni-vigu",
+  "model_display": "Uni-ViGU",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Uni-ViGU",
+  "uni-vigu",
+  "diffusion-video",
+  "family:uni-vigu",
+  "text-to-video",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "uni-vigu"
+  ],
+  "versions": [
+   "uni-vigu"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://fr0zencrane.github.io/uni-vigu-page/",
+   "host": "fr0zencrane.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Fr0zenCrane/Uni-ViGU",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:46:48Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Fr0zencr4nE/Uni-ViGU/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Initial release in April 2026; the project demonstrates a shift towards using video generators like Wan2.1 as a foundation for multimodal intelligence instead of extending large language models.",
+  "latest_version": "Uni-ViGU v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "Uni-ViGU is a unified framework that extends a diffusion-based video generator to perform both video generation and understanding tasks. It utilizes a modality-driven Mixture-of-Experts architecture and a unified flow matching mechanism to integrate continuous video and discrete text modalities."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:46:48Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5ade5d658c",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Open Generative AI (formerly Open Higgsfield AI)",
+ "summary": "An open-source multi-model studio for image, video, and audio generation that serves as a unified frontend for various SOTA models. It supports over 200 models including Flux, Kling, and Wan, featuring specialized studios for lip-sync and cinematic video production.",
+ "research_notes": "The project is MIT-licensed but relies on the creator's paid Muapi service by default, though newer versions support self-hosted local servers for inference.",
+ "project": {
+  "name": "Open Higgsfield AI",
+  "family_slug": "open-generative-ai",
+  "family_display": "Open Higgsfield AI",
+  "model_slug": "open-higgsfield-ai",
+  "model_display": "Open Higgsfield AI",
+  "version": null,
+  "released": "2026-04-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Open Higgsfield AI",
+  "open-generative-ai",
+  "open-higgsfield-ai",
+  "tools-frontend",
+  "family:open-generative-ai",
+  "model:open-higgsfield-ai",
+  "text-to-video",
+  "lip-sync",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "open-generative-ai"
+  ],
+  "versions": [
+   "open-generative-ai"
+  ],
+  "features": [
+   "text-to-video",
+   "lip-sync"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "open-higgsfield-ai"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-16T09:37:21Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Anil-matcha/Open-Higgsfield-AI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally launched as a cinematic video studio alternative, the project was rebranded to Open Generative AI to reflect its expansion into a comprehensive platform supporting image, video, and audio models. It introduced a node-based Workflow Studio and added local model inference capabilities using a C++ engine.",
+  "latest_version": "v1.0.2 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-11",
+  "excerpt": "An open-source multi-model studio for image, video, and audio generation that serves as a unified frontend for various SOTA models. It supports over 200 models including Flux, Kling, and Wan, featuring specialized studios for lip-sync and cinematic video production."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:37:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

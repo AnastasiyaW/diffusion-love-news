@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2938402642",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Boxer: Open-World 2D-to-3D Bounding Box Lifting",
+ "summary": "A research project from Meta Reality Labs that lifts open-vocabulary 2D object detections into globally consistent 3D oriented bounding boxes using posed images and optional sparse depth. It employs a transformer-based network called BoxerNet to predict 7-DoF boxes across egocentric and indoor datasets.",
+ "research_notes": "The project includes a massive dataset of 1.22 million unique 3D bounding boxes and supports integration with Project Aria glasses and ScanNet.",
+ "project": {
+  "name": "Boxer",
+  "family_slug": "boxer",
+  "family_display": "Boxer",
+  "model_slug": "boxer",
+  "model_display": "Boxer",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Boxer",
+  "boxer",
+  "3d",
+  "family:boxer",
+  "segmentation",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "boxer"
+  ],
+  "versions": [
+   "boxer"
+  ],
+  "features": [
+   "segmentation"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://facebookresearch.github.io/boxer/",
+   "host": "facebookresearch.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/boxer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:46:48Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/facebook/boxer/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Building on the CuTR architecture, Boxer introduced aleatoric uncertainty and median depth patch encoding for improved robustness. Since its release in early 2026, it has been ported to mobile devices as Boxer3D, utilizing YOLO11 for real-time 3D object detection on iOS.",
+  "latest_version": "Boxer v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "A research project from Meta Reality Labs that lifts open-vocabulary 2D object detections into globally consistent 3D oriented bounding boxes using posed images and optional sparse depth. It employs a transformer-based network called BoxerNet to predict 7-DoF boxes across egocentric and indoor datasets."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:46:48Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

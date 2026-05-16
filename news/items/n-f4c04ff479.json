@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f4c04ff479",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Spatial Studio 3D Gaussian Splatting by Real Horizons",
+ "summary": "Spatial Studio is a SaaS platform for creating immersive 3D visualizations using Gaussian Splatting technology. It specializes in property marketing by combining site-scale scans with Google 3D Maps and high-resolution 360° panoramas.",
+ "research_notes": "Utilized for major commercial showcases like the Singapore Air Show 2026; supports optimized splat formats like .spz and .sogs.",
+ "project": {
+  "name": "Spatial Studio",
+  "family_slug": "spatial-studio",
+  "family_display": "Spatial Studio",
+  "model_slug": "spatial-studio",
+  "model_display": "Spatial Studio",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spatial Studio",
+  "spatial-studio",
+  "gaussian-splatting",
+  "family:spatial-studio",
+  "scene",
+  "edit",
+  "paid"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "spatial-studio"
+  ],
+  "versions": [
+   "spatial-studio"
+  ],
+  "features": [
+   "scene",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://realhorizons.ai",
+   "host": "realhorizons.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:57:39Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://realhorizons.ai/",
+   "host": "realhorizons.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "apple-store",
+   "url": "https://apps.apple.com/in/app/spatial-lens-real-horizons/id6762635917",
+   "host": "apps.apple.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://studio.realhorizons.ai/explore",
+   "host": "studio.realhorizons.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a beta capture tool into a unified spatial engine with integrated AI automation. Current iterations feature Spatial Sense AI for scene analysis and LOD streaming to enable high-fidelity 3DGS on mobile browsers.",
+  "latest_version": "Unified Spatial Engine (Mid-2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "Spatial Studio is a SaaS platform for creating immersive 3D visualizations using Gaussian Splatting technology. It specializes in property marketing by combining site-scale scans with Google 3D Maps and high-resolution 360° panoramas."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:57:39Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

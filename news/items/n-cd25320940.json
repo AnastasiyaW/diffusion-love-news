@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-cd25320940",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Sync-3: Professional AI Lip-Sync by Sync Labs",
+ "summary": "A 16-billion-parameter AI model designed for high-fidelity video lip-syncing with 4K output and emotion preservation. It uses a zero-shot architecture to synchronize any audio with any face, including profile shots and obstructed views.",
+ "research_notes": "Developed by the original authors of Wav2Lip; offers an official Adobe Premiere Pro integration and enterprise API supporting 95+ languages.",
+ "project": {
+  "name": "Sync-3",
+  "family_slug": "sync-labs",
+  "family_display": "Sync-3",
+  "model_slug": "sync-3",
+  "model_display": "Sync-3",
+  "version": "3",
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sync-3",
+  "sync-labs",
+  "sync-3",
+  "animation-motion",
+  "family:sync-labs",
+  "model:sync-3",
+  "lip-sync",
+  "web-demo",
+  "sync-labs-3",
+  "free"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "sync-labs"
+  ],
+  "versions": [
+   "sync-labs-3"
+  ],
+  "features": [
+   "lip-sync"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "sync-3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://sync.so/",
+   "host": "sync.so",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:39:24Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://sync.so/try",
+   "host": "sync.so",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://sync.so/docs/models/lipsync?utm_campaign=sync-labs-launches-sync-3-to-handle-the-complex-scenes-that-break-other-lipsync-models&utm_medium=referral&utm_source=www.vp-land.com",
+   "host": "sync.so",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the academic success of Wav2Lip, Sync Labs released Lipsync-2 in 2024 and the flagship Sync-3 in April 2026. The latest version features native 4K super-resolution, obstruction detection, and a global scene understanding model.",
+  "latest_version": "Sync-3 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A 16-billion-parameter AI model designed for high-fidelity video lip-syncing with 4K output and emotion preservation. It uses a zero-shot architecture to synchronize any audio with any face, including profile shots and obstructed views."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:39:24Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

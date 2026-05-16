@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ea73b925dc",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Seed3D 2.0: ByteDance's Production-Ready 3D Foundation Model",
+ "summary": "Seed3D 2.0 is a state-of-the-art generative model for creating high-fidelity 3D assets with physically-based rendering (PBR) textures. It utilizes a coarse-to-fine DiT architecture and Mixture-of-Experts (MoE) scaling to produce simulation-ready models suitable for robotics and industrial workflows.",
+ "research_notes": "Achieved significant performance leads over Hunyuan3D and Tripo in geometric precision; available via ByteDance's Volcano Engine API.",
+ "project": {
+  "name": "Seed3D 2.0",
+  "family_slug": "seed",
+  "family_display": "Seed3D",
+  "model_slug": "seed3d-2-0",
+  "model_display": "Seed3D 2.0",
+  "version": "2.0",
+  "released": "2026-04-24",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seed3D 2.0",
+  "Seed3D",
+  "seed",
+  "seed3d-2-0",
+  "3d",
+  "family:seed",
+  "model:seed3d-2-0",
+  "seed-2-0",
+  "china"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "seed"
+  ],
+  "versions": [
+   "seed-2-0"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "seed3d-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://seed.bytedance.com/en/seed3d_2_0",
+   "host": "seed.bytedance.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:16:09Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://exp.volcengine.com/ark/vision?_vtm_=0.0.c70961.d701978.0&mode=vision&modelId=doubao-seed3d-2-0-260328&tab=Gen3D",
+   "host": "exp.volcengine.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from Seed3D 1.0 by transitioning to a two-stage DiT pipeline and MoE-based material engine. It added support for URDF export for robotics simulation, functional part decomposition, and scene-level generation capabilities.",
+  "latest_version": "Seed3D 2.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-24",
+  "excerpt": "Seed3D 2.0 is a state-of-the-art generative model for creating high-fidelity 3D assets with physically-based rendering (PBR) textures. It utilizes a coarse-to-fine DiT architecture and Mixture-of-Experts (MoE) scaling to produce simulation-ready models suitable for robotics and industrial workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:16:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

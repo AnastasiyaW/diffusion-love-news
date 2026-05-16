@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-02d9e4ba24",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenMobile: Open-Source Mobile Agent Framework",
+ "summary": "A comprehensive framework and dataset for training mobile agents to autonomously navigate and perform multi-step tasks in Android environments. It introduces a scalable task synthesis pipeline and policy-switching rollout strategies to improve agent performance and error recovery.",
+ "research_notes": "Developed by Nanjing University and SenseTime; the release includes 34K action steps and tools for visualizing agent trajectories.",
+ "project": {
+  "name": "OpenMobile",
+  "family_slug": "openmobile",
+  "family_display": "OpenMobile",
+  "model_slug": "openmobile",
+  "model_display": "OpenMobile",
+  "version": null,
+  "released": "2026-04-24",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenMobile",
+  "openmobile",
+  "llm",
+  "family:openmobile",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "openmobile"
+  ],
+  "versions": [
+   "openmobile"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://njucckevin.github.io/openmobile/",
+   "host": "njucckevin.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/njucckevin/OpenMobile-Code",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:20:13Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/cckevinn/OpenMobile-8B/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Building on the grounding capabilities of the earlier SeeClick project, OpenMobile evolved into a full task-execution pipeline. As of 2026, fine-tuned versions using Qwen3-VL have reached state-of-the-art success rates on the AndroidWorld benchmark.",
+  "latest_version": "OpenMobile (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-24",
+  "excerpt": "A comprehensive framework and dataset for training mobile agents to autonomously navigate and perform multi-step tasks in Android environments. It introduces a scalable task synthesis pipeline and policy-switching rollout strategies to improve agent performance and error recovery."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:20:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ea4c5d4dff",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "LAVA Genie: AI-Integrated Stringless Smart Guitar",
+ "summary": "A modular, stringless digital instrument that combines a touch-sensitive interface with AI-powered music composition tools. It allows users to decode, transcribe, and perform songs using simplified chord modes and real-time AI backing tracks.",
+ "research_notes": "Features a unique foldable design and built-in 32W subwoofer system; advanced AI features require a LAVA+ subscription.",
+ "project": {
+  "name": "Lava Genie",
+  "family_slug": "lava-music",
+  "family_display": "Lava Genie",
+  "model_slug": "lava-genie",
+  "model_display": "Lava Genie",
+  "version": null,
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Lava Genie",
+  "lava-music",
+  "lava-genie",
+  "audio-music",
+  "family:lava-music",
+  "model:lava-genie",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "lava-music"
+  ],
+  "versions": [
+   "lava-music"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "lava-genie"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.lavamusic.com/lava-genie",
+   "host": "lavamusic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:24:11Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://lavame.ru/lava-genie/",
+   "host": "lavame.ru",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://lavame.ru/%D1%81%D0%BE%D0%B2%D0%B5%D1%80%D1%88%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BA%D0%B0-lava-me/",
+   "host": "lavame.ru",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from smart acoustic guitars to a fully digital, stringless platform with the Genie launch in late 2024. The ecosystem now centers on the LAVA+ app's AI song decoding capabilities and modular hardware expansion.",
+  "latest_version": "LAVA Genie Gen 1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A modular, stringless digital instrument that combines a touch-sensitive interface with AI-powered music composition tools. It allows users to decode, transcribe, and perform songs using simplified chord modes and real-time AI backing tracks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:24:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

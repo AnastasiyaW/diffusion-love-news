@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-7e83db4168",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen Code: Autonomous AI Coding Agent",
+ "summary": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
+ "research_notes": "Supports Model Context Protocol (MCP) and handles massive context windows up to 1 million tokens for large-scale codebases.",
+ "project": {
+  "name": "Qwen Code",
+  "family_slug": "qwen",
+  "family_display": "Qwen Code",
+  "model_slug": "qwen",
+  "model_display": "Qwen",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen Code",
+  "Qwen",
+  "qwen",
+  "llm",
+  "family:qwen",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/QwenLM/qwen-code",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:04:11Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/QwenLM/qwen-code/releases",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from Qwen2.5-Coder into a full agentic ecosystem featuring 'Thinking Mode' for reasoning and native multimodal support for UI and diagram understanding.",
+  "latest_version": "Qwen3.6 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:04:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

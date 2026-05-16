@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b651b2cbf2",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "AvatarPointillist: AutoRegressive 4D Gaussian Avatars from Images",
+ "summary": "A framework that generates drivable 4D Gaussian avatars from a single portrait image using a decoder-only Transformer. It treats avatar generation as a sequential prediction task to achieve high-fidelity geometric details and expressions.",
+ "research_notes": "Collaborative project between HKUST and Ant Group; utilizes 3D Gaussian Splatting for real-time, photorealistic rendering and animation.",
+ "project": {
+  "name": "AvatarPointillist",
+  "family_slug": "avatarpointillist",
+  "family_display": "AvatarPointillist",
+  "model_slug": "avatarpointillist",
+  "model_display": "AvatarPointillist",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AvatarPointillist",
+  "avatarpointillist",
+  "gaussian-splatting",
+  "family:avatarpointillist",
+  "animation",
+  "face",
+  "github"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "avatarpointillist"
+  ],
+  "versions": [
+   "avatarpointillist"
+  ],
+  "features": [
+   "animation",
+   "face"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://kumapowerliu.github.io/AvatarPointillist/",
+   "host": "kumapowerliu.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KumapowerLIU/AvatarPointillist",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:09:12Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Accepted to CVPR 2026. It represents an evolution from earlier works like AvatarArtist and HeadArtist, moving from template-based or distillation methods to a pure autoregressive generation approach. Public code release is pending internal review.",
+  "latest_version": "CVPR 2026 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A framework that generates drivable 4D Gaussian avatars from a single portrait image using a decoder-only Transformer. It treats avatar generation as a sequential prediction task to achieve high-fidelity geometric details and expressions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:09:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

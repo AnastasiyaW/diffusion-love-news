@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9dd20d8e0c",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "4C4D: 4 Camera 4D Gaussian Splatting",
+ "summary": "A framework for 4D dynamic scene reconstruction using only four portable cameras. It introduces a Neural Decaying Function to prioritize geometric structure over appearance, preventing overfitting in extremely sparse camera setups.",
+ "research_notes": "Utilizes MASt3R for dense point cloud initialization since traditional COLMAP fails with such sparse input.",
+ "project": {
+  "name": "4C4D",
+  "family_slug": "4c4d",
+  "family_display": "4C4D",
+  "model_slug": "4c4d",
+  "model_display": "4C4D",
+  "version": "4C4D",
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "4C4D",
+  "4c4d",
+  "gaussian-splatting",
+  "family:4c4d",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "4c4d"
+  ],
+  "versions": [
+   "4c4d"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://junshengzhou.github.io/4C4D/",
+   "host": "junshengzhou.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/yangzf-1023/4C4D",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:09:33Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Published in April 2026 and accepted to CVPR 2026. The project represents a major advancement in 4D Gaussian Splatting by enabling high-fidelity reconstruction from as few as four views.",
+  "latest_version": "CVPR 2026 Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A framework for 4D dynamic scene reconstruction using only four portable cameras. It introduces a Neural Decaying Function to prioritize geometric structure over appearance, preventing overfitting in extremely sparse camera setups."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:09:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

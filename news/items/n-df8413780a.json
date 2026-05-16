@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-df8413780a",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI-zveroboy-photo for RAW Workflow and Photorealism",
+ "summary": "A suite of ComfyUI nodes for advanced post-processing, RAW image manipulation, and sensor noise simulation. It facilitates professional photography workflows by supporting DNG output and camera-specific EXIF metadata integration.",
+ "research_notes": "Includes tools specifically designed to make AI-generated images appear as genuine photographs to bypass AI detection signatures.",
+ "project": {
+  "name": "ComfyUI-zveroboy-photo",
+  "family_slug": "zveroboy-photo",
+  "family_display": "ComfyUI-zveroboy-photo",
+  "model_slug": "zveroboy-photo",
+  "model_display": "zveroboy-photo",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-zveroboy-photo",
+  "zveroboy-photo",
+  "tools-frontend",
+  "family:zveroboy-photo",
+  "image-to-image",
+  "edit",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "zveroboy-photo"
+  ],
+  "versions": [
+   "zveroboy-photo"
+  ],
+  "features": [
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/thezveroboy/ComfyUI-zveroboy-photo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:59:36Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from simple noise-addition tools to a sophisticated engine for RAW/DNG workflows, including authentic sensor noise modeling (Shot and Read noise) and professional camera metadata presets.",
+  "latest_version": "Rolling Release (April 2026 update)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "A suite of ComfyUI nodes for advanced post-processing, RAW image manipulation, and sensor noise simulation. It facilitates professional photography workflows by supporting DNG output and camera-specific EXIF metadata integration."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:59:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

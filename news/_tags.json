@@ -1,0 +1,5268 @@
+{
+ "3DGS": [
+  "n-60f7bb3300"
+ ],
+ "3d": [
+  "n-f57cbec8b9",
+  "n-f1139f1ee9",
+  "n-f0cec18709",
+  "n-ee38e77991",
+  "n-ea73b925dc",
+  "n-e63a0d4512",
+  "n-d9b76e73f7",
+  "n-d7c3a5e60e",
+  "n-c8fc3fe21e",
+  "n-a549ac3575",
+  "n-a4fb636ca8",
+  "n-a3c0ebdd3a",
+  "n-9e0a0fba7f",
+  "n-7c1f689c14",
+  "n-5be6e62e52",
+  "n-545f242033",
+  "n-4694b833dd",
+  "n-461304d95b",
+  "n-40f1573a5d",
+  "n-3b297c8441",
+  "n-2938402642",
+  "n-23309eb954",
+  "n-1e0d9b8388",
+  "n-155ef8c3dc",
+  "n-08dc2040a6",
+  "n-01b786ce9f"
+ ],
+ "3dgs": [
+  "n-60f7bb3300"
+ ],
+ "4C4D": [
+  "n-9dd20d8e0c"
+ ],
+ "4c4d": [
+  "n-9dd20d8e0c"
+ ],
+ "ACE-Step 1.5": [
+  "n-b9e02bd01a"
+ ],
+ "ACE-Step 1.5 XL": [
+  "n-b9e02bd01a"
+ ],
+ "AI Metadata Inspector": [
+  "n-02e0b8ae6c"
+ ],
+ "AI Selfes": [
+  "n-807bf78763"
+ ],
+ "AI4Animation": [
+  "n-535631e71f"
+ ],
+ "AI4AnimationPy": [
+  "n-535631e71f"
+ ],
+ "AP Netflix VOID": [
+  "n-08ae804484"
+ ],
+ "AURA": [
+  "n-5e356466d0"
+ ],
+ "AceStep 1.5": [
+  "n-596ffa06da"
+ ],
+ "AceStep 1.5 XL": [
+  "n-596ffa06da"
+ ],
+ "Adaptive Spatio-Temporal": [
+  "n-ccb2a502fb"
+ ],
+ "Adaptive Spatio-Temporal 3DGS": [
+  "n-ccb2a502fb"
+ ],
+ "AgentOfficeSuite": [
+  "n-cfec66a95b"
+ ],
+ "Any4D": [
+  "n-155ef8c3dc"
+ ],
+ "AnyRecon": [
+  "n-5be6e62e52"
+ ],
+ "ArcFlow": [
+  "n-a7d1f83b13"
+ ],
+ "Assistant_Pepe_32B": [
+  "n-73e8b27cb3"
+ ],
+ "Audio Flamingo": [
+  "n-9aa3cb6ab5"
+ ],
+ "Audio Flamingo Next": [
+  "n-9aa3cb6ab5"
+ ],
+ "Audio-Omni": [
+  "n-bab7f8e6fd"
+ ],
+ "AvatarPointillist": [
+  "n-b651b2cbf2"
+ ],
+ "BACH": [
+  "n-a7521b7b08"
+ ],
+ "BRO": [
+  "n-49a6616381"
+ ],
+ "BRO v14": [
+  "n-49a6616381"
+ ],
+ "Boxer": [
+  "n-2938402642"
+ ],
+ "ByteCut": [
+  "n-19adc0c7af"
+ ],
+ "ByteCut Director": [
+  "n-19adc0c7af"
+ ],
+ "C-MET": [
+  "n-70f82f82ae"
+ ],
+ "CADD": [
+  "n-e9259b87d6"
+ ],
+ "CADD-Base-7B": [
+  "n-e9259b87d6"
+ ],
+ "CHAI": [
+  "n-a8098d79d8"
+ ],
+ "CORAL": [
+  "n-f771c01e06"
+ ],
+ "Chandra": [
+  "n-840bb8c6c7"
+ ],
+ "Chandra OCR": [
+  "n-840bb8c6c7"
+ ],
+ "Chandra OCR 2": [
+  "n-840bb8c6c7"
+ ],
+ "ChatGPT": [
+  "n-0646f210ee"
+ ],
+ "Clad": [
+  "n-545f242033"
+ ],
+ "Clad Size-aware": [
+  "n-545f242033"
+ ],
+ "Claude": [
+  "n-ec5428386a",
+  "n-a81182e9ac"
+ ],
+ "Claude Code": [
+  "n-f861f085b8"
+ ],
+ "Claude Design": [
+  "n-ec5428386a"
+ ],
+ "Claude Opus": [
+  "n-a81182e9ac"
+ ],
+ "Claude Opus 4.7": [
+  "n-a81182e9ac"
+ ],
+ "Claw": [
+  "n-2f8c6f34f0"
+ ],
+ "Claw bench": [
+  "n-c15c8a5410"
+ ],
+ "ClawEnvKit": [
+  "n-2f8c6f34f0"
+ ],
+ "ClawGUI": [
+  "n-6dd8c1ff25"
+ ],
+ "CoInteract": [
+  "n-d1faa63ee9"
+ ],
+ "CoPaw": [
+  "n-ea5cb3e3f2"
+ ],
+ "CoPaw-Flash-9B-DataAnalyst-LoRA": [
+  "n-ea5cb3e3f2"
+ ],
+ "Codex": [
+  "n-2a8f5beb6c"
+ ],
+ "Color-Grade-Transfer": [
+  "n-250fdb3b1b"
+ ],
+ "Color-Grade-Transfer-LoRA": [
+  "n-250fdb3b1b"
+ ],
+ "ComfyStudio": [
+  "n-18e6b47885"
+ ],
+ "ComfyUI 6DOF": [
+  "n-f6c6cdf729"
+ ],
+ "ComfyUI 6DOF Camera": [
+  "n-f6c6cdf729"
+ ],
+ "ComfyUI Command Palette": [
+  "n-133a0bfd18"
+ ],
+ "ComfyUI Hires Fix": [
+  "n-1b11977658"
+ ],
+ "ComfyUI Hires Fix Ultra": [
+  "n-1b11977658"
+ ],
+ "ComfyUI OmniVoice": [
+  "n-661e84940d"
+ ],
+ "ComfyUI Photopea": [
+  "n-39f773b51f"
+ ],
+ "ComfyUI Photopea Tab": [
+  "n-39f773b51f"
+ ],
+ "ComfyUI Wan VACE Video Joiner": [
+  "n-332335c756"
+ ],
+ "ComfyUI Yedp Action Director": [
+  "n-501487aec4"
+ ],
+ "ComfyUI-ConnectTheDots": [
+  "n-c2a141200b"
+ ],
+ "ComfyUI-DreamScene360": [
+  "n-2915ceca6f"
+ ],
+ "ComfyUI-Flux2Klein-Enhancer": [
+  "n-76a6e0d291"
+ ],
+ "ComfyUI-mesh2motion": [
+  "n-2ff0f435cc"
+ ],
+ "ComfyUI-zveroboy-photo": [
+  "n-df8413780a"
+ ],
+ "ComfyUI_SenseNova_U1": [
+  "n-41c999d507"
+ ],
+ "CompHairHead": [
+  "n-f1139f1ee9"
+ ],
+ "ConnectTheDots": [
+  "n-c2a141200b"
+ ],
+ "Continuous-Time Distribution Matching": [
+  "n-c660c4f559"
+ ],
+ "CorridorKey": [
+  "n-169e12a080"
+ ],
+ "CosyVoice": [
+  "n-7de8349cd0"
+ ],
+ "CosyVoice 3": [
+  "n-7de8349cd0"
+ ],
+ "Cursor": [
+  "n-a6a4ba2d0f"
+ ],
+ "Cursor 3": [
+  "n-a6a4ba2d0f"
+ ],
+ "CutClaw": [
+  "n-0948d8e4a5"
+ ],
+ "D-OPSD": [
+  "n-637b9d18ed"
+ ],
+ "Daybreak": [
+  "n-e92b026fad"
+ ],
+ "DeepSeek-V4": [
+  "n-bc5c88f85f"
+ ],
+ "DeepSeek-V4-Pro": [
+  "n-bc5c88f85f"
+ ],
+ "Delulu": [
+  "n-18c1e67c85"
+ ],
+ "Delulu Stream": [
+  "n-18c1e67c85"
+ ],
+ "Deno AI Studio": [
+  "n-2d6650cee4"
+ ],
+ "DiffHDR": [
+  "n-2af8215f2c"
+ ],
+ "DisCa": [
+  "n-348f0ce004"
+ ],
+ "DreamLite": [
+  "n-c56d07046e"
+ ],
+ "DreamScene360": [
+  "n-2915ceca6f"
+ ],
+ "EMF": [
+  "n-525a6be75a"
+ ],
+ "ERNIE 5.1": [
+  "n-5e92efec32"
+ ],
+ "ERNIE 5.1 Preview": [
+  "n-5e92efec32"
+ ],
+ "ERNIE-Image": [
+  "n-97b254669d"
+ ],
+ "Echo-2": [
+  "n-76eee2c69c"
+ ],
+ "ElevenLabs": [
+  "n-f5dbfdb346"
+ ],
+ "ElevenLabs On-Premise": [
+  "n-f5dbfdb346"
+ ],
+ "Ernie Image": [
+  "n-c2ca134086"
+ ],
+ "Ernie Image Turbo": [
+  "n-c2ca134086"
+ ],
+ "FLUX.2": [
+  "n-e5bb396e69",
+  "n-bb60458b02",
+  "n-b2c1d5a768"
+ ],
+ "FLUX.2 Small Decoder": [
+  "n-b2c1d5a768"
+ ],
+ "FLUX.2 [klein] Move": [
+  "n-e5bb396e69"
+ ],
+ "FLUX.2-klein-9B-Nunchaku": [
+  "n-bb60458b02"
+ ],
+ "Face Anything": [
+  "n-a4fb636ca8"
+ ],
+ "FastGHA": [
+  "n-8cf0d43011"
+ ],
+ "FlexAvatar": [
+  "n-08dc2040a6"
+ ],
+ "FlowAnchor": [
+  "n-a74ee42caa"
+ ],
+ "FlowInOne": [
+  "n-55db199d87"
+ ],
+ "Flue": [
+  "n-99e3cb59c2"
+ ],
+ "Flux": [
+  "n-30f5861cb4"
+ ],
+ "Flux FaceIR": [
+  "n-30f5861cb4"
+ ],
+ "Flux2K": [
+  "n-76a6e0d291"
+ ],
+ "Free Claude Code": [
+  "n-f861f085b8"
+ ],
+ "GBrain": [
+  "n-eb965439db"
+ ],
+ "GEMS": [
+  "n-d111345e9c"
+ ],
+ "GLM-5.1": [
+  "n-e51898fad5"
+ ],
+ "GLM-5V": [
+  "n-b2b9ca697e"
+ ],
+ "GLM-5V-Turbo": [
+  "n-b2b9ca697e"
+ ],
+ "GLiGuard": [
+  "n-3ef8391496"
+ ],
+ "GPT Image": [
+  "n-af7e0341d4"
+ ],
+ "GPT Image 2": [
+  "n-df001e7bab",
+  "n-af7e0341d4"
+ ],
+ "GPT Image 2 Prompt Gallery": [
+  "n-df001e7bab"
+ ],
+ "GPT-5.5": [
+  "n-2405c2d2f2"
+ ],
+ "GPT-Image": [
+  "n-ca390bf3b3"
+ ],
+ "GPT-Image 2": [
+  "n-ca390bf3b3"
+ ],
+ "GSD": [
+  "n-ee8bd2e38f"
+ ],
+ "GSD 2": [
+  "n-ee8bd2e38f"
+ ],
+ "GameWorld": [
+  "n-f306331601"
+ ],
+ "Gemini 3.1": [
+  "n-d5e685b3b1"
+ ],
+ "Gemini 3.1 Flash TTS": [
+  "n-d5e685b3b1"
+ ],
+ "Gemma": [
+  "n-c7bfff5d31",
+  "n-ae3f3a3876",
+  "n-9139899069"
+ ],
+ "Gemma 4": [
+  "n-f4d17d7115",
+  "n-c7bfff5d31",
+  "n-9139899069"
+ ],
+ "Gemma 4 Heretic": [
+  "n-f4d17d7115"
+ ],
+ "Gemma Gem": [
+  "n-ae3f3a3876"
+ ],
+ "Gemma-4-31B": [
+  "n-5ac53c2267"
+ ],
+ "Gemma-4-31B-IT-NVFP4": [
+  "n-5ac53c2267"
+ ],
+ "Gemopus-4-26B": [
+  "n-bded34e024"
+ ],
+ "Gemopus-4-26B-A4B-it": [
+  "n-bded34e024"
+ ],
+ "Gen-Searcher": [
+  "n-eaa27c5213"
+ ],
+ "Generative World Renderer": [
+  "n-01b786ce9f"
+ ],
+ "Geo Register Plugin": [
+  "n-85862dbbb3"
+ ],
+ "GeoSR": [
+  "n-1b0490d011"
+ ],
+ "Griptape": [
+  "n-ebeab9837a"
+ ],
+ "GyroScope": [
+  "n-a71a838b34"
+ ],
+ "HY-World": [
+  "n-1e0d9b8388"
+ ],
+ "HY-World 2.0": [
+  "n-1e0d9b8388"
+ ],
+ "Habitat-GS": [
+  "n-c96f664d5d"
+ ],
+ "HackerNews Predictor": [
+  "n-541dc74a2e"
+ ],
+ "Happy Horse": [
+  "n-6562acabdd",
+  "n-0588f1e672"
+ ],
+ "Happy Horse 1.0": [
+  "n-6562acabdd"
+ ],
+ "Happy Oyster": [
+  "n-5e1a256a5e"
+ ],
+ "Hermes": [
+  "n-367db0be8e"
+ ],
+ "Hermes Agent": [
+  "n-95d245f3eb",
+  "n-367db0be8e"
+ ],
+ "HiDream": [
+  "n-7d8614adad"
+ ],
+ "HiDream-O1-Image": [
+  "n-7d8614adad"
+ ],
+ "HuggingFace Kernels": [
+  "n-545c4e25d2"
+ ],
+ "Hy-MT1.5-1.8B": [
+  "n-e17cbf7ded"
+ ],
+ "Hy3": [
+  "n-0841776bd9"
+ ],
+ "HyDRA": [
+  "n-09ee25f7d5"
+ ],
+ "HyperFrames": [
+  "n-963305f6b7"
+ ],
+ "IC": [
+  "n-c492e2a3e4"
+ ],
+ "IC-LoRA: Cameraman": [
+  "n-c492e2a3e4"
+ ],
+ "IC-LoRA: Cameraman v1": [
+  "n-c492e2a3e4"
+ ],
+ "INSID3": [
+  "n-a8a043a8fd"
+ ],
+ "IceCache": [
+  "n-fc612ab002"
+ ],
+ "Image-to-Material": [
+  "n-e63a0d4512"
+ ],
+ "InfiniDepth": [
+  "n-23309eb954"
+ ],
+ "Interaction Models": [
+  "n-972d1e2832"
+ ],
+ "JavisVerse": [
+  "n-18331ebc79"
+ ],
+ "JoyAI": [
+  "n-0739891476"
+ ],
+ "JoyAI-Image": [
+  "n-d192447768",
+  "n-0739891476"
+ ],
+ "Kimi": [
+  "n-2aa536ccdc"
+ ],
+ "Kimi K2.6": [
+  "n-2aa536ccdc"
+ ],
+ "Kimodo": [
+  "n-61c8c02fec"
+ ],
+ "Kimodo-SOMA-RP-v1.1": [
+  "n-61c8c02fec"
+ ],
+ "Kiri Engine": [
+  "n-9db878fd06"
+ ],
+ "KupkaProd": [
+  "n-511353336a"
+ ],
+ "KupkaProd Cinema Pipeline": [
+  "n-511353336a"
+ ],
+ "LDF-VFI": [
+  "n-88b74a7e58"
+ ],
+ "LGTM": [
+  "n-fdbf17ddf7"
+ ],
+ "LLaDA2.0": [
+  "n-64094eafae"
+ ],
+ "LLaDA2.0-Uni": [
+  "n-64094eafae"
+ ],
+ "LPM": [
+  "n-464a2f9508"
+ ],
+ "LPM 1.0": [
+  "n-464a2f9508"
+ ],
+ "LTX 2.3": [
+  "n-34034d382e"
+ ],
+ "LTX 2.3 Enhancers": [
+  "n-34034d382e"
+ ],
+ "LTX-2.3": [
+  "n-492f7ebf1e"
+ ],
+ "LTX-2.3 22B": [
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0"
+ ],
+ "LTX-2.3 22B IC-LoRA MotionDeblur": [
+  "n-396cd4f7c0"
+ ],
+ "LTX-2.3 22B IC-LoRA Outpaint": [
+  "n-3ae3ddb34b"
+ ],
+ "LTX-2.3 LoRA": [
+  "n-492f7ebf1e"
+ ],
+ "LTX-2.3-22B": [
+  "n-997df70c3d"
+ ],
+ "LTX-2.3-22B-DISTILLED-1.1": [
+  "n-997df70c3d"
+ ],
+ "LTX-2.3-22b": [
+  "n-ccdb07b0af",
+  "n-57264ece04"
+ ],
+ "LTX-2.3-22b-IC-LoRA-ReFocus": [
+  "n-57264ece04"
+ ],
+ "LTX-2.3-22b-IC-LoRA-Ungrade": [
+  "n-ccdb07b0af"
+ ],
+ "LTX2.3-Multifunctional": [
+  "n-ac33c5f998"
+ ],
+ "Lava Genie": [
+  "n-ea4c5d4dff"
+ ],
+ "LingBot-Map": [
+  "n-f57cbec8b9"
+ ],
+ "LiveActionAOV": [
+  "n-23270485c3"
+ ],
+ "LongCat": [
+  "n-5d03d1bfa4"
+ ],
+ "LongCat-AudioDiT": [
+  "n-d967265835"
+ ],
+ "LongCat-Next": [
+  "n-5d03d1bfa4"
+ ],
+ "Ltx2.3-VBVR": [
+  "n-4bbad7fe81"
+ ],
+ "Ltx2.3-VBVR-lora-I2V": [
+  "n-4bbad7fe81"
+ ],
+ "Luma": [
+  "n-99c607c318",
+  "n-5cac0a3186"
+ ],
+ "Luma Agents": [
+  "n-5cac0a3186"
+ ],
+ "Luma Uni-1.1": [
+  "n-99c607c318"
+ ],
+ "LumiPic": [
+  "n-eb367fb3e1"
+ ],
+ "LumiVid": [
+  "n-52e566a651"
+ ],
+ "Lyra": [
+  "n-a549ac3575"
+ ],
+ "Lyra 2.0": [
+  "n-a549ac3575"
+ ],
+ "M2SVid": [
+  "n-8ff86e4411"
+ ],
+ "MACE-Dance": [
+  "n-44b3b570af"
+ ],
+ "MAI": [
+  "n-2eb209422c"
+ ],
+ "MAI-Transcribe-1": [
+  "n-2eb209422c"
+ ],
+ "MARBLE": [
+  "n-06b8f54c97"
+ ],
+ "MF0-1984": [
+  "n-dd8d68b69f"
+ ],
+ "MIA": [
+  "n-221dea80c4"
+ ],
+ "MOSS-Audio": [
+  "n-8da3cc43df"
+ ],
+ "MOSS-Audio-8B": [
+  "n-33f31b6935"
+ ],
+ "MOSS-Audio-8B-Thinking Demo": [
+  "n-33f31b6935"
+ ],
+ "MOSS-TTS": [
+  "n-f1ea79cf67"
+ ],
+ "MOSS-TTS-Nano": [
+  "n-f1ea79cf67"
+ ],
+ "Majoor": [
+  "n-ff03e5bf7b"
+ ],
+ "Majoor Assets Manager": [
+  "n-ff03e5bf7b"
+ ],
+ "Managed Agents": [
+  "n-b4bbea9668"
+ ],
+ "Map2World": [
+  "n-40f1573a5d"
+ ],
+ "Marble": [
+  "n-3b297c8441"
+ ],
+ "Marble 1.1": [
+  "n-3b297c8441"
+ ],
+ "Marco-MoE": [
+  "n-15fd6206af"
+ ],
+ "Matrix-Game": [
+  "n-5f36799f6d"
+ ],
+ "Matrix-Game 3.0": [
+  "n-5f36799f6d"
+ ],
+ "MegaStyle": [
+  "n-edad1a10a0",
+  "n-e3fe618151"
+ ],
+ "MegaStyle ComfyUI Nodes": [
+  "n-edad1a10a0"
+ ],
+ "MemPalace": [
+  "n-a3583f87c7"
+ ],
+ "Memory Intelligence Agent (MIA)": [
+  "n-221dea80c4"
+ ],
+ "Memory Transfer": [
+  "n-73e5608506"
+ ],
+ "Memory Transfer Learning": [
+  "n-73e5608506"
+ ],
+ "Meta-CoT": [
+  "n-2c91e42c2d"
+ ],
+ "MiMo V2.5": [
+  "n-768295e164"
+ ],
+ "MiniCPM-V": [
+  "n-36e9bae8ed"
+ ],
+ "MiniCPM-V 4.6": [
+  "n-36e9bae8ed"
+ ],
+ "MiniMax Music": [
+  "n-dfe5e1e7a6"
+ ],
+ "MiniMax Music 2.6": [
+  "n-dfe5e1e7a6"
+ ],
+ "MiroFish": [
+  "n-e4b7a4de7b"
+ ],
+ "Mistral": [
+  "n-8e2ceecbcb"
+ ],
+ "Mistral Medium": [
+  "n-8e2ceecbcb"
+ ],
+ "Mistral Medium 3.5": [
+  "n-8e2ceecbcb"
+ ],
+ "Mobile Ultra-detailed Animatable Avatars": [
+  "n-207ed94fbd"
+ ],
+ "Modddif": [
+  "n-c8fc3fe21e"
+ ],
+ "Motif-Video": [
+  "n-c56aa9fa27"
+ ],
+ "Motif-Video 2B": [
+  "n-c56aa9fa27"
+ ],
+ "Muffins Flat 2 Panoramic Node": [
+  "n-af1e479850"
+ ],
+ "Multi-User LLM Agent": [
+  "n-1b656b5ff8"
+ ],
+ "Multica": [
+  "n-63cbd51a4a"
+ ],
+ "NUMINA": [
+  "n-e3abad048f"
+ ],
+ "Nemotron": [
+  "n-6a0618307a"
+ ],
+ "Nemotron OCR": [
+  "n-6a0618307a"
+ ],
+ "Nemotron OCR v2": [
+  "n-6a0618307a"
+ ],
+ "Nemotron-3": [
+  "n-1cfc0e728d"
+ ],
+ "Nemotron-3-Nano-Omni": [
+  "n-1cfc0e728d"
+ ],
+ "Nucleus": [
+  "n-af83147e90"
+ ],
+ "Nucleus Image": [
+  "n-98474cc274"
+ ],
+ "Nucleus-Image": [
+  "n-af83147e90"
+ ],
+ "NumPy Synth": [
+  "n-c4a452f85d"
+ ],
+ "Obscura Remova": [
+  "n-daa2681205"
+ ],
+ "Odyssey-2": [
+  "n-d8bf4374be"
+ ],
+ "Odyssey-2 Max": [
+  "n-d8bf4374be"
+ ],
+ "OlmPool": [
+  "n-ab5423ca1c"
+ ],
+ "OmniShotCut": [
+  "n-bb0f83ff09"
+ ],
+ "OmniShow": [
+  "n-03e4a812c8"
+ ],
+ "OmniVoice": [
+  "n-665b60a4fc",
+  "n-661e84940d",
+  "n-0124eabefd"
+ ],
+ "OmniVoice Studio": [
+  "n-0124eabefd"
+ ],
+ "OmniWeaving": [
+  "n-fb32c38877"
+ ],
+ "OneManCompany": [
+  "n-2bdd41c2da"
+ ],
+ "OneManCompany (OMC)": [
+  "n-2bdd41c2da"
+ ],
+ "Open Design": [
+  "n-ff21b44ef5"
+ ],
+ "Open Higgsfield AI": [
+  "n-5ade5d658c"
+ ],
+ "Open Multi-Agent": [
+  "n-662ab03ff4"
+ ],
+ "OpenGame": [
+  "n-7cc366b545"
+ ],
+ "OpenHarness": [
+  "n-44c547a245"
+ ],
+ "OpenMobile": [
+  "n-02d9e4ba24"
+ ],
+ "OpenReview": [
+  "n-efaa00d50b"
+ ],
+ "P-Video-Avatar": [
+  "n-d4d07dd0bf"
+ ],
+ "PSDesigner": [
+  "n-da24004da2"
+ ],
+ "Parakeet": [
+  "n-5b56fca93a"
+ ],
+ "Parakeet-unified-en-0.6b": [
+  "n-5b56fca93a"
+ ],
+ "Perplexity": [
+  "n-a56b9d31b6"
+ ],
+ "Perplexity Personal Computer": [
+  "n-a56b9d31b6"
+ ],
+ "PersonaVLM": [
+  "n-78a59b56b6"
+ ],
+ "Phi": [
+  "n-ec7e719b88"
+ ],
+ "Phi-Ground-Any": [
+  "n-ec7e719b88"
+ ],
+ "PhoneClaw": [
+  "n-f3c22d2162"
+ ],
+ "PhysForge": [
+  "n-ee38e77991"
+ ],
+ "Pi-HOC": [
+  "n-4694b833dd"
+ ],
+ "Pixal3D": [
+  "n-9e0a0fba7f"
+ ],
+ "PixelSmile": [
+  "n-55968207e4"
+ ],
+ "PlayCoder": [
+  "n-fe9036dfac"
+ ],
+ "PrismAudio": [
+  "n-8fe6695c64"
+ ],
+ "Prompt Relay": [
+  "n-d4f61075f4"
+ ],
+ "QClaw": [
+  "n-093c066bee"
+ ],
+ "QClaw-4B": [
+  "n-9af7222826"
+ ],
+ "QuickMagic": [
+  "n-2fd5e60740"
+ ],
+ "Qwen": [
+  "n-b1f4237092",
+  "n-86ce44c208",
+  "n-7e83db4168"
+ ],
+ "Qwen 3.6": [
+  "n-6a60e32785"
+ ],
+ "Qwen 3.6 Plus": [
+  "n-6a60e32785"
+ ],
+ "Qwen Code": [
+  "n-7e83db4168"
+ ],
+ "Qwen variants": [
+  "n-b1f4237092"
+ ],
+ "Qwen-Image-2.0-Pro": [
+  "n-86ce44c208"
+ ],
+ "Qwen3": [
+  "n-d755c8bc8a"
+ ],
+ "Qwen3-TTS": [
+  "n-d755c8bc8a"
+ ],
+ "Qwen3.5 / Gemma-4 / Qwopus": [
+  "n-16ee77b7eb"
+ ],
+ "Qwen3.6-27B": [
+  "n-dc7072d90a",
+  "n-97c6278d46",
+  "n-019c913613"
+ ],
+ "Qwen3.6-27B-DFlash": [
+  "n-dc7072d90a"
+ ],
+ "Qwen3.6-35B": [
+  "n-8a620616a1",
+  "n-129b6b09c0",
+  "n-04529e7d46"
+ ],
+ "Qwen3.6-35B-A3B": [
+  "n-04529e7d46"
+ ],
+ "Qwen3.6-35B-A3B-NVFP4": [
+  "n-8a620616a1"
+ ],
+ "Qwen3.6-35B-Reasoning-Distilled": [
+  "n-129b6b09c0"
+ ],
+ "RS Nodes": [
+  "n-c66b8c38b0"
+ ],
+ "RawGen": [
+  "n-c449ab03a6"
+ ],
+ "Realtime TTS-2": [
+  "n-2ffed2d338"
+ ],
+ "ReconViaGen": [
+  "n-461304d95b"
+ ],
+ "RefineAnything": [
+  "n-10b1471000"
+ ],
+ "ReplaceMe": [
+  "n-18cb9608e2"
+ ],
+ "Reshoot-Anything": [
+  "n-8a851b82d9"
+ ],
+ "Ring-2.6-1T": [
+  "n-58129455d1"
+ ],
+ "Rodin": [
+  "n-f0cec18709"
+ ],
+ "Rodin Gen": [
+  "n-f0cec18709"
+ ],
+ "Rodin Gen 2.5": [
+  "n-f0cec18709"
+ ],
+ "RotorQuant": [
+  "n-553243c913"
+ ],
+ "Rowboat": [
+  "n-11e8a99b4c"
+ ],
+ "RvR": [
+  "n-b6c1907179"
+ ],
+ "SANA": [
+  "n-e76fc8f96f"
+ ],
+ "SANA-Video": [
+  "n-e76fc8f96f"
+ ],
+ "SCAIL-2": [
+  "n-0cf9d026b8"
+ ],
+ "SVGS": [
+  "n-f735b8e846"
+ ],
+ "Sapiens2": [
+  "n-aa28911ec6"
+ ],
+ "Seed3D": [
+  "n-ea73b925dc"
+ ],
+ "Seed3D 2.0": [
+  "n-ea73b925dc"
+ ],
+ "Seedance": [
+  "n-e4d5ff5436"
+ ],
+ "Seedance 2.0": [
+  "n-e4d5ff5436"
+ ],
+ "Seeduplex": [
+  "n-5d75a2276e"
+ ],
+ "Seeing Fast and Slow": [
+  "n-b1f200df41"
+ ],
+ "Semantic Progress Function": [
+  "n-b18df4c1c8"
+ ],
+ "Semantic Progress Function (SPF)": [
+  "n-b18df4c1c8"
+ ],
+ "SenseNova": [
+  "n-4a638abcfe"
+ ],
+ "SenseNova-U1": [
+  "n-4a638abcfe"
+ ],
+ "SillyTavern": [
+  "n-fa9c04297f"
+ ],
+ "SlopLobster": [
+  "n-2dbef67328"
+ ],
+ "Sommelier": [
+  "n-b107eae70b"
+ ],
+ "Sonilo": [
+  "n-694e3b1cf5"
+ ],
+ "Spark": [
+  "n-110bebc860"
+ ],
+ "Spark 2.0": [
+  "n-110bebc860"
+ ],
+ "Spatial Studio": [
+  "n-f4c04ff479"
+ ],
+ "SpatialEdit-16B": [
+  "n-3fedc168df"
+ ],
+ "Spec": [
+  "n-8c91402db3"
+ ],
+ "Spectrum": [
+  "n-58225bc7d0"
+ ],
+ "StorySplat": [
+  "n-e4fab55e05"
+ ],
+ "Stream": [
+  "n-09f901429d"
+ ],
+ "Stream-R1": [
+  "n-09f901429d"
+ ],
+ "StyleID": [
+  "n-9f3f263dfe"
+ ],
+ "Sulphur": [
+  "n-8913c98771"
+ ],
+ "Sulphur 2": [
+  "n-8913c98771"
+ ],
+ "Superset": [
+  "n-73d2d5938e"
+ ],
+ "Superwhisper": [
+  "n-08bc14aa3d"
+ ],
+ "Sync-3": [
+  "n-cd25320940"
+ ],
+ "Sync.so": [
+  "n-d883c4c40c"
+ ],
+ "TIPSv2": [
+  "n-de24cf852f"
+ ],
+ "TRELLIS.2": [
+  "n-d7c3a5e60e"
+ ],
+ "TRIBE": [
+  "n-f9bd7f602b"
+ ],
+ "TRIBE Review MVP": [
+  "n-f9bd7f602b"
+ ],
+ "TUNA-2": [
+  "n-44592b77d5"
+ ],
+ "Thinking with Visual Primitives (TVP)": [
+  "n-2244c25f96"
+ ],
+ "TinyMU": [
+  "n-bec376434e"
+ ],
+ "Token Warping": [
+  "n-4697df47f5"
+ ],
+ "TriAttention": [
+  "n-e96d2e151b"
+ ],
+ "Uni-ViGU": [
+  "n-a5ceb23735"
+ ],
+ "UniCom": [
+  "n-1fef5a401b"
+ ],
+ "UniCorrn": [
+  "n-a3c0ebdd3a"
+ ],
+ "UniGenDet": [
+  "n-2fc856ac34"
+ ],
+ "UniGeo": [
+  "n-7c1f689c14"
+ ],
+ "UniRelight": [
+  "n-49b64d4933"
+ ],
+ "UniVidX": [
+  "n-70e759ac2b"
+ ],
+ "Unify-Agent": [
+  "n-c9e1e40a9c"
+ ],
+ "Unity AI": [
+  "n-e60825c137"
+ ],
+ "Unsloth": [
+  "n-a3aa871dfa"
+ ],
+ "VOID": [
+  "n-83af6888de",
+  "n-08ae804484"
+ ],
+ "VR-360-Outpaint-LTX2.3-IC": [
+  "n-9a27202165"
+ ],
+ "VR-360-Outpaint-LTX2.3-IC-LoRA": [
+  "n-9a27202165"
+ ],
+ "Vanast": [
+  "n-e33dfb0bdb"
+ ],
+ "VibeComfy": [
+  "n-6b3a93f373"
+ ],
+ "VibeComfy 2.0": [
+  "n-6b3a93f373"
+ ],
+ "Vista4D": [
+  "n-d9b76e73f7"
+ ],
+ "VoxCPM2": [
+  "n-d7b1c6bb36"
+ ],
+ "Wan 2.7": [
+  "n-d9eaebd61d"
+ ],
+ "Wan 2.7-Image": [
+  "n-d9eaebd61d"
+ ],
+ "Wan2.2": [
+  "n-cf88820803"
+ ],
+ "Wan2.2-Distill-Models": [
+  "n-cf88820803"
+ ],
+ "Wan2.7": [
+  "n-d745776a36"
+ ],
+ "Wan2.7-Video": [
+  "n-d745776a36"
+ ],
+ "Waypoint-1.5": [
+  "n-2090ac5f1b"
+ ],
+ "WildDet3D": [
+  "n-c5207bfa4a"
+ ],
+ "World-R1": [
+  "n-5db7fa704b"
+ ],
+ "X2SAM": [
+  "n-1c50287b34"
+ ],
+ "Xiaomi MiMo V2.5": [
+  "n-768295e164"
+ ],
+ "Yedp": [
+  "n-501487aec4"
+ ],
+ "Z-Anime": [
+  "n-bcef63351f"
+ ],
+ "Z-Image": [
+  "n-c78d87f531",
+  "n-9744e9b73c"
+ ],
+ "Z-Image Turbo workflow": [
+  "n-9744e9b73c"
+ ],
+ "Z-Image-SAM-ControlNet": [
+  "n-c78d87f531"
+ ],
+ "ace-step-1-5": [
+  "n-b9e02bd01a"
+ ],
+ "acestep": [
+  "n-b9e02bd01a",
+  "n-a236c67d82",
+  "n-596ffa06da"
+ ],
+ "acestep-1-5": [
+  "n-596ffa06da"
+ ],
+ "acestep.cpp": [
+  "n-a236c67d82"
+ ],
+ "adaptation:controlnet": [
+  "n-c78d87f531"
+ ],
+ "adaptation:lora": [
+  "n-ea5cb3e3f2",
+  "n-e5bb396e69",
+  "n-daa2681205",
+  "n-cf88820803",
+  "n-ccdb07b0af",
+  "n-c66b8c38b0",
+  "n-c492e2a3e4",
+  "n-ac33c5f998",
+  "n-9a27202165",
+  "n-69cc1d969e",
+  "n-57264ece04",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-492f7ebf1e",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-34034d382e",
+  "n-30f5861cb4",
+  "n-250fdb3b1b"
+ ],
+ "adaptive-spatio-temporal-3dgs": [
+  "n-ccb2a502fb"
+ ],
+ "agentofficesuite": [
+  "n-cfec66a95b"
+ ],
+ "ai-metadata-inspector": [
+  "n-02e0b8ae6c"
+ ],
+ "ai-selfes": [
+  "n-807bf78763"
+ ],
+ "ai4animation": [
+  "n-535631e71f"
+ ],
+ "alaya": [
+  "n-01b786ce9f"
+ ],
+ "animation": [
+  "n-f1139f1ee9",
+  "n-d4d07dd0bf",
+  "n-b651b2cbf2",
+  "n-af1e479850",
+  "n-a4fb636ca8",
+  "n-61c8c02fec",
+  "n-535631e71f",
+  "n-501487aec4",
+  "n-44b3b570af",
+  "n-3354f12396",
+  "n-2fd5e60740",
+  "n-207ed94fbd",
+  "n-0cf9d026b8",
+  "n-08dc2040a6",
+  "n-03e4a812c8"
+ ],
+ "animation-motion": [
+  "n-e33dfb0bdb",
+  "n-d4d07dd0bf",
+  "n-cd25320940",
+  "n-aa28911ec6",
+  "n-807bf78763",
+  "n-70f82f82ae",
+  "n-61c8c02fec",
+  "n-535631e71f",
+  "n-464a2f9508",
+  "n-44b3b570af",
+  "n-2fd5e60740",
+  "n-207ed94fbd",
+  "n-18c1e67c85",
+  "n-0cf9d026b8",
+  "n-03e4a812c8"
+ ],
+ "any4d": [
+  "n-155ef8c3dc"
+ ],
+ "anyrecon": [
+  "n-5be6e62e52"
+ ],
+ "aose": [
+  "n-cfec66a95b"
+ ],
+ "arcflow": [
+  "n-a7d1f83b13"
+ ],
+ "artemis": [
+  "n-60f7bb3300"
+ ],
+ "artemis-3dgs": [
+  "n-60f7bb3300"
+ ],
+ "assistant-pepe": [
+  "n-73e8b27cb3"
+ ],
+ "assistant-pepe-32b": [
+  "n-73e8b27cb3"
+ ],
+ "audio-flamingo": [
+  "n-9aa3cb6ab5"
+ ],
+ "audio-music": [
+  "n-f5dbfdb346",
+  "n-f1ea79cf67",
+  "n-ea4c5d4dff",
+  "n-dfe5e1e7a6",
+  "n-d967265835",
+  "n-d883c4c40c",
+  "n-d7b1c6bb36",
+  "n-d755c8bc8a",
+  "n-d5e685b3b1",
+  "n-c4a452f85d",
+  "n-bec376434e",
+  "n-bab7f8e6fd",
+  "n-b9e02bd01a",
+  "n-b107eae70b",
+  "n-a236c67d82",
+  "n-9aa3cb6ab5",
+  "n-8fe6695c64",
+  "n-8da3cc43df",
+  "n-7de8349cd0",
+  "n-78ccc63365",
+  "n-694e3b1cf5",
+  "n-665b60a4fc",
+  "n-5b56fca93a",
+  "n-596ffa06da",
+  "n-33f31b6935",
+  "n-2ffed2d338",
+  "n-2eb209422c",
+  "n-08bc14aa3d",
+  "n-0124eabefd"
+ ],
+ "audio-omni": [
+  "n-bab7f8e6fd"
+ ],
+ "aura": [
+  "n-5e356466d0"
+ ],
+ "avatarpointillist": [
+  "n-b651b2cbf2"
+ ],
+ "awesome-russian-speech": [
+  "n-78ccc63365"
+ ],
+ "bEpic Viewer": [
+  "n-08fceb7eae"
+ ],
+ "bach": [
+  "n-a7521b7b08"
+ ],
+ "background-removal": [
+  "n-169e12a080",
+  "n-0124eabefd"
+ ],
+ "bepic-viewer": [
+  "n-08fceb7eae"
+ ],
+ "boxer": [
+  "n-2938402642"
+ ],
+ "bro": [
+  "n-49a6616381"
+ ],
+ "bro-v14": [
+  "n-49a6616381"
+ ],
+ "bytecut": [
+  "n-19adc0c7af"
+ ],
+ "c-met": [
+  "n-70f82f82ae"
+ ],
+ "cadd": [
+  "n-e9259b87d6"
+ ],
+ "cadd-7b": [
+  "n-e9259b87d6"
+ ],
+ "camera-comfyUI": [
+  "n-3354f12396"
+ ],
+ "camera-comfyui": [
+  "n-3354f12396"
+ ],
+ "cdm": [
+  "n-c660c4f559"
+ ],
+ "chai": [
+  "n-a8098d79d8"
+ ],
+ "chandra": [
+  "n-840bb8c6c7"
+ ],
+ "chandra-2": [
+  "n-840bb8c6c7"
+ ],
+ "character": [
+  "n-fa9c04297f",
+  "n-e33dfb0bdb",
+  "n-bcef63351f",
+  "n-9f3f263dfe",
+  "n-807bf78763",
+  "n-76a6e0d291",
+  "n-73e8b27cb3",
+  "n-545f242033",
+  "n-535631e71f",
+  "n-464a2f9508",
+  "n-207ed94fbd",
+  "n-0cf9d026b8",
+  "n-03e4a812c8",
+  "n-019c913613"
+ ],
+ "chatgpt": [
+  "n-0646f210ee"
+ ],
+ "china": [
+  "n-fe9036dfac",
+  "n-fb32c38877",
+  "n-edad1a10a0",
+  "n-ea73b925dc",
+  "n-ea5cb3e3f2",
+  "n-e51898fad5",
+  "n-e3abad048f",
+  "n-e17cbf7ded",
+  "n-da24004da2",
+  "n-d9eaebd61d",
+  "n-d967265835",
+  "n-d755c8bc8a",
+  "n-d745776a36",
+  "n-d1faa63ee9",
+  "n-cf88820803",
+  "n-c9e1e40a9c",
+  "n-c56d07046e",
+  "n-c2ca134086",
+  "n-bc5c88f85f",
+  "n-b9e02bd01a",
+  "n-b2b9ca697e",
+  "n-a7d1f83b13",
+  "n-9e0a0fba7f",
+  "n-9af7222826",
+  "n-97c6278d46",
+  "n-97b254669d",
+  "n-8da3cc43df",
+  "n-88b74a7e58",
+  "n-86ce44c208",
+  "n-7de8349cd0",
+  "n-7cc366b545",
+  "n-78a59b56b6",
+  "n-768295e164",
+  "n-70e759ac2b",
+  "n-6a60e32785",
+  "n-64094eafae",
+  "n-637b9d18ed",
+  "n-5f36799f6d",
+  "n-5e92efec32",
+  "n-5e1a256a5e",
+  "n-5d75a2276e",
+  "n-5d03d1bfa4",
+  "n-525a6be75a",
+  "n-44b3b570af",
+  "n-41c999d507",
+  "n-36e9bae8ed",
+  "n-348f0ce004",
+  "n-33f31b6935",
+  "n-2aa536ccdc",
+  "n-250fdb3b1b",
+  "n-23309eb954",
+  "n-2244c25f96",
+  "n-1fef5a401b",
+  "n-1e0d9b8388",
+  "n-18331ebc79",
+  "n-16ee77b7eb",
+  "n-15fd6206af",
+  "n-129b6b09c0",
+  "n-10b1471000",
+  "n-093c066bee",
+  "n-0841776bd9",
+  "n-04529e7d46",
+  "n-02d9e4ba24"
+ ],
+ "clad": [
+  "n-545f242033"
+ ],
+ "claude": [
+  "n-ec5428386a",
+  "n-b4bbea9668",
+  "n-a81182e9ac"
+ ],
+ "claude-4-7": [
+  "n-a81182e9ac"
+ ],
+ "claude-code": [
+  "n-f861f085b8"
+ ],
+ "claw": [
+  "n-2f8c6f34f0"
+ ],
+ "claw-bench": [
+  "n-c15c8a5410"
+ ],
+ "clawgui": [
+  "n-6dd8c1ff25"
+ ],
+ "closed": [
+  "n-f0cec18709",
+  "n-ec5428386a",
+  "n-d8bf4374be",
+  "n-d745776a36",
+  "n-d5e685b3b1",
+  "n-ca390bf3b3",
+  "n-b4bbea9668",
+  "n-af7e0341d4",
+  "n-a81182e9ac",
+  "n-a56b9d31b6",
+  "n-8e2ceecbcb",
+  "n-5e92efec32",
+  "n-5d75a2276e",
+  "n-5cac0a3186",
+  "n-367db0be8e",
+  "n-2405c2d2f2",
+  "n-093c066bee"
+ ],
+ "codex": [
+  "n-2a8f5beb6c"
+ ],
+ "cointeract": [
+  "n-d1faa63ee9"
+ ],
+ "colab": [
+  "n-d755c8bc8a",
+  "n-a3aa871dfa",
+  "n-83af6888de"
+ ],
+ "color-grade-transfer": [
+  "n-250fdb3b1b"
+ ],
+ "comfystudio": [
+  "n-18e6b47885"
+ ],
+ "comfyui": [
+  "n-ff03e5bf7b",
+  "n-f6c6cdf729",
+  "n-edad1a10a0",
+  "n-e4d5ff5436",
+  "n-df8413780a",
+  "n-d967265835",
+  "n-c66b8c38b0",
+  "n-c492e2a3e4",
+  "n-c2a141200b",
+  "n-af1e479850",
+  "n-9a27202165",
+  "n-97b254669d",
+  "n-9744e9b73c",
+  "n-95d245f3eb",
+  "n-7de8349cd0",
+  "n-76a6e0d291",
+  "n-6b3a93f373",
+  "n-69cc1d969e",
+  "n-694e3b1cf5",
+  "n-661e84940d",
+  "n-58225bc7d0",
+  "n-55968207e4",
+  "n-52e566a651",
+  "n-511353336a",
+  "n-501487aec4",
+  "n-41c999d507",
+  "n-39f773b51f",
+  "n-3354f12396",
+  "n-332335c756",
+  "n-2ff0f435cc",
+  "n-2d6650cee4",
+  "n-2915ceca6f",
+  "n-23270485c3",
+  "n-1b11977658",
+  "n-18e6b47885",
+  "n-133a0bfd18",
+  "n-0cf9d026b8",
+  "n-08fceb7eae",
+  "n-08ae804484",
+  "n-0739891476"
+ ],
+ "comfyui-6dof": [
+  "n-f6c6cdf729"
+ ],
+ "comfyui-command-palette": [
+  "n-133a0bfd18"
+ ],
+ "comfyui-hires-fix": [
+  "n-1b11977658"
+ ],
+ "comfyui-photopea": [
+  "n-39f773b51f"
+ ],
+ "comfyui-sensenova-u1": [
+  "n-41c999d507"
+ ],
+ "comfyui-wan-vace-video-joiner": [
+  "n-332335c756"
+ ],
+ "comphairhead": [
+  "n-f1139f1ee9"
+ ],
+ "connect-the-dots": [
+  "n-c2a141200b"
+ ],
+ "connectthedots": [
+  "n-c2a141200b"
+ ],
+ "consistency": [
+  "n-e3abad048f",
+  "n-d4f61075f4",
+  "n-b18df4c1c8",
+  "n-a74ee42caa",
+  "n-997df70c3d",
+  "n-4bbad7fe81",
+  "n-332335c756"
+ ],
+ "continuous-time-distribution-matching": [
+  "n-c660c4f559"
+ ],
+ "controlnet": [
+  "n-c78d87f531"
+ ],
+ "controlnet-for:z-image": [
+  "n-c78d87f531"
+ ],
+ "copaw": [
+  "n-ea5cb3e3f2"
+ ],
+ "coral": [
+  "n-f771c01e06"
+ ],
+ "corridorkey": [
+  "n-169e12a080"
+ ],
+ "cosyvoice": [
+  "n-7de8349cd0"
+ ],
+ "cosyvoice-3": [
+  "n-7de8349cd0"
+ ],
+ "cursor": [
+  "n-a6a4ba2d0f"
+ ],
+ "cursor-3": [
+  "n-a6a4ba2d0f"
+ ],
+ "cutclaw": [
+  "n-0948d8e4a5"
+ ],
+ "d-opsd": [
+  "n-637b9d18ed"
+ ],
+ "dalle": [
+  "n-0646f210ee"
+ ],
+ "daybreak": [
+  "n-e92b026fad"
+ ],
+ "deepseek": [
+  "n-bc5c88f85f"
+ ],
+ "deepseek-tvp": [
+  "n-2244c25f96"
+ ],
+ "deepseek-v4": [
+  "n-bc5c88f85f"
+ ],
+ "delulu": [
+  "n-18c1e67c85"
+ ],
+ "deno-ai-studio": [
+  "n-2d6650cee4"
+ ],
+ "depth": [
+  "n-f6c6cdf729",
+  "n-de24cf852f",
+  "n-d9b76e73f7",
+  "n-8ff86e4411",
+  "n-7c1f689c14",
+  "n-70e759ac2b",
+  "n-3354f12396",
+  "n-2915ceca6f",
+  "n-23309eb954",
+  "n-23270485c3",
+  "n-01b786ce9f"
+ ],
+ "diffhdr": [
+  "n-2af8215f2c"
+ ],
+ "diffusion-image": [
+  "n-f24b5871aa",
+  "n-eb367fb3e1",
+  "n-e5bb396e69",
+  "n-e3fe618151",
+  "n-d9eaebd61d",
+  "n-ca390bf3b3",
+  "n-c9e1e40a9c",
+  "n-c78d87f531",
+  "n-c660c4f559",
+  "n-c56d07046e",
+  "n-c449ab03a6",
+  "n-c2ca134086",
+  "n-bcef63351f",
+  "n-bb60458b02",
+  "n-b6c1907179",
+  "n-b2c1d5a768",
+  "n-af83147e90",
+  "n-af7e0341d4",
+  "n-a7d1f83b13",
+  "n-9f3f263dfe",
+  "n-99c607c318",
+  "n-98474cc274",
+  "n-97b254669d",
+  "n-86ce44c208",
+  "n-7d8614adad",
+  "n-55db199d87",
+  "n-525a6be75a",
+  "n-49b64d4933",
+  "n-30f5861cb4",
+  "n-2fc856ac34",
+  "n-2c91e42c2d",
+  "n-250fdb3b1b",
+  "n-1fef5a401b",
+  "n-10b1471000",
+  "n-0646f210ee"
+ ],
+ "diffusion-video": [
+  "n-fb32c38877",
+  "n-e76fc8f96f",
+  "n-e3abad048f",
+  "n-daa2681205",
+  "n-d8bf4374be",
+  "n-d745776a36",
+  "n-d4f61075f4",
+  "n-d1faa63ee9",
+  "n-cf88820803",
+  "n-ccdb07b0af",
+  "n-c56aa9fa27",
+  "n-c492e2a3e4",
+  "n-b1f200df41",
+  "n-b18df4c1c8",
+  "n-ac33c5f998",
+  "n-a7521b7b08",
+  "n-a74ee42caa",
+  "n-a5ceb23735",
+  "n-9a27202165",
+  "n-997df70c3d",
+  "n-8ff86e4411",
+  "n-8a851b82d9",
+  "n-8913c98771",
+  "n-88b74a7e58",
+  "n-83af6888de",
+  "n-70e759ac2b",
+  "n-69cc1d969e",
+  "n-6562acabdd",
+  "n-5f36799f6d",
+  "n-5e1a256a5e",
+  "n-5db7fa704b",
+  "n-58225bc7d0",
+  "n-57264ece04",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-49e8a26e33",
+  "n-492f7ebf1e",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-348f0ce004",
+  "n-34034d382e",
+  "n-2af8215f2c",
+  "n-2090ac5f1b",
+  "n-09f901429d",
+  "n-09ee25f7d5",
+  "n-0948d8e4a5",
+  "n-0588f1e672"
+ ],
+ "disca": [
+  "n-348f0ce004"
+ ],
+ "dreamlite": [
+  "n-c56d07046e"
+ ],
+ "dreamscene360": [
+  "n-2915ceca6f"
+ ],
+ "echo": [
+  "n-76eee2c69c"
+ ],
+ "echo-2": [
+  "n-76eee2c69c"
+ ],
+ "edit": [
+  "n-f9bd7f602b",
+  "n-f4c04ff479",
+  "n-f0cec18709",
+  "n-ebeab9837a",
+  "n-eb367fb3e1",
+  "n-e5bb396e69",
+  "n-e4fab55e05",
+  "n-e4d5ff5436",
+  "n-dfe5e1e7a6",
+  "n-df8413780a",
+  "n-daa2681205",
+  "n-d9eaebd61d",
+  "n-d745776a36",
+  "n-d192447768",
+  "n-ccdb07b0af",
+  "n-c56d07046e",
+  "n-c492e2a3e4",
+  "n-c449ab03a6",
+  "n-bab7f8e6fd",
+  "n-b6c1907179",
+  "n-b18df4c1c8",
+  "n-af1e479850",
+  "n-ac33c5f998",
+  "n-a74ee42caa",
+  "n-a71a838b34",
+  "n-99c607c318",
+  "n-9744e9b73c",
+  "n-83af6888de",
+  "n-7d8614adad",
+  "n-76eee2c69c",
+  "n-69cc1d969e",
+  "n-57264ece04",
+  "n-55db199d87",
+  "n-55968207e4",
+  "n-4a638abcfe",
+  "n-49b64d4933",
+  "n-49a6616381",
+  "n-492f7ebf1e",
+  "n-3fedc168df",
+  "n-3b297c8441",
+  "n-39f773b51f",
+  "n-396cd4f7c0",
+  "n-34034d382e",
+  "n-332335c756",
+  "n-2c91e42c2d",
+  "n-250fdb3b1b",
+  "n-1fef5a401b",
+  "n-19adc0c7af",
+  "n-18e6b47885",
+  "n-169e12a080",
+  "n-110bebc860",
+  "n-10b1471000",
+  "n-0948d8e4a5",
+  "n-08ae804484",
+  "n-0739891476",
+  "n-0646f210ee",
+  "n-047f61d312",
+  "n-01b786ce9f"
+ ],
+ "elevenlabs": [
+  "n-f5dbfdb346"
+ ],
+ "emf": [
+  "n-525a6be75a"
+ ],
+ "ernie": [
+  "n-5e92efec32"
+ ],
+ "ernie-5-1": [
+  "n-5e92efec32"
+ ],
+ "ernie-image": [
+  "n-c2ca134086",
+  "n-97b254669d"
+ ],
+ "face": [
+  "n-f1139f1ee9",
+  "n-d9eaebd61d",
+  "n-d4d07dd0bf",
+  "n-b651b2cbf2",
+  "n-a4fb636ca8",
+  "n-9f3f263dfe",
+  "n-9744e9b73c",
+  "n-8cf0d43011",
+  "n-807bf78763",
+  "n-70f82f82ae",
+  "n-55968207e4",
+  "n-464a2f9508",
+  "n-30f5861cb4",
+  "n-18c1e67c85",
+  "n-08dc2040a6"
+ ],
+ "face-anything": [
+  "n-a4fb636ca8"
+ ],
+ "family:4c4d": [
+  "n-9dd20d8e0c"
+ ],
+ "family:acestep": [
+  "n-b9e02bd01a",
+  "n-a236c67d82",
+  "n-596ffa06da"
+ ],
+ "family:ai-metadata-inspector": [
+  "n-02e0b8ae6c"
+ ],
+ "family:ai4animation": [
+  "n-535631e71f"
+ ],
+ "family:alaya": [
+  "n-01b786ce9f"
+ ],
+ "family:any4d": [
+  "n-155ef8c3dc"
+ ],
+ "family:anyrecon": [
+  "n-5be6e62e52"
+ ],
+ "family:aose": [
+  "n-cfec66a95b"
+ ],
+ "family:arcflow": [
+  "n-a7d1f83b13"
+ ],
+ "family:artemis": [
+  "n-60f7bb3300"
+ ],
+ "family:assistant-pepe": [
+  "n-73e8b27cb3"
+ ],
+ "family:audio-flamingo": [
+  "n-9aa3cb6ab5"
+ ],
+ "family:audio-omni": [
+  "n-bab7f8e6fd"
+ ],
+ "family:aura": [
+  "n-5e356466d0"
+ ],
+ "family:avatarpointillist": [
+  "n-b651b2cbf2"
+ ],
+ "family:awesome-russian-speech": [
+  "n-78ccc63365"
+ ],
+ "family:bach": [
+  "n-a7521b7b08"
+ ],
+ "family:bepic-viewer": [
+  "n-08fceb7eae"
+ ],
+ "family:boxer": [
+  "n-2938402642"
+ ],
+ "family:bro": [
+  "n-49a6616381"
+ ],
+ "family:bytecut": [
+  "n-19adc0c7af"
+ ],
+ "family:c-met": [
+  "n-70f82f82ae"
+ ],
+ "family:cadd": [
+  "n-e9259b87d6"
+ ],
+ "family:camera-comfyui": [
+  "n-3354f12396"
+ ],
+ "family:cdm": [
+  "n-c660c4f559"
+ ],
+ "family:chai": [
+  "n-a8098d79d8"
+ ],
+ "family:chandra": [
+  "n-840bb8c6c7"
+ ],
+ "family:clad": [
+  "n-545f242033"
+ ],
+ "family:claude": [
+  "n-ec5428386a",
+  "n-b4bbea9668",
+  "n-a81182e9ac"
+ ],
+ "family:claude-code": [
+  "n-f861f085b8"
+ ],
+ "family:claw": [
+  "n-2f8c6f34f0"
+ ],
+ "family:claw-bench": [
+  "n-c15c8a5410"
+ ],
+ "family:clawgui": [
+  "n-6dd8c1ff25"
+ ],
+ "family:codex": [
+  "n-2a8f5beb6c"
+ ],
+ "family:cointeract": [
+  "n-d1faa63ee9"
+ ],
+ "family:comfystudio": [
+  "n-18e6b47885"
+ ],
+ "family:comfyui-6dof": [
+  "n-f6c6cdf729"
+ ],
+ "family:comfyui-command-palette": [
+  "n-133a0bfd18"
+ ],
+ "family:comfyui-hires-fix": [
+  "n-1b11977658"
+ ],
+ "family:comfyui-photopea": [
+  "n-39f773b51f"
+ ],
+ "family:comphairhead": [
+  "n-f1139f1ee9"
+ ],
+ "family:connect-the-dots": [
+  "n-c2a141200b"
+ ],
+ "family:copaw": [
+  "n-ea5cb3e3f2"
+ ],
+ "family:coral": [
+  "n-f771c01e06"
+ ],
+ "family:corridorkey": [
+  "n-169e12a080"
+ ],
+ "family:cosyvoice": [
+  "n-7de8349cd0"
+ ],
+ "family:cursor": [
+  "n-a6a4ba2d0f"
+ ],
+ "family:cutclaw": [
+  "n-0948d8e4a5"
+ ],
+ "family:d-opsd": [
+  "n-637b9d18ed"
+ ],
+ "family:dalle": [
+  "n-0646f210ee"
+ ],
+ "family:daybreak": [
+  "n-e92b026fad"
+ ],
+ "family:deepseek": [
+  "n-bc5c88f85f"
+ ],
+ "family:deepseek-tvp": [
+  "n-2244c25f96"
+ ],
+ "family:delulu": [
+  "n-18c1e67c85"
+ ],
+ "family:deno-ai-studio": [
+  "n-2d6650cee4"
+ ],
+ "family:diffhdr": [
+  "n-2af8215f2c"
+ ],
+ "family:dreamlite": [
+  "n-c56d07046e"
+ ],
+ "family:dreamscene360": [
+  "n-2915ceca6f"
+ ],
+ "family:echo": [
+  "n-76eee2c69c"
+ ],
+ "family:elevenlabs": [
+  "n-f5dbfdb346"
+ ],
+ "family:emf": [
+  "n-525a6be75a"
+ ],
+ "family:ernie": [
+  "n-5e92efec32"
+ ],
+ "family:ernie-image": [
+  "n-c2ca134086",
+  "n-97b254669d"
+ ],
+ "family:face-anything": [
+  "n-a4fb636ca8"
+ ],
+ "family:fastgha": [
+  "n-8cf0d43011"
+ ],
+ "family:flash-attention": [
+  "n-545c4e25d2"
+ ],
+ "family:flexavatar": [
+  "n-08dc2040a6"
+ ],
+ "family:flowanchor": [
+  "n-a74ee42caa"
+ ],
+ "family:flowinone": [
+  "n-55db199d87"
+ ],
+ "family:flue": [
+  "n-99e3cb59c2"
+ ],
+ "family:flux": [
+  "n-e5bb396e69",
+  "n-bb60458b02",
+  "n-b2c1d5a768",
+  "n-76a6e0d291",
+  "n-30f5861cb4"
+ ],
+ "family:foresyn-ai": [
+  "n-541dc74a2e"
+ ],
+ "family:gameworld": [
+  "n-f306331601"
+ ],
+ "family:gaussian-splatting": [
+  "n-ccb2a502fb"
+ ],
+ "family:gbrain": [
+  "n-eb965439db"
+ ],
+ "family:gemini": [
+  "n-d5e685b3b1"
+ ],
+ "family:gemma": [
+  "n-f4d17d7115",
+  "n-c7bfff5d31",
+  "n-ae3f3a3876",
+  "n-9139899069",
+  "n-5ac53c2267"
+ ],
+ "family:gemopus": [
+  "n-bded34e024"
+ ],
+ "family:gems": [
+  "n-d111345e9c"
+ ],
+ "family:gen-searcher": [
+  "n-eaa27c5213"
+ ],
+ "family:geo-register-plugin": [
+  "n-85862dbbb3"
+ ],
+ "family:geosr": [
+  "n-1b0490d011"
+ ],
+ "family:gguf-models": [
+  "n-16ee77b7eb"
+ ],
+ "family:girl-agent": [
+  "n-db7fee9bb2"
+ ],
+ "family:gliguard": [
+  "n-3ef8391496"
+ ],
+ "family:glm": [
+  "n-e51898fad5",
+  "n-b2b9ca697e"
+ ],
+ "family:gpt": [
+  "n-2405c2d2f2"
+ ],
+ "family:gpt-image": [
+  "n-df001e7bab",
+  "n-ca390bf3b3",
+  "n-af7e0341d4"
+ ],
+ "family:griptape": [
+  "n-ebeab9837a"
+ ],
+ "family:gsd": [
+  "n-ee8bd2e38f"
+ ],
+ "family:gyroscope": [
+  "n-a71a838b34"
+ ],
+ "family:habitat-gs": [
+  "n-c96f664d5d"
+ ],
+ "family:happy-alibaba": [
+  "n-5e1a256a5e"
+ ],
+ "family:happyhorse": [
+  "n-6562acabdd",
+  "n-0588f1e672"
+ ],
+ "family:hermes": [
+  "n-367db0be8e"
+ ],
+ "family:hermes-agent": [
+  "n-95d245f3eb"
+ ],
+ "family:hidream": [
+  "n-7d8614adad"
+ ],
+ "family:hunyuan": [
+  "n-1fef5a401b",
+  "n-0841776bd9"
+ ],
+ "family:hunyuan-video": [
+  "n-fb32c38877",
+  "n-348f0ce004"
+ ],
+ "family:hy-mt": [
+  "n-e17cbf7ded"
+ ],
+ "family:hy-world": [
+  "n-1e0d9b8388"
+ ],
+ "family:hydra": [
+  "n-09ee25f7d5"
+ ],
+ "family:hyperframes": [
+  "n-963305f6b7"
+ ],
+ "family:icecache": [
+  "n-fc612ab002"
+ ],
+ "family:infinidepth": [
+  "n-23309eb954"
+ ],
+ "family:insid3": [
+  "n-a8a043a8fd"
+ ],
+ "family:javisverse": [
+  "n-18331ebc79"
+ ],
+ "family:joyai": [
+  "n-0739891476"
+ ],
+ "family:joyai-image": [
+  "n-d192447768"
+ ],
+ "family:kimi": [
+  "n-2aa536ccdc"
+ ],
+ "family:kimodo": [
+  "n-61c8c02fec"
+ ],
+ "family:kiri-engine": [
+  "n-9db878fd06"
+ ],
+ "family:kupkaprod": [
+  "n-511353336a"
+ ],
+ "family:lava-music": [
+  "n-ea4c5d4dff"
+ ],
+ "family:ldf-vfi": [
+  "n-88b74a7e58"
+ ],
+ "family:lgtm": [
+  "n-fdbf17ddf7"
+ ],
+ "family:lingbot-map": [
+  "n-f57cbec8b9"
+ ],
+ "family:liveactionaov": [
+  "n-23270485c3"
+ ],
+ "family:llada": [
+  "n-64094eafae"
+ ],
+ "family:longcat": [
+  "n-5d03d1bfa4"
+ ],
+ "family:longcat-audiodit": [
+  "n-d967265835"
+ ],
+ "family:lpm": [
+  "n-464a2f9508"
+ ],
+ "family:ltx": [
+  "n-ccdb07b0af",
+  "n-c492e2a3e4",
+  "n-ac33c5f998",
+  "n-9a27202165",
+  "n-997df70c3d",
+  "n-8913c98771",
+  "n-69cc1d969e",
+  "n-57264ece04",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-492f7ebf1e",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-34034d382e"
+ ],
+ "family:luma": [
+  "n-99c607c318",
+  "n-5cac0a3186"
+ ],
+ "family:lumipic": [
+  "n-eb367fb3e1"
+ ],
+ "family:lyra": [
+  "n-a549ac3575"
+ ],
+ "family:m-xr": [
+  "n-e63a0d4512"
+ ],
+ "family:m2svid": [
+  "n-8ff86e4411"
+ ],
+ "family:mace-dance": [
+  "n-44b3b570af"
+ ],
+ "family:mai": [
+  "n-2eb209422c"
+ ],
+ "family:majoor": [
+  "n-ff03e5bf7b"
+ ],
+ "family:map2world": [
+  "n-40f1573a5d"
+ ],
+ "family:marble": [
+  "n-3b297c8441",
+  "n-06b8f54c97"
+ ],
+ "family:marco-moe": [
+  "n-15fd6206af"
+ ],
+ "family:matrix-game": [
+  "n-5f36799f6d"
+ ],
+ "family:megastyle": [
+  "n-edad1a10a0",
+  "n-e3fe618151"
+ ],
+ "family:memory-transfer": [
+  "n-73e5608506"
+ ],
+ "family:mempalace": [
+  "n-a3583f87c7"
+ ],
+ "family:mesh2motion": [
+  "n-2ff0f435cc"
+ ],
+ "family:meta-cot": [
+  "n-2c91e42c2d"
+ ],
+ "family:mf0-1984": [
+  "n-dd8d68b69f"
+ ],
+ "family:mia": [
+  "n-221dea80c4"
+ ],
+ "family:mimo": [
+  "n-768295e164"
+ ],
+ "family:minicpm-v": [
+  "n-36e9bae8ed"
+ ],
+ "family:minimax-music": [
+  "n-dfe5e1e7a6"
+ ],
+ "family:mirofish": [
+  "n-e4b7a4de7b"
+ ],
+ "family:mistral": [
+  "n-8e2ceecbcb"
+ ],
+ "family:modddif": [
+  "n-c8fc3fe21e"
+ ],
+ "family:moss-audio": [
+  "n-8da3cc43df",
+  "n-33f31b6935"
+ ],
+ "family:moss-tts": [
+  "n-f1ea79cf67"
+ ],
+ "family:motif-video": [
+  "n-c56aa9fa27"
+ ],
+ "family:muffins-vr": [
+  "n-af1e479850"
+ ],
+ "family:multi-user-agents": [
+  "n-1b656b5ff8"
+ ],
+ "family:multica": [
+  "n-63cbd51a4a"
+ ],
+ "family:nemotron": [
+  "n-6a0618307a",
+  "n-1cfc0e728d"
+ ],
+ "family:nucleus": [
+  "n-af83147e90",
+  "n-98474cc274"
+ ],
+ "family:numina": [
+  "n-e3abad048f"
+ ],
+ "family:obscura-remova": [
+  "n-daa2681205"
+ ],
+ "family:odyssey": [
+  "n-d8bf4374be"
+ ],
+ "family:olmo": [
+  "n-ab5423ca1c"
+ ],
+ "family:omnishotcut": [
+  "n-bb0f83ff09"
+ ],
+ "family:omnishow": [
+  "n-03e4a812c8"
+ ],
+ "family:omnivoice": [
+  "n-665b60a4fc",
+  "n-661e84940d",
+  "n-0124eabefd"
+ ],
+ "family:onemancompany": [
+  "n-2bdd41c2da"
+ ],
+ "family:open-design": [
+  "n-ff21b44ef5"
+ ],
+ "family:open-generative-ai": [
+  "n-5ade5d658c"
+ ],
+ "family:open-multi-agent": [
+  "n-662ab03ff4"
+ ],
+ "family:opengame": [
+  "n-7cc366b545"
+ ],
+ "family:openharness": [
+  "n-44c547a245"
+ ],
+ "family:openmobile": [
+  "n-02d9e4ba24"
+ ],
+ "family:openreview": [
+  "n-efaa00d50b"
+ ],
+ "family:parakeet": [
+  "n-5b56fca93a"
+ ],
+ "family:perplexity": [
+  "n-a56b9d31b6"
+ ],
+ "family:personavlm": [
+  "n-78a59b56b6"
+ ],
+ "family:phi": [
+  "n-ec7e719b88"
+ ],
+ "family:phoneclaw": [
+  "n-f3c22d2162"
+ ],
+ "family:physforge": [
+  "n-ee38e77991"
+ ],
+ "family:pi-hoc": [
+  "n-4694b833dd"
+ ],
+ "family:pika": [
+  "n-807bf78763"
+ ],
+ "family:pixal3d": [
+  "n-9e0a0fba7f"
+ ],
+ "family:pixelsmile": [
+  "n-55968207e4"
+ ],
+ "family:playcoder": [
+  "n-fe9036dfac"
+ ],
+ "family:privacy-filter": [
+  "n-1985ad3cff"
+ ],
+ "family:prompt-relay": [
+  "n-d4f61075f4"
+ ],
+ "family:pruna-ai": [
+  "n-d4d07dd0bf"
+ ],
+ "family:psdesigner": [
+  "n-da24004da2"
+ ],
+ "family:pytheory": [
+  "n-c4a452f85d"
+ ],
+ "family:qclaw": [
+  "n-9af7222826",
+  "n-093c066bee"
+ ],
+ "family:quickmagic": [
+  "n-2fd5e60740"
+ ],
+ "family:qwen": [
+  "n-dc7072d90a",
+  "n-d755c8bc8a",
+  "n-b1f4237092",
+  "n-97c6278d46",
+  "n-8a620616a1",
+  "n-86ce44c208",
+  "n-7e83db4168",
+  "n-6a60e32785",
+  "n-129b6b09c0",
+  "n-04529e7d46",
+  "n-019c913613"
+ ],
+ "family:qwen-image-edit": [
+  "n-250fdb3b1b"
+ ],
+ "family:rawgen": [
+  "n-c449ab03a6"
+ ],
+ "family:realtime-tts": [
+  "n-2ffed2d338"
+ ],
+ "family:reconviagen": [
+  "n-461304d95b"
+ ],
+ "family:refineanything": [
+  "n-10b1471000"
+ ],
+ "family:replaceme": [
+  "n-18cb9608e2"
+ ],
+ "family:reshoot-anything": [
+  "n-8a851b82d9"
+ ],
+ "family:ring": [
+  "n-58129455d1"
+ ],
+ "family:rodin": [
+  "n-f0cec18709"
+ ],
+ "family:rotorquant": [
+  "n-553243c913"
+ ],
+ "family:rowboat": [
+  "n-11e8a99b4c"
+ ],
+ "family:rs-nodes": [
+  "n-c66b8c38b0"
+ ],
+ "family:rvr": [
+  "n-b6c1907179"
+ ],
+ "family:sana": [
+  "n-e76fc8f96f"
+ ],
+ "family:sapiens": [
+  "n-aa28911ec6"
+ ],
+ "family:scail": [
+  "n-0cf9d026b8"
+ ],
+ "family:sdxs": [
+  "n-f24b5871aa"
+ ],
+ "family:seed": [
+  "n-ea73b925dc"
+ ],
+ "family:seed-voice": [
+  "n-5d75a2276e"
+ ],
+ "family:seedance": [
+  "n-e4d5ff5436",
+  "n-49e8a26e33"
+ ],
+ "family:seeing-fast-and-slow": [
+  "n-b1f200df41"
+ ],
+ "family:semantic-progress-function": [
+  "n-b18df4c1c8"
+ ],
+ "family:sensenova": [
+  "n-4a638abcfe",
+  "n-41c999d507"
+ ],
+ "family:sillytavern": [
+  "n-fa9c04297f"
+ ],
+ "family:sloplobster": [
+  "n-2dbef67328"
+ ],
+ "family:sommelier": [
+  "n-b107eae70b"
+ ],
+ "family:sonilo": [
+  "n-694e3b1cf5"
+ ],
+ "family:spark": [
+  "n-110bebc860"
+ ],
+ "family:spatial-studio": [
+  "n-f4c04ff479"
+ ],
+ "family:spatialedit": [
+  "n-3fedc168df"
+ ],
+ "family:spec": [
+  "n-8c91402db3"
+ ],
+ "family:spectrum": [
+  "n-58225bc7d0"
+ ],
+ "family:storysplat": [
+  "n-e4fab55e05"
+ ],
+ "family:stream": [
+  "n-09f901429d"
+ ],
+ "family:styleid": [
+  "n-9f3f263dfe"
+ ],
+ "family:superset": [
+  "n-73d2d5938e"
+ ],
+ "family:superwhisper": [
+  "n-08bc14aa3d"
+ ],
+ "family:svgs": [
+  "n-f735b8e846"
+ ],
+ "family:sync-labs": [
+  "n-cd25320940"
+ ],
+ "family:sync-so": [
+  "n-d883c4c40c"
+ ],
+ "family:thinking-machines": [
+  "n-972d1e2832"
+ ],
+ "family:thinksound": [
+  "n-8fe6695c64"
+ ],
+ "family:tinymu": [
+  "n-bec376434e"
+ ],
+ "family:tips": [
+  "n-de24cf852f"
+ ],
+ "family:token-warping": [
+  "n-4697df47f5"
+ ],
+ "family:trellis": [
+  "n-d7c3a5e60e"
+ ],
+ "family:triattention": [
+  "n-e96d2e151b"
+ ],
+ "family:tribe": [
+  "n-f9bd7f602b"
+ ],
+ "family:tuna": [
+  "n-44592b77d5"
+ ],
+ "family:uma": [
+  "n-207ed94fbd"
+ ],
+ "family:uni-vigu": [
+  "n-a5ceb23735"
+ ],
+ "family:unicorrn": [
+  "n-a3c0ebdd3a"
+ ],
+ "family:unify-agent": [
+  "n-c9e1e40a9c"
+ ],
+ "family:unigendet": [
+  "n-2fc856ac34"
+ ],
+ "family:unigeo": [
+  "n-7c1f689c14"
+ ],
+ "family:unirelight": [
+  "n-49b64d4933"
+ ],
+ "family:unity-ai": [
+  "n-e60825c137"
+ ],
+ "family:unividx": [
+  "n-70e759ac2b"
+ ],
+ "family:unsloth": [
+  "n-a3aa871dfa"
+ ],
+ "family:vanast": [
+  "n-e33dfb0bdb"
+ ],
+ "family:vibecomfy": [
+  "n-6b3a93f373"
+ ],
+ "family:video-use": [
+  "n-047f61d312"
+ ],
+ "family:vista4d": [
+  "n-d9b76e73f7"
+ ],
+ "family:void": [
+  "n-83af6888de",
+  "n-08ae804484"
+ ],
+ "family:voxcpm": [
+  "n-d7b1c6bb36"
+ ],
+ "family:wan": [
+  "n-d9eaebd61d",
+  "n-d745776a36",
+  "n-cf88820803"
+ ],
+ "family:wanvideo": [
+  "n-332335c756"
+ ],
+ "family:waypoint": [
+  "n-2090ac5f1b"
+ ],
+ "family:wilddet3d": [
+  "n-c5207bfa4a"
+ ],
+ "family:world-r1": [
+  "n-5db7fa704b"
+ ],
+ "family:x-sam": [
+  "n-1c50287b34"
+ ],
+ "family:yedp": [
+  "n-501487aec4"
+ ],
+ "family:z-image": [
+  "n-c78d87f531",
+  "n-bcef63351f",
+  "n-9744e9b73c"
+ ],
+ "family:zveroboy-photo": [
+  "n-df8413780a"
+ ],
+ "fastgha": [
+  "n-8cf0d43011"
+ ],
+ "fine-tuning": [
+  "n-ea5cb3e3f2",
+  "n-e3fe618151",
+  "n-dc7072d90a",
+  "n-bded34e024",
+  "n-bcef63351f",
+  "n-ab5423ca1c",
+  "n-a81182e9ac",
+  "n-a3aa871dfa",
+  "n-9af7222826",
+  "n-78a59b56b6",
+  "n-73e8b27cb3",
+  "n-637b9d18ed",
+  "n-58129455d1",
+  "n-129b6b09c0",
+  "n-04529e7d46"
+ ],
+ "flash-attention": [
+  "n-545c4e25d2"
+ ],
+ "flexavatar": [
+  "n-08dc2040a6"
+ ],
+ "flova-ai": [
+  "n-49e8a26e33"
+ ],
+ "flova.ai": [
+  "n-49e8a26e33"
+ ],
+ "flowanchor": [
+  "n-a74ee42caa"
+ ],
+ "flowinone": [
+  "n-55db199d87"
+ ],
+ "flue": [
+  "n-99e3cb59c2"
+ ],
+ "flux": [
+  "n-e5bb396e69",
+  "n-e3fe618151",
+  "n-c449ab03a6",
+  "n-bb60458b02",
+  "n-b2c1d5a768",
+  "n-a7d1f83b13",
+  "n-76a6e0d291",
+  "n-30f5861cb4"
+ ],
+ "flux-2": [
+  "n-e5bb396e69",
+  "n-bb60458b02",
+  "n-b2c1d5a768"
+ ],
+ "flux2k": [
+  "n-76a6e0d291"
+ ],
+ "foresyn-ai": [
+  "n-541dc74a2e"
+ ],
+ "free": [
+  "n-ff21b44ef5",
+  "n-f861f085b8",
+  "n-e4fab55e05",
+  "n-df001e7bab",
+  "n-d755c8bc8a",
+  "n-cd25320940",
+  "n-c8fc3fe21e",
+  "n-c7bfff5d31",
+  "n-a7521b7b08",
+  "n-a3aa871dfa",
+  "n-78ccc63365",
+  "n-76eee2c69c",
+  "n-6a60e32785",
+  "n-694e3b1cf5",
+  "n-60f7bb3300",
+  "n-58129455d1",
+  "n-545c4e25d2",
+  "n-541dc74a2e",
+  "n-18c1e67c85",
+  "n-0841776bd9",
+  "n-0588f1e672",
+  "n-02e0b8ae6c"
+ ],
+ "gameworld": [
+  "n-f306331601"
+ ],
+ "gaussian-splatting": [
+  "n-fdbf17ddf7",
+  "n-f735b8e846",
+  "n-f4c04ff479",
+  "n-e4fab55e05",
+  "n-ccb2a502fb",
+  "n-c96f664d5d",
+  "n-b651b2cbf2",
+  "n-9dd20d8e0c",
+  "n-9db878fd06",
+  "n-8cf0d43011",
+  "n-85862dbbb3",
+  "n-76eee2c69c",
+  "n-60f7bb3300",
+  "n-2915ceca6f",
+  "n-110bebc860"
+ ],
+ "gaussian-splatting-3dgs": [
+  "n-ccb2a502fb"
+ ],
+ "gbrain": [
+  "n-eb965439db"
+ ],
+ "gemini": [
+  "n-d5e685b3b1"
+ ],
+ "gemini-3-1": [
+  "n-d5e685b3b1"
+ ],
+ "gemma": [
+  "n-f4d17d7115",
+  "n-c7bfff5d31",
+  "n-ae3f3a3876",
+  "n-9139899069",
+  "n-5ac53c2267"
+ ],
+ "gemma-4": [
+  "n-f4d17d7115",
+  "n-c7bfff5d31",
+  "n-9139899069"
+ ],
+ "gemma-4-31b": [
+  "n-5ac53c2267"
+ ],
+ "gemopus": [
+  "n-bded34e024"
+ ],
+ "gemopus-4-26b": [
+  "n-bded34e024"
+ ],
+ "gems": [
+  "n-d111345e9c"
+ ],
+ "gen-searcher": [
+  "n-eaa27c5213"
+ ],
+ "generative-world-renderer": [
+  "n-01b786ce9f"
+ ],
+ "geo-register-plugin": [
+  "n-85862dbbb3"
+ ],
+ "geosr": [
+  "n-1b0490d011"
+ ],
+ "gguf": [
+  "n-b1f4237092",
+  "n-596ffa06da"
+ ],
+ "gguf-models": [
+  "n-16ee77b7eb"
+ ],
+ "girl-agent": [
+  "n-db7fee9bb2"
+ ],
+ "github": [
+  "n-ff21b44ef5",
+  "n-ff03e5bf7b",
+  "n-fe9036dfac",
+  "n-fc612ab002",
+  "n-fb32c38877",
+  "n-fa9c04297f",
+  "n-f9bd7f602b",
+  "n-f861f085b8",
+  "n-f771c01e06",
+  "n-f735b8e846",
+  "n-f6c6cdf729",
+  "n-f57cbec8b9",
+  "n-f3c22d2162",
+  "n-f306331601",
+  "n-f1ea79cf67",
+  "n-f1139f1ee9",
+  "n-efaa00d50b",
+  "n-ee8bd2e38f",
+  "n-ee38e77991",
+  "n-edad1a10a0",
+  "n-ec7e719b88",
+  "n-eb965439db",
+  "n-eb367fb3e1",
+  "n-eaa27c5213",
+  "n-ea5cb3e3f2",
+  "n-e96d2e151b",
+  "n-e9259b87d6",
+  "n-e76fc8f96f",
+  "n-e51898fad5",
+  "n-e4b7a4de7b",
+  "n-e3fe618151",
+  "n-e3abad048f",
+  "n-e33dfb0bdb",
+  "n-df8413780a",
+  "n-df001e7bab",
+  "n-dd8d68b69f",
+  "n-db7fee9bb2",
+  "n-da24004da2",
+  "n-d9b76e73f7",
+  "n-d967265835",
+  "n-d7c3a5e60e",
+  "n-d7b1c6bb36",
+  "n-d4f61075f4",
+  "n-d1faa63ee9",
+  "n-d192447768",
+  "n-d111345e9c",
+  "n-cfec66a95b",
+  "n-ccb2a502fb",
+  "n-c9e1e40a9c",
+  "n-c96f664d5d",
+  "n-c66b8c38b0",
+  "n-c660c4f559",
+  "n-c5207bfa4a",
+  "n-c2a141200b",
+  "n-bec376434e",
+  "n-bb0f83ff09",
+  "n-bab7f8e6fd",
+  "n-b9e02bd01a",
+  "n-b6c1907179",
+  "n-b651b2cbf2",
+  "n-b1f200df41",
+  "n-b18df4c1c8",
+  "n-b107eae70b",
+  "n-ae3f3a3876",
+  "n-ac33c5f998",
+  "n-aa28911ec6",
+  "n-a8098d79d8",
+  "n-a7d1f83b13",
+  "n-a74ee42caa",
+  "n-a5ceb23735",
+  "n-a549ac3575",
+  "n-a4fb636ca8",
+  "n-a3c0ebdd3a",
+  "n-a3583f87c7",
+  "n-a236c67d82",
+  "n-9f3f263dfe",
+  "n-9e0a0fba7f",
+  "n-9dd20d8e0c",
+  "n-9aa3cb6ab5",
+  "n-99e3cb59c2",
+  "n-98474cc274",
+  "n-97c6278d46",
+  "n-97b254669d",
+  "n-963305f6b7",
+  "n-95d245f3eb",
+  "n-8ff86e4411",
+  "n-8fe6695c64",
+  "n-8da3cc43df",
+  "n-8c91402db3",
+  "n-8a851b82d9",
+  "n-88b74a7e58",
+  "n-85862dbbb3",
+  "n-840bb8c6c7",
+  "n-83af6888de",
+  "n-7e83db4168",
+  "n-7de8349cd0",
+  "n-7d8614adad",
+  "n-7cc366b545",
+  "n-7c1f689c14",
+  "n-78ccc63365",
+  "n-78a59b56b6",
+  "n-76a6e0d291",
+  "n-73d2d5938e",
+  "n-70f82f82ae",
+  "n-70e759ac2b",
+  "n-6dd8c1ff25",
+  "n-6b3a93f373",
+  "n-665b60a4fc",
+  "n-662ab03ff4",
+  "n-661e84940d",
+  "n-64094eafae",
+  "n-63cbd51a4a",
+  "n-637b9d18ed",
+  "n-5f36799f6d",
+  "n-5e356466d0",
+  "n-5db7fa704b",
+  "n-5d03d1bfa4",
+  "n-5be6e62e52",
+  "n-5ade5d658c",
+  "n-58225bc7d0",
+  "n-55db199d87",
+  "n-55968207e4",
+  "n-553243c913",
+  "n-545c4e25d2",
+  "n-535631e71f",
+  "n-52e566a651",
+  "n-525a6be75a",
+  "n-511353336a",
+  "n-501487aec4",
+  "n-4a638abcfe",
+  "n-49b64d4933",
+  "n-49a6616381",
+  "n-4697df47f5",
+  "n-461304d95b",
+  "n-44c547a245",
+  "n-44b3b570af",
+  "n-44592b77d5",
+  "n-41c999d507",
+  "n-40f1573a5d",
+  "n-3fedc168df",
+  "n-3ef8391496",
+  "n-39f773b51f",
+  "n-36e9bae8ed",
+  "n-367db0be8e",
+  "n-348f0ce004",
+  "n-3354f12396",
+  "n-332335c756",
+  "n-30f5861cb4",
+  "n-2ff0f435cc",
+  "n-2fc856ac34",
+  "n-2f8c6f34f0",
+  "n-2dbef67328",
+  "n-2d6650cee4",
+  "n-2c91e42c2d",
+  "n-2bdd41c2da",
+  "n-2938402642",
+  "n-2915ceca6f",
+  "n-23309eb954",
+  "n-23270485c3",
+  "n-2244c25f96",
+  "n-221dea80c4",
+  "n-1fef5a401b",
+  "n-1e0d9b8388",
+  "n-1c50287b34",
+  "n-1b656b5ff8",
+  "n-1b11977658",
+  "n-1b0490d011",
+  "n-19adc0c7af",
+  "n-18e6b47885",
+  "n-18cb9608e2",
+  "n-18331ebc79",
+  "n-169e12a080",
+  "n-155ef8c3dc",
+  "n-133a0bfd18",
+  "n-11e8a99b4c",
+  "n-110bebc860",
+  "n-10b1471000",
+  "n-0cf9d026b8",
+  "n-09f901429d",
+  "n-09ee25f7d5",
+  "n-0948d8e4a5",
+  "n-08fceb7eae",
+  "n-08ae804484",
+  "n-0841776bd9",
+  "n-0739891476",
+  "n-06b8f54c97",
+  "n-047f61d312",
+  "n-03e4a812c8",
+  "n-02e0b8ae6c",
+  "n-02d9e4ba24",
+  "n-01b786ce9f",
+  "n-0124eabefd"
+ ],
+ "gliguard": [
+  "n-3ef8391496"
+ ],
+ "glm": [
+  "n-e51898fad5",
+  "n-b2b9ca697e"
+ ],
+ "glm-5-1": [
+  "n-e51898fad5"
+ ],
+ "glm-5v": [
+  "n-b2b9ca697e"
+ ],
+ "gpt": [
+  "n-2405c2d2f2"
+ ],
+ "gpt-5-5": [
+  "n-2405c2d2f2"
+ ],
+ "gpt-image": [
+  "n-df001e7bab",
+  "n-ca390bf3b3",
+  "n-af7e0341d4"
+ ],
+ "gpt-image-2": [
+  "n-df001e7bab",
+  "n-ca390bf3b3",
+  "n-af7e0341d4"
+ ],
+ "griptape": [
+  "n-ebeab9837a"
+ ],
+ "gsd": [
+  "n-ee8bd2e38f"
+ ],
+ "gsd-2": [
+  "n-ee8bd2e38f"
+ ],
+ "gyroscope": [
+  "n-a71a838b34"
+ ],
+ "habitat-gs": [
+  "n-c96f664d5d"
+ ],
+ "hackernews-predictor": [
+  "n-541dc74a2e"
+ ],
+ "happy-alibaba": [
+  "n-5e1a256a5e"
+ ],
+ "happy-horse": [
+  "n-0588f1e672"
+ ],
+ "happy-horse-1-0": [
+  "n-6562acabdd"
+ ],
+ "happy-oyster": [
+  "n-5e1a256a5e"
+ ],
+ "happyhorse": [
+  "n-6562acabdd",
+  "n-0588f1e672"
+ ],
+ "happyhorse-1-0": [
+  "n-6562acabdd"
+ ],
+ "hermes": [
+  "n-367db0be8e"
+ ],
+ "hermes-agent": [
+  "n-95d245f3eb"
+ ],
+ "hidream": [
+  "n-7d8614adad"
+ ],
+ "huggingface": [
+  "n-fb32c38877",
+  "n-f57cbec8b9",
+  "n-f4d17d7115",
+  "n-f24b5871aa",
+  "n-f1ea79cf67",
+  "n-ec7e719b88",
+  "n-eb367fb3e1",
+  "n-ea5cb3e3f2",
+  "n-e9259b87d6",
+  "n-e5bb396e69",
+  "n-e51898fad5",
+  "n-e3fe618151",
+  "n-de24cf852f",
+  "n-dc7072d90a",
+  "n-d9b76e73f7",
+  "n-d7b1c6bb36",
+  "n-d1faa63ee9",
+  "n-d192447768",
+  "n-cf88820803",
+  "n-ccdb07b0af",
+  "n-c7bfff5d31",
+  "n-c78d87f531",
+  "n-c660c4f559",
+  "n-c56aa9fa27",
+  "n-c5207bfa4a",
+  "n-c492e2a3e4",
+  "n-bec376434e",
+  "n-bded34e024",
+  "n-bcef63351f",
+  "n-bc5c88f85f",
+  "n-bb60458b02",
+  "n-bb0f83ff09",
+  "n-bab7f8e6fd",
+  "n-b9e02bd01a",
+  "n-b6c1907179",
+  "n-b2c1d5a768",
+  "n-b1f4237092",
+  "n-af83147e90",
+  "n-ab5423ca1c",
+  "n-aa28911ec6",
+  "n-a7d1f83b13",
+  "n-a71a838b34",
+  "n-a5ceb23735",
+  "n-a549ac3575",
+  "n-9f3f263dfe",
+  "n-9e0a0fba7f",
+  "n-9af7222826",
+  "n-9aa3cb6ab5",
+  "n-9a27202165",
+  "n-997df70c3d",
+  "n-98474cc274",
+  "n-97c6278d46",
+  "n-97b254669d",
+  "n-9139899069",
+  "n-8fe6695c64",
+  "n-8e2ceecbcb",
+  "n-8da3cc43df",
+  "n-8a851b82d9",
+  "n-8a620616a1",
+  "n-8913c98771",
+  "n-88b74a7e58",
+  "n-840bb8c6c7",
+  "n-83af6888de",
+  "n-7d8614adad",
+  "n-7cc366b545",
+  "n-7c1f689c14",
+  "n-78a59b56b6",
+  "n-768295e164",
+  "n-73e8b27cb3",
+  "n-70f82f82ae",
+  "n-70e759ac2b",
+  "n-6dd8c1ff25",
+  "n-6a0618307a",
+  "n-665b60a4fc",
+  "n-64094eafae",
+  "n-61c8c02fec",
+  "n-5f36799f6d",
+  "n-5e356466d0",
+  "n-5d03d1bfa4",
+  "n-5be6e62e52",
+  "n-5b56fca93a",
+  "n-5ac53c2267",
+  "n-596ffa06da",
+  "n-58129455d1",
+  "n-57264ece04",
+  "n-55db199d87",
+  "n-545c4e25d2",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-4a638abcfe",
+  "n-49b64d4933",
+  "n-492f7ebf1e",
+  "n-461304d95b",
+  "n-44b3b570af",
+  "n-41c999d507",
+  "n-3fedc168df",
+  "n-3ef8391496",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-36e9bae8ed",
+  "n-348f0ce004",
+  "n-33f31b6935",
+  "n-2fc856ac34",
+  "n-2c91e42c2d",
+  "n-2aa536ccdc",
+  "n-2938402642",
+  "n-221dea80c4",
+  "n-2090ac5f1b",
+  "n-1fef5a401b",
+  "n-1e0d9b8388",
+  "n-1cfc0e728d",
+  "n-1c50287b34",
+  "n-1b0490d011",
+  "n-1985ad3cff",
+  "n-18cb9608e2",
+  "n-18331ebc79",
+  "n-16ee77b7eb",
+  "n-15fd6206af",
+  "n-129b6b09c0",
+  "n-10b1471000",
+  "n-09f901429d",
+  "n-09ee25f7d5",
+  "n-0841776bd9",
+  "n-04529e7d46",
+  "n-02d9e4ba24",
+  "n-019c913613"
+ ],
+ "huggingface-kernels": [
+  "n-545c4e25d2"
+ ],
+ "hunyuan": [
+  "n-1fef5a401b",
+  "n-0841776bd9"
+ ],
+ "hunyuan-video": [
+  "n-fb32c38877",
+  "n-348f0ce004"
+ ],
+ "hy-mt": [
+  "n-e17cbf7ded"
+ ],
+ "hy-mt-1-8b": [
+  "n-e17cbf7ded"
+ ],
+ "hy-mt1-5-1-8b": [
+  "n-e17cbf7ded"
+ ],
+ "hy-world": [
+  "n-1e0d9b8388"
+ ],
+ "hy-world-2-0": [
+  "n-1e0d9b8388"
+ ],
+ "hy3": [
+  "n-0841776bd9"
+ ],
+ "hydra": [
+  "n-09ee25f7d5"
+ ],
+ "hyperframes": [
+  "n-963305f6b7"
+ ],
+ "ic": [
+  "n-c492e2a3e4"
+ ],
+ "icecache": [
+  "n-fc612ab002"
+ ],
+ "image-to-image": [
+  "n-eb367fb3e1",
+  "n-e63a0d4512",
+  "n-e3fe618151",
+  "n-df8413780a",
+  "n-d192447768",
+  "n-c449ab03a6",
+  "n-8e2ceecbcb",
+  "n-7c1f689c14",
+  "n-55db199d87",
+  "n-44592b77d5",
+  "n-39f773b51f",
+  "n-30f5861cb4",
+  "n-2c91e42c2d",
+  "n-250fdb3b1b",
+  "n-1fef5a401b",
+  "n-10b1471000",
+  "n-0646f210ee",
+  "n-04529e7d46"
+ ],
+ "image-to-material": [
+  "n-e63a0d4512"
+ ],
+ "image-to-video": [
+  "n-e76fc8f96f",
+  "n-e33dfb0bdb",
+  "n-d745776a36",
+  "n-c56aa9fa27",
+  "n-a7521b7b08",
+  "n-a549ac3575",
+  "n-8913c98771",
+  "n-6562acabdd",
+  "n-3fedc168df",
+  "n-09f901429d"
+ ],
+ "infinidepth": [
+  "n-23309eb954"
+ ],
+ "inpainting": [
+  "n-ebeab9837a",
+  "n-83af6888de",
+  "n-69cc1d969e",
+  "n-3ae3ddb34b",
+  "n-08ae804484"
+ ],
+ "insid3": [
+  "n-a8a043a8fd"
+ ],
+ "interaction-models": [
+  "n-972d1e2832"
+ ],
+ "javisverse": [
+  "n-18331ebc79"
+ ],
+ "joyai": [
+  "n-0739891476"
+ ],
+ "joyai-image": [
+  "n-d192447768"
+ ],
+ "kimi": [
+  "n-2aa536ccdc"
+ ],
+ "kimi-6": [
+  "n-2aa536ccdc"
+ ],
+ "kimodo": [
+  "n-61c8c02fec"
+ ],
+ "kimodo-v1-1": [
+  "n-61c8c02fec"
+ ],
+ "kiri-engine": [
+  "n-9db878fd06"
+ ],
+ "kupkaprod": [
+  "n-511353336a"
+ ],
+ "lava-genie": [
+  "n-ea4c5d4dff"
+ ],
+ "lava-music": [
+  "n-ea4c5d4dff"
+ ],
+ "ldf-vfi": [
+  "n-88b74a7e58"
+ ],
+ "lgtm": [
+  "n-fdbf17ddf7"
+ ],
+ "lingbot-map": [
+  "n-f57cbec8b9"
+ ],
+ "lip-sync": [
+  "n-d883c4c40c",
+  "n-d4d07dd0bf",
+  "n-cd25320940",
+  "n-ac33c5f998",
+  "n-70f82f82ae",
+  "n-6562acabdd",
+  "n-5ade5d658c",
+  "n-464a2f9508",
+  "n-03e4a812c8"
+ ],
+ "liveactionaov": [
+  "n-23270485c3"
+ ],
+ "llada": [
+  "n-64094eafae"
+ ],
+ "llada2-0": [
+  "n-64094eafae"
+ ],
+ "llm": [
+  "n-ff21b44ef5",
+  "n-fe9036dfac",
+  "n-fc612ab002",
+  "n-f771c01e06",
+  "n-f4d17d7115",
+  "n-f3c22d2162",
+  "n-f306331601",
+  "n-efaa00d50b",
+  "n-ee8bd2e38f",
+  "n-ec5428386a",
+  "n-eb965439db",
+  "n-eaa27c5213",
+  "n-ea5cb3e3f2",
+  "n-e96d2e151b",
+  "n-e92b026fad",
+  "n-e9259b87d6",
+  "n-e60825c137",
+  "n-e51898fad5",
+  "n-e4b7a4de7b",
+  "n-e17cbf7ded",
+  "n-df001e7bab",
+  "n-dd8d68b69f",
+  "n-dc7072d90a",
+  "n-db7fee9bb2",
+  "n-da24004da2",
+  "n-d111345e9c",
+  "n-cfec66a95b",
+  "n-c7bfff5d31",
+  "n-bded34e024",
+  "n-bc5c88f85f",
+  "n-b4bbea9668",
+  "n-b1f4237092",
+  "n-ae3f3a3876",
+  "n-ab5423ca1c",
+  "n-a81182e9ac",
+  "n-a6a4ba2d0f",
+  "n-a56b9d31b6",
+  "n-a3aa871dfa",
+  "n-a3583f87c7",
+  "n-9af7222826",
+  "n-99e3cb59c2",
+  "n-97c6278d46",
+  "n-972d1e2832",
+  "n-95d245f3eb",
+  "n-8a620616a1",
+  "n-7e83db4168",
+  "n-7cc366b545",
+  "n-73e8b27cb3",
+  "n-73d2d5938e",
+  "n-6dd8c1ff25",
+  "n-6a60e32785",
+  "n-662ab03ff4",
+  "n-63cbd51a4a",
+  "n-5e92efec32",
+  "n-5d75a2276e",
+  "n-5cac0a3186",
+  "n-5ac53c2267",
+  "n-58129455d1",
+  "n-553243c913",
+  "n-49a6616381",
+  "n-44c547a245",
+  "n-3ef8391496",
+  "n-367db0be8e",
+  "n-2f8c6f34f0",
+  "n-2dbef67328",
+  "n-2bdd41c2da",
+  "n-2aa536ccdc",
+  "n-2a8f5beb6c",
+  "n-2405c2d2f2",
+  "n-221dea80c4",
+  "n-1b656b5ff8",
+  "n-1985ad3cff",
+  "n-18cb9608e2",
+  "n-16ee77b7eb",
+  "n-15fd6206af",
+  "n-129b6b09c0",
+  "n-11e8a99b4c",
+  "n-093c066bee",
+  "n-0841776bd9",
+  "n-047f61d312",
+  "n-04529e7d46",
+  "n-02d9e4ba24",
+  "n-019c913613"
+ ],
+ "longcat": [
+  "n-5d03d1bfa4"
+ ],
+ "longcat-audiodit": [
+  "n-d967265835"
+ ],
+ "lora": [
+  "n-ea5cb3e3f2",
+  "n-e5bb396e69",
+  "n-daa2681205",
+  "n-cf88820803",
+  "n-ccdb07b0af",
+  "n-c66b8c38b0",
+  "n-c492e2a3e4",
+  "n-ac33c5f998",
+  "n-9a27202165",
+  "n-69cc1d969e",
+  "n-57264ece04",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-492f7ebf1e",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-34034d382e",
+  "n-30f5861cb4",
+  "n-250fdb3b1b"
+ ],
+ "lora-for:color-grade-transfer": [
+  "n-250fdb3b1b"
+ ],
+ "lora-for:copaw": [
+  "n-ea5cb3e3f2"
+ ],
+ "lora-for:flux": [
+  "n-30f5861cb4"
+ ],
+ "lora-for:flux-2": [
+  "n-e5bb396e69"
+ ],
+ "lora-for:ic": [
+  "n-c492e2a3e4"
+ ],
+ "lora-for:ltx-2-3": [
+  "n-492f7ebf1e",
+  "n-34034d382e"
+ ],
+ "lora-for:ltx-2-3-22b": [
+  "n-ccdb07b0af",
+  "n-57264ece04",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0"
+ ],
+ "lora-for:ltx2-3-multifunctional": [
+  "n-ac33c5f998"
+ ],
+ "lora-for:ltx2-3-vbvr": [
+  "n-4bbad7fe81"
+ ],
+ "lora-for:ltx23-edit-anything": [
+  "n-69cc1d969e"
+ ],
+ "lora-for:lumivid": [
+  "n-52e566a651"
+ ],
+ "lora-for:obscura-remova": [
+  "n-daa2681205"
+ ],
+ "lora-for:rs-nodes": [
+  "n-c66b8c38b0"
+ ],
+ "lora-for:vr-360-outpaint-ltx2-3-ic": [
+  "n-9a27202165"
+ ],
+ "lora-for:wan2-2": [
+  "n-cf88820803"
+ ],
+ "lpm": [
+  "n-464a2f9508"
+ ],
+ "lpm-1-0": [
+  "n-464a2f9508"
+ ],
+ "ltx": [
+  "n-ccdb07b0af",
+  "n-c492e2a3e4",
+  "n-ac33c5f998",
+  "n-9a27202165",
+  "n-997df70c3d",
+  "n-8913c98771",
+  "n-69cc1d969e",
+  "n-57264ece04",
+  "n-52e566a651",
+  "n-4bbad7fe81",
+  "n-492f7ebf1e",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0",
+  "n-34034d382e"
+ ],
+ "ltx-1-1": [
+  "n-997df70c3d"
+ ],
+ "ltx-2": [
+  "n-8913c98771"
+ ],
+ "ltx-2-3": [
+  "n-492f7ebf1e",
+  "n-34034d382e"
+ ],
+ "ltx-2-3-22b": [
+  "n-ccdb07b0af",
+  "n-997df70c3d",
+  "n-57264ece04",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0"
+ ],
+ "ltx-v1": [
+  "n-c492e2a3e4"
+ ],
+ "ltx2-3-multifunctional": [
+  "n-ac33c5f998"
+ ],
+ "ltx2-3-vbvr": [
+  "n-4bbad7fe81"
+ ],
+ "ltx23-edit-anything": [
+  "n-69cc1d969e"
+ ],
+ "ltx23_edit_anything": [
+  "n-69cc1d969e"
+ ],
+ "luma": [
+  "n-99c607c318",
+  "n-5cac0a3186"
+ ],
+ "luma-1-1": [
+  "n-99c607c318"
+ ],
+ "lumipic": [
+  "n-eb367fb3e1"
+ ],
+ "lumivid": [
+  "n-52e566a651"
+ ],
+ "lyra": [
+  "n-a549ac3575"
+ ],
+ "lyra-2-0": [
+  "n-a549ac3575"
+ ],
+ "m-xr": [
+  "n-e63a0d4512"
+ ],
+ "m2svid": [
+  "n-8ff86e4411"
+ ],
+ "mace-dance": [
+  "n-44b3b570af"
+ ],
+ "mai": [
+  "n-2eb209422c"
+ ],
+ "mai-1": [
+  "n-2eb209422c"
+ ],
+ "majoor": [
+  "n-ff03e5bf7b"
+ ],
+ "managed-agents": [
+  "n-b4bbea9668"
+ ],
+ "map2world": [
+  "n-40f1573a5d"
+ ],
+ "marble": [
+  "n-3b297c8441",
+  "n-06b8f54c97"
+ ],
+ "marble-1-1": [
+  "n-3b297c8441"
+ ],
+ "marco-moe": [
+  "n-15fd6206af"
+ ],
+ "matrix-game": [
+  "n-5f36799f6d"
+ ],
+ "matrix-game-3-0": [
+  "n-5f36799f6d"
+ ],
+ "megastyle": [
+  "n-edad1a10a0",
+  "n-e3fe618151"
+ ],
+ "memory-transfer": [
+  "n-73e5608506"
+ ],
+ "mempalace": [
+  "n-a3583f87c7"
+ ],
+ "mesh2motion": [
+  "n-2ff0f435cc"
+ ],
+ "meta-cot": [
+  "n-2c91e42c2d"
+ ],
+ "mf0-1984": [
+  "n-dd8d68b69f"
+ ],
+ "mf0-1984-1984": [
+  "n-dd8d68b69f"
+ ],
+ "mia": [
+  "n-221dea80c4"
+ ],
+ "mimo": [
+  "n-768295e164"
+ ],
+ "mimo-5": [
+  "n-768295e164"
+ ],
+ "mimo-v2-5": [
+  "n-768295e164"
+ ],
+ "minicpm-v": [
+  "n-36e9bae8ed"
+ ],
+ "minicpm-v-4-6": [
+  "n-36e9bae8ed"
+ ],
+ "minimax-music": [
+  "n-dfe5e1e7a6"
+ ],
+ "minimax-music-2-6": [
+  "n-dfe5e1e7a6"
+ ],
+ "mirofish": [
+  "n-e4b7a4de7b"
+ ],
+ "mistral": [
+  "n-8e2ceecbcb"
+ ],
+ "mistral-3-5": [
+  "n-8e2ceecbcb"
+ ],
+ "mobile-ultra-detailed-animatable-avatars": [
+  "n-207ed94fbd"
+ ],
+ "mocap": [
+  "n-aa28911ec6",
+  "n-535631e71f",
+  "n-501487aec4",
+  "n-2fd5e60740"
+ ],
+ "modddif": [
+  "n-c8fc3fe21e"
+ ],
+ "model:3dgs": [
+  "n-60f7bb3300"
+ ],
+ "model:ace-step-1-5": [
+  "n-b9e02bd01a"
+ ],
+ "model:acestep-1-5": [
+  "n-596ffa06da"
+ ],
+ "model:adaptive-spatio-temporal-3dgs": [
+  "n-ccb2a502fb"
+ ],
+ "model:agentofficesuite": [
+  "n-cfec66a95b"
+ ],
+ "model:ai-selfes": [
+  "n-807bf78763"
+ ],
+ "model:assistant-pepe-32b": [
+  "n-73e8b27cb3"
+ ],
+ "model:bro-v14": [
+  "n-49a6616381"
+ ],
+ "model:chatgpt": [
+  "n-0646f210ee"
+ ],
+ "model:color-grade-transfer": [
+  "n-250fdb3b1b"
+ ],
+ "model:comfyui-sensenova-u1": [
+  "n-41c999d507"
+ ],
+ "model:comfyui-wan-vace-video-joiner": [
+  "n-332335c756"
+ ],
+ "model:connectthedots": [
+  "n-c2a141200b"
+ ],
+ "model:continuous-time-distribution-matching": [
+  "n-c660c4f559"
+ ],
+ "model:cosyvoice-3": [
+  "n-7de8349cd0"
+ ],
+ "model:cursor-3": [
+  "n-a6a4ba2d0f"
+ ],
+ "model:deepseek-v4": [
+  "n-bc5c88f85f"
+ ],
+ "model:disca": [
+  "n-348f0ce004"
+ ],
+ "model:echo-2": [
+  "n-76eee2c69c"
+ ],
+ "model:ernie-5-1": [
+  "n-5e92efec32"
+ ],
+ "model:flova-ai": [
+  "n-49e8a26e33"
+ ],
+ "model:flux-2": [
+  "n-e5bb396e69",
+  "n-bb60458b02",
+  "n-b2c1d5a768"
+ ],
+ "model:flux2k": [
+  "n-76a6e0d291"
+ ],
+ "model:gemini-3-1": [
+  "n-d5e685b3b1"
+ ],
+ "model:gemma-4": [
+  "n-f4d17d7115",
+  "n-c7bfff5d31",
+  "n-9139899069"
+ ],
+ "model:gemma-4-31b": [
+  "n-5ac53c2267"
+ ],
+ "model:gemopus-4-26b": [
+  "n-bded34e024"
+ ],
+ "model:generative-world-renderer": [
+  "n-01b786ce9f"
+ ],
+ "model:glm-5-1": [
+  "n-e51898fad5"
+ ],
+ "model:glm-5v": [
+  "n-b2b9ca697e"
+ ],
+ "model:gpt-5-5": [
+  "n-2405c2d2f2"
+ ],
+ "model:gpt-image-2": [
+  "n-df001e7bab",
+  "n-ca390bf3b3",
+  "n-af7e0341d4"
+ ],
+ "model:gsd-2": [
+  "n-ee8bd2e38f"
+ ],
+ "model:hackernews-predictor": [
+  "n-541dc74a2e"
+ ],
+ "model:happy-horse": [
+  "n-0588f1e672"
+ ],
+ "model:happy-horse-1-0": [
+  "n-6562acabdd"
+ ],
+ "model:happy-oyster": [
+  "n-5e1a256a5e"
+ ],
+ "model:huggingface-kernels": [
+  "n-545c4e25d2"
+ ],
+ "model:hy-mt1-5-1-8b": [
+  "n-e17cbf7ded"
+ ],
+ "model:hy-world-2-0": [
+  "n-1e0d9b8388"
+ ],
+ "model:hy3": [
+  "n-0841776bd9"
+ ],
+ "model:ic": [
+  "n-c492e2a3e4"
+ ],
+ "model:image-to-material": [
+  "n-e63a0d4512"
+ ],
+ "model:interaction-models": [
+  "n-972d1e2832"
+ ],
+ "model:lava-genie": [
+  "n-ea4c5d4dff"
+ ],
+ "model:llada2-0": [
+  "n-64094eafae"
+ ],
+ "model:lpm-1-0": [
+  "n-464a2f9508"
+ ],
+ "model:ltx-2-3": [
+  "n-492f7ebf1e",
+  "n-34034d382e"
+ ],
+ "model:ltx-2-3-22b": [
+  "n-ccdb07b0af",
+  "n-997df70c3d",
+  "n-57264ece04",
+  "n-3ae3ddb34b",
+  "n-396cd4f7c0"
+ ],
+ "model:ltx2-3-multifunctional": [
+  "n-ac33c5f998"
+ ],
+ "model:ltx2-3-vbvr": [
+  "n-4bbad7fe81"
+ ],
+ "model:ltx23-edit-anything": [
+  "n-69cc1d969e"
+ ],
+ "model:lumivid": [
+  "n-52e566a651"
+ ],
+ "model:lyra-2-0": [
+  "n-a549ac3575"
+ ],
+ "model:managed-agents": [
+  "n-b4bbea9668"
+ ],
+ "model:marble-1-1": [
+  "n-3b297c8441"
+ ],
+ "model:matrix-game-3-0": [
+  "n-5f36799f6d"
+ ],
+ "model:mimo-v2-5": [
+  "n-768295e164"
+ ],
+ "model:minicpm-v-4-6": [
+  "n-36e9bae8ed"
+ ],
+ "model:minimax-music-2-6": [
+  "n-dfe5e1e7a6"
+ ],
+ "model:mobile-ultra-detailed-animatable-avatars": [
+  "n-207ed94fbd"
+ ],
+ "model:moss-audio-8b": [
+  "n-33f31b6935"
+ ],
+ "model:motif-video-2b": [
+  "n-c56aa9fa27"
+ ],
+ "model:muffins-flat-2-panoramic-node": [
+  "n-af1e479850"
+ ],
+ "model:multi-user-llm-agent": [
+  "n-1b656b5ff8"
+ ],
+ "model:nemotron-3": [
+  "n-1cfc0e728d"
+ ],
+ "model:numpy-synth": [
+  "n-c4a452f85d"
+ ],
+ "model:odyssey-2": [
+  "n-d8bf4374be"
+ ],
+ "model:olmpool": [
+  "n-ab5423ca1c"
+ ],
+ "model:omniweaving": [
+  "n-fb32c38877"
+ ],
+ "model:open-higgsfield-ai": [
+  "n-5ade5d658c"
+ ],
+ "model:p-video-avatar": [
+  "n-d4d07dd0bf"
+ ],
+ "model:prismaudio": [
+  "n-8fe6695c64"
+ ],
+ "model:qclaw-4b": [
+  "n-9af7222826"
+ ],
+ "model:qwen-3-6": [
+  "n-6a60e32785"
+ ],
+ "model:qwen3": [
+  "n-d755c8bc8a"
+ ],
+ "model:qwen3-5-gemma-4-qwopus": [
+  "n-16ee77b7eb"
+ ],
+ "model:qwen3-6-27b": [
+  "n-dc7072d90a",
+  "n-97c6278d46",
+  "n-019c913613"
+ ],
+ "model:qwen3-6-35b": [
+  "n-8a620616a1",
+  "n-129b6b09c0",
+  "n-04529e7d46"
+ ],
+ "model:realtime-tts-2": [
+  "n-2ffed2d338"
+ ],
+ "model:ring-2-6-1t": [
+  "n-58129455d1"
+ ],
+ "model:sapiens2": [
+  "n-aa28911ec6"
+ ],
+ "model:scail-2": [
+  "n-0cf9d026b8"
+ ],
+ "model:sdxs-1b": [
+  "n-f24b5871aa"
+ ],
+ "model:seed3d-2-0": [
+  "n-ea73b925dc"
+ ],
+ "model:seedance-2-0": [
+  "n-e4d5ff5436"
+ ],
+ "model:seeduplex": [
+  "n-5d75a2276e"
+ ],
+ "model:spark-2-0": [
+  "n-110bebc860"
+ ],
+ "model:spatialedit-16b": [
+  "n-3fedc168df"
+ ],
+ "model:sulphur-2": [
+  "n-8913c98771"
+ ],
+ "model:sync-3": [
+  "n-cd25320940"
+ ],
+ "model:thinking-with-visual-primitives-tvp": [
+  "n-2244c25f96"
+ ],
+ "model:tipsv2": [
+  "n-de24cf852f"
+ ],
+ "model:trellis-2": [
+  "n-d7c3a5e60e"
+ ],
+ "model:tuna-2": [
+  "n-44592b77d5"
+ ],
+ "model:unicom": [
+  "n-1fef5a401b"
+ ],
+ "model:vibecomfy-2-0": [
+  "n-6b3a93f373"
+ ],
+ "model:voxcpm2": [
+  "n-d7b1c6bb36"
+ ],
+ "model:vr-360-outpaint-ltx2-3-ic": [
+  "n-9a27202165"
+ ],
+ "model:wan-2-7": [
+  "n-d9eaebd61d"
+ ],
+ "model:wan2-2": [
+  "n-cf88820803"
+ ],
+ "model:wan2-7": [
+  "n-d745776a36"
+ ],
+ "model:waypoint-1-5": [
+  "n-2090ac5f1b"
+ ],
+ "model:x2sam": [
+  "n-1c50287b34"
+ ],
+ "model:z-anime": [
+  "n-bcef63351f"
+ ],
+ "moss-audio": [
+  "n-8da3cc43df",
+  "n-33f31b6935"
+ ],
+ "moss-audio-8b": [
+  "n-33f31b6935"
+ ],
+ "moss-tts": [
+  "n-f1ea79cf67"
+ ],
+ "motif-video": [
+  "n-c56aa9fa27"
+ ],
+ "motif-video-2b": [
+  "n-c56aa9fa27"
+ ],
+ "muffins-flat-2-panoramic-node": [
+  "n-af1e479850"
+ ],
+ "muffins-vr": [
+  "n-af1e479850"
+ ],
+ "multi-user-agents": [
+  "n-1b656b5ff8"
+ ],
+ "multi-user-llm-agent": [
+  "n-1b656b5ff8"
+ ],
+ "multica": [
+  "n-63cbd51a4a"
+ ],
+ "nemotron": [
+  "n-6a0618307a",
+  "n-1cfc0e728d"
+ ],
+ "nemotron-3": [
+  "n-1cfc0e728d"
+ ],
+ "nemotron-v2": [
+  "n-6a0618307a"
+ ],
+ "normal-map": [
+  "n-de24cf852f",
+  "n-aa28911ec6",
+  "n-70e759ac2b",
+  "n-23270485c3",
+  "n-01b786ce9f"
+ ],
+ "nucleus": [
+  "n-af83147e90",
+  "n-98474cc274"
+ ],
+ "numina": [
+  "n-e3abad048f"
+ ],
+ "numpy-synth": [
+  "n-c4a452f85d"
+ ],
+ "obscura-remova": [
+  "n-daa2681205"
+ ],
+ "odyssey": [
+  "n-d8bf4374be"
+ ],
+ "odyssey-2": [
+  "n-d8bf4374be"
+ ],
+ "olmo": [
+  "n-ab5423ca1c"
+ ],
+ "olmpool": [
+  "n-ab5423ca1c"
+ ],
+ "omnishotcut": [
+  "n-bb0f83ff09"
+ ],
+ "omnishow": [
+  "n-03e4a812c8"
+ ],
+ "omnivoice": [
+  "n-665b60a4fc",
+  "n-661e84940d",
+  "n-0124eabefd"
+ ],
+ "omniweaving": [
+  "n-fb32c38877"
+ ],
+ "onemancompany": [
+  "n-2bdd41c2da"
+ ],
+ "open": [
+  "n-ff03e5bf7b",
+  "n-fc612ab002",
+  "n-fb32c38877",
+  "n-fa9c04297f",
+  "n-f9bd7f602b",
+  "n-f771c01e06",
+  "n-f6c6cdf729",
+  "n-f4d17d7115",
+  "n-f3c22d2162",
+  "n-f306331601",
+  "n-f1ea79cf67",
+  "n-efaa00d50b",
+  "n-ee8bd2e38f",
+  "n-ec7e719b88",
+  "n-eb965439db",
+  "n-eb367fb3e1",
+  "n-eaa27c5213",
+  "n-e96d2e151b",
+  "n-e9259b87d6",
+  "n-e76fc8f96f",
+  "n-e51898fad5",
+  "n-e4b7a4de7b",
+  "n-e17cbf7ded",
+  "n-de24cf852f",
+  "n-dd8d68b69f",
+  "n-db7fee9bb2",
+  "n-d967265835",
+  "n-d7b1c6bb36",
+  "n-d192447768",
+  "n-cfec66a95b",
+  "n-cf88820803",
+  "n-ccdb07b0af",
+  "n-ccb2a502fb",
+  "n-c78d87f531",
+  "n-c66b8c38b0",
+  "n-c4a452f85d",
+  "n-c492e2a3e4",
+  "n-c15c8a5410",
+  "n-bded34e024",
+  "n-bcef63351f",
+  "n-bc5c88f85f",
+  "n-bb60458b02",
+  "n-bab7f8e6fd",
+  "n-b9e02bd01a",
+  "n-b2c1d5a768",
+  "n-b1f4237092",
+  "n-b107eae70b",
+  "n-ae3f3a3876",
+  "n-ac33c5f998",
+  "n-ab5423ca1c",
+  "n-a7d1f83b13",
+  "n-a71a838b34",
+  "n-a3583f87c7",
+  "n-a236c67d82",
+  "n-9dd20d8e0c",
+  "n-9af7222826",
+  "n-9aa3cb6ab5",
+  "n-99e3cb59c2",
+  "n-997df70c3d",
+  "n-98474cc274",
+  "n-97c6278d46",
+  "n-963305f6b7",
+  "n-95d245f3eb",
+  "n-8ff86e4411",
+  "n-8fe6695c64",
+  "n-8da3cc43df",
+  "n-8c91402db3",
+  "n-8a620616a1",
+  "n-8913c98771",
+  "n-88b74a7e58",
+  "n-85862dbbb3",
+  "n-840bb8c6c7",
+  "n-83af6888de",
+  "n-7e83db4168",
+  "n-7de8349cd0",
+  "n-7d8614adad",
+  "n-76a6e0d291",
+  "n-73e8b27cb3",
+  "n-73d2d5938e",
+  "n-6dd8c1ff25",
+  "n-6b3a93f373",
+  "n-6a0618307a",
+  "n-69cc1d969e",
+  "n-662ab03ff4",
+  "n-6562acabdd",
+  "n-63cbd51a4a",
+  "n-5f36799f6d",
+  "n-5e356466d0",
+  "n-5b56fca93a",
+  "n-5ade5d658c",
+  "n-5ac53c2267",
+  "n-596ffa06da",
+  "n-58225bc7d0",
+  "n-55db199d87",
+  "n-55968207e4",
+  "n-553243c913",
+  "n-535631e71f",
+  "n-511353336a",
+  "n-4bbad7fe81",
+  "n-49b64d4933",
+  "n-49a6616381",
+  "n-4697df47f5",
+  "n-44c547a245",
+  "n-3fedc168df",
+  "n-3ef8391496",
+  "n-3ae3ddb34b",
+  "n-36e9bae8ed",
+  "n-348f0ce004",
+  "n-332335c756",
+  "n-30f5861cb4",
+  "n-2fc856ac34",
+  "n-2f8c6f34f0",
+  "n-2dbef67328",
+  "n-2d6650cee4",
+  "n-2bdd41c2da",
+  "n-2aa536ccdc",
+  "n-2938402642",
+  "n-2915ceca6f",
+  "n-2244c25f96",
+  "n-221dea80c4",
+  "n-2090ac5f1b",
+  "n-1cfc0e728d",
+  "n-1c50287b34",
+  "n-1b11977658",
+  "n-1b0490d011",
+  "n-19adc0c7af",
+  "n-1985ad3cff",
+  "n-18e6b47885",
+  "n-18cb9608e2",
+  "n-16ee77b7eb",
+  "n-169e12a080",
+  "n-15fd6206af",
+  "n-155ef8c3dc",
+  "n-133a0bfd18",
+  "n-11e8a99b4c",
+  "n-09f901429d",
+  "n-0948d8e4a5",
+  "n-0739891476",
+  "n-047f61d312",
+  "n-04529e7d46",
+  "n-019c913613",
+  "n-0124eabefd"
+ ],
+ "open-design": [
+  "n-ff21b44ef5"
+ ],
+ "open-generative-ai": [
+  "n-5ade5d658c"
+ ],
+ "open-higgsfield-ai": [
+  "n-5ade5d658c"
+ ],
+ "open-multi-agent": [
+  "n-662ab03ff4"
+ ],
+ "opengame": [
+  "n-7cc366b545"
+ ],
+ "openharness": [
+  "n-44c547a245"
+ ],
+ "openmobile": [
+  "n-02d9e4ba24"
+ ],
+ "openreview": [
+  "n-efaa00d50b"
+ ],
+ "p-video-avatar": [
+  "n-d4d07dd0bf"
+ ],
+ "paid": [
+  "n-f5dbfdb346",
+  "n-f4c04ff479",
+  "n-ea4c5d4dff",
+  "n-e92b026fad",
+  "n-e63a0d4512",
+  "n-e60825c137",
+  "n-dfe5e1e7a6",
+  "n-d883c4c40c",
+  "n-d4d07dd0bf",
+  "n-a6a4ba2d0f",
+  "n-9db878fd06",
+  "n-99c607c318",
+  "n-86ce44c208",
+  "n-807bf78763",
+  "n-49e8a26e33",
+  "n-3b297c8441",
+  "n-2ffed2d338",
+  "n-2fd5e60740",
+  "n-2a8f5beb6c",
+  "n-08bc14aa3d"
+ ],
+ "paper": [
+  "n-fdbf17ddf7",
+  "n-fc612ab002",
+  "n-fb32c38877",
+  "n-f771c01e06",
+  "n-f735b8e846",
+  "n-ee38e77991",
+  "n-e96d2e151b",
+  "n-e3abad048f",
+  "n-da24004da2",
+  "n-d111345e9c",
+  "n-ccb2a502fb",
+  "n-c9e1e40a9c",
+  "n-c660c4f559",
+  "n-c5207bfa4a",
+  "n-c15c8a5410",
+  "n-bb0f83ff09",
+  "n-b18df4c1c8",
+  "n-a8a043a8fd",
+  "n-a8098d79d8",
+  "n-a5ceb23735",
+  "n-a549ac3575",
+  "n-a3c0ebdd3a",
+  "n-a3583f87c7",
+  "n-9dd20d8e0c",
+  "n-9aa3cb6ab5",
+  "n-8ff86e4411",
+  "n-8fe6695c64",
+  "n-8cf0d43011",
+  "n-88b74a7e58",
+  "n-73e5608506",
+  "n-637b9d18ed",
+  "n-61c8c02fec",
+  "n-5db7fa704b",
+  "n-58225bc7d0",
+  "n-553243c913",
+  "n-4697df47f5",
+  "n-4694b833dd",
+  "n-461304d95b",
+  "n-44592b77d5",
+  "n-2fc856ac34",
+  "n-2f8c6f34f0",
+  "n-2eb209422c",
+  "n-2af8215f2c",
+  "n-2244c25f96",
+  "n-1b656b5ff8",
+  "n-1b0490d011",
+  "n-155ef8c3dc",
+  "n-09ee25f7d5",
+  "n-06b8f54c97",
+  "n-01b786ce9f"
+ ],
+ "papers-theory": [
+  "n-de24cf852f",
+  "n-c15c8a5410",
+  "n-73e5608506",
+  "n-637b9d18ed",
+  "n-06b8f54c97"
+ ],
+ "parakeet": [
+  "n-5b56fca93a"
+ ],
+ "parakeet-0-6b": [
+  "n-5b56fca93a"
+ ],
+ "perplexity": [
+  "n-a56b9d31b6"
+ ],
+ "personavlm": [
+  "n-78a59b56b6"
+ ],
+ "phi": [
+  "n-ec7e719b88"
+ ],
+ "phoneclaw": [
+  "n-f3c22d2162"
+ ],
+ "physforge": [
+  "n-ee38e77991"
+ ],
+ "pi-hoc": [
+  "n-4694b833dd"
+ ],
+ "pika": [
+  "n-807bf78763"
+ ],
+ "pixal3d": [
+  "n-9e0a0fba7f"
+ ],
+ "pixelsmile": [
+  "n-55968207e4"
+ ],
+ "playcoder": [
+  "n-fe9036dfac"
+ ],
+ "pose": [
+  "n-f6c6cdf729",
+  "n-e33dfb0bdb",
+  "n-aa28911ec6",
+  "n-03e4a812c8"
+ ],
+ "prismaudio": [
+  "n-8fe6695c64"
+ ],
+ "privacy-filter": [
+  "n-1985ad3cff"
+ ],
+ "prompt-relay": [
+  "n-d4f61075f4"
+ ],
+ "pruna-ai": [
+  "n-d4d07dd0bf"
+ ],
+ "psdesigner": [
+  "n-da24004da2"
+ ],
+ "pytheory": [
+  "n-c4a452f85d"
+ ],
+ "qclaw": [
+  "n-9af7222826",
+  "n-093c066bee"
+ ],
+ "qclaw-4b": [
+  "n-9af7222826"
+ ],
+ "quickmagic": [
+  "n-2fd5e60740"
+ ],
+ "qwen": [
+  "n-dc7072d90a",
+  "n-d755c8bc8a",
+  "n-b1f4237092",
+  "n-97c6278d46",
+  "n-8a620616a1",
+  "n-86ce44c208",
+  "n-7e83db4168",
+  "n-6a60e32785",
+  "n-129b6b09c0",
+  "n-04529e7d46",
+  "n-019c913613"
+ ],
+ "qwen-27b": [
+  "n-97c6278d46",
+  "n-019c913613"
+ ],
+ "qwen-3-6": [
+  "n-6a60e32785"
+ ],
+ "qwen-image-edit": [
+  "n-250fdb3b1b"
+ ],
+ "qwen3": [
+  "n-d755c8bc8a"
+ ],
+ "qwen3-5-gemma-4-qwopus": [
+  "n-16ee77b7eb"
+ ],
+ "qwen3-6-27b": [
+  "n-dc7072d90a",
+  "n-97c6278d46",
+  "n-019c913613"
+ ],
+ "qwen3-6-35b": [
+  "n-8a620616a1",
+  "n-129b6b09c0",
+  "n-04529e7d46"
+ ],
+ "rawgen": [
+  "n-c449ab03a6"
+ ],
+ "realtime": [
+  "n-f57cbec8b9",
+  "n-f306331601",
+  "n-f1ea79cf67",
+  "n-d8bf4374be",
+  "n-d7b1c6bb36",
+  "n-ccb2a502fb",
+  "n-c96f664d5d",
+  "n-c5207bfa4a",
+  "n-972d1e2832",
+  "n-8cf0d43011",
+  "n-7de8349cd0",
+  "n-5f36799f6d",
+  "n-5e356466d0",
+  "n-5e1a256a5e",
+  "n-5d75a2276e",
+  "n-5b56fca93a",
+  "n-535631e71f",
+  "n-464a2f9508",
+  "n-2ffed2d338",
+  "n-2dbef67328",
+  "n-2090ac5f1b",
+  "n-207ed94fbd",
+  "n-1e0d9b8388",
+  "n-18c1e67c85",
+  "n-110bebc860"
+ ],
+ "realtime-tts": [
+  "n-2ffed2d338"
+ ],
+ "realtime-tts-2": [
+  "n-2ffed2d338"
+ ],
+ "reconviagen": [
+  "n-461304d95b"
+ ],
+ "refineanything": [
+  "n-10b1471000"
+ ],
+ "replaceme": [
+  "n-18cb9608e2"
+ ],
+ "reshoot-anything": [
+  "n-8a851b82d9"
+ ],
+ "ring": [
+  "n-58129455d1"
+ ],
+ "ring-1t": [
+  "n-58129455d1"
+ ],
+ "ring-2-6-1t": [
+  "n-58129455d1"
+ ],
+ "rodin": [
+  "n-f0cec18709"
+ ],
+ "rodin-2-5": [
+  "n-f0cec18709"
+ ],
+ "rotorquant": [
+  "n-553243c913"
+ ],
+ "rowboat": [
+  "n-11e8a99b4c"
+ ],
+ "rs-nodes": [
+  "n-c66b8c38b0"
+ ],
+ "rvr": [
+  "n-b6c1907179"
+ ],
+ "sana": [
+  "n-e76fc8f96f"
+ ],
+ "sapiens": [
+  "n-aa28911ec6"
+ ],
+ "sapiens2": [
+  "n-aa28911ec6"
+ ],
+ "scail": [
+  "n-0cf9d026b8"
+ ],
+ "scail-2": [
+  "n-0cf9d026b8"
+ ],
+ "scene": [
+  "n-fdbf17ddf7",
+  "n-f735b8e846",
+  "n-f57cbec8b9",
+  "n-f4c04ff479",
+  "n-ee38e77991",
+  "n-e4fab55e05",
+  "n-d9b76e73f7",
+  "n-d8bf4374be",
+  "n-c96f664d5d",
+  "n-a549ac3575",
+  "n-7c1f689c14",
+  "n-76eee2c69c",
+  "n-60f7bb3300",
+  "n-545f242033",
+  "n-511353336a",
+  "n-40f1573a5d",
+  "n-2915ceca6f",
+  "n-2090ac5f1b",
+  "n-1e0d9b8388",
+  "n-110bebc860"
+ ],
+ "sdxs": [
+  "n-f24b5871aa"
+ ],
+ "sdxs-1b": [
+  "n-f24b5871aa"
+ ],
+ "sdxs-1b-upscaler": [
+  "n-f24b5871aa"
+ ],
+ "seed": [
+  "n-ea73b925dc"
+ ],
+ "seed-2-0": [
+  "n-ea73b925dc"
+ ],
+ "seed-voice": [
+  "n-5d75a2276e"
+ ],
+ "seed3d-2-0": [
+  "n-ea73b925dc"
+ ],
+ "seedance": [
+  "n-e4d5ff5436",
+  "n-49e8a26e33"
+ ],
+ "seedance-2-0": [
+  "n-e4d5ff5436"
+ ],
+ "seeduplex": [
+  "n-5d75a2276e"
+ ],
+ "seeing-fast-and-slow": [
+  "n-b1f200df41"
+ ],
+ "segmentation": [
+  "n-ebeab9837a",
+  "n-c78d87f531",
+  "n-c5207bfa4a",
+  "n-bb0f83ff09",
+  "n-aa28911ec6",
+  "n-a8a043a8fd",
+  "n-840bb8c6c7",
+  "n-2938402642",
+  "n-23270485c3",
+  "n-1c50287b34"
+ ],
+ "semantic-progress-function": [
+  "n-b18df4c1c8"
+ ],
+ "sensenova": [
+  "n-4a638abcfe",
+  "n-41c999d507"
+ ],
+ "sillytavern": [
+  "n-fa9c04297f"
+ ],
+ "sloplobster": [
+  "n-2dbef67328"
+ ],
+ "sommelier": [
+  "n-b107eae70b"
+ ],
+ "sonilo": [
+  "n-694e3b1cf5"
+ ],
+ "spark": [
+  "n-110bebc860"
+ ],
+ "spark-2-0": [
+  "n-110bebc860"
+ ],
+ "spatial-studio": [
+  "n-f4c04ff479"
+ ],
+ "spatialedit": [
+  "n-3fedc168df"
+ ],
+ "spatialedit-16b": [
+  "n-3fedc168df"
+ ],
+ "spec": [
+  "n-8c91402db3"
+ ],
+ "spectrum": [
+  "n-58225bc7d0"
+ ],
+ "storysplat": [
+  "n-e4fab55e05"
+ ],
+ "stream": [
+  "n-09f901429d"
+ ],
+ "styleid": [
+  "n-9f3f263dfe"
+ ],
+ "sulphur-2": [
+  "n-8913c98771"
+ ],
+ "superset": [
+  "n-73d2d5938e"
+ ],
+ "superwhisper": [
+  "n-08bc14aa3d"
+ ],
+ "svgs": [
+  "n-f735b8e846"
+ ],
+ "sync-3": [
+  "n-cd25320940"
+ ],
+ "sync-labs": [
+  "n-cd25320940"
+ ],
+ "sync-labs-3": [
+  "n-cd25320940"
+ ],
+ "sync-so": [
+  "n-d883c4c40c"
+ ],
+ "text-to-image": [
+  "n-eaa27c5213",
+  "n-d192447768",
+  "n-ca390bf3b3",
+  "n-c9e1e40a9c",
+  "n-c660c4f559",
+  "n-c56d07046e",
+  "n-c449ab03a6",
+  "n-c2ca134086",
+  "n-af83147e90",
+  "n-af7e0341d4",
+  "n-99c607c318",
+  "n-98474cc274",
+  "n-97b254669d",
+  "n-86ce44c208",
+  "n-7d8614adad",
+  "n-5cac0a3186",
+  "n-525a6be75a",
+  "n-4a638abcfe",
+  "n-44592b77d5",
+  "n-2fc856ac34",
+  "n-1fef5a401b"
+ ],
+ "text-to-video": [
+  "n-fb32c38877",
+  "n-e76fc8f96f",
+  "n-d745776a36",
+  "n-d4f61075f4",
+  "n-c56aa9fa27",
+  "n-a7521b7b08",
+  "n-a5ceb23735",
+  "n-963305f6b7",
+  "n-8913c98771",
+  "n-70e759ac2b",
+  "n-6562acabdd",
+  "n-5f36799f6d",
+  "n-5e1a256a5e",
+  "n-5db7fa704b",
+  "n-5cac0a3186",
+  "n-5ade5d658c",
+  "n-58225bc7d0",
+  "n-49e8a26e33",
+  "n-18331ebc79",
+  "n-09f901429d",
+  "n-09ee25f7d5",
+  "n-0588f1e672"
+ ],
+ "thinking-machines": [
+  "n-972d1e2832"
+ ],
+ "thinking-with-visual-primitives-tvp": [
+  "n-2244c25f96"
+ ],
+ "thinksound": [
+  "n-8fe6695c64"
+ ],
+ "tinymu": [
+  "n-bec376434e"
+ ],
+ "tips": [
+  "n-de24cf852f"
+ ],
+ "tipsv2": [
+  "n-de24cf852f"
+ ],
+ "token-warping": [
+  "n-4697df47f5"
+ ],
+ "tools-frontend": [
+  "n-ff03e5bf7b",
+  "n-fa9c04297f",
+  "n-f9bd7f602b",
+  "n-f861f085b8",
+  "n-f6c6cdf729",
+  "n-edad1a10a0",
+  "n-ebeab9837a",
+  "n-e4d5ff5436",
+  "n-df8413780a",
+  "n-c66b8c38b0",
+  "n-c2a141200b",
+  "n-af1e479850",
+  "n-a71a838b34",
+  "n-9744e9b73c",
+  "n-963305f6b7",
+  "n-9139899069",
+  "n-8c91402db3",
+  "n-76a6e0d291",
+  "n-6b3a93f373",
+  "n-661e84940d",
+  "n-5ade5d658c",
+  "n-55968207e4",
+  "n-545c4e25d2",
+  "n-541dc74a2e",
+  "n-511353336a",
+  "n-501487aec4",
+  "n-41c999d507",
+  "n-39f773b51f",
+  "n-3354f12396",
+  "n-332335c756",
+  "n-2ff0f435cc",
+  "n-2d6650cee4",
+  "n-23270485c3",
+  "n-1b11977658",
+  "n-19adc0c7af",
+  "n-18e6b47885",
+  "n-169e12a080",
+  "n-133a0bfd18",
+  "n-08fceb7eae",
+  "n-08ae804484",
+  "n-0739891476",
+  "n-02e0b8ae6c"
+ ],
+ "training": [
+  "n-c96f664d5d",
+  "n-c66b8c38b0",
+  "n-06b8f54c97"
+ ],
+ "trellis": [
+  "n-d7c3a5e60e"
+ ],
+ "trellis-2": [
+  "n-d7c3a5e60e"
+ ],
+ "triattention": [
+  "n-e96d2e151b"
+ ],
+ "tribe": [
+  "n-f9bd7f602b"
+ ],
+ "tuna": [
+  "n-44592b77d5"
+ ],
+ "tuna-2": [
+  "n-44592b77d5"
+ ],
+ "uma": [
+  "n-207ed94fbd"
+ ],
+ "uni-vigu": [
+  "n-a5ceb23735"
+ ],
+ "unicom": [
+  "n-1fef5a401b"
+ ],
+ "unicorrn": [
+  "n-a3c0ebdd3a"
+ ],
+ "unify-agent": [
+  "n-c9e1e40a9c"
+ ],
+ "unigendet": [
+  "n-2fc856ac34"
+ ],
+ "unigeo": [
+  "n-7c1f689c14"
+ ],
+ "unirelight": [
+  "n-49b64d4933"
+ ],
+ "unity-ai": [
+  "n-e60825c137"
+ ],
+ "unividx": [
+  "n-70e759ac2b"
+ ],
+ "unsloth": [
+  "n-a3aa871dfa"
+ ],
+ "upscale": [
+  "n-f24b5871aa",
+  "n-e76fc8f96f",
+  "n-b6c1907179",
+  "n-9744e9b73c",
+  "n-34034d382e",
+  "n-1b11977658"
+ ],
+ "vanast": [
+  "n-e33dfb0bdb"
+ ],
+ "vibecomfy": [
+  "n-6b3a93f373"
+ ],
+ "vibecomfy-2-0": [
+  "n-6b3a93f373"
+ ],
+ "video-to-video": [
+  "n-ebeab9837a",
+  "n-daa2681205",
+  "n-d9b76e73f7",
+  "n-cf88820803",
+  "n-b18df4c1c8",
+  "n-a74ee42caa",
+  "n-9a27202165",
+  "n-8ff86e4411",
+  "n-8a851b82d9",
+  "n-492f7ebf1e",
+  "n-348f0ce004",
+  "n-2af8215f2c",
+  "n-18c1e67c85"
+ ],
+ "video-use": [
+  "n-047f61d312"
+ ],
+ "vista4d": [
+  "n-d9b76e73f7"
+ ],
+ "vlm": [
+  "n-ec7e719b88",
+  "n-d192447768",
+  "n-c5207bfa4a",
+  "n-bb0f83ff09",
+  "n-b2b9ca697e",
+  "n-a8a043a8fd",
+  "n-a8098d79d8",
+  "n-8e2ceecbcb",
+  "n-840bb8c6c7",
+  "n-78a59b56b6",
+  "n-768295e164",
+  "n-6a0618307a",
+  "n-64094eafae",
+  "n-5e356466d0",
+  "n-5d03d1bfa4",
+  "n-4a638abcfe",
+  "n-4697df47f5",
+  "n-44592b77d5",
+  "n-3fedc168df",
+  "n-36e9bae8ed",
+  "n-2244c25f96",
+  "n-1cfc0e728d",
+  "n-1c50287b34",
+  "n-1b0490d011",
+  "n-18331ebc79"
+ ],
+ "voice-clone": [
+  "n-f1ea79cf67",
+  "n-dfe5e1e7a6",
+  "n-d967265835",
+  "n-d883c4c40c",
+  "n-d7b1c6bb36",
+  "n-d755c8bc8a",
+  "n-d5e685b3b1",
+  "n-7de8349cd0",
+  "n-78ccc63365",
+  "n-665b60a4fc",
+  "n-661e84940d",
+  "n-5d03d1bfa4",
+  "n-2ffed2d338",
+  "n-0124eabefd"
+ ],
+ "void": [
+  "n-83af6888de",
+  "n-08ae804484"
+ ],
+ "voxcpm": [
+  "n-d7b1c6bb36"
+ ],
+ "voxcpm2": [
+  "n-d7b1c6bb36"
+ ],
+ "vr-360-outpaint-ltx2-3-ic": [
+  "n-9a27202165"
+ ],
+ "wan": [
+  "n-d9eaebd61d",
+  "n-d745776a36",
+  "n-cf88820803"
+ ],
+ "wan-2-7": [
+  "n-d9eaebd61d"
+ ],
+ "wan2-2": [
+  "n-cf88820803"
+ ],
+ "wan2-7": [
+  "n-d745776a36"
+ ],
+ "wanvideo": [
+  "n-332335c756"
+ ],
+ "waypoint": [
+  "n-2090ac5f1b"
+ ],
+ "waypoint-1-5": [
+  "n-2090ac5f1b"
+ ],
+ "web-demo": [
+  "n-f24b5871aa",
+  "n-e63a0d4512",
+  "n-e5bb396e69",
+  "n-e4fab55e05",
+  "n-d9eaebd61d",
+  "n-d883c4c40c",
+  "n-d4d07dd0bf",
+  "n-d111345e9c",
+  "n-cd25320940",
+  "n-c8fc3fe21e",
+  "n-b2b9ca697e",
+  "n-af83147e90",
+  "n-a7521b7b08",
+  "n-9139899069",
+  "n-8fe6695c64",
+  "n-8e2ceecbcb",
+  "n-7cc366b545",
+  "n-76eee2c69c",
+  "n-70f82f82ae",
+  "n-6a60e32785",
+  "n-665b60a4fc",
+  "n-5e1a256a5e",
+  "n-5cac0a3186",
+  "n-545f242033",
+  "n-541dc74a2e",
+  "n-49e8a26e33",
+  "n-33f31b6935",
+  "n-2ffed2d338",
+  "n-2fd5e60740",
+  "n-2bdd41c2da",
+  "n-23309eb954",
+  "n-1c50287b34",
+  "n-093c066bee",
+  "n-0588f1e672"
+ ],
+ "wilddet3d": [
+  "n-c5207bfa4a"
+ ],
+ "world-r1": [
+  "n-5db7fa704b"
+ ],
+ "x-sam": [
+  "n-1c50287b34"
+ ],
+ "x2sam": [
+  "n-1c50287b34"
+ ],
+ "yedp": [
+  "n-501487aec4"
+ ],
+ "z-anime": [
+  "n-bcef63351f"
+ ],
+ "z-image": [
+  "n-c78d87f531",
+  "n-bcef63351f",
+  "n-9744e9b73c"
+ ],
+ "zveroboy-photo": [
+  "n-df8413780a"
+ ]
+}

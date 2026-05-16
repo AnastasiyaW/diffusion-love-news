@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-11e8a99b4c",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Rowboat: Local-first AI Agent and Personal Knowledge Graph",
+ "summary": "Rowboat is a local-first AI assistant that processes digital data like emails and notes to build a living knowledge graph. It stores information in human-readable Markdown files and operates privately on the user's machine.",
+ "research_notes": "Backed by Y Combinator S24. Founded by the creators of Agara AI (acquired by Coinbase) and emphasizes total data privacy with support for local LLMs via Ollama.",
+ "project": {
+  "name": "Rowboat",
+  "family_slug": "rowboat",
+  "family_display": "Rowboat",
+  "model_slug": "rowboat",
+  "model_display": "Rowboat",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Rowboat",
+  "rowboat",
+  "llm",
+  "family:rowboat",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "rowboat"
+  ],
+  "versions": [
+   "rowboat"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/rowboatlabs/rowboat",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:39:13Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Pivoted from a developer-focused multi-agent IDE to a consumer-facing local productivity application. It now integrates the Model Context Protocol (MCP) and functions as an autonomous coworker that maintains a persistent context graph.",
+  "latest_version": "AI Coworker Desktop App (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "Rowboat is a local-first AI assistant that processes digital data like emails and notes to build a living knowledge graph. It stores information in human-readable Markdown files and operates privately on the user's machine."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:39:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

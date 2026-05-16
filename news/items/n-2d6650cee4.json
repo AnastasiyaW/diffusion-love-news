@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2d6650cee4",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Deno AI Studio Windows Installer for AI Models",
+ "summary": "A specialized Windows launcher designed for testing and managing emerging AI models across image, video, and TTS domains. It simplifies complex dependency management by utilizing Docker and WSL2 to create isolated runtimes for each model.",
+ "research_notes": "Requires Docker Desktop and NVIDIA hardware; focuses on solving the 'dependency hell' common in open-source AI tools through containerization.",
+ "project": {
+  "name": "Deno AI Studio",
+  "family_slug": "deno-ai-studio",
+  "family_display": "Deno AI Studio",
+  "model_slug": "deno-ai-studio",
+  "model_display": "Deno AI Studio",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Deno AI Studio",
+  "deno-ai-studio",
+  "tools-frontend",
+  "family:deno-ai-studio",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "deno-ai-studio"
+  ],
+  "versions": [
+   "deno-ai-studio"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Deno2026/Windows-Installer-for-Deno-AI-Studio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:52:39Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a script-based setup into a comprehensive Windows .exe ecosystem with multi-language support and real-time resource tracking. The project now focuses on providing one-click installers for cutting-edge models like Qwen3-TTS and Motif Video.",
+  "latest_version": "v0.1.57 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A specialized Windows launcher designed for testing and managing emerging AI models across image, video, and TTS domains. It simplifies complex dependency management by utilizing Docker and WSL2 to create isolated runtimes for each model."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:52:39Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

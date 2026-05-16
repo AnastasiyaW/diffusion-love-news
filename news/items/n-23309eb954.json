@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-23309eb954",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "InfiniDepth: Arbitrary-Resolution Monocular Depth Estimation",
+ "summary": "A monocular depth estimation framework that utilizes neural implicit fields to predict depth at continuous 2D coordinates. It supports arbitrary-resolution outputs up to 4K/8K, capturing fine-grained structures like railings and wires that traditional grid-based methods often smooth over.",
+ "research_notes": "Developed by Zhejiang University (zju3dv); introduces the Infinite Depth Query (IDQ) strategy to improve novel view synthesis.",
+ "project": {
+  "name": "InfiniDepth",
+  "family_slug": "infinidepth",
+  "family_display": "InfiniDepth",
+  "model_slug": "infinidepth",
+  "model_display": "InfiniDepth",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "InfiniDepth",
+  "infinidepth",
+  "3d",
+  "family:infinidepth",
+  "depth",
+  "github",
+  "web-demo",
+  "china"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "infinidepth"
+  ],
+  "versions": [
+   "infinidepth"
+  ],
+  "features": [
+   "depth"
+  ],
+  "formats": [
+   "github",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/zju3dv/InfiniDepth",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:47:44Z"
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/ritianyu/InfiniDepth",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Accepted to CVPR 2026, the project expanded from its initial ArXiv release to include full training code and the Synth4K benchmark. It has since added support for DINOv3 backbones, multi-view depth inference, and direct export to 3D Gaussian Splatting formats.",
+  "latest_version": "CVPR 2026 Edition (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "A monocular depth estimation framework that utilizes neural implicit fields to predict depth at continuous 2D coordinates. It supports arbitrary-resolution outputs up to 4K/8K, capturing fine-grained structures like railings and wires that traditional grid-based methods often smooth over."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:47:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

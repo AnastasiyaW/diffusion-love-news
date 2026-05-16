@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f5dbfdb346",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "ElevenLabs: On-Premise and On-Device Speech AI Deployment",
+ "summary": "ElevenLabs provides enterprise-grade local deployment options for its generative voice models, enabling high-quality speech synthesis and processing on local servers or edge devices. The solution focuses on data sovereignty, ultra-low latency, and support for air-gapped environments.",
+ "research_notes": "Specifically designed for highly regulated industries such as healthcare, finance, and defense where cloud-based AI processing is restricted due to compliance or security requirements.",
+ "project": {
+  "name": "ElevenLabs On-Premise",
+  "family_slug": "elevenlabs",
+  "family_display": "ElevenLabs On-Premise",
+  "model_slug": "elevenlabs",
+  "model_display": "ElevenLabs",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ElevenLabs On-Premise",
+  "ElevenLabs",
+  "elevenlabs",
+  "audio-music",
+  "family:elevenlabs",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "elevenlabs"
+  ],
+  "versions": [
+   "elevenlabs"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://elevenlabs.io/on-prem-deployments",
+   "host": "elevenlabs.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:57:26Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://elevenlabs.io/local-deployment-waitlist",
+   "host": "elevenlabs.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Shifted from a cloud-only API model to supporting Virtual Private Cloud (VPC) on AWS and Google Cloud, followed by the introduction of true on-premise and on-device (offline) deployments. These local versions utilize confidential computing to ensure data remains isolated and encrypted during processing.",
+  "latest_version": "On-Device & On-Premise (Early Access H1 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "ElevenLabs provides enterprise-grade local deployment options for its generative voice models, enabling high-quality speech synthesis and processing on local servers or edge devices. The solution focuses on data sovereignty, ultra-low latency, and support for air-gapped environments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:57:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

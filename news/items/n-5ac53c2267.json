@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5ac53c2267",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "NVIDIA Gemma-4-31B-IT NVFP4 Quantized Model",
+ "summary": "An official 4-bit floating point (NVFP4) quantized version of Google’s Gemma-4-31B-IT LLM, optimized by NVIDIA for the Blackwell architecture. It maintains nearly full accuracy while enabling high-efficiency 256K context processing on consumer hardware.",
+ "research_notes": "Native support requires NVIDIA Blackwell (RTX 5000 series) Tensor Cores for fine-grained block scaling; older architectures like Hopper require software emulation via vLLM.",
+ "project": {
+  "name": "Gemma-4-31B-IT-NVFP4",
+  "family_slug": "gemma",
+  "family_display": "Gemma-4-31B-IT-NVFP4",
+  "model_slug": "gemma-4-31b",
+  "model_display": "Gemma-4-31B",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemma-4-31B-IT-NVFP4",
+  "Gemma-4-31B",
+  "gemma",
+  "gemma-4-31b",
+  "llm",
+  "family:gemma",
+  "model:gemma-4-31b",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gemma"
+  ],
+  "versions": [
+   "gemma"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "gemma-4-31b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:53:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": "This model marks the transition to native NVFP4 hardware acceleration on Blackwell GPUs, allowing local execution of GPT-4 class reasoning. It supports speculative decoding via dedicated drafter models for 4x throughput improvements.",
+  "latest_version": "Gemma-4 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "An official 4-bit floating point (NVFP4) quantized version of Google’s Gemma-4-31B-IT LLM, optimized by NVIDIA for the Blackwell architecture. It maintains nearly full accuracy while enabling high-efficiency 256K context processing on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:53:31Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

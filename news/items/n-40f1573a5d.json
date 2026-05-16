@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-40f1573a5d",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Map2World: Segment Map Conditioned Text to 3D World Generation",
+ "summary": "A framework for generating large-scale, continuous 3D environments from top-down segment maps and text prompts. It employs a multi-diffusion strategy to coordinate overlapping 3D windows, ensuring seamless transitions and scale consistency across expansive worlds.",
+ "research_notes": "Jointly developed by Seoul National University and Microsoft Research Asia; source code is currently listed as coming soon.",
+ "project": {
+  "name": "Map2World",
+  "family_slug": "map2world",
+  "family_display": "Map2World",
+  "model_slug": "map2world",
+  "model_display": "Map2World",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Map2World",
+  "map2world",
+  "3d",
+  "family:map2world",
+  "scene",
+  "github"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "map2world"
+  ],
+  "versions": [
+   "map2world"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://robot0321.github.io/Map2World/",
+   "host": "robot0321.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:25:35Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://robot0321.github.io/Map2World/index.html",
+   "host": "robot0321.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Map2World builds upon the TRELLIS asset generator, evolving from object-level synthesis to city-scale world generation with support for arbitrary segment maps and high-resolution detail enhancement.",
+  "latest_version": "Map2World (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "A framework for generating large-scale, continuous 3D environments from top-down segment maps and text prompts. It employs a multi-diffusion strategy to coordinate overlapping 3D windows, ensuring seamless transitions and scale consistency across expansive worlds."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:25:35Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

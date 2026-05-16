@@ -1,0 +1,133 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9db878fd06",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "KIRI Engine: Gaussian Splatting to Mesh",
+ "summary": "A mobile 3D scanning platform that converts video and photo captures into high-fidelity Gaussian Splats and polygon meshes. It provides a specialized pipeline for transforming 3DGS data into editable, production-ready assets.",
+ "research_notes": "Introduced the first mobile implementation of 3DGS-to-mesh conversion; features include normal prediction and reflection removal.",
+ "project": {
+  "name": "Kiri Engine",
+  "family_slug": "kiri-engine",
+  "family_display": "Kiri Engine",
+  "model_slug": "kiri-engine",
+  "model_display": "Kiri Engine",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Kiri Engine",
+  "kiri-engine",
+  "gaussian-splatting",
+  "family:kiri-engine",
+  "paid"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "kiri-engine"
+  ],
+  "versions": [
+   "kiri-engine"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.kiriengine.app/",
+   "host": "kiriengine.app",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:58:44Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.kiriengine.app/blog/kiri-engine-4.2-release",
+   "host": "kiriengine.app",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.kiriengine.app/webapp",
+   "host": "kiriengine.app",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "apple-store",
+   "url": "https://apps.apple.com/us/app/kiri-engine-3d-scanner-lidar/id1577127142",
+   "host": "apps.apple.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "play-store",
+   "url": "https://play.google.com/store/apps/details?id=com.kiriengine.app",
+   "host": "play.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=l5vWKKCWSfA",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitions from experimental mobile scanning to a professional-grade 3DGS-to-mesh solution by 2026. Version 3.0 introduces thin-detail preservation, improved surface stability, and integrated scaling tools for 3D printing workflows.",
+  "latest_version": "3DGS to Mesh 3.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "A mobile 3D scanning platform that converts video and photo captures into high-fidelity Gaussian Splats and polygon meshes. It provides a specialized pipeline for transforming 3DGS data into editable, production-ready assets."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:58:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

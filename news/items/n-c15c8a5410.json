@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c15c8a5410",
+ "entry_type": "paper",
+ "category": "papers-theory",
+ "lang": "en",
+ "title": "ClawBench: Real-World Benchmark for Live Web Agents",
+ "summary": "An evaluation suite that tests AI agents on 153 everyday tasks across 144 live production websites. It employs a specialized request-interception mechanism to safely assess actions like flight booking and shopping without completing irreversible payments.",
+ "research_notes": "The benchmark is notable for operating on live, ever-changing websites rather than static snapshots, utilizing a Request Interceptor to block final submission steps.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claw bench",
+  "claw-bench",
+  "papers-theory",
+  "family:claw-bench",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "papers-theory",
+  "entry_type": "paper",
+  "projects": [],
+  "versions": [],
+  "features": [],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/reacher-z/ClawBench",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:35:02Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://claw-bench.com/",
+   "host": "claw-bench.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project expanded into a broader ecosystem including ClawsBench for office productivity safety, WildClawBench for high-difficulty 'in the wild' agency, and ResearchClawBench for autonomous scientific discovery.",
+  "latest_version": "WildClawBench (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "An evaluation suite that tests AI agents on 153 everyday tasks across 144 live production websites. It employs a specialized request-interception mechanism to safely assess actions like flight booking and shopping without completing irreversible payments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:35:02Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

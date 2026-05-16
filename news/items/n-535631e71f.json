@@ -1,0 +1,119 @@
+{
+ "schema_version": "1.2",
+ "id": "n-535631e71f",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "AI4AnimationPy: Python Framework for Intelligent Character Animation",
+ "summary": "A Python-native framework developed by Meta Research for AI-driven character animation, unifying data processing, training, and real-time visualization. It eliminates the need for game engines like Unity by using a pure NumPy and PyTorch backend with a built-in Raylib renderer.",
+ "research_notes": "Features an Entity-Component-System (ECS) architecture and supports motion data serialization into high-performance .npz formats from GLB, FBX, and BVH sources.",
+ "project": {
+  "name": "AI4AnimationPy",
+  "family_slug": "ai4animation",
+  "family_display": "AI4AnimationPy",
+  "model_slug": "ai4animation",
+  "model_display": "AI4Animation",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AI4AnimationPy",
+  "AI4Animation",
+  "ai4animation",
+  "animation-motion",
+  "family:ai4animation",
+  "mocap",
+  "animation",
+  "character",
+  "realtime",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "ai4animation"
+  ],
+  "versions": [
+   "ai4animation"
+  ],
+  "features": [
+   "mocap",
+   "animation",
+   "character",
+   "realtime"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/ai4animationpy",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:56:36Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://paulstarke-ai4animationpy.hf.space/",
+   "host": "paulstarke-ai4animationpy.hf.space",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/sweriko/ai4anim-webgpu",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project is the direct successor to the Unity-dependent AI4Animation framework. It transitions the entire pipeline to Python, supporting advanced techniques like Flow Matching and Codebook Matching while allowing backpropagation through the inference and visualization steps.",
+  "latest_version": "AI4AnimationPy (v1.0 Release, early 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A Python-native framework developed by Meta Research for AI-driven character animation, unifying data processing, training, and real-time visualization. It eliminates the need for game engines like Unity by using a pure NumPy and PyTorch backend with a built-in Raylib renderer."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:56:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

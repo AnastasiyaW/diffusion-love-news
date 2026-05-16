@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-eb367fb3e1",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "LumiPic SDR-to-HDR Image Diffusion",
+ "summary": "LumiPic is an open-source tool that converts Standard Dynamic Range (SDR) images into 16-bit High Dynamic Range (HDR) EXR files using diffusion transformers. It utilizes LogC3-encoded diffusion to reconstruct missing highlight and shadow details for professional VFX pipelines.",
+ "research_notes": "Generates scene-linear EXR files compatible with Nuke and DaVinci Resolve; integrated into ComfyUI via the ComfyUI_Gear node suite.",
+ "project": {
+  "name": "LumiPic",
+  "family_slug": "lumipic",
+  "family_display": "LumiPic",
+  "model_slug": "lumipic",
+  "model_display": "LumiPic",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LumiPic",
+  "lumipic",
+  "diffusion-image",
+  "family:lumipic",
+  "image-to-image",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "lumipic"
+  ],
+  "versions": [
+   "lumipic"
+  ],
+  "features": [
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/oumad/LumiPic",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:51:30Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/oumad/lumipic",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/oumoumad/LumiPic/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Adapted from LumiVid research for single-image reconstruction, the project has expanded to support large-scale DiT models. It currently offers production-ready LoRAs for Qwen-Image-Edit-2511 and experimental support for the faster FLUX.2-klein architecture.",
+  "latest_version": "FLUX.2-klein support (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "LumiPic is an open-source tool that converts Standard Dynamic Range (SDR) images into 16-bit High Dynamic Range (HDR) EXR files using diffusion transformers. It utilizes LogC3-encoded diffusion to reconstruct missing highlight and shadow details for professional VFX pipelines."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:51:30Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

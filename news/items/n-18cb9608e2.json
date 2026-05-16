@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-18cb9608e2",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "ReplaceMe: Training-Free Depth Pruning for LLMs",
+ "summary": "ReplaceMe is a training-free depth pruning method developed by MTS AI that replaces redundant transformer blocks with linear transformations. It compresses models without retraining by merging these approximations into the remaining weights.",
+ "research_notes": "Capable of pruning up to 25% of layers while maintaining approximately 90% of original model performance.",
+ "project": {
+  "name": "ReplaceMe",
+  "family_slug": "replaceme",
+  "family_display": "ReplaceMe",
+  "model_slug": "replaceme",
+  "model_display": "ReplaceMe",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ReplaceMe",
+  "replaceme",
+  "llm",
+  "family:replaceme",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "replaceme"
+  ],
+  "versions": [
+   "replaceme"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/mts-ai/ReplaceMe",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:52:13Z"
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/MTSAIR/replaceme",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Presented at NeurIPS 2025, the method has been used to release compressed versions of Llama 2 and Llama 3.1. It remains a key open-source tool for efficient, zero-shot model simplification.",
+  "latest_version": "ReplaceMe (NeurIPS 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "ReplaceMe is a training-free depth pruning method developed by MTS AI that replaces redundant transformer blocks with linear transformations. It compresses models without retraining by merging these approximations into the remaining weights."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:52:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

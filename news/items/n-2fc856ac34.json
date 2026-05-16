@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2fc856ac34",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "UniGenDet: Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Detection",
+ "summary": "UniGenDet is a closed-loop architecture that bridges image generation and AI-generated image detection. It enables the generator and detector to evolve synchronously, using generative priors to enhance detection robustness and detector feedback to improve image realism.",
+ "research_notes": "Developed by researchers from Tsinghua University; weights are hosted on Hugging Face under the Yanran21 organization.",
+ "project": {
+  "name": "UniGenDet",
+  "family_slug": "unigendet",
+  "family_display": "UniGenDet",
+  "model_slug": "unigendet",
+  "model_display": "UniGenDet",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniGenDet",
+  "unigendet",
+  "diffusion-image",
+  "family:unigendet",
+  "text-to-image",
+  "github",
+  "huggingface",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "unigendet"
+  ],
+  "versions": [
+   "unigendet"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://ivg-yanranzhang.github.io/UniGenDet/",
+   "host": "ivg-yanranzhang.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Zhangyr2022/UniGenDet",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:50:50Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Yanran21/UniGenDet",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project was accepted to CVPR 2026 and represents a shift from adversarial 'arms races' to co-evolutionary models. It is built upon the BAGEL-7B-MoT architecture and demonstrates state-of-the-art performance in cross-generator detection generalization.",
+  "latest_version": "CVPR 2026 version (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "UniGenDet is a closed-loop architecture that bridges image generation and AI-generated image detection. It enables the generator and detector to evolve synchronously, using generative priors to enhance detection robustness and detector feedback to improve image realism."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:50:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

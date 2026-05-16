@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-78ccc63365",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Awesome Russian Speech: Russian Speech Technology Resources",
+ "summary": "A comprehensive curated repository of datasets, tools, and open-source models for Russian language speech recognition and synthesis. It is maintained by Alpha Cephei, the team behind the Vosk speech recognition toolkit.",
+ "research_notes": "Features extensive links to the ru-normalizr tool for text preprocessing and the speechinfo community for Russian ML research updates.",
+ "project": {
+  "name": "awesome-russian-speech",
+  "family_slug": "awesome-russian-speech",
+  "family_display": "awesome-russian-speech",
+  "model_slug": "awesome-russian-speech",
+  "model_display": "awesome-russian-speech",
+  "version": null,
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "awesome-russian-speech",
+  "audio-music",
+  "family:awesome-russian-speech",
+  "voice-clone",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "awesome-russian-speech"
+  ],
+  "versions": [
+   "awesome-russian-speech"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/alphacep/awesome-russian-speech",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T21:48:41Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The list has expanded to include modern neural Text-to-Speech frameworks like Vosk-TTS and Matcha-TTS. It now prioritizes lightweight, offline-first ONNX-powered solutions and integration with Sherpa-ONNX for high-performance streaming ASR on edge devices.",
+  "latest_version": "Ongoing Curation (updated Mar 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "A comprehensive curated repository of datasets, tools, and open-source models for Russian language speech recognition and synthesis. It is maintained by Alpha Cephei, the team behind the Vosk speech recognition toolkit."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T21:48:41Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

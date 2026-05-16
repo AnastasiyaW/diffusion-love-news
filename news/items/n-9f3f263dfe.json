@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9f3f263dfe",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "StyleID: Perception-Aware Identity Encoder for Portrait Personalization",
+ "summary": "StyleID is a specialized CLIP-based identity encoder designed to maintain facial consistency across extreme artistic styles. It addresses the 'identity drift' problem in generative models by aligning machine embeddings with human perception through the StyleBench dataset.",
+ "research_notes": "Includes evaluation metrics for stylization-agnostic recognition; released under a non-commercial research license.",
+ "project": {
+  "name": "StyleID",
+  "family_slug": "styleid",
+  "family_display": "StyleID",
+  "model_slug": "styleid",
+  "model_display": "StyleID",
+  "version": null,
+  "released": "2026-04-25",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "StyleID",
+  "styleid",
+  "diffusion-image",
+  "family:styleid",
+  "face",
+  "character",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "styleid"
+  ],
+  "versions": [
+   "styleid"
+  ],
+  "features": [
+   "face",
+   "character"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://kwanyun.github.io/StyleID_page/",
+   "host": "kwanyun.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/kwanyun/StyleID",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:14:01Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/kwanY/styleid",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Formally presented at SIGGRAPH 2026 following its initial ArXiv release in April 2026. The project has expanded with the public release of StyleBench-H and StyleBench-S datasets, becoming a benchmark for identity-preserving diffusion models.",
+  "latest_version": "StyleID v1.0 (SIGGRAPH 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-25",
+  "excerpt": "StyleID is a specialized CLIP-based identity encoder designed to maintain facial consistency across extreme artistic styles. It addresses the 'identity drift' problem in generative models by aligning machine embeddings with human perception through the StyleBench dataset."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:14:01Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

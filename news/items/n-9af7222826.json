@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9af7222826",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "QClaw-4B Compact Language Model for Agentic Tasks",
+ "summary": "A state-of-the-art 4-billion parameter model optimized for multi-step reasoning and tool-calling capabilities. It utilizes curated agentic task trajectories to match the performance of significantly larger models on specialized benchmarks.",
+ "research_notes": "Achieved a ClawBench score of 84.8, nearly equal to Kimi K2.5 and GLM-4.5 despite its compact size.",
+ "project": {
+  "name": "QClaw-4B",
+  "family_slug": "qclaw",
+  "family_display": "QClaw-4B",
+  "model_slug": "qclaw-4b",
+  "model_display": "QClaw-4B",
+  "version": "4B",
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "QClaw-4B",
+  "qclaw",
+  "qclaw-4b",
+  "llm",
+  "family:qclaw",
+  "model:qclaw-4b",
+  "fine-tuning",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qclaw"
+  ],
+  "versions": [
+   "qclaw-4b"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "qclaw-4b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LakoMoor/QClaw-4B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:26:10Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LakoMoor/QClaw-4B-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Remains the current SOTA for its parameter class in agentic reasoning. Ecosystem support has expanded to include GGUF and MLX formats for efficient local inference on consumer hardware and Apple Silicon.",
+  "latest_version": "QClaw-4B (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "A state-of-the-art 4-billion parameter model optimized for multi-step reasoning and tool-calling capabilities. It utilizes curated agentic task trajectories to match the performance of significantly larger models on specialized benchmarks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:26:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

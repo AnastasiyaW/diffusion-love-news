@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1fef5a401b",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Tencent Hunyuan UniCom",
+ "summary": "UniCom is a unified multimodal framework that bridges visual understanding and generation using compressed continuous semantic representations. It integrates SigLIP2 for visual representation and Flux VAE for high-quality image reconstruction, enabling consistent editing and generation.",
+ "research_notes": "Performs generation directly over compressed visual embeddings rather than raw pixels; combines the strengths of SigLIP2 and Flux architectures.",
+ "project": {
+  "name": "UniCom",
+  "family_slug": "hunyuan",
+  "family_display": "UniCom",
+  "model_slug": "unicom",
+  "model_display": "UniCom",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniCom",
+  "hunyuan",
+  "unicom",
+  "diffusion-image",
+  "family:hunyuan",
+  "model:unicom",
+  "image-to-image",
+  "text-to-image",
+  "edit",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "hunyuan"
+  ],
+  "versions": [
+   "hunyuan"
+  ],
+  "features": [
+   "image-to-image",
+   "text-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "unicom"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://miazhao7708.github.io/UniComPage/",
+   "host": "miazhao7708.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/UniCom",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:55:39Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/Unicom-Unified-Multimodal-Modeling-via-Compressed-Continuous-Semantic-Representations",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "UniCom represents the unification of Tencent's understanding and generation pipelines into a single framework. As of mid-2026, it remains the core multimodal foundation for the Hunyuan ecosystem, which has expanded into reasoning-focused models like Hy3-preview and advanced 3D generation with Hunyuan3D 3.0.",
+  "latest_version": "UniCom v1.0 (2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "UniCom is a unified multimodal framework that bridges visual understanding and generation using compressed continuous semantic representations. It integrates SigLIP2 for visual representation and Flux VAE for high-quality image reconstruction, enabling consistent editing and generation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:55:39Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

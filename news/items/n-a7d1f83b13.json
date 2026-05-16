@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a7d1f83b13",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "ArcFlow: 2-Step Non-Linear Image Generation Framework",
+ "summary": "Developed by Microsoft Research Asia and Fudan University, ArcFlow utilizes non-linear flow distillation to generate high-quality images in just 2 steps. It significantly optimizes inference for large-scale models like FLUX.1 and Qwen-Image while maintaining visual fidelity.",
+ "research_notes": "Unlike linear distillation methods like LCM, ArcFlow parameterizes the velocity field to capture non-linear trajectories, enabling 40x speedups with minimal quality loss.",
+ "project": {
+  "name": "ArcFlow",
+  "family_slug": "arcflow",
+  "family_display": "ArcFlow",
+  "model_slug": "arcflow",
+  "model_display": "ArcFlow",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ArcFlow",
+  "arcflow",
+  "diffusion-image",
+  "family:arcflow",
+  "github",
+  "huggingface",
+  "flux",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "arcflow"
+  ],
+  "versions": [
+   "arcflow"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [
+   "flux"
+  ],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/pnotp/ArcFlow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:54:49Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ymyy307/ArcFlow",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Since its release in early 2026, the project has expanded to support 20B-parameter models and has been optimized for consumer-grade GPUs (24GB VRAM). It is currently integrated into various open-source UI wrappers for fast diffusion inference.",
+  "latest_version": "ArcFlow (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "Developed by Microsoft Research Asia and Fudan University, ArcFlow utilizes non-linear flow distillation to generate high-quality images in just 2 steps. It significantly optimizes inference for large-scale models like FLUX.1 and Qwen-Image while maintaining visual fidelity."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:54:49Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

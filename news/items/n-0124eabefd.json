@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0124eabefd",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "OmniVoice Studio: Local Voice Cloning and Dubbing",
+ "summary": "A privacy-focused desktop application for zero-shot voice cloning, cinematic dubbing, and real-time dictation across 600+ languages. It executes 100% locally with support for NVIDIA, Apple Silicon, and AMD accelerators.",
+ "research_notes": "Integrates Demucs for audio separation and has a roadmap for Wav2Lip v2 integration to enhance video dubbing realism.",
+ "project": {
+  "name": "OmniVoice Studio",
+  "family_slug": "omnivoice",
+  "family_display": "OmniVoice Studio",
+  "model_slug": "omnivoice",
+  "model_display": "OmniVoice",
+  "version": null,
+  "released": "2026-04-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniVoice Studio",
+  "OmniVoice",
+  "omnivoice",
+  "audio-music",
+  "family:omnivoice",
+  "voice-clone",
+  "background-removal",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "omnivoice"
+  ],
+  "versions": [
+   "omnivoice"
+  ],
+  "features": [
+   "voice-clone",
+   "background-removal"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/debpalash/OmniVoice-Studio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:38:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a raw model wrapper into a full Tauri-based desktop suite featuring OS-level dictation widgets and MCP server integration. It now utilizes the 'uv' package manager for zero-dependency local bootstrapping.",
+  "latest_version": "OmniVoice Studio v0.2.x (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-11",
+  "excerpt": "A privacy-focused desktop application for zero-shot voice cloning, cinematic dubbing, and real-time dictation across 600+ languages. It executes 100% locally with support for NVIDIA, Apple Silicon, and AMD accelerators."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:38:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

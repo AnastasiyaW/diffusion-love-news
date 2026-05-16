@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0cf9d026b8",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "SCAIL-2: Studio-Grade Character Animation via In-Context Learning",
+ "summary": "SCAIL is a framework for character animation that enables high-fidelity motion transfer from driving videos to reference images using 3D-consistent pose representation. It effectively addresses common issues like jitter and identity drift while supporting multi-character scenes and long sequences.",
+ "research_notes": "Developed by Zhipu AI and Tsinghua University; the model is built on the Wan 2.1 architecture and typically requires high VRAM, though quantized GGUF versions are supported.",
+ "project": {
+  "name": "SCAIL-2",
+  "family_slug": "scail",
+  "family_display": "SCAIL-2",
+  "model_slug": "scail-2",
+  "model_display": "SCAIL-2",
+  "version": "2",
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SCAIL-2",
+  "scail",
+  "scail-2",
+  "animation-motion",
+  "family:scail",
+  "model:scail-2",
+  "animation",
+  "character",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "scail"
+  ],
+  "versions": [
+   "scail-2"
+  ],
+  "features": [
+   "animation",
+   "character"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "scail-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/zai-org/SCAIL/issues/34",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/zai-org/SCAIL",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:48:02Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Comfy-Org/ComfyUI/pull/12614",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the initial SCAIL-Preview to SCAIL-2, which adds enhanced motion stability, improved 3D pose depth understanding, and native support for long-form video generation. It has been integrated into ComfyUI through custom nodes and now supports driving animations via Blender 3D rigs.",
+  "latest_version": "SCAIL-2 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "SCAIL is a framework for character animation that enables high-fidelity motion transfer from driving videos to reference images using 3D-consistent pose representation. It effectively addresses common issues like jitter and identity drift while supporting multi-character scenes and long sequences."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:48:02Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

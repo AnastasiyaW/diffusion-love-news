@@ -1,0 +1,141 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9aa3cb6ab5",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Audio Flamingo Next (AF-Next)",
+ "summary": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning.",
+ "research_notes": "Includes specialized variants such as AF-Next-Think for reasoning and AF-Next-Captioner for detailed descriptions. It utilizes a custom AF-Whisper encoder and a Qwen2.5-based text backbone.",
+ "project": {
+  "name": "Audio Flamingo Next",
+  "family_slug": "audio-flamingo",
+  "family_display": "Audio Flamingo Next",
+  "model_slug": "audio-flamingo",
+  "model_display": "Audio Flamingo",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Audio Flamingo Next",
+  "Audio Flamingo",
+  "audio-flamingo",
+  "audio-music",
+  "family:audio-flamingo",
+  "github",
+  "huggingface",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "audio-flamingo"
+  ],
+  "versions": [
+   "audio-flamingo"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://afnext-umd-nvidia.github.io/",
+   "host": "afnext-umd-nvidia.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVIDIA/audio-flamingo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:40:15Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/audio-flamingo-next-hf",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next-think",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next-captioner",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the initial 1.3B prototype in 2024 through versions 2 and 3 into the current AF-Next flagship. Audio Flamingo Next introduces Temporal Audio Chain-of-Thought (TA-CoT) for precise timestamped reasoning and extends long-context support to 30 minutes of audio.",
+  "latest_version": "Audio Flamingo Next (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:40:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

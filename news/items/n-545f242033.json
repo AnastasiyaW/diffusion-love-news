@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-545f242033",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Clad Size-aware: 3D Body Scanning for Virtual Fitting",
+ "summary": "A commercial 3D body scanning pipeline that extracts ISO-compliant measurements from mesh models for virtual fitting rooms. It utilizes permissive models like Naver’s Anny and Meta’s MHR to provide high-accuracy shape reconstruction without restrictive licensing.",
+ "research_notes": "Utilizes physics-aware loss functions to achieve a 0.3kg mean mass error. Operates at a cost of approximately $0.09 per scan.",
+ "project": {
+  "name": "Clad Size-aware",
+  "family_slug": "clad",
+  "family_display": "Clad Size-aware",
+  "model_slug": "clad",
+  "model_display": "Clad",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Clad Size-aware",
+  "Clad",
+  "clad",
+  "3d",
+  "family:clad",
+  "character",
+  "scene",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "clad"
+  ],
+  "versions": [
+   "clad"
+  ],
+  "features": [
+   "character",
+   "scene"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://clad.you/blog/posts/body-pipeline/",
+   "host": "clad.you",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:36:13Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://clad.you/size-aware/fit-me",
+   "host": "clad.you",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from research-focused SMPL models to a cost-effective commercial pipeline using Apache-licensed foundations like Anny and MHR. It recently open-sourced the 'clad-body' measurement library and is pivoting to questionnaire-based shape prediction to minimize user friction.",
+  "latest_version": "Nine-Cent Pipeline (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A commercial 3D body scanning pipeline that extracts ISO-compliant measurements from mesh models for virtual fitting rooms. It utilizes permissive models like Naver’s Anny and Meta’s MHR to provide high-accuracy shape reconstruction without restrictive licensing."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:36:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

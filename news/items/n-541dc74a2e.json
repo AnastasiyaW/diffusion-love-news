@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-541dc74a2e",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Foresyn AI HackerNews Virality Predictor",
+ "summary": "An AI-powered tool that forecasts the virality and engagement of Hacker News submissions using a LightGBM model. It provides score predictions, confidence intervals, and a unique comment simulator to anticipate community reactions.",
+ "research_notes": "Trained on 148,421 stories; runs sub-millisecond inference via LightGBM models compiled to JavaScript.",
+ "project": {
+  "name": "HackerNews Predictor",
+  "family_slug": "foresyn-ai",
+  "family_display": "HackerNews Predictor",
+  "model_slug": "hackernews-predictor",
+  "model_display": "HackerNews Predictor",
+  "version": null,
+  "released": "2026-05-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HackerNews Predictor",
+  "foresyn-ai",
+  "hackernews-predictor",
+  "tools-frontend",
+  "family:foresyn-ai",
+  "model:hackernews-predictor",
+  "web-demo",
+  "free"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "foresyn-ai"
+  ],
+  "versions": [
+   "foresyn-ai"
+  ],
+  "features": [],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "hackernews-predictor"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/crimeacs/foresyn-hackernews",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:19:35Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://hackernews.foresyn.ai/",
+   "host": "hackernews.foresyn.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched as a live calibration platform featuring an iterative title editor and a real-time ledger tracking accuracy against the Hacker News Top 30.",
+  "latest_version": "Initial Release (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-11",
+  "excerpt": "An AI-powered tool that forecasts the virality and engagement of Hacker News submissions using a LightGBM model. It provides score predictions, confidence intervals, and a unique comment simulator to anticipate community reactions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:19:35Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

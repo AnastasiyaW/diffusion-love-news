@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-7d8614adad",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "HiDream-O1-Image: 8B Unified Pixel-Space Transformer",
+ "summary": "A natively unified 8B pixel-space transformer for high-quality image generation and instruction-based editing. It processes text and pixels in a shared token space, enabling native 2K synthesis without VAE artifacts.",
+ "research_notes": "Ranks among the top open-source models on major benchmarks. Integrates a reasoning-driven agent for layout planning and prompt expansion.",
+ "project": {
+  "name": "HiDream-O1-Image",
+  "family_slug": "hidream",
+  "family_display": "HiDream-O1-Image",
+  "model_slug": "hidream",
+  "model_display": "HiDream",
+  "version": null,
+  "released": "2026-05-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HiDream-O1-Image",
+  "HiDream",
+  "hidream",
+  "diffusion-image",
+  "family:hidream",
+  "text-to-image",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "hidream"
+  ],
+  "versions": [
+   "hidream"
+  ],
+  "features": [
+   "text-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/HiDream-ai/HiDream-O1-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:26:14Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Open-sourced the 8B weights in May 2026 as a major shift from latent diffusion to pixel-native reasoning models. Current variants include a distilled 'Dev' model and a high-parameter 'Pro' research version.",
+  "latest_version": "HiDream-O1-Image (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-09",
+  "excerpt": "A natively unified 8B pixel-space transformer for high-quality image generation and instruction-based editing. It processes text and pixels in a shared token space, enabling native 2K synthesis without VAE artifacts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:26:14Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

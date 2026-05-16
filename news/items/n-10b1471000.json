@@ -1,0 +1,125 @@
+{
+ "schema_version": "1.2",
+ "id": "n-10b1471000",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "RefineAnything: Multimodal Region-Specific Image Refinement",
+ "summary": "A diffusion-based framework designed for high-precision local image editing and restoration. It specializes in correcting fine-grained details like text, logos, and intricate structures while ensuring perfect background consistency through a focus-and-refine strategy.",
+ "research_notes": "Built on the Qwen-Image-Edit-2511 architecture; features a unique Boundary Consistency Loss to ensure seamless blending of refined patches into the original image.",
+ "project": {
+  "name": "RefineAnything",
+  "family_slug": "refineanything",
+  "family_display": "RefineAnything",
+  "model_slug": "refineanything",
+  "model_display": "RefineAnything",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RefineAnything",
+  "refineanything",
+  "diffusion-image",
+  "family:refineanything",
+  "edit",
+  "image-to-image",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "refineanything"
+  ],
+  "versions": [
+   "refineanything"
+  ],
+  "features": [
+   "edit",
+   "image-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://limuloo.github.io/RefineAnything/",
+   "host": "limuloo.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/limuloo/RefineAnything",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:54:46Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/limuloo1999/RefineAnything",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/limuloo1999/RefineAnything",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in April 2026 alongside paper arXiv:2604.06870, the project released inference scripts, model checkpoints, and a live Hugging Face demo. It has since been integrated into ComfyUI and received critical environment pinning updates to resolve color shift issues.",
+  "latest_version": "Initial Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "A diffusion-based framework designed for high-precision local image editing and restoration. It specializes in correcting fine-grained details like text, logos, and intricate structures while ensuring perfect background consistency through a focus-and-refine strategy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:54:46Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

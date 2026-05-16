@@ -1,0 +1,89 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a56b9d31b6",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Perplexity Personal Computer for Mac",
+ "summary": "An autonomous AI agent for macOS that integrates with the local file system and native applications to execute multi-step workflows. It functions as a personal orchestrator, performing tasks like file organization and email drafting through probabilistic goal completion.",
+ "research_notes": "Features a universal 'double-Command' shortcut and deep integration with the Comet browser for visual interaction with web tools without APIs.",
+ "project": {
+  "name": "Perplexity Personal Computer",
+  "family_slug": "perplexity",
+  "family_display": "Perplexity Personal Computer",
+  "model_slug": "perplexity",
+  "model_display": "Perplexity",
+  "version": null,
+  "released": "2026-05-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Perplexity Personal Computer",
+  "Perplexity",
+  "perplexity",
+  "llm",
+  "family:perplexity",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "perplexity"
+  ],
+  "versions": [
+   "perplexity"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.perplexity.ai/personal-computer",
+   "host": "perplexity.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:22:18Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in early 2026 as a cloud-based sandbox, it evolved into a native macOS app in April 2026. Initially exclusive to the $200/month Max tier, it was expanded in May 2026 to all Pro and Enterprise subscribers, deprecating the legacy Perplexity Mac app.",
+  "latest_version": "Native macOS App (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-10",
+  "excerpt": "An autonomous AI agent for macOS that integrates with the local file system and native applications to execute multi-step workflows. It functions as a personal orchestrator, performing tasks like file organization and email drafting through probabilistic goal completion."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:22:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

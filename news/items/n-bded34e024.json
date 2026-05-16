@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bded34e024",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Gemopus-4-26B Large Language Model",
+ "summary": "An instruction-tuned Mixture-of-Experts model based on Gemma 4 26B, refined for stability and conversational naturalness. It avoids aggressive distillation in favor of conservative fine-tuning to preserve base reasoning while improving tone and structural clarity.",
+ "research_notes": "Features a Mixture-of-Experts (MoE) architecture with 26B total and 4B active parameters (A4B). Supports a 256K token context window and includes a native 'Thinking Mode' triggered by specific prompt tokens.",
+ "project": {
+  "name": "Gemopus-4-26B-A4B-it",
+  "family_slug": "gemopus",
+  "family_display": "Gemopus-4-26B-A4B-it",
+  "model_slug": "gemopus-4-26b",
+  "model_display": "Gemopus-4-26B",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemopus-4-26B-A4B-it",
+  "Gemopus-4-26B",
+  "gemopus",
+  "gemopus-4-26b",
+  "llm",
+  "family:gemopus",
+  "model:gemopus-4-26b",
+  "fine-tuning",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gemopus"
+  ],
+  "versions": [
+   "gemopus"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "gemopus-4-26b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:02:11Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Gemopus-4-26B-A4B-it-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from an initial release to a 'stability-first' variant with APEX (Adaptive Precision for EXpert Models) quantization. While still maintained as an engineering reference, the developer has since shifted focus to the Qwopus-3.5 series for production-grade performance.",
+  "latest_version": "Gemopus-4-26B-A4B-it-Preview (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "An instruction-tuned Mixture-of-Experts model based on Gemma 4 26B, refined for stability and conversational naturalness. It avoids aggressive distillation in favor of conservative fine-tuning to preserve base reasoning while improving tone and structural clarity."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:02:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

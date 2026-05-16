@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8da3cc43df",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "MOSS-Audio: Unified Open-Source Audio Foundation Model",
+ "summary": "MOSS-Audio is a modular foundation model that unifies speech, environmental sound, and music understanding within a single architecture. It employs a custom-trained CAT audio encoder and LLM backbone to perform complex reasoning and instruction-following tasks on raw audio data.",
+ "research_notes": "Developed by the OpenMOSS team (Fudan University); features unique time-aware representation for temporal analysis and supports edge deployment via GGUF/ONNX.",
+ "project": {
+  "name": "MOSS-Audio",
+  "family_slug": "moss-audio",
+  "family_display": "MOSS-Audio",
+  "model_slug": "moss-audio",
+  "model_display": "MOSS-Audio",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MOSS-Audio",
+  "moss-audio",
+  "audio-music",
+  "family:moss-audio",
+  "huggingface",
+  "github",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "moss-audio"
+  ],
+  "versions": [
+   "moss-audio"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenMOSS/MOSS-Audio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:40:29Z"
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/OpenMOSS-Team/moss-audio",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project rapidly expanded into a comprehensive ecosystem, adding 'Thinking' variants for complex reasoning and 'Instruct' models for production pipelines. It now includes MOSS-TTS for high-fidelity generation and specialized tokenizers trained on 3 million hours of audio.",
+  "latest_version": "MOSS-Audio 8B (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "MOSS-Audio is a modular foundation model that unifies speech, environmental sound, and music understanding within a single architecture. It employs a custom-trained CAT audio encoder and LLM backbone to perform complex reasoning and instruction-following tasks on raw audio data."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:40:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

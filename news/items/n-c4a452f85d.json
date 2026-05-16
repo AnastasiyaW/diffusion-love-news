@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c4a452f85d",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "NumPy as Synth Engine (PyTheory)",
+ "summary": "A framework by Kenneth Reitz that treats NumPy arrays as audio buffers for mathematical music synthesis. It enables pure code-based composition and physical modeling of instruments without the use of audio samples.",
+ "research_notes": "Demonstrates the Karplus-Strong algorithm for plucked string synthesis using only NumPy and standard Python libraries.",
+ "project": {
+  "name": "NumPy Synth",
+  "family_slug": "pytheory",
+  "family_display": "NumPy Synth",
+  "model_slug": "numpy-synth",
+  "model_display": "NumPy Synth",
+  "version": null,
+  "released": "2026-04-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NumPy Synth",
+  "pytheory",
+  "numpy-synth",
+  "audio-music",
+  "family:pytheory",
+  "model:numpy-synth",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "pytheory"
+  ],
+  "versions": [
+   "pytheory"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "numpy-synth"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/kennethreitz/pytheory",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:39:04Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://kennethreitz.org/essays/2026-03-29-numpy_as_synth_engine",
+   "host": "kennethreitz.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project culminated in the release of 'Interpretations', a 24-track album rendered entirely via Python scripts. It has expanded to support complex microtonal tuning systems and real-time algorithmic generation.",
+  "latest_version": "Interpretations (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-01",
+  "excerpt": "A framework by Kenneth Reitz that treats NumPy arrays as audio buffers for mathematical music synthesis. It enables pure code-based composition and physical modeling of instruments without the use of audio samples."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:39:04Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

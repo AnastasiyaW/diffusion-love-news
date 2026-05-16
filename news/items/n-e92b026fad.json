@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e92b026fad",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenAI Daybreak",
+ "summary": "OpenAI Daybreak is a specialized cybersecurity platform that employs AI agents to autonomously detect and remediate software vulnerabilities. It functions as a managed security control surface built on a multi-tier deployment of the GPT-5.5 architecture.",
+ "research_notes": "The initiative uses a tiered access model to manage dual-use risks, with the 'Cyber' variant reserved for verified red-teaming and advanced binary reverse engineering.",
+ "project": {
+  "name": "Daybreak",
+  "family_slug": "daybreak",
+  "family_display": "Daybreak",
+  "model_slug": "daybreak",
+  "model_display": "Daybreak",
+  "version": null,
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Daybreak",
+  "daybreak",
+  "llm",
+  "family:daybreak",
+  "paid"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "daybreak"
+  ],
+  "versions": [
+   "daybreak"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://openai.com/daybreak/",
+   "host": "openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T17:46:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in May 2026, the project is transitioning from simple vulnerability scanning to autonomous patching through its Codex Security agentic harness. It is currently in a controlled rollout phase with key industry partners like Cloudflare and Cisco.",
+  "latest_version": "GPT-5.5-Cyber (Preview, May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "OpenAI Daybreak is a specialized cybersecurity platform that employs AI agents to autonomously detect and remediate software vulnerabilities. It functions as a managed security control surface built on a multi-tier deployment of the GPT-5.5 architecture."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T17:46:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-16ee77b7eb",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "New GGUF Models: Qwen 3.5, Gemma 4, and Qwopus",
+ "summary": "A curated collection of GGUF-quantized models for local inference, featuring Alibaba's Qwen 3.5 MoE, Google's Gemma 4 series, and the reasoning-focused Qwopus. These models are optimized for consumer-grade GPUs, offering high speed and multimodal capabilities.",
+ "research_notes": "Models feature native support for llama.cpp and Unsloth Studio; the 35B MoE variants are particularly optimized for low-latency local generation.",
+ "project": {
+  "name": "Qwen3.5 / Gemma-4 / Qwopus",
+  "family_slug": "gguf-models",
+  "family_display": "Qwen3.5 / Gemma-4 / Qwopus",
+  "model_slug": "qwen3-5-gemma-4-qwopus",
+  "model_display": "Qwen3.5 / Gemma-4 / Qwopus",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.5 / Gemma-4 / Qwopus",
+  "gguf-models",
+  "qwen3-5-gemma-4-qwopus",
+  "llm",
+  "family:gguf-models",
+  "model:qwen3-5-gemma-4-qwopus",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gguf-models"
+  ],
+  "versions": [
+   "gguf-models"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "qwen3-5-gemma-4-qwopus"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mudler/Qwen3.5-35B-A3B-APEX-TQ-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:36:54Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/DavidAU/gemma-4-31B-it-Mystery-Fine-Tune-HERETIC-UNCENSORED-Thinking-Instruct-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Qwopus3.5-27B-v3-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The Qwen 3.5 series was succeeded by the Qwen 3.6 family in mid-May 2026, which introduced enhanced multimodal performance. Gemma 4 remains the leading choice for mobile AI, while the Qwopus project has advanced to version 3.6 with improved reasoning CoT.",
+  "latest_version": "Qwen 3.6 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A curated collection of GGUF-quantized models for local inference, featuring Alibaba's Qwen 3.5 MoE, Google's Gemma 4 series, and the reasoning-focused Qwopus. These models are optimized for consumer-grade GPUs, offering high speed and multimodal capabilities."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:36:54Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

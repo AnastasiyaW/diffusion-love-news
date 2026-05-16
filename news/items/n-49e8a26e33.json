@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-49e8a26e33",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "flova.ai: AI Video Agent powered by Seedance 2.0",
+ "summary": "A full-stack AI filmmaking platform that utilizes the Seedance 2.0 multimodal engine for narrative video production. It supports multi-shot continuity, character consistency, and integrated audio synchronization for cinematic storytelling.",
+ "research_notes": "Flova.ai orchestrates multiple models including Seedance 2.0 and scriptwriting agents to automate long-form narrative content creation. Faced early industry scrutiny over ultra-realistic actor replication.",
+ "project": {
+  "name": "flova.ai",
+  "family_slug": "seedance",
+  "family_display": "flova.ai",
+  "model_slug": "flova-ai",
+  "model_display": "flova.ai",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "flova.ai",
+  "seedance",
+  "flova-ai",
+  "diffusion-video",
+  "family:seedance",
+  "model:flova-ai",
+  "text-to-video",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "seedance"
+  ],
+  "versions": [
+   "seedance"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "flova-ai"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.flova.ai/",
+   "host": "flova.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:46:57Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.flova.ai/?refCode=8RTPSGSK",
+   "host": "flova.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The platform transitioned from simple clip generation to a unified multimodal architecture in early 2026. ByteDance's Seedance 2.0 update introduced native lip-sync, director-level camera controls, and the ability to process up to 9 reference images for consistent character rendering across different scenes.",
+  "latest_version": "Seedance 2.0 (Feb 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A full-stack AI filmmaking platform that utilizes the Seedance 2.0 multimodal engine for narrative video production. It supports multi-shot continuity, character consistency, and integrated audio synchronization for cinematic storytelling."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:46:57Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

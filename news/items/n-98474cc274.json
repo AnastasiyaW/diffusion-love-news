@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-98474cc274",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Nucleus Image: Sparse Mixture-of-Experts Diffusion Model",
+ "summary": "A 17B-parameter text-to-image model that uses a Sparse Mixture-of-Experts architecture to decouple model capacity from inference cost. It activates only ~2B parameters per forward pass, providing high-quality generation with significantly reduced latency.",
+ "research_notes": "The model is released under the Apache-2.0 license and includes full training recipes and weights on Hugging Face.",
+ "project": {
+  "name": "Nucleus Image",
+  "family_slug": "nucleus",
+  "family_display": "Nucleus Image",
+  "model_slug": "nucleus",
+  "model_display": "Nucleus Image",
+  "version": null,
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nucleus Image",
+  "nucleus",
+  "diffusion-image",
+  "family:nucleus",
+  "text-to-image",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "nucleus"
+  ],
+  "versions": [
+   "nucleus"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://withnucleus.ai/image",
+   "host": "withnucleus.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/WithNucleusAI/Nucleus-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:31:36Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/blog/NucleusAI/nucleus-image",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/treadon/mlx-nucleus-image",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project represents a shift from dense Diffusion Transformer (DiT) designs to sparse architectures. Since its release, it has been integrated into ComfyUI and remains a popular 'clean' base model for community fine-tuning.",
+  "latest_version": "Nucleus-Image v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "A 17B-parameter text-to-image model that uses a Sparse Mixture-of-Experts architecture to decouple model capacity from inference cost. It activates only ~2B parameters per forward pass, providing high-quality generation with significantly reduced latency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:31:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

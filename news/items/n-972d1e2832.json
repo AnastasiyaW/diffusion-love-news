@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-972d1e2832",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "TML Interaction Models: Real-time Multimodal AI",
+ "summary": "A new class of AI systems by Thinking Machines Lab designed for native, real-time multimodal interaction. Utilizing a micro-turn architecture, the models process audio, video, and text in 200-millisecond chunks, allowing for simultaneous perception and response.",
+ "research_notes": "Founded by Mira Murati and Soumith Chintala; the TML-Interaction-Small model uses a Mixture-of-Experts architecture with 276 billion parameters.",
+ "project": {
+  "name": "Interaction Models",
+  "family_slug": "thinking-machines",
+  "family_display": "Interaction Models",
+  "model_slug": "interaction-models",
+  "model_display": "Interaction Models",
+  "version": null,
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Interaction Models",
+  "thinking-machines",
+  "interaction-models",
+  "llm",
+  "family:thinking-machines",
+  "model:interaction-models",
+  "realtime"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "thinking-machines"
+  ],
+  "versions": [
+   "thinking-machines"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "interaction-models"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://thinkingmachines.ai/blog/interaction-models/",
+   "host": "thinkingmachines.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:32:06Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project introduced a dual-model system where a fast interaction model handles live conversation while an asynchronous background model manages complex reasoning; currently in research preview for partners.",
+  "latest_version": "TML-Interaction-Small (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A new class of AI systems by Thinking Machines Lab designed for native, real-time multimodal interaction. Utilizing a micro-turn architecture, the models process audio, video, and text in 200-millisecond chunks, allowing for simultaneous perception and response."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:32:06Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

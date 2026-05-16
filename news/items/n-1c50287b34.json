@@ -1,0 +1,129 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1c50287b34",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "X2SAM — Multimodal Model for Image and Video Segmentation",
+ "summary": "A unified Multimodal Large Language Model framework that extends universal segmentation capabilities from static images to dynamic video sequences. It utilizes a Mask Memory module to maintain temporal consistency across 14 distinct vision-language tasks.",
+ "research_notes": "Built on Qwen3-VL and SAM2 architectures; supports simultaneous text instructions and visual prompts like points or bounding boxes.",
+ "project": {
+  "name": "X2SAM",
+  "family_slug": "x-sam",
+  "family_display": "X2SAM",
+  "model_slug": "x2sam",
+  "model_display": "X2SAM",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "X2SAM",
+  "x-sam",
+  "x2sam",
+  "vlm",
+  "family:x-sam",
+  "model:x2sam",
+  "segmentation",
+  "github",
+  "huggingface",
+  "web-demo",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "x-sam"
+  ],
+  "versions": [
+   "x-sam"
+  ],
+  "features": [
+   "segmentation"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "x2sam"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://wanghao9610.github.io/X2SAM/",
+   "host": "wanghao9610.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/wanghao9610/X2SAM",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:13:25Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/hao9610/X2SAM/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "http://121.43.252.12:7860/",
+   "host": "121.43.252.12:7860",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "An evolution of the X-SAM model, adding video support via temporal memory and introducing the Video Visual Grounded (V-VGD) benchmark for interactive video segmentation.",
+  "latest_version": "X2SAM (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "A unified Multimodal Large Language Model framework that extends universal segmentation capabilities from static images to dynamic video sequences. It utilizes a Mask Memory module to maintain temporal consistency across 14 distinct vision-language tasks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:13:25Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

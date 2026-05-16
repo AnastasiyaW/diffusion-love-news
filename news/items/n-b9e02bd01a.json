@@ -1,0 +1,153 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b9e02bd01a",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "ACE-Step 1.5 XL Music Generation",
+ "summary": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
+ "research_notes": "Released under the MIT license and trained on legally compliant datasets; features official ComfyUI integration for node-based workflows.",
+ "project": {
+  "name": "ACE-Step 1.5 XL",
+  "family_slug": "acestep",
+  "family_display": "ACE-Step 1.5 XL",
+  "model_slug": "ace-step-1-5",
+  "model_display": "ACE-Step 1.5",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ACE-Step 1.5 XL",
+  "ACE-Step 1.5",
+  "acestep",
+  "ace-step-1-5",
+  "audio-music",
+  "family:acestep",
+  "model:ace-step-1-5",
+  "github",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "acestep"
+  ],
+  "versions": [
+   "acestep"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ace-step-1-5"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ace-step/ACE-Step-1.5",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:35:22Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://ace-step.github.io/ace-step-v1.5.github.io/",
+   "host": "ace-step.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-base",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ace-step/ACE-Step-1.5?tab=readme-ov-file#-model-zoo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Upgraded from the previous 2B-parameter model to a 4B-parameter DiT backbone, introducing XL-Base, XL-SFT for quality, and XL-Turbo for 8-step accelerated generation.",
+  "latest_version": "ACE-Step v1.5 XL (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:35:22Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

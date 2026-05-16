@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-fe9036dfac",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "PlayCoder: Making LLM-Generated GUI Code Playable",
+ "summary": "A multi-agent framework by Tencent designed to fix behavioral and logic errors in LLM-generated GUI code. It employs automated interaction testing and visual feedback to ensure generated applications are functional beyond mere compilation.",
+ "research_notes": "Includes PlayTester, which uses vision-language models to verify GUI state via screenshots and simulated user interactions.",
+ "project": {
+  "name": "PlayCoder",
+  "family_slug": "playcoder",
+  "family_display": "PlayCoder",
+  "model_slug": "playcoder",
+  "model_display": "PlayCoder",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PlayCoder",
+  "playcoder",
+  "llm",
+  "family:playcoder",
+  "github",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "playcoder"
+  ],
+  "versions": [
+   "playcoder"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/PlayCoder",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:27:03Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from an early research prototype to a comprehensive multi-agent system including PlayDeveloper, PlayRefiner, and PlayTester components. It was featured at FSE 2026 as a major advancement in automated program repair for GUIs.",
+  "latest_version": "PlayCoder Framework (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "A multi-agent framework by Tencent designed to fix behavioral and logic errors in LLM-generated GUI code. It employs automated interaction testing and visual feedback to ensure generated applications are functional beyond mere compilation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:27:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

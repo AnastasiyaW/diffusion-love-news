@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-44592b77d5",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders",
+ "summary": "A native unified multimodal model from Meta AI that performs both visual understanding and generation directly from raw pixels. It replaces traditional vision encoders like CLIP or VAEs with a single transformer architecture using direct patch embeddings and rectified flow.",
+ "research_notes": "Operates entirely in pixel space without a latent stage; demonstrates that large-scale pixel-level training can outperform models relying on pretrained encoders in fine-grained tasks.",
+ "project": {
+  "name": "TUNA-2",
+  "family_slug": "tuna",
+  "family_display": "TUNA-2",
+  "model_slug": "tuna-2",
+  "model_display": "TUNA-2",
+  "version": "2",
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TUNA-2",
+  "tuna",
+  "tuna-2",
+  "vlm",
+  "family:tuna",
+  "model:tuna-2",
+  "image-to-image",
+  "text-to-image",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "tuna"
+  ],
+  "versions": [
+   "tuna-2"
+  ],
+  "features": [
+   "image-to-image",
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "tuna-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://tuna-ai.org/tuna-2/",
+   "host": "tuna-ai.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/tuna-2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:14:33Z"
+  }
+ ],
+ "evolution": {
+  "summary": "As of mid-2026, the project is a CVPR 2026 Highlight. Meta has released the code and a 'foundation checkpoint' where certain backbone layers are randomly re-initialized for policy reasons, requiring a short fine-tuning pass by users to achieve full performance.",
+  "latest_version": "Tuna-2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "A native unified multimodal model from Meta AI that performs both visual understanding and generation directly from raw pixels. It replaces traditional vision encoders like CLIP or VAEs with a single transformer architecture using direct patch embeddings and rectified flow."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:14:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

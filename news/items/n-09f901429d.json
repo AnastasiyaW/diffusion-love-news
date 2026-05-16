@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-09f901429d",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Stream-R1: Real-Time Reward-Guided Video Distillation",
+ "summary": "Stream-R1 is an accelerated video generation model distilled from Wan2.1 that achieves real-time performance of 23.1 FPS. It utilizes Reward-Guided Distribution-Matching Distillation (DMD) to surpass its teacher model in both visual quality and text alignment.",
+ "research_notes": "Achieves a 30x speedup over the original Wan2.1 while maintaining high VBench scores; developed by FrameX-AI in collaboration with USTC.",
+ "project": {
+  "name": "Stream-R1",
+  "family_slug": "stream",
+  "family_display": "Stream-R1",
+  "model_slug": "stream",
+  "model_display": "Stream",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Stream-R1",
+  "Stream",
+  "stream",
+  "diffusion-video",
+  "family:stream",
+  "text-to-video",
+  "image-to-video",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "stream"
+  ],
+  "versions": [
+   "stream"
+  ],
+  "features": [
+   "text-to-video",
+   "image-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://stream-r1.github.io/",
+   "host": "stream-r1.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FrameX-AI/Stream-R1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:44:03Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FrameX-AI/Stream-R1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the release of Stream-R1, FrameX-AI introduced Stream-T1, a specialized framework focusing on Test-Time Scaling (TTS) to improve temporal consistency and complex motion handling without retraining the base weights.",
+  "latest_version": "Stream-R1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "Stream-R1 is an accelerated video generation model distilled from Wan2.1 that achieves real-time performance of 23.1 FPS. It utilizes Reward-Guided Distribution-Matching Distillation (DMD) to surpass its teacher model in both visual quality and text alignment."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:44:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

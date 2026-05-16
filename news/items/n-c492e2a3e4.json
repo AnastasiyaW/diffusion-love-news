@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c492e2a3e4",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "IC-LoRA Cameraman for LTX-Video 2.3",
+ "summary": "An In-Context LoRA designed for LTX-Video 2.3 that replicates camera movements from a reference video to a text-prompted scene. It enables precise cinematic control over zooming, panning, and orbiting through motion conditioning.",
+ "research_notes": "Trained by Cseti using 77 high-quality video pairs over 10,500 steps. It operates at rank 32 and is typically used with a LoRA strength of 0.7–1.0.",
+ "project": {
+  "name": "IC-LoRA: Cameraman v1",
+  "family_slug": "ltx",
+  "family_display": "IC-LoRA: Cameraman",
+  "model_slug": "ic",
+  "model_display": "IC",
+  "version": "v1",
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "Cameraman v1",
+   "base_model_slug": "ic"
+  }
+ },
+ "tags": [
+  "IC-LoRA: Cameraman v1",
+  "IC",
+  "IC-LoRA: Cameraman",
+  "ltx",
+  "ic",
+  "diffusion-video",
+  "family:ltx",
+  "model:ic",
+  "adaptation:lora",
+  "lora-for:ic",
+  "lora",
+  "edit",
+  "huggingface",
+  "comfyui",
+  "ltx-v1",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx-v1"
+  ],
+  "features": [
+   "lora",
+   "edit"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ic"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Cseti/LTX2.3-22B_IC-LoRA-Cameraman_v1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:11:51Z"
+  },
+  {
+   "kind": "dataset",
+   "url": "https://huggingface.co/datasets/Cseti/ComfyUI-Workflows/blob/main/ltx/2.3/ic-lora-cameraman/ltx2.3-ic-lora-cameraman.json",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the initial v1 release, the model was optimized for LTX-2.3 Distilled 1.1 and integrated into ComfyUI with specialized nodes. It is now frequently used in tandem with Union Control IC-LoRA for advanced video-to-video transfers.",
+  "latest_version": "LTX-Video 2.3 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "An In-Context LoRA designed for LTX-Video 2.3 that replicates camera movements from a reference video to a text-prompted scene. It enables precise cinematic control over zooming, panning, and orbiting through motion conditioning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:11:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

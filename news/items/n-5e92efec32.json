@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5e92efec32",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Baidu ERNIE 5.1 Large Language Model",
+ "summary": "Baidu's latest flagship model released in May 2026, focusing on high parameter efficiency and agentic reasoning. It is currently the top-ranked Chinese model globally, achieving frontier performance with significantly lower training costs.",
+ "research_notes": "Ranks 4th globally on Arena Search and 1st among Chinese models. Designed to optimize performance under hardware constraints and US chip export controls.",
+ "project": {
+  "name": "ERNIE 5.1 Preview",
+  "family_slug": "ernie",
+  "family_display": "ERNIE 5.1 Preview",
+  "model_slug": "ernie-5-1",
+  "model_display": "ERNIE 5.1",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ERNIE 5.1 Preview",
+  "ERNIE 5.1",
+  "ernie",
+  "ernie-5-1",
+  "llm",
+  "family:ernie",
+  "model:ernie-5-1",
+  "china",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "ernie"
+  ],
+  "versions": [
+   "ernie"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "ernie-5-1"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://ernie.baidu.com/blog/posts/ernie-5.1-preview-0430-release-on-lmarena/",
+   "host": "ernie.baidu.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://ernie.baidu.com/",
+   "host": "ernie.baidu.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:21:03Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Follows ERNIE 5.0, shifting from massive parameter scale (2.4T) to a more efficient 800B architecture via the Once-For-All framework. It features a new asynchronous reinforcement learning pipeline and enhanced four-stage post-training.",
+  "latest_version": "ERNIE 5.1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "Baidu's latest flagship model released in May 2026, focusing on high parameter efficiency and agentic reasoning. It is currently the top-ranked Chinese model globally, achieving frontier performance with significantly lower training costs."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:21:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

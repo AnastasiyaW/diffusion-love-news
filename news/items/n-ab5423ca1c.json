@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ab5423ca1c",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OlmPool: AI2 Long-Context Architectural Study",
+ "summary": "A suite of 26 7B open-source models released by Allen AI to investigate how architectural choices like QK normalization and sliding window attention drive long-context performance. It isolates specific 'catastrophic' combinations that degrade context extension by nearly 50% despite identical training data.",
+ "research_notes": "The suite required 170,000 H100 hours and includes 38 checkpoints for each of the 26 models to analyze at what point long-context capability 'cracks'.",
+ "project": {
+  "name": "OlmPool",
+  "family_slug": "olmo",
+  "family_display": "OlmPool",
+  "model_slug": "olmpool",
+  "model_display": "OlmPool",
+  "version": null,
+  "released": "2026-05-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OlmPool",
+  "olmo",
+  "olmpool",
+  "llm",
+  "family:olmo",
+  "model:olmpool",
+  "fine-tuning",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "olmo"
+  ],
+  "versions": [
+   "olmo"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "olmpool"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://olmpool.com",
+   "host": "olmpool.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:19:13Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/allenai/D_post_LQK_8kv_8k_13k_SWA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, the study findings are currently informing the development of next-generation architectures like OLMo 4 and the OMAI cluster upgrades announced in May 2026.",
+  "latest_version": "OLMo Hybrid 7B (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-02",
+  "excerpt": "A suite of 26 7B open-source models released by Allen AI to investigate how architectural choices like QK normalization and sliding window attention drive long-context performance. It isolates specific 'catastrophic' combinations that degrade context extension by nearly 50% despite identical training data."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:19:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

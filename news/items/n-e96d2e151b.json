@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e96d2e151b",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "TriAttention: Efficient Long Reasoning via Trigonometric KV Compression",
+ "summary": "TriAttention is an open-source framework that optimizes KV cache compression by modeling pre-RoPE attention scores through trigonometric representations. It significantly reduces memory overhead for long-context reasoning models, enabling high-performance local deployment on consumer hardware.",
+ "research_notes": "Developed by researchers from MIT and NVIDIA; achieves over 10x KV memory reduction with zero accuracy loss on benchmarks like AIME25.",
+ "project": {
+  "name": "TriAttention",
+  "family_slug": "triattention",
+  "family_display": "TriAttention",
+  "model_slug": "triattention",
+  "model_display": "TriAttention",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TriAttention",
+  "triattention",
+  "llm",
+  "family:triattention",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "triattention"
+  ],
+  "versions": [
+   "triattention"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/WeianMao/triattention",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:21:14Z"
+  }
+ ],
+ "evolution": {
+  "summary": "After its April 2026 release, the project was ported to llama.cpp (triattention-ggml) and integrated into SGLang. It currently supports AMD/ROCm and NVIDIA Blackwell architectures, often serving as a standard component for local reasoning model stacks alongside quantization tools.",
+  "latest_version": "TriAttention Stable (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "TriAttention is an open-source framework that optimizes KV cache compression by modeling pre-RoPE attention scores through trigonometric representations. It significantly reduces memory overhead for long-context reasoning models, enabling high-performance local deployment on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:21:14Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

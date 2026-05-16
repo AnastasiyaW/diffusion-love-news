@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-eb965439db",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GBrain Memory Layer for OpenClaw and Hermes Agents",
+ "summary": "GBrain is an open-source persistent memory substrate that combines Git-managed Markdown repositories with PostgreSQL/pgvector databases. It provides AI agents with a long-term, compounding knowledge base and hybrid search capabilities.",
+ "research_notes": "Created by Garry Tan to solve AI agent statelessness; emphasizes high data density through structured metadata and Git-versioned knowledge storage.",
+ "project": {
+  "name": "GBrain",
+  "family_slug": "gbrain",
+  "family_display": "GBrain",
+  "model_slug": "gbrain",
+  "model_display": "GBrain",
+  "version": null,
+  "released": "2026-04-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GBrain",
+  "gbrain",
+  "llm",
+  "family:gbrain",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gbrain"
+  ],
+  "versions": [
+   "gbrain"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/garrytan/gbrain",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:37:47Z"
+  }
+ ],
+ "evolution": {
+  "summary": "GBrain evolved rapidly after its April 2026 launch, introducing an autonomous 'Dream Cycle' for background memory maintenance and deduplication. It now incorporates BrainBench-Real for retrieval evaluation and serves as the primary memory runtime for the OpenClaw and Hermes agent architectures.",
+  "latest_version": "GBrain v0.25.x (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-11",
+  "excerpt": "GBrain is an open-source persistent memory substrate that combines Git-managed Markdown repositories with PostgreSQL/pgvector databases. It provides AI agents with a long-term, compounding knowledge base and hybrid search capabilities."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:37:47Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

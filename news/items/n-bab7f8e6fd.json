@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bab7f8e6fd",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Audio-Omni: Unified Audio Understanding and Generation Framework",
+ "summary": "A comprehensive end-to-end system that unifies speech, music, and sound effects into a single model for both understanding and high-fidelity generation. It leverages a Qwen2.5-Omni backbone and a Diffusion Transformer synthesis engine to enable complex audio editing and reasoning via natural language.",
+ "research_notes": "Powered by Qwen2.5-Omni; introduces AudioEdit, a large-scale dataset of over 1 million curated audio editing pairs.",
+ "project": {
+  "name": "Audio-Omni",
+  "family_slug": "audio-omni",
+  "family_display": "Audio-Omni",
+  "model_slug": "audio-omni",
+  "model_display": "Audio-Omni",
+  "version": null,
+  "released": "2026-04-18",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Audio-Omni",
+  "audio-omni",
+  "audio-music",
+  "family:audio-omni",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "audio-omni"
+  ],
+  "versions": [
+   "audio-omni"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://zeyuet.github.io/Audio-Omni/",
+   "host": "zeyuet.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ZeyueT/Audio-Omni",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:09:10Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/HKUSTAudio/Audio-Omni",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/Zeyue7/Audio-Omni",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Officially accepted to SIGGRAPH 2026. Updated to version 2 on arXiv in April 2026 with refined benchmarks and architectural details. The project now includes the full release of the AudioEdit dataset, model weights, and inference code.",
+  "latest_version": "SIGGRAPH 2026 Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-18",
+  "excerpt": "A comprehensive end-to-end system that unifies speech, music, and sound effects into a single model for both understanding and high-fidelity generation. It leverages a Qwen2.5-Omni backbone and a Diffusion Transformer synthesis engine to enable complex audio editing and reasoning via natural language."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:09:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

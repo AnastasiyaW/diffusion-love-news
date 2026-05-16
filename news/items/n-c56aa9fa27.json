@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c56aa9fa27",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Motif-Video 2B: Efficient Decoupled Diffusion Transformer Video Model",
+ "summary": "Motif-Video 2B is an open-source text-to-video model built on the Decoupled Diffusion Transformer (DDT) architecture and Wan2.1 VAE. It utilizes shared cross-attention and feature alignment to deliver high-quality video synthesis with only 2 billion parameters.",
+ "research_notes": "Achieved a VBench score of 83.76%, surpassing the 14B parameter Wan2.1 model while using significantly less compute.",
+ "project": {
+  "name": "Motif-Video 2B",
+  "family_slug": "motif-video",
+  "family_display": "Motif-Video",
+  "model_slug": "motif-video-2b",
+  "model_display": "Motif-Video 2B",
+  "version": "2B",
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Motif-Video 2B",
+  "Motif-Video",
+  "motif-video",
+  "motif-video-2b",
+  "diffusion-video",
+  "family:motif-video",
+  "model:motif-video-2b",
+  "text-to-video",
+  "image-to-video",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "motif-video"
+  ],
+  "versions": [
+   "motif-video-2b"
+  ],
+  "features": [
+   "text-to-video",
+   "image-to-video"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "motif-video-2b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://motiftech.io/videoshowcase",
+   "host": "motiftech.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Motif-Technologies/Motif-Video-2B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:35:36Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Integrated into Hugging Face Diffusers shortly after launch, the model has seen widespread adoption due to its native support and GGUF quantization for consumer hardware.",
+  "latest_version": "Motif-Video 2B (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "Motif-Video 2B is an open-source text-to-video model built on the Decoupled Diffusion Transformer (DDT) architecture and Wan2.1 VAE. It utilizes shared cross-attention and feature alignment to deliver high-quality video synthesis with only 2 billion parameters."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:35:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

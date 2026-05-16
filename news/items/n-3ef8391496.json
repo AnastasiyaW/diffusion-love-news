@@ -1,0 +1,138 @@
+{
+ "schema_version": "1.2",
+ "id": "n-3ef8391496",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GLiGuard: Compact LLM Safety Moderation Model",
+ "summary": "GLiGuard is an open-source 300M parameter encoder-based model designed for high-performance LLM safety moderation. It serves as a fast and efficient alternative to large decoder-only guardrail models like LlamaGuard.",
+ "research_notes": "Fine-tuned from GLiNER2-base-v1; Apache 2.0 license; optimized for CPU-first and edge deployment; achieves 87.7 F1 on safety benchmarks.",
+ "project": {
+  "name": "GLiGuard",
+  "family_slug": "gliguard",
+  "family_display": "GLiGuard",
+  "model_slug": "gliguard",
+  "model_display": "GLiGuard",
+  "version": null,
+  "released": "2026-05-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GLiGuard",
+  "gliguard",
+  "llm",
+  "family:gliguard",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gliguard"
+  ],
+  "versions": [
+   "gliguard"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "community",
+   "url": "https://x.com/ash_csx/status/2053886668017447148",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://x.com/fastinoAI/status/2054242573099880556",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/fastino-ai/GLiGuard",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:29:33Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/fastino/gliguard-LLMGuardrails-300M",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://pioneer.ai/?utm_source=x&utm_campaign=gliguard_launch",
+   "host": "pioneer.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://pioneer.ai/pricing",
+   "host": "pioneer.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in May 2026 by Fastino Labs, GLiGuard leverages the GLiNER2 architecture to provide structured safety classification. It achieves significantly lower latency and higher throughput than state-of-the-art models like ShieldGemma-27B while maintaining competitive accuracy.",
+  "latest_version": "GLiGuard-300M (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "GLiGuard is an open-source 300M parameter encoder-based model designed for high-performance LLM safety moderation. It serves as a fast and efficient alternative to large decoder-only guardrail models like LlamaGuard."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:29:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8e2ceecbcb",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Mistral Medium 3.5: Unified 128B Multimodal Model",
+ "summary": "A 128-billion parameter dense multimodal model designed for high-performance reasoning, coding, and general instruction. It features a 256k context window and operates as a single flagship engine for complex agentic workflows.",
+ "research_notes": "The model serves as the core reasoning engine for Le Chat and the Vibe CLI coding agent.",
+ "project": {
+  "name": "Mistral Medium 3.5",
+  "family_slug": "mistral",
+  "family_display": "Mistral Medium",
+  "model_slug": "mistral",
+  "model_display": "Mistral",
+  "version": "3.5",
+  "released": "2026-05-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Mistral Medium 3.5",
+  "Mistral",
+  "Mistral Medium",
+  "mistral",
+  "vlm",
+  "family:mistral",
+  "image-to-image",
+  "huggingface",
+  "web-demo",
+  "mistral-3-5",
+  "closed"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "mistral"
+  ],
+  "versions": [
+   "mistral-3-5"
+  ],
+  "features": [
+   "image-to-image"
+  ],
+  "formats": [
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
+   "host": "mistral.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:26:08Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://console.mistral.ai/codestral/cli",
+   "host": "console.mistral.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://chat.mistral.ai/chat",
+   "host": "chat.mistral.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, this model replaces the specialized Magistral and Devstral 2 architectures. A May 2026 update resolved configuration bugs in long-context YaRN parsing, while the EAGLE variant adds speculative decoding support.",
+  "latest_version": "Mistral Medium 3.5 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-01",
+  "excerpt": "A 128-billion parameter dense multimodal model designed for high-performance reasoning, coding, and general instruction. It features a 256k context window and operates as a single flagship engine for complex agentic workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:26:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

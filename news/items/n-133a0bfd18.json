@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-133a0bfd18",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI Command Palette",
+ "summary": "A keyboard-driven command center for ComfyUI that centralizes navigation and execution via a Ctrl+K interface. It allows users to run UI commands, jump to specific nodes, and add new nodes through a prefix-based search system.",
+ "research_notes": "Includes extensible command support, allowing other custom nodes to register their own actions within the palette.",
+ "project": {
+  "name": "ComfyUI Command Palette",
+  "family_slug": "comfyui-command-palette",
+  "family_display": "ComfyUI Command Palette",
+  "model_slug": "comfyui-command-palette",
+  "model_display": "ComfyUI Command Palette",
+  "version": null,
+  "released": "2026-05-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Command Palette",
+  "comfyui-command-palette",
+  "tools-frontend",
+  "family:comfyui-command-palette",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "comfyui-command-palette"
+  ],
+  "versions": [
+   "comfyui-command-palette"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/PBandDev/comfyui-command-palette",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:24:42Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a simple node search tool, it has evolved into a comprehensive utility with specialized modes for commands, node navigation, and workflow templates. It now features deep integration with the ComfyUI Registry and is built on TypeScript to match modern frontend standards.",
+  "latest_version": "v1.0.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-01",
+  "excerpt": "A keyboard-driven command center for ComfyUI that centralizes navigation and execution via a Ctrl+K interface. It allows users to run UI commands, jump to specific nodes, and add new nodes through a prefix-based search system."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:24:42Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-73e8b27cb3",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Assistant_Pepe_32B: Human-Centric Qwen-3 Creative Fine-Tune",
+ "summary": "A creative, high-personality fine-tune of the Qwen-3-32B model designed to eliminate corporate 'assistant slop' and neutral glazing. It features a baked-in unhinged persona with integrated negativity bias for more authentic, human-like creative interactions.",
+ "research_notes": "Consistently ranks high on uncensored intelligence leaderboards; features 32K-64K context support with unique 'anti-slop' training to avoid GPT-style writing patterns.",
+ "project": {
+  "name": "Assistant_Pepe_32B",
+  "family_slug": "assistant-pepe",
+  "family_display": "Assistant_Pepe_32B",
+  "model_slug": "assistant-pepe-32b",
+  "model_display": "Assistant_Pepe_32B",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Assistant_Pepe_32B",
+  "assistant-pepe",
+  "assistant-pepe-32b",
+  "llm",
+  "family:assistant-pepe",
+  "model:assistant-pepe-32b",
+  "fine-tuning",
+  "character",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "assistant-pepe"
+  ],
+  "versions": [
+   "assistant-pepe"
+  ],
+  "features": [
+   "fine-tuning",
+   "character"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "assistant-pepe-32b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/SicariusSicariiStuff/Assistant_Pepe_32B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:15:28Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The series transitioned from early Tenebră-30B variants to Llama-3.1 (70B) in April 2026, culminating in this Qwen-3-32B version that successfully integrates a lateral-thinking persona directly into the weights.",
+  "latest_version": "Assistant_Pepe_32B (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "A creative, high-personality fine-tune of the Qwen-3-32B model designed to eliminate corporate 'assistant slop' and neutral glazing. It features a baked-in unhinged persona with integrated negativity bias for more authentic, human-like creative interactions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:15:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d883c4c40c",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Sync.so AI Visual Dubbing and Lip-Sync Studio",
+ "summary": "Sync.so is a studio-grade AI platform that provides high-fidelity visual dubbing and lip-syncing for professional video production. It enables seamless voice cloning and alignment, preserving actor mannerisms and emotional nuances across multiple languages.",
+ "research_notes": "Features include Active Speaker Detection (ASD-1) for multi-person scenes and professional workflow integration via an Adobe Premiere Pro plugin and robust API.",
+ "project": {
+  "name": "Sync.so",
+  "family_slug": "sync-so",
+  "family_display": "Sync.so",
+  "model_slug": "sync-so",
+  "model_display": "Sync.so",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sync.so",
+  "sync-so",
+  "audio-music",
+  "family:sync-so",
+  "voice-clone",
+  "lip-sync",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "sync-so"
+  ],
+  "versions": [
+   "sync-so"
+  ],
+  "features": [
+   "voice-clone",
+   "lip-sync"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://sync.so/",
+   "host": "sync.so",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:20:29Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://go.sync.so/dubbing",
+   "host": "go.sync.so",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The platform has evolved from legacy GAN-based models to the diffusion-based Lipsync-2 and the current Sync-3 flagship. Sync-3 introduces native 4K processing, advanced obstruction detection, and full-shot visual dubbing that maintains skin textures and lighting consistency.",
+  "latest_version": "Sync-3 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "Sync.so is a studio-grade AI platform that provides high-fidelity visual dubbing and lip-syncing for professional video production. It enables seamless voice cloning and alignment, preserving actor mannerisms and emotional nuances across multiple languages."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:20:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

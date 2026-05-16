@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-fc612ab002",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "IceCache: Memory-Efficient Semantic KV-Cache for Long LLMs",
+ "summary": "IceCache reorganizes the KV-cache using semantic token clustering and hierarchical indexing to optimize long-context LLM inference. By selectively loading relevant cache pages from CPU to GPU, it maintains high accuracy with a drastically reduced GPU memory footprint.",
+ "research_notes": "Achieves 99% accuracy on LongBench benchmarks while using only 256 tokens in the active GPU cache.",
+ "project": {
+  "name": "IceCache",
+  "family_slug": "icecache",
+  "family_display": "IceCache",
+  "model_slug": "icecache",
+  "model_display": "IceCache",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "IceCache",
+  "icecache",
+  "llm",
+  "family:icecache",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "icecache"
+  ],
+  "versions": [
+   "icecache"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://yuzhenmao.github.io/IceCache/",
+   "host": "yuzhenmao.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/yuzhenmao/IceCache",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:11:28Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Presented at ICLR 2026, IceCache represents the current frontier in semantic-aware KV-cache management. It extends the PagedAttention concept by adding a DCI-tree based hierarchical index for query-aware token retrieval.",
+  "latest_version": "ICLR 2026 Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "IceCache reorganizes the KV-cache using semantic token clustering and hierarchical indexing to optimize long-context LLM inference. By selectively loading relevant cache pages from CPU to GPU, it maintains high accuracy with a drastically reduced GPU memory footprint."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:11:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a236c67d82",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "ACE-Step 1.5 C++ Port (acestep.cpp)",
+ "summary": "A lightweight, portable C++ implementation of the ACE-Step 1.5 music foundation model built on the GGML backend. It enables high-fidelity 48kHz stereo music generation with zero Python dependencies on consumer CPUs and GPUs.",
+ "research_notes": "Utilizes a two-stage pipeline consisting of ace-lm for composition and ace-synth for diffusion-based rendering.",
+ "project": {
+  "name": "acestep.cpp",
+  "family_slug": "acestep",
+  "family_display": "acestep.cpp",
+  "model_slug": "acestep",
+  "model_display": "acestep",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "acestep.cpp",
+  "acestep",
+  "audio-music",
+  "family:acestep",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "acestep"
+  ],
+  "versions": [
+   "acestep"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ServeurpersoCom/acestep.cpp",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:00:19Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ServeurpersoCom/acestep.cpp?tab=readme-ov-file",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a CPU-only port to a mature ecosystem with CUDA, Metal, and Vulkan support. Recent updates added GGUF quantization, VST3 integration for DAWs, and an 'Understand Mode' for audio-to-metadata analysis.",
+  "latest_version": "ACE-Step 1.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "A lightweight, portable C++ implementation of the ACE-Step 1.5 music foundation model built on the GGML backend. It enables high-fidelity 48kHz stereo music generation with zero Python dependencies on consumer CPUs and GPUs."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:00:19Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

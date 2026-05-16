@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d4d07dd0bf",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "P-Video-Avatar: High-Speed AI Talking-Head Animation",
+ "summary": "P-Video-Avatar is a specialized service from Pruna AI that generates realistic animated talking-head videos from a single portrait. It features advanced lip-syncing for both text scripts and uploaded audio files.",
+ "research_notes": "Available via REST API and Replicate; pricing varies by resolution ($0.025-$0.045/sec).",
+ "project": {
+  "name": "P-Video-Avatar",
+  "family_slug": "pruna-ai",
+  "family_display": "P-Video-Avatar",
+  "model_slug": "p-video-avatar",
+  "model_display": "P-Video-Avatar",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "P-Video-Avatar",
+  "pruna-ai",
+  "p-video-avatar",
+  "animation-motion",
+  "family:pruna-ai",
+  "model:p-video-avatar",
+  "lip-sync",
+  "animation",
+  "face",
+  "web-demo",
+  "paid"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "pruna-ai"
+  ],
+  "versions": [
+   "pruna-ai"
+  ],
+  "features": [
+   "lip-sync",
+   "animation",
+   "face"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "p-video-avatar"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.pruna.ai/p-video-avatar",
+   "host": "pruna.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:01:05Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://dashboard.pruna.ai/login",
+   "host": "dashboard.pruna.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "vendor-page",
+   "url": "https://replicate.com/prunaai/p-video-avatar",
+   "host": "replicate.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The model is now integrated into the Pruna Performance Suite alongside P-Image and P-Image-Edit, supporting up to 1080p resolution and real-time API access. It has been optimized for sub-2-second inference times.",
+  "latest_version": "Production Suite (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "P-Video-Avatar is a specialized service from Pruna AI that generates realistic animated talking-head videos from a single portrait. It features advanced lip-syncing for both text scripts and uploaded audio files."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:01:05Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

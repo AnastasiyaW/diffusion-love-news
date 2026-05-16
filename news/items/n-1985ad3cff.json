@@ -1,0 +1,90 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1985ad3cff",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenAI Privacy Filter: Local PII Redaction Model",
+ "summary": "An open-weight 1.5B parameter bidirectional token-classification model designed for local detection and redaction of Personally Identifiable Information (PII). It supports a 128,000-token context window and is optimized for high-throughput on-premises or in-browser execution via transformers.js.",
+ "research_notes": "Released under Apache 2.0 license; specifically designed to help enterprises comply with data residency requirements by processing sensitive data locally.",
+ "project": {
+  "name": "privacy-filter",
+  "family_slug": "privacy-filter",
+  "family_display": "privacy-filter",
+  "model_slug": "privacy-filter",
+  "model_display": "privacy-filter",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "privacy-filter",
+  "llm",
+  "family:privacy-filter",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "privacy-filter"
+  ],
+  "versions": [
+   "privacy-filter"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/openai/privacy-filter",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:28:04Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following its release in April 2026, the project was the subject of a high-profile security incident where a malicious typosquatted clone (Open-OSS/privacy-filter) trended to #1 on Hugging Face before being removed. The official OpenAI model remains the standard for open-source local PII masking.",
+  "latest_version": "Privacy Filter (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "An open-weight 1.5B parameter bidirectional token-classification model designed for local detection and redaction of Personally Identifiable Information (PII). It supports a 128,000-token context window and is optimized for high-throughput on-premises or in-browser execution via transformers.js."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:28:04Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-19adc0c7af",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ByteCut Director: AI Video Production Workspace",
+ "summary": "An open-source 'Director's Console' designed to manage complex AI video workflows, storyboard organization, and batch generation. It acts as a structured frontend for models like LTX-2, providing timeline-based shot management and cascading parameter control.",
+ "research_notes": "Specifically optimized for the Wan2GP/LTX-2 ecosystem and developed under the ByteSound brand.",
+ "project": {
+  "name": "ByteCut Director",
+  "family_slug": "bytecut",
+  "family_display": "ByteCut Director",
+  "model_slug": "bytecut",
+  "model_display": "ByteCut",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ByteCut Director",
+  "ByteCut",
+  "bytecut",
+  "tools-frontend",
+  "family:bytecut",
+  "edit",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "bytecut"
+  ],
+  "versions": [
+   "bytecut"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/heheok/bytecut-director",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:53:14Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The tool transitioned from a simple JSON queue utility for Wan2GP into a comprehensive full-stack workspace (Vite/Express). It now features a visual storyboard, timeline, version history for 'takes', and specialized tools for AI music video synchronization.",
+  "latest_version": "ByteCut Director v2.0.x (Early 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "An open-source 'Director's Console' designed to manage complex AI video workflows, storyboard organization, and batch generation. It acts as a structured frontend for models like LTX-2, providing timeline-based shot management and cascading parameter control."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:53:14Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-39f773b51f",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI-Photopea-tab: Sidebar Image Editor for ComfyUI",
+ "summary": "Integrates the Photopea image editor as a dedicated sidebar tab in ComfyUI. It enables seamless bidirectional image transfers and layer-specific imports directly between the workspace and the editor.",
+ "research_notes": "Includes a built-in ad-blocking toggle and supports importing individual layers or entire documents back into the graph.",
+ "project": {
+  "name": "ComfyUI Photopea Tab",
+  "family_slug": "comfyui-photopea",
+  "family_display": "ComfyUI Photopea Tab",
+  "model_slug": "comfyui-photopea",
+  "model_display": "ComfyUI Photopea",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Photopea Tab",
+  "ComfyUI Photopea",
+  "comfyui-photopea",
+  "tools-frontend",
+  "family:comfyui-photopea",
+  "image-to-image",
+  "edit",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "comfyui-photopea"
+  ],
+  "versions": [
+   "comfyui-photopea"
+  ],
+  "features": [
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/nolbert82/ComfyUI-Photopea-tab",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:52:10Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Established as the current standard for Photopea integration in ComfyUI, replacing earlier iframe-based versions. Ongoing development addresses UI scaling and stability in standalone application environments.",
+  "latest_version": "v1.1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "Integrates the Photopea image editor as a dedicated sidebar tab in ComfyUI. It enables seamless bidirectional image transfers and layer-specific imports directly between the workspace and the editor."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:52:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.2",
+ "id": "n-461304d95b",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "ReconViaGen: Accurate Multi-view 3D Reconstruction via Generation",
+ "summary": "ReconViaGen is a 3D reconstruction framework that combines reconstruction and generative priors to create accurate models from sparse views. It integrates VGGT for pose-free reconstruction and TRELLIS for high-fidelity 3D generation, effectively eliminating hallucinations while preserving input details.",
+ "research_notes": "Optimized for consumer GPUs (24GB VRAM); supports exporting to GLB and Gaussian Splatting formats.",
+ "project": {
+  "name": "ReconViaGen",
+  "family_slug": "reconviagen",
+  "family_display": "ReconViaGen",
+  "model_slug": "reconviagen",
+  "model_display": "ReconViaGen",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ReconViaGen",
+  "reconviagen",
+  "3d",
+  "family:reconviagen",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "reconviagen"
+  ],
+  "versions": [
+   "reconviagen"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://jiahao620.github.io/reconviagen/",
+   "host": "jiahao620.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/GAP-LAB-CUHK-SZ/ReconViaGen",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:49:23Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/estheryang11/ReconViaGen",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/Stable-X/ReconViaGen",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved with a major v0.5 update integrating TRELLIS 2, enabling high-resolution mesh generation and PBR material support. It remains active as a research project from GAP-LAB (CUHK-Shenzhen) submitted to ICLR 2026.",
+  "latest_version": "v0.5 (December 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "ReconViaGen is a 3D reconstruction framework that combines reconstruction and generative priors to create accurate models from sparse views. It integrates VGGT for pose-free reconstruction and TRELLIS for high-fidelity 3D generation, effectively eliminating hallucinations while preserving input details."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:49:23Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

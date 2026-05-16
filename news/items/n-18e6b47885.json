@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-18e6b47885",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyStudio: Timeline-Based AI Video Editor for ComfyUI",
+ "summary": "An open-source non-linear video editor (NLE) built on top of ComfyUI. It integrates a traditional timeline with AI generation workflows, allowing for iterative video creation, shot planning, and multi-track editing.",
+ "research_notes": "Features 'Hardware Tiers' for VRAM-aware generation and includes an integrated local LLM for prompt assistance and storyboard planning.",
+ "project": {
+  "name": "ComfyStudio",
+  "family_slug": "comfystudio",
+  "family_display": "ComfyStudio",
+  "model_slug": "comfystudio",
+  "model_display": "ComfyStudio",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyStudio",
+  "comfystudio",
+  "tools-frontend",
+  "family:comfystudio",
+  "edit",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "comfystudio"
+  ],
+  "versions": [
+   "comfystudio"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://comfystudiopro.com/",
+   "host": "comfystudiopro.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/JaimeIsMe/comfystudio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:01:11Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a private storyboard tool into a full-featured AI video workstation with multi-track support, keyframing, and 'Director Mode' for structured production. Recent updates added a Workflow Manager for automated node/model discovery and installation.",
+  "latest_version": "v0.1.12 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "An open-source non-linear video editor (NLE) built on top of ComfyUI. It integrates a traditional timeline with AI generation workflows, allowing for iterative video creation, shot planning, and multi-track editing."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:01:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

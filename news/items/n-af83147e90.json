@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-af83147e90",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Nucleus-Image: Sparse MoE Diffusion Transformer",
+ "summary": "The first high-quality Sparse Mixture-of-Experts (MoE) diffusion transformer for image generation, utilizing 17B total parameters with only ~2B active per forward pass. It achieves high efficiency while matching or exceeding dense models like FLUX.1 and SD3.5 in spatial layout and prompt adherence.",
+ "research_notes": "Open-sourced under Apache-2.0 license; features technical innovations like Text KV Caching and Decoupled Routing to stabilize MoE training.",
+ "project": {
+  "name": "Nucleus-Image",
+  "family_slug": "nucleus",
+  "family_display": "Nucleus-Image",
+  "model_slug": "nucleus",
+  "model_display": "Nucleus",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nucleus-Image",
+  "Nucleus",
+  "nucleus",
+  "diffusion-image",
+  "family:nucleus",
+  "text-to-image",
+  "huggingface",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "nucleus"
+  ],
+  "versions": [
+   "nucleus"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/NucleusAI/nucleus-image",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:53:11Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following its April 2026 release as a raw pre-trained base model, the project focuses on post-training optimizations including DPO/RLHF and community-led quantization efforts to handle the 17B parameter footprint on consumer GPUs.",
+  "latest_version": "Nucleus-Image Base (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "The first high-quality Sparse Mixture-of-Experts (MoE) diffusion transformer for image generation, utilizing 17B total parameters with only ~2B active per forward pass. It achieves high efficiency while matching or exceeding dense models like FLUX.1 and SD3.5 in spatial layout and prompt adherence."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:53:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

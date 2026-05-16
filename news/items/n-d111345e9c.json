@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d111345e9c",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GEMS: Agent-Native Multimodal Generation with Memory",
+ "summary": "GEMS is a multi-agent framework that treats multimodal content generation as an iterative optimization task. It features a closed-loop system of planning, verification, and refinement, supported by hierarchical memory and extensible domain skills.",
+ "research_notes": "Utilizes Sglang for MLLM serving and Diffusers for image generation backends; documentation is available at gems-gen.github.io.",
+ "project": {
+  "name": "GEMS",
+  "family_slug": "gems",
+  "family_display": "GEMS",
+  "model_slug": "gems",
+  "model_display": "GEMS",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GEMS",
+  "gems",
+  "llm",
+  "family:gems",
+  "github",
+  "web-demo",
+  "paper"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gems"
+  ],
+  "versions": [
+   "gems"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "web-demo",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://gems-gen.github.io/",
+   "host": "gems-gen.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/lcqysl/GEMS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:57:12Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project introduced inference-time scaling for multimodal models and a modular 'Skill' system, allowing smaller models to outperform larger proprietary ones like GPT-Image.",
+  "latest_version": "GEMS 1.0 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "GEMS is a multi-agent framework that treats multimodal content generation as an iterative optimization task. It features a closed-loop system of planning, verification, and refinement, supported by hierarchical memory and extensible domain skills."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:57:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

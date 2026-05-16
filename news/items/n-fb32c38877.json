@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.2",
+ "id": "n-fb32c38877",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "OmniWeaving Unified Video Generation Model",
+ "summary": "A unified video generation framework by Tencent Hunyuan that integrates a Multimodal Large Language Model for reasoning-enhanced synthesis. It supports interleaved text, image, and video inputs for complex multimodal composition and editing.",
+ "research_notes": "Released alongside the IntelligentVBench benchmark; restricted by a community license that limits usage in certain regions including the EU and UK.",
+ "project": {
+  "name": "OmniWeaving",
+  "family_slug": "hunyuan-video",
+  "family_display": "OmniWeaving",
+  "model_slug": "omniweaving",
+  "model_display": "OmniWeaving",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniWeaving",
+  "hunyuan-video",
+  "omniweaving",
+  "diffusion-video",
+  "family:hunyuan-video",
+  "model:omniweaving",
+  "text-to-video",
+  "github",
+  "huggingface",
+  "paper",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "hunyuan-video"
+  ],
+  "versions": [
+   "hunyuan-video"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "omniweaving"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://omniweaving.github.io/",
+   "host": "omniweaving.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/OmniWeaving",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:54:50Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/HY-OmniWeaving",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Successor to HunyuanVideo (Dec 2024) and HunyuanVideo-1.5 (Nov 2025). It introduces a 'Thinking Mode' for intelligent prompt reasoning and unified capabilities across text-to-video, image-to-video, and video editing tasks.",
+  "latest_version": "OmniWeaving (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A unified video generation framework by Tencent Hunyuan that integrates a Multimodal Large Language Model for reasoning-enhanced synthesis. It supports interleaved text, image, and video inputs for complex multimodal composition and editing."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:54:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

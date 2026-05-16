@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-41c999d507",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI_SenseNova_U1 Custom Nodes for Multimodal Models",
+ "summary": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware.",
+ "research_notes": "The 8B model can run on 8GB VRAM using Q6_K GGUF quantization but requires significant system RAM for optimal performance.",
+ "project": {
+  "name": "ComfyUI_SenseNova_U1",
+  "family_slug": "sensenova",
+  "family_display": "ComfyUI_SenseNova_U1",
+  "model_slug": "comfyui-sensenova-u1",
+  "model_display": "ComfyUI_SenseNova_U1",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI_SenseNova_U1",
+  "sensenova",
+  "comfyui-sensenova-u1",
+  "tools-frontend",
+  "family:sensenova",
+  "model:comfyui-sensenova-u1",
+  "github",
+  "huggingface",
+  "comfyui",
+  "china"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "sensenova"
+  ],
+  "versions": [
+   "sensenova"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "comfyui-sensenova-u1"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:38:02Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/smthem/SenseNova-U1-8B-MoT-Merger-gguf/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "SenseNova U1 marks the transition to the NEO-Unify architecture, which eliminates traditional VAEs and visual encoders for a native multimodal fusion. It succeeds the SenseNova 6.5 and MARS models, focusing on interleaved image-text reasoning.",
+  "latest_version": "SenseNova U1 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:38:02Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

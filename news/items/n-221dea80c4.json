@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-221dea80c4",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "MIA: Memory In Intelligence Agent Framework",
+ "summary": "A specialized memory management system for deep research AI agents that utilizes a three-tier Manager-Planner-Executor architecture. It optimizes long-context reasoning by shifting from passive storage to active strategic planning using Continual Test-Time Learning.",
+ "research_notes": "Jointly developed by ECNU and the Shanghai Institute of Intelligence to address context bloat in complex research workflows.",
+ "project": {
+  "name": "Memory Intelligence Agent (MIA)",
+  "family_slug": "mia",
+  "family_display": "Memory Intelligence Agent (MIA)",
+  "model_slug": "mia",
+  "model_display": "MIA",
+  "version": null,
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Memory Intelligence Agent (MIA)",
+  "MIA",
+  "mia",
+  "llm",
+  "family:mia",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "mia"
+  ],
+  "versions": [
+   "mia"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ECNU-SII/MIA",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:34:18Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LightningCreeper/MIA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Updated in April 2026 with streaming TTRL for real-time strategy adjustment and released as a skill on Clawhub. The codebase now provides a complete training pipeline using veRL along with pre-trained models and benchmarks.",
+  "latest_version": "MIA-v1 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A specialized memory management system for deep research AI agents that utilizes a three-tier Manager-Planner-Executor architecture. It optimizes long-context reasoning by shifting from passive storage to active strategic planning using Continual Test-Time Learning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:34:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

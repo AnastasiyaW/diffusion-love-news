@@ -1,0 +1,126 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f1ea79cf67",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "MOSS-TTS-Nano",
+ "summary": "An open-source, multilingual text-to-speech model designed for high-efficiency real-time deployment on consumer CPUs. It features zero-shot voice cloning and supports high-quality 48kHz stereo output.",
+ "research_notes": "Includes browser-focused local reading integrations and specialized ONNX versions that remove PyTorch dependencies for inference.",
+ "project": {
+  "name": "MOSS-TTS-Nano",
+  "family_slug": "moss-tts",
+  "family_display": "MOSS-TTS-Nano",
+  "model_slug": "moss-tts",
+  "model_display": "MOSS-TTS",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MOSS-TTS-Nano",
+  "MOSS-TTS",
+  "moss-tts",
+  "audio-music",
+  "family:moss-tts",
+  "voice-clone",
+  "realtime",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "moss-tts"
+  ],
+  "versions": [
+   "moss-tts"
+  ],
+  "features": [
+   "voice-clone",
+   "realtime"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:56:21Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-TTS-Nano",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://studio.mosi.cn/voice-synthesis?lang=ru",
+   "host": "studio.mosi.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in April 2026 as a 100M parameter model; later received ONNX optimizations for CPU performance and MLX support for Apple Silicon. MOSS-TTS 2.0 was announced in May 2026 to incorporate community feedback.",
+  "latest_version": "MOSS-TTS 2.0 (announced May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "An open-source, multilingual text-to-speech model designed for high-efficiency real-time deployment on consumer CPUs. It features zero-shot voice cloning and supports high-quality 48kHz stereo output."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:56:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

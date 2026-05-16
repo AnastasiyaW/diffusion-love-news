@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-58129455d1",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Ring-2.6-1T: High-Performance Agentic MoE Model",
+ "summary": "A massive 1-trillion parameter Mixture-of-Experts model optimized for complex reasoning and agentic workflows. It supports a 262K token context window and is specifically tuned for coding and tool-use.",
+ "research_notes": "Released by InclusionAI (Ant Group); available for free on OpenRouter and integrated with Kilo Code.",
+ "project": {
+  "name": "Ring-2.6-1T",
+  "family_slug": "ring",
+  "family_display": "Ring-2.6-1T",
+  "model_slug": "ring-2-6-1t",
+  "model_display": "Ring-2.6-1T",
+  "version": "1T",
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ring-2.6-1T",
+  "ring",
+  "ring-2-6-1t",
+  "llm",
+  "family:ring",
+  "model:ring-2-6-1t",
+  "fine-tuning",
+  "huggingface",
+  "ring-1t",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "ring"
+  ],
+  "versions": [
+   "ring-1t"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "ring-2-6-1t"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/inclusionAI/Ring-V2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:35:10Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://openrouter.ai/inclusionai/ring-2.6-1t:free",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The 2.6 version introduces contextual process redundancy suppression to streamline Chain-of-Thought reasoning. It succeeds the Ring-2.5 series with improved efficiency in token generation and lower VRAM requirements.",
+  "latest_version": "Ring-2.6-1T (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A massive 1-trillion parameter Mixture-of-Experts model optimized for complex reasoning and agentic workflows. It supports a 262K token context window and is specifically tuned for coding and tool-use."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:35:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

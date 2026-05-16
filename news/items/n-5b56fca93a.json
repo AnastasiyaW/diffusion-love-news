@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5b56fca93a",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "NVIDIA Parakeet-unified-en-0.6b Unified ASR Model",
+ "summary": "A 600-million parameter Automatic Speech Recognition model that unifies offline batch processing and real-time streaming transcription. It utilizes the Unified-FastConformer-RNNT architecture to deliver high accuracy and low latency across diverse audio tasks.",
+ "research_notes": "Achieves real-time factors up to 3000x on H100 GPUs with latencies as low as 160ms; features native punctuation and capitalization support.",
+ "project": {
+  "name": "Parakeet-unified-en-0.6b",
+  "family_slug": "parakeet",
+  "family_display": "Parakeet-unified-en-0.6b",
+  "model_slug": "parakeet",
+  "model_display": "Parakeet",
+  "version": "0.6b",
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Parakeet-unified-en-0.6b",
+  "Parakeet",
+  "parakeet",
+  "audio-music",
+  "family:parakeet",
+  "realtime",
+  "huggingface",
+  "parakeet-0-6b",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "parakeet"
+  ],
+  "versions": [
+   "parakeet-0-6b"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/parakeet-unified-en-0.6b",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:06:26Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Unified the previously separate TDT offline and specialized streaming architectures into a single model capable of dynamic switching. It follows the Parakeet-TDT-0.6b series, offering significantly improved WER and deployment efficiency.",
+  "latest_version": "Parakeet-unified-en-0.6b (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A 600-million parameter Automatic Speech Recognition model that unifies offline batch processing and real-time streaming transcription. It utilizes the Unified-FastConformer-RNNT architecture to deliver high accuracy and low latency across diverse audio tasks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:06:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

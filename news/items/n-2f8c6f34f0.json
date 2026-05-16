@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2f8c6f34f0",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "ClawEnvKit: Automatic Environment Generation for AI Agents",
+ "summary": "An autonomous toolkit for generating and validating environments for tool-using AI agents. It automates the creation of task specifications, tool interfaces, and continuous scoring configurations to enable scalable benchmarking.",
+ "research_notes": "Achieves human-level quality in benchmark generation with a 13,800x reduction in cost and time compared to manual curation.",
+ "project": {
+  "name": "ClawEnvKit",
+  "family_slug": "claw",
+  "family_display": "ClawEnvKit",
+  "model_slug": "claw",
+  "model_display": "Claw",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ClawEnvKit",
+  "Claw",
+  "claw",
+  "llm",
+  "family:claw",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "claw"
+  ],
+  "versions": [
+   "claw"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/xirui-li/ClawEnvKit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:58:38Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a research tool for the 1,040-task Auto-ClawEval benchmark into a general-purpose toolkit supporting Model Context Protocol (MCP) and on-the-fly environment generation for agent debugging.",
+  "latest_version": "v1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "An autonomous toolkit for generating and validating environments for tool-using AI agents. It automates the creation of task specifications, tool interfaces, and continuous scoring configurations to enable scalable benchmarking."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:58:38Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

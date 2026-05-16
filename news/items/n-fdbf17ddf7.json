@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-fdbf17ddf7",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "LGTM: Less Gaussians, Texture More for 3D Reconstruction",
+ "summary": "A 3D reconstruction framework that utilizes compact textured Gaussian primitives to decouple geometric complexity from rendering resolution. It enables high-fidelity 4K feed-forward synthesis without the need for per-scene optimization.",
+ "research_notes": "A collaboration between The University of Hong Kong and Apple; notably the first method to achieve native 4K feed-forward Gaussian Splatting.",
+ "project": {
+  "name": "LGTM",
+  "family_slug": "lgtm",
+  "family_display": "LGTM",
+  "model_slug": "lgtm",
+  "model_display": "LGTM",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LGTM",
+  "lgtm",
+  "gaussian-splatting",
+  "family:lgtm",
+  "scene",
+  "paper"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "lgtm"
+  ],
+  "versions": [
+   "lgtm"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/apple/ml-lgtm",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:56:43Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://yxlao.github.io/lgtm/",
+   "host": "yxlao.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its initial publication, the official code and weights were released under Apple's machine learning repository in early 2026. It has since been adopted as a plug-and-play high-resolution rendering module for generalizable backbones like NoPoSplat and DepthSplat.",
+  "latest_version": "ICLR 2026 Release (Jan 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "A 3D reconstruction framework that utilizes compact textured Gaussian primitives to decouple geometric complexity from rendering resolution. It enables high-fidelity 4K feed-forward synthesis without the need for per-scene optimization."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:56:43Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

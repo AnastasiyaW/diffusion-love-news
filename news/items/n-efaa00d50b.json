@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-efaa00d50b",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenReview: AI-Powered Code Review Bot by Vercel Labs",
+ "summary": "An open-source, self-hosted AI code review assistant that provides on-demand pull request analysis and automated fixes. It uses Claude 3.5 Sonnet and Vercel Workflow to execute reviews in sandboxed environments, allowing it to run linters and tests.",
+ "research_notes": "Employs a progressive skill system to load specialized instructions for specific frameworks like Next.js only when relevant.",
+ "project": {
+  "name": "OpenReview",
+  "family_slug": "openreview",
+  "family_display": "OpenReview",
+  "model_slug": "openreview",
+  "model_display": "OpenReview",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenReview",
+  "openreview",
+  "llm",
+  "family:openreview",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "openreview"
+  ],
+  "versions": [
+   "openreview"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/vercel-labs/openreview",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:59:54Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from an internal Vercel tool to a public open-source project; currently utilizes Claude 3.5 Sonnet and Vercel Sandbox for high-fidelity code analysis and direct PR fixes.",
+  "latest_version": "Beta (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "An open-source, self-hosted AI code review assistant that provides on-demand pull request analysis and automated fixes. It uses Claude 3.5 Sonnet and Vercel Workflow to execute reviews in sandboxed environments, allowing it to run linters and tests."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:59:54Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

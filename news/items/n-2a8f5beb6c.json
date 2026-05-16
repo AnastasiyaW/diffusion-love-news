@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2a8f5beb6c",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenAI Codex CLI",
+ "summary": "A terminal-native agentic coding system that enables autonomous software engineering through local repository access, multimodal inputs, and multi-agent orchestration. It represents the 2025 evolution of the original Codex model, shifting from simple code completion to proactive, tool-supported task execution.",
+ "research_notes": "The ecosystem now includes 'Codex Security' for automated vulnerability patching and integrated support across VS Code, Cursor, and Xcode.",
+ "project": {
+  "name": "Codex",
+  "family_slug": "codex",
+  "family_display": "Codex",
+  "model_slug": "codex",
+  "model_display": "Codex",
+  "version": null,
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Codex",
+  "codex",
+  "llm",
+  "family:codex",
+  "paid"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "codex"
+  ],
+  "versions": [
+   "codex"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/openai/codex",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-15T00:28:51Z"
+  },
+  {
+   "kind": "vendor-page",
+   "url": "https://openai.com/index/codex-for-almost-everything/",
+   "host": "openai.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "After being deprecated in 2023, Codex was rebooted in April 2025 as a CLI-centric platform. It transitioned to a Rust-based architecture with support for the Model Context Protocol (MCP) and is currently powered by the GPT-5 model series, featuring native computer-use capabilities.",
+  "latest_version": "GPT-5.5 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "A terminal-native agentic coding system that enables autonomous software engineering through local repository access, multimodal inputs, and multi-agent orchestration. It represents the 2025 evolution of the original Codex model, shifting from simple code completion to proactive, tool-supported task execution."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:28:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

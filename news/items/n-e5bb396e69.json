@@ -1,0 +1,119 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e5bb396e69",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "FLUX.2 [klein] Move: Interactive Object Relocation LoRA",
+ "summary": "A specialized LoRA for the FLUX.2 [klein] 9B model that enables precise interactive object movement within generated scenes. It preserves character identity and texture consistency during spatial editing using bounding-box or drag-and-drop workflows.",
+ "research_notes": "Optimal inference strength is 0.65–0.75; identity preservation is centered in double blocks 6-7 of the Klein architecture.",
+ "project": {
+  "name": "FLUX.2 [klein] Move",
+  "family_slug": "flux",
+  "family_display": "FLUX.2 [klein] Move",
+  "model_slug": "flux-2",
+  "model_display": "FLUX.2",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "flux-2"
+  }
+ },
+ "tags": [
+  "FLUX.2 [klein] Move",
+  "FLUX.2",
+  "flux",
+  "flux-2",
+  "diffusion-image",
+  "family:flux",
+  "model:flux-2",
+  "adaptation:lora",
+  "lora-for:flux-2",
+  "lora",
+  "edit",
+  "huggingface",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "flux"
+  ],
+  "versions": [
+   "flux"
+  ],
+  "features": [
+   "lora",
+   "edit"
+  ],
+  "formats": [
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "flux-2"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/linoyts/FLUX.2-klein-Move",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/linoyts/flux2-klein-lora-v3",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:43:36Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project has progressed from v3 to v11, adding specialized models for bounding-box drag-and-drop editing. These updates improve identity locking by targeting specific architectural blocks and integration into interactive Hugging Face Spaces.",
+  "latest_version": "FLUX.2 [klein] v11 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "A specialized LoRA for the FLUX.2 [klein] 9B model that enables precise interactive object movement within generated scenes. It preserves character identity and texture consistency during spatial editing using bounding-box or drag-and-drop workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:43:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

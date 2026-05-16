@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-019c913613",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.6-27B-3bit-mlx",
+ "summary": "A high-performance 3-bit MLX quantization of the Qwen3.6-27B model, specifically optimized for Apple Silicon users. It employs a mixed-precision strategy to balance speed and intelligence, making large-scale reasoning viable on 16GB RAM hardware.",
+ "research_notes": "Requires enabling 'preserve_thinking' in chat templates; utilizes 5-bit precision for critical layers (embedding/prediction) to maintain semantic quality.",
+ "project": {
+  "name": "Qwen3.6-27B",
+  "family_slug": "qwen",
+  "family_display": "Qwen3.6-27B",
+  "model_slug": "qwen3-6-27b",
+  "model_display": "Qwen3.6-27B",
+  "version": "27B",
+  "released": "2026-05-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-27B",
+  "qwen",
+  "qwen3-6-27b",
+  "llm",
+  "family:qwen",
+  "model:qwen3-6-27b",
+  "character",
+  "huggingface",
+  "qwen-27b",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen-27b"
+  ],
+  "features": [
+   "character"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "qwen3-6-27b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/leonsarmiento/Qwen3.6-27B-3bit-mlx",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:34:40Z"
+  }
+ ],
+ "evolution": {
+  "summary": "This version follows the official Qwen3.6 launch and introduces a 'Thinking' mode for complex reasoning. It significantly optimized inference speeds on Macs, reportedly performing twice as fast as early community 3-bit ports.",
+  "latest_version": "Qwen3.6 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-09",
+  "excerpt": "A high-performance 3-bit MLX quantization of the Qwen3.6-27B model, specifically optimized for Apple Silicon users. It employs a mixed-precision strategy to balance speed and intelligence, making large-scale reasoning viable on 16GB RAM hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:34:40Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

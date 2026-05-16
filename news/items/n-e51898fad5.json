@@ -1,0 +1,143 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e51898fad5",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "GLM-5.1: Autonomous Engineering Agent by Z.ai",
+ "summary": "A 754B parameter sparse MoE model optimized for long-horizon autonomous coding and engineering tasks. It is designed to sustain coherent performance over 8-hour engineering shifts and thousands of tool calls.",
+ "research_notes": "Features a 200K context window and 128K output limit; compatible with popular agentic frameworks like Claude Code and Cline.",
+ "project": {
+  "name": "GLM-5.1",
+  "family_slug": "glm",
+  "family_display": "GLM-5.1",
+  "model_slug": "glm-5-1",
+  "model_display": "GLM-5.1",
+  "version": "5.1",
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GLM-5.1",
+  "glm",
+  "glm-5-1",
+  "llm",
+  "family:glm",
+  "model:glm-5-1",
+  "github",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "glm"
+  ],
+  "versions": [
+   "glm-5-1"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "glm-5-1"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/THUDM/GLM-5",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:21:37Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://z.ai/blog/glm-5.1",
+   "host": "z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://arena.ai/code/direct",
+   "host": "arena.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/zai-org/GLM-5.1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://chat.z.ai/",
+   "host": "chat.z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://docs.z.ai/guides/llm/glm-5.1",
+   "host": "docs.z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Successor to GLM-5 and GLM-4.7, shifting focus from code generation to autonomous engineering. It introduced 'interleaved thinking' for complex reasoning and achieved top ranks on SWE-Bench Pro, surpassing several frontier closed-source models.",
+  "latest_version": "GLM-5.1 (Early 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A 754B parameter sparse MoE model optimized for long-horizon autonomous coding and engineering tasks. It is designed to sustain coherent performance over 8-hour engineering shifts and thousands of tool calls."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:21:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

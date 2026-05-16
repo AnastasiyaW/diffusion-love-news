@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a549ac3575",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Lyra 2.0: Explorable Generative 3D Worlds",
+ "summary": "Developed by NVIDIA's Spatial Intelligence Lab, Lyra 2.0 generates persistent and explorable 3D environments from a single image. It utilizes a per-frame 3D geometry memory to maintain spatial consistency during long-horizon navigation.",
+ "research_notes": "Integrates with NVIDIA Isaac Sim for embodied AI training; includes an interactive GUI for camera path planning and real-time world exploration.",
+ "project": {
+  "name": "Lyra 2.0",
+  "family_slug": "lyra",
+  "family_display": "Lyra",
+  "model_slug": "lyra-2-0",
+  "model_display": "Lyra 2.0",
+  "version": "2.0",
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Lyra 2.0",
+  "Lyra",
+  "lyra",
+  "lyra-2-0",
+  "3d",
+  "family:lyra",
+  "model:lyra-2-0",
+  "image-to-video",
+  "scene",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "lyra"
+  ],
+  "versions": [
+   "lyra-2-0"
+  ],
+  "features": [
+   "image-to-video",
+   "scene"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "lyra-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://research.nvidia.com/labs/sil/projects/lyra2/",
+   "host": "research.nvidia.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/nv-tlabs/lyra",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:38:13Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Lyra-2.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Succeeds the original Lyra model, evolving from feed-forward reconstruction to a retrieve-generate-update loop for continuous world generation. It introduces self-augmented training to prevent temporal drift and supports high-fidelity 3D Gaussian Splatting exports.",
+  "latest_version": "Lyra 2.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "Developed by NVIDIA's Spatial Intelligence Lab, Lyra 2.0 generates persistent and explorable 3D environments from a single image. It utilizes a per-frame 3D geometry memory to maintain spatial consistency during long-horizon navigation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:38:13Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

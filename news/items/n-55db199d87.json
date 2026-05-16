@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-55db199d87",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "FlowInOne: Unified Vision-Centric Multimodal Image Generation and Editing",
+ "summary": "FlowInOne is a framework that unifies multimodal tasks like image generation and complex editing into a single continuous visual flow. It utilizes a Flow Matching architecture to treat text, layouts, and instructions as image-based visual prompts.",
+ "research_notes": "The framework currently supports 256x256 resolution and was developed by researchers from CSU, NUS, Microsoft, and Tencent.",
+ "project": {
+  "name": "FlowInOne",
+  "family_slug": "flowinone",
+  "family_display": "FlowInOne",
+  "model_slug": "flowinone",
+  "model_display": "FlowInOne",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FlowInOne",
+  "flowinone",
+  "diffusion-image",
+  "family:flowinone",
+  "image-to-image",
+  "edit",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "flowinone"
+  ],
+  "versions": [
+   "flowinone"
+  ],
+  "features": [
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://csu-jpg.github.io/FlowInOne.github.io/",
+   "host": "csu-jpg.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/CSU-JPG/FlowInOne",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:47:12Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CSU-JPG/FlowInOne",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project launched in April 2026 with the VisPrompt-5M dataset and VP-Bench for evaluating visual instruction following. It establishes a vision-centric 'Image-In, Image-Out' paradigm that eliminates separate task-specific architectural branches.",
+  "latest_version": "FlowInOne v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "FlowInOne is a framework that unifies multimodal tasks like image generation and complex editing into a single continuous visual flow. It utilizes a Flow Matching architecture to treat text, layouts, and instructions as image-based visual prompts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:47:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

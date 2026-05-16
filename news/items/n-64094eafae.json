@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-64094eafae",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation",
+ "summary": "A unified discrete diffusion large language model that natively performs both image understanding and high-fidelity generation. It utilizes a 16B Mixture-of-Experts backbone to handle interleaved multimodal reasoning without external generation modules.",
+ "research_notes": "Developed by Inclusion AI (Ant Group); uses a unique SigLIP-VQ tokenizer and a diffusion-based 'Thinking Mode' for spatial reasoning.",
+ "project": {
+  "name": "LLaDA2.0-Uni",
+  "family_slug": "llada",
+  "family_display": "LLaDA2.0-Uni",
+  "model_slug": "llada2-0",
+  "model_display": "LLaDA2.0",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LLaDA2.0-Uni",
+  "LLaDA2.0",
+  "llada",
+  "llada2-0",
+  "vlm",
+  "family:llada",
+  "model:llada2-0",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "llada"
+  ],
+  "versions": [
+   "llada"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "llada2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/inclusionAI/LLaDA2.0-Uni",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:21:48Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the text-only LLaDA 1.0 and LLaDA 2.0-Flash; added ComfyUI support on May 12, 2026. An FP8 quantized version was released in May 2026 to optimize VRAM usage for consumer GPUs.",
+  "latest_version": "LLaDA2.0-Uni (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "A unified discrete diffusion large language model that natively performs both image understanding and high-fidelity generation. It utilizes a 16B Mixture-of-Experts backbone to handle interleaved multimodal reasoning without external generation modules."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:21:48Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

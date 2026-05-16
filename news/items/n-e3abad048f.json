@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e3abad048f",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "NUMINA: Numerical Alignment for Video Diffusion",
+ "summary": "A training-free framework that improves object counting accuracy in text-to-video diffusion models. It identifies specific attention heads to create countable latent layouts, ensuring the generated video matches the exact number of instances specified in the prompt.",
+ "research_notes": "Developed by the H-EmbodVis group at Huazhong University of Science and Technology; it provides a significant boost in numerical accuracy without requiring model retraining.",
+ "project": {
+  "name": "NUMINA",
+  "family_slug": "numina",
+  "family_display": "NUMINA",
+  "model_slug": "numina",
+  "model_display": "NUMINA",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NUMINA",
+  "numina",
+  "diffusion-video",
+  "family:numina",
+  "consistency",
+  "github",
+  "paper",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "numina"
+  ],
+  "versions": [
+   "numina"
+  ],
+  "features": [
+   "consistency"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://h-embodvis.github.io/NUMINA/",
+   "host": "h-embodvis.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/H-EmbodVis/NUMINA",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:51:37Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released as a trending research framework on ArXiv (ID: 2604.08546) in April 2026; currently being integrated as a plug-and-play module for models like OpenSora and Wan2.1.",
+  "latest_version": "Initial Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "A training-free framework that improves object counting accuracy in text-to-video diffusion models. It identifies specific attention heads to create countable latent layouts, ensuring the generated video matches the exact number of instances specified in the prompt."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:51:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

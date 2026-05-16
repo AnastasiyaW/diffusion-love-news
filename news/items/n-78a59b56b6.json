@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-78a59b56b6",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "PersonaVLM: Personalized Multimodal Large Language Models",
+ "summary": "A framework for long-term personalization of Multimodal Large Language Models using a Momentum-based Personality Evolving Mechanism. It enables AI assistants to proactively learn user traits and maintain consistency across multi-turn interactions.",
+ "research_notes": "Collaborative project between Nanjing University (MiG-NJU) and ByteDance; utilizes a multi-tier memory architecture including episodic and procedural memory.",
+ "project": {
+  "name": "PersonaVLM",
+  "family_slug": "personavlm",
+  "family_display": "PersonaVLM",
+  "model_slug": "personavlm",
+  "model_display": "PersonaVLM",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PersonaVLM",
+  "personavlm",
+  "vlm",
+  "family:personavlm",
+  "fine-tuning",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "personavlm"
+  ],
+  "versions": [
+   "personavlm"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://personavlm.github.io/",
+   "host": "personavlm.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/MiG-NJU/PersonaVLM",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:50:34Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ClareNie/PersonaVLM",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:ClareNie/PersonaVLM",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Recognized as a CVPR 2026 Highlight Paper; introduced the Persona-MME benchmark with 14 specialized tasks and demonstrated superior performance over GPT-4o in long-term memory scenarios.",
+  "latest_version": "PersonaVLM (CVPR 2026 Highlight)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "A framework for long-term personalization of Multimodal Large Language Models using a Momentum-based Personality Evolving Mechanism. It enables AI assistants to proactively learn user traits and maintain consistency across multi-turn interactions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:50:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

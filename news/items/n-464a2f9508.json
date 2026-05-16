@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-464a2f9508",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Large Performance Model LPM 1.0 Interactive Video",
+ "summary": "A 17-billion parameter Diffusion Transformer designed for real-time interactive digital character performance with full-duplex capabilities. It enables low-latency, expressive micro-expressions and stable identity preservation during long-form conversational sessions.",
+ "research_notes": "Developed by Anuttacon, an AI startup founded by miHoYo co-founder Cai Haoyu. The project introduced LPM-Bench to measure character acting quality.",
+ "project": {
+  "name": "LPM 1.0",
+  "family_slug": "lpm",
+  "family_display": "LPM",
+  "model_slug": "lpm-1-0",
+  "model_display": "LPM 1.0",
+  "version": "1.0",
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LPM 1.0",
+  "LPM",
+  "lpm",
+  "lpm-1-0",
+  "animation-motion",
+  "family:lpm",
+  "model:lpm-1-0",
+  "character",
+  "lip-sync",
+  "realtime",
+  "face"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "lpm"
+  ],
+  "versions": [
+   "lpm-1-0"
+  ],
+  "features": [
+   "character",
+   "lip-sync",
+   "realtime",
+   "face"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "lpm-1-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://large-performance-model.github.io/",
+   "host": "large-performance-model.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:25:16Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Introduced by Anuttacon in early 2026, LPM 1.0 established new benchmarks for 'performance' by solving the trilemma of expressiveness, real-time speed, and stability. It remains a research project focused on digital human interaction without public access to model weights as of May 2026.",
+  "latest_version": "LPM 1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A 17-billion parameter Diffusion Transformer designed for real-time interactive digital character performance with full-duplex capabilities. It enables low-latency, expressive micro-expressions and stable identity preservation during long-form conversational sessions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:25:16Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

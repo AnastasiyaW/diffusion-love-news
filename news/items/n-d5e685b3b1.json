@@ -1,0 +1,132 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d5e685b3b1",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Gemini 3.1 Flash TTS High-Precision Speech Control",
+ "summary": "An advanced text-to-speech model from Google that enables 'directed performance' through natural language prompts and inline emotion tags. It supports high-fidelity, low-latency audio generation with native multi-speaker dialogue capabilities for interactive applications.",
+ "research_notes": "Integrates SynthID for content tracing and features over 200 tags for fine-grained emotional and rhythmic control.",
+ "project": {
+  "name": "Gemini 3.1 Flash TTS",
+  "family_slug": "gemini",
+  "family_display": "Gemini 3.1 Flash TTS",
+  "model_slug": "gemini-3-1",
+  "model_display": "Gemini 3.1",
+  "version": null,
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemini 3.1 Flash TTS",
+  "Gemini 3.1",
+  "gemini",
+  "gemini-3-1",
+  "audio-music",
+  "family:gemini",
+  "model:gemini-3-1",
+  "voice-clone",
+  "closed"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "gemini"
+  ],
+  "versions": [
+   "gemini"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "gemini-3-1"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://aistudio.google.com/",
+   "host": "aistudio.google.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:39:05Z"
+  },
+  {
+   "kind": "blog",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+   "host": "blog.google",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "vendor-page",
+   "url": "http://aistudio.google.com/generate-speech",
+   "host": "aistudio.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://console.cloud.google.com/vertex-ai/studio/media/speech",
+   "host": "console.cloud.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://docs.google.com/videos/create?usp=blog",
+   "host": "docs.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the 1.5 series into a performance-driven architecture that ignores traditional SSML in favor of intuitive scene-based descriptions. It marks a shift towards contextual vocal mastery and enterprise-grade scalability.",
+  "latest_version": "Gemini 3.1 Flash TTS (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "An advanced text-to-speech model from Google that enables 'directed performance' through natural language prompts and inline emotion tags. It supports high-fidelity, low-latency audio generation with native multi-speaker dialogue capabilities for interactive applications."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:39:05Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

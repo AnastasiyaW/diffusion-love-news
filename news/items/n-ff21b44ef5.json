@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ff21b44ef5",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Open Design: Local-First Open Source AI Design Engine",
+ "summary": "Open Design is a local-first design artifact generator that integrates with multiple coding-agent CLIs to provide an open-source alternative to Claude Design. It uses a skill-based architecture and supports offline generation by scanning the user's system for available AI agents.",
+ "research_notes": "Dual-licensed under Apache-2.0 and MIT. It follows a 'Bring Your Own Key' model and features a unique 'Skills are files' system for extending agent capabilities via Markdown.",
+ "project": {
+  "name": "Open Design",
+  "family_slug": "open-design",
+  "family_display": "Open Design",
+  "model_slug": "open-design",
+  "model_display": "Open Design",
+  "version": null,
+  "released": "2026-05-05",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Open Design",
+  "open-design",
+  "llm",
+  "family:open-design",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "open-design"
+  ],
+  "versions": [
+   "open-design"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/nexu-io/open-design",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:39:06Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Since its launch, the project has evolved from basic agent adapters to a sophisticated platform featuring cross-session memory and the 'Critique Theater' replay system. Major updates added support for a wide range of agents including Devin, DeepSeek, and Mistral, along with a visual gallery for artifact management.",
+  "latest_version": "v0.7.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-05",
+  "excerpt": "Open Design is a local-first design artifact generator that integrates with multiple coding-agent CLIs to provide an open-source alternative to Claude Design. It uses a skill-based architecture and supports offline generation by scanning the user's system for available AI agents."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:39:06Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bb60458b02",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "FLUX.2-klein-9B-Nunchaku",
+ "summary": "A 4-bit quantized version of Black Forest Labs' FLUX.2 [klein] model optimized for low-latency image generation. It leverages the Nunchaku SVDQuant engine to achieve sub-second inference speeds on consumer hardware.",
+ "research_notes": "Reduces peak VRAM requirements from 18.5GB to approximately 6.4GB, enabling the 9B parameter model to run on mid-range GPUs like the RTX 3060.",
+ "project": {
+  "name": "FLUX.2-klein-9B-Nunchaku",
+  "family_slug": "flux",
+  "family_display": "FLUX.2-klein-9B-Nunchaku",
+  "model_slug": "flux-2",
+  "model_display": "FLUX.2",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FLUX.2-klein-9B-Nunchaku",
+  "FLUX.2",
+  "flux",
+  "flux-2",
+  "diffusion-image",
+  "family:flux",
+  "model:flux-2",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "flux"
+  ],
+  "versions": [
+   "flux"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "flux-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tonera/FLUX.2-klein-9B-Nunchaku",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:37:21Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the Jan 2026 FLUX.2 [klein] release into a highly optimized production tool through the integration of the Nunchaku acceleration engine. A specialized KV-cache variant was subsequently released in April 2026 to speed up multi-reference editing.",
+  "latest_version": "FLUX.2-klein-9B-Nunchaku (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A 4-bit quantized version of Black Forest Labs' FLUX.2 [klein] model optimized for low-latency image generation. It leverages the Nunchaku SVDQuant engine to achieve sub-second inference speeds on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:37:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

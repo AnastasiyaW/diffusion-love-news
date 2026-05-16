@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c2a141200b",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ConnectTheDots: Sidebar Node Connection Tool for ComfyUI",
+ "summary": "A productivity extension for ComfyUI that introduces a sidebar interface for connecting nodes without dragging wires across the canvas. It features a search-based connection system, requires no external dependencies, and maintains full compatibility with standard workflow JSON formats.",
+ "research_notes": "Implemented in pure JavaScript/TypeScript for high performance; avoids the 'doom scroll' problem in massive ComfyUI workflows.",
+ "project": {
+  "name": "ComfyUI-ConnectTheDots",
+  "family_slug": "connect-the-dots",
+  "family_display": "ComfyUI-ConnectTheDots",
+  "model_slug": "connectthedots",
+  "model_display": "ConnectTheDots",
+  "version": null,
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-ConnectTheDots",
+  "ConnectTheDots",
+  "connect-the-dots",
+  "connectthedots",
+  "tools-frontend",
+  "family:connect-the-dots",
+  "model:connectthedots",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "connect-the-dots"
+  ],
+  "versions": [
+   "connect-the-dots"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "connectthedots"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jtreminio/ComfyUI-ConnectTheDots",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:48:26Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from an experimental utility to a stable full release in April 2026. Major updates introduced 'Lasers' visual highlighting for active connections and an automatic canvas jump feature for quick node verification.",
+  "latest_version": "Full Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "A productivity extension for ComfyUI that introduces a sidebar interface for connecting nodes without dragging wires across the canvas. It features a search-based connection system, requires no external dependencies, and maintains full compatibility with standard workflow JSON formats."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:48:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

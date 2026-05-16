@@ -1,0 +1,129 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d7b1c6bb36",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "VoxCPM2 — 2B Tokenizer-Free Multilingual TTS and Voice Cloning",
+ "summary": "An open-source, 2-billion parameter speech synthesis model utilizing a tokenizer-free diffusion autoregressive architecture. It enables high-fidelity zero-shot voice cloning, stylistic control via text, and generating new voices from natural language descriptions.",
+ "research_notes": "Licensed under Apache-2.0; supports 30 languages and 9 Chinese dialects with real-time performance on consumer GPUs.",
+ "project": {
+  "name": "VoxCPM2",
+  "family_slug": "voxcpm",
+  "family_display": "VoxCPM2",
+  "model_slug": "voxcpm2",
+  "model_display": "VoxCPM2",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "VoxCPM2",
+  "voxcpm",
+  "voxcpm2",
+  "audio-music",
+  "family:voxcpm",
+  "model:voxcpm2",
+  "voice-clone",
+  "realtime",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "voxcpm"
+  ],
+  "versions": [
+   "voxcpm"
+  ],
+  "features": [
+   "voice-clone",
+   "realtime"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "voxcpm2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenBMB/VoxCPM/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:39:55Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/openbmb/VoxCPM2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://modelscope.cn/models/OpenBMB/VoxCPM2",
+   "host": "modelscope.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/openbmb/VoxCPM-Demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released as a major successor to VoxCPM 1.5, moving to a continuous-representation pipeline that produces studio-quality 48kHz audio. It introduced 'Voice Design' for creating voices from text descriptions and significantly improved speaker similarity scores over commercial competitors.",
+  "latest_version": "VoxCPM2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "An open-source, 2-billion parameter speech synthesis model utilizing a tokenizer-free diffusion autoregressive architecture. It enables high-fidelity zero-shot voice cloning, stylistic control via text, and generating new voices from natural language descriptions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:39:55Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

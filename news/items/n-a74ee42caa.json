@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a74ee42caa",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "FlowAnchor: Inversion-Free Stable Video Editing",
+ "summary": "FlowAnchor is a training-free and inversion-free video editing framework designed for high-quality video-to-video transformations. It utilizes spatial-aware attention refinement and adaptive magnitude modulation to ensure temporal consistency and precise editing signals.",
+ "research_notes": "The framework specifically targets challenges in multi-object and fast-motion scenarios where traditional inversion-based methods often fail or lack efficiency.",
+ "project": {
+  "name": "FlowAnchor",
+  "family_slug": "flowanchor",
+  "family_display": "FlowAnchor",
+  "model_slug": "flowanchor",
+  "model_display": "FlowAnchor",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FlowAnchor",
+  "flowanchor",
+  "diffusion-video",
+  "family:flowanchor",
+  "edit",
+  "video-to-video",
+  "consistency",
+  "github"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "flowanchor"
+  ],
+  "versions": [
+   "flowanchor"
+  ],
+  "features": [
+   "edit",
+   "video-to-video",
+   "consistency"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://cuc-mipg.github.io/FlowAnchor.github.io/",
+   "host": "cuc-mipg.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/CUC-MIPG/FlowAnchor",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:44:02Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially released in April 2026; established as a state-of-the-art training-free method that improves upon the Wan-Edit baseline by solving signal bleeding and fading issues. It follows previous research by CUC-MIPG including Edit-Transfer and IC-Effect.",
+  "latest_version": "FlowAnchor v1 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "FlowAnchor is a training-free and inversion-free video editing framework designed for high-quality video-to-video transformations. It utilizes spatial-aware attention refinement and adaptive magnitude modulation to ensure temporal consistency and precise editing signals."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:44:02Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

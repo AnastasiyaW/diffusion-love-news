@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-73e5608506",
+ "entry_type": "paper",
+ "category": "papers-theory",
+ "lang": "en",
+ "title": "Memory Transfer Learning (MTL) for AI Coding Agents",
+ "summary": "A framework from KAIST that enables AI coding agents to transfer knowledge across heterogeneous domains. It improves performance by extracting high-level strategic insights from task trajectories rather than reusing low-level traces.",
+ "research_notes": "Developed by KAIST AI in collaboration with NYU and DeepAuto.ai; demonstrates a 3.7% performance boost across multiple coding benchmarks.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Memory Transfer Learning",
+  "Memory Transfer",
+  "memory-transfer",
+  "papers-theory",
+  "family:memory-transfer",
+  "paper"
+ ],
+ "facets": {
+  "category": "papers-theory",
+  "entry_type": "paper",
+  "projects": [],
+  "versions": [],
+  "features": [],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://memorytransfer.github.io/",
+   "host": "memorytransfer.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:18:37Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KangsanKim07/MemoryTransferLearning",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project was officially published on arXiv (2604.14004) in April 2026. It represents a shift from single-domain self-evolution to unified cross-domain memory pools, validated on next-gen models like GPT-5-mini and Qwen3-Coder.",
+  "latest_version": "Memory Transfer Learning v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "A framework from KAIST that enables AI coding agents to transfer knowledge across heterogeneous domains. It improves performance by extracting high-level strategic insights from task trajectories rather than reusing low-level traces."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:18:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

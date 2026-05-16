@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ee38e77991",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "PhysForge: Physically Grounded Interactive 3D Asset Generation",
+ "summary": "PhysForge is a research framework for generating simulation-ready 3D assets with functional parts and kinematic constraints. It utilizes Vision-Language Models for blueprinting and a specialized diffusion mechanism to synthesize physically consistent geometry and interactive logic.",
+ "research_notes": "Collaboration between HKU and Tencent Hunyuan; specifically designed for robotic manipulation and embodied AI simulators.",
+ "project": {
+  "name": "PhysForge",
+  "family_slug": "physforge",
+  "family_display": "PhysForge",
+  "model_slug": "physforge",
+  "model_display": "PhysForge",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PhysForge",
+  "physforge",
+  "3d",
+  "family:physforge",
+  "scene",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "physforge"
+  ],
+  "versions": [
+   "physforge"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://hku-mmlab.github.io/PhysForge/",
+   "host": "hku-mmlab.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/HKU-MMLab/PhysForge",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:47:57Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Accepted to ICML 2026. The project is currently transitioning to open-source with the release of the PhysDB dataset containing 150,000 physically annotated assets.",
+  "latest_version": "ICML 2026 Release (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "PhysForge is a research framework for generating simulation-ready 3D assets with functional parts and kinematic constraints. It utilizes Vision-Language Models for blueprinting and a specialized diffusion mechanism to synthesize physically consistent geometry and interactive logic."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:47:57Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f735b8e846",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "SVGS: Spatially Varying Gaussian Splatting for Scene Reconstruction",
+ "summary": "Introduces Gaussian primitives with spatially varying colors and opacity to enhance 3D reconstruction and novel view synthesis. The method employs functions such as bilinear interpolation and tiny neural networks to make individual primitives more expressive and compact.",
+ "research_notes": "The project is built upon 2D Gaussian Surfels and significantly improves the handling of fine details compared to standard 3D Gaussian Splatting.",
+ "project": {
+  "name": "SVGS",
+  "family_slug": "svgs",
+  "family_display": "SVGS",
+  "model_slug": "svgs",
+  "model_display": "SVGS",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SVGS",
+  "svgs",
+  "gaussian-splatting",
+  "family:svgs",
+  "scene",
+  "paper",
+  "github"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "svgs"
+  ],
+  "versions": [
+   "svgs"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://ruixu.me/html/SuperGaussians/index.html",
+   "host": "ruixu.me",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Xrvitd/SVGS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:14:19Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following the original release in November 2024, the concept of spatially varying Gaussians has been extended to inverse rendering with the SVG-IR project, which was accepted to CVPR 2025. The core SVGS implementation remains the foundational work for expressive Gaussian primitives.",
+  "latest_version": "SVGS (Nov 2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "Introduces Gaussian primitives with spatially varying colors and opacity to enhance 3D reconstruction and novel view synthesis. The method employs functions such as bilinear interpolation and tiny neural networks to make individual primitives more expressive and compact."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:14:19Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

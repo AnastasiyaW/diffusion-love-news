@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-da24004da2",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "PSDesigner: Automated Graphic Design with Human-Like Workflow",
+ "summary": "An automated graphic design system that emulates human creative processes through asset collection, graphic planning, and iterative refinement. It generates professional, layered design files by manipulating PSD layers rather than producing flat images.",
+ "research_notes": "Introduced the CreativePSD dataset to enable models to learn expert design procedures; developed by the FudanCVL research group.",
+ "project": {
+  "name": "PSDesigner",
+  "family_slug": "psdesigner",
+  "family_display": "PSDesigner",
+  "model_slug": "psdesigner",
+  "model_display": "PSDesigner",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PSDesigner",
+  "psdesigner",
+  "llm",
+  "family:psdesigner",
+  "github",
+  "paper",
+  "china"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "psdesigner"
+  ],
+  "versions": [
+   "psdesigner"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://henghuiding.com/PSDesigner/",
+   "host": "henghuiding.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FudanCVL/PSDesigner",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:55:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project introduced CreativePSD, the first large-scale Photoshop-based dataset with operation traces. It moved beyond black-box generation to a modular architecture (AssetCollector, GraphicPlanner, ToolExecutor) and was accepted to CVPR 2026.",
+  "latest_version": "CVPR 2026 Release",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "An automated graphic design system that emulates human creative processes through asset collection, graphic planning, and iterative refinement. It generates professional, layered design files by manipulating PSD layers rather than producing flat images."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:55:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0739891476",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "JoyAI-Image: Official ComfyUI Nodes and Spatial Editing Model",
+ "summary": "A multimodal foundation model from JD.com that combines an 8B understanding model with a 16B MMDiT for precise image editing. It specializes in spatial reasoning tasks such as object rotation, camera perspective control, and high-fidelity content modification.",
+ "research_notes": "The architecture uses a closed-loop system where the understanding model informs the generation process to reduce hallucinations during complex spatial transformations.",
+ "project": {
+  "name": "JoyAI-Image",
+  "family_slug": "joyai",
+  "family_display": "JoyAI-Image",
+  "model_slug": "joyai",
+  "model_display": "JoyAI",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "JoyAI-Image",
+  "JoyAI",
+  "joyai",
+  "tools-frontend",
+  "family:joyai",
+  "edit",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "joyai"
+  ],
+  "versions": [
+   "joyai"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jd-opensource/JoyAI-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:02:01Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/jd-opensource/JoyAI-Image/tree/main/joyai_image_comfyui",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its April 2026 release, the project quickly added official ComfyUI support and achieved a milestone in May 2026 with full integration into the Hugging Face Diffusers library. Community contributors have since released GGUF and FP8 quantized versions to make the 30GB+ model accessible on consumer GPUs.",
+  "latest_version": "JoyAI-Image-Edit (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "A multimodal foundation model from JD.com that combines an 8B understanding model with a 16B MMDiT for precise image editing. It specializes in spatial reasoning tasks such as object rotation, camera perspective control, and high-fidelity content modification."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:02:01Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

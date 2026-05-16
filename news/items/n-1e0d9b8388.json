@@ -1,0 +1,130 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1e0d9b8388",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "HY-World 2.0: Tencent's Multi-Modal World Model",
+ "summary": "An open-source multi-modal framework for reconstructing and generating interactive 3D environments from text, images, or video. It produces production-ready 3D assets like Meshes and Gaussian Splatting compatible with major game engines.",
+ "research_notes": "Features a modular pipeline including HY-Pano 2.0 for panoramas, WorldNav for trajectory planning, and WorldLens for interactive 3DGS rendering.",
+ "project": {
+  "name": "HY-World 2.0",
+  "family_slug": "hy-world",
+  "family_display": "HY-World",
+  "model_slug": "hy-world-2-0",
+  "model_display": "HY-World 2.0",
+  "version": "2.0",
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HY-World 2.0",
+  "HY-World",
+  "hy-world",
+  "hy-world-2-0",
+  "3d",
+  "family:hy-world",
+  "model:hy-world-2-0",
+  "realtime",
+  "scene",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "hy-world"
+  ],
+  "versions": [
+   "hy-world-2-0"
+  ],
+  "features": [
+   "realtime",
+   "scene"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "hy-world-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/FuchengSu/WorldStereo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:37:33Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/HY-World-2.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://3d.hunyuan.tencent.com/sceneTo3D",
+   "host": "3d.hunyuan.tencent.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from v1.0 (offline 3D scenes) and v1.5 (real-time interactive video) to a unified 3D reconstruction/generation system. The 2.0 update introduced editable 3D assets and direct integration with Unreal Engine, Unity, and Isaac Sim.",
+  "latest_version": "HY-World 2.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "An open-source multi-modal framework for reconstructing and generating interactive 3D environments from text, images, or video. It produces production-ready 3D assets like Meshes and Gaussian Splatting compatible with major game engines."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:37:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

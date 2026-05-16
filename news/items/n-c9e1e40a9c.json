@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c9e1e40a9c",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Unify-Agent: Open-Book Agentic Image Synthesis",
+ "summary": "An end-to-end multimodal agentic framework that solves the 'closed-book' problem in image generation by performing real-time web research. It utilizes a Think-Research-Recaption-Generate pipeline to ground visual synthesis in factual external evidence, significantly reducing hallucinations for rare or long-tail concepts.",
+ "research_notes": "Introduced the FactIP benchmark for evaluating factual fidelity in multimodal models; developed in collaboration between Tencent Hunyuan and UCLA researchers.",
+ "project": {
+  "name": "Unify-Agent",
+  "family_slug": "unify-agent",
+  "family_display": "Unify-Agent",
+  "model_slug": "unify-agent",
+  "model_display": "Unify-Agent",
+  "version": null,
+  "released": "2026-04-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unify-Agent",
+  "unify-agent",
+  "diffusion-image",
+  "family:unify-agent",
+  "text-to-image",
+  "github",
+  "paper",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "unify-agent"
+  ],
+  "versions": [
+   "unify-agent"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/shawn0728/Unify-Agent",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:50:44Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a static diffusion-based model into a fully autonomous agentic system in early 2026. It now features an optimized pipeline that autonomously identifies knowledge gaps in prompts and acquires real-world visual evidence via web-search grounding before synthesis.",
+  "latest_version": "Unify-Agent (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-04",
+  "excerpt": "An end-to-end multimodal agentic framework that solves the 'closed-book' problem in image generation by performing real-time web research. It utilizes a Think-Research-Recaption-Generate pipeline to ground visual synthesis in factual external evidence, significantly reducing hallucinations for rare or long-tail concepts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:50:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

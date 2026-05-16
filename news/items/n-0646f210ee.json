@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0646f210ee",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "MS Paint Style DALL-E Prompt for Photo Stylization",
+ "summary": "A viral prompting technique for ChatGPT and DALL-E that transforms high-quality uploaded photos into crude, low-fidelity drawings mimicking the classic MS Paint aesthetic.",
+ "research_notes": "The trend was popularized by Korean users on Threads in early 2026; it is often called 'The Most Trivial Prompt in the World' for using massive compute to generate 8-bit-style art.",
+ "project": {
+  "name": "ChatGPT",
+  "family_slug": "dalle",
+  "family_display": "ChatGPT",
+  "model_slug": "chatgpt",
+  "model_display": "ChatGPT",
+  "version": null,
+  "released": "2026-05-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ChatGPT",
+  "dalle",
+  "chatgpt",
+  "diffusion-image",
+  "family:dalle",
+  "model:chatgpt",
+  "edit",
+  "image-to-image"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "dalle"
+  ],
+  "versions": [
+   "dalle"
+  ],
+  "features": [
+   "edit",
+   "image-to-image"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [
+   "dalle"
+  ],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "chatgpt"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://chatgpt.com/",
+   "host": "chatgpt.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:23:36Z"
+  }
+ ],
+ "evolution": {
+  "summary": "DALL-E 3 has been superseded by GPT-4o, which treats images as native tokens for superior image-to-image consistency. Microsoft has also integrated this technology directly into Windows 11 Paint via the 'Cocreator' feature.",
+  "latest_version": "GPT-4o / GPT Image 2 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-01",
+  "excerpt": "A viral prompting technique for ChatGPT and DALL-E that transforms high-quality uploaded photos into crude, low-fidelity drawings mimicking the classic MS Paint aesthetic."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:23:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

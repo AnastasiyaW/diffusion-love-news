@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c449ab03a6",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "RawGen: Learning Camera Raw Image Generation",
+ "summary": "A unified diffusion-based framework by Samsung that generates physically consistent camera raw images from text or sRGB inputs. It enables high-fidelity editing and device-specific synthesis for arbitrary camera sensors.",
+ "research_notes": "Utilizes FLUX as a backbone model; supports real-time ISP operations like white balance and exposure on the linear raw output.",
+ "project": {
+  "name": "RawGen",
+  "family_slug": "rawgen",
+  "family_display": "RawGen",
+  "model_slug": "rawgen",
+  "model_display": "RawGen",
+  "version": null,
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RawGen",
+  "rawgen",
+  "diffusion-image",
+  "family:rawgen",
+  "text-to-image",
+  "image-to-image",
+  "edit",
+  "flux"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "rawgen"
+  ],
+  "versions": [
+   "rawgen"
+  ],
+  "features": [
+   "text-to-image",
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [
+   "flux"
+  ],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://dy112.github.io/rawgen-page/",
+   "host": "dy112.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:24:34Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially released in early 2026 as a first-of-its-kind unified raw generation framework. It is currently being integrated into Samsung's neural ISP and AI Experience (AX) roadmaps for future mobile photography.",
+  "latest_version": "RawGen (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "A unified diffusion-based framework by Samsung that generates physically consistent camera raw images from text or sRGB inputs. It enables high-fidelity editing and device-specific synthesis for arbitrary camera sensors."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:24:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

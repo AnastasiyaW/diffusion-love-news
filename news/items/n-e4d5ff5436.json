@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e4d5ff5436",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Seedance 2.0 ComfyUI Integration",
+ "summary": "ByteDance's state-of-the-art multimodal video generation model integrated into ComfyUI via cloud-based API nodes. It enables high-fidelity text-to-video, image-to-video, and consistent character workflows with advanced temporal control.",
+ "research_notes": "Closed-source API-based model requiring external keys from providers like MuAPI or Sjinn.ai; features strict safety filtering and native audio-visual synchronization.",
+ "project": {
+  "name": "Seedance 2.0",
+  "family_slug": "seedance",
+  "family_display": "Seedance",
+  "model_slug": "seedance-2-0",
+  "model_display": "Seedance 2.0",
+  "version": "2.0",
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seedance 2.0",
+  "Seedance",
+  "seedance",
+  "seedance-2-0",
+  "tools-frontend",
+  "family:seedance",
+  "model:seedance-2-0",
+  "edit",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "seedance"
+  ],
+  "versions": [
+   "seedance-2-0"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "seedance-2-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://blog.comfy.org/p/seedance-20-is-now-available-in-comfyui",
+   "host": "blog.comfy.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:53:18Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from a web-only service to a native ComfyUI ecosystem in early 2026. The 'Omni' update in April 2026 introduced multi-modal reference support for images, video, and audio, along with 4K character sheet generation.",
+  "latest_version": "Seedance 2.0 Omni (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "ByteDance's state-of-the-art multimodal video generation model integrated into ComfyUI via cloud-based API nodes. It enables high-fidelity text-to-video, image-to-video, and consistent character workflows with advanced temporal control."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:53:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-545c4e25d2",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Hugging Face Kernels Hub for GPU Optimization",
+ "summary": "A platform and library for distributing pre-compiled GPU kernels (CUDA, ROCm, Metal, XPU) directly from the Hugging Face Hub. It eliminates the 'installation nightmare' of high-performance components like Flash Attention by providing instant, environment-specific binaries.",
+ "research_notes": "Deeply integrated into the 'kernels' Python library and standard Hugging Face tools like Transformers and Diffusers (v0.38.0+).",
+ "project": {
+  "name": "HuggingFace Kernels",
+  "family_slug": "flash-attention",
+  "family_display": "HuggingFace Kernels",
+  "model_slug": "huggingface-kernels",
+  "model_display": "HuggingFace Kernels",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HuggingFace Kernels",
+  "flash-attention",
+  "huggingface-kernels",
+  "tools-frontend",
+  "family:flash-attention",
+  "model:huggingface-kernels",
+  "huggingface",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "flash-attention"
+  ],
+  "versions": [
+   "flash-attention"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "huggingface-kernels"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/kernels",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:43:36Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Officially launched as a first-class repository type on the Hugging Face Hub in April 2026. It evolved from a community-maintained library into a central infrastructure that supports Flash Attention 4, optimized for extreme context parallelism and the latest hardware architectures like NVIDIA Blackwell.",
+  "latest_version": "Flash Attention 4 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "A platform and library for distributing pre-compiled GPU kernels (CUDA, ROCm, Metal, XPU) directly from the Hugging Face Hub. It eliminates the 'installation nightmare' of high-performance components like Flash Attention by providing instant, environment-specific binaries."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:43:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

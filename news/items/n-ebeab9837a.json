@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-ebeab9837a",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Griptape AI Orchestration Platform for VFX",
+ "summary": "A framework and visual orchestration platform for building complex AI pipelines in professional visual effects. It enables node-based workflows for advanced models like Netflix's VOID for video inpainting and Meta's SAM3.1 for high-speed segmentation.",
+ "research_notes": "Integrates VOID for automated clean plate generation and SAM3.1 for real-time multi-object tracking (Object Multiplex architecture).",
+ "project": {
+  "name": "Griptape",
+  "family_slug": "griptape",
+  "family_display": "Griptape",
+  "model_slug": "griptape",
+  "model_display": "Griptape",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Griptape",
+  "griptape",
+  "tools-frontend",
+  "family:griptape",
+  "video-to-video",
+  "inpainting",
+  "segmentation",
+  "edit"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "griptape"
+  ],
+  "versions": [
+   "griptape"
+  ],
+  "features": [
+   "video-to-video",
+   "inpainting",
+   "segmentation",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/griptape-ai/griptape",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:14:47Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=_AwnPBrGGos",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=riPqmSokTGo",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Acquired by Foundry in February 2026. The project evolved from a general-purpose Python AI agent framework into the core infrastructure layer for Foundry's AI-first VFX strategy and Nuke integration.",
+  "latest_version": "Foundry Griptape Nodes (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "A framework and visual orchestration platform for building complex AI pipelines in professional visual effects. It enables node-based workflows for advanced models like Netflix's VOID for video inpainting and Meta's SAM3.1 for high-speed segmentation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:14:47Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

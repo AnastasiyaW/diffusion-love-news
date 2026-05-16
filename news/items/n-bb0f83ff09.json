@@ -1,0 +1,124 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bb0f83ff09",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "OmniShotCut: Holistic Relational Shot Boundary Detection",
+ "summary": "OmniShotCut is a transformer-based framework designed for high-precision Shot Boundary Detection across diverse video types. It uses a Shot-Query architecture to holistically identify complex transitions like dissolves, fades, and sudden jumps.",
+ "research_notes": "Developed by the UVA Computer Vision Lab; uses a novel relational approach instead of traditional frame-by-frame classification.",
+ "project": {
+  "name": "OmniShotCut",
+  "family_slug": "omnishotcut",
+  "family_display": "OmniShotCut",
+  "model_slug": "omnishotcut",
+  "model_display": "OmniShotCut",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniShotCut",
+  "omnishotcut",
+  "vlm",
+  "family:omnishotcut",
+  "segmentation",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "omnishotcut"
+  ],
+  "versions": [
+   "omnishotcut"
+  ],
+  "features": [
+   "segmentation"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://uva-computer-vision-lab.github.io/OmniShotCut_website/",
+   "host": "uva-computer-vision-lab.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/UVA-Computer-Vision-Lab/OmniShotCut",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:46:34Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/uva-cv-lab/OmniShotCut/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/uva-cv-lab/OmniShotCut",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Since its April 2026 release, the project has published official weights and an interactive Gradio demo on Hugging Face. It has established a new state-of-the-art benchmark for video segmentation in challenging domains like anime and gaming.",
+  "latest_version": "OmniShotCut v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "OmniShotCut is a transformer-based framework designed for high-precision Shot Boundary Detection across diverse video types. It uses a Shot-Query architecture to holistically identify complex transitions like dissolves, fades, and sudden jumps."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:46:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.2",
+ "id": "n-169e12a080",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "CorridorKey-Runtime: AI Green Screen Keyer",
+ "summary": "A native AI-powered green screen keying solution designed for high-performance local execution. It provides professional-grade matting as an OFX plugin for DaVinci Resolve and Foundry Nuke, bypassing the need for complex Python environments.",
+ "research_notes": "Developed by Alexandre Alvaro in collaboration with Corridor Digital. Includes a standalone desktop GUI and a CLI for batch processing.",
+ "project": {
+  "name": "CorridorKey",
+  "family_slug": "corridorkey",
+  "family_display": "CorridorKey",
+  "model_slug": "corridorkey",
+  "model_display": "CorridorKey",
+  "version": null,
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CorridorKey",
+  "corridorkey",
+  "tools-frontend",
+  "family:corridorkey",
+  "edit",
+  "background-removal",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "corridorkey"
+  ],
+  "versions": [
+   "corridorkey"
+  ],
+  "features": [
+   "edit",
+   "background-removal"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:21:40Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://corridorkey.cloud/",
+   "host": "corridorkey.cloud",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/JamesNyeVRGuy/CorridorKey-Cloud",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/99oblivius/CorridorKey-Engine",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a research-focused Python script into a native C++ runtime with hardware acceleration. It now supports NVIDIA TensorRT on Windows and Apple Silicon via MLX, with full integration into modern NLEs like DaVinci Resolve 19.",
+  "latest_version": "v0.8.4 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A native AI-powered green screen keying solution designed for high-performance local execution. It provides professional-grade matting as an OFX plugin for DaVinci Resolve and Foundry Nuke, bypassing the need for complex Python environments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:21:40Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

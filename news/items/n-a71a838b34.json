@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a71a838b34",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "GyroScope Image Orientation Detection and Correction Model",
+ "summary": "A lightweight, open-source image classification model designed to detect orientation and provide automatic rotation correction. It is optimized for speed and edge deployment with 11.2 million parameters, enabling efficient batch processing of photo libraries.",
+ "research_notes": "Handles 90-degree increments only (0°, 90°, 180°, 270°). The model is a pure classifier, making it significantly faster than image-to-image models for high-volume utility tasks.",
+ "project": {
+  "name": "GyroScope",
+  "family_slug": "gyroscope",
+  "family_display": "GyroScope",
+  "model_slug": "gyroscope",
+  "model_display": "GyroScope",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GyroScope",
+  "gyroscope",
+  "tools-frontend",
+  "family:gyroscope",
+  "edit",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "gyroscope"
+  ],
+  "versions": [
+   "gyroscope"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LH-Tech-AI/GyroScope",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:10:35Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following its launch, the model was added to the 'Top Image Classification Models' collection by LH-Tech-AI. The developers have indicated plans for a v2 using pretrained backbones to enhance accuracy on specialized edge cases like document and medical imaging.",
+  "latest_version": "GyroScope v1 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "A lightweight, open-source image classification model designed to detect orientation and provide automatic rotation correction. It is optimized for speed and edge deployment with 11.2 million parameters, enabling efficient batch processing of photo libraries."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:10:35Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

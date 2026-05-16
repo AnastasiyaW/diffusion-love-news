@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f24b5871aa",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "SDXS-1B: Real-Time Diffusion and High-Fidelity Upscaler",
+ "summary": "A compact 1.6B parameter diffusion model optimized for extreme inference speed and faithful 2x image upscaling. It uses an asymmetric VAE architecture to enlarge images without introducing AI hallucinations or unwanted textures.",
+ "research_notes": "Capable of generating images at ~30 it/s on high-end hardware; primarily optimized for artistic and illustrative content.",
+ "project": {
+  "name": "sdxs-1b-upscaler",
+  "family_slug": "sdxs",
+  "family_display": "sdxs-1b-upscaler",
+  "model_slug": "sdxs-1b",
+  "model_display": "sdxs-1b",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "sdxs-1b-upscaler",
+  "sdxs-1b",
+  "sdxs",
+  "diffusion-image",
+  "family:sdxs",
+  "model:sdxs-1b",
+  "upscale",
+  "huggingface",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "sdxs"
+  ],
+  "versions": [
+   "sdxs"
+  ],
+  "features": [
+   "upscale"
+  ],
+  "formats": [
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "sdxs-1b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AiArtLab/sdxs-1b",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-16T10:05:52Z"
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/LoveScapeAI/sdxs-1b-upscaler",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved into an Alpha version in April 2026, introducing a 1.6B parameter UNet and Qwen3.5 text encoder. It now features an integrated 2x upscaling capability via a 32-channel asymmetric VAE decoder.",
+  "latest_version": "SDXS-1B Alpha (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A compact 1.6B parameter diffusion model optimized for extreme inference speed and faithful 2x image upscaling. It uses an asymmetric VAE architecture to enlarge images without introducing AI hallucinations or unwanted textures."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:05:52Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

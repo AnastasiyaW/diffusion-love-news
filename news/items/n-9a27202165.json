@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-9a27202165",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "VR-360-Outpaint LTX-2.3 IC-LoRA for 360 Video",
+ "summary": "A specialized Image-Conditioned LoRA for the Lightricks LTX-2.3 model that expands standard widescreen footage into 360-degree equirectangular panoramas. It utilizes a custom ComfyUI projection workflow to outpaint missing environments for immersive VR viewing.",
+ "research_notes": "Requires the ComfyUI-EquirectProjector node pack and final video metadata injection for 360-degree playback compatibility.",
+ "project": {
+  "name": "VR-360-Outpaint-LTX2.3-IC-LoRA",
+  "family_slug": "ltx",
+  "family_display": "VR-360-Outpaint-LTX2.3-IC-LoRA",
+  "model_slug": "vr-360-outpaint-ltx2-3-ic",
+  "model_display": "VR-360-Outpaint-LTX2.3-IC",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "vr-360-outpaint-ltx2-3-ic"
+  }
+ },
+ "tags": [
+  "VR-360-Outpaint-LTX2.3-IC-LoRA",
+  "VR-360-Outpaint-LTX2.3-IC",
+  "ltx",
+  "vr-360-outpaint-ltx2-3-ic",
+  "diffusion-video",
+  "family:ltx",
+  "model:vr-360-outpaint-ltx2-3-ic",
+  "adaptation:lora",
+  "lora-for:vr-360-outpaint-ltx2-3-ic",
+  "lora",
+  "video-to-video",
+  "huggingface",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "video-to-video"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "vr-360-outpaint-ltx2-3-ic"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TheBurgstall/VR-360-Outpaint-LTX2.3-IC-LoRA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:53:49Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Burgstall-labs/ComfyUI-EquirectProjector",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched as a v0.1 proof-of-concept optimized for urban establishing shots; a follow-up version with a more diverse training dataset is currently in development.",
+  "latest_version": "v0.1 PoC (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A specialized Image-Conditioned LoRA for the Lightricks LTX-2.3 model that expands standard widescreen footage into 360-degree equirectangular panoramas. It utilizes a custom ComfyUI projection workflow to outpaint missing environments for immersive VR viewing."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:53:49Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

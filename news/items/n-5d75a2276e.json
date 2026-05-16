@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5d75a2276e",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Seeduplex Full-Duplex Voice Model by ByteDance",
+ "summary": "Seeduplex is a native end-to-end full-duplex speech model that enables natural 'listen-while-speaking' interactions with real-time interruption handling. It is fully integrated into ByteDance's Doubao AI assistant, providing human-like conversational fluency.",
+ "research_notes": "Reduces response latency by approximately 250ms and achieves a 50% reduction in false interruptions compared to previous cascaded systems.",
+ "project": {
+  "name": "Seeduplex",
+  "family_slug": "seed-voice",
+  "family_display": "Seeduplex",
+  "model_slug": "seeduplex",
+  "model_display": "Seeduplex",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seeduplex",
+  "seed-voice",
+  "seeduplex",
+  "llm",
+  "family:seed-voice",
+  "model:seeduplex",
+  "realtime",
+  "china",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "seed-voice"
+  ],
+  "versions": [
+   "seed-voice"
+  ],
+  "features": [
+   "realtime"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "seeduplex"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://seed.bytedance.com/en/seeduplex",
+   "host": "seed.bytedance.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:49:40Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://seed.bytedance.com/en/realtime_voice",
+   "host": "seed.bytedance.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.doubao.com/",
+   "host": "doubao.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Officially launched on April 9, 2026, and fully deployed within the Doubao App to serve hundreds of millions of users. Development is currently shifting toward multimodal integration to allow the model to process visual and audio signals simultaneously.",
+  "latest_version": "Seeduplex (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "Seeduplex is a native end-to-end full-duplex speech model that enables natural 'listen-while-speaking' interactions with real-time interruption handling. It is fully integrated into ByteDance's Doubao AI assistant, providing human-like conversational fluency."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:49:40Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

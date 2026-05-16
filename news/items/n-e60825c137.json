@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e60825c137",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Unity AI (Muse & Sentis) for Unity 6",
+ "summary": "A production-ready suite of AI tools integrated into Unity 6 for game development. It includes Unity Muse for generative asset creation and chat-based assistant workflows, and Unity Sentis for high-performance cross-platform local neural network inference.",
+ "research_notes": "Unity Muse requires a paid subscription for generative features, while Unity Sentis is a free runtime tool included with the engine for local AI inference.",
+ "project": {
+  "name": "Unity AI",
+  "family_slug": "unity-ai",
+  "family_display": "Unity AI",
+  "model_slug": "unity-ai",
+  "model_display": "Unity AI",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unity AI",
+  "unity-ai",
+  "llm",
+  "family:unity-ai",
+  "paid"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "unity-ai"
+  ],
+  "versions": [
+   "unity-ai"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://unity.com/features/ai",
+   "host": "unity.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:16:31Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://unity.com/ru/features/ai",
+   "host": "unity.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from beta to core production-ready status in Unity 6. Muse has added video-to-motion and text-to-motion capabilities, while Sentis now supports native PyTorch and LiteRT model imports without conversion as of 2026.",
+  "latest_version": "Unity 6.3 / Sentis v2.6 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "A production-ready suite of AI tools integrated into Unity 6 for game development. It includes Unity Muse for generative asset creation and chat-based assistant workflows, and Unity Sentis for high-performance cross-platform local neural network inference."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:16:31Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

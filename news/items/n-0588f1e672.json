@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-0588f1e672",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Happy Horse 1.0 Unified Video Generation Model",
+ "summary": "A high-performance AI video generator from Alibaba's Future Life Lab that natively synthesizes synchronized audio and cinematic video in a single-stream transformer. It currently holds the top rank on the Artificial Analysis Video Arena for its superior photorealism and lip-sync accuracy.",
+ "research_notes": "Utilizes a unified Transformer architecture to process audio and video tokens simultaneously; achieves high speeds using DMD-2 distillation for 8-step generation.",
+ "project": {
+  "name": "Happy Horse",
+  "family_slug": "happyhorse",
+  "family_display": "Happy Horse",
+  "model_slug": "happy-horse",
+  "model_display": "Happy Horse",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Happy Horse",
+  "happyhorse",
+  "happy-horse",
+  "diffusion-video",
+  "family:happyhorse",
+  "model:happy-horse",
+  "text-to-video",
+  "web-demo",
+  "free"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "happyhorse"
+  ],
+  "versions": [
+   "happyhorse"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "happy-horse"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://happyhorse.app",
+   "host": "happyhorse.app",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-14T22:54:50Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.happyhorse.com",
+   "host": "happyhorse.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=api&accounttraceid=8ec66c6b55fe44b1a9f5b5e0efd9f793kezx#/api/?type=model&url=3029820",
+   "host": "modelstudio.console.alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Since its pseudonymous debut in early 2026, Happy Horse has transitioned from a leaderboard mystery to a cornerstone of Alibaba's AI strategy. It has introduced native 4K generation, multi-shot consistency, and a roadmap for a 15-billion-parameter open-source version.",
+  "latest_version": "Happy Horse 1.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A high-performance AI video generator from Alibaba's Future Life Lab that natively synthesizes synchronized audio and cinematic video in a single-stream transformer. It currently holds the top rank on the Artificial Analysis Video Arena for its superior photorealism and lip-sync accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:54:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

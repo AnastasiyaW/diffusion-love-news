@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-99e3cb59c2",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Flue — TypeScript Framework for Autonomous AI Agents",
+ "summary": "A headless TypeScript framework by the Astro team designed for building and deploying autonomous AI agents. It uses an 'agent harness' architecture to combine LLMs with programmable logic and virtual sandboxed environments.",
+ "research_notes": "Uses Markdown-based configuration (AGENTS.md) for agent behaviors and supports high-speed virtual sandboxing via just-bash.",
+ "project": {
+  "name": "Flue",
+  "family_slug": "flue",
+  "family_display": "Flue",
+  "model_slug": "flue",
+  "model_display": "Flue",
+  "version": null,
+  "released": "2026-05-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Flue",
+  "flue",
+  "llm",
+  "family:flue",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "flue"
+  ],
+  "versions": [
+   "flue"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://flueframework.com/",
+   "host": "flueframework.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/withastro/flue",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:41:53Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following Cloudflare's acquisition of Astro in early 2026, Flue evolved into a Cloudflare-native platform leveraging Workers AI and R2. It now supports the Model Context Protocol (MCP) and features specialized patterns for autonomous CI/CD workflows.",
+  "latest_version": "v0.2.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-08",
+  "excerpt": "A headless TypeScript framework by the Astro team designed for building and deploying autonomous AI agents. It uses an 'agent harness' architecture to combine LLMs with programmable logic and virtual sandboxed environments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:41:53Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

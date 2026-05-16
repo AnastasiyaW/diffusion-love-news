@@ -1,0 +1,96 @@
+{
+ "schema_version": "1.2",
+ "id": "n-60f7bb3300",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "3DGS Moon Surface Reconstruction (NASA Artemis II)",
+ "summary": "A high-fidelity 3D Gaussian Splatting reconstruction of the lunar surface based on imagery from NASA's Artemis II mission. It provides an interactive, detailed 3D visualization that demonstrates the potential of neural rendering for planetary science.",
+ "research_notes": "Created by Nicolas Diolez using over 300 NASA photos processed via RealityScan and LichtFeld Studio; hosted on PlayCanvas SuperSplat.",
+ "project": {
+  "name": "3DGS",
+  "family_slug": "artemis",
+  "family_display": "3DGS",
+  "model_slug": "3dgs",
+  "model_display": "3DGS",
+  "version": "3DGS",
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "3DGS",
+  "artemis",
+  "3dgs",
+  "gaussian-splatting",
+  "family:artemis",
+  "model:3dgs",
+  "scene",
+  "artemis-3dgs",
+  "free"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "artemis"
+  ],
+  "versions": [
+   "artemis-3dgs"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "3dgs"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://superspl.at/scene/2ac8f423/",
+   "host": "superspl.at",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:07:40Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project pioneered large-scale neural lunar mapping, influencing subsequent specialized frameworks like Moon-GS and AstroSplat that optimize for sparse-view rover data and planetary reflectance.",
+  "latest_version": "Artemis II Scene (2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "A high-fidelity 3D Gaussian Splatting reconstruction of the lunar surface based on imagery from NASA's Artemis II mission. It provides an interactive, detailed 3D visualization that demonstrates the potential of neural rendering for planetary science."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:07:40Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

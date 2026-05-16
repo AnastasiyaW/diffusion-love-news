@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b2b9ca697e",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "GLM-5V-Turbo: Multimodal Design-to-Code Engineering Model",
+ "summary": "A native multimodal Mixture-of-Experts model by Zhipu AI designed for autonomous frontend code generation from layouts. It excels at converting screenshots or sketches into functional code and supports complex visual debugging tasks.",
+ "research_notes": "Achieved a 94.8 score on the Design2Code benchmark, notably outperforming Claude Opus 4.6. The model is trained entirely on a domestic Chinese hardware stack using Huawei Ascend chips.",
+ "project": {
+  "name": "GLM-5V-Turbo",
+  "family_slug": "glm",
+  "family_display": "GLM-5V-Turbo",
+  "model_slug": "glm-5v",
+  "model_display": "GLM-5V",
+  "version": null,
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GLM-5V-Turbo",
+  "GLM-5V",
+  "glm",
+  "glm-5v",
+  "vlm",
+  "family:glm",
+  "model:glm-5v",
+  "web-demo",
+  "china"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "glm"
+  ],
+  "versions": [
+   "glm"
+  ],
+  "features": [],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "glm-5v"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://docs.z.ai/guides/vlm/glm-5v-turbo",
+   "host": "docs.z.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:18:12Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://openrouter.ai/z-ai/glm-5v-turbo",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://chat.z.ai/",
+   "host": "chat.z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the April 2026 release of GLM-5V-Turbo, Zhipu AI introduced GLM-5.1 in May 2026. This update shifted focus toward 'Agentic Engineering,' enabling autonomous end-to-end repository generation and complex terminal-based development tasks.",
+  "latest_version": "GLM-5.1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "A native multimodal Mixture-of-Experts model by Zhipu AI designed for autonomous frontend code generation from layouts. It excels at converting screenshots or sketches into functional code and supports complex visual debugging tasks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:18:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

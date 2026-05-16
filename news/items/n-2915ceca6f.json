@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2915ceca6f",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "ComfyUI-DreamScene360 — Panoramic Gaussian Splatting and 3D Scenes",
+ "summary": "A specialized ComfyUI node suite that implements the DreamScene360 research for generating globally consistent 3D Gaussian Splatting (3DGS) scenes from single 360° panoramic images. It utilizes depth estimation and panoramic splatting to create explorable 3D environments from a single viewpoint.",
+ "research_notes": "Requires full CUDA Toolkit and C++ compilation during installation; 16GB+ VRAM (RTX 3090/4090) is strongly recommended for stable performance.",
+ "project": {
+  "name": "ComfyUI-DreamScene360",
+  "family_slug": "dreamscene360",
+  "family_display": "ComfyUI-DreamScene360",
+  "model_slug": "dreamscene360",
+  "model_display": "DreamScene360",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-DreamScene360",
+  "DreamScene360",
+  "dreamscene360",
+  "gaussian-splatting",
+  "family:dreamscene360",
+  "depth",
+  "scene",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "dreamscene360"
+  ],
+  "versions": [
+   "dreamscene360"
+  ],
+  "features": [
+   "depth",
+   "scene"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jfirma1/ComfyUI-DreamScene360",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:41:36Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ShijieZhou-UCLA/DreamScene360",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally based on the ECCV 2024 paper, this ComfyUI implementation evolved in late 2025 to include improved depth stitching for panorama chunks and seamless integration with the ComfyUI-3D-Viewer-Pro suite. As of mid-2026, it remains actively maintained for the latest 3DGS rasterizers.",
+  "latest_version": "ECCV 2024 Research Implementation (Active 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A specialized ComfyUI node suite that implements the DreamScene360 research for generating globally consistent 3D Gaussian Splatting (3DGS) scenes from single 360° panoramic images. It utilizes depth estimation and panoramic splatting to create explorable 3D environments from a single viewpoint."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:41:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

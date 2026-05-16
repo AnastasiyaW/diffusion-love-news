@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f861f085b8",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Free Claude Code: AI Proxy for Claude CLI",
+ "summary": "A runtime abstraction layer and proxy server that enables the official Claude Code CLI to function with alternative LLM providers like NVIDIA NIM, OpenRouter, and local models. It provides full protocol parity, supporting agentic tool use, streaming, and reasoning blocks without requiring a direct Anthropic API key.",
+ "research_notes": "Features an 'fcc-server' for proxying and 'fcc-claude' wrapper for easy configuration; reached over 24k GitHub stars by mid-2026.",
+ "project": {
+  "name": "Free Claude Code",
+  "family_slug": "claude-code",
+  "family_display": "Free Claude Code",
+  "model_slug": "claude-code",
+  "model_display": "Claude Code",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Free Claude Code",
+  "Claude Code",
+  "claude-code",
+  "tools-frontend",
+  "family:claude-code",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "claude-code"
+  ],
+  "versions": [
+   "claude-code"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Alishahryar1/free-claude-code",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:25:56Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Alishahryar1/free-claude-code#quick-start",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a basic FastAPI proxy for NVIDIA NIM, it evolved into a multi-provider gateway with a local admin UI and intelligent routing. It now supports the Claude Dev VSCode extension and JetBrains IDEs, moving from a 'free' hack to a robust backend-agnostic tool for the Claude ecosystem.",
+  "latest_version": "Ecosystem Phase (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "A runtime abstraction layer and proxy server that enables the official Claude Code CLI to function with alternative LLM providers like NVIDIA NIM, OpenRouter, and local models. It provides full protocol parity, supporting agentic tool use, streaming, and reasoning blocks without requiring a direct Anthropic API key."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:25:56Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

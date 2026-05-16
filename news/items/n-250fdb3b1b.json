@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-250fdb3b1b",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Color-Grade-Transfer-LoRA for Precise Color Matching",
+ "summary": "A specialized LoRA designed for high-fidelity automated color grading and palette alignment using reference images. It enables cinematic style transfer and consistent lighting across image sequences, optimized for the Qwen-Image-Edit architecture.",
+ "research_notes": "Developed by ovi054 (Avi Pal); optimized for sub-second inference and high-fidelity 'reference-to-palette' matching.",
+ "project": {
+  "name": "Color-Grade-Transfer-LoRA",
+  "family_slug": "qwen-image-edit",
+  "family_display": "Color-Grade-Transfer-LoRA",
+  "model_slug": "color-grade-transfer",
+  "model_display": "Color-Grade-Transfer",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "color-grade-transfer"
+  }
+ },
+ "tags": [
+  "Color-Grade-Transfer-LoRA",
+  "Color-Grade-Transfer",
+  "qwen-image-edit",
+  "color-grade-transfer",
+  "diffusion-image",
+  "family:qwen-image-edit",
+  "model:color-grade-transfer",
+  "adaptation:lora",
+  "lora-for:color-grade-transfer",
+  "lora",
+  "image-to-image",
+  "edit",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "qwen-image-edit"
+  ],
+  "versions": [
+   "qwen-image-edit"
+  ],
+  "features": [
+   "lora",
+   "image-to-image",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "color-grade-transfer"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:18:00Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.modelscope.ai/models/ovi054/Color-Grade-Transfer-LoRA/",
+   "host": "modelscope.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project was recognized as a winner of the ModelScope LoRA training contest and subsequently became a core component of the Qwen-Image-Edit (QIE-2511) ecosystem. It now supports local inference applications and receives regular compatibility updates.",
+  "latest_version": "QIE-2511 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "A specialized LoRA designed for high-fidelity automated color grading and palette alignment using reference images. It enables cinematic style transfer and consistent lighting across image sequences, optimized for the Qwen-Image-Edit architecture."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:18:00Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

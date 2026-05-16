@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-4bbad7fe81",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Ltx2.3-VBVR: Visual Reasoning LoRA for LTX-Video",
+ "summary": "A specialized LoRA adapter for the LTX-2.3 22B model that significantly improves physical reasoning, spatial logic, and temporal consistency in video generation. It utilizes the Video-Based Visual Reasoning dataset to reduce common AI video glitches and hallucinated physics.",
+ "research_notes": "Specifically addresses gravity simulation, causal relationships, and object persistence; highly compatible with ComfyUI workflows.",
+ "project": {
+  "name": "Ltx2.3-VBVR-lora-I2V",
+  "family_slug": "ltx",
+  "family_display": "Ltx2.3-VBVR-lora-I2V",
+  "model_slug": "ltx2-3-vbvr",
+  "model_display": "Ltx2.3-VBVR",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "I2V",
+   "base_model_slug": "ltx2-3-vbvr"
+  }
+ },
+ "tags": [
+  "Ltx2.3-VBVR-lora-I2V",
+  "Ltx2.3-VBVR",
+  "ltx",
+  "ltx2-3-vbvr",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx2-3-vbvr",
+  "adaptation:lora",
+  "lora-for:ltx2-3-vbvr",
+  "lora",
+  "consistency",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "consistency"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx2-3-vbvr"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LiconStudio/Ltx2.3-VBVR-lora-I2V",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:03:00Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolves from Stage 1 (96K videos) to Stage 3 (390K videos), introducing 'Hard Reasoning' for complex multi-object interactions. Future updates aim to scale training to the full 1-million video VBVR dataset for near-perfect physical accuracy.",
+  "latest_version": "Ltx2.3-VBVR Stage 3 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "A specialized LoRA adapter for the LTX-2.3 22B model that significantly improves physical reasoning, spatial logic, and temporal consistency in video generation. It utilizes the Video-Based Visual Reasoning dataset to reduce common AI video glitches and hallucinated physics."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:03:00Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

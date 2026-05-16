@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8cf0d43011",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "FastGHA: Generalized Few-Shot 3D Gaussian Head Avatars",
+ "summary": "FastGHA is a feed-forward method that reconstructs high-fidelity 3D head avatars from sparse images in under one second. It uses transformer-based feature fusion and pre-trained priors to enable real-time animation and precise expression control for unseen identities.",
+ "research_notes": "Officially presented at ICLR 2026. Leverages DINOv3 and Stable Diffusion VAE features for enhanced structural and textural fidelity.",
+ "project": {
+  "name": "FastGHA",
+  "family_slug": "fastgha",
+  "family_display": "FastGHA",
+  "model_slug": "fastgha",
+  "model_display": "FastGHA",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FastGHA",
+  "fastgha",
+  "gaussian-splatting",
+  "family:fastgha",
+  "face",
+  "realtime",
+  "paper"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "fastgha"
+  ],
+  "versions": [
+   "fastgha"
+  ],
+  "features": [
+   "face",
+   "realtime"
+  ],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://studios.disneyresearch.com/2026/04/22/fastgha-generalized-few-shot-3d-gaussian-head-avatars-with-real-time-animation/",
+   "host": "studios.disneyresearch.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:33:42Z"
+  }
+ ],
+ "evolution": {
+  "summary": "FastGHA represents a shift from slow subject-specific optimization to generalized, feed-forward 3DGS reconstruction. It follows the earlier Avat3r (2025) and is now integrated with newer Disney projects like RelightAnyone and CANRIG for advanced environmental lighting and rigging.",
+  "latest_version": "FastGHA (ICLR 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "FastGHA is a feed-forward method that reconstructs high-fidelity 3D head avatars from sparse images in under one second. It uses transformer-based feature fusion and pre-trained priors to enable real-time animation and precise expression control for unseen identities."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:33:42Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

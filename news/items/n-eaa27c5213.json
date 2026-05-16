@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-eaa27c5213",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Gen-Searcher: Search-Grounded Multimodal Deep Research Agent",
+ "summary": "An autonomous multimodal agent that performs real-time web and visual searches before generating images. It utilizes a search-then-generate workflow to ensure factual accuracy and visual consistency in text-to-image synthesis.",
+ "research_notes": "The system supports multi-hop reasoning to identify knowledge gaps and uses visual references to ground generation in real-world entities.",
+ "project": {
+  "name": "Gen-Searcher",
+  "family_slug": "gen-searcher",
+  "family_display": "Gen-Searcher",
+  "model_slug": "gen-searcher",
+  "model_display": "Gen-Searcher",
+  "version": null,
+  "released": "2026-04-18",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gen-Searcher",
+  "gen-searcher",
+  "llm",
+  "family:gen-searcher",
+  "text-to-image",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gen-searcher"
+  ],
+  "versions": [
+   "gen-searcher"
+  ],
+  "features": [
+   "text-to-image"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://gen-searcher.vercel.app/",
+   "host": "gen-searcher.vercel.app",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/tulerfeng/Gen-Searcher",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:10:44Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/GenSearcher/Gen-Searcher-8B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from Supervised Fine-Tuning (SFT) to Agentic Reinforcement Learning using Group Relative Policy Optimization (GRPO) with dual reward feedback. It introduced KnowGen, a specialized benchmark for search-grounded image generation.",
+  "latest_version": "Gen-Searcher-RL-6k (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-18",
+  "excerpt": "An autonomous multimodal agent that performs real-time web and visual searches before generating images. It utilizes a search-then-generate workflow to ensure factual accuracy and visual consistency in text-to-image synthesis."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:10:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

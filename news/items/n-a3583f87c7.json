@@ -1,0 +1,93 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a3583f87c7",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "MemPalace: Efficient Infinite Memory Compression for LLMs",
+ "summary": "A local-first AI memory system that uses a zero-LLM inference write path and hierarchical storage to maintain verbatim-first long-term context. It employs a custom compression dialect called AAAK to achieve 30x data density for LLM readability.",
+ "research_notes": "Co-created by actress Milla Jovovich and developer Ben Sigman; notable for avoiding the 'summarization drift' found in other AI memory systems.",
+ "project": {
+  "name": "MemPalace",
+  "family_slug": "mempalace",
+  "family_display": "MemPalace",
+  "model_slug": "mempalace",
+  "model_display": "MemPalace",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MemPalace",
+  "mempalace",
+  "llm",
+  "family:mempalace",
+  "github",
+  "paper",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "mempalace"
+  ],
+  "versions": [
+   "mempalace"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/milla-jovovich/mempalace",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:34:57Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a viral GitHub repository to a full framework with a technical arXiv paper and Model Context Protocol (MCP) support. The v3.x update introduced the AAAK compression dialect and enhanced local-first performance.",
+  "latest_version": "MemPalace v3.x (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A local-first AI memory system that uses a zero-LLM inference write path and hierarchical storage to maintain verbatim-first long-term context. It employs a custom compression dialect called AAAK to achieve 30x data density for LLM readability."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:34:57Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-09ee25f7d5",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "HyDRA: Hybrid Memory for Dynamic Video World Models",
+ "summary": "HyDRA is a specialized memory architecture for video generation that ensures stable object tracking and re-appearance consistency. It uses a spatiotemporal retrieval mechanism to 'remember' subjects even when they move off-screen or are occluded.",
+ "research_notes": "The project includes a motion-aware memory tokenizer and is particularly optimized for autonomous driving simulators and Embodied AI world models.",
+ "project": {
+  "name": "HyDRA",
+  "family_slug": "hydra",
+  "family_display": "HyDRA",
+  "model_slug": "hydra",
+  "model_display": "HyDRA",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HyDRA",
+  "hydra",
+  "diffusion-video",
+  "family:hydra",
+  "text-to-video",
+  "github",
+  "huggingface",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "hydra"
+  ],
+  "versions": [
+   "hydra"
+  ],
+  "features": [
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://kj-chen666.github.io/Hybrid-Memory-in-Video-World-Models/",
+   "host": "kj-chen666.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/H-EmbodVis/HyDRA",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:47:36Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/H-EmbodVis/HyDRA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in March 2026, HyDRA is built on the Wan2.1-T2V-1.3B architecture and introduces the HM-World dataset for training models on complex object re-entry scenarios.",
+  "latest_version": "HyDRA (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "HyDRA is a specialized memory architecture for video generation that ensures stable object tracking and re-appearance consistency. It uses a spatiotemporal retrieval mechanism to 'remember' subjects even when they move off-screen or are occluded."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:47:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

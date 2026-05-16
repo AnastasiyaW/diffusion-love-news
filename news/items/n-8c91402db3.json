@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8c91402db3",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Spec Security Plugins for Claude Code",
+ "summary": "A high-performance suite of security and formal verification plugins designed to extend the Claude Code CLI with agentic workflows. It automates complex tasks including coverage-guided fuzzing, sandboxed penetration testing in Kali Linux, and smart contract auditing for Solana.",
+ "research_notes": "Developed by workers.io; can be installed directly via 'npx skills add workersio/spec' and includes specialized commands like /fuzzer and /solana-audit.",
+ "project": {
+  "name": "Spec",
+  "family_slug": "spec",
+  "family_display": "Spec",
+  "model_slug": "spec",
+  "model_display": "Spec",
+  "version": null,
+  "released": "2026-04-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spec",
+  "spec",
+  "tools-frontend",
+  "family:spec",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "spec"
+  ],
+  "versions": [
+   "spec"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ru.wikipedia.org/wiki/ArtMoney",
+   "host": "ru.wikipedia.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://workers.io/blog/autonomous-mobile-pentesting/",
+   "host": "workers.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/workersio/spec",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:46:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from basic security scripts into a robust formal methods and offensive security framework. Notable additions include Kani-based Rust verification, Axiom for Lean 4 proof repair, and the 'Kage' isolated pentesting environment.",
+  "latest_version": "Spec Suite (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-10",
+  "excerpt": "A high-performance suite of security and formal verification plugins designed to extend the Claude Code CLI with agentic workflows. It automates complex tasks including coverage-guided fuzzing, sandboxed penetration testing in Kali Linux, and smart contract auditing for Solana."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:46:15Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

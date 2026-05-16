@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-15fd6206af",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Marco-MoE: Open Multilingual MoE Models by Alibaba AIDC",
+ "summary": "A series of hyper-sparse Mixture-of-Experts models designed for efficient multilingual performance. Developed by Alibaba AIDC, these models activate only 5-7.5% of their parameters per token to run fast on consumer hardware.",
+ "research_notes": "Introduced the CulturAll benchmark for multilingual evaluation; best deployed via vLLM to handle tied embedding layers correctly.",
+ "project": {
+  "name": "Marco-MoE",
+  "family_slug": "marco-moe",
+  "family_display": "Marco-MoE",
+  "model_slug": "marco-moe",
+  "model_display": "Marco-MoE",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Marco-MoE",
+  "marco-moe",
+  "llm",
+  "family:marco-moe",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "marco-moe"
+  ],
+  "versions": [
+   "marco-moe"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/AIDC-AI/marco-moe",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:59:11Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mradermacher/Marco-Nano-Base-GGUF/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally based on dense Qwen models, the project evolved using Fine-grained Sub-matrix Splitting and Drop-Upcycling. Current iterations like Marco-Mini-Global support 64 languages and target underserved linguistic communities.",
+  "latest_version": "Marco-Mini-Instruct (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "A series of hyper-sparse Mixture-of-Experts models designed for efficient multilingual performance. Developed by Alibaba AIDC, these models activate only 5-7.5% of their parameters per token to run fast on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:59:11Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

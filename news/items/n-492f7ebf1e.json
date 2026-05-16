@@ -1,0 +1,119 @@
+{
+ "schema_version": "1.2",
+ "id": "n-492f7ebf1e",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "TheBurgstall LTX-2.3 Body Positivity LoRA",
+ "summary": "A specialized Image-to-Video adapter for the LTX-2.3 model that modifies subject body types while preserving identity and motion. It functions as an IC-LoRA trained on a hand-curated synthetic dataset.",
+ "research_notes": "Trigger word: 'bodypositivity'. Recommended LoRA strength is 1.0 for optimal balance between transformation and identity preservation.",
+ "project": {
+  "name": "LTX-2.3 LoRA",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3 LoRA",
+  "model_slug": "ltx-2-3",
+  "model_display": "LTX-2.3",
+  "version": null,
+  "released": "2026-05-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "ltx-2-3"
+  }
+ },
+ "tags": [
+  "LTX-2.3 LoRA",
+  "LTX-2.3",
+  "ltx",
+  "ltx-2-3",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3",
+  "adaptation:lora",
+  "lora-for:ltx-2-3",
+  "lora",
+  "edit",
+  "video-to-video",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit",
+   "video-to-video"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "ltx-2-3"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TheBurgstall/ltx-2.3-bodypositivity-lora",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T20:04:58Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TheBurgstall/ltx-2.3-googlyeyes-lora",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "TheBurgstall continues to release specialized structural LoRAs for LTX-2.3, expanding from body modifications to 'Edit Anything' capabilities. The model is now supported by web interfaces like a1.art for simplified usage.",
+  "latest_version": "LTX-2.3 LoRA (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-03",
+  "excerpt": "A specialized Image-to-Video adapter for the LTX-2.3 model that modifies subject body types while preserving identity and motion. It functions as an IC-LoRA trained on a hand-curated synthetic dataset."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T20:04:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

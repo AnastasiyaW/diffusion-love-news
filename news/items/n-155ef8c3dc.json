@@ -1,0 +1,120 @@
+{
+ "schema_version": "1.2",
+ "id": "n-155ef8c3dc",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Any4D: Unified Feed-Forward Metric 4D Reconstruction",
+ "summary": "Any4D is a framework for dense, metric-scale 4D reconstruction from monocular or multi-modal video using a fast feed-forward transformer architecture. It achieves high accuracy and real-time potential by factorizing scenes into egocentric and allocentric components.",
+ "research_notes": "Developed by CMU; supports optional RGB-D, IMU, and Radar Doppler inputs to significantly enhance reconstruction quality.",
+ "project": {
+  "name": "Any4D",
+  "family_slug": "any4d",
+  "family_display": "Any4D",
+  "model_slug": "any4d",
+  "model_display": "Any4D",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Any4D",
+  "any4d",
+  "3d",
+  "family:any4d",
+  "paper",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "any4d"
+  ],
+  "versions": [
+   "any4d"
+  ],
+  "features": [],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://any-4d.github.io/",
+   "host": "any-4d.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Any-4D/Any4D",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:52:21Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/airlabshare/any4d-checkpoint/resolve/main/any4d_4v_combined.pth",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/theairlabcmu/Any4D",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from initial research to a CVPR 2026 poster presentation, with recent releases of inference code and interactive demos. It offers 15x faster processing than previous optimization-based state-of-the-art methods.",
+  "latest_version": "CVPR 2026 (March 2026 update)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "Any4D is a framework for dense, metric-scale 4D reconstruction from monocular or multi-modal video using a fast feed-forward transformer architecture. It achieves high accuracy and real-time potential by factorizing scenes into egocentric and allocentric components."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:52:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

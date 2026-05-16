@@ -1,0 +1,97 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bc5c88f85f",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "DeepSeek-V4-Pro Flagship Trillion-Scale MoE Model",
+ "summary": "DeepSeek-V4-Pro is a 1.6 trillion parameter Mixture-of-Experts (MoE) model released in April 2026 for high-performance reasoning and agentic tasks. It features a native 1-million-token context window and extreme architectural efficiency through Hybrid Attention.",
+ "research_notes": "Optimized for autonomous coding and complex agentic workflows; utilizes only 10% of the KV cache compared to previous generations.",
+ "project": {
+  "name": "DeepSeek-V4-Pro",
+  "family_slug": "deepseek",
+  "family_display": "DeepSeek-V4-Pro",
+  "model_slug": "deepseek-v4",
+  "model_display": "DeepSeek-V4",
+  "version": null,
+  "released": "2026-04-24",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DeepSeek-V4-Pro",
+  "DeepSeek-V4",
+  "deepseek",
+  "deepseek-v4",
+  "llm",
+  "family:deepseek",
+  "model:deepseek-v4",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "deepseek"
+  ],
+  "versions": [
+   "deepseek"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "deepseek-v4"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:20:59Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Launched as a successor to V3 in April 2026, introducing Manifold-Constrained Hyper-Connections (mHC) and FP4 quantization-aware training. It represents the latest flagship evolution in the DeepSeek series.",
+  "latest_version": "DeepSeek-V4-Pro Preview (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-24",
+  "excerpt": "DeepSeek-V4-Pro is a 1.6 trillion parameter Mixture-of-Experts (MoE) model released in April 2026 for high-performance reasoning and agentic tasks. It features a native 1-million-token context window and extreme architectural efficiency through Hybrid Attention."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:20:59Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

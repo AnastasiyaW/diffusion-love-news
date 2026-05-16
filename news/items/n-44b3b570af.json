@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-44b3b570af",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Dance Generation",
+ "summary": "A framework for music-driven dance video generation using a cascaded Mixture-of-Experts approach that decouples motion synthesis from appearance rendering. It achieves state-of-the-art results in long-sequence generation and supports zero-shot editing of character movements.",
+ "research_notes": "Utilizes a BiMamba-Transformer hybrid architecture for temporal stability and handles long-duration synthesis (30s+) beyond its training window.",
+ "project": {
+  "name": "MACE-Dance",
+  "family_slug": "mace-dance",
+  "family_display": "MACE-Dance",
+  "model_slug": "mace-dance",
+  "model_display": "MACE-Dance",
+  "version": null,
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MACE-Dance",
+  "mace-dance",
+  "animation-motion",
+  "family:mace-dance",
+  "animation",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "mace-dance"
+  ],
+  "versions": [
+   "mace-dance"
+  ],
+  "features": [
+   "animation"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/AMAP-ML/MACE-Dance",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T17:46:17Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/GD-ML/MACE-Dance",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project was accepted to SIGGRAPH 2026, with official source code, pre-trained models, and the comprehensive MA-Data dataset released in May 2026.",
+  "latest_version": "SIGGRAPH 2026 Release (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A framework for music-driven dance video generation using a cascaded Mixture-of-Experts approach that decouples motion synthesis from appearance rendering. It achieves state-of-the-art results in long-sequence generation and supports zero-shot editing of character movements."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T17:46:17Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-08dc2040a6",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "FlexAvatar: High-Fidelity 3D Head Avatars via Bias Sinks",
+ "summary": "FlexAvatar is a state-of-the-art framework that generates animatable 3D head avatars from sparse inputs like a single photograph. It utilizes 3D Gaussian Splatting and a novel Bias Sinks mechanism to enable training on diverse monocular and multi-view datasets.",
+ "research_notes": "Developed by the Technical University of Munich (TUM); represents a significant shift toward Large Reconstruction Models (LRMs) for head avatars.",
+ "project": {
+  "name": "FlexAvatar",
+  "family_slug": "flexavatar",
+  "family_display": "FlexAvatar",
+  "model_slug": "flexavatar",
+  "model_display": "FlexAvatar",
+  "version": null,
+  "released": "2026-04-18",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FlexAvatar",
+  "flexavatar",
+  "3d",
+  "family:flexavatar",
+  "face",
+  "animation"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "flexavatar"
+  ],
+  "versions": [
+   "flexavatar"
+  ],
+  "features": [
+   "face",
+   "animation"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/tobias-kirschstein/flexavatar",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:10:00Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://tobias-kirschstein.github.io/flexavatar/",
+   "host": "tobias-kirschstein.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "As a successor to GaussianAvatars, it introduces Bias Sinks to prevent identity-pose entanglement when training on monocular video. The research paper was released in late 2025, with the official code repository currently awaiting full source code publication.",
+  "latest_version": "FlexAvatar (Dec 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-18",
+  "excerpt": "FlexAvatar is a state-of-the-art framework that generates animatable 3D head avatars from sparse inputs like a single photograph. It utilizes 3D Gaussian Splatting and a novel Bias Sinks mechanism to enable training on diverse monocular and multi-view datasets."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:10:00Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

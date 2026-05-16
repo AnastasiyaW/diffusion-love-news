@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b18df4c1c8",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Semantic Progress Function (SPF) for Smooth AI Video",
+ "summary": "A research framework that maps video semantic trajectories to a 1D scalar function to ensure smooth temporal pacing. It enables temporal linearization and fixes uneven speeds or stalls common in generative video models.",
+ "research_notes": "User studies indicate an 88% preference for SPF-retimed videos due to the elimination of ghosting and abrupt semantic jumps.",
+ "project": {
+  "name": "Semantic Progress Function (SPF)",
+  "family_slug": "semantic-progress-function",
+  "family_display": "Semantic Progress Function (SPF)",
+  "model_slug": "semantic-progress-function",
+  "model_display": "Semantic Progress Function",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Semantic Progress Function (SPF)",
+  "Semantic Progress Function",
+  "semantic-progress-function",
+  "diffusion-video",
+  "family:semantic-progress-function",
+  "video-to-video",
+  "consistency",
+  "edit",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "semantic-progress-function"
+  ],
+  "versions": [
+   "semantic-progress-function"
+  ],
+  "features": [
+   "video-to-video",
+   "consistency",
+   "edit"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://sagipolaczek.github.io/semantic-progress-function/",
+   "host": "sagipolaczek.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/SagiPolaczek/semantic-progress-function",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:48:26Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a theoretical paper into a practical toolset with a popular ComfyUI integration (SPF-ReTime). It has been updated to support high-resolution models like Wan2.2 and LTX-Video through frequency-aware temporal warping.",
+  "latest_version": "SPF-ReTime (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "A research framework that maps video semantic trajectories to a 1D scalar function to ensure smooth temporal pacing. It enables temporal linearization and fixes uneven speeds or stalls common in generative video models."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:48:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

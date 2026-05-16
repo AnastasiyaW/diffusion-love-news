@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-694e3b1cf5",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Sonilo AI Video-to-Music Generation for Content Creators",
+ "summary": "Sonilo is a generative AI platform that creates synchronized soundtracks by analyzing video motion, pacing, and transitions. It provides professional-grade music that automatically aligns with visual content without requiring complex text prompts.",
+ "research_notes": "Offers API access for enterprise developers and generates multiple stylistic variations for each video upload.",
+ "project": {
+  "name": "Sonilo",
+  "family_slug": "sonilo",
+  "family_display": "Sonilo",
+  "model_slug": "sonilo",
+  "model_display": "Sonilo",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sonilo",
+  "sonilo",
+  "audio-music",
+  "family:sonilo",
+  "comfyui",
+  "free"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "sonilo"
+  ],
+  "versions": [
+   "sonilo"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://sonilo.com/",
+   "host": "sonilo.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:44:36Z"
+  },
+  {
+   "kind": "vendor-page",
+   "url": "https://blog.comfy.org/p/comfyui-now-supports-sonilo-via-partner",
+   "host": "blog.comfy.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://cloud.comfy.org/?utm_source=blog&utm_medium=in_house_social_lin&utm_campaign=sonilo_launch",
+   "host": "cloud.comfy.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The service has matured into a commercial platform featuring a dedicated ComfyUI node integration and a strategic partnership with Shutterstock.",
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "Sonilo is a generative AI platform that creates synchronized soundtracks by analyzing video motion, pacing, and transitions. It provides professional-grade music that automatically aligns with visual content without requiring complex text prompts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:44:36Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

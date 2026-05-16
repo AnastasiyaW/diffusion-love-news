@@ -1,0 +1,139 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b1f4237092",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Qwen3.5-35B-A3B Claude 4.6 Opus Reasoning Distilled",
+ "summary": "A specialized large language model based on the Qwen 3.5 architecture, fine-tuned using chain-of-thought reasoning data distilled from Claude 4.6 Opus. It implements structured reasoning via <think> tags to improve logical transparency and problem-solving accuracy.",
+ "research_notes": "Available in GGUF, MLX, and Transformers formats; primarily optimized for deep reasoning and multi-step logic.",
+ "project": {
+  "name": "Qwen variants",
+  "family_slug": "qwen",
+  "family_display": "Qwen variants",
+  "model_slug": "qwen",
+  "model_display": "Qwen",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen variants",
+  "Qwen",
+  "qwen",
+  "llm",
+  "family:qwen",
+  "huggingface",
+  "gguf",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface",
+   "gguf"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Qwen3.5-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:56:37Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mradermacher/Qwen3.5-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-i1-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/collections/Jackrong/qwen35-9b-glm51-distill",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TheCluster/Qwen3.5-9B-Claude-4.6-HighIQ-INSTRUCT-HERETIC-UNCENSORED-MLX-mxfp8",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/BugTraceAI/BugTraceAI-Apex-G4-26B-Q4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The Qwen 3.5 series introduced the A3B Mixture-of-Experts architecture, which was quickly followed by the Qwen 3.6 update. This model represents the peak of 'reasoning distillation' where logical traces from proprietary Claude 4.6 models are transferred to open-weight architectures.",
+  "latest_version": "Qwen 3.6 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "A specialized large language model based on the Qwen 3.5 architecture, fine-tuned using chain-of-thought reasoning data distilled from Claude 4.6 Opus. It implements structured reasoning via <think> tags to improve logical transparency and problem-solving accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:56:37Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

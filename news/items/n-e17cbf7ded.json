@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e17cbf7ded",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Tencent Hy-MT1.5 Mobile Machine Translation",
+ "summary": "A compact multilingual translation model optimized for on-device mobile use through extreme compression. It delivers high-tier performance across 33 languages with minimal hardware requirements.",
+ "research_notes": "Introduced terminology intervention and context-aware multi-turn translation support; integrated into Tencent Meeting and Enterprise WeChat.",
+ "project": {
+  "name": "Hy-MT1.5-1.8B",
+  "family_slug": "hy-mt",
+  "family_display": "Hy-MT1.5-1.8B",
+  "model_slug": "hy-mt1-5-1-8b",
+  "model_display": "Hy-MT1.5-1.8B",
+  "version": "1.8B",
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hy-MT1.5-1.8B",
+  "hy-mt",
+  "hy-mt1-5-1-8b",
+  "llm",
+  "family:hy-mt",
+  "model:hy-mt1-5-1-8b",
+  "hy-mt-1-8b",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "hy-mt"
+  ],
+  "versions": [
+   "hy-mt-1-8b"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "hy-mt1-5-1-8b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/HY-MT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:19:24Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://modelscope.cn/papers/2601.07892",
+   "host": "modelscope.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Updated in mid-2026 with 1.25-bit quantization via the Sherry framework, reducing the 1.8B model to 440MB for deployment on low-end mobile hardware. It is currently the industry benchmark for offline on-device translation.",
+  "latest_version": "Hy-MT1.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "A compact multilingual translation model optimized for on-device mobile use through extreme compression. It delivers high-tier performance across 33 languages with minimal hardware requirements."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:19:24Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

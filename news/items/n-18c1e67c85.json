@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-18c1e67c85",
+ "entry_type": "project",
+ "category": "animation-motion",
+ "lang": "en",
+ "title": "Delulu Stream Real-Time Video Manipulation",
+ "summary": "A real-time AI transformation layer for streamers that swaps appearance, outfits, and backgrounds instantly. It integrates with OBS and allows viewers to trigger live changes through interactive chat commands.",
+ "research_notes": "Developed by Decart.AI. Known for its 'Identity Layer' concept where streamers can morph based on viewer engagement or personal presets in real-time.",
+ "project": {
+  "name": "Delulu Stream",
+  "family_slug": "delulu",
+  "family_display": "Delulu Stream",
+  "model_slug": "delulu",
+  "model_display": "Delulu",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Delulu Stream",
+  "Delulu",
+  "delulu",
+  "animation-motion",
+  "family:delulu",
+  "realtime",
+  "face",
+  "video-to-video",
+  "free"
+ ],
+ "facets": {
+  "category": "animation-motion",
+  "entry_type": "project",
+  "projects": [
+   "delulu"
+  ],
+  "versions": [
+   "delulu"
+  ],
+  "features": [
+   "realtime",
+   "face",
+   "video-to-video"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://delulustream.com",
+   "host": "delulustream.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:55:32Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://home.delulustream.com/",
+   "host": "home.delulustream.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a mobile photo remixing app into a sophisticated identity layer for live broadcasting. Recently added a cloud-powered desktop client to reduce local hardware load and expanded interactive Twitch/Kick integrations.",
+  "latest_version": "Windows Desktop App (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "A real-time AI transformation layer for streamers that swaps appearance, outfits, and backgrounds instantly. It integrates with OBS and allows viewers to trigger live changes through interactive chat commands."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:55:32Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

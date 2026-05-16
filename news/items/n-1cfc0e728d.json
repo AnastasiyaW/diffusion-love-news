@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1cfc0e728d",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "NVIDIA Nemotron-3-Nano-Omni-30B-A3B",
+ "summary": "A unified multimodal Mixture-of-Experts model that natively processes text, image, video, and audio in a single reasoning loop. It features a 256k context window and is optimized for agentic computer use and high-efficiency document intelligence.",
+ "research_notes": "Uses a Mamba-Transformer hybrid backbone with 30B total and 3B active parameters per token.",
+ "project": {
+  "name": "Nemotron-3-Nano-Omni",
+  "family_slug": "nemotron",
+  "family_display": "Nemotron-3-Nano-Omni",
+  "model_slug": "nemotron-3",
+  "model_display": "Nemotron-3",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nemotron-3-Nano-Omni",
+  "Nemotron-3",
+  "nemotron",
+  "nemotron-3",
+  "vlm",
+  "family:nemotron",
+  "model:nemotron-3",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "nemotron"
+  ],
+  "versions": [
+   "nemotron"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "nemotron-3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:13:16Z"
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://openrouter.ai/nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Represents the shift from separate modality models to a unified 'Omni' architecture in the Nemotron 3 family; larger Super and Ultra variants are planned for late 2026.",
+  "latest_version": "Nemotron-3-Nano-Omni (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "A unified multimodal Mixture-of-Experts model that natively processes text, image, video, and audio in a single reasoning loop. It features a 256k context window and is optimized for agentic computer use and high-efficiency document intelligence."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:13:16Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

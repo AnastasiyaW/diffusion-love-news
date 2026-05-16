@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a8098d79d8",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "CHAI: Critique-based Human-AI Oversight for Video Captioning",
+ "summary": "A high-precision video understanding framework that employs a human-in-the-loop critique process to refine AI-generated descriptions. It specializes in cinematic primitives such as camera motion and spatial dynamics, allowing compact models to achieve superior accuracy.",
+ "research_notes": "Leverages over 200 professional visual primitives; the 8B model variant notably outperforms larger proprietary systems like GPT-5 in specific captioning tasks.",
+ "project": {
+  "name": "CHAI",
+  "family_slug": "chai",
+  "family_display": "CHAI",
+  "model_slug": "chai",
+  "model_display": "CHAI",
+  "version": null,
+  "released": "2026-04-28",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CHAI",
+  "chai",
+  "vlm",
+  "family:chai",
+  "github",
+  "paper"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "chai"
+  ],
+  "versions": [
+   "chai"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://linzhiqiu.github.io/papers/chai/",
+   "host": "linzhiqiu.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/chancharikmitra/CHAI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:45:21Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Building upon the CameraBench (2025) foundation, CHAI introduced a scalable oversight loop and structured cinematic vocabulary. Development is continuing toward Moodio and CameraBench-Pro for professional filmmaking applications.",
+  "latest_version": "CHAI CVPR 2026 Highlight",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-28",
+  "excerpt": "A high-precision video understanding framework that employs a human-in-the-loop critique process to refine AI-generated descriptions. It specializes in cinematic primitives such as camera motion and spatial dynamics, allowing compact models to achieve superior accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:45:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

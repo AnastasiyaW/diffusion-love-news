@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2eb209422c",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "MAI-Transcribe-1 Speech Recognition Model by Microsoft",
+ "summary": "MAI-Transcribe-1 is a proprietary automatic speech recognition model from Microsoft AI designed for high-accuracy batch and real-time transcription. It achieves a world-leading 3.88% Word Error Rate on the FLEURS benchmark and is optimized for noisy environments.",
+ "research_notes": "Outperforms OpenAI's Whisper Large v3 and Google's Gemini 1.5 Flash in speed and accuracy; priced competitively at $0.36 per hour of audio.",
+ "project": {
+  "name": "MAI-Transcribe-1",
+  "family_slug": "mai",
+  "family_display": "MAI-Transcribe-1",
+  "model_slug": "mai",
+  "model_display": "MAI",
+  "version": "1",
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MAI-Transcribe-1",
+  "MAI",
+  "mai",
+  "audio-music",
+  "family:mai",
+  "paper",
+  "mai-1"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "mai"
+  ],
+  "versions": [
+   "mai-1"
+  ],
+  "features": [],
+  "formats": [
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://microsoft.ai/news/today-were-announcing-3-new-world-class-mai-models-available-in-foundry/",
+   "host": "microsoft.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:57:49Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://aka.ms/mai-foundry-tcblog",
+   "host": "aka.ms",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://msi-playground.microsoft.com/chat",
+   "host": "msi-playground.microsoft.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as part of Microsoft's first-party foundation model stack, it is currently in Public Preview via Microsoft Foundry and Azure AI Foundry. It is being integrated into Microsoft Teams and Copilot's Voice mode.",
+  "latest_version": "MAI-Transcribe-1 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "MAI-Transcribe-1 is a proprietary automatic speech recognition model from Microsoft AI designed for high-accuracy batch and real-time transcription. It achieves a world-leading 3.88% Word Error Rate on the FLEURS benchmark and is optimized for noisy environments."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:57:49Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

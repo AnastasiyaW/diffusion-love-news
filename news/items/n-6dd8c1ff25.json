@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-6dd8c1ff25",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "ClawGUI: Unified Framework for Training and Deploying GUI Agents",
+ "summary": "An open-source, full-stack framework for the entire lifecycle of GUI agents, covering reinforcement learning training, standardized evaluation, and cross-platform deployment. It enables agents to control Android, iOS, and HarmonyOS devices using advanced policy optimization and process reward models.",
+ "research_notes": "Developed by ZJU-REAL lab; includes a specialized Android application for on-device deployment using Shizuku.",
+ "project": {
+  "name": "ClawGUI",
+  "family_slug": "clawgui",
+  "family_display": "ClawGUI",
+  "model_slug": "clawgui",
+  "model_display": "ClawGUI",
+  "version": null,
+  "released": "2026-04-15",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ClawGUI",
+  "clawgui",
+  "llm",
+  "family:clawgui",
+  "github",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "clawgui"
+  ],
+  "versions": [
+   "clawgui"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://zju-real.github.io/ClawGUI-Page/#demos",
+   "host": "zju-real.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ZJU-REAL/ClawGUI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:42:14Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/SugarVapeur/ClawGUI-2B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026, the framework addresses the fragmentation in GUI agent research by providing a unified pipeline from training to production. The included ClawGUI-2B model currently outperforms significantly larger models like UI-Venus-72B on major benchmarks.",
+  "latest_version": "ClawGUI v1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-15",
+  "excerpt": "An open-source, full-stack framework for the entire lifecycle of GUI agents, covering reinforcement learning training, standardized evaluation, and cross-platform deployment. It enables agents to control Android, iOS, and HarmonyOS devices using advanced policy optimization and process reward models."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:42:14Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

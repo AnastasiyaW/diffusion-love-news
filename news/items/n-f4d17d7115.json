@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f4d17d7115",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Gemma 4 E4B Heretic Uncensored",
+ "summary": "An unrestricted version of Google's Gemma 4 model, modified using the HERETIC abliteration method to neutralize safety guardrails and refusal directions. It is optimized for creative writing and roleplay without AI lecturing or filtering.",
+ "research_notes": "Highly popular in the local LLM community for its 'nanny-free' behavior; requires GGUF-compatible inference tools like LM Studio or llama.cpp.",
+ "project": {
+  "name": "Gemma 4 Heretic",
+  "family_slug": "gemma",
+  "family_display": "Gemma 4 Heretic",
+  "model_slug": "gemma-4",
+  "model_display": "Gemma 4",
+  "version": null,
+  "released": "2026-04-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemma 4 Heretic",
+  "Gemma 4",
+  "gemma",
+  "gemma-4",
+  "llm",
+  "family:gemma",
+  "model:gemma-4",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "gemma"
+  ],
+  "versions": [
+   "gemma"
+  ],
+  "features": [],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "gemma-4"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Abiray/gemma-4-E4B-it-heretic-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-16T10:49:58Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Abhiray/gemma-4-E4B-it-heretic-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved to include 'Thinking' variants like DECKARD HERETIC, which feature augmented chain-of-thought reasoning while maintaining an uncensored status. The HERETIC process itself reached version 1.2.0 by mid-2026.",
+  "latest_version": "Gemma 4 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-04",
+  "excerpt": "An unrestricted version of Google's Gemma 4 model, modified using the HERETIC abliteration method to neutralize safety guardrails and refusal directions. It is optimized for creative writing and roleplay without AI lecturing or filtering."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:49:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

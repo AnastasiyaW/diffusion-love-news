@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-511353336a",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "KupkaProd Cinema Pipeline: Local Agentic AI Movie Studio",
+ "summary": "An autonomous local pipeline that converts text prompts or screenplays into produced cinematic videos using agentic LLMs. It orchestrates script analysis, storyboarding, and video generation within a unified ComfyUI-based environment.",
+ "research_notes": "Integrates Gemma-based models for scriptwriting and LTX 2.3/LTX-AV for video generation; part of the AgentSkills ecosystem.",
+ "project": {
+  "name": "KupkaProd Cinema Pipeline",
+  "family_slug": "kupkaprod",
+  "family_display": "KupkaProd Cinema Pipeline",
+  "model_slug": "kupkaprod",
+  "model_display": "KupkaProd",
+  "version": null,
+  "released": "2026-04-13",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "KupkaProd Cinema Pipeline",
+  "KupkaProd",
+  "kupkaprod",
+  "tools-frontend",
+  "family:kupkaprod",
+  "scene",
+  "github",
+  "comfyui",
+  "open"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "kupkaprod"
+  ],
+  "versions": [
+   "kupkaprod"
+  ],
+  "features": [
+   "scene"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Matticusnicholas/KupkaProd-Cinema-Pipeline",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:20:44Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from individual scripts into a full-featured agentic movie studio using Ollama for direction and LTX-Video for synthesis. Now supports automated scene planning, multi-take generation, and built-in editing tools.",
+  "latest_version": "Full Movie Pipeline Agent (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "An autonomous local pipeline that converts text prompts or screenplays into produced cinematic videos using agentic LLMs. It orchestrates script analysis, storyboarding, and video generation within a unified ComfyUI-based environment."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:20:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

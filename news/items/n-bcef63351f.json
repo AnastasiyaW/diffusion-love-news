@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-bcef63351f",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Z-Anime: S3-DiT 6B High-Fidelity Anime Generation Model",
+ "summary": "Z-Anime is a specialized image generation model fine-tuned from Alibaba's Z-Image (S3-DiT) architecture with 6 billion parameters. It delivers high-quality anime aesthetics and supports both traditional tag-based and natural language descriptive prompting.",
+ "research_notes": "Features 6B parameters and S3-DiT architecture; includes specialized ComfyUI workflows and supports the Engineer V4 text encoder for improved output diversity.",
+ "project": {
+  "name": "Z-Anime",
+  "family_slug": "z-image",
+  "family_display": "Z-Anime",
+  "model_slug": "z-anime",
+  "model_display": "Z-Anime",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Z-Anime",
+  "z-image",
+  "z-anime",
+  "diffusion-image",
+  "family:z-image",
+  "model:z-anime",
+  "character",
+  "fine-tuning",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "z-image"
+  ],
+  "versions": [
+   "z-image"
+  ],
+  "features": [
+   "character",
+   "fine-tuning"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "z-anime"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/SeeSee21/Z-Anime",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:20:12Z"
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/JSCPPProgrammer/z-anime-distill8-gradio-zerogpu",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a full fine-tune of Z-Image, the project evolved to include 4-step and 8-step distilled versions for rapid generation. Recent updates added GGUF quantizations, FP8 support for 8GB VRAM cards, and 'All-In-One' (AIO) safetensors for simplified use in ComfyUI and local apps.",
+  "latest_version": "Z-Anime AIO (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "Z-Anime is a specialized image generation model fine-tuned from Alibaba's Z-Image (S3-DiT) architecture with 6 billion parameters. It delivers high-quality anime aesthetics and supports both traditional tag-based and natural language descriptive prompting."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:20:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

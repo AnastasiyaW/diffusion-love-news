@@ -1,0 +1,107 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2244c25f96",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "DeepSeek TVP: Thinking with Visual Primitives",
+ "summary": "A vision-language framework that interleaves spatial coordinates and bounding boxes as discrete tokens within a model's Chain-of-Thought reasoning. It bridges the 'Reference Gap' in multimodal models, enabling precise spatial grounding and long-form reasoning for complex visual tasks.",
+ "research_notes": "Introduces Compressed Sparse Attention (CSA) to achieve a 7056x vision compression ratio, reducing visual KV cache footprint to approximately 90 tokens per image.",
+ "project": {
+  "name": "Thinking with Visual Primitives (TVP)",
+  "family_slug": "deepseek-tvp",
+  "family_display": "Thinking with Visual Primitives (TVP)",
+  "model_slug": "thinking-with-visual-primitives-tvp",
+  "model_display": "Thinking with Visual Primitives (TVP)",
+  "version": null,
+  "released": "2026-05-04",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Thinking with Visual Primitives (TVP)",
+  "deepseek-tvp",
+  "thinking-with-visual-primitives-tvp",
+  "vlm",
+  "family:deepseek-tvp",
+  "model:thinking-with-visual-primitives-tvp",
+  "paper",
+  "github",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "deepseek-tvp"
+  ],
+  "versions": [
+   "deepseek-tvp"
+  ],
+  "features": [],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "thinking-with-visual-primitives-tvp"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/deepseek-ai/Thinking-with-Visual-Primitives",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "dead",
+   "verified_at": "2026-05-14T19:47:00Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ailuntx/Thinking-with-Visual-Primitives",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The TVP framework was briefly released in early 2026 before the official repository and paper were pulled for further refinement. Its core technology was subsequently integrated into the DeepSeek-V4 foundation models, where it currently powers high-precision spatial reasoning features.",
+  "latest_version": "DeepSeek-V4 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-04",
+  "excerpt": "A vision-language framework that interleaves spatial coordinates and bounding boxes as discrete tokens within a model's Chain-of-Thought reasoning. It bridges the 'Reference Gap' in multimodal models, enabling precise spatial grounding and long-form reasoning for complex visual tasks."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:47:00Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

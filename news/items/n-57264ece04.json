@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-57264ece04",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX-2.3 22B IC-LoRA ReFocus Video Restoration Tool",
+ "summary": "A specialized In-Context LoRA for the LTX-2.3 22B model that corrects lens blur in video. It enables precise restoration of out-of-focus footage by recovering sharp optical details.",
+ "research_notes": "Optimized specifically for optical lens blur; not intended for motion or gaussian blur restoration.",
+ "project": {
+  "name": "LTX-2.3-22b-IC-LoRA-ReFocus",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3-22b-IC-LoRA-ReFocus",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3-22b",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": "ReFocus",
+   "base_model_slug": "ltx-2-3-22b"
+  }
+ },
+ "tags": [
+  "LTX-2.3-22b-IC-LoRA-ReFocus",
+  "LTX-2.3-22b",
+  "ltx",
+  "ltx-2-3-22b",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3-22b",
+  "adaptation:lora",
+  "lora-for:ltx-2-3-22b",
+  "lora",
+  "edit",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "ltx-2-3-22b"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/oumoumad/LTX-2.3-22b-IC-LoRA-ReFocus",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:32:46Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://cloud.comfy.org/?share=b409a8a575a5",
+   "host": "cloud.comfy.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released as part of the LTX-2.3 update to showcase IC-LoRA's capability for targeted video-to-video editing and focus correction.",
+  "latest_version": "LTX-2.3 (Mar 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "A specialized In-Context LoRA for the LTX-2.3 22B model that corrects lens blur in video. It enables precise restoration of out-of-focus footage by recovering sharp optical details."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:32:46Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

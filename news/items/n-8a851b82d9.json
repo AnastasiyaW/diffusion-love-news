@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.2",
+ "id": "n-8a851b82d9",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Reshoot-Anything: 4D-Anchor Controlled Video Viewpoint Synthesis",
+ "summary": "A self-supervised video diffusion system that enables changing camera trajectories in monocular footage. It uses 4D point-cloud anchors derived from source video to provide geometric conditioning for consistent viewpoint synthesis.",
+ "research_notes": "Developed by Morphic Films; includes a specialized 4D Visualizer for manual camera trajectory keyframing in reconstructed point-cloud spaces.",
+ "project": {
+  "name": "Reshoot-Anything",
+  "family_slug": "reshoot-anything",
+  "family_display": "Reshoot-Anything",
+  "model_slug": "reshoot-anything",
+  "model_display": "Reshoot-Anything",
+  "version": null,
+  "released": "2026-04-27",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Reshoot-Anything",
+  "reshoot-anything",
+  "diffusion-video",
+  "family:reshoot-anything",
+  "video-to-video",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "reshoot-anything"
+  ],
+  "versions": [
+   "reshoot-anything"
+  ],
+  "features": [
+   "video-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://adithyaiyer1999.github.io/reshoot-anything/",
+   "host": "adithyaiyer1999.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/morphicfilms/video-to-video",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:00:45Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from basic frame-interpolation to a full 4D-anchor controlled workflow using the Wan diffusion series. As of May 2026, it supports the Wan 2.7 architecture for high-fidelity camera control and instruction-based editing.",
+  "latest_version": "Wan 2.7 Support (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-27",
+  "excerpt": "A self-supervised video diffusion system that enables changing camera trajectories in monocular footage. It uses 4D point-cloud anchors derived from source video to provide geometric conditioning for consistent viewpoint synthesis."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:00:45Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

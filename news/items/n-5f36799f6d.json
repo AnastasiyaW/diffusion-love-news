@@ -1,0 +1,131 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5f36799f6d",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Matrix-Game 3.0: Interactive World Model by Skywork AI",
+ "summary": "An open-source interactive world model that enables real-time streaming and maintains long-term spatiotemporal consistency. It functions as a high-performance world simulator, generating high-resolution environments at up to 40 FPS.",
+ "research_notes": "Achieves 720p at 40 FPS using a 5B parameter model; features memory-augmented Diffusion Transformers and supports AMD ROCm via AITER CK.",
+ "project": {
+  "name": "Matrix-Game 3.0",
+  "family_slug": "matrix-game",
+  "family_display": "Matrix-Game",
+  "model_slug": "matrix-game-3-0",
+  "model_display": "Matrix-Game 3.0",
+  "version": "3.0",
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Matrix-Game 3.0",
+  "Matrix-Game",
+  "matrix-game",
+  "matrix-game-3-0",
+  "diffusion-video",
+  "family:matrix-game",
+  "model:matrix-game-3-0",
+  "realtime",
+  "text-to-video",
+  "github",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "matrix-game"
+  ],
+  "versions": [
+   "matrix-game-3-0"
+  ],
+  "features": [
+   "realtime",
+   "text-to-video"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "matrix-game-3-0"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://matrix-game-v3.github.io/",
+   "host": "matrix-game-v3.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/SkyworkAI/Matrix-Game",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:53:57Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Skywork/Matrix-Game-3.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://modelscope.ai/models/Skywork/Matrix-Game-3.0",
+   "host": "modelscope.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from a Minecraft-focused v1.0 to a real-time world simulator in v3.0, introducing long-horizon memory and a 28B MoE architecture to solve consistency issues in extended sequences.",
+  "latest_version": "Matrix-Game 3.0 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "An open-source interactive world model that enables real-time streaming and maintains long-term spatiotemporal consistency. It functions as a high-performance world simulator, generating high-resolution environments at up to 40 FPS."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:53:57Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

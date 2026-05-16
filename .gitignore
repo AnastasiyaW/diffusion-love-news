@@ -1,0 +1,17 @@
+# Public repo — only the news/ feed + README + LICENSE goes out.
+# Everything else (pipeline tooling, intermediate staging, internal docs,
+# session handoffs) stays in the local working tree, never committed.
+
+# Ignore everything by default …
+/*
+/.*
+
+# … then allow only the public-safe surface:
+!/news/
+!/README.md
+!/LICENSE
+!/.gitignore
+
+# Inside news/, ignore any backups
+news/*.bak
+news/.tmp_*

@@ -1,0 +1,125 @@
+{
+ "schema_version": "1.2",
+ "id": "n-30f5861cb4",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Flux FaceIR: High-Quality Face Restoration for Flux",
+ "summary": "Flux FaceIR is a specialized restoration framework built on the FLUX.2-klein model that supports blind and reference-guided facial enhancement. It utilizes LoRA adapters to restore fine-grained details and maintain identity across single or multiple reference images.",
+ "research_notes": "Requires high VRAM (22GB+) and the non-quantized FLUX.2-klein-base-4B model. A popular ComfyUI implementation is available via the ComfyUI-Flux-FaceIR repository.",
+ "project": {
+  "name": "Flux FaceIR",
+  "family_slug": "flux",
+  "family_display": "Flux FaceIR",
+  "model_slug": "flux",
+  "model_display": "Flux",
+  "version": null,
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "flux"
+  }
+ },
+ "tags": [
+  "Flux FaceIR",
+  "Flux",
+  "flux",
+  "diffusion-image",
+  "family:flux",
+  "adaptation:lora",
+  "lora-for:flux",
+  "lora",
+  "face",
+  "image-to-image",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "flux"
+  ],
+  "versions": [
+   "flux"
+  ],
+  "features": [
+   "lora",
+   "face",
+   "image-to-image"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/cosmicrealm/flux-restoration",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:13:33Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/zhangjinyang/flux-restoration",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in early April 2026, the project quickly expanded to support full-image restoration using RetinaFace alignment. Recent updates in May 2026 focused on improving ComfyUI integration and fixing device-specific LoRA placement issues.",
+  "latest_version": "FLUX.2-klein FaceIR (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "Flux FaceIR is a specialized restoration framework built on the FLUX.2-klein model that supports blind and reference-guided facial enhancement. It utilizes LoRA adapters to restore fine-grained details and maintain identity across single or multiple reference images."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:13:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

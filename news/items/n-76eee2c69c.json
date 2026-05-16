@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-76eee2c69c",
+ "entry_type": "project",
+ "category": "gaussian-splatting",
+ "lang": "en",
+ "title": "Echo-2: SpAItial AI 3D World Generation",
+ "summary": "Echo-2 is a generative world model that transforms text prompts or single images into navigable, spatially consistent 3D environments. It utilizes 3D Gaussian Splatting to ensure stable geometry and real-time performance directly in web browsers.",
+ "research_notes": "Developed by Munich-based startup SpAItial AI; results can be exported as .ply point clouds or standard mesh formats for use in game engines like Unreal Engine 5.",
+ "project": {
+  "name": "Echo-2",
+  "family_slug": "echo",
+  "family_display": "Echo-2",
+  "model_slug": "echo-2",
+  "model_display": "Echo-2",
+  "version": "2",
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Echo-2",
+  "echo",
+  "echo-2",
+  "gaussian-splatting",
+  "family:echo",
+  "model:echo-2",
+  "edit",
+  "scene",
+  "web-demo",
+  "free"
+ ],
+ "facets": {
+  "category": "gaussian-splatting",
+  "entry_type": "project",
+  "projects": [
+   "echo"
+  ],
+  "versions": [
+   "echo-2"
+  ],
+  "features": [
+   "edit",
+   "scene"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "echo-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://spaitial.ai/",
+   "host": "spaitial.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:06:10Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://spaitial.ai/blog/echo-2-release",
+   "host": "spaitial.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://app.spaitial.ai/",
+   "host": "app.spaitial.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in late April 2026, Echo-2 introduced spatial persistence and object-level editing via Gaussian Splatting, succeeding earlier prototypes by focusing on 'physically-grounded' geometry that eliminates drift during navigation.",
+  "latest_version": "Echo-2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "Echo-2 is a generative world model that transforms text prompts or single images into navigable, spatially consistent 3D environments. It utilizes 3D Gaussian Splatting to ensure stable geometry and real-time performance directly in web browsers."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:06:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-1b656b5ff8",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Multi-User Large Language Model Agents",
+ "summary": "A foundational research framework and benchmark for LLM agents designed to interact with multiple human users simultaneously. It addresses critical challenges in group settings, such as navigating conflicting instructions, maintaining authority hierarchies, and preventing privacy leaks between users.",
+ "research_notes": "Developed by a research collective from Stanford, MIT, KAUST, and UT Austin; formalizes the shift from single-user AI to complex social and enterprise orchestrators.",
+ "project": {
+  "name": "Multi-User LLM Agent",
+  "family_slug": "multi-user-agents",
+  "family_display": "Multi-User LLM Agent",
+  "model_slug": "multi-user-llm-agent",
+  "model_display": "Multi-User LLM Agent",
+  "version": null,
+  "released": "2026-04-19",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Multi-User LLM Agent",
+  "multi-user-agents",
+  "multi-user-llm-agent",
+  "llm",
+  "family:multi-user-agents",
+  "model:multi-user-llm-agent",
+  "paper",
+  "github"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "multi-user-agents"
+  ],
+  "versions": [
+   "multi-user-agents"
+  ],
+  "features": [],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "multi-user-llm-agent"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2604.08567",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Kordi-AI/Multi-User-LLM-Agent",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:03:18Z"
+  }
+ ],
+ "evolution": {
+  "summary": "After the initial 2024 proposal, Kordi-AI expanded the benchmark in early 2026 to stress-test frontier models like GPT-5 on 'Multi-Principal Decision Problems'. The research has since evolved into real-world applications like Kordra 2.0, an autonomous team-based developer workspace.",
+  "latest_version": "Multi-User LLM Agents (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-19",
+  "excerpt": "A foundational research framework and benchmark for LLM agents designed to interact with multiple human users simultaneously. It addresses critical challenges in group settings, such as navigating conflicting instructions, maintaining authority hierarchies, and preventing privacy leaks between users."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:03:18Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

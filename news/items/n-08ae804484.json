@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-08ae804484",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "AP Netflix VOID — ComfyUI Nodes for Video Object Deletion",
+ "summary": "A ComfyUI implementation of Netflix's VOID model designed for advanced video inpainting. It removes objects along with their physical interactions, such as shadows and reflections, using a unique quadmask system.",
+ "research_notes": "Introduced the quadmask system for physics-aware inpainting; widely used as the primary entry point for VOID in the ComfyUI ecosystem.",
+ "project": {
+  "name": "AP Netflix VOID",
+  "family_slug": "void",
+  "family_display": "AP Netflix VOID",
+  "model_slug": "void",
+  "model_display": "VOID",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AP Netflix VOID",
+  "VOID",
+  "void",
+  "tools-frontend",
+  "family:void",
+  "inpainting",
+  "edit",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "void"
+  ],
+  "versions": [
+   "void"
+  ],
+  "features": [
+   "inpainting",
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/adampolczynski/AP_Netflix_VOID",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:08:44Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following the April 2026 release of the Netflix VOID model, this project evolved from a beta port into a refined node set. Community updates have introduced FP8 quantization for 24GB VRAM support and improved temporal consistency through two-pass pipelines.",
+  "latest_version": "ComfyUI VOID implementation (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "A ComfyUI implementation of Netflix's VOID model designed for advanced video inpainting. It removes objects along with their physical interactions, such as shadows and reflections, using a unique quadmask system."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:08:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "schema_version": "1.2",
+ "id": "n-661e84940d",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "OmniVoice Custom Nodes for ComfyUI",
+ "summary": "A ComfyUI integration for the OmniVoice zero-shot voice cloning model, enabling high-quality text-to-speech and voice design within node-based workflows. It supports over 600 languages and achieves real-time factors as low as 0.025.",
+ "research_notes": "Requires PyTorch 2.8.0 or later; users are advised to install via ComfyUI Manager or use the --no-deps flag to avoid dependency conflicts with the core ComfyUI environment.",
+ "project": {
+  "name": "ComfyUI OmniVoice",
+  "family_slug": "omnivoice",
+  "family_display": "ComfyUI OmniVoice",
+  "model_slug": "omnivoice",
+  "model_display": "OmniVoice",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI OmniVoice",
+  "OmniVoice",
+  "omnivoice",
+  "tools-frontend",
+  "family:omnivoice",
+  "voice-clone",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "omnivoice"
+  ],
+  "versions": [
+   "omnivoice"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Saganaki22/ComfyUI-OmniVoice-TTS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "moved",
+   "verified_at": "2026-05-16T11:16:47Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ScryptHunter/ComfyUi_OmniVoice",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/komikndr/omnivoice_comfy",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from early community ports to the stabilized Saganaki22 implementation, which introduced SageAttention support, memory optimizations for Windows, and advanced dialogue tagging for non-verbal expressions.",
+  "latest_version": "v0.4.1 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A ComfyUI integration for the OmniVoice zero-shot voice cloning model, enabling high-quality text-to-speech and voice design within node-based workflows. It supports over 600 languages and achieves real-time factors as low as 0.025."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:16:47Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f1139f1ee9",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "CompHairHead: One-shot 3D Avatars with Deformable Hair",
+ "summary": "A research project for generating high-fidelity, animatable 3D head avatars from a single 2D portrait. It decouples the reconstruction into a bald facial mesh and dynamic hair represented by 3D Gaussian Splats, enabling realistic physics and easy hairstyle swapping.",
+ "research_notes": "Optimized for Apple Silicon (M1-M4) using Metal/MPS; utilizes SAM2 for hair-face segmentation and FLAME for facial expressions.",
+ "project": {
+  "name": "CompHairHead",
+  "family_slug": "comphairhead",
+  "family_display": "CompHairHead",
+  "model_slug": "comphairhead",
+  "model_display": "CompHairHead",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CompHairHead",
+  "comphairhead",
+  "3d",
+  "family:comphairhead",
+  "face",
+  "animation",
+  "github"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "comphairhead"
+  ],
+  "versions": [
+   "comphairhead"
+  ],
+  "features": [
+   "face",
+   "animation"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://yuansun-xjtu.github.io/CompHairHead.io/",
+   "host": "yuansun-xjtu.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:51:29Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as a successor to 3DGH, introducing Position-Based Dynamics (PBD) for hair simulation within a 3D Gaussian Splatting framework. It remains the current state-of-the-art for physically realistic, one-shot avatar animation.",
+  "latest_version": "Initial Release (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "A research project for generating high-fidelity, animatable 3D head avatars from a single 2D portrait. It decouples the reconstruction into a bald facial mesh and dynamic hair represented by 3D Gaussian Splats, enabling realistic physics and easy hairstyle swapping."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:51:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "schema_version": "1.2",
+ "id": "n-49a6616381",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "BRO v14: Hardcore Stoic Engineer Mega-Prompt",
+ "summary": "A 110,000-token system instruction set designed to transform AI models into critical, anti-sycophantic engineering mentors. It focuses on first-principles thinking, context-drift protection, and fighting hallucinations via built-in epistemic markers.",
+ "research_notes": "Specifically optimized for high-context models like Gemini (via Google AI Studio) and DeepSeek.",
+ "project": {
+  "name": "BRO v14",
+  "family_slug": "bro",
+  "family_display": "BRO",
+  "model_slug": "bro-v14",
+  "model_display": "BRO v14",
+  "version": "v14",
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "BRO v14",
+  "BRO",
+  "bro",
+  "bro-v14",
+  "llm",
+  "family:bro",
+  "model:bro-v14",
+  "edit",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "bro"
+  ],
+  "versions": [
+   "bro-v14"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "bro-v14"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Loc-ID/BRO",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:45:09Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Loc-ID/BRO?tab=readme-ov-file",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://habr.com/ru/articles/1019444/",
+   "host": "habr.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Currently in version 14; the author is actively refining the prompt into version 15 based on user feedback and bug data.",
+  "latest_version": "BRO v14 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A 110,000-token system instruction set designed to transform AI models into critical, anti-sycophantic engineering mentors. It focuses on first-principles thinking, context-drift protection, and fighting hallucinations via built-in epistemic markers."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:45:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

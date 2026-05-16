@@ -1,0 +1,102 @@
+{
+ "schema_version": "1.2",
+ "id": "n-4697df47f5",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "Token Warping for MLLM Viewpoint Understanding",
+ "summary": "A training-free research project that enables Multimodal Large Language Models to reason about different viewpoints by warping image tokens within Vision Transformers. This geometric manipulation approach allows models to perform spatial reasoning and mental rotation without additional fine-tuning.",
+ "research_notes": "Developed by KAIST Visual AI Group; uses backward token warping to remain robust against depth estimation errors while maintaining semantic coherence.",
+ "project": {
+  "name": "Token Warping",
+  "family_slug": "token-warping",
+  "family_display": "Token Warping",
+  "model_slug": "token-warping",
+  "model_display": "Token Warping",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Token Warping",
+  "token-warping",
+  "vlm",
+  "family:token-warping",
+  "paper",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "token-warping"
+  ],
+  "versions": [
+   "token-warping"
+  ],
+  "features": [],
+  "formats": [
+   "paper",
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://token-warping-mllm.github.io/",
+   "host": "token-warping-mllm.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KAIST-Visual-AI-Group/Token-Warping-MLLM",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:42:28Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project was accepted at CVPR 2026 and introduced ViewBench, a benchmark specifically designed to evaluate viewpoint reasoning in MLLMs. Official inference code and benchmark datasets were released following the publication.",
+  "latest_version": "CVPR 2026 (Feb 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "A training-free research project that enables Multimodal Large Language Models to reason about different viewpoints by warping image tokens within Vision Transformers. This geometric manipulation approach allows models to perform spatial reasoning and mental rotation without additional fine-tuning."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:42:28Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

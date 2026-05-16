@@ -1,0 +1,135 @@
+{
+ "schema_version": "1.2",
+ "id": "n-36e9bae8ed",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "MiniCPM-V 4.6: Efficient Edge-Native Multimodal AI Model",
+ "summary": "MiniCPM-V 4.6 is a 1.3B parameter vision-language model optimized for mobile and edge deployment. It utilizes mixed visual token compression to achieve performance parity with larger models while significantly reducing computational costs on handheld devices.",
+ "research_notes": "Built on Qwen3.5; supports high-resolution image processing up to 1.8M pixels and is optimized for iOS and Android NPU/GPU execution.",
+ "project": {
+  "name": "MiniCPM-V 4.6",
+  "family_slug": "minicpm-v",
+  "family_display": "MiniCPM-V",
+  "model_slug": "minicpm-v-4-6",
+  "model_display": "MiniCPM-V 4.6",
+  "version": "4.6",
+  "released": "2026-05-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniCPM-V 4.6",
+  "MiniCPM-V",
+  "minicpm-v",
+  "minicpm-v-4-6",
+  "vlm",
+  "family:minicpm-v",
+  "model:minicpm-v-4-6",
+  "github",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "minicpm-v"
+  ],
+  "versions": [
+   "minicpm-v-4-6"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "minicpm-v-4-6"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenBMB/MiniCPM-V",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:34:01Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenSQZ/MiniCPM-V-CookBook",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights-collection",
+   "url": "https://huggingface.co/models?other=base_model:quantized:openbmb/MiniCPM-V-4.6",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/openbmb/MiniCPM-V-4.6-Demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The series branched into MiniCPM-o for real-time omni-modal interaction (audio/video), while the V series specialized in edge-efficiency with high-resolution OCR and advanced video token compression.",
+  "latest_version": "MiniCPM-V 4.6 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "MiniCPM-V 4.6 is a 1.3B parameter vision-language model optimized for mobile and edge deployment. It utilizes mixed visual token compression to achieve performance parity with larger models while significantly reducing computational costs on handheld devices."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:34:01Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

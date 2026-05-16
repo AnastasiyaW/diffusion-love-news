@@ -1,0 +1,128 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d9eaebd61d",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Wan 2.7-Image (Pro)",
+ "summary": "A professional image generation and editing tool from Alibaba's Tongyi Lab featuring 'Thinking Mode' for advanced semantic reasoning and multi-reference face control. It supports 4K resolution output and precise hex-code color management for high-end design workflows.",
+ "research_notes": "Developed by Alibaba's Tongyi Lab; features a 9-grid multi-image input system to maintain character and style consistency across generations.",
+ "project": {
+  "name": "Wan 2.7-Image",
+  "family_slug": "wan",
+  "family_display": "Wan 2.7-Image",
+  "model_slug": "wan-2-7",
+  "model_display": "Wan 2.7",
+  "version": null,
+  "released": "2026-04-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Wan 2.7-Image",
+  "Wan 2.7",
+  "wan",
+  "wan-2-7",
+  "diffusion-image",
+  "family:wan",
+  "model:wan-2-7",
+  "edit",
+  "face",
+  "web-demo",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "wan"
+  ],
+  "versions": [
+   "wan"
+  ],
+  "features": [
+   "edit",
+   "face"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "wan-2-7"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://wan.video/",
+   "host": "wan.video",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://create.wan.video/generate/image/generate?model=wan2.7-pro",
+   "host": "create.wan.video",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:46:12Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://tongyi.aliyun.com/wan/explore",
+   "host": "tongyi.aliyun.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://wavespeed.ai/models/alibaba/wan-2.7/image-edit-pro",
+   "host": "wavespeed.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project transitioned from the open-source Wan 2.1/2.2 foundation to a commercial multimodal suite. Wan 2.7 introduced 'Thinking Mode' reasoning and split into specialized Image and Video branches, now competing with Sora 2 and Kling 2.6.",
+  "latest_version": "Wan 2.7 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-01",
+  "excerpt": "A professional image generation and editing tool from Alibaba's Tongyi Lab featuring 'Thinking Mode' for advanced semantic reasoning and multi-reference face control. It supports 4K resolution output and precise hex-code color management for high-end design workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:46:12Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

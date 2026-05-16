@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d755c8bc8a",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Qwen3-TTS: Advanced Zero-Shot Speech Synthesis",
+ "summary": "A specialized text-to-speech suite from Alibaba Qwen supporting zero-shot voice cloning from 3-second samples and natural language voice design. It utilizes a Dual-Track hybrid streaming architecture to achieve ultra-low latency and high-quality prosody across 10 languages.",
+ "research_notes": "Released under Apache 2.0 license; features voice design via text prompts and sub-100ms first-packet latency for real-time applications.",
+ "project": {
+  "name": "Qwen3-TTS",
+  "family_slug": "qwen",
+  "family_display": "Qwen3-TTS",
+  "model_slug": "qwen3",
+  "model_display": "Qwen3",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3-TTS",
+  "Qwen3",
+  "qwen",
+  "qwen3",
+  "audio-music",
+  "family:qwen",
+  "model:qwen3",
+  "voice-clone",
+  "colab",
+  "china",
+  "free"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [
+   "qwen"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "colab"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "free",
+  "year": 2026,
+  "models": [
+   "qwen3"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/QwenLM/Qwen3-TTS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:40:47Z"
+  },
+  {
+   "kind": "colab",
+   "url": "https://colab.research.google.com/drive/1JOebp3hwtw8BVeosUwtRj4kpP67sBx35",
+   "host": "colab.research.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=QmfiU8V5xq4",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Qwen3-TTS marks a shift from general audio-understanding models like Qwen2-Audio to a dedicated generation suite. It includes 0.6B and 1.7B variants, introducing the Qwen3-TTS-Tokenizer-12Hz for superior compression and emotional range.",
+  "latest_version": "Qwen3-TTS (Jan 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "A specialized text-to-speech suite from Alibaba Qwen supporting zero-shot voice cloning from 3-second samples and natural language voice design. It utilizes a Dual-Track hybrid streaming architecture to achieve ultra-low latency and high-quality prosody across 10 languages."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:40:47Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

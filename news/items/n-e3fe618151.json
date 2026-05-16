@@ -1,0 +1,118 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e3fe618151",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "MegaStyle: Scalable Artistic Style Curation Pipeline",
+ "summary": "An automated data curation framework and 1.4M image dataset for precise artistic style transfer in diffusion models. It leverages vision-language models to decouple style from content, enabling consistent style library generation.",
+ "research_notes": "Published under ArXiv:2604.08364; utilizes Qwen-Image for consistent style mapping and supports automated style-content decoupling.",
+ "project": {
+  "name": "MegaStyle",
+  "family_slug": "megastyle",
+  "family_display": "MegaStyle",
+  "model_slug": "megastyle",
+  "model_display": "MegaStyle",
+  "version": null,
+  "released": "2026-04-21",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MegaStyle",
+  "megastyle",
+  "diffusion-image",
+  "family:megastyle",
+  "fine-tuning",
+  "image-to-image",
+  "github",
+  "huggingface",
+  "flux"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "megastyle"
+  ],
+  "versions": [
+   "megastyle"
+  ],
+  "features": [
+   "fine-tuning",
+   "image-to-image"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [
+   "flux"
+  ],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://jeoyal.github.io/MegaStyle/",
+   "host": "jeoyal.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/MegaStyle",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:42:21Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Gaojunyao/MegaStyle",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Initially released in April 2026, the project quickly scaled to a 1.4 million image dataset with official ComfyUI workflows. It now serves as a foundational style curation tool for Tencent's Hunyuan and FLUX model ecosystems.",
+  "latest_version": "MegaStyle 1.4M (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-21",
+  "excerpt": "An automated data curation framework and 1.4M image dataset for precise artistic style transfer in diffusion models. It leverages vision-language models to decouple style from content, enabling consistent style library generation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:42:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

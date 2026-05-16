@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-dfe5e1e7a6",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "MiniMax Music 2.6 AI Music Generation Platform",
+ "summary": "MiniMax Music is a professional-grade AI music creation platform that generates high-fidelity audio from text prompts and lyrics. It currently operates as a comprehensive creative partner with tools for AI covers and professional music structuring.",
+ "research_notes": "Supports high-fidelity 44.1kHz audio and full-length tracks up to 6 minutes.",
+ "project": {
+  "name": "MiniMax Music 2.6",
+  "family_slug": "minimax-music",
+  "family_display": "MiniMax Music",
+  "model_slug": "minimax-music-2-6",
+  "model_display": "MiniMax Music 2.6",
+  "version": "2.6",
+  "released": "2026-04-11",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax Music 2.6",
+  "MiniMax Music",
+  "minimax-music",
+  "minimax-music-2-6",
+  "audio-music",
+  "family:minimax-music",
+  "model:minimax-music-2-6",
+  "edit",
+  "voice-clone",
+  "paid"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "minimax-music"
+  ],
+  "versions": [
+   "minimax-music-2-6"
+  ],
+  "features": [
+   "edit",
+   "voice-clone"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "paid",
+  "year": 2026,
+  "models": [
+   "minimax-music-2-6"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.minimax.io/",
+   "host": "minimax.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:38:51Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.minimax.io/news/music-26",
+   "host": "minimax.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://www.minimaxi.com/audio/music",
+   "host": "minimaxi.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The 2.6 update introduced a headline AI Cover feature, precise BPM and key controls, and reduced generation latency to under 20 seconds. It also launched open-source MusicSkill modules to integrate music generation into AI agent ecosystems.",
+  "latest_version": "MiniMax Music 2.6 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-11",
+  "excerpt": "MiniMax Music is a professional-grade AI music creation platform that generates high-fidelity audio from text prompts and lyrics. It currently operates as a comprehensive creative partner with tools for AI covers and professional music structuring."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:38:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

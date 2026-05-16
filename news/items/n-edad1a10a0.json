@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.2",
+ "id": "n-edad1a10a0",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "MegaStyle Style Transfer Framework and ComfyUI Nodes",
+ "summary": "A state-of-the-art style transfer system from Tencent utilizing a SigLIP-based encoder and FLUX.1-dev architecture. It enables high-fidelity artistic style transfer onto text-to-image prompts while effectively eliminating content leakage from the reference image.",
+ "research_notes": "A collaborative effort between Tencent and Tongji University; features a unique style-score computation system for evaluating artistic consistency.",
+ "project": {
+  "name": "MegaStyle ComfyUI Nodes",
+  "family_slug": "megastyle",
+  "family_display": "MegaStyle ComfyUI Nodes",
+  "model_slug": "megastyle",
+  "model_display": "MegaStyle",
+  "version": null,
+  "released": "2026-05-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MegaStyle ComfyUI Nodes",
+  "MegaStyle",
+  "megastyle",
+  "tools-frontend",
+  "family:megastyle",
+  "github",
+  "comfyui",
+  "china"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "megastyle"
+  ],
+  "versions": [
+   "megastyle"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/MegaStyle",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:18:22Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/MegaStyle/tree/main/comfyui",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/MegaStyle/blob/main/comfyui/workflow_megastyle.json",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/MegaStyle/blob/main/gradio_demo.py",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "After its April 2026 release, the project expanded to include the MegaStyle-1.4M dataset and a specialized style encoder that significantly outperforms prior CSD models. Official ComfyUI nodes were integrated directly into the main repository shortly after launch.",
+  "latest_version": "MegaStyle-FLUX (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-06",
+  "excerpt": "A state-of-the-art style transfer system from Tencent utilizing a SigLIP-based encoder and FLUX.1-dev architecture. It enables high-fidelity artistic style transfer onto text-to-image prompts while effectively eliminating content leakage from the reference image."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:18:22Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c56d07046e",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "DreamLite: Unified On-Device Image Generation and Editing",
+ "summary": "A compact 0.39B parameter diffusion model designed by ByteDance for mobile hardware. It utilizes a unified architecture to perform both text-to-image generation and instruction-based image editing on-device.",
+ "research_notes": "Developed by ByteDance Intelligent Creation Lab; introduces in-context spatial concatenation to merge generation and editing workflows.",
+ "project": {
+  "name": "DreamLite",
+  "family_slug": "dreamlite",
+  "family_display": "DreamLite",
+  "model_slug": "dreamlite",
+  "model_display": "DreamLite",
+  "version": null,
+  "released": "2026-04-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DreamLite",
+  "dreamlite",
+  "diffusion-image",
+  "family:dreamlite",
+  "text-to-image",
+  "edit",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "dreamlite"
+  ],
+  "versions": [
+   "dreamlite"
+  ],
+  "features": [
+   "text-to-image",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://carlofkl.github.io/dreamlite/",
+   "host": "carlofkl.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ByteVisionLab/DreamLite",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:47:34Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/DreamLite",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The inference code was released in April 2026 via the ByteVisionLab GitHub organization. The model currently achieves real-time performance on smartphones through 4-step distillation and a pruned mobile U-Net backbone.",
+  "latest_version": "DreamLite (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-01",
+  "excerpt": "A compact 0.39B parameter diffusion model designed by ByteDance for mobile hardware. It utilizes a unified architecture to perform both text-to-image generation and instruction-based image editing on-device."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:47:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

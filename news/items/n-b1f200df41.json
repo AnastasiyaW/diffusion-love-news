@@ -1,0 +1,108 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b1f200df41",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Seeing Fast and Slow: Learning the Flow of Time",
+ "summary": "A deep learning framework designed to perceive and control temporal dynamics in video using audio-visual self-supervision. It enables precise playback speed adjustment and high-fidelity temporal super-resolution by learning physical motion constraints.",
+ "research_notes": "Uses audio pitch shifts to supervise temporal learning and enforces motion equivariance to solve temporal hallucinations in video generation.",
+ "project": {
+  "name": "Seeing Fast and Slow",
+  "family_slug": "seeing-fast-and-slow",
+  "family_display": "Seeing Fast and Slow",
+  "model_slug": "seeing-fast-and-slow",
+  "model_display": "Seeing Fast and Slow",
+  "version": null,
+  "released": "2026-04-25",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seeing Fast and Slow",
+  "seeing-fast-and-slow",
+  "diffusion-video",
+  "family:seeing-fast-and-slow",
+  "github"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "seeing-fast-and-slow"
+  ],
+  "versions": [
+   "seeing-fast-and-slow"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://seeing-fast-and-slow.github.io/",
+   "host": "seeing-fast-and-slow.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:12:34Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Seeing-Fast-and-Slow/Seeing-Fast-and-Slow.github.io",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://seeing-fast-and-slow.github.io/speed_guess_game.html",
+   "host": "seeing-fast-and-slow.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from a research-only project to an active open-source repository in April 2026. Recent updates introduced speed-conditioned video generation and the release of the SloMo-44K dataset containing 18 million frames.",
+  "latest_version": "SloMo-44K (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-25",
+  "excerpt": "A deep learning framework designed to perceive and control temporal dynamics in video using audio-visual self-supervision. It enables precise playback speed adjustment and high-fidelity temporal super-resolution by learning physical motion constraints."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:12:34Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

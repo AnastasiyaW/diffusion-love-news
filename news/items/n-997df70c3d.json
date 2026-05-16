@@ -1,0 +1,127 @@
+{
+ "schema_version": "1.2",
+ "id": "n-997df70c3d",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX-2.3-22B-DISTILLED-1.1 Video DiT Model",
+ "summary": "A 22-billion parameter Diffusion Transformer model from Lightricks optimized for high-quality text-to-video and audio-to-video generation. It utilizes a Gemma 3 12B text encoder and is designed for efficient 8-step inference.",
+ "research_notes": "Released under Apache 2.0 license; community-driven GGUF and FP8 quantizations enable local execution on consumer GPUs with approximately 20GB of VRAM.",
+ "project": {
+  "name": "LTX-2.3-22B-DISTILLED-1.1",
+  "family_slug": "ltx",
+  "family_display": "LTX-2.3-22B-DISTILLED-1.1",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3-22B",
+  "version": "1.1",
+  "released": "2026-04-17",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3-22B-DISTILLED-1.1",
+  "LTX-2.3-22B",
+  "ltx",
+  "ltx-2-3-22b",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3-22b",
+  "consistency",
+  "huggingface",
+  "ltx-1-1",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx-1-1"
+  ],
+  "features": [
+   "consistency"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "ltx-2-3-22b"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lightricks/LTX-2.3",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:19:30Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Kijai/LTX2.3_comfy/tree/main/diffusion_models",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Abiray/LTX-2.3-22B-DISTILLED-1.1-GGUF/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/ltx-2.3-22b-distilled-1.1_lora-dynamic_fro09_avg_rank_111_bf16.safetensors",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The v1.1 update released in April 2026 retrained the distilled model to significantly improve audio fidelity, reduce artifacts, and stabilize motion. Lightricks also updated associated LoRAs and ComfyUI workflows for this version.",
+  "latest_version": "LTX-2.3 v1.1 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-17",
+  "excerpt": "A 22-billion parameter Diffusion Transformer model from Lightricks optimized for high-quality text-to-video and audio-to-video generation. It utilizes a Gemma 3 12B text encoder and is designed for efficient 8-step inference."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:19:30Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

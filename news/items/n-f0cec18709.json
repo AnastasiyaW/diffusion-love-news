@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-f0cec18709",
+ "entry_type": "project",
+ "category": "3d",
+ "lang": "en",
+ "title": "Rodin Gen 2.5 (Hyper3D)",
+ "summary": "A generative AI platform for high-fidelity 3D asset creation that produces sculpting-grade geometry and production-ready topology from text or image prompts. It utilizes the 10-billion parameter BANG architecture to decompose complex objects into modular, high-detail parts.",
+ "research_notes": "Developed by DeemosTech; the project transitioned from research previews to the integrated Hyper3D creator platform for professional game and VFX workflows.",
+ "project": {
+  "name": "Rodin Gen 2.5",
+  "family_slug": "rodin",
+  "family_display": "Rodin Gen",
+  "model_slug": "rodin",
+  "model_display": "Rodin",
+  "version": "2.5",
+  "released": "2026-04-14",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Rodin Gen 2.5",
+  "Rodin",
+  "Rodin Gen",
+  "rodin",
+  "3d",
+  "family:rodin",
+  "edit",
+  "rodin-2-5",
+  "closed"
+ ],
+ "facets": {
+  "category": "3d",
+  "entry_type": "project",
+  "projects": [
+   "rodin"
+  ],
+  "versions": [
+   "rodin-2-5"
+  ],
+  "features": [
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://hyper3d.ai",
+   "host": "hyper3d.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:54:02Z"
+  },
+  {
+   "kind": "community",
+   "url": "https://x.com/DeemosTech/status/2043726719769870433",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://x.com/DeemosTech",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the 10B-parameter BANG architecture release in late 2025 (Gen 2), the 2.5 update introduces ultra-detailed surface sculpting and 'Smart Low-Poly' export features with automated normal map baking.",
+  "latest_version": "Rodin Gen 2.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "A generative AI platform for high-fidelity 3D asset creation that produces sculpting-grade geometry and production-ready topology from text or image prompts. It utilizes the 10-billion parameter BANG architecture to decompose complex objects into modular, high-detail parts."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:54:02Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

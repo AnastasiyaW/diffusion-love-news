@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d8bf4374be",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Odyssey-2 Max: Real-time Generative World Simulator",
+ "summary": "Odyssey-2 Max is a large-scale generative world model that simulates physical reality in real-time using autoregressive diffusion. It enables interactive streaming of 3D environments with high physics accuracy for robotics, gaming, and simulation.",
+ "research_notes": "Uses an Autoregressive Diffusion Transformer (AR DiT) architecture; holds state-of-the-art scores on VBench 2 for physics accuracy.",
+ "project": {
+  "name": "Odyssey-2 Max",
+  "family_slug": "odyssey",
+  "family_display": "Odyssey-2 Max",
+  "model_slug": "odyssey-2",
+  "model_display": "Odyssey-2",
+  "version": null,
+  "released": "2026-04-22",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Odyssey-2 Max",
+  "Odyssey-2",
+  "odyssey",
+  "odyssey-2",
+  "diffusion-video",
+  "family:odyssey",
+  "model:odyssey-2",
+  "realtime",
+  "scene",
+  "closed"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "odyssey"
+  ],
+  "versions": [
+   "odyssey"
+  ],
+  "features": [
+   "realtime",
+   "scene"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "odyssey-2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://odyssey.ml/introducing-odyssey-2-max",
+   "host": "odyssey.ml",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:37:03Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from video generation to a 'physical intelligence' engine; Odyssey-2 Max scales parameters 3x over Odyssey-2 Pro and utilizes NVIDIA Blackwell GPUs. It is currently in private beta for robotics and defense partners.",
+  "latest_version": "Odyssey-2 Max (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-22",
+  "excerpt": "Odyssey-2 Max is a large-scale generative world model that simulates physical reality in real-time using autoregressive diffusion. It enables interactive streaming of 3D environments with high physics accuracy for robotics, gaming, and simulation."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:37:03Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

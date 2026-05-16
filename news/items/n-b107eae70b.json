@@ -1,0 +1,100 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b107eae70b",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "Sommelier: Open-Source Audio Processing Pipeline",
+ "summary": "An open-source modular pipeline designed to transform raw conversational audio into high-quality training data for Full-duplex Speech Language Models. It integrates speaker diarization, ASR Mixture of Experts, and background noise removal to preserve natural dialogue dynamics.",
+ "research_notes": "Developed by KAIST AI and NAVER Cloud; features a Mixture of Experts ASR ensemble using Whisper, Parakeet, and Canary models.",
+ "project": {
+  "name": "Sommelier",
+  "family_slug": "sommelier",
+  "family_display": "Sommelier",
+  "model_slug": "sommelier",
+  "model_display": "Sommelier",
+  "version": null,
+  "released": "2026-04-06",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sommelier",
+  "sommelier",
+  "audio-music",
+  "family:sommelier",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "sommelier"
+  ],
+  "versions": [
+   "sommelier"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://kyudan1.github.io/sommelier.github.io/",
+   "host": "kyudan1.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/naver-ai/sommelier",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:48:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The project remains the primary open-source framework for processing 'in-the-wild' conversational audio; it is extensively used to generate datasets for full-duplex conversational models like Moshi.",
+  "latest_version": "v1.0 (Oct 2024)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "An open-source modular pipeline designed to transform raw conversational audio into high-quality training data for Full-duplex Speech Language Models. It integrates speaker diarization, ASR Mixture of Experts, and background noise removal to preserve natural dialogue dynamics."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:48:58Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

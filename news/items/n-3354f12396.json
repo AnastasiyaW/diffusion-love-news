@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-3354f12396",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "camera-comfyUI: 3D Camera Projection Nodes for ComfyUI",
+ "summary": "A specialized suite of custom nodes for ComfyUI that enables advanced 3D-aware image transformations and VR content creation using depth-to-point cloud pipelines. It facilitates seamless reprojection between pinhole, fisheye, and equirectangular camera models for complex video synthesis workflows.",
+ "research_notes": "Key dependencies include Open3D and FFmpeg; the tool is particularly optimized for iterative outpainting into full-sphere VR environments.",
+ "project": {
+  "name": "camera-comfyUI",
+  "family_slug": "camera-comfyui",
+  "family_display": "camera-comfyUI",
+  "model_slug": "camera-comfyui",
+  "model_display": "camera-comfyUI",
+  "version": null,
+  "released": "2026-04-12",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "camera-comfyUI",
+  "camera-comfyui",
+  "tools-frontend",
+  "family:camera-comfyui",
+  "depth",
+  "animation",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "camera-comfyui"
+  ],
+  "versions": [
+   "camera-comfyui"
+  ],
+  "features": [
+   "depth",
+   "animation"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Alexankharin/camera-comfyUI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:22:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Alexankharin/camera-comfyUI?tab=readme-ov-file#workflows",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "community",
+   "url": "https://habr.com/ru/articles/912652/",
+   "host": "habr.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project has evolved from basic projection tools into a comprehensive pipeline for 3D-aware outpainting and novel view synthesis. Recent updates include integration with Depth Anything V3, support for generative video models like Wan2.1 and LTX-2.3, and a new Open3D-based GUI for interactive camera trajectory recording.",
+  "latest_version": "Updated Version (Early 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A specialized suite of custom nodes for ComfyUI that enables advanced 3D-aware image transformations and VR content creation using depth-to-point cloud pipelines. It facilitates seamless reprojection between pinhole, fisheye, and equirectangular camera models for complex video synthesis workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:22:20Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

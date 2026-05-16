@@ -1,0 +1,124 @@
+{
+ "schema_version": "1.2",
+ "id": "n-665b60a4fc",
+ "entry_type": "project",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "OmniVoice Multilingual TTS and Zero-Shot Voice Cloning",
+ "summary": "OmniVoice is a high-performance multilingual text-to-speech system supporting over 600 languages with advanced zero-shot voice cloning. It utilizes a Diffusion Language Model architecture to provide high-fidelity audio at extreme speeds.",
+ "research_notes": "Developed by the k2-fsa (Next-gen Kaldi) team; supports fine-grained control including non-verbal cues and pronunciation correction.",
+ "project": {
+  "name": "OmniVoice",
+  "family_slug": "omnivoice",
+  "family_display": "OmniVoice",
+  "model_slug": "omnivoice",
+  "model_display": "OmniVoice",
+  "version": null,
+  "released": "2026-04-02",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniVoice",
+  "omnivoice",
+  "audio-music",
+  "family:omnivoice",
+  "voice-clone",
+  "github",
+  "huggingface",
+  "web-demo"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "project",
+  "projects": [
+   "omnivoice"
+  ],
+  "versions": [
+   "omnivoice"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "github",
+   "huggingface",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://zhu-han.github.io/omnivoice/",
+   "host": "zhu-han.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/k2-fsa/OmniVoice",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:21:24Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/k2-fsa/OmniVoice",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "demo",
+   "url": "https://huggingface.co/spaces/k2-fsa/OmniVoice",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "OmniVoice has evolved into a production-grade library with full integration into the Sherpa-ONNX deployment framework. It now supports massive multilingualism across 600+ languages and is optimized for cross-platform edge execution.",
+  "latest_version": "v0.1.5 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "OmniVoice is a high-performance multilingual text-to-speech system supporting over 600 languages with advanced zero-shot voice cloning. It utilizes a Diffusion Language Model architecture to provide high-fidelity audio at extreme speeds."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:21:24Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

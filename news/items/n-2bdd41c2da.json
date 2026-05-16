@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.2",
+ "id": "n-2bdd41c2da",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "OneManCompany: Self-Organizing AI Agent Operating System",
+ "summary": "An open-source framework that orchestrates heterogeneous AI agents into a hierarchical company structure. It utilizes a Talent-Container architecture to decouple cognitive roles from execution environments, managed via a web-based pixel-art UI.",
+ "research_notes": "Achieves an 85% success rate on the PRD Bench benchmark and features a distinctive pixel-art 'office' management interface.",
+ "project": {
+  "name": "OneManCompany (OMC)",
+  "family_slug": "onemancompany",
+  "family_display": "OneManCompany (OMC)",
+  "model_slug": "onemancompany",
+  "model_display": "OneManCompany",
+  "version": null,
+  "released": "2026-04-29",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OneManCompany (OMC)",
+  "OneManCompany",
+  "onemancompany",
+  "llm",
+  "family:onemancompany",
+  "github",
+  "web-demo",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "onemancompany"
+  ],
+  "versions": [
+   "onemancompany"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://1mancompany.github.io/OneManCompany/",
+   "host": "1mancompany.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/1mancompany/OneManCompany",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T22:24:45Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://one-man-company.com/",
+   "host": "one-man-company.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the 'From Skills to Talent' research paper into a production-ready 'Agent Operating System' in May 2026. It introduced a Talent Market for modular agent deployment and an automated HR pipeline that performs agent retrospectives and performance-based offboarding.",
+  "latest_version": "OneManCompany Agent OS (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-29",
+  "excerpt": "An open-source framework that orchestrates heterogeneous AI agents into a hierarchical company structure. It utilizes a Talent-Container architecture to decouple cognitive roles from execution environments, managed via a web-based pixel-art UI."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T22:24:45Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

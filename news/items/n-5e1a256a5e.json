@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5e1a256a5e",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Happy Oyster: Alibaba Real-time Interactive AI World Model",
+ "summary": "An advanced AI world model by Alibaba that simulates interactive, infinite virtual environments with consistent physics in real-time. It supports both a first-person exploration mode and a director mode for live control of scenes and characters.",
+ "research_notes": "Capable of generating up to 3 minutes of continuous video with synchronized audio, modeling physical properties like gravity and lighting.",
+ "project": {
+  "name": "Happy Oyster",
+  "family_slug": "happy-alibaba",
+  "family_display": "Happy Oyster",
+  "model_slug": "happy-oyster",
+  "model_display": "Happy Oyster",
+  "version": null,
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Happy Oyster",
+  "happy-alibaba",
+  "happy-oyster",
+  "diffusion-video",
+  "family:happy-alibaba",
+  "model:happy-oyster",
+  "realtime",
+  "text-to-video",
+  "web-demo",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "happy-alibaba"
+  ],
+  "versions": [
+   "happy-alibaba"
+  ],
+  "features": [
+   "realtime",
+   "text-to-video"
+  ],
+  "formats": [
+   "web-demo"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [
+   "happy-oyster"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://www.happyoyster.cn/",
+   "host": "happyoyster.cn",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:33:44Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://www.happyoyster.cn/docs",
+   "host": "happyoyster.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Launched in April 2026 after topping global text-to-video benchmarks under the pseudonym 'HappyHorse-1.0'. It represents a transition from short video generation to persistent real-time environmental simulation.",
+  "latest_version": "Happy Oyster 1.0 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "An advanced AI world model by Alibaba that simulates interactive, infinite virtual environments with consistent physics in real-time. It supports both a first-person exploration mode and a director mode for live control of scenes and characters."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:33:44Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

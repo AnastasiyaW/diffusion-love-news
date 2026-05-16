@@ -1,0 +1,110 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d745776a36",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Wan2.7-Video — Director-Grade Video Generation and Editing Suite",
+ "summary": "A comprehensive video generation framework from Alibaba Cloud featuring 1080p text-to-video, image-to-video with transition control, and natural language instruction editing. It utilizes a 'Thinking Mode' for enhanced logical coherence and physical accuracy.",
+ "research_notes": "Released with open weights under Apache 2.0. Key innovations include character consistency via multi-reference inputs and a 'First-and-Last-Frame' mode for precise motion transitions.",
+ "project": {
+  "name": "Wan2.7-Video",
+  "family_slug": "wan",
+  "family_display": "Wan2.7-Video",
+  "model_slug": "wan2-7",
+  "model_display": "Wan2.7",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Wan2.7-Video",
+  "Wan2.7",
+  "wan",
+  "wan2-7",
+  "diffusion-video",
+  "family:wan",
+  "model:wan2-7",
+  "text-to-video",
+  "image-to-video",
+  "edit",
+  "china",
+  "closed"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "wan"
+  ],
+  "versions": [
+   "wan"
+  ],
+  "features": [
+   "text-to-video",
+   "image-to-video",
+   "edit"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "wan2-7"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://wan.video/",
+   "host": "wan.video",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:58:43Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=api#/api/?type=model&url=3025059",
+   "host": "modelstudio.console.alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from the open-source Wan2.1 series (2025), adding native 1080p support, instruction-based editing, and a planning layer to reduce hallucinations. It expanded from simple generation to full narrative control.",
+  "latest_version": "Wan2.7 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "A comprehensive video generation framework from Alibaba Cloud featuring 1080p text-to-video, image-to-video with transition control, and natural language instruction editing. It utilizes a 'Thinking Mode' for enhanced logical coherence and physical accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:58:43Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

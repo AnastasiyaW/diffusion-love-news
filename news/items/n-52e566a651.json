@@ -1,0 +1,137 @@
+{
+ "schema_version": "1.2",
+ "id": "n-52e566a651",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LumiVid: SDR-to-HDR Video Generation via LTX-Video 2.3",
+ "summary": "A high-quality SDR-to-HDR video conversion framework developed by Lightricks. It utilizes a specialized In-Context LoRA on the LTX-Video 2.3 (22B) foundation model to reconstruct dynamic range and shadows in 16-bit LogC3 format.",
+ "research_notes": "Generates professional-grade float16 EXR sequences compatible with VFX pipelines and grading tools like DaVinci Resolve and Nuke.",
+ "project": {
+  "name": "LumiVid",
+  "family_slug": "ltx",
+  "family_display": "LumiVid",
+  "model_slug": "lumivid",
+  "model_display": "LumiVid",
+  "version": null,
+  "released": "2026-04-24",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "lumivid"
+  }
+ },
+ "tags": [
+  "LumiVid",
+  "ltx",
+  "lumivid",
+  "diffusion-video",
+  "family:ltx",
+  "model:lumivid",
+  "adaptation:lora",
+  "lora-for:lumivid",
+  "lora",
+  "huggingface",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora"
+  ],
+  "formats": [
+   "huggingface",
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "lumivid"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Lightricks/LTX-2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:14:51Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://hdr-lumivid.github.io/",
+   "host": "hdr-lumivid.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-HDR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Lightricks/ComfyUI-LTXVideo/tree/master/example_workflows/2.3",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as part of the LTX-Video 2.3 ecosystem; includes the LumiPic image variant and is fully integrated into ComfyUI for local inference.",
+  "latest_version": "LumiVid (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-24",
+  "excerpt": "A high-quality SDR-to-HDR video conversion framework developed by Lightricks. It utilizes a specialized In-Context LoRA on the LTX-Video 2.3 (22B) foundation model to reconstruct dynamic range and shadows in 16-bit LogC3 format."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:14:51Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

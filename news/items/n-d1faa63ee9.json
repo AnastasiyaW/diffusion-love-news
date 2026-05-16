@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.2",
+ "id": "n-d1faa63ee9",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "CoInteract: Interactive Human-Object Video Generation",
+ "summary": "CoInteract is an AI framework for generating videos with realistic human-object interactions controlled by speech and spatial layouts. It uses a Human-Aware Mixture-of-Experts (MoE) mechanism to synchronize human movements with object interactions.",
+ "research_notes": "Created by researchers at Tsinghua University; uses a novel spatial routing mechanism for token-level synthesis.",
+ "project": {
+  "name": "CoInteract",
+  "family_slug": "cointeract",
+  "family_display": "CoInteract",
+  "model_slug": "cointeract",
+  "model_display": "CoInteract",
+  "version": null,
+  "released": "2026-04-23",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CoInteract",
+  "cointeract",
+  "diffusion-video",
+  "family:cointeract",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "cointeract"
+  ],
+  "versions": [
+   "cointeract"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://xinxiaozhe12345.github.io/CoInteract_Project/",
+   "host": "xinxiaozhe12345.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/luoxyhappy/CoInteract",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:28:52Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/georgexin/cointeract",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its April 2026 launch, the project added pre-trained checkpoints, training guidelines, and a pose-driven inference module for advanced motion control.",
+  "latest_version": "CoInteract (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-23",
+  "excerpt": "CoInteract is an AI framework for generating videos with realistic human-object interactions controlled by speech and spatial layouts. It uses a Human-Aware Mixture-of-Experts (MoE) mechanism to synchronize human movements with object interactions."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:28:52Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

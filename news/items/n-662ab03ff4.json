@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-662ab03ff4",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Open Multi-Agent (OMA) Framework",
+ "summary": "A goal-driven TypeScript orchestration engine for building autonomous multi-agent teams. It dynamically decomposes high-level goals into task directed acyclic graphs (DAGs) and executes them with parallelization and synthesis.",
+ "research_notes": "Maintains a 'three runtime dependencies' rule for extreme portability and positions itself as the TypeScript-native, goal-first alternative to LangGraph.",
+ "project": {
+  "name": "Open Multi-Agent",
+  "family_slug": "open-multi-agent",
+  "family_display": "Open Multi-Agent",
+  "model_slug": "open-multi-agent",
+  "model_display": "Open Multi-Agent",
+  "version": null,
+  "released": "2026-04-03",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Open Multi-Agent",
+  "open-multi-agent",
+  "llm",
+  "family:open-multi-agent",
+  "github",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "open-multi-agent"
+  ],
+  "versions": [
+   "open-multi-agent"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/JackChen-me/open-multi-agent",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:56:33Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Evolved from a simple role-play experiment into a production-ready 'Goal-to-DAG' orchestration framework. Major updates include MCP integration, context isolation for security, and strict token budgeting for enterprise use.",
+  "latest_version": "v1.1.0 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "A goal-driven TypeScript orchestration engine for building autonomous multi-agent teams. It dynamically decomposes high-level goals into task directed acyclic graphs (DAGs) and executes them with parallelization and synthesis."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:56:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

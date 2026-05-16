@@ -1,0 +1,99 @@
+{
+ "schema_version": "1.2",
+ "id": "n-501487aec4",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "ComfyUI Yedp Action Director — 3D Scene Compositor",
+ "summary": "Advanced 3D viewport and animation system for ComfyUI that enables interactive character posing and scene composition. It generates multi-pass ControlNet data including Depth, Normal, and OpenPose directly from animated 3D assets.",
+ "research_notes": "Supports up to 16 independent characters and uses Mixamo-standard skeletal naming for auto-rigging.",
+ "project": {
+  "name": "ComfyUI Yedp Action Director",
+  "family_slug": "yedp",
+  "family_display": "ComfyUI Yedp Action Director",
+  "model_slug": "yedp",
+  "model_display": "Yedp",
+  "version": null,
+  "released": "2026-04-08",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Yedp Action Director",
+  "Yedp",
+  "yedp",
+  "tools-frontend",
+  "family:yedp",
+  "animation",
+  "mocap",
+  "github",
+  "comfyui"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "yedp"
+  ],
+  "versions": [
+   "yedp"
+  ],
+  "features": [
+   "animation",
+   "mocap"
+  ],
+  "formats": [
+   "github"
+  ],
+  "platforms": [
+   "comfyui"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/yedp123/ComfyUI-Yedp-Action-Director",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:05:21Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Originally a character-posing tool, it has evolved into a full 3D compositor with support for FBX/GLB environment imports, camera tracking, and facial mocap. Latest updates integrated a path-tracing engine for realistic shadows and native support for Gaussian Splatting (.ply/.spz).",
+  "latest_version": "v9.3 (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "Advanced 3D viewport and animation system for ComfyUI that enables interactive character posing and scene composition. It generates multi-pass ControlNet data including Depth, Normal, and OpenPose directly from animated 3D assets."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:05:21Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

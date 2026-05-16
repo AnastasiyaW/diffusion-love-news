@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-88b74a7e58",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LDF-VFI: Local Diffusion Forcing for Video Frame Interpolation",
+ "summary": "A state-of-the-art video frame interpolation framework that adapts the Wan2.1 diffusion transformer architecture for holistic sequence modeling. It utilizes auto-regressive generation with Skip-Concatenate sampling to maintain temporal consistency in long videos and high-resolution frames.",
+ "research_notes": "Developed by researchers from USTC and Alibaba; the framework uses Wan2.1-T2V-1.3B as its backbone and successfully generalizes to 4K resolution using tiled VAE encoding.",
+ "project": {
+  "name": "LDF-VFI",
+  "family_slug": "ldf-vfi",
+  "family_display": "LDF-VFI",
+  "model_slug": "ldf-vfi",
+  "model_display": "LDF-VFI",
+  "version": null,
+  "released": "2026-05-10",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LDF-VFI",
+  "ldf-vfi",
+  "diffusion-video",
+  "family:ldf-vfi",
+  "github",
+  "huggingface",
+  "paper",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ldf-vfi"
+  ],
+  "versions": [
+   "ldf-vfi"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://xypeng9903.github.io/ldf-vfi-web/",
+   "host": "xypeng9903.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xypeng9903/LDF-VFI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T18:24:26Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/onecat-ai/LDF-VFI/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following its acceptance to CVPR 2026, the project was updated to v2 in April 2026. This version introduced an enhanced conditional VAE decoder, optimized sparse attention for 4K video processing, and distributed multi-GPU inference capabilities.",
+  "latest_version": "v2.0 Camera-Ready (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-05-10",
+  "excerpt": "A state-of-the-art video frame interpolation framework that adapts the Wan2.1 diffusion transformer architecture for holistic sequence modeling. It utilizes auto-regressive generation with Skip-Concatenate sampling to maintain temporal consistency in long videos and high-resolution frames."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T18:24:26Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

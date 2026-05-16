@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b4bbea9668",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Anthropic Managed Agents for Long-Running AI Workflows",
+ "summary": "Anthropic Managed Agents provides a hosted infrastructure for long-running, autonomous AI workflows with native state management and tool integration. It handles sandboxing, credential vaulting, and persistent memory to enable complex multi-step task execution.",
+ "research_notes": "Uses a metered 'Agent Credit' billing system with a $0.08 hourly session fee in addition to standard token usage rates.",
+ "project": {
+  "name": "Managed Agents",
+  "family_slug": "claude",
+  "family_display": "Managed Agents",
+  "model_slug": "managed-agents",
+  "model_display": "Managed Agents",
+  "version": null,
+  "released": "2026-04-09",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Managed Agents",
+  "claude",
+  "managed-agents",
+  "llm",
+  "family:claude",
+  "model:managed-agents",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "claude"
+  ],
+  "versions": [
+   "claude"
+  ],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [
+   "managed-agents"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://www.anthropic.com/news/managed-agents",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T09:53:49Z"
+  },
+  {
+   "kind": "vendor-page",
+   "url": "https://www.anthropic.com/engineering/managed-agents",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Transitioned from an experimental engineering prototype to a production-ready enterprise suite featuring 'Dreaming' memory optimization and 'Outcomes' auto-correction. Now natively integrated with Claude 4.7 models for persistent, autonomous orchestration.",
+  "latest_version": "Public Beta (Apr 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "Anthropic Managed Agents provides a hosted infrastructure for long-running, autonomous AI workflows with native state management and tool integration. It handles sandboxing, credential vaulting, and persistent memory to enable complex multi-step task execution."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T09:53:49Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

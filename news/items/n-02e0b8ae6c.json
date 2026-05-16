@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.2",
+ "id": "n-02e0b8ae6c",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "AI Metadata Inspector — Windows Metadata Viewer",
+ "summary": "A portable Windows utility designed to extract and view generation metadata, including prompts and seeds, from AI-generated images and videos without opening generation software.",
+ "research_notes": "Includes Windows Explorer context menu integration and allows direct export of ComfyUI JSON workflows.",
+ "project": {
+  "name": "AI Metadata Inspector",
+  "family_slug": "ai-metadata-inspector",
+  "family_display": "AI Metadata Inspector",
+  "model_slug": "ai-metadata-inspector",
+  "model_display": "AI Metadata Inspector",
+  "version": null,
+  "released": "2026-04-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AI Metadata Inspector",
+  "ai-metadata-inspector",
+  "tools-frontend",
+  "family:ai-metadata-inspector",
+  "github",
+  "free"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "ai-metadata-inspector"
+  ],
+  "versions": [
+   "ai-metadata-inspector"
+  ],
+  "features": [],
+  "formats": [
+   "github"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "free",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Gaurox/AI-Metadata-Inspector",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T10:38:24Z"
+  }
+ ],
+ "evolution": {
+  "summary": "The tool expanded from a basic PNG metadata viewer to include MP4 video support, frame extraction via bundled FFmpeg, and detection of multi-pass workflows for complex pipelines like WAN and img2vid.",
+  "latest_version": "v1.3.0 (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-07",
+  "excerpt": "A portable Windows utility designed to extract and view generation metadata, including prompts and seeds, from AI-generated images and videos without opening generation software."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T10:38:24Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

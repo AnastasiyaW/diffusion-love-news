@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.2",
+ "id": "n-b6c1907179",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "RvR: Refinement via Regeneration for High-Quality Image Refinement",
+ "summary": "RvR is a framework that enhances image quality and semantic alignment by regenerating images from high-level semantic tokens rather than pixel-level editing. It utilizes a 7B Mixture-of-Tokens (MoT) model to fix structural errors and stylistic inconsistencies that traditional methods fail to address.",
+ "research_notes": "Uses ViT-derived semantic tokens to preserve core context while allowing the model to completely redraw structural details.",
+ "project": {
+  "name": "RvR",
+  "family_slug": "rvr",
+  "family_display": "RvR",
+  "model_slug": "rvr",
+  "model_display": "RvR",
+  "version": null,
+  "released": "2026-04-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RvR",
+  "rvr",
+  "diffusion-image",
+  "family:rvr",
+  "edit",
+  "upscale",
+  "github",
+  "huggingface"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "rvr"
+  ],
+  "versions": [
+   "rvr"
+  ],
+  "features": [
+   "edit",
+   "upscale"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/LeapLabTHU/RvR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T21:52:50Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/JiayiGuo821/RvR-7B-MoT",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Officially released in April 2026 as a collaboration between LeapLabTHU and Tencent Hunyuan. It shifts the paradigm from 'editing' to 'regeneration', showing significant gains on benchmarks like GeneralEval and UniGeneralBench++.",
+  "latest_version": "RvR-7B-MoT (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-30",
+  "excerpt": "RvR is a framework that enhances image quality and semantic alignment by regenerating images from high-level semantic tokens rather than pixel-level editing. It utilizes a 7B Mixture-of-Tokens (MoT) model to fix structural errors and stylistic inconsistencies that traditional methods fail to address."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T21:52:50Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

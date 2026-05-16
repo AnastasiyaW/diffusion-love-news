@@ -1,0 +1,101 @@
+{
+ "schema_version": "1.2",
+ "id": "n-637b9d18ed",
+ "entry_type": "paper",
+ "category": "papers-theory",
+ "lang": "en",
+ "title": "D-OPSD: Continuous Fine-Tuning for Step-Distilled Diffusion Models",
+ "summary": "A training paradigm by Alibaba for the continuous fine-tuning of efficient, few-step diffusion models like Z-Image-Turbo. It utilizes on-policy self-distillation to enable style and concept adaptation without losing generation speed or quality.",
+ "research_notes": "Eliminates the need for external reward models by using the diffusion model's own in-context capabilities to act as its own teacher during training.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "D-OPSD",
+  "d-opsd",
+  "papers-theory",
+  "family:d-opsd",
+  "fine-tuning",
+  "github",
+  "paper",
+  "china"
+ ],
+ "facets": {
+  "category": "papers-theory",
+  "entry_type": "paper",
+  "projects": [],
+  "versions": [],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [
+   "github",
+   "paper"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://vvvvvjdy.github.io/d-opsd/",
+   "host": "vvvvvjdy.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/vvvvvjdy/D-OPSD",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T10:33:10Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Released by Alibaba's Z-Image team as a more accessible alternative to Reinforcement Learning for customizing high-speed models. It is currently applied to Z-Image-Turbo and experimental versions of the FLUX.2 family.",
+  "latest_version": "D-OPSD (May 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "A training paradigm by Alibaba for the continuous fine-tuning of efficient, few-step diffusion models like Z-Image-Turbo. It utilizes on-policy self-distillation to enable style and concept adaptation without losing generation speed or quality."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T10:33:10Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

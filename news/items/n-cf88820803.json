@@ -1,0 +1,137 @@
+{
+ "schema_version": "1.2",
+ "id": "n-cf88820803",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "Wan2.2 Distill: Accelerated Video Generation with 4-Step Models",
+ "summary": "Wan2.2 Distill is an optimized video generation framework that reduces inference steps from 50+ to just 4 through step and CFG distillation. It utilizes a Mixture-of-Experts architecture to achieve cinematic quality with near-real-time performance on consumer hardware.",
+ "research_notes": "Native support for FP8 and INT8 quantization allows for 15GB VRAM usage on consumer GPUs like the RTX 4090.",
+ "project": {
+  "name": "Wan2.2-Distill-Models",
+  "family_slug": "wan",
+  "family_display": "Wan2.2-Distill-Models",
+  "model_slug": "wan2-2",
+  "model_display": "Wan2.2",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "wan2-2"
+  }
+ },
+ "tags": [
+  "Wan2.2-Distill-Models",
+  "Wan2.2",
+  "wan",
+  "wan2-2",
+  "diffusion-video",
+  "family:wan",
+  "model:wan2-2",
+  "adaptation:lora",
+  "lora-for:wan2-2",
+  "lora",
+  "video-to-video",
+  "huggingface",
+  "china",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "wan"
+  ],
+  "versions": [
+   "wan"
+  ],
+  "features": [
+   "lora",
+   "video-to-video"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "wan2-2"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Models",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:46:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lightx2v/Wan2.2-Distill-Models/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/obsxrver/wan2.2-i2v-lightx2v-260412/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Kijai/WanVideo_comfy/tree/main/LoRAs/Wan22_Lightx2v",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The project evolved from the foundational Wan2.1 to a 27B parameter MoE-powered Wan2.2. The 'Distill' variants have become the industry standard for local deployment, offering a 20x speedup over base models through extreme step reduction.",
+  "latest_version": "Wan2.2 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "Wan2.2 Distill is an optimized video generation framework that reduces inference steps from 50+ to just 4 through step and CFG distillation. It utilizes a Mixture-of-Experts architecture to achieve cinematic quality with near-real-time performance on consumer hardware."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:46:20Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

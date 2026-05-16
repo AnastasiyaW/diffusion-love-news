@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.2",
+ "id": "n-a81182e9ac",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "Claude Opus 4.7: Anthropic's Flagship Coding and Reasoning Model",
+ "summary": "Claude Opus 4.7 is Anthropic's most advanced flagship model, designed for high-level reasoning and autonomous software engineering. It is generally available via API and major cloud providers, featuring adaptive thinking modes for complex problem-solving.",
+ "research_notes": "Features 3x higher vision resolution and is optimized for delegated engineering workflows through Claude Code.",
+ "project": {
+  "name": "Claude Opus 4.7",
+  "family_slug": "claude",
+  "family_display": "Claude Opus",
+  "model_slug": "claude",
+  "model_display": "Claude",
+  "version": "4.7",
+  "released": "2026-04-16",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claude Opus 4.7",
+  "Claude",
+  "Claude Opus",
+  "claude",
+  "llm",
+  "family:claude",
+  "fine-tuning",
+  "claude-4-7",
+  "closed"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "claude"
+  ],
+  "versions": [
+   "claude-4-7"
+  ],
+  "features": [
+   "fine-tuning"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "closed",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "vendor-page",
+   "url": "https://www.anthropic.com/news/claude-opus-4-7",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T00:32:33Z"
+  },
+  {
+   "kind": "other",
+   "url": "https://platform.claude.com/docs/en/about-claude/models/migration-guide#migrating-to-claude-opus-4-7",
+   "host": "platform.claude.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://platform.claude.com/docs/en/about-claude/models/overview",
+   "host": "platform.claude.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://claude.ai/",
+   "host": "claude.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Released in April 2026 as the successor to Opus 4.6, this version introduced the 'xhigh' reasoning effort level and reached 64.3% on SWE-bench Pro. It currently serves as the GA flagship while the restricted 'Claude Mythos' frontier model undergoes safety verification.",
+  "latest_version": "Claude Opus 4.7 (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "Claude Opus 4.7 is Anthropic's most advanced flagship model, designed for high-level reasoning and autonomous software engineering. It is generally available via API and major cloud providers, featuring adaptive thinking modes for complex problem-solving."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T00:32:33Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

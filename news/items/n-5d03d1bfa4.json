@@ -1,0 +1,124 @@
+{
+ "schema_version": "1.2",
+ "id": "n-5d03d1bfa4",
+ "entry_type": "project",
+ "category": "vlm",
+ "lang": "en",
+ "title": "LongCat-Next: Native Multimodal MoE AI Model",
+ "summary": "LongCat-Next is an any-to-any native multimodal model that unifies text, images, and audio into a shared set of discrete tokens. Developed by Meituan, it uses a Mixture-of-Experts architecture to perform seamless understanding and generation across diverse data types.",
+ "research_notes": "Utilizes the DiNA (Discrete Native Autoregression) paradigm; technical details are documented in arXiv report 2603.27538.",
+ "project": {
+  "name": "LongCat-Next",
+  "family_slug": "longcat",
+  "family_display": "LongCat-Next",
+  "model_slug": "longcat",
+  "model_display": "LongCat",
+  "version": null,
+  "released": "2026-04-01",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": "china",
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LongCat-Next",
+  "LongCat",
+  "longcat",
+  "vlm",
+  "family:longcat",
+  "voice-clone",
+  "github",
+  "huggingface",
+  "china"
+ ],
+ "facets": {
+  "category": "vlm",
+  "entry_type": "project",
+  "projects": [
+   "longcat"
+  ],
+  "versions": [
+   "longcat"
+  ],
+  "features": [
+   "voice-clone"
+  ],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": "china",
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "other",
+   "url": "https://longcat.chat/longcat-next/intro",
+   "host": "longcat.chat",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/meituan-longcat/LongCat-Next",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-16T11:44:08Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/meituan-longcat/LongCat-Next",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "other",
+   "url": "https://longcat.chat/longcat-next/",
+   "host": "longcat.chat",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "LongCat-Next evolved from the LongCat-Flash series, transitioning from language-first to a truly unified any-to-any paradigm. It incorporates the dNaViT visual tokenizer and supports low-latency voice cloning and high-fidelity media generation.",
+  "latest_version": "LongCat-Next (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-01",
+  "excerpt": "LongCat-Next is an any-to-any native multimodal model that unifies text, images, and audio into a shared set of discrete tokens. Developed by Meituan, it uses a Mixture-of-Experts architecture to perform seamless understanding and generation across diverse data types."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-16T11:44:08Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

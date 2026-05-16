@@ -1,0 +1,116 @@
+{
+ "schema_version": "1.2",
+ "id": "n-34034d382e",
+ "entry_type": "project",
+ "category": "diffusion-video",
+ "lang": "en",
+ "title": "LTX 2.3 Enhancers: Visual Fidelity and Clarity LoRAs",
+ "summary": "A specialized suite of LoRA models designed to refine textures, improve edge definition, and reduce the inherent softness of LTX 2.3 video generations. These enhancers optimize the base model's output for higher visual fidelity and professional color grading workflows.",
+ "research_notes": "Best utilized with FP8 quantization and Sage Attention 2.2 to manage memory overhead during multi-LoRA inference.",
+ "project": {
+  "name": "LTX 2.3 Enhancers",
+  "family_slug": "ltx",
+  "family_display": "LTX 2.3 Enhancers",
+  "model_slug": "ltx-2-3",
+  "model_display": "LTX 2.3",
+  "version": null,
+  "released": "2026-04-20",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "lora",
+   "purpose": null,
+   "base_model_slug": "ltx-2-3"
+  }
+ },
+ "tags": [
+  "LTX 2.3 Enhancers",
+  "LTX 2.3",
+  "ltx",
+  "ltx-2-3",
+  "diffusion-video",
+  "family:ltx",
+  "model:ltx-2-3",
+  "adaptation:lora",
+  "lora-for:ltx-2-3",
+  "lora",
+  "edit",
+  "upscale"
+ ],
+ "facets": {
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "projects": [
+   "ltx"
+  ],
+  "versions": [
+   "ltx"
+  ],
+  "features": [
+   "lora",
+   "edit",
+   "upscale"
+  ],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [
+   "ltx-2-3"
+  ],
+  "adaptations": [
+   "lora"
+  ]
+ },
+ "links": [
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2535622/ltx-23-enhancers",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:49:31Z"
+  },
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2535622/ltx-23-enhancers?modelVersionId=2849716",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The LTX 2.3 ecosystem matured in early 2026 with the release of IC-LoRAs for video-to-video control and ID-LoRAs for character identity persistence. Community development has pivoted toward 16-bit HDR enhancers to facilitate professional-grade post-production.",
+  "latest_version": "LTX 2.3 (Dec 2025)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-20",
+  "excerpt": "A specialized suite of LoRA models designed to refine textures, improve edge definition, and reduce the inherent softness of LTX 2.3 video generations. These enhancers optimize the base model's output for higher visual fidelity and professional color grading workflows."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:49:31Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

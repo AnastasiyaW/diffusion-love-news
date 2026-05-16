@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.2",
+ "id": "n-de24cf852f",
+ "entry_type": "paper",
+ "category": "papers-theory",
+ "lang": "en",
+ "title": "TIPSv2: Text-Image Pretraining with Spatial Awareness",
+ "summary": "A vision-language model family by Google DeepMind that bridges the gap between image-text alignment and dense spatial understanding. It enables precise monocular depth estimation, surface normal prediction, and zero-shot semantic segmentation using patch-level alignment.",
+ "research_notes": "The project includes an official feature explorer on Hugging Face Spaces and outperforms earlier self-supervised models like DINOv2 in zero-shot tasks.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TIPSv2",
+  "tips",
+  "tipsv2",
+  "papers-theory",
+  "family:tips",
+  "model:tipsv2",
+  "depth",
+  "normal-map",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "papers-theory",
+  "entry_type": "paper",
+  "projects": [],
+  "versions": [],
+  "features": [
+   "depth",
+   "normal-map"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [
+   "tipsv2"
+  ],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/google-deepmind/tips",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-15T01:26:29Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/google/tipsv2-b14",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://modelscope.cn/models/google/tipsv2-b14",
+   "host": "modelscope.cn",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Following the original TIPS model, TIPSv2 introduced iBOT++ pretraining and multi-granularity synthetic captions to improve spatial awareness. It has been integrated into the Hugging Face Transformers library with specialized DPT heads for dense prediction tasks.",
+  "latest_version": "TIPSv2 (CVPR 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-12",
+  "excerpt": "A vision-language model family by Google DeepMind that bridges the gap between image-text alignment and dense spatial understanding. It enables precise monocular depth estimation, surface normal prediction, and zero-shot semantic segmentation using patch-level alignment."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-15T01:26:29Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

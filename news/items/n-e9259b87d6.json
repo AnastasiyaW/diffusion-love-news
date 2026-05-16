@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.2",
+ "id": "n-e9259b87d6",
+ "entry_type": "project",
+ "category": "llm",
+ "lang": "en",
+ "title": "CADD-Base-7B: Apple’s Masked Diffusion Model for Code Generation",
+ "summary": "A 7B parameter code generation model by Apple that utilizes Continuously Augmented Discrete Diffusion (CADD) for categorical generative modeling. It enhances standard masked diffusion by adding a continuous flow-matching signal in the embedding space to improve token prediction accuracy.",
+ "research_notes": "Built upon the Qwen2.5-Coder-7B architecture; the CADD approach is designed to be orthogonal and integrable into other masked diffusion frameworks.",
+ "project": {
+  "name": "CADD-Base-7B",
+  "family_slug": "cadd",
+  "family_display": "CADD-Base-7B",
+  "model_slug": "cadd",
+  "model_display": "CADD",
+  "version": "7B",
+  "released": "2026-04-25",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CADD-Base-7B",
+  "CADD",
+  "cadd",
+  "llm",
+  "family:cadd",
+  "github",
+  "huggingface",
+  "cadd-7b",
+  "open"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "project",
+  "projects": [
+   "cadd"
+  ],
+  "versions": [
+   "cadd-7b"
+  ],
+  "features": [],
+  "formats": [
+   "github",
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/apple/ml-cadd",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T23:11:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/apple/ml-CADD",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/apple/CADD-Base-7B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Presented at ICLR 2026, the project evolved from Apple's previous DiffuCoder research. The official ml-cadd repository and model checkpoints were released in late April 2026, marking its transition to a stable, reproducible research platform.",
+  "latest_version": "CADD-Base-7B (April 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": true
+ },
+ "source": {
+  "posted_at": "2026-04-25",
+  "excerpt": "A 7B parameter code generation model by Apple that utilizes Continuously Augmented Discrete Diffusion (CADD) for categorical generative modeling. It enhances standard masked diffusion by adding a continuous flow-matching signal in the embedding space to improve token prediction accuracy."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T23:11:31Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}

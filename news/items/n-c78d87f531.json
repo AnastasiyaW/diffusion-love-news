@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.2",
+ "id": "n-c78d87f531",
+ "entry_type": "project",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "Z-Image-SAM-ControlNet by NeuralVFX",
+ "summary": "A specialized ControlNet for the Z-Image 6B model that synthesizes photorealistic images from Segment Anything Model (SAM) segmentation masks. It provides precise spatial control by ensuring generated content strictly adheres to complex input mask boundaries.",
+ "research_notes": "Developed by NeuralVFX to provide superior segmentation control within the Z-Image ecosystem; it is a primary tool in high-end ComfyUI photogrammetry-to-render workflows.",
+ "project": {
+  "name": "Z-Image-SAM-ControlNet",
+  "family_slug": "z-image",
+  "family_display": "Z-Image-SAM-ControlNet",
+  "model_slug": "z-image",
+  "model_display": "Z-Image",
+  "version": null,
+  "released": "2026-05-07",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": {
+   "type": "controlnet",
+   "purpose": null,
+   "base_model_slug": "z-image"
+  }
+ },
+ "tags": [
+  "Z-Image-SAM-ControlNet",
+  "Z-Image",
+  "z-image",
+  "diffusion-image",
+  "family:z-image",
+  "adaptation:controlnet",
+  "controlnet-for:z-image",
+  "controlnet",
+  "segmentation",
+  "huggingface",
+  "open"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "project",
+  "projects": [
+   "z-image"
+  ],
+  "versions": [
+   "z-image"
+  ],
+  "features": [
+   "controlnet",
+   "segmentation"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": "open",
+  "year": 2026,
+  "models": [],
+  "adaptations": [
+   "controlnet"
+  ]
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/neuralvfx/Z-Image-SAM-ControlNet",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-05-14T19:09:09Z"
+  }
+ ],
+ "evolution": {
+  "summary": "Following the early 2026 release, the v2.0 update in March 2026 optimized the model for high-resolution 1.5k inference and photorealism. In April 2026, GGUF quantization was introduced, significantly lowering VRAM requirements for consumer GPUs.",
+  "latest_version": "v2.0 (March 2026)",
+  "related_ids": [],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": true,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-07",
+  "excerpt": "A specialized ControlNet for the Z-Image 6B model that synthesizes photorealistic images from Segment Anything Model (SAM) segmentation masks. It provides precise spatial control by ensuring generated content strictly adheres to complex input mask boundaries."
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": "2026-05-14T19:09:09Z",
+  "verified_at": null,
+  "models_used": {
+   "classify": "gemini-3-flash-preview",
+   "enrich": "gemini-3-flash-preview"
+  },
+  "schema_validated": false
+ }
+}
