@@ -10,33 +10,33 @@
  "project": {
   "name": "IC-LoRA: Cameraman v1",
   "family_slug": "ltx",
-  "family_display": "IC-LoRA: Cameraman",
-  "model_slug": "ic",
-  "model_display": "IC",
+  "family_display": "LTX",
+  "model_slug": "ltx-2-3-22b",
+  "model_display": "LTX-2.3 22B",
   "version": "v1",
   "released": "2026-04-17",
   "vendor": null,
   "vendor_slug": null,
   "origin_region": null,
   "license": null,
-  "base_model": null,
+  "base_model": "LTX-2.3 22B",
   "adaptation": {
    "type": "lora",
    "purpose": "Cameraman v1",
-   "base_model_slug": "ic"
+   "base_model_slug": "ltx-2-3-22b"
   }
  },
  "tags": [
   "IC-LoRA: Cameraman v1",
-  "IC",
-  "IC-LoRA: Cameraman",
+  "LTX-2.3 22B",
   "ltx",
-  "ic",
+  "ltx-2-3-22b",
   "diffusion-video",
   "family:ltx",
-  "model:ic",
+  "model:ltx-2-3-22b",
   "adaptation:lora",
-  "lora-for:ic",
+  "lora-for:ltx-2-3-22b",
+  "base-model:ltx-2-3-22b",
   "lora",
   "edit",
   "huggingface",
@@ -64,12 +64,14 @@
    "comfyui"
   ],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "ltx-2-3-22b"
+  ],
   "origin": null,
   "license": "open",
   "year": 2026,
   "models": [
-   "ic"
+   "ltx-2-3-22b"
   ],
   "adaptations": [
    "lora"
@@ -118,6 +120,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

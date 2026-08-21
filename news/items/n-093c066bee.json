@@ -11,8 +11,8 @@
   "name": "QClaw",
   "family_slug": "qclaw",
   "family_display": "QClaw",
-  "model_slug": "qclaw",
-  "model_display": "QClaw",
+  "model_slug": null,
+  "model_display": null,
   "version": null,
   "released": "2026-04-28",
   "vendor": null,
@@ -87,6 +87,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

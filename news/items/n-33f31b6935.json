@@ -8,11 +8,11 @@
  "summary": "An open-source audio foundation model designed for complex audio reasoning and timestamped transcription using Chain-of-Thought capabilities. It leverages a Qwen3-8B backbone and cross-layer feature injection to maintain high-fidelity acoustic details.",
  "research_notes": "Achieves state-of-the-art performance in audio reasoning benchmarks, outperforming much larger models like Step-Audio-R1 33B.",
  "project": {
-  "name": "MOSS-Audio-8B-Thinking Demo",
+  "name": "MOSS-Audio-8B-Thinking",
   "family_slug": "moss-audio",
-  "family_display": "MOSS-Audio-8B-Thinking Demo",
-  "model_slug": "moss-audio-8b",
-  "model_display": "MOSS-Audio-8B",
+  "family_display": "MOSS-Audio",
+  "model_slug": "moss-audio-8b-thinking",
+  "model_display": "MOSS-Audio-8B-Thinking",
   "version": null,
   "released": "2026-05-05",
   "vendor": null,
@@ -23,13 +23,12 @@
   "adaptation": null
  },
  "tags": [
-  "MOSS-Audio-8B-Thinking Demo",
-  "MOSS-Audio-8B",
+  "MOSS-Audio-8B-Thinking",
   "moss-audio",
-  "moss-audio-8b",
+  "moss-audio-8b-thinking",
   "audio-music",
   "family:moss-audio",
-  "model:moss-audio-8b",
+  "model:moss-audio-8b-thinking",
   "web-demo",
   "huggingface",
   "china"
@@ -55,7 +54,7 @@
   "license": null,
   "year": 2026,
   "models": [
-   "moss-audio-8b"
+   "moss-audio-8b-thinking"
   ],
   "adaptations": []
  },
@@ -102,6 +101,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

@@ -10,7 +10,7 @@
  "project": {
   "name": "LTX-2.3-22B-DISTILLED-1.1",
   "family_slug": "ltx",
-  "family_display": "LTX-2.3-22B-DISTILLED-1.1",
+  "family_display": "LTX",
   "model_slug": "ltx-2-3-22b",
   "model_display": "LTX-2.3-22B",
   "version": "1.1",
@@ -122,6 +122,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

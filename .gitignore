@@ -11,6 +11,23 @@
 !/README.md
 !/LICENSE
 !/.gitignore
+!/docs/
+!/scripts/
+!/tests/
+!/.github/
+
+# Public deterministic contract tooling only. Raw pipeline inputs and local
+# approval/session artifacts remain outside this repository.
+scripts/*
+!scripts/build_news.py
+tests/*
+!tests/test_news_contract.py
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/news-contract.yml
+docs/*
+!docs/project-history-v1.3.md
 
 # Inside news/, ignore any backups
 news/*.bak

@@ -10,7 +10,7 @@
  "project": {
   "name": "LTX-2.3 22B IC-LoRA MotionDeblur",
   "family_slug": "ltx",
-  "family_display": "LTX-2.3 22B IC-LoRA MotionDeblur",
+  "family_display": "LTX",
   "model_slug": "ltx-2-3-22b",
   "model_display": "LTX-2.3 22B",
   "version": null,
@@ -19,7 +19,7 @@
   "vendor_slug": null,
   "origin_region": null,
   "license": null,
-  "base_model": null,
+  "base_model": "LTX-2.3 22B",
   "adaptation": {
    "type": "lora",
    "purpose": "MotionDeblur",
@@ -36,6 +36,7 @@
   "model:ltx-2-3-22b",
   "adaptation:lora",
   "lora-for:ltx-2-3-22b",
+  "base-model:ltx-2-3-22b",
   "lora",
   "edit",
   "huggingface"
@@ -58,7 +59,9 @@
   ],
   "platforms": [],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "ltx-2-3-22b"
+  ],
   "origin": null,
   "license": null,
   "year": 2026,
@@ -103,6 +106,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

@@ -9,7 +9,7 @@
  "research_notes": "Achieved a ClawBench score of 84.8, nearly equal to Kimi K2.5 and GLM-4.5 despite its compact size.",
  "project": {
   "name": "QClaw-4B",
-  "family_slug": "qclaw",
+  "family_slug": "qclaw-4b",
   "family_display": "QClaw-4B",
   "model_slug": "qclaw-4b",
   "model_display": "QClaw-4B",
@@ -24,10 +24,9 @@
  },
  "tags": [
   "QClaw-4B",
-  "qclaw",
   "qclaw-4b",
   "llm",
-  "family:qclaw",
+  "family:qclaw-4b",
   "model:qclaw-4b",
   "fine-tuning",
   "huggingface",
@@ -38,7 +37,7 @@
   "category": "llm",
   "entry_type": "project",
   "projects": [
-   "qclaw"
+   "qclaw-4b"
   ],
   "versions": [
    "qclaw-4b"
@@ -103,6 +102,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

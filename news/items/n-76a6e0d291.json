@@ -9,27 +9,26 @@
  "research_notes": "Developed by capitan01R; bypasses Qwen3-based text encoder limitations by isolating active tokens and targeting internal model blocks directly.",
  "project": {
   "name": "ComfyUI-Flux2Klein-Enhancer",
-  "family_slug": "flux",
+  "family_slug": "comfyui-flux2klein-enhancer",
   "family_display": "ComfyUI-Flux2Klein-Enhancer",
-  "model_slug": "flux2k",
-  "model_display": "Flux2K",
+  "model_slug": null,
+  "model_display": null,
   "version": null,
   "released": "2026-04-07",
   "vendor": null,
   "vendor_slug": null,
   "origin_region": null,
   "license": null,
-  "base_model": null,
+  "base_model": "FLUX.2 Klein 9B",
   "adaptation": null
  },
  "tags": [
   "ComfyUI-Flux2Klein-Enhancer",
-  "Flux2K",
-  "flux",
-  "flux2k",
+  "comfyui-flux2klein-enhancer",
+  "FLUX.2 Klein 9B",
   "tools-frontend",
-  "family:flux",
-  "model:flux2k",
+  "family:comfyui-flux2klein-enhancer",
+  "base-model:flux-2-klein-9b",
   "character",
   "github",
   "comfyui",
@@ -39,10 +38,10 @@
   "category": "tools-frontend",
   "entry_type": "project",
   "projects": [
-   "flux"
+   "comfyui-flux2klein-enhancer"
   ],
   "versions": [
-   "flux"
+   "comfyui-flux2klein-enhancer"
   ],
   "features": [
    "character"
@@ -54,12 +53,13 @@
    "comfyui"
   ],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "flux-2-klein-9b"
+  ],
   "origin": null,
   "license": "open",
   "year": 2026,
   "models": [
-   "flux2k"
   ],
   "adaptations": []
  },
@@ -115,6 +115,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

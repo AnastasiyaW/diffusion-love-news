@@ -10,9 +10,9 @@
  "project": {
   "name": "FLUX.2-klein-9B-Nunchaku",
   "family_slug": "flux",
-  "family_display": "FLUX.2-klein-9B-Nunchaku",
-  "model_slug": "flux-2",
-  "model_display": "FLUX.2",
+  "family_display": "FLUX",
+  "model_slug": "flux-2-klein-9b",
+  "model_display": "FLUX.2 Klein 9B",
   "version": null,
   "released": "2026-04-07",
   "vendor": null,
@@ -24,12 +24,12 @@
  },
  "tags": [
   "FLUX.2-klein-9B-Nunchaku",
-  "FLUX.2",
+  "FLUX.2 Klein 9B",
   "flux",
-  "flux-2",
+  "flux-2-klein-9b",
   "diffusion-image",
   "family:flux",
-  "model:flux-2",
+  "model:flux-2-klein-9b",
   "huggingface",
   "open"
  ],
@@ -53,7 +53,7 @@
   "license": "open",
   "year": 2026,
   "models": [
-   "flux-2"
+   "flux-2-klein-9b"
   ],
   "adaptations": []
  },
@@ -91,6 +91,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

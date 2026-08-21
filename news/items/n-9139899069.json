@@ -11,8 +11,8 @@
   "name": "Gemma 4",
   "family_slug": "gemma",
   "family_display": "Gemma",
-  "model_slug": "gemma-4",
-  "model_display": "Gemma 4",
+  "model_slug": "gemma-4-31b-it",
+  "model_display": "Gemma 4 31B-it",
   "version": "4",
   "released": "2026-04-04",
   "vendor": null,
@@ -23,13 +23,13 @@
   "adaptation": null
  },
  "tags": [
-  "Gemma 4",
+  "Gemma 4 31B-it",
   "Gemma",
   "gemma",
-  "gemma-4",
+  "gemma-4-31b-it",
   "tools-frontend",
   "family:gemma",
-  "model:gemma-4",
+  "model:gemma-4-31b-it",
   "huggingface",
   "web-demo"
  ],
@@ -40,7 +40,7 @@
    "gemma"
   ],
   "versions": [
-   "gemma-4"
+   "gemma-4-31b-it"
   ],
   "features": [],
   "formats": [
@@ -54,7 +54,7 @@
   "license": null,
   "year": 2026,
   "models": [
-   "gemma-4"
+   "gemma-4-31b-it"
   ],
   "adaptations": []
  },
@@ -101,6 +101,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

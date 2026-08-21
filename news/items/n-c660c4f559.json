@@ -123,6 +123,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-2.5-flash"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }
