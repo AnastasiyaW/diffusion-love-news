@@ -1,12 +1,12 @@
 {
- "schema_version": "1.2",
- "site": "diffusion.love",
- "generated_at": "2026-05-16T12:42:34Z",
- "counts": {
-  "items": 322,
-  "tags": 1246,
-  "categories": 10,
-  "years": 1,
-  "projects": 260
- }
+  "schema_version": "1.3",
+  "site": "diffusion.love",
+  "generated_at": "2026-06-19T18:47:44Z",
+  "counts": {
+    "items": 329,
+    "tags": 1273,
+    "categories": 10,
+    "years": 1,
+    "projects": 264
+  }
 }

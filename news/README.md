@@ -146,6 +146,22 @@ Suitable for "latest news" listing UI without loading every item.
 Single index supports project page rendering, version timelines, vendor
 listings, "all FLUX news" queries, related-project navigation.
 
+### Aggregation guarantees
+
+For a project page, `family_display` is the sole non-null source display on the
+latest `source.posted_at` date. Distinct values on any one date fail the build:
+they are an ambiguous identity/model classification, never a rename resolved by
+an opaque ID. `family_display_variants` retains display history across distinct
+dates with contributing news IDs; the slug `aliases` field remains reserved for
+canonical slug aliases.
+
+Repeated project-link URLs must have identical non-null shared metadata
+(`kind`, `host`, `lang`, and `status`) or the build fails. A project-link
+`is_primary` means primary in at least one linked news item, and `verified_at`
+is the latest public verification timestamp. When either varies by news item,
+`occurrences` preserves the exact per-item values so aggregation loses no
+context.
+
 ## How to fetch
 
 The repo is public. Consume the JSON via:

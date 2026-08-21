@@ -10,9 +10,9 @@
  "project": {
   "name": "Qwen3-TTS",
   "family_slug": "qwen",
-  "family_display": "Qwen3-TTS",
-  "model_slug": "qwen3",
-  "model_display": "Qwen3",
+  "family_display": "Qwen",
+  "model_slug": "qwen3-tts",
+  "model_display": "Qwen3-TTS",
   "version": null,
   "released": "2026-04-21",
   "vendor": null,
@@ -23,13 +23,12 @@
   "adaptation": null
  },
  "tags": [
-  "Qwen3-TTS",
-  "Qwen3",
+   "Qwen3-TTS",
   "qwen",
-  "qwen3",
+  "qwen3-tts",
   "audio-music",
   "family:qwen",
-  "model:qwen3",
+  "model:qwen3-tts",
   "voice-clone",
   "colab",
   "china",
@@ -57,7 +56,7 @@
   "license": "free",
   "year": 2026,
   "models": [
-   "qwen3"
+   "qwen3-tts"
   ],
   "adaptations": []
  },
@@ -113,6 +112,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

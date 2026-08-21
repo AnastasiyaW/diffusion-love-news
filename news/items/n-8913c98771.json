@@ -4,12 +4,12 @@
  "entry_type": "project",
  "category": "diffusion-video",
  "lang": "en",
- "title": "Sulphur 2 and LTX2.3-10Eros Video Generation Models",
- "summary": "High-fidelity open-source video generation models fine-tuned from the LTX-2.3 architecture. They specialize in cinematic realism, refined human kinesics, and consistent 3D camera motion for local, unrestricted workflows.",
- "research_notes": "Community-developed GGUF quantizations enable these 9B parameter models to run on consumer hardware with 8GB-12GB VRAM via ComfyUI.",
+ "title": "Sulphur 2 Video Generation Model",
+ "summary": "Sulphur 2 is a public video-model checkpoint released by SulphurAI.",
+ "research_notes": "The SulphurAI model card identifies Sulphur-2-base as an LTX-2.3-derived checkpoint.",
  "project": {
   "name": "Sulphur 2",
-  "family_slug": "ltx",
+  "family_slug": "sulphur",
   "family_display": "Sulphur",
   "model_slug": "sulphur-2",
   "model_display": "Sulphur 2",
@@ -19,17 +19,24 @@
   "vendor_slug": null,
   "origin_region": null,
   "license": null,
-  "base_model": null,
-  "adaptation": null
+  "base_model": "LTX-2.3",
+  "adaptation": {
+   "type": "fine-tune",
+   "purpose": "Sulphur 2 video generation",
+   "base_model_slug": "ltx-2-3"
+  }
  },
  "tags": [
   "Sulphur 2",
   "Sulphur",
-  "ltx",
+  "sulphur",
   "sulphur-2",
   "diffusion-video",
-  "family:ltx",
+  "family:sulphur",
   "model:sulphur-2",
+  "adaptation:fine-tune",
+  "fine-tune-for:ltx-2-3",
+  "base-model:ltx-2-3",
   "text-to-video",
   "image-to-video",
   "huggingface",
@@ -40,10 +47,10 @@
   "category": "diffusion-video",
   "entry_type": "project",
   "projects": [
-   "ltx"
+   "sulphur"
   ],
   "versions": [
-   "ltx-2"
+   "sulphur-2"
   ],
   "features": [
    "text-to-video",
@@ -54,14 +61,18 @@
   ],
   "platforms": [],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "ltx-2-3"
+  ],
   "origin": null,
   "license": "open",
   "year": 2026,
   "models": [
    "sulphur-2"
   ],
-  "adaptations": []
+  "adaptations": [
+   "fine-tune"
+  ]
  },
  "links": [
   {
@@ -72,20 +83,11 @@
    "is_primary": true,
    "status": "live",
    "verified_at": "2026-05-14T19:55:49Z"
-  },
-  {
-   "kind": "weights",
-   "url": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-   "host": "huggingface.co",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
+   }
+  ],
  "evolution": {
-  "summary": "Derived from Lightricks' LTX-2.3; Sulphur 2 focused on eliminating robotic movement, followed by 10Eros which implemented layer-scaled merging to optimize Image-to-Video (I2V) performance and prompt following.",
-  "latest_version": "LTX2.3-10Eros (May 2026)",
+  "summary": "Sulphur 2 is published as an LTX-2.3-derived base checkpoint.",
+  "latest_version": "Sulphur 2",
   "related_ids": [],
   "is_latest_in_family": true
  },
@@ -95,7 +97,7 @@
  },
  "source": {
   "posted_at": "2026-05-04",
-  "excerpt": "High-fidelity open-source video generation models fine-tuned from the LTX-2.3 architecture. They specialize in cinematic realism, refined human kinesics, and consistent 3D camera motion for local, unrestricted workflows."
+  "excerpt": "Sulphur 2 is a public video-model checkpoint released by SulphurAI."
  },
  "_meta": {
   "extracted_at": null,
@@ -106,6 +108,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

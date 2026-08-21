@@ -11,8 +11,8 @@
   "name": "MOSS-Audio",
   "family_slug": "moss-audio",
   "family_display": "MOSS-Audio",
-  "model_slug": "moss-audio",
-  "model_display": "MOSS-Audio",
+  "model_slug": null,
+  "model_display": null,
   "version": null,
   "released": "2026-05-05",
   "vendor": null,
@@ -98,6 +98,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

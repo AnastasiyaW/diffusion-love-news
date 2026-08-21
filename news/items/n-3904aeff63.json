@@ -1,0 +1,143 @@
+{
+ "_meta": {
+  "classified_at": null,
+  "enriched_at": null,
+  "extracted_at": null,
+  "models_used": {},
+  "schema_validated": true,
+  "verified_at": null
+ },
+ "category": "diffusion-video",
+ "claims": [
+  {
+   "evidence": [
+    {
+     "published_at": null,
+     "publisher": "TenStrip",
+     "title": "Official LTX2.3-10Eros model card",
+     "url": "https://huggingface.co/TenStrip/LTX2.3-10Eros"
+    }
+   ],
+   "id": "c-lineage",
+   "kind": "lineage",
+   "statement": "The official model card describes LTX2.3-10Eros as a fine-tune and points to LTX 2.3-specific workflows and model files.",
+   "status": "verified"
+  }
+ ],
+ "entry_type": "project",
+ "evolution": {
+  "is_latest_in_family": true,
+  "latest_version": null,
+  "related_ids": [],
+  "summary": "LTX2.3-10Eros is published as an image-to-video fine-tune in the LTX 2.3 model family."
+ },
+ "facets": {
+  "adaptations": [
+   "fine-tune"
+  ],
+  "base_models": [
+   "ltx-2-3"
+  ],
+  "category": "diffusion-video",
+  "entry_type": "project",
+  "features": [
+   "image-to-video"
+  ],
+  "formats": [
+   "huggingface"
+  ],
+  "license": null,
+  "models": [
+   "ltx-2-3-10eros"
+  ],
+  "origin": null,
+  "platforms": [],
+  "projects": [
+   "ltx"
+  ],
+  "vendors": [
+   "tenstrip"
+  ],
+  "versions": [
+   "ltx-2-3-10eros"
+  ],
+  "year": 2026
+ },
+ "id": "n-3904aeff63",
+ "lang": "en",
+ "lifecycle_event": {
+  "date": "2026-05-04",
+  "kind": "release",
+  "summary": "TenStrip published the LTX2.3-10Eros image-to-video model weights.",
+  "title": "LTX2.3-10Eros Video Generation Model",
+  "version": null
+ },
+ "links": [
+  {
+   "host": "huggingface.co",
+   "is_primary": true,
+   "kind": "weights",
+   "lang": "en",
+   "status": "live",
+   "url": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+   "verified_at": "2026-08-21T10:44:43Z"
+  }
+ ],
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "project": {
+  "adaptation": {
+   "base_model_slug": "ltx-2-3",
+   "purpose": "image-to-video generation",
+   "type": "fine-tune"
+  },
+  "base_model": "LTX-2.3",
+  "domains": [
+   {
+    "label": "Image Generation",
+    "slug": "image-generation",
+    "url": "https://happyin.space/image-generation/"
+   }
+  ],
+  "family_display": "LTX",
+  "family_slug": "ltx",
+  "homepage": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+  "kind": "video-generation-model",
+  "license": null,
+  "model_display": "LTX2.3-10Eros",
+  "model_slug": "ltx-2-3-10eros",
+  "name": "LTX2.3-10Eros",
+  "origin_region": null,
+  "released": "2026-05-04",
+  "repository": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+  "status": "released",
+  "summary": "TenStrip published LTX2.3-10Eros, an image-to-video fine-tune in the LTX 2.3 model family.",
+  "vendor": "TenStrip",
+  "vendor_slug": "tenstrip",
+  "version": null
+ },
+ "research_notes": "The official Hugging Face model card labels the repository image-to-video, describes the model as a fine-tune, and links LTX 2.3-specific workflows and model files.",
+ "schema_version": "1.3",
+ "source": {
+  "excerpt": "TenStrip published LTX2.3-10Eros, an image-to-video model in the LTX 2.3 family.",
+  "posted_at": "2026-05-04"
+ },
+ "summary": "TenStrip published LTX2.3-10Eros, an image-to-video fine-tune in the LTX 2.3 model family.",
+ "tags": [
+  "LTX",
+  "LTX2.3-10Eros",
+  "adaptation:fine-tune",
+  "base-model:ltx-2-3",
+  "diffusion-video",
+  "family:ltx",
+  "fine-tune-for:ltx-2-3",
+  "huggingface",
+  "image-to-video",
+  "ltx",
+  "ltx-2-3-10eros",
+  "model:ltx-2-3-10eros"
+ ],
+ "title": "LTX2.3-10Eros Video Generation Model"
+}

@@ -10,26 +10,32 @@
  "project": {
   "name": "Gemma 4 Heretic",
   "family_slug": "gemma",
-  "family_display": "Gemma 4 Heretic",
-  "model_slug": "gemma-4",
-  "model_display": "Gemma 4",
+  "family_display": "Gemma",
+  "model_slug": "gemma-4-e4b-it",
+  "model_display": "Gemma 4 E4B-it",
   "version": null,
   "released": "2026-04-04",
   "vendor": null,
   "vendor_slug": null,
   "origin_region": null,
   "license": null,
-  "base_model": null,
-  "adaptation": null
+  "base_model": "Gemma 4 E4B-it",
+  "adaptation": {
+   "type": "fine-tune",
+   "purpose": "HERETIC fine-tune",
+   "base_model_slug": "gemma-4-e4b-it"
+  }
  },
  "tags": [
-  "Gemma 4 Heretic",
-  "Gemma 4",
+  "Gemma 4 E4B-it Heretic",
+  "Gemma 4 E4B-it",
   "gemma",
-  "gemma-4",
+  "gemma-4-e4b-it",
   "llm",
   "family:gemma",
-  "model:gemma-4",
+  "model:gemma-4-e4b-it",
+  "adaptation:fine-tune",
+  "fine-tune-for:gemma-4-e4b-it",
   "huggingface",
   "open"
  ],
@@ -48,14 +54,18 @@
   ],
   "platforms": [],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "gemma-4-e4b-it"
+  ],
   "origin": null,
   "license": "open",
   "year": 2026,
   "models": [
-   "gemma-4"
+   "gemma-4-e4b-it"
   ],
-  "adaptations": []
+  "adaptations": [
+   "fine-tune"
+  ]
  },
  "links": [
   {
@@ -100,6 +110,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }

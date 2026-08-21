@@ -10,26 +10,33 @@
  "project": {
   "name": "Qwen3.6-35B-Reasoning-Distilled",
   "family_slug": "qwen",
-  "family_display": "Qwen3.6-35B-Reasoning-Distilled",
-  "model_slug": "qwen3-6-35b",
-  "model_display": "Qwen3.6-35B",
+  "family_display": "Qwen",
+  "model_slug": "qwen3-6-35b-a3b",
+  "model_display": "Qwen3.6-35B-A3B",
   "version": null,
   "released": "2026-04-21",
   "vendor": null,
   "vendor_slug": null,
   "origin_region": "china",
   "license": null,
-  "base_model": null,
-  "adaptation": null
+  "base_model": "Qwen3.6-35B-A3B",
+  "adaptation": {
+   "type": "fine-tune",
+   "purpose": "Claude 4.6 Opus reasoning distillation",
+   "base_model_slug": "qwen3-6-35b-a3b"
+  }
  },
  "tags": [
   "Qwen3.6-35B-Reasoning-Distilled",
-  "Qwen3.6-35B",
+  "Qwen3.6-35B-A3B",
   "qwen",
-  "qwen3-6-35b",
+  "qwen3-6-35b-a3b",
   "llm",
   "family:qwen",
-  "model:qwen3-6-35b",
+  "model:qwen3-6-35b-a3b",
+  "adaptation:fine-tune",
+  "fine-tune-for:qwen3-6-35b-a3b",
+  "base-model:qwen3-6-35b-a3b",
   "fine-tuning",
   "huggingface",
   "china"
@@ -51,14 +58,18 @@
   ],
   "platforms": [],
   "vendors": [],
-  "base_models": [],
+  "base_models": [
+   "qwen3-6-35b-a3b"
+  ],
   "origin": "china",
   "license": null,
   "year": 2026,
   "models": [
-   "qwen3-6-35b"
+   "qwen3-6-35b-a3b"
   ],
-  "adaptations": []
+  "adaptations": [
+   "fine-tune"
+  ]
  },
  "links": [
   {
@@ -103,6 +114,6 @@
    "classify": "gemini-3-flash-preview",
    "enrich": "gemini-3-flash-preview"
   },
-  "schema_validated": false
+  "schema_validated": true
  }
 }
