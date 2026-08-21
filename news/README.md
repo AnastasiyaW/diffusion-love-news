@@ -18,10 +18,10 @@ news/
 ├── _aliases.json         # canonical_family ← [slug_aliases, ...]
 ├── all.json              # full bundle: { schema_version, total, records: [...] }
 └── items/
-    └── n-{10-char-hex}.json   # one file per news, full schema v1.2
+    └── n-{10-char-hex}.json   # one file per news, full schema v1.3
 ```
 
-## Item schema (v1.2)
+## Item schema (v1.3)
 
 Each item is **self-contained** — a consumer can render one file without
 additional context. IDs are opaque hashes; nothing in the item reveals where
@@ -29,7 +29,7 @@ the news was originally surfaced.
 
 | Field | Purpose |
 |---|---|
-| `schema_version` | `"1.2"` — version pin |
+| `schema_version` | `"1.3"` — version pin |
 | `id` | Opaque identifier, `n-{10-char-hex}` |
 | `entry_type` | `project` / `news` / `paper` / `opinion` / `misc` |
 | `category` | One of 11 fixed categories (`vlm`, `diffusion-image`, etc.) |
@@ -40,6 +40,8 @@ the news was originally surfaced.
 | `facets` | Structured object — faceted filter UI friendly |
 | `links` | Typed link array — only project resources (code, weights, demo, paper, …) |
 | `evolution` | Timeline: summary, latest_version, related_ids |
+| `lifecycle_event` | Typed, dated project event used in derived timelines |
+| `claims` | Evidence-bearing public claims with explicit verification status |
 | `media` | `has_image`, `has_video` |
 | `source` | `posted_at` (ISO date) + `excerpt` (English) — nothing more |
 | `_meta` | Pipeline timestamps + model used |
@@ -100,7 +102,7 @@ deterministically (date desc, id desc) so file diffs stay clean.
 ### `_meta.json`
 ```json
 {
-  "schema_version": "1.2",
+  "schema_version": "1.3",
   "site": "diffusion.love",
   "generated_at": "2026-...",
   "counts": { "items": N, "tags": N, "categories": N, "years": N, "projects": N }
@@ -177,6 +179,9 @@ The repo is public. Consume the JSON via:
   ```
 
 Cache busting: replace `@main` with a commit hash (`@sha-12chars`) to pin a snapshot.
+After every validated push to `main`, CI asks jsDelivr to purge changed public
+JSON plus the eight generated discovery files. CDN propagation is still
+eventual; the commit-addressed URL is the immutable release proof.
 
 ## Update cadence
 

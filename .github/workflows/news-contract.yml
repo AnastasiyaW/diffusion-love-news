@@ -19,3 +19,35 @@ jobs:
           python-version: "3.11"
       - run: python -m unittest discover -s tests -p "test_*.py"
       - run: python scripts/build_news.py --check
+
+  purge-jsdelivr:
+    if: github.event_name == 'push'
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Collect changed public JSON
+        shell: bash
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: |
+          if git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null; then
+            git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" -- \
+              ':(glob)news/*.json' ':(glob)news/items/*.json' \
+              > "$RUNNER_TEMP/changed-news-files.txt"
+          else
+            echo "Previous push commit is unavailable; purging every public news JSON."
+            git ls-files \
+              ':(glob)news/*.json' ':(glob)news/items/*.json' \
+              > "$RUNNER_TEMP/changed-news-files.txt"
+          fi
+      - name: Purge changed feed files from jsDelivr
+        run: >-
+          python scripts/purge_jsdelivr.py
+          --paths-file "$RUNNER_TEMP/changed-news-files.txt"
