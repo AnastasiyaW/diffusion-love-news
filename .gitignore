@@ -20,8 +20,10 @@
 # approval/session artifacts remain outside this repository.
 scripts/*
 !scripts/build_news.py
+!scripts/purge_jsdelivr.py
 tests/*
 !tests/test_news_contract.py
+!tests/test_jsdelivr_purge.py
 .github/*
 !.github/workflows/
 .github/workflows/*
