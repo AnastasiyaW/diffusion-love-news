@@ -21,6 +21,7 @@ CRITICAL_PATHS = (
     "news/_categories.json",
     "news/_index.json",
     "news/_meta.json",
+    "news/_organizations.json",
     "news/_projects.json",
     "news/_tags.json",
     "news/_years.json",
