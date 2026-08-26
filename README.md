@@ -13,8 +13,9 @@ Everything lives under [`news/`](./news/). Read [`news/README.md`](./news/README
 for the full schema, layout, and consumption patterns.
 
 Quick summary:
-- `news/items/n-{hex}.json` — one self-contained item per file (schema v1.2)
-- `news/_index.json`, `news/_tags.json`, `news/_projects.json`, etc — derived
+- `news/items/n-{hex}.json` — one self-contained item per file (schema v1.2-v1.4)
+- `news/_index.json`, `news/_tags.json`, `news/_projects.json`,
+  `news/_organizations.json`, etc — derived
   reverse-lookup indexes
 - `news/all.json` — full bundle for batch consumers
 
