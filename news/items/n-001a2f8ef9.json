@@ -1,0 +1,167 @@
+{
+ "_meta": {
+  "classified_at": null,
+  "enriched_at": null,
+  "extracted_at": null,
+  "models_used": {},
+  "schema_validated": true,
+  "verified_at": null
+ },
+ "category": "misc",
+ "claims": [
+  {
+   "evidence": [
+    {
+     "published_at": "2026-08-26",
+     "publisher": null,
+     "title": "diffusion.love news commit",
+     "url": "https://github.com/AnastasiyaW/diffusion-love-news/commit/cd94753d11a86102df942f5560f1f49cdf332ccc"
+    }
+   ],
+   "id": "claim_contract_published",
+   "kind": "event",
+   "statement": "diffusion.love published an explicit project and company development graph contract.",
+   "status": "verified"
+  },
+  {
+   "evidence": [
+    {
+     "published_at": "2026-08-26",
+     "publisher": null,
+     "title": "diffusion.love news commit",
+     "url": "https://github.com/AnastasiyaW/diffusion-love-news/commit/cd94753d11a86102df942f5560f1f49cdf332ccc"
+    }
+   ],
+   "id": "claim_contract_features",
+   "kind": "feature",
+   "statement": "The public news contract now carries reviewer-approved project and company development lines plus a commit-addressed Knowledge Space bridge with an agent-ready brief.",
+   "status": "verified"
+  }
+ ],
+ "development": {
+  "predecessor_ids": [],
+  "scope": "project",
+  "thread_display": "Connected news and agent-ready knowledge",
+  "thread_slug": "news-development-graph"
+ },
+ "entry_type": "news",
+ "evolution": {
+  "is_latest_in_family": true,
+  "latest_version": null,
+  "related_ids": [],
+  "summary": "diffusion.love has published an explicit project and company development graph contract, incorporating reviewer-approved project and company development lines along with a commit-addressed Knowledge Space bridge containing an agent-ready brief."
+ },
+ "facets": {
+  "adaptations": [],
+  "base_models": [],
+  "category": "misc",
+  "entry_type": "news",
+  "features": [],
+  "formats": [],
+  "license": null,
+  "models": [],
+  "origin": null,
+  "platforms": [],
+  "projects": [
+   "diffusion-love"
+  ],
+  "vendors": [
+   "happyin"
+  ],
+  "versions": [],
+  "year": 2026
+ },
+ "id": "n-001a2f8ef9",
+ "knowledge": {
+  "agent_context_url": "https://happyin.space/architecture/news-development-graph/#agent-brief",
+  "article_url": "https://happyin.space/architecture/news-development-graph/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/abc79e4b752d5e215b80417020e164ca43672d2a/docs/architecture/news-development-graph.md",
+  "title": "News Development Graph"
+ },
+ "lang": "en",
+ "lifecycle_event": {
+  "date": "2026-08-26",
+  "kind": "announcement",
+  "summary": "diffusion.love publishes explicit project and company development graph contract",
+  "title": "diffusion.love publishes explicit project and company development graph contract",
+  "version": null
+ },
+ "links": [
+  {
+   "host": "app.diffusion.love",
+   "is_primary": true,
+   "kind": "homepage",
+   "lang": "en",
+   "status": "active",
+   "url": "https://app.diffusion.love/",
+   "verified_at": "2026-08-26T15:11:07Z"
+  },
+  {
+   "host": "github.com",
+   "is_primary": false,
+   "kind": "commit",
+   "lang": "en",
+   "status": "active",
+   "url": "https://github.com/AnastasiyaW/diffusion-love-news/commit/cd94753d11a86102df942f5560f1f49cdf332ccc",
+   "verified_at": "2026-08-26T15:11:07Z"
+  }
+ ],
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "organization": {
+  "display": "Happyin",
+  "homepage": "https://happyin.app/",
+  "slug": "happyin"
+ },
+ "project": {
+  "adaptation": null,
+  "base_model": null,
+  "domains": [
+   {
+    "label": "Software Architecture",
+    "slug": "architecture",
+    "url": "https://happyin.space/architecture/"
+   },
+   {
+    "label": "LLM Agents",
+    "slug": "llm-agents",
+    "url": "https://happyin.space/llm-agents/"
+   },
+   {
+    "label": "Web Frontend",
+    "slug": "web-frontend",
+    "url": "https://happyin.space/web-frontend/"
+   }
+  ],
+  "family_display": "diffusion.love",
+  "family_slug": "diffusion-love",
+  "homepage": "https://app.diffusion.love/",
+  "license": null,
+  "model_display": null,
+  "model_slug": null,
+  "name": "diffusion.love",
+  "origin_region": null,
+  "released": "2026-08-26",
+  "summary": "diffusion.love has published an explicit project and company development graph contract, incorporating reviewer-approved project and company development lines along with a commit-addressed Knowledge Space bridge containing an agent-ready brief.",
+  "vendor": "Happyin",
+  "vendor_slug": "happyin",
+  "version": null
+ },
+ "research_notes": "",
+ "schema_version": "1.4",
+ "source": {
+  "excerpt": "The public news contract now carries reviewer-approved project and company development lines plus a commit-addressed Knowledge Space bridge with an agent-ready brief.",
+  "posted_at": "2026-08-26"
+ },
+ "summary": "diffusion.love has published an explicit project and company development graph contract, incorporating reviewer-approved project and company development lines along with a commit-addressed Knowledge Space bridge containing an agent-ready brief.",
+ "tags": [
+  "contract",
+  "development-graph",
+  "family:diffusion-love",
+  "knowledge-space",
+  "organization:happyin"
+ ],
+ "title": "diffusion.love publishes explicit project and company development graph contract"
+}

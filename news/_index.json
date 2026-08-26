@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-001a2f8ef9",
+    "date": "2026-08-26",
+    "title": "diffusion.love publishes explicit project and company development graph contract",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "diffusion-love",
+    "version": null,
+    "tags": [
+      "contract",
+      "development-graph",
+      "family:diffusion-love",
+      "knowledge-space",
+      "organization:happyin"
+    ],
+    "primary_link": "https://app.diffusion.love/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-2f94cbb043",
     "date": "2026-06-19",
     "title": "Enrich agent research articles",
