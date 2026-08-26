@@ -1,1 +1,40 @@
-{}
+{
+  "happyin": {
+    "slug": "happyin",
+    "display": "Happyin",
+    "homepage": "https://happyin.app/",
+    "project_slugs": [
+      "diffusion-love"
+    ],
+    "post_count": 1,
+    "direct_post_count": 0,
+    "first_seen": "2026-08-26",
+    "last_seen": "2026-08-26",
+    "news_ids": [
+      "n-001a2f8ef9"
+    ],
+    "direct_news_ids": [],
+    "development_threads": [],
+    "related_news": [
+      {
+        "id": "n-001a2f8ef9",
+        "date": "2026-08-26",
+        "title": "diffusion.love publishes explicit project and company development graph contract",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "diffusion-love",
+        "version": null,
+        "tags": [
+          "contract",
+          "development-graph",
+          "family:diffusion-love",
+          "knowledge-space",
+          "organization:happyin"
+        ],
+        "primary_link": "https://app.diffusion.love/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  }
+}
