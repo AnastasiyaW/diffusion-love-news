@@ -18,8 +18,8 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_NEWS_DIR = ROOT / "news"
-CURRENT_SCHEMA_VERSION = "1.3"
-SUPPORTED_ITEM_VERSIONS = {"1.2", "1.3"}
+CURRENT_SCHEMA_VERSION = "1.4"
+SUPPORTED_ITEM_VERSIONS = {"1.2", "1.3", "1.4"}
 SITE = "diffusion.love"
 GENERATED_FILES = (
     "_meta.json",
@@ -28,6 +28,7 @@ GENERATED_FILES = (
     "_categories.json",
     "_years.json",
     "_projects.json",
+    "_organizations.json",
     "_aliases.json",
     "all.json",
 )
@@ -35,6 +36,7 @@ GENERATED_FILES = (
 ID_RE = re.compile(r"^n-[0-9a-f]{10}$")
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 TIMESTAMP_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
+FULL_GIT_SHA_RE = re.compile(r"^[0-9a-f]{40}$")
 FORBIDDEN_PUBLIC_KEYS = {
     "access_token",
     "api_key",
@@ -74,6 +76,7 @@ BASE_REQUIRED_FIELDS = (
     "_meta",
 )
 V13_TOP_LEVEL_FIELDS = {"lifecycle_event", "claims"}
+V14_TOP_LEVEL_FIELDS = {"organization", "development", "knowledge"}
 PROJECT_REQUIRED_FIELDS = (
     "name",
     "family_slug",
@@ -135,6 +138,19 @@ RESOURCE_LINK_FIELDS = (
     "verified_at",
 )
 LINK_SHARED_METADATA_FIELDS = ("kind", "host", "lang", "status", "label", "title")
+ORGANIZATION_FIELDS = ("slug", "display", "homepage")
+DEVELOPMENT_FIELDS = (
+    "scope",
+    "thread_slug",
+    "thread_display",
+    "predecessor_ids",
+)
+KNOWLEDGE_FIELDS = (
+    "title",
+    "article_url",
+    "source_url",
+    "agent_context_url",
+)
 
 
 class ContractError(ValueError):
@@ -342,6 +358,122 @@ def validate_project(errors: list[str], item: dict[str, Any]) -> None:
                     errors.append(f"{prefix}.url: duplicate domain URL")
                 else:
                     seen_urls.add(url)
+
+
+def validate_organization(errors: list[str], item: dict[str, Any]) -> None:
+    organization = item.get("organization")
+    if organization is None:
+        return
+    if not isinstance(organization, dict):
+        errors.append("organization: expected object or null")
+        return
+    validate_exact_keys(errors, "organization", organization, ORGANIZATION_FIELDS)
+    slug = organization.get("slug")
+    if not isinstance(slug, str) or not SLUG_RE.fullmatch(slug):
+        errors.append("organization.slug: expected lowercase kebab-case slug")
+    display = organization.get("display")
+    if not isinstance(display, str) or not display.strip():
+        errors.append("organization.display: expected non-empty string")
+    homepage = organization.get("homepage")
+    if homepage is not None and not is_http_url(homepage, https_only=True):
+        errors.append("organization.homepage: expected HTTPS URL or null")
+
+
+def validate_development(errors: list[str], item: dict[str, Any]) -> None:
+    development = item.get("development")
+    if not isinstance(development, dict):
+        errors.append("development: expected object")
+        return
+    validate_exact_keys(errors, "development", development, DEVELOPMENT_FIELDS)
+    if development.get("scope") not in {"project", "organization"}:
+        errors.append("development.scope: expected 'project' or 'organization'")
+    for key in ("thread_slug",):
+        value = development.get(key)
+        if not isinstance(value, str) or not SLUG_RE.fullmatch(value):
+            errors.append(f"development.{key}: expected lowercase kebab-case slug")
+    display = development.get("thread_display")
+    if not isinstance(display, str) or not display.strip():
+        errors.append("development.thread_display: expected non-empty string")
+    predecessors = development.get("predecessor_ids")
+    validate_string_list(errors, "development.predecessor_ids", predecessors)
+    if isinstance(predecessors, list):
+        for predecessor_id in predecessors:
+            if isinstance(predecessor_id, str) and not ID_RE.fullmatch(predecessor_id):
+                errors.append(
+                    "development.predecessor_ids: expected n-{10 lowercase hex characters}"
+                )
+
+
+def is_commit_addressed_knowledge_source(value: Any) -> bool:
+    if not is_http_url(value, https_only=True):
+        return False
+    parsed = urlparse(value)
+    parts = [part for part in parsed.path.split("/") if part]
+    if parsed.netloc == "raw.githubusercontent.com":
+        if len(parts) < 6:
+            return False
+        owner, repository, revision, root = parts[:4]
+        markdown_path = parts[4:]
+    elif parsed.netloc == "github.com":
+        if len(parts) < 7 or parts[2] != "raw":
+            return False
+        owner, repository, _, revision, root = parts[:5]
+        markdown_path = parts[5:]
+    else:
+        return False
+    return (
+        owner == "AnastasiyaW"
+        and repository == "knowledge-space"
+        and FULL_GIT_SHA_RE.fullmatch(revision) is not None
+        and root == "docs"
+        and bool(markdown_path)
+        and markdown_path[-1].endswith(".md")
+        and not parsed.query
+        and not parsed.fragment
+    )
+
+
+def validate_knowledge(errors: list[str], item: dict[str, Any]) -> None:
+    knowledge = item.get("knowledge")
+    if not isinstance(knowledge, dict):
+        errors.append("knowledge: expected object")
+        return
+    validate_exact_keys(errors, "knowledge", knowledge, KNOWLEDGE_FIELDS)
+    title = knowledge.get("title")
+    if not isinstance(title, str) or not title.strip():
+        errors.append("knowledge.title: expected non-empty string")
+    article_url = knowledge.get("article_url")
+    article = urlparse(article_url) if isinstance(article_url, str) else None
+    if (
+        article is None
+        or article.scheme != "https"
+        or article.netloc != "happyin.space"
+        or not article.path.strip("/")
+        or article.query
+        or article.fragment
+    ):
+        errors.append("knowledge.article_url: expected canonical happyin.space article URL")
+    source_url = knowledge.get("source_url")
+    if not is_commit_addressed_knowledge_source(source_url):
+        errors.append(
+            "knowledge.source_url: expected commit-addressed Knowledge Space Markdown URL"
+        )
+    agent_context_url = knowledge.get("agent_context_url")
+    agent_context = (
+        urlparse(agent_context_url) if isinstance(agent_context_url, str) else None
+    )
+    if (
+        agent_context is None
+        or article is None
+        or agent_context.scheme != article.scheme
+        or agent_context.netloc != article.netloc
+        or agent_context.path != article.path
+        or agent_context.query
+        or agent_context.fragment != "agent-brief"
+    ):
+        errors.append(
+            "knowledge.agent_context_url: expected the article's #agent-brief URL"
+        )
 
 
 def validate_facets(errors: list[str], item: dict[str, Any]) -> None:
@@ -572,7 +704,7 @@ def validate_item(item: Any, filename: str = "<memory>") -> list[str]:
         "$",
         item,
         BASE_REQUIRED_FIELDS,
-        V13_TOP_LEVEL_FIELDS,
+        V13_TOP_LEVEL_FIELDS | V14_TOP_LEVEL_FIELDS,
     )
 
     version = item.get("schema_version")
@@ -607,6 +739,37 @@ def validate_item(item: Any, filename: str = "<memory>") -> list[str]:
     validate_lifecycle(errors, item)
     validate_claims(errors, item)
 
+    if version == "1.4":
+        for key in sorted(V14_TOP_LEVEL_FIELDS):
+            if key not in item:
+                errors.append(f"$.{key}: required for schema 1.4")
+        if "lifecycle_event" not in item:
+            errors.append("$.lifecycle_event: required for schema 1.4")
+        validate_organization(errors, item)
+        validate_development(errors, item)
+        validate_knowledge(errors, item)
+
+        project = item.get("project") if isinstance(item.get("project"), dict) else {}
+        organization = item.get("organization")
+        family_slug = project.get("family_slug")
+        if family_slug is None and organization is None:
+            errors.append("schema 1.4 requires a project or organization identity")
+        development = item.get("development")
+        if isinstance(development, dict):
+            if development.get("scope") == "project" and family_slug is None:
+                errors.append("development.scope project requires project.family_slug")
+            if development.get("scope") == "organization" and organization is None:
+                errors.append("development.scope organization requires organization")
+        if isinstance(organization, dict) and family_slug is not None:
+            if project.get("vendor_slug") != organization.get("slug"):
+                errors.append(
+                    "project.vendor_slug must match organization.slug for schema 1.4"
+                )
+            if project.get("vendor") != organization.get("display"):
+                errors.append(
+                    "project.vendor must match organization.display for schema 1.4"
+                )
+
     source = item.get("source")
     facets = item.get("facets")
     if isinstance(source, dict) and is_date(source.get("posted_at")) and isinstance(facets, dict):
@@ -621,8 +784,74 @@ def validate_item(item: Any, filename: str = "<memory>") -> list[str]:
             fields = sorted(present_top | {f"project.{name}" for name in present_project})
             errors.append(f"schema_version: v1.3 fields require '1.3': {', '.join(fields)}")
 
+    if version in {"1.2", "1.3"}:
+        present_v14 = sorted(V14_TOP_LEVEL_FIELDS.intersection(item))
+        if present_v14:
+            errors.append(
+                f"schema_version: v1.4 fields require '1.4': {', '.join(present_v14)}"
+            )
+
     for private_path in find_private_keys(item):
         errors.append(f"{private_path}: private/raw field is forbidden in the public feed")
+    return errors
+
+
+def development_subject(item: dict[str, Any]) -> tuple[str, str] | None:
+    development = item.get("development")
+    if not isinstance(development, dict):
+        return None
+    if development.get("scope") == "project":
+        slug = item.get("project", {}).get("family_slug")
+    elif development.get("scope") == "organization":
+        organization = item.get("organization")
+        slug = organization.get("slug") if isinstance(organization, dict) else None
+    else:
+        return None
+    return (development["scope"], slug) if isinstance(slug, str) else None
+
+
+def validate_development_graph(records: list[dict[str, Any]]) -> list[str]:
+    errors: list[str] = []
+    by_id = {item["id"]: item for item in records if isinstance(item.get("id"), str)}
+    for item in records:
+        if item.get("schema_version") != "1.4":
+            continue
+        development = item.get("development")
+        if not isinstance(development, dict):
+            continue
+        subject = development_subject(item)
+        for predecessor_id in development.get("predecessor_ids", []):
+            predecessor = by_id.get(predecessor_id)
+            if predecessor is None:
+                errors.append(
+                    f"{item['id']}: development.predecessor_ids references missing "
+                    f"{predecessor_id}"
+                )
+                continue
+            predecessor_development = predecessor.get("development")
+            if not isinstance(predecessor_development, dict):
+                errors.append(
+                    f"{item['id']}: predecessor {predecessor_id} has no schema 1.4 development"
+                )
+                continue
+            if development_subject(predecessor) != subject:
+                errors.append(
+                    f"{item['id']}: predecessor {predecessor_id} belongs to a different "
+                    "development subject"
+                )
+                continue
+            if predecessor_development.get("thread_slug") != development.get(
+                "thread_slug"
+            ):
+                errors.append(
+                    f"{item['id']}: predecessor {predecessor_id} belongs to a different "
+                    "development thread"
+                )
+                continue
+            if chronological_key(predecessor) >= chronological_key(item):
+                errors.append(
+                    f"{item['id']}: predecessor {predecessor_id} must be strictly earlier"
+                )
     return errors
 
 
@@ -660,6 +889,7 @@ def load_items(news_dir: Path) -> list[dict[str, Any]]:
                 errors.append(
                     f"{item.get('id', '<unknown>')}: evolution.related_ids references missing {related_id}"
                 )
+    errors.extend(validate_development_graph(records))
     if errors:
         raise ContractError("\n".join(errors))
     return records
@@ -768,6 +998,51 @@ def consistent_project_value(items: list[dict[str, Any]], key: str) -> Any:
     return next(iter(values.values()), None)
 
 
+def consistent_organization(items: list[dict[str, Any]], subject: str) -> Any:
+    values = {
+        json.dumps(item["organization"], ensure_ascii=False, sort_keys=True): item[
+            "organization"
+        ]
+        for item in items
+        if isinstance(item.get("organization"), dict)
+    }
+    if len(values) > 1:
+        raise ContractError(
+            f"{subject} has conflicting non-null organization metadata"
+        )
+    return next(iter(values.values()), None)
+
+
+def aggregate_development_threads(
+    items: list[dict[str, Any]], scope: str
+) -> list[dict[str, Any]]:
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for item in sorted(items, key=chronological_key):
+        development = item.get("development")
+        if isinstance(development, dict) and development.get("scope") == scope:
+            grouped[development["thread_slug"]].append(item)
+
+    result: list[dict[str, Any]] = []
+    for slug in sorted(grouped):
+        thread_items = grouped[slug]
+        displays = {item["development"]["thread_display"] for item in thread_items}
+        if len(displays) != 1:
+            raise ContractError(
+                f"development thread {slug!r} has conflicting display names"
+            )
+        result.append(
+            {
+                "slug": slug,
+                "display": next(iter(displays)),
+                "first_seen": posted_at(thread_items[0]),
+                "last_seen": posted_at(thread_items[-1]),
+                "latest_news_id": thread_items[-1]["id"],
+                "news_ids": [item["id"] for item in thread_items],
+            }
+        )
+    return result
+
+
 def aggregate_domains(items: list[dict[str, Any]]) -> list[dict[str, str]]:
     by_slug: dict[str, dict[str, str]] = {}
     for item in items:
@@ -873,7 +1148,7 @@ def aggregate_project(slug: str, items: list[dict[str, Any]]) -> dict[str, Any]:
         for claim in item.get("claims", []):
             claims.append({**claim, "news_id": item["id"]})
 
-    return {
+    result = {
         "family_slug": slug,
         "family_display": family_display,
         "family_display_variants": family_display_variants,
@@ -941,6 +1216,61 @@ def aggregate_project(slug: str, items: list[dict[str, Any]]) -> dict[str, Any]:
         "related_news": [projection(item) for item in reversed(chronological)],
         "claims": claims,
     }
+    organization = consistent_organization(chronological, f"project {slug!r}")
+    development_threads = aggregate_development_threads(chronological, "project")
+    if organization is not None:
+        result["organization"] = organization
+    if development_threads:
+        result["development_threads"] = development_threads
+    return result
+
+
+def aggregate_organization(
+    slug: str, items: list[dict[str, Any]]
+) -> dict[str, Any]:
+    chronological = sorted(items, key=chronological_key)
+    newest = chronological[-1]
+    identity = consistent_organization(chronological, f"organization {slug!r}")
+    if not isinstance(identity, dict):
+        raise ContractError(f"organization {slug!r} has no public identity")
+    direct = [
+        item
+        for item in chronological
+        if item.get("development", {}).get("scope") == "organization"
+    ]
+    return {
+        "slug": slug,
+        "display": identity["display"],
+        "homepage": identity["homepage"],
+        "project_slugs": sorted(
+            {
+                item["project"]["family_slug"]
+                for item in chronological
+                if item["project"].get("family_slug") is not None
+            }
+        ),
+        "post_count": len(chronological),
+        "direct_post_count": len(direct),
+        "first_seen": posted_at(chronological[0]),
+        "last_seen": posted_at(newest),
+        "news_ids": [item["id"] for item in chronological],
+        "direct_news_ids": [item["id"] for item in direct],
+        "development_threads": aggregate_development_threads(direct, "organization"),
+        "related_news": [projection(item) for item in reversed(chronological)],
+    }
+
+
+def aggregate_organizations(
+    records: list[dict[str, Any]],
+) -> dict[str, dict[str, Any]]:
+    grouped: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for item in records:
+        organization = item.get("organization")
+        if isinstance(organization, dict):
+            grouped[organization["slug"]].append(item)
+    return {
+        slug: aggregate_organization(slug, grouped[slug]) for slug in sorted(grouped)
+    }
 
 
 def deterministic_timestamp(records: list[dict[str, Any]]) -> str:
@@ -979,6 +1309,7 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
         slug: aggregate_project(slug, grouped_projects[slug])
         for slug in sorted(grouped_projects)
     }
+    organizations = aggregate_organizations(records)
 
     aliases: dict[str, list[str]] = {}
     alias_owners: dict[str, str] = {}
@@ -1003,6 +1334,7 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
         "categories": len(categories),
         "years": len(years),
         "projects": len(projects),
+        "organizations": len(organizations),
     }
     values: dict[str, Any] = {
         "_meta.json": {
@@ -1016,6 +1348,7 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
         "_categories.json": {key: categories[key] for key in sorted(categories)},
         "_years.json": {key: years[key] for key in sorted(years, reverse=True)},
         "_projects.json": projects,
+        "_organizations.json": organizations,
         "_aliases.json": aliases,
         "all.json": {
             "schema_version": CURRENT_SCHEMA_VERSION,
@@ -1029,15 +1362,15 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
 
 
 def check_schema_document(news_dir: Path) -> None:
-    schema_path = news_dir / "schema-v1.3.json"
+    schema_path = news_dir / "schema-v1.4.json"
     try:
         schema = load_json_text(schema_path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError, DuplicateKeyError) as exc:
         raise ContractError(f"formal schema is unreadable: {schema_path}: {exc}") from exc
     if schema.get("$schema") != "https://json-schema.org/draft/2020-12/schema":
-        raise ContractError("schema-v1.3.json must declare JSON Schema draft 2020-12")
-    if schema.get("$id") != "https://diffusion.love/news/schema-v1.3.json":
-        raise ContractError("schema-v1.3.json has an unexpected canonical $id")
+        raise ContractError("schema-v1.4.json must declare JSON Schema draft 2020-12")
+    if schema.get("$id") != "https://diffusion.love/news/schema-v1.4.json":
+        raise ContractError("schema-v1.4.json has an unexpected canonical $id")
 
 
 def atomic_write(path: Path, content: bytes) -> None:

@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.3",
+  "schema_version": "1.4",
   "site": "diffusion.love",
   "generated_at": "2026-06-19T18:47:44Z",
   "counts": {
@@ -7,6 +7,7 @@
     "tags": 1273,
     "categories": 10,
     "years": 1,
-    "projects": 264
+    "projects": 264,
+    "organizations": 0
   }
 }
