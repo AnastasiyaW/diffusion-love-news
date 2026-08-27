@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "llm",
+  "development": {
+    "predecessor_ids": [
+      "n-a3aa871dfa"
+    ],
+    "scope": "project",
+    "thread_display": "Unsloth local training UI",
+    "thread_slug": "unsloth-local-training-ui"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-a3aa871dfa"
+    ],
+    "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "unsloth"
+    ],
+    "vendors": [
+      "unsloth"
+    ],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-57b1c93e50",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/unsloth/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+    "title": "Unsloth"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-08-13",
+    "kind": "reported-update",
+    "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+    "title": "Unsloth Desktop is introduced",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/unslothai/unsloth",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Unsloth",
+    "homepage": "https://unsloth.ai/",
+    "slug": "unsloth"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Unsloth",
+    "family_slug": "unsloth",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Unsloth",
+    "origin_region": null,
+    "released": "2026-08-13",
+    "vendor": "Unsloth",
+    "vendor_slug": "unsloth",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+    "posted_at": "2026-08-13"
+  },
+  "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+  "tags": [
+    "unsloth",
+    "family:unsloth",
+    "project-history",
+    "telegram",
+    "organization:unsloth"
+  ],
+  "title": "Unsloth Desktop is introduced"
+}

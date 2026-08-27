@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "tools-frontend",
+  "development": {
+    "predecessor_ids": [
+      "n-76a6e0d291"
+    ],
+    "scope": "project",
+    "thread_display": "Flux2Klein Enhancer",
+    "thread_slug": "flux2klein-enhancer"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-76a6e0d291"
+    ],
+    "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "comfyui-flux2klein-enhancer"
+    ],
+    "vendors": [],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-b65d8e8b42",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+    "title": "ComfyUI Flux2Klein Enhancer"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-06-24",
+    "kind": "reported-update",
+    "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+    "title": "Flux2Klein Enhancer expands its control package",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": null,
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ComfyUI Flux2Klein Enhancer",
+    "family_slug": "comfyui-flux2klein-enhancer",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ComfyUI Flux2Klein Enhancer",
+    "origin_region": null,
+    "released": "2026-06-24",
+    "vendor": null,
+    "vendor_slug": null,
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+    "posted_at": "2026-06-24"
+  },
+  "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+  "tags": [
+    "comfyui-flux2klein-enhancer",
+    "family:comfyui-flux2klein-enhancer",
+    "project-history",
+    "telegram"
+  ],
+  "title": "Flux2Klein Enhancer expands its control package"
+}

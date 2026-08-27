@@ -1,101 +1,132 @@
 {
- "schema_version": "1.2",
- "id": "n-7e83db4168",
- "entry_type": "project",
- "category": "llm",
- "lang": "en",
- "title": "Qwen Code: Autonomous AI Coding Agent",
- "summary": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
- "research_notes": "Supports Model Context Protocol (MCP) and handles massive context windows up to 1 million tokens for large-scale codebases.",
- "project": {
-  "name": "Qwen Code",
-  "family_slug": "qwen",
-  "family_display": "Qwen Code",
-  "model_slug": "qwen",
-  "model_display": "Qwen",
-  "version": null,
-  "released": "2026-04-13",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": null,
-  "license": null,
-  "base_model": null,
-  "adaptation": null
- },
- "tags": [
-  "Qwen Code",
-  "Qwen",
-  "qwen",
-  "llm",
-  "family:qwen",
-  "github",
-  "open"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-15T01:04:11Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "llm",
+  "development": {
+    "predecessor_ids": [
+      "n-87c78ee187"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen Code agent",
+    "thread_slug": "qwen-code-agent"
+  },
   "entry_type": "project",
-  "projects": [
-   "qwen"
-  ],
-  "versions": [
-   "qwen"
-  ],
-  "features": [],
-  "formats": [
-   "github"
-  ],
-  "platforms": [],
-  "vendors": [],
-  "base_models": [],
-  "origin": null,
-  "license": "open",
-  "year": 2026,
-  "models": [],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "code",
-   "url": "https://github.com/QwenLM/qwen-code",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-15T01:04:11Z"
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": "Qwen3.6 (April 2026)",
+    "related_ids": [
+      "n-87c78ee187"
+    ],
+    "summary": "Evolved from Qwen2.5-Coder into a full agentic ecosystem featuring 'Thinking Mode' for reasoning and native multimodal support for UI and diagram understanding."
   },
-  {
-   "kind": "code",
-   "url": "https://github.com/QwenLM/qwen-code/releases",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "Evolved from Qwen2.5-Coder into a full agentic ecosystem featuring 'Thinking Mode' for reasoning and native multimodal support for UI and diagram understanding.",
-  "latest_version": "Qwen3.6 (April 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": true,
-  "has_video": false
- },
- "source": {
-  "posted_at": "2026-04-13",
-  "excerpt": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-15T01:04:11Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "project",
+    "features": [],
+    "formats": [
+      "github"
+    ],
+    "license": "open",
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-code"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [
+      "qwen"
+    ],
+    "year": 2026
   },
-  "schema_validated": true
- }
+  "id": "n-7e83db4168",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/qwen-code/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+    "title": "Qwen Code"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-13",
+    "kind": "reported-milestone",
+    "summary": "The existing public news item records a later Qwen Code agent milestone; its historical wording is retained even where its model-version label later proved stale.",
+    "title": "Qwen Code is presented as an autonomous coding agent",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "verified_at": "2026-05-15T01:04:11Z"
+    },
+    {
+      "host": "github.com",
+      "is_primary": false,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": true,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen Code",
+    "family_slug": "qwen-code",
+    "license": null,
+    "model_display": "Qwen",
+    "model_slug": "qwen",
+    "name": "Qwen Code",
+    "origin_region": null,
+    "released": "2026-04-13",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "Supports Model Context Protocol (MCP) and handles massive context windows up to 1 million tokens for large-scale codebases.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
+    "posted_at": "2026-04-13"
+  },
+  "summary": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
+  "tags": [
+    "Qwen Code",
+    "Qwen",
+    "qwen",
+    "llm",
+    "github",
+    "open",
+    "family:qwen-code",
+    "organization:qwen"
+  ],
+  "title": "Qwen Code: Autonomous AI Coding Agent"
 }

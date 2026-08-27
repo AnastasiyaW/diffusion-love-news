@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "audio-music",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "Music Flamingo understanding",
+    "thread_slug": "audio-flamingo-music"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [],
+    "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "audio-music",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "audio-flamingo"
+    ],
+    "vendors": [
+      "nvidia"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-5f314f696f",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/audio-voice/audio-flamingo/#agent-brief",
+    "article_url": "https://happyin.space/audio-voice/audio-flamingo/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/audio-flamingo.md",
+    "title": "Audio Flamingo"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-11-15",
+    "kind": "reported-update",
+    "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+    "title": "Music Flamingo targets long-form music understanding",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/NVIDIA/audio-flamingo",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "NVIDIA",
+    "homepage": "https://www.nvidia.com/",
+    "slug": "nvidia"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Audio Flamingo",
+    "family_slug": "audio-flamingo",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Audio Flamingo",
+    "origin_region": null,
+    "released": "2025-11-15",
+    "vendor": "NVIDIA",
+    "vendor_slug": "nvidia",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+    "posted_at": "2025-11-15"
+  },
+  "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+  "tags": [
+    "audio-flamingo",
+    "family:audio-flamingo",
+    "project-history",
+    "telegram",
+    "organization:nvidia"
+  ],
+  "title": "Music Flamingo targets long-form music understanding"
+}

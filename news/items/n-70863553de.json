@@ -1,0 +1,135 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": "2026-08-27T12:03:52Z"
+  },
+  "category": "llm",
+  "claims": [
+    {
+      "evidence": [
+        {
+          "published_at": "2026-08-25",
+          "publisher": "Unsloth",
+          "title": "Unsloth release line reaches v0.1.803-beta",
+          "url": "https://github.com/unslothai/unsloth/releases"
+        },
+        {
+          "published_at": "2026-08-25",
+          "publisher": "Unsloth",
+          "title": "Unsloth release line reaches v0.1.803-beta",
+          "url": "https://unsloth.ai/docs"
+        }
+      ],
+      "id": "claim_endpoint_unsloth_v0_1_803_beta",
+      "kind": "event",
+      "statement": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+      "status": "verified"
+    }
+  ],
+  "development": {
+    "predecessor_ids": [
+      "n-57b1c93e50"
+    ],
+    "scope": "project",
+    "thread_display": "Unsloth local training UI",
+    "thread_slug": "unsloth-local-training-ui"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": true,
+    "latest_version": null,
+    "related_ids": [
+      "n-57b1c93e50"
+    ],
+    "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "unsloth"
+    ],
+    "vendors": [
+      "unsloth"
+    ],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-70863553de",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/unsloth/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+    "title": "Unsloth"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-08-25",
+    "kind": "verified-release",
+    "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+    "title": "Unsloth release line reaches v0.1.803-beta",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "release",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/unslothai/unsloth/releases",
+      "verified_at": "2026-08-27T12:03:52Z"
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Unsloth",
+    "homepage": "https://unsloth.ai/",
+    "slug": "unsloth"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Unsloth",
+    "family_slug": "unsloth",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Unsloth",
+    "origin_region": null,
+    "released": "2026-08-25",
+    "vendor": "Unsloth",
+    "vendor_slug": "unsloth",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+    "posted_at": "2026-08-25"
+  },
+  "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+  "tags": [
+    "unsloth",
+    "family:unsloth",
+    "project-history",
+    "first_party",
+    "organization:unsloth"
+  ],
+  "title": "Unsloth release line reaches v0.1.803-beta"
+}

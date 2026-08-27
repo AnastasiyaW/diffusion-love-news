@@ -1,120 +1,151 @@
 {
- "schema_version": "1.2",
- "id": "n-86ce44c208",
- "entry_type": "project",
- "category": "diffusion-image",
- "lang": "en",
- "title": "Qwen-Image-2.0-Pro",
- "summary": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
- "research_notes": "Widely regarded as the industry leader for precise text rendering in both English and Chinese; consistently maintains a top-10 position on the AI Arena ELO leaderboard.",
- "project": {
-  "name": "Qwen-Image-2.0-Pro",
-  "family_slug": "qwen",
-  "family_display": "Qwen-Image-2.0-Pro",
-  "model_slug": "qwen",
-  "model_display": "Qwen",
-  "version": null,
-  "released": "2026-04-26",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": "china",
-  "license": null,
-  "base_model": null,
-  "adaptation": null
- },
- "tags": [
-  "Qwen-Image-2.0-Pro",
-  "Qwen",
-  "qwen",
-  "diffusion-image",
-  "family:qwen",
-  "text-to-image",
-  "china",
-  "paid"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-14T23:09:07Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "diffusion-image",
+  "development": {
+    "predecessor_ids": [
+      "n-6eab718771"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen-Image generation",
+    "thread_slug": "qwen-image-generation"
+  },
   "entry_type": "project",
-  "projects": [
-   "qwen"
+  "evolution": {
+    "is_latest_in_family": true,
+    "latest_version": "Qwen-Image-2.0-Pro (Feb 2026)",
+    "related_ids": [
+      "n-6eab718771"
+    ],
+    "summary": "Launched as the successor to the Qwen-Image 1.0 series, moving from a 20B MMDiT architecture to a more efficient unified 7B 'omni' model. It integrated generation and editing capabilities and introduced support for 1,000-token long prompts."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "diffusion-image",
+    "entry_type": "project",
+    "features": [
+      "text-to-image"
+    ],
+    "formats": [],
+    "license": "paid",
+    "models": [],
+    "origin": "china",
+    "platforms": [],
+    "projects": [
+      "qwen-image"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [
+      "qwen"
+    ],
+    "year": 2026
+  },
+  "id": "n-86ce44c208",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/qwen-image/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+    "title": "Qwen-Image"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-26",
+    "kind": "reported-milestone",
+    "summary": "The existing public news item records the later Qwen-Image 2.0 Pro product event; it remains distinct from downloadable 2512 weights.",
+    "title": "Qwen-Image 2.0 Pro reaches the hosted product surface",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/Qwen-Image",
+      "verified_at": "2026-05-14T23:09:07Z"
+    },
+    {
+      "host": "arena.ai",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://arena.ai/leaderboard/text-to-image",
+      "verified_at": null
+    },
+    {
+      "host": "modelscope.ai",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro",
+      "verified_at": null
+    },
+    {
+      "host": "modelstudio.console.alibabacloud.com",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&url=2840914_2&modelId=qwen-image-2.0-pro-2026-04-22&serviceSite=international",
+      "verified_at": null
+    }
   ],
-  "versions": [
-   "qwen"
+  "media": {
+    "has_image": true,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen-Image",
+    "family_slug": "qwen-image",
+    "license": null,
+    "model_display": "Qwen",
+    "model_slug": "qwen",
+    "name": "Qwen-Image-2.0-Pro",
+    "origin_region": "china",
+    "released": "2026-04-26",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "Widely regarded as the industry leader for precise text rendering in both English and Chinese; consistently maintains a top-10 position on the AI Arena ELO leaderboard.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
+    "posted_at": "2026-04-26"
+  },
+  "summary": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
+  "tags": [
+    "Qwen-Image-2.0-Pro",
+    "Qwen",
+    "qwen",
+    "diffusion-image",
+    "text-to-image",
+    "china",
+    "paid",
+    "family:qwen-image",
+    "organization:qwen"
   ],
-  "features": [
-   "text-to-image"
-  ],
-  "formats": [],
-  "platforms": [],
-  "vendors": [],
-  "base_models": [],
-  "origin": "china",
-  "license": "paid",
-  "year": 2026,
-  "models": [],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "code",
-   "url": "https://github.com/QwenLM/Qwen-Image",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-14T23:09:07Z"
-  },
-  {
-   "kind": "other",
-   "url": "https://arena.ai/leaderboard/text-to-image",
-   "host": "arena.ai",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  },
-  {
-   "kind": "other",
-   "url": "https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro",
-   "host": "modelscope.ai",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  },
-  {
-   "kind": "other",
-   "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&url=2840914_2&modelId=qwen-image-2.0-pro-2026-04-22&serviceSite=international",
-   "host": "modelstudio.console.alibabacloud.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "Launched as the successor to the Qwen-Image 1.0 series, moving from a 20B MMDiT architecture to a more efficient unified 7B 'omni' model. It integrated generation and editing capabilities and introduced support for 1,000-token long prompts.",
-  "latest_version": "Qwen-Image-2.0-Pro (Feb 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": true,
-  "has_video": false
- },
- "source": {
-  "posted_at": "2026-04-26",
-  "excerpt": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-14T23:09:07Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
-  },
-  "schema_validated": true
- }
+  "title": "Qwen-Image-2.0-Pro"
 }

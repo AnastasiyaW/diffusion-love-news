@@ -1303,7 +1303,10 @@
     "n-c78d87f531"
   ],
   "ace-step-1-5": [
-    "n-b9e02bd01a"
+    "n-b9e02bd01a",
+    "n-851c72bbf5",
+    "n-4003adb534",
+    "n-061c80a1dc"
   ],
   "acestep": [
     "n-b9e02bd01a",
@@ -1426,7 +1429,9 @@
     "n-73e8b27cb3"
   ],
   "audio-flamingo": [
-    "n-9aa3cb6ab5"
+    "n-d5883c87bf",
+    "n-9aa3cb6ab5",
+    "n-5f314f696f"
   ],
   "audio-music": [
     "n-f5dbfdb346",
@@ -1731,7 +1736,9 @@
     "n-133a0bfd18"
   ],
   "comfyui-flux2klein-enhancer": [
-    "n-76a6e0d291"
+    "n-b65d8e8b42",
+    "n-76a6e0d291",
+    "n-4541890dcb"
   ],
   "comfyui-hires-fix": [
     "n-1b11977658"
@@ -1740,6 +1747,8 @@
     "n-39f773b51f"
   ],
   "comfyui-sensenova-u1": [
+    "n-dc75b3cb12",
+    "n-84255b9cc3",
     "n-41c999d507"
   ],
   "comfyui-wan-vace-video-joiner": [
@@ -2050,8 +2059,13 @@
   "family:4c4d": [
     "n-9dd20d8e0c"
   ],
-  "family:acestep": [
+  "family:ace-step-1-5": [
     "n-b9e02bd01a",
+    "n-851c72bbf5",
+    "n-4003adb534",
+    "n-061c80a1dc"
+  ],
+  "family:acestep": [
     "n-a236c67d82",
     "n-596ffa06da"
   ],
@@ -2083,7 +2097,9 @@
     "n-73e8b27cb3"
   ],
   "family:audio-flamingo": [
-    "n-9aa3cb6ab5"
+    "n-d5883c87bf",
+    "n-9aa3cb6ab5",
+    "n-5f314f696f"
   ],
   "family:audio-omni": [
     "n-bab7f8e6fd"
@@ -2166,13 +2182,20 @@
     "n-133a0bfd18"
   ],
   "family:comfyui-flux2klein-enhancer": [
-    "n-76a6e0d291"
+    "n-b65d8e8b42",
+    "n-76a6e0d291",
+    "n-4541890dcb"
   ],
   "family:comfyui-hires-fix": [
     "n-1b11977658"
   ],
   "family:comfyui-photopea": [
     "n-39f773b51f"
+  ],
+  "family:comfyui-sensenova-u1": [
+    "n-dc75b3cb12",
+    "n-84255b9cc3",
+    "n-41c999d507"
   ],
   "family:comphairhead": [
     "n-f1139f1ee9"
@@ -2676,12 +2699,25 @@
     "n-b1f4237092",
     "n-97c6278d46",
     "n-8a620616a1",
-    "n-86ce44c208",
-    "n-7e83db4168",
     "n-6a60e32785",
     "n-129b6b09c0",
     "n-04529e7d46",
     "n-019c913613"
+  ],
+  "family:qwen-code": [
+    "n-fe2f35c14b",
+    "n-e75b2209d4",
+    "n-ae780669a1",
+    "n-87c78ee187",
+    "n-7e83db4168",
+    "n-6b5646e730"
+  ],
+  "family:qwen-image": [
+    "n-9bf7eec688",
+    "n-86ce44c208",
+    "n-6eab718771",
+    "n-589c676a0a",
+    "n-37b2067a0b"
   ],
   "family:qwen-image-edit": [
     "n-250fdb3b1b"
@@ -2723,7 +2759,14 @@
     "n-b6c1907179"
   ],
   "family:sana": [
-    "n-e76fc8f96f"
+    "n-f8cc9060c3",
+    "n-f6f78aa8d5",
+    "n-e76fc8f96f",
+    "n-c185396a2b",
+    "n-a78b2b7401",
+    "n-95cbbfe193",
+    "n-5e3859fa47",
+    "n-04bc8d2a40"
   ],
   "family:sapiens": [
     "n-aa28911ec6"
@@ -2751,8 +2794,7 @@
     "n-b18df4c1c8"
   ],
   "family:sensenova": [
-    "n-4a638abcfe",
-    "n-41c999d507"
+    "n-4a638abcfe"
   ],
   "family:sillytavern": [
     "n-fa9c04297f"
@@ -2863,7 +2905,11 @@
     "n-70e759ac2b"
   ],
   "family:unsloth": [
-    "n-a3aa871dfa"
+    "n-a3aa871dfa",
+    "n-70863553de",
+    "n-69431eb7bc",
+    "n-57b1c93e50",
+    "n-4920069d82"
   ],
   "family:vanast": [
     "n-e33dfb0bdb"
@@ -2944,6 +2990,14 @@
     "n-58129455d1",
     "n-129b6b09c0",
     "n-04529e7d46"
+  ],
+  "first_party": [
+    "n-a78b2b7401",
+    "n-851c72bbf5",
+    "n-84255b9cc3",
+    "n-70863553de",
+    "n-6b5646e730",
+    "n-4541890dcb"
   ],
   "flash-attention": [
     "n-545c4e25d2"
@@ -4599,8 +4653,47 @@
   "openreview": [
     "n-efaa00d50b"
   ],
+  "organization:ace-step": [
+    "n-b9e02bd01a",
+    "n-851c72bbf5",
+    "n-4003adb534",
+    "n-061c80a1dc"
+  ],
   "organization:happyin": [
     "n-001a2f8ef9"
+  ],
+  "organization:nvidia": [
+    "n-f8cc9060c3",
+    "n-f6f78aa8d5",
+    "n-e76fc8f96f",
+    "n-d5883c87bf",
+    "n-c185396a2b",
+    "n-a78b2b7401",
+    "n-9aa3cb6ab5",
+    "n-95cbbfe193",
+    "n-5f314f696f",
+    "n-5e3859fa47",
+    "n-04bc8d2a40"
+  ],
+  "organization:qwen": [
+    "n-fe2f35c14b",
+    "n-e75b2209d4",
+    "n-ae780669a1",
+    "n-9bf7eec688",
+    "n-87c78ee187",
+    "n-86ce44c208",
+    "n-7e83db4168",
+    "n-6eab718771",
+    "n-6b5646e730",
+    "n-589c676a0a",
+    "n-37b2067a0b"
+  ],
+  "organization:unsloth": [
+    "n-a3aa871dfa",
+    "n-70863553de",
+    "n-69431eb7bc",
+    "n-57b1c93e50",
+    "n-4920069d82"
   ],
   "p-video-avatar": [
     "n-d4d07dd0bf"
@@ -4734,6 +4827,37 @@
   "privacy-filter": [
     "n-1985ad3cff"
   ],
+  "project-history": [
+    "n-fe2f35c14b",
+    "n-f8cc9060c3",
+    "n-f6f78aa8d5",
+    "n-e75b2209d4",
+    "n-dc75b3cb12",
+    "n-d5883c87bf",
+    "n-c185396a2b",
+    "n-b65d8e8b42",
+    "n-ae780669a1",
+    "n-a78b2b7401",
+    "n-9bf7eec688",
+    "n-95cbbfe193",
+    "n-87c78ee187",
+    "n-851c72bbf5",
+    "n-84255b9cc3",
+    "n-70863553de",
+    "n-6eab718771",
+    "n-6b5646e730",
+    "n-69431eb7bc",
+    "n-5f314f696f",
+    "n-5e3859fa47",
+    "n-589c676a0a",
+    "n-57b1c93e50",
+    "n-4920069d82",
+    "n-4541890dcb",
+    "n-4003adb534",
+    "n-37b2067a0b",
+    "n-061c80a1dc",
+    "n-04bc8d2a40"
+  ],
   "prompt-relay": [
     "n-d4f61075f4"
   ],
@@ -4774,6 +4898,19 @@
   ],
   "qwen-3-6": [
     "n-6a60e32785"
+  ],
+  "qwen-code": [
+    "n-fe2f35c14b",
+    "n-e75b2209d4",
+    "n-ae780669a1",
+    "n-87c78ee187",
+    "n-6b5646e730"
+  ],
+  "qwen-image": [
+    "n-9bf7eec688",
+    "n-6eab718771",
+    "n-589c676a0a",
+    "n-37b2067a0b"
   ],
   "qwen-image-edit": [
     "n-250fdb3b1b"
@@ -4875,7 +5012,14 @@
     "n-b6c1907179"
   ],
   "sana": [
-    "n-e76fc8f96f"
+    "n-f8cc9060c3",
+    "n-f6f78aa8d5",
+    "n-e76fc8f96f",
+    "n-c185396a2b",
+    "n-a78b2b7401",
+    "n-95cbbfe193",
+    "n-5e3859fa47",
+    "n-04bc8d2a40"
   ],
   "sapiens": [
     "n-aa28911ec6"
@@ -5038,6 +5182,31 @@
   ],
   "sync-so": [
     "n-d883c4c40c"
+  ],
+  "telegram": [
+    "n-fe2f35c14b",
+    "n-f8cc9060c3",
+    "n-f6f78aa8d5",
+    "n-e75b2209d4",
+    "n-dc75b3cb12",
+    "n-d5883c87bf",
+    "n-c185396a2b",
+    "n-b65d8e8b42",
+    "n-ae780669a1",
+    "n-9bf7eec688",
+    "n-95cbbfe193",
+    "n-87c78ee187",
+    "n-6eab718771",
+    "n-69431eb7bc",
+    "n-5f314f696f",
+    "n-5e3859fa47",
+    "n-589c676a0a",
+    "n-57b1c93e50",
+    "n-4920069d82",
+    "n-4003adb534",
+    "n-37b2067a0b",
+    "n-061c80a1dc",
+    "n-04bc8d2a40"
   ],
   "text-to-image": [
     "n-eaa27c5213",
@@ -5205,7 +5374,11 @@
     "n-70e759ac2b"
   ],
   "unsloth": [
-    "n-a3aa871dfa"
+    "n-a3aa871dfa",
+    "n-70863553de",
+    "n-69431eb7bc",
+    "n-57b1c93e50",
+    "n-4920069d82"
   ],
   "upscale": [
     "n-f24b5871aa",

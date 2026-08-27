@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "diffusion-image",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "Qwen-Image generation",
+    "thread_slug": "qwen-image-generation"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [],
+    "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-image"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-9bf7eec688",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/qwen-image/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+    "title": "Qwen-Image"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-08-04",
+    "kind": "reported-update",
+    "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+    "title": "Qwen-Image launches with native text rendering",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/Qwen-Image",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen-Image",
+    "family_slug": "qwen-image",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Qwen-Image",
+    "origin_region": null,
+    "released": "2025-08-04",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+    "posted_at": "2025-08-04"
+  },
+  "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+  "tags": [
+    "qwen-image",
+    "family:qwen-image",
+    "project-history",
+    "telegram",
+    "organization:qwen"
+  ],
+  "title": "Qwen-Image launches with native text rendering"
+}

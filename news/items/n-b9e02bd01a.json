@@ -1,153 +1,184 @@
 {
- "schema_version": "1.2",
- "id": "n-b9e02bd01a",
- "entry_type": "project",
- "category": "audio-music",
- "lang": "en",
- "title": "ACE-Step 1.5 XL Music Generation",
- "summary": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
- "research_notes": "Released under the MIT license and trained on legally compliant datasets; features official ComfyUI integration for node-based workflows.",
- "project": {
-  "name": "ACE-Step 1.5 XL",
-  "family_slug": "acestep",
-  "family_display": "ACE-Step 1.5 XL",
-  "model_slug": "ace-step-1-5",
-  "model_display": "ACE-Step 1.5",
-  "version": null,
-  "released": "2026-04-07",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": "china",
-  "license": null,
-  "base_model": null,
-  "adaptation": null
- },
- "tags": [
-  "ACE-Step 1.5 XL",
-  "ACE-Step 1.5",
-  "acestep",
-  "ace-step-1-5",
-  "audio-music",
-  "family:acestep",
-  "model:ace-step-1-5",
-  "github",
-  "huggingface",
-  "china",
-  "open"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-16T10:35:22Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "audio-music",
+  "development": {
+    "predecessor_ids": [
+      "n-4003adb534"
+    ],
+    "scope": "project",
+    "thread_display": "ACE-Step 1.5 music generation",
+    "thread_slug": "ace-step-1-5-music-generation"
+  },
   "entry_type": "project",
-  "projects": [
-   "acestep"
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": "ACE-Step v1.5 XL (April 2026)",
+    "related_ids": [
+      "n-4003adb534"
+    ],
+    "summary": "Upgraded from the previous 2B-parameter model to a 4B-parameter DiT backbone, introducing XL-Base, XL-SFT for quality, and XL-Turbo for 8-step accelerated generation."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "audio-music",
+    "entry_type": "project",
+    "features": [],
+    "formats": [
+      "github",
+      "huggingface"
+    ],
+    "license": "open",
+    "models": [
+      "ace-step-1-5"
+    ],
+    "origin": "china",
+    "platforms": [],
+    "projects": [
+      "ace-step-1-5"
+    ],
+    "vendors": [
+      "ace-step"
+    ],
+    "versions": [
+      "acestep"
+    ],
+    "year": 2026
+  },
+  "id": "n-b9e02bd01a",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+    "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+    "title": "ACE-Step 1.5"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-07",
+    "kind": "reported-milestone",
+    "summary": "The news post reported xl-base, xl-sft, and xl-turbo, at least 12 GB VRAM with offload, 20 GB recommended, LM compatibility, and remaining audible artifacts in examples.",
+    "title": "ACE-Step 1.5 XL adds three 4B DiT variants",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/ace-step/ACE-Step-1.5",
+      "verified_at": "2026-05-16T10:35:22Z"
+    },
+    {
+      "host": "ace-step.github.io",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://ace-step.github.io/ace-step-v1.5.github.io/",
+      "verified_at": null
+    },
+    {
+      "host": "huggingface.co",
+      "is_primary": false,
+      "kind": "weights",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-base",
+      "verified_at": null
+    },
+    {
+      "host": "huggingface.co",
+      "is_primary": false,
+      "kind": "weights",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
+      "verified_at": null
+    },
+    {
+      "host": "huggingface.co",
+      "is_primary": false,
+      "kind": "weights",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-turbo",
+      "verified_at": null
+    },
+    {
+      "host": "github.com",
+      "is_primary": false,
+      "kind": "code",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://github.com/ace-step/ACE-Step-1.5?tab=readme-ov-file#-model-zoo",
+      "verified_at": null
+    },
+    {
+      "host": "huggingface.co",
+      "is_primary": false,
+      "kind": "demo",
+      "lang": "en",
+      "status": "unverified",
+      "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
+      "verified_at": null
+    }
   ],
-  "versions": [
-   "acestep"
+  "media": {
+    "has_image": true,
+    "has_video": false
+  },
+  "organization": {
+    "display": "ACE-Step",
+    "homepage": "https://ace-step.github.io/",
+    "slug": "ace-step"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ACE-Step 1.5",
+    "family_slug": "ace-step-1-5",
+    "license": null,
+    "model_display": "ACE-Step 1.5",
+    "model_slug": "ace-step-1-5",
+    "name": "ACE-Step 1.5 XL",
+    "origin_region": "china",
+    "released": "2026-04-07",
+    "vendor": "ACE-Step",
+    "vendor_slug": "ace-step",
+    "version": null
+  },
+  "research_notes": "Released under the MIT license and trained on legally compliant datasets; features official ComfyUI integration for node-based workflows.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
+    "posted_at": "2026-04-07"
+  },
+  "summary": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
+  "tags": [
+    "ACE-Step 1.5 XL",
+    "ACE-Step 1.5",
+    "acestep",
+    "ace-step-1-5",
+    "audio-music",
+    "model:ace-step-1-5",
+    "github",
+    "huggingface",
+    "china",
+    "open",
+    "family:ace-step-1-5",
+    "organization:ace-step"
   ],
-  "features": [],
-  "formats": [
-   "github",
-   "huggingface"
-  ],
-  "platforms": [],
-  "vendors": [],
-  "base_models": [],
-  "origin": "china",
-  "license": "open",
-  "year": 2026,
-  "models": [
-   "ace-step-1-5"
-  ],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "code",
-   "url": "https://github.com/ace-step/ACE-Step-1.5",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-16T10:35:22Z"
-  },
-  {
-   "kind": "other",
-   "url": "https://ace-step.github.io/ace-step-v1.5.github.io/",
-   "host": "ace-step.github.io",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  },
-  {
-   "kind": "weights",
-   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-base",
-   "host": "huggingface.co",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  },
-  {
-   "kind": "weights",
-   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
-   "host": "huggingface.co",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  },
-  {
-   "kind": "weights",
-   "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-turbo",
-   "host": "huggingface.co",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  },
-  {
-   "kind": "code",
-   "url": "https://github.com/ace-step/ACE-Step-1.5?tab=readme-ov-file#-model-zoo",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  },
-  {
-   "kind": "demo",
-   "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
-   "host": "huggingface.co",
-   "lang": "en",
-   "is_primary": false,
-   "status": "unverified",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "Upgraded from the previous 2B-parameter model to a 4B-parameter DiT backbone, introducing XL-Base, XL-SFT for quality, and XL-Turbo for 8-step accelerated generation.",
-  "latest_version": "ACE-Step v1.5 XL (April 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": true,
-  "has_video": false
- },
- "source": {
-  "posted_at": "2026-04-07",
-  "excerpt": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-16T10:35:22Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
-  },
-  "schema_validated": true
- }
+  "title": "ACE-Step 1.5 XL Music Generation"
 }

@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "llm",
+  "development": {
+    "predecessor_ids": [
+      "n-ae780669a1"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen Code agent",
+    "thread_slug": "qwen-code-agent"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-ae780669a1"
+    ],
+    "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-code"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-87c78ee187",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/qwen-code/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+    "title": "Qwen Code"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-11-17",
+    "kind": "reported-update",
+    "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+    "title": "Qwen Code v0.2.1 expands search, editing, and IDE support",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen Code",
+    "family_slug": "qwen-code",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Qwen Code",
+    "origin_region": null,
+    "released": "2025-11-17",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+    "posted_at": "2025-11-17"
+  },
+  "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+  "tags": [
+    "qwen-code",
+    "family:qwen-code",
+    "project-history",
+    "telegram",
+    "organization:qwen"
+  ],
+  "title": "Qwen Code v0.2.1 expands search, editing, and IDE support"
+}

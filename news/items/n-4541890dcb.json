@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": "2026-08-27T12:03:52Z"
+  },
+  "category": "tools-frontend",
+  "claims": [
+    {
+      "evidence": [
+        {
+          "published_at": "2026-07-11",
+          "publisher": "ComfyUI Flux2Klein Enhancer",
+          "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation",
+          "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer"
+        }
+      ],
+      "id": "claim_endpoint_flux2klein_enhancer_6804643",
+      "kind": "event",
+      "statement": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+      "status": "verified"
+    }
+  ],
+  "development": {
+    "predecessor_ids": [
+      "n-b65d8e8b42"
+    ],
+    "scope": "project",
+    "thread_display": "Flux2Klein Enhancer",
+    "thread_slug": "flux2klein-enhancer"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": true,
+    "latest_version": null,
+    "related_ids": [
+      "n-b65d8e8b42"
+    ],
+    "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "comfyui-flux2klein-enhancer"
+    ],
+    "vendors": [],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-4541890dcb",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+    "title": "ComfyUI Flux2Klein Enhancer"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-07-11",
+    "kind": "verified-release",
+    "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+    "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
+      "verified_at": "2026-08-27T12:03:52Z"
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": null,
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ComfyUI Flux2Klein Enhancer",
+    "family_slug": "comfyui-flux2klein-enhancer",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ComfyUI Flux2Klein Enhancer",
+    "origin_region": null,
+    "released": "2026-07-11",
+    "vendor": null,
+    "vendor_slug": null,
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+    "posted_at": "2026-07-11"
+  },
+  "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+  "tags": [
+    "comfyui-flux2klein-enhancer",
+    "family:comfyui-flux2klein-enhancer",
+    "project-history",
+    "first_party"
+  ],
+  "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation"
+}

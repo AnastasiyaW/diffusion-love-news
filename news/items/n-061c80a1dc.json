@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "audio-music",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "ACE-Step 1.5 music generation",
+    "thread_slug": "ace-step-1-5-music-generation"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [],
+    "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "audio-music",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "ace-step-1-5"
+    ],
+    "vendors": [
+      "ace-step"
+    ],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-061c80a1dc",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+    "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+    "title": "ACE-Step 1.5"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-02-03",
+    "kind": "reported-update",
+    "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+    "title": "ACE-Step 1.5 launches as an open music generator",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/ace-step/ACE-Step-1.5",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "ACE-Step",
+    "homepage": "https://ace-step.github.io/",
+    "slug": "ace-step"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ACE-Step 1.5",
+    "family_slug": "ace-step-1-5",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ACE-Step 1.5",
+    "origin_region": null,
+    "released": "2026-02-03",
+    "vendor": "ACE-Step",
+    "vendor_slug": "ace-step",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+    "posted_at": "2026-02-03"
+  },
+  "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+  "tags": [
+    "ace-step-1-5",
+    "family:ace-step-1-5",
+    "project-history",
+    "telegram",
+    "organization:ace-step"
+  ],
+  "title": "ACE-Step 1.5 launches as an open music generator"
+}
