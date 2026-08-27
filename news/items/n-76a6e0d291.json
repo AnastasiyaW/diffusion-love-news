@@ -1,120 +1,139 @@
 {
- "schema_version": "1.2",
- "id": "n-76a6e0d291",
- "entry_type": "project",
- "category": "tools-frontend",
- "lang": "en",
- "title": "ComfyUI-Flux2Klein-Enhancer Face Preservation Nodes",
- "summary": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
- "research_notes": "Developed by capitan01R; bypasses Qwen3-based text encoder limitations by isolating active tokens and targeting internal model blocks directly.",
- "project": {
-  "name": "ComfyUI-Flux2Klein-Enhancer",
-  "family_slug": "comfyui-flux2klein-enhancer",
-  "family_display": "ComfyUI-Flux2Klein-Enhancer",
-  "model_slug": null,
-  "model_display": null,
-  "version": null,
-  "released": "2026-04-07",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": null,
-  "license": null,
-  "base_model": "FLUX.2 Klein 9B",
-  "adaptation": null
- },
- "tags": [
-  "ComfyUI-Flux2Klein-Enhancer",
-  "comfyui-flux2klein-enhancer",
-  "FLUX.2 Klein 9B",
-  "tools-frontend",
-  "family:comfyui-flux2klein-enhancer",
-  "base-model:flux-2-klein-9b",
-  "character",
-  "github",
-  "comfyui",
-  "open"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-16T10:34:32Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "tools-frontend",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "Flux2Klein Enhancer",
+    "thread_slug": "flux2klein-enhancer"
+  },
   "entry_type": "project",
-  "projects": [
-   "comfyui-flux2klein-enhancer"
-  ],
-  "versions": [
-   "comfyui-flux2klein-enhancer"
-  ],
-  "features": [
-   "character"
-  ],
-  "formats": [
-   "github"
-  ],
-  "platforms": [
-   "comfyui"
-  ],
-  "vendors": [],
-  "base_models": [
-   "flux-2-klein-9b"
-  ],
-  "origin": null,
-  "license": "open",
-  "year": 2026,
-  "models": [
-  ],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "code",
-   "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-16T10:34:32Z"
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": "FLUX.2 Klein (May 2026)",
+    "related_ids": [],
+    "summary": "Evolved from basic conditioning detection to a sophisticated 'Identity Lock' system with Soft, Medium, and Hard fidelity modes. Recent updates introduced Mask Ref Control for spatial identity guidance and zero-dependency model hook tracing."
   },
-  {
-   "kind": "community",
-   "url": "https://www.reddit.com/r/StableDiffusion/comments/1se5a5z/flux2klein_exact_preservation_no_lora_needed/?share_id=7tD4-SpThJ6ajJ0i5Sc3S&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
-   "host": "reddit.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
+  "facets": {
+    "adaptations": [],
+    "base_models": [
+      "flux-2-klein-9b"
+    ],
+    "category": "tools-frontend",
+    "entry_type": "project",
+    "features": [
+      "character"
+    ],
+    "formats": [
+      "github"
+    ],
+    "license": "open",
+    "models": [],
+    "origin": null,
+    "platforms": [
+      "comfyui"
+    ],
+    "projects": [
+      "comfyui-flux2klein-enhancer"
+    ],
+    "vendors": [],
+    "versions": [
+      "comfyui-flux2klein-enhancer"
+    ],
+    "year": 2026
   },
-  {
-   "kind": "other",
-   "url": "https://pastebin.com/mz62phMe",
-   "host": "pastebin.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "Evolved from basic conditioning detection to a sophisticated 'Identity Lock' system with Soft, Medium, and Hard fidelity modes. Recent updates introduced Mask Ref Control for spatial identity guidance and zero-dependency model hook tracing.",
-  "latest_version": "FLUX.2 Klein (May 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": true,
-  "has_video": false
- },
- "source": {
-  "posted_at": "2026-04-07",
-  "excerpt": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-16T10:34:32Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
+  "id": "n-76a6e0d291",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+    "title": "ComfyUI Flux2Klein Enhancer"
   },
-  "schema_validated": true
- }
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-07",
+    "kind": "reported-milestone",
+    "summary": "The news post described two ComfyUI nodes balancing text and reference influence and relayed the author's no-LoRA identity-preservation claim.",
+    "title": "Flux2Klein Enhancer introduces reference controls",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
+      "verified_at": "2026-05-16T10:34:32Z"
+    },
+    {
+      "host": "reddit.com",
+      "is_primary": false,
+      "kind": "community",
+      "lang": "en",
+      "status": "live",
+      "url": "https://www.reddit.com/r/StableDiffusion/comments/1se5a5z/flux2klein_exact_preservation_no_lora_needed/?share_id=7tD4-SpThJ6ajJ0i5Sc3S&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
+      "verified_at": null
+    },
+    {
+      "host": "pastebin.com",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://pastebin.com/mz62phMe",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": true,
+    "has_video": false
+  },
+  "organization": null,
+  "project": {
+    "adaptation": null,
+    "base_model": "FLUX.2 Klein 9B",
+    "family_display": "ComfyUI Flux2Klein Enhancer",
+    "family_slug": "comfyui-flux2klein-enhancer",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ComfyUI-Flux2Klein-Enhancer",
+    "origin_region": null,
+    "released": "2026-04-07",
+    "vendor": null,
+    "vendor_slug": null,
+    "version": null
+  },
+  "research_notes": "Developed by capitan01R; bypasses Qwen3-based text encoder limitations by isolating active tokens and targeting internal model blocks directly.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
+    "posted_at": "2026-04-07"
+  },
+  "summary": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
+  "tags": [
+    "ComfyUI-Flux2Klein-Enhancer",
+    "comfyui-flux2klein-enhancer",
+    "FLUX.2 Klein 9B",
+    "tools-frontend",
+    "base-model:flux-2-klein-9b",
+    "character",
+    "github",
+    "comfyui",
+    "open",
+    "family:comfyui-flux2klein-enhancer"
+  ],
+  "title": "ComfyUI-Flux2Klein-Enhancer Face Preservation Nodes"
 }

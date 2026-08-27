@@ -1,103 +1,130 @@
 {
- "schema_version": "1.2",
- "id": "n-a3aa871dfa",
- "entry_type": "project",
- "category": "llm",
- "lang": "en",
- "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab",
- "summary": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
- "research_notes": "Supports free Google Colab T4 GPUs for Gemma 4 E2B and E4B models.",
- "project": {
-  "name": "Unsloth",
-  "family_slug": "unsloth",
-  "family_display": "Unsloth",
-  "model_slug": "unsloth",
-  "model_display": "Unsloth",
-  "version": null,
-  "released": "2026-04-08",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": null,
-  "license": null,
-  "base_model": null,
-  "adaptation": null
- },
- "tags": [
-  "Unsloth",
-  "unsloth",
-  "llm",
-  "family:unsloth",
-  "fine-tuning",
-  "colab",
-  "free"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-16T10:17:29Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "llm",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "Unsloth local training UI",
+    "thread_slug": "unsloth-local-training-ui"
+  },
   "entry_type": "project",
-  "projects": [
-   "unsloth"
-  ],
-  "versions": [
-   "unsloth"
-  ],
-  "features": [
-   "fine-tuning"
-  ],
-  "formats": [
-   "colab"
-  ],
-  "platforms": [],
-  "vendors": [],
-  "base_models": [],
-  "origin": null,
-  "license": "free",
-  "year": 2026,
-  "models": [],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "code",
-   "url": "https://github.com/unslothai/unsloth",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-16T10:17:29Z"
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": "Gemma 4 Support (May 2026)",
+    "related_ids": [],
+    "summary": "Expanded from LLM fine-tuning to support Gemma 4 multimodal vision/audio variants and GRPO reinforcement learning. Integrated into the official PyTorch Ecosystem in May 2026."
   },
-  {
-   "kind": "colab",
-   "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
-   "host": "colab.research.google.com",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "Expanded from LLM fine-tuning to support Gemma 4 multimodal vision/audio variants and GRPO reinforcement learning. Integrated into the official PyTorch Ecosystem in May 2026.",
-  "latest_version": "Gemma 4 Support (May 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": false,
-  "has_video": true
- },
- "source": {
-  "posted_at": "2026-04-08",
-  "excerpt": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-16T10:17:29Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "project",
+    "features": [
+      "fine-tuning"
+    ],
+    "formats": [
+      "colab"
+    ],
+    "license": "free",
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "unsloth"
+    ],
+    "vendors": [
+      "unsloth"
+    ],
+    "versions": [
+      "unsloth"
+    ],
+    "year": 2026
   },
-  "schema_validated": true
- }
+  "id": "n-a3aa871dfa",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/unsloth/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+    "title": "Unsloth"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-08",
+    "kind": "reported-milestone",
+    "summary": "The existing public news item records the Studio/Gemma local-training branch.",
+    "title": "Unsloth Studio offers a local/Colab training surface",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/unslothai/unsloth",
+      "verified_at": "2026-05-16T10:17:29Z"
+    },
+    {
+      "host": "colab.research.google.com",
+      "is_primary": false,
+      "kind": "colab",
+      "lang": "en",
+      "status": "live",
+      "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": true
+  },
+  "organization": {
+    "display": "Unsloth",
+    "homepage": "https://unsloth.ai/",
+    "slug": "unsloth"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Unsloth",
+    "family_slug": "unsloth",
+    "license": null,
+    "model_display": "Unsloth",
+    "model_slug": "unsloth",
+    "name": "Unsloth",
+    "origin_region": null,
+    "released": "2026-04-08",
+    "vendor": "Unsloth",
+    "vendor_slug": "unsloth",
+    "version": null
+  },
+  "research_notes": "Supports free Google Colab T4 GPUs for Gemma 4 E2B and E4B models.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
+    "posted_at": "2026-04-08"
+  },
+  "summary": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
+  "tags": [
+    "Unsloth",
+    "unsloth",
+    "llm",
+    "fine-tuning",
+    "colab",
+    "free",
+    "family:unsloth",
+    "organization:unsloth"
+  ],
+  "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab"
 }

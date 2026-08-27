@@ -1,9 +1,272 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-06-19T18:47:44Z",
+  "generated_at": "2026-08-27T12:03:52Z",
   "site": "diffusion.love",
-  "total": 330,
+  "total": 359,
   "records": [
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "tools-frontend",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-08-26",
+              "publisher": "ComfyUI SenseNova U1",
+              "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+              "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1"
+            },
+            {
+              "published_at": "2026-08-26",
+              "publisher": "ComfyUI SenseNova U1",
+              "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+              "url": "https://github.com/OpenSenseNova/SenseNova-U1/blob/main/docs/FAQ_CN.md"
+            }
+          ],
+          "id": "claim_endpoint_comfyui_sensenova_u1_35f930a",
+          "kind": "event",
+          "statement": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-dc75b3cb12"
+        ],
+        "scope": "project",
+        "thread_display": "ComfyUI SenseNova U1 wrapper",
+        "thread_slug": "comfyui-sensenova-u1-wrapper"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-dc75b3cb12"
+        ],
+        "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "comfyui-sensenova-u1"
+        ],
+        "vendors": [],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-84255b9cc3",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-sensenova-u1.md",
+        "title": "SenseNova U1 and ComfyUI"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-26",
+        "kind": "verified-release",
+        "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+        "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ComfyUI SenseNova U1",
+        "family_slug": "comfyui-sensenova-u1",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ComfyUI SenseNova U1",
+        "origin_region": null,
+        "released": "2026-08-26",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+        "posted_at": "2026-08-26"
+      },
+      "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+      "tags": [
+        "comfyui-sensenova-u1",
+        "family:comfyui-sensenova-u1",
+        "project-history",
+        "first_party"
+      ],
+      "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "llm",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-08-26",
+              "publisher": "Qwen",
+              "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+              "url": "https://github.com/QwenLM/qwen-code/releases"
+            },
+            {
+              "published_at": "2026-08-26",
+              "publisher": "Qwen",
+              "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+              "url": "https://qwenlm.github.io/qwen-code-docs/zh/users/quickstart/"
+            }
+          ],
+          "id": "claim_endpoint_qwen_code_v0_22_2",
+          "kind": "event",
+          "statement": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-7e83db4168"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-7e83db4168"
+        ],
+        "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-6b5646e730",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-26",
+        "kind": "verified-release",
+        "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+        "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code/releases",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2026-08-26",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+        "posted_at": "2026-08-26"
+      },
+      "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+      "tags": [
+        "qwen-code",
+        "family:qwen-code",
+        "project-history",
+        "first_party",
+        "organization:qwen"
+      ],
+      "title": "Qwen Code reaches v0.22.2 under the current provider contract"
+    },
     {
       "_meta": {
         "classified_at": null,
@@ -170,6 +433,836 @@
         "organization:happyin"
       ],
       "title": "diffusion.love publishes explicit project and company development graph contract"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "llm",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-08-25",
+              "publisher": "Unsloth",
+              "title": "Unsloth release line reaches v0.1.803-beta",
+              "url": "https://github.com/unslothai/unsloth/releases"
+            },
+            {
+              "published_at": "2026-08-25",
+              "publisher": "Unsloth",
+              "title": "Unsloth release line reaches v0.1.803-beta",
+              "url": "https://unsloth.ai/docs"
+            }
+          ],
+          "id": "claim_endpoint_unsloth_v0_1_803_beta",
+          "kind": "event",
+          "statement": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-57b1c93e50"
+        ],
+        "scope": "project",
+        "thread_display": "Unsloth local training UI",
+        "thread_slug": "unsloth-local-training-ui"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-57b1c93e50"
+        ],
+        "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "unsloth"
+        ],
+        "vendors": [
+          "unsloth"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-70863553de",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/unsloth/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+        "title": "Unsloth"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-25",
+        "kind": "verified-release",
+        "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+        "title": "Unsloth release line reaches v0.1.803-beta",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "release",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/unslothai/unsloth/releases",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Unsloth",
+        "homepage": "https://unsloth.ai/",
+        "slug": "unsloth"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Unsloth",
+        "family_slug": "unsloth",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Unsloth",
+        "origin_region": null,
+        "released": "2026-08-25",
+        "vendor": "Unsloth",
+        "vendor_slug": "unsloth",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+        "posted_at": "2026-08-25"
+      },
+      "summary": "The official releases surface showed v0.1.803-beta while Core, Studio, and Desktop remained distinct execution surfaces.",
+      "tags": [
+        "unsloth",
+        "family:unsloth",
+        "project-history",
+        "first_party",
+        "organization:unsloth"
+      ],
+      "title": "Unsloth release line reaches v0.1.803-beta"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "diffusion-video",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-08-19",
+              "publisher": "NVIDIA",
+              "title": "SANA-Video2 5B code and checkpoint are released",
+              "url": "https://github.com/NVlabs/Sana"
+            },
+            {
+              "published_at": "2026-08-19",
+              "publisher": "NVIDIA",
+              "title": "SANA-Video2 5B code and checkpoint are released",
+              "url": "https://nvlabs.github.io/Sana/Video2/"
+            }
+          ],
+          "id": "claim_endpoint_sana_video2_5b",
+          "kind": "event",
+          "statement": "The official project released training and inference code plus a 5B 720p checkpoint; the 14B checkpoint was still absent at verification time.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-95cbbfe193"
+        ],
+        "scope": "project",
+        "thread_display": "SANA video generation",
+        "thread_slug": "sana-video-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-95cbbfe193"
+        ],
+        "summary": "The official project released training and inference code plus a 5B 720p checkpoint; the 14B checkpoint was still absent at verification time."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-a78b2b7401",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-19",
+        "kind": "verified-release",
+        "summary": "The official project released training and inference code plus a 5B 720p checkpoint; the 14B checkpoint was still absent at verification time.",
+        "title": "SANA-Video2 5B code and checkpoint are released",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2026-08-19",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The official project released training and inference code plus a 5B 720p checkpoint; the 14B checkpoint was still absent at verification time.",
+        "posted_at": "2026-08-19"
+      },
+      "summary": "The official project released training and inference code plus a 5B 720p checkpoint; the 14B checkpoint was still absent at verification time.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "first_party",
+        "organization:nvidia"
+      ],
+      "title": "SANA-Video2 5B code and checkpoint are released"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-a3aa871dfa"
+        ],
+        "scope": "project",
+        "thread_display": "Unsloth local training UI",
+        "thread_slug": "unsloth-local-training-ui"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-a3aa871dfa"
+        ],
+        "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "unsloth"
+        ],
+        "vendors": [
+          "unsloth"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-57b1c93e50",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/unsloth/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+        "title": "Unsloth"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-13",
+        "kind": "reported-update",
+        "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+        "title": "Unsloth Desktop is introduced",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/unslothai/unsloth",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Unsloth",
+        "homepage": "https://unsloth.ai/",
+        "slug": "unsloth"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Unsloth",
+        "family_slug": "unsloth",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Unsloth",
+        "origin_region": null,
+        "released": "2026-08-13",
+        "vendor": "Unsloth",
+        "vendor_slug": "unsloth",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+        "posted_at": "2026-08-13"
+      },
+      "summary": "The news post described Windows, macOS, and Linux local model running and fine-tuning across CPU and multiple accelerator backends, plus agent, search, RAG, MCP, and export features.",
+      "tags": [
+        "unsloth",
+        "family:unsloth",
+        "project-history",
+        "telegram",
+        "organization:unsloth"
+      ],
+      "title": "Unsloth Desktop is introduced"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [
+          "n-e76fc8f96f"
+        ],
+        "scope": "project",
+        "thread_display": "SANA video generation",
+        "thread_slug": "sana-video-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-e76fc8f96f"
+        ],
+        "summary": "The news post described 5B and 14B SANA-Video 2.0 architectures and performance claims and explicitly reported that no new-model weights were available at that time."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-95cbbfe193",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-08-04",
+        "kind": "reported-update",
+        "summary": "The news post described 5B and 14B SANA-Video 2.0 architectures and performance claims and explicitly reported that no new-model weights were available at that time.",
+        "title": "SANA-Video 2.0 is announced without weights",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2026-08-04",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described 5B and 14B SANA-Video 2.0 architectures and performance claims and explicitly reported that no new-model weights were available at that time.",
+        "posted_at": "2026-08-04"
+      },
+      "summary": "The news post described 5B and 14B SANA-Video 2.0 architectures and performance claims and explicitly reported that no new-model weights were available at that time.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "SANA-Video 2.0 is announced without weights"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "tools-frontend",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-07-11",
+              "publisher": "ComfyUI Flux2Klein Enhancer",
+              "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation",
+              "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer"
+            }
+          ],
+          "id": "claim_endpoint_flux2klein_enhancer_6804643",
+          "kind": "event",
+          "statement": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-b65d8e8b42"
+        ],
+        "scope": "project",
+        "thread_display": "Flux2Klein Enhancer",
+        "thread_slug": "flux2klein-enhancer"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-b65d8e8b42"
+        ],
+        "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "comfyui-flux2klein-enhancer"
+        ],
+        "vendors": [],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-4541890dcb",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+        "title": "ComfyUI Flux2Klein Enhancer"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-07-11",
+        "kind": "verified-release",
+        "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+        "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ComfyUI Flux2Klein Enhancer",
+        "family_slug": "comfyui-flux2klein-enhancer",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ComfyUI Flux2Klein Enhancer",
+        "origin_region": null,
+        "released": "2026-07-11",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+        "posted_at": "2026-07-11"
+      },
+      "summary": "The verified repository revision supports an expanded Klein 9B-centered workflow with up to eight references, masks, and explicit neutral pass-through controls; efficacy remains unbenchmarked independently.",
+      "tags": [
+        "comfyui-flux2klein-enhancer",
+        "family:comfyui-flux2klein-enhancer",
+        "project-history",
+        "first_party"
+      ],
+      "title": "Flux2Klein Enhancer reaches an expanded multi-reference implementation"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "tools-frontend",
+      "development": {
+        "predecessor_ids": [
+          "n-76a6e0d291"
+        ],
+        "scope": "project",
+        "thread_display": "Flux2Klein Enhancer",
+        "thread_slug": "flux2klein-enhancer"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-76a6e0d291"
+        ],
+        "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "comfyui-flux2klein-enhancer"
+        ],
+        "vendors": [],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-b65d8e8b42",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+        "title": "ComfyUI Flux2Klein Enhancer"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-06-24",
+        "kind": "reported-update",
+        "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+        "title": "Flux2Klein Enhancer expands its control package",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ComfyUI Flux2Klein Enhancer",
+        "family_slug": "comfyui-flux2klein-enhancer",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ComfyUI Flux2Klein Enhancer",
+        "origin_region": null,
+        "released": "2026-06-24",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+        "posted_at": "2026-06-24"
+      },
+      "summary": "The news post reported personalization, detail/prompt improvements, attention-region and reference-latent controls, and a low-VRAM mode.",
+      "tags": [
+        "comfyui-flux2klein-enhancer",
+        "family:comfyui-flux2klein-enhancer",
+        "project-history",
+        "telegram"
+      ],
+      "title": "Flux2Klein Enhancer expands its control package"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "tools-frontend",
+      "development": {
+        "predecessor_ids": [
+          "n-41c999d507"
+        ],
+        "scope": "project",
+        "thread_display": "ComfyUI SenseNova U1 wrapper",
+        "thread_slug": "comfyui-sensenova-u1-wrapper"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-41c999d507"
+        ],
+        "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "comfyui-sensenova-u1"
+        ],
+        "vendors": [],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-dc75b3cb12",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-sensenova-u1.md",
+        "title": "SenseNova U1 and ComfyUI"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-06-19",
+        "kind": "reported-update",
+        "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+        "title": "SenseNova U1 infographic LoRA reports an eight-step path",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ComfyUI SenseNova U1",
+        "family_slug": "comfyui-sensenova-u1",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ComfyUI SenseNova U1",
+        "origin_region": null,
+        "released": "2026-06-19",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+        "posted_at": "2026-06-19"
+      },
+      "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+      "tags": [
+        "comfyui-sensenova-u1",
+        "family:comfyui-sensenova-u1",
+        "project-history",
+        "telegram"
+      ],
+      "title": "SenseNova U1 infographic LoRA reports an eight-step path"
     },
     {
       "schema_version": "1.3",
@@ -454,6 +1547,250 @@
           ]
         }
       ]
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "SANA world model",
+        "thread_slug": "sana-world-model"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post described a 2.6B controllable video-world generator producing up to one minute of 720p video on one GPU from an image and camera trajectory."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-c185396a2b",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-05-18",
+        "kind": "reported-update",
+        "summary": "The news post described a 2.6B controllable video-world generator producing up to one minute of 720p video on one GPU from an image and camera trajectory.",
+        "title": "NVIDIA publishes SANA-WM",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2026-05-18",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described a 2.6B controllable video-world generator producing up to one minute of 720p video on one GPU from an image and camera trajectory.",
+        "posted_at": "2026-05-18"
+      },
+      "summary": "The news post described a 2.6B controllable video-world generator producing up to one minute of 720p video on one GPU from an image and camera trajectory.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "NVIDIA publishes SANA-WM"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": "2026-08-27T12:03:52Z"
+      },
+      "category": "audio-music",
+      "claims": [
+        {
+          "evidence": [
+            {
+              "published_at": "2026-05-18",
+              "publisher": "ACE-Step",
+              "title": "ACE-Step 1.5 reaches v0.1.8 with artifact-specific GPU guidance",
+              "url": "https://github.com/ace-step/ACE-Step-1.5/releases"
+            },
+            {
+              "published_at": "2026-05-18",
+              "publisher": "ACE-Step",
+              "title": "ACE-Step 1.5 reaches v0.1.8 with artifact-specific GPU guidance",
+              "url": "https://huggingface.co/ACE-Step/Ace-Step1.5"
+            }
+          ],
+          "id": "claim_endpoint_ace_step_v0_1_8",
+          "kind": "event",
+          "statement": "The official release line reached v0.1.8; current guidance keeps base/SFT 50-step CFG, turbo eight-step no-CFG, and XL hardware limits separate.",
+          "status": "verified"
+        }
+      ],
+      "development": {
+        "predecessor_ids": [
+          "n-b9e02bd01a"
+        ],
+        "scope": "project",
+        "thread_display": "ACE-Step 1.5 music generation",
+        "thread_slug": "ace-step-1-5-music-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": null,
+        "related_ids": [
+          "n-b9e02bd01a"
+        ],
+        "summary": "The official release line reached v0.1.8; current guidance keeps base/SFT 50-step CFG, turbo eight-step no-CFG, and XL hardware limits separate."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "ace-step-1-5"
+        ],
+        "vendors": [
+          "ace-step"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-851c72bbf5",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+        "title": "ACE-Step 1.5"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-05-18",
+        "kind": "verified-release",
+        "summary": "The official release line reached v0.1.8; current guidance keeps base/SFT 50-step CFG, turbo eight-step no-CFG, and XL hardware limits separate.",
+        "title": "ACE-Step 1.5 reaches v0.1.8 with artifact-specific GPU guidance",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "release",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/ace-step/ACE-Step-1.5/releases",
+          "verified_at": "2026-08-27T12:03:52Z"
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "ACE-Step",
+        "homepage": "https://ace-step.github.io/",
+        "slug": "ace-step"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ACE-Step 1.5",
+        "family_slug": "ace-step-1-5",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ACE-Step 1.5",
+        "origin_region": null,
+        "released": "2026-05-18",
+        "vendor": "ACE-Step",
+        "vendor_slug": "ace-step",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The official release line reached v0.1.8; current guidance keeps base/SFT 50-step CFG, turbo eight-step no-CFG, and XL hardware limits separate.",
+        "posted_at": "2026-05-18"
+      },
+      "summary": "The official release line reached v0.1.8; current guidance keeps base/SFT 50-step CFG, turbo eight-step no-CFG, and XL hardware limits separate.",
+      "tags": [
+        "ace-step-1-5",
+        "family:ace-step-1-5",
+        "project-history",
+        "first_party",
+        "organization:ace-step"
+      ],
+      "title": "ACE-Step 1.5 reaches v0.1.8 with artifact-specific GPU guidance"
     },
     {
       "schema_version": "1.2",
@@ -5961,113 +7298,133 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-41c999d507",
-      "entry_type": "project",
-      "category": "tools-frontend",
-      "lang": "en",
-      "title": "ComfyUI_SenseNova_U1 Custom Nodes for Multimodal Models",
-      "summary": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware.",
-      "research_notes": "The 8B model can run on 8GB VRAM using Q6_K GGUF quantization but requires significant system RAM for optimal performance.",
-      "project": {
-        "name": "ComfyUI_SenseNova_U1",
-        "family_slug": "sensenova",
-        "family_display": "ComfyUI_SenseNova_U1",
-        "model_slug": "comfyui-sensenova-u1",
-        "model_display": "ComfyUI_SenseNova_U1",
-        "version": null,
-        "released": "2026-05-05",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": "china",
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-14T19:38:02Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "ComfyUI_SenseNova_U1",
-        "sensenova",
-        "comfyui-sensenova-u1",
-        "tools-frontend",
-        "family:sensenova",
-        "model:comfyui-sensenova-u1",
-        "github",
-        "huggingface",
-        "comfyui",
-        "china"
-      ],
+      "category": "tools-frontend",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "ComfyUI SenseNova U1 wrapper",
+        "thread_slug": "comfyui-sensenova-u1-wrapper"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "SenseNova U1 (April 2026)",
+        "related_ids": [],
+        "summary": "SenseNova U1 marks the transition to the NEO-Unify architecture, which eliminates traditional VAEs and visual encoders for a native multimodal fusion. It succeeds the SenseNova 6.5 and MARS models, focusing on interleaved image-text reasoning."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "tools-frontend",
         "entry_type": "project",
-        "projects": [
-          "sensenova"
-        ],
-        "versions": [
-          "sensenova"
-        ],
         "features": [],
         "formats": [
           "github",
           "huggingface"
         ],
-        "platforms": [
-          "comfyui"
-        ],
-        "vendors": [],
-        "base_models": [],
-        "origin": "china",
         "license": null,
-        "year": 2026,
         "models": [
           "comfyui-sensenova-u1"
         ],
-        "adaptations": []
+        "origin": "china",
+        "platforms": [
+          "comfyui"
+        ],
+        "projects": [
+          "comfyui-sensenova-u1"
+        ],
+        "vendors": [],
+        "versions": [
+          "sensenova"
+        ],
+        "year": 2026
+      },
+      "id": "n-41c999d507",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-sensenova-u1.md",
+        "title": "SenseNova U1 and ComfyUI"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-05-05",
+        "kind": "reported-milestone",
+        "summary": "The news post introduced third-party multimodal image custom nodes and a GGUF path.",
+        "title": "A ComfyUI SenseNova U1 wrapper appears",
+        "version": null
       },
       "links": [
         {
-          "kind": "code",
-          "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
           "verified_at": "2026-05-14T19:38:02Z"
         },
         {
-          "kind": "weights",
-          "url": "https://huggingface.co/smthem/SenseNova-U1-8B-MoT-Merger-gguf/tree/main",
           "host": "huggingface.co",
-          "lang": "en",
           "is_primary": false,
+          "kind": "weights",
+          "lang": "en",
           "status": "live",
+          "url": "https://huggingface.co/smthem/SenseNova-U1-8B-MoT-Merger-gguf/tree/main",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "SenseNova U1 marks the transition to the NEO-Unify architecture, which eliminates traditional VAEs and visual encoders for a native multimodal fusion. It succeeds the SenseNova 6.5 and MARS models, focusing on interleaved image-text reasoning.",
-        "latest_version": "SenseNova U1 (April 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": true,
         "has_video": false
       },
-      "source": {
-        "posted_at": "2026-05-05",
-        "excerpt": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware."
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ComfyUI SenseNova U1",
+        "family_slug": "comfyui-sensenova-u1",
+        "license": null,
+        "model_display": "ComfyUI_SenseNova_U1",
+        "model_slug": "comfyui-sensenova-u1",
+        "name": "ComfyUI_SenseNova_U1",
+        "origin_region": "china",
+        "released": "2026-05-05",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-14T19:38:02Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "research_notes": "The 8B model can run on 8GB VRAM using Q6_K GGUF quantization but requires significant system RAM for optimal performance.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware.",
+        "posted_at": "2026-05-05"
+      },
+      "summary": "A set of custom nodes for ComfyUI enabling interaction with SenseTime's SenseNova U1 native unified multimodal models. It supports high-speed generation using 8-step LoRA and GGUF quantization for consumer-grade hardware.",
+      "tags": [
+        "ComfyUI_SenseNova_U1",
+        "sensenova",
+        "comfyui-sensenova-u1",
+        "tools-frontend",
+        "model:comfyui-sensenova-u1",
+        "github",
+        "huggingface",
+        "comfyui",
+        "china",
+        "family:comfyui-sensenova-u1"
+      ],
+      "title": "ComfyUI_SenseNova_U1 Custom Nodes for Multimodal Models"
     },
     {
       "schema_version": "1.2",
@@ -12256,124 +13613,155 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-86ce44c208",
-      "entry_type": "project",
-      "category": "diffusion-image",
-      "lang": "en",
-      "title": "Qwen-Image-2.0-Pro",
-      "summary": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
-      "research_notes": "Widely regarded as the industry leader for precise text rendering in both English and Chinese; consistently maintains a top-10 position on the AI Arena ELO leaderboard.",
-      "project": {
-        "name": "Qwen-Image-2.0-Pro",
-        "family_slug": "qwen",
-        "family_display": "Qwen-Image-2.0-Pro",
-        "model_slug": "qwen",
-        "model_display": "Qwen",
-        "version": null,
-        "released": "2026-04-26",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": "china",
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-14T23:09:07Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "Qwen-Image-2.0-Pro",
-        "Qwen",
-        "qwen",
-        "diffusion-image",
-        "family:qwen",
-        "text-to-image",
-        "china",
-        "paid"
-      ],
+      "category": "diffusion-image",
+      "development": {
+        "predecessor_ids": [
+          "n-6eab718771"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen-Image generation",
+        "thread_slug": "qwen-image-generation"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": "Qwen-Image-2.0-Pro (Feb 2026)",
+        "related_ids": [
+          "n-6eab718771"
+        ],
+        "summary": "Launched as the successor to the Qwen-Image 1.0 series, moving from a 20B MMDiT architecture to a more efficient unified 7B 'omni' model. It integrated generation and editing capabilities and introduced support for 1,000-token long prompts."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "diffusion-image",
         "entry_type": "project",
+        "features": [
+          "text-to-image"
+        ],
+        "formats": [],
+        "license": "paid",
+        "models": [],
+        "origin": "china",
+        "platforms": [],
         "projects": [
+          "qwen-image"
+        ],
+        "vendors": [
           "qwen"
         ],
         "versions": [
           "qwen"
         ],
-        "features": [
-          "text-to-image"
-        ],
-        "formats": [],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": "china",
-        "license": "paid",
-        "year": 2026,
-        "models": [],
-        "adaptations": []
+        "year": 2026
+      },
+      "id": "n-86ce44c208",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/qwen-image/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+        "title": "Qwen-Image"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-26",
+        "kind": "reported-milestone",
+        "summary": "The existing public news item records the later Qwen-Image 2.0 Pro product event; it remains distinct from downloadable 2512 weights.",
+        "title": "Qwen-Image 2.0 Pro reaches the hosted product surface",
+        "version": null
       },
       "links": [
         {
-          "kind": "code",
-          "url": "https://github.com/QwenLM/Qwen-Image",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/QwenLM/Qwen-Image",
           "verified_at": "2026-05-14T23:09:07Z"
         },
         {
-          "kind": "other",
-          "url": "https://arena.ai/leaderboard/text-to-image",
           "host": "arena.ai",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://arena.ai/leaderboard/text-to-image",
           "verified_at": null
         },
         {
-          "kind": "other",
-          "url": "https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro",
           "host": "modelscope.ai",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://modelscope.ai/studios/Qwen/Qwen-Image-2.0-pro",
           "verified_at": null
         },
         {
-          "kind": "other",
-          "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&url=2840914_2&modelId=qwen-image-2.0-pro-2026-04-22&serviceSite=international",
           "host": "modelstudio.console.alibabacloud.com",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://modelstudio.console.alibabacloud.com/ap-southeast-1?tab=doc#/doc/?type=model&url=2840914_2&modelId=qwen-image-2.0-pro-2026-04-22&serviceSite=international",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "Launched as the successor to the Qwen-Image 1.0 series, moving from a 20B MMDiT architecture to a more efficient unified 7B 'omni' model. It integrated generation and editing capabilities and introduced support for 1,000-token long prompts.",
-        "latest_version": "Qwen-Image-2.0-Pro (Feb 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": true,
         "has_video": false
       },
-      "source": {
-        "posted_at": "2026-04-26",
-        "excerpt": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy."
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-14T23:09:07Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen-Image",
+        "family_slug": "qwen-image",
+        "license": null,
+        "model_display": "Qwen",
+        "model_slug": "qwen",
+        "name": "Qwen-Image-2.0-Pro",
+        "origin_region": "china",
+        "released": "2026-04-26",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "Widely regarded as the industry leader for precise text rendering in both English and Chinese; consistently maintains a top-10 position on the AI Arena ELO leaderboard.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
+        "posted_at": "2026-04-26"
+      },
+      "summary": "A professional-grade multimodal foundation model by Alibaba that unifies image generation and editing. Released in February 2026, it excels at native 2K resolution output and complex bilingual typography, often ranking as a top-tier model for technical accuracy.",
+      "tags": [
+        "Qwen-Image-2.0-Pro",
+        "Qwen",
+        "qwen",
+        "diffusion-image",
+        "text-to-image",
+        "china",
+        "paid",
+        "family:qwen-image",
+        "organization:qwen"
+      ],
+      "title": "Qwen-Image-2.0-Pro"
     },
     {
       "schema_version": "1.2",
@@ -21327,145 +22715,176 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-9aa3cb6ab5",
-      "entry_type": "project",
-      "category": "audio-music",
-      "lang": "en",
-      "title": "Audio Flamingo Next (AF-Next)",
-      "summary": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning.",
-      "research_notes": "Includes specialized variants such as AF-Next-Think for reasoning and AF-Next-Captioner for detailed descriptions. It utilizes a custom AF-Whisper encoder and a Qwen2.5-based text backbone.",
-      "project": {
-        "name": "Audio Flamingo Next",
-        "family_slug": "audio-flamingo",
-        "family_display": "Audio Flamingo Next",
-        "model_slug": "audio-flamingo",
-        "model_display": "Audio Flamingo",
-        "version": null,
-        "released": "2026-04-15",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": null,
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-15T00:40:15Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "Audio Flamingo Next",
-        "Audio Flamingo",
-        "audio-flamingo",
-        "audio-music",
-        "family:audio-flamingo",
-        "github",
-        "huggingface",
-        "paper",
-        "open"
-      ],
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [
+          "n-d5883c87bf"
+        ],
+        "scope": "project",
+        "thread_display": "Audio Flamingo general audio understanding",
+        "thread_slug": "audio-flamingo-general"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": true,
+        "latest_version": "Audio Flamingo Next (April 2026)",
+        "related_ids": [
+          "n-d5883c87bf"
+        ],
+        "summary": "The project evolved from the initial 1.3B prototype in 2024 through versions 2 and 3 into the current AF-Next flagship. Audio Flamingo Next introduces Temporal Audio Chain-of-Thought (TA-CoT) for precise timestamped reasoning and extends long-context support to 30 minutes of audio."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "audio-music",
         "entry_type": "project",
-        "projects": [
-          "audio-flamingo"
-        ],
-        "versions": [
-          "audio-flamingo"
-        ],
         "features": [],
         "formats": [
           "github",
           "huggingface",
           "paper"
         ],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": null,
         "license": "open",
-        "year": 2026,
         "models": [],
-        "adaptations": []
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "audio-flamingo"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [
+          "audio-flamingo"
+        ],
+        "year": 2026
+      },
+      "id": "n-9aa3cb6ab5",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/audio-flamingo/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/audio-flamingo/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/audio-flamingo.md",
+        "title": "Audio Flamingo"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-15",
+        "kind": "reported-milestone",
+        "summary": "The news post reported up to 30-minute/128K-token audio, timestamped answers, and separate Captioner, Instruct, and Think variants.",
+        "title": "Audio Flamingo Next adds long-audio variants",
+        "version": null
       },
       "links": [
         {
-          "kind": "other",
-          "url": "https://afnext-umd-nvidia.github.io/",
           "host": "afnext-umd-nvidia.github.io",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://afnext-umd-nvidia.github.io/",
           "verified_at": null
         },
         {
-          "kind": "code",
-          "url": "https://github.com/NVIDIA/audio-flamingo",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/NVIDIA/audio-flamingo",
           "verified_at": "2026-05-15T00:40:15Z"
         },
         {
+          "host": "huggingface.co",
+          "is_primary": false,
           "kind": "weights",
+          "lang": "en",
+          "status": "live",
           "url": "https://huggingface.co/nvidia/audio-flamingo-next-hf",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "live",
           "verified_at": null
         },
         {
+          "host": "huggingface.co",
+          "is_primary": false,
           "kind": "demo",
+          "lang": "en",
+          "status": "live",
           "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "live",
           "verified_at": null
         },
         {
+          "host": "huggingface.co",
+          "is_primary": false,
           "kind": "demo",
+          "lang": "en",
+          "status": "live",
           "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next-think",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "live",
           "verified_at": null
         },
         {
-          "kind": "demo",
-          "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next-captioner",
           "host": "huggingface.co",
-          "lang": "en",
           "is_primary": false,
+          "kind": "demo",
+          "lang": "en",
           "status": "live",
+          "url": "https://huggingface.co/spaces/nvidia/audio-flamingo-next-captioner",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "The project evolved from the initial 1.3B prototype in 2024 through versions 2 and 3 into the current AF-Next flagship. Audio Flamingo Next introduces Temporal Audio Chain-of-Thought (TA-CoT) for precise timestamped reasoning and extends long-context support to 30 minutes of audio.",
-        "latest_version": "Audio Flamingo Next (April 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": false,
         "has_video": true
       },
-      "source": {
-        "posted_at": "2026-04-15",
-        "excerpt": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning."
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-15T00:40:15Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Audio Flamingo",
+        "family_slug": "audio-flamingo",
+        "license": null,
+        "model_display": "Audio Flamingo",
+        "model_slug": "audio-flamingo",
+        "name": "Audio Flamingo Next",
+        "origin_region": null,
+        "released": "2026-04-15",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "Includes specialized variants such as AF-Next-Think for reasoning and AF-Next-Captioner for detailed descriptions. It utilizes a custom AF-Whisper encoder and a Qwen2.5-based text backbone.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning.",
+        "posted_at": "2026-04-15"
+      },
+      "summary": "A state-of-the-art open large audio-language model series by NVIDIA and UMD for comprehensive understanding of sound, music, and speech. It enables fine-grained reasoning and multi-turn dialogue over complex audio environments using few-shot learning.",
+      "tags": [
+        "Audio Flamingo Next",
+        "Audio Flamingo",
+        "audio-flamingo",
+        "audio-music",
+        "github",
+        "huggingface",
+        "paper",
+        "open",
+        "family:audio-flamingo",
+        "organization:nvidia"
+      ],
+      "title": "Audio Flamingo Next (AF-Next)"
     },
     {
       "schema_version": "1.2",
@@ -23700,105 +25119,136 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-7e83db4168",
-      "entry_type": "project",
-      "category": "llm",
-      "lang": "en",
-      "title": "Qwen Code: Autonomous AI Coding Agent",
-      "summary": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
-      "research_notes": "Supports Model Context Protocol (MCP) and handles massive context windows up to 1 million tokens for large-scale codebases.",
-      "project": {
-        "name": "Qwen Code",
-        "family_slug": "qwen",
-        "family_display": "Qwen Code",
-        "model_slug": "qwen",
-        "model_display": "Qwen",
-        "version": null,
-        "released": "2026-04-13",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": null,
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-15T01:04:11Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "Qwen Code",
-        "Qwen",
-        "qwen",
-        "llm",
-        "family:qwen",
-        "github",
-        "open"
-      ],
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-87c78ee187"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "Qwen3.6 (April 2026)",
+        "related_ids": [
+          "n-87c78ee187"
+        ],
+        "summary": "Evolved from Qwen2.5-Coder into a full agentic ecosystem featuring 'Thinking Mode' for reasoning and native multimodal support for UI and diagram understanding."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "llm",
         "entry_type": "project",
+        "features": [],
+        "formats": [
+          "github"
+        ],
+        "license": "open",
+        "models": [],
+        "origin": null,
+        "platforms": [],
         "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
           "qwen"
         ],
         "versions": [
           "qwen"
         ],
-        "features": [],
-        "formats": [
-          "github"
-        ],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": null,
-        "license": "open",
-        "year": 2026,
-        "models": [],
-        "adaptations": []
+        "year": 2026
+      },
+      "id": "n-7e83db4168",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-13",
+        "kind": "reported-milestone",
+        "summary": "The existing public news item records a later Qwen Code agent milestone; its historical wording is retained even where its model-version label later proved stale.",
+        "title": "Qwen Code is presented as an autonomous coding agent",
+        "version": null
       },
       "links": [
         {
-          "kind": "code",
-          "url": "https://github.com/QwenLM/qwen-code",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code",
           "verified_at": "2026-05-15T01:04:11Z"
         },
         {
-          "kind": "code",
-          "url": "https://github.com/QwenLM/qwen-code/releases",
           "host": "github.com",
-          "lang": "en",
           "is_primary": false,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code/releases",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "Evolved from Qwen2.5-Coder into a full agentic ecosystem featuring 'Thinking Mode' for reasoning and native multimodal support for UI and diagram understanding.",
-        "latest_version": "Qwen3.6 (April 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": true,
         "has_video": false
       },
-      "source": {
-        "posted_at": "2026-04-13",
-        "excerpt": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis."
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-15T01:04:11Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": "Qwen",
+        "model_slug": "qwen",
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2026-04-13",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "Supports Model Context Protocol (MCP) and handles massive context windows up to 1 million tokens for large-scale codebases.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
+        "posted_at": "2026-04-13"
+      },
+      "summary": "An open-source terminal-based AI agent and model family specialized for software engineering. It automates complex repository-level tasks like debugging, refactoring, and multimodal documentation analysis.",
+      "tags": [
+        "Qwen Code",
+        "Qwen",
+        "qwen",
+        "llm",
+        "github",
+        "open",
+        "family:qwen-code",
+        "organization:qwen"
+      ],
+      "title": "Qwen Code: Autonomous AI Coding Agent"
     },
     {
       "schema_version": "1.2",
@@ -27165,50 +28615,40 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-e76fc8f96f",
-      "entry_type": "project",
-      "category": "diffusion-video",
-      "lang": "en",
-      "title": "SANA-Video: Efficient 720p Video Synthesis and Upscaling",
-      "summary": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
-      "research_notes": "Uses 32x DC-AE compression and Linear Attention for low-VRAM efficiency; licensed under Apache 2.0 since January 2025.",
-      "project": {
-        "name": "SANA-Video",
-        "family_slug": "sana",
-        "family_display": "SANA-Video",
-        "model_slug": "sana",
-        "model_display": "SANA",
-        "version": null,
-        "released": "2026-04-09",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": null,
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-16T09:54:22Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "SANA-Video",
-        "SANA",
-        "sana",
-        "diffusion-video",
-        "family:sana",
-        "text-to-video",
-        "image-to-video",
-        "upscale",
-        "github",
-        "open"
-      ],
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [
+          "n-5e3859fa47"
+        ],
+        "scope": "project",
+        "thread_display": "SANA video generation",
+        "thread_slug": "sana-video-generation"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "SANA-WM (May 2026)",
+        "related_ids": [
+          "n-5e3859fa47"
+        ],
+        "summary": "The project expanded from SANA (text-to-image) to SANA-Video, followed by SANA-WM, a 2.6B parameter world model supporting 1-minute 720p video with 6-DoF camera control."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "diffusion-video",
         "entry_type": "project",
-        "projects": [
-          "sana"
-        ],
-        "versions": [
-          "sana"
-        ],
         "features": [
           "text-to-video",
           "image-to-video",
@@ -27217,69 +28657,110 @@
         "formats": [
           "github"
         ],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": null,
         "license": "open",
-        "year": 2026,
         "models": [],
-        "adaptations": []
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [
+          "sana"
+        ],
+        "year": 2026
+      },
+      "id": "n-e76fc8f96f",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-09",
+        "kind": "reported-milestone",
+        "summary": "The news post reported a March 2026 SANA-Video 720p model using LTX-VAE and an LTX2 Refiner path for upscaling video to 2K.",
+        "title": "SANA-Video gains a 720p LTX-VAE path",
+        "version": null
       },
       "links": [
         {
-          "kind": "other",
-          "url": "https://nvlabs.github.io/Sana/Video/bet-small-win-big/blog.html",
           "host": "nvlabs.github.io",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://nvlabs.github.io/Sana/Video/bet-small-win-big/blog.html",
           "verified_at": null
         },
         {
-          "kind": "code",
-          "url": "https://github.com/NVlabs/Sana",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
           "verified_at": "2026-05-16T09:54:22Z"
         },
         {
-          "kind": "other",
-          "url": "https://nvlabs.github.io/Sana/docs/model_zoo/#sana-sprint",
           "host": "nvlabs.github.io",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://nvlabs.github.io/Sana/docs/model_zoo/#sana-sprint",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "The project expanded from SANA (text-to-image) to SANA-Video, followed by SANA-WM, a 2.6B parameter world model supporting 1-minute 720p video with 6-DoF camera control.",
-        "latest_version": "SANA-WM (May 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": false,
         "has_video": true
       },
-      "source": {
-        "posted_at": "2026-04-09",
-        "excerpt": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models."
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-16T09:54:22Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": "SANA",
+        "model_slug": "sana",
+        "name": "SANA-Video",
+        "origin_region": null,
+        "released": "2026-04-09",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "Uses 32x DC-AE compression and Linear Attention for low-VRAM efficiency; licensed under Apache 2.0 since January 2025.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
+        "posted_at": "2026-04-09"
+      },
+      "summary": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
+      "tags": [
+        "SANA-Video",
+        "SANA",
+        "sana",
+        "diffusion-video",
+        "text-to-video",
+        "image-to-video",
+        "upscale",
+        "github",
+        "open",
+        "family:sana",
+        "organization:nvidia"
+      ],
+      "title": "SANA-Video: Efficient 720p Video Synthesis and Upscaling"
     },
     {
       "schema_version": "1.2",
@@ -29283,107 +30764,134 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-a3aa871dfa",
-      "entry_type": "project",
-      "category": "llm",
-      "lang": "en",
-      "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab",
-      "summary": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
-      "research_notes": "Supports free Google Colab T4 GPUs for Gemma 4 E2B and E4B models.",
-      "project": {
-        "name": "Unsloth",
-        "family_slug": "unsloth",
-        "family_display": "Unsloth",
-        "model_slug": "unsloth",
-        "model_display": "Unsloth",
-        "version": null,
-        "released": "2026-04-08",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": null,
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-16T10:17:29Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "Unsloth",
-        "unsloth",
-        "llm",
-        "family:unsloth",
-        "fine-tuning",
-        "colab",
-        "free"
-      ],
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Unsloth local training UI",
+        "thread_slug": "unsloth-local-training-ui"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "Gemma 4 Support (May 2026)",
+        "related_ids": [],
+        "summary": "Expanded from LLM fine-tuning to support Gemma 4 multimodal vision/audio variants and GRPO reinforcement learning. Integrated into the official PyTorch Ecosystem in May 2026."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [],
         "category": "llm",
         "entry_type": "project",
-        "projects": [
-          "unsloth"
-        ],
-        "versions": [
-          "unsloth"
-        ],
         "features": [
           "fine-tuning"
         ],
         "formats": [
           "colab"
         ],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": null,
         "license": "free",
-        "year": 2026,
         "models": [],
-        "adaptations": []
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "unsloth"
+        ],
+        "vendors": [
+          "unsloth"
+        ],
+        "versions": [
+          "unsloth"
+        ],
+        "year": 2026
+      },
+      "id": "n-a3aa871dfa",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/unsloth/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+        "title": "Unsloth"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-08",
+        "kind": "reported-milestone",
+        "summary": "The existing public news item records the Studio/Gemma local-training branch.",
+        "title": "Unsloth Studio offers a local/Colab training surface",
+        "version": null
       },
       "links": [
         {
-          "kind": "code",
-          "url": "https://github.com/unslothai/unsloth",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/unslothai/unsloth",
           "verified_at": "2026-05-16T10:17:29Z"
         },
         {
-          "kind": "colab",
-          "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
           "host": "colab.research.google.com",
-          "lang": "en",
           "is_primary": false,
+          "kind": "colab",
+          "lang": "en",
           "status": "live",
+          "url": "https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "Expanded from LLM fine-tuning to support Gemma 4 multimodal vision/audio variants and GRPO reinforcement learning. Integrated into the official PyTorch Ecosystem in May 2026.",
-        "latest_version": "Gemma 4 Support (May 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": false,
         "has_video": true
       },
-      "source": {
-        "posted_at": "2026-04-08",
-        "excerpt": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels."
+      "organization": {
+        "display": "Unsloth",
+        "homepage": "https://unsloth.ai/",
+        "slug": "unsloth"
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-16T10:17:29Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Unsloth",
+        "family_slug": "unsloth",
+        "license": null,
+        "model_display": "Unsloth",
+        "model_slug": "unsloth",
+        "name": "Unsloth",
+        "origin_region": null,
+        "released": "2026-04-08",
+        "vendor": "Unsloth",
+        "vendor_slug": "unsloth",
+        "version": null
+      },
+      "research_notes": "Supports free Google Colab T4 GPUs for Gemma 4 E2B and E4B models.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
+        "posted_at": "2026-04-08"
+      },
+      "summary": "Highly optimized framework for fine-tuning Google's Gemma 4 family on consumer GPUs and Google Colab. It enables 2x faster training and 70% less VRAM usage through specialized kernels.",
+      "tags": [
+        "Unsloth",
+        "unsloth",
+        "llm",
+        "fine-tuning",
+        "colab",
+        "free",
+        "family:unsloth",
+        "organization:unsloth"
+      ],
+      "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab"
     },
     {
       "schema_version": "1.2",
@@ -30881,157 +32389,188 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-b9e02bd01a",
-      "entry_type": "project",
-      "category": "audio-music",
-      "lang": "en",
-      "title": "ACE-Step 1.5 XL Music Generation",
-      "summary": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
-      "research_notes": "Released under the MIT license and trained on legally compliant datasets; features official ComfyUI integration for node-based workflows.",
-      "project": {
-        "name": "ACE-Step 1.5 XL",
-        "family_slug": "acestep",
-        "family_display": "ACE-Step 1.5 XL",
-        "model_slug": "ace-step-1-5",
-        "model_display": "ACE-Step 1.5",
-        "version": null,
-        "released": "2026-04-07",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": "china",
-        "license": null,
-        "base_model": null,
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-16T10:35:22Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [
+          "n-4003adb534"
+        ],
+        "scope": "project",
+        "thread_display": "ACE-Step 1.5 music generation",
+        "thread_slug": "ace-step-1-5-music-generation"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "ACE-Step v1.5 XL (April 2026)",
+        "related_ids": [
+          "n-4003adb534"
+        ],
+        "summary": "Upgraded from the previous 2B-parameter model to a 4B-parameter DiT backbone, introducing XL-Base, XL-SFT for quality, and XL-Turbo for 8-step accelerated generation."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "project",
+        "features": [],
+        "formats": [
+          "github",
+          "huggingface"
+        ],
+        "license": "open",
+        "models": [
+          "ace-step-1-5"
+        ],
+        "origin": "china",
+        "platforms": [],
+        "projects": [
+          "ace-step-1-5"
+        ],
+        "vendors": [
+          "ace-step"
+        ],
+        "versions": [
+          "acestep"
+        ],
+        "year": 2026
+      },
+      "id": "n-b9e02bd01a",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+        "title": "ACE-Step 1.5"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-07",
+        "kind": "reported-milestone",
+        "summary": "The news post reported xl-base, xl-sft, and xl-turbo, at least 12 GB VRAM with offload, 20 GB recommended, LM compatibility, and remaining audible artifacts in examples.",
+        "title": "ACE-Step 1.5 XL adds three 4B DiT variants",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/ace-step/ACE-Step-1.5",
+          "verified_at": "2026-05-16T10:35:22Z"
+        },
+        {
+          "host": "ace-step.github.io",
+          "is_primary": false,
+          "kind": "other",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://ace-step.github.io/ace-step-v1.5.github.io/",
+          "verified_at": null
+        },
+        {
+          "host": "huggingface.co",
+          "is_primary": false,
+          "kind": "weights",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-base",
+          "verified_at": null
+        },
+        {
+          "host": "huggingface.co",
+          "is_primary": false,
+          "kind": "weights",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
+          "verified_at": null
+        },
+        {
+          "host": "huggingface.co",
+          "is_primary": false,
+          "kind": "weights",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-turbo",
+          "verified_at": null
+        },
+        {
+          "host": "github.com",
+          "is_primary": false,
+          "kind": "code",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://github.com/ace-step/ACE-Step-1.5?tab=readme-ov-file#-model-zoo",
+          "verified_at": null
+        },
+        {
+          "host": "huggingface.co",
+          "is_primary": false,
+          "kind": "demo",
+          "lang": "en",
+          "status": "unverified",
+          "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": true,
+        "has_video": false
+      },
+      "organization": {
+        "display": "ACE-Step",
+        "homepage": "https://ace-step.github.io/",
+        "slug": "ace-step"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ACE-Step 1.5",
+        "family_slug": "ace-step-1-5",
+        "license": null,
+        "model_display": "ACE-Step 1.5",
+        "model_slug": "ace-step-1-5",
+        "name": "ACE-Step 1.5 XL",
+        "origin_region": "china",
+        "released": "2026-04-07",
+        "vendor": "ACE-Step",
+        "vendor_slug": "ace-step",
+        "version": null
+      },
+      "research_notes": "Released under the MIT license and trained on legally compliant datasets; features official ComfyUI integration for node-based workflows.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
+        "posted_at": "2026-04-07"
+      },
+      "summary": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages.",
       "tags": [
         "ACE-Step 1.5 XL",
         "ACE-Step 1.5",
         "acestep",
         "ace-step-1-5",
         "audio-music",
-        "family:acestep",
         "model:ace-step-1-5",
         "github",
         "huggingface",
         "china",
-        "open"
+        "open",
+        "family:ace-step-1-5",
+        "organization:ace-step"
       ],
-      "facets": {
-        "category": "audio-music",
-        "entry_type": "project",
-        "projects": [
-          "acestep"
-        ],
-        "versions": [
-          "acestep"
-        ],
-        "features": [],
-        "formats": [
-          "github",
-          "huggingface"
-        ],
-        "platforms": [],
-        "vendors": [],
-        "base_models": [],
-        "origin": "china",
-        "license": "open",
-        "year": 2026,
-        "models": [
-          "ace-step-1-5"
-        ],
-        "adaptations": []
-      },
-      "links": [
-        {
-          "kind": "code",
-          "url": "https://github.com/ace-step/ACE-Step-1.5",
-          "host": "github.com",
-          "lang": "en",
-          "is_primary": true,
-          "status": "live",
-          "verified_at": "2026-05-16T10:35:22Z"
-        },
-        {
-          "kind": "other",
-          "url": "https://ace-step.github.io/ace-step-v1.5.github.io/",
-          "host": "ace-step.github.io",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        },
-        {
-          "kind": "weights",
-          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-base",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        },
-        {
-          "kind": "weights",
-          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-sft",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        },
-        {
-          "kind": "weights",
-          "url": "https://huggingface.co/ACE-Step/acestep-v15-xl-turbo",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        },
-        {
-          "kind": "code",
-          "url": "https://github.com/ace-step/ACE-Step-1.5?tab=readme-ov-file#-model-zoo",
-          "host": "github.com",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        },
-        {
-          "kind": "demo",
-          "url": "https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5",
-          "host": "huggingface.co",
-          "lang": "en",
-          "is_primary": false,
-          "status": "unverified",
-          "verified_at": null
-        }
-      ],
-      "evolution": {
-        "summary": "Upgraded from the previous 2B-parameter model to a 4B-parameter DiT backbone, introducing XL-Base, XL-SFT for quality, and XL-Turbo for 8-step accelerated generation.",
-        "latest_version": "ACE-Step v1.5 XL (April 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
-      "media": {
-        "has_image": true,
-        "has_video": false
-      },
-      "source": {
-        "posted_at": "2026-04-07",
-        "excerpt": "An open-source music generation framework featuring a 4B-parameter Diffusion Transformer (DiT) architecture for high-fidelity audio synthesis. It uses a hybrid Language Model for song blueprint planning and supports full-length compositions up to 10 minutes in over 50 languages."
-      },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-16T10:35:22Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "title": "ACE-Step 1.5 XL Music Generation"
     },
     {
       "schema_version": "1.2",
@@ -31127,123 +32666,143 @@
       }
     },
     {
-      "schema_version": "1.2",
-      "id": "n-76a6e0d291",
-      "entry_type": "project",
-      "category": "tools-frontend",
-      "lang": "en",
-      "title": "ComfyUI-Flux2Klein-Enhancer Face Preservation Nodes",
-      "summary": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
-      "research_notes": "Developed by capitan01R; bypasses Qwen3-based text encoder limitations by isolating active tokens and targeting internal model blocks directly.",
-      "project": {
-        "name": "ComfyUI-Flux2Klein-Enhancer",
-        "family_slug": "comfyui-flux2klein-enhancer",
-        "family_display": "ComfyUI-Flux2Klein-Enhancer",
-        "model_slug": null,
-        "model_display": null,
-        "version": null,
-        "released": "2026-04-07",
-        "vendor": null,
-        "vendor_slug": null,
-        "origin_region": null,
-        "license": null,
-        "base_model": "FLUX.2 Klein 9B",
-        "adaptation": null
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": "2026-05-16T10:34:32Z",
+        "extracted_at": null,
+        "models_used": {
+          "classify": "gemini-3-flash-preview",
+          "enrich": "gemini-3-flash-preview"
+        },
+        "schema_validated": true,
+        "verified_at": null
       },
-      "tags": [
-        "ComfyUI-Flux2Klein-Enhancer",
-        "comfyui-flux2klein-enhancer",
-        "FLUX.2 Klein 9B",
-        "tools-frontend",
-        "family:comfyui-flux2klein-enhancer",
-        "base-model:flux-2-klein-9b",
-        "character",
-        "github",
-        "comfyui",
-        "open"
-      ],
+      "category": "tools-frontend",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Flux2Klein Enhancer",
+        "thread_slug": "flux2klein-enhancer"
+      },
+      "entry_type": "project",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": "FLUX.2 Klein (May 2026)",
+        "related_ids": [],
+        "summary": "Evolved from basic conditioning detection to a sophisticated 'Identity Lock' system with Soft, Medium, and Hard fidelity modes. Recent updates introduced Mask Ref Control for spatial identity guidance and zero-dependency model hook tracing."
+      },
       "facets": {
+        "adaptations": [],
+        "base_models": [
+          "flux-2-klein-9b"
+        ],
         "category": "tools-frontend",
         "entry_type": "project",
-        "projects": [
-          "comfyui-flux2klein-enhancer"
-        ],
-        "versions": [
-          "comfyui-flux2klein-enhancer"
-        ],
         "features": [
           "character"
         ],
         "formats": [
           "github"
         ],
+        "license": "open",
+        "models": [],
+        "origin": null,
         "platforms": [
           "comfyui"
         ],
-        "vendors": [],
-        "base_models": [
-          "flux-2-klein-9b"
+        "projects": [
+          "comfyui-flux2klein-enhancer"
         ],
-        "origin": null,
-        "license": "open",
-        "year": 2026,
-        "models": [],
-        "adaptations": []
+        "vendors": [],
+        "versions": [
+          "comfyui-flux2klein-enhancer"
+        ],
+        "year": 2026
+      },
+      "id": "n-76a6e0d291",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/comfyui-flux2klein-enhancer/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-flux2klein-enhancer.md",
+        "title": "ComfyUI Flux2Klein Enhancer"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-04-07",
+        "kind": "reported-milestone",
+        "summary": "The news post described two ComfyUI nodes balancing text and reference influence and relayed the author's no-LoRA identity-preservation claim.",
+        "title": "Flux2Klein Enhancer introduces reference controls",
+        "version": null
       },
       "links": [
         {
-          "kind": "code",
-          "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
           "host": "github.com",
-          "lang": "en",
           "is_primary": true,
+          "kind": "code",
+          "lang": "en",
           "status": "live",
+          "url": "https://github.com/capitan01R/ComfyUI-Flux2Klein-Enhancer",
           "verified_at": "2026-05-16T10:34:32Z"
         },
         {
-          "kind": "community",
-          "url": "https://www.reddit.com/r/StableDiffusion/comments/1se5a5z/flux2klein_exact_preservation_no_lora_needed/?share_id=7tD4-SpThJ6ajJ0i5Sc3S&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
           "host": "reddit.com",
-          "lang": "en",
           "is_primary": false,
+          "kind": "community",
+          "lang": "en",
           "status": "live",
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/1se5a5z/flux2klein_exact_preservation_no_lora_needed/?share_id=7tD4-SpThJ6ajJ0i5Sc3S&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=14",
           "verified_at": null
         },
         {
-          "kind": "other",
-          "url": "https://pastebin.com/mz62phMe",
           "host": "pastebin.com",
-          "lang": "en",
           "is_primary": false,
+          "kind": "other",
+          "lang": "en",
           "status": "live",
+          "url": "https://pastebin.com/mz62phMe",
           "verified_at": null
         }
       ],
-      "evolution": {
-        "summary": "Evolved from basic conditioning detection to a sophisticated 'Identity Lock' system with Soft, Medium, and Hard fidelity modes. Recent updates introduced Mask Ref Control for spatial identity guidance and zero-dependency model hook tracing.",
-        "latest_version": "FLUX.2 Klein (May 2026)",
-        "related_ids": [],
-        "is_latest_in_family": true
-      },
       "media": {
         "has_image": true,
         "has_video": false
       },
-      "source": {
-        "posted_at": "2026-04-07",
-        "excerpt": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture."
+      "organization": null,
+      "project": {
+        "adaptation": null,
+        "base_model": "FLUX.2 Klein 9B",
+        "family_display": "ComfyUI Flux2Klein Enhancer",
+        "family_slug": "comfyui-flux2klein-enhancer",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ComfyUI-Flux2Klein-Enhancer",
+        "origin_region": null,
+        "released": "2026-04-07",
+        "vendor": null,
+        "vendor_slug": null,
+        "version": null
       },
-      "_meta": {
-        "extracted_at": null,
-        "classified_at": null,
-        "enriched_at": "2026-05-16T10:34:32Z",
-        "verified_at": null,
-        "models_used": {
-          "classify": "gemini-3-flash-preview",
-          "enrich": "gemini-3-flash-preview"
-        },
-        "schema_validated": true
-      }
+      "research_notes": "Developed by capitan01R; bypasses Qwen3-based text encoder limitations by isolating active tokens and targeting internal model blocks directly.",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
+        "posted_at": "2026-04-07"
+      },
+      "summary": "A ComfyUI node suite for character identity preservation in FLUX.2 Klein models without LoRA training. It uses model hook tracing and identity guidance to inject reference features directly into the model's dual-stream architecture.",
+      "tags": [
+        "ComfyUI-Flux2Klein-Enhancer",
+        "comfyui-flux2klein-enhancer",
+        "FLUX.2 Klein 9B",
+        "tools-frontend",
+        "base-model:flux-2-klein-9b",
+        "character",
+        "github",
+        "comfyui",
+        "open",
+        "family:comfyui-flux2klein-enhancer"
+      ],
+      "title": "ComfyUI-Flux2Klein-Enhancer Face Preservation Nodes"
     },
     {
       "schema_version": "1.2",
@@ -36641,6 +38200,2004 @@
           ]
         }
       ]
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-4920069d82"
+        ],
+        "scope": "project",
+        "thread_display": "Unsloth model training guides",
+        "thread_slug": "unsloth-model-training-guides"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-4920069d82"
+        ],
+        "summary": "The news post reported local or Colab fine-tuning and a 5 GB VRAM requirement for Qwen3.5 2B."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "unsloth"
+        ],
+        "vendors": [
+          "unsloth"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-69431eb7bc",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/unsloth/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+        "title": "Unsloth"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-03-11",
+        "kind": "reported-update",
+        "summary": "The news post reported local or Colab fine-tuning and a 5 GB VRAM requirement for Qwen3.5 2B.",
+        "title": "Unsloth publishes a Qwen3.5 fine-tuning guide",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/unslothai/unsloth",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Unsloth",
+        "homepage": "https://unsloth.ai/",
+        "slug": "unsloth"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Unsloth",
+        "family_slug": "unsloth",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Unsloth",
+        "origin_region": null,
+        "released": "2026-03-11",
+        "vendor": "Unsloth",
+        "vendor_slug": "unsloth",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported local or Colab fine-tuning and a 5 GB VRAM requirement for Qwen3.5 2B.",
+        "posted_at": "2026-03-11"
+      },
+      "summary": "The news post reported local or Colab fine-tuning and a 5 GB VRAM requirement for Qwen3.5 2B.",
+      "tags": [
+        "unsloth",
+        "family:unsloth",
+        "project-history",
+        "telegram",
+        "organization:unsloth"
+      ],
+      "title": "Unsloth publishes a Qwen3.5 fine-tuning guide"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [
+          "n-061c80a1dc"
+        ],
+        "scope": "project",
+        "thread_display": "ACE-Step 1.5 music generation",
+        "thread_slug": "ace-step-1-5-music-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-061c80a1dc"
+        ],
+        "summary": "The news post recorded that the demo space recovered after failing the previous day and could be tried without a local installation."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "ace-step-1-5"
+        ],
+        "vendors": [
+          "ace-step"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-4003adb534",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+        "title": "ACE-Step 1.5"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-02-04",
+        "kind": "reported-update",
+        "summary": "The news post recorded that the demo space recovered after failing the previous day and could be tried without a local installation.",
+        "title": "ACE-Step 1.5 demo becomes operational",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/ace-step/ACE-Step-1.5",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "ACE-Step",
+        "homepage": "https://ace-step.github.io/",
+        "slug": "ace-step"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ACE-Step 1.5",
+        "family_slug": "ace-step-1-5",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ACE-Step 1.5",
+        "origin_region": null,
+        "released": "2026-02-04",
+        "vendor": "ACE-Step",
+        "vendor_slug": "ace-step",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post recorded that the demo space recovered after failing the previous day and could be tried without a local installation.",
+        "posted_at": "2026-02-04"
+      },
+      "summary": "The news post recorded that the demo space recovered after failing the previous day and could be tried without a local installation.",
+      "tags": [
+        "ace-step-1-5",
+        "family:ace-step-1-5",
+        "project-history",
+        "telegram",
+        "organization:ace-step"
+      ],
+      "title": "ACE-Step 1.5 demo becomes operational"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "ACE-Step 1.5 music generation",
+        "thread_slug": "ace-step-1-5-music-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "ace-step-1-5"
+        ],
+        "vendors": [
+          "ace-step"
+        ],
+        "versions": [],
+        "year": 2026
+      },
+      "id": "n-061c80a1dc",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/ace-step-1-5/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/ace-step-1-5/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/ace-step-1-5.md",
+        "title": "ACE-Step 1.5"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2026-02-03",
+        "kind": "reported-update",
+        "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+        "title": "ACE-Step 1.5 launches as an open music generator",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/ace-step/ACE-Step-1.5",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "ACE-Step",
+        "homepage": "https://ace-step.github.io/",
+        "slug": "ace-step"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "ACE-Step 1.5",
+        "family_slug": "ace-step-1-5",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "ACE-Step 1.5",
+        "origin_region": null,
+        "released": "2026-02-03",
+        "vendor": "ACE-Step",
+        "vendor_slug": "ace-step",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+        "posted_at": "2026-02-03"
+      },
+      "summary": "The news post reported rapid RTX 3090 generation, a 4 GB path, 50+ languages, commercial use, style fine-tuning, song planning, long compositions, and ComfyUI support.",
+      "tags": [
+        "ace-step-1-5",
+        "family:ace-step-1-5",
+        "project-history",
+        "telegram",
+        "organization:ace-step"
+      ],
+      "title": "ACE-Step 1.5 launches as an open music generator"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-image",
+      "development": {
+        "predecessor_ids": [
+          "n-9bf7eec688"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen-Image generation",
+        "thread_slug": "qwen-image-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-9bf7eec688"
+        ],
+        "summary": "The news post reported improved people, faces, expressions, natural textures, landscapes, and text rendering in the 2512 checkpoint."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-image"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-6eab718771",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/qwen-image/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+        "title": "Qwen-Image"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-12-31",
+        "kind": "reported-update",
+        "summary": "The news post reported improved people, faces, expressions, natural textures, landscapes, and text rendering in the 2512 checkpoint.",
+        "title": "Qwen-Image-2512 updates generation",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/Qwen-Image",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen-Image",
+        "family_slug": "qwen-image",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen-Image",
+        "origin_region": null,
+        "released": "2025-12-31",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported improved people, faces, expressions, natural textures, landscapes, and text rendering in the 2512 checkpoint.",
+        "posted_at": "2025-12-31"
+      },
+      "summary": "The news post reported improved people, faces, expressions, natural textures, landscapes, and text rendering in the 2512 checkpoint.",
+      "tags": [
+        "qwen-image",
+        "family:qwen-image",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen-Image-2512 updates generation"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [
+          "n-04bc8d2a40"
+        ],
+        "scope": "project",
+        "thread_display": "SANA video generation",
+        "thread_slug": "sana-video-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-04bc8d2a40"
+        ],
+        "summary": "The news post reported released SANA-Video code and weights, demos, Hugging Face and Diffusers links, possible ComfyUI use, and a negative four-step trial impression."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-5e3859fa47",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-12-24",
+        "kind": "reported-update",
+        "summary": "The news post reported released SANA-Video code and weights, demos, Hugging Face and Diffusers links, possible ComfyUI use, and a negative four-step trial impression.",
+        "title": "SANA-Video code and weights arrive",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2025-12-24",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported released SANA-Video code and weights, demos, Hugging Face and Diffusers links, possible ComfyUI use, and a negative four-step trial impression.",
+        "posted_at": "2025-12-24"
+      },
+      "summary": "The news post reported released SANA-Video code and weights, demos, Hugging Face and Diffusers links, possible ComfyUI use, and a negative four-step trial impression.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "SANA-Video code and weights arrive"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-image",
+      "development": {
+        "predecessor_ids": [
+          "n-37b2067a0b"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen-Image editing",
+        "thread_slug": "qwen-image-editing"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-37b2067a0b"
+        ],
+        "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-image"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-589c676a0a",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/qwen-image/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+        "title": "Qwen-Image"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-12-23",
+        "kind": "reported-update",
+        "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+        "title": "Qwen-Image-Edit-2511 is released",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/Qwen-Image",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen-Image",
+        "family_slug": "qwen-image",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen-Image",
+        "origin_region": null,
+        "released": "2025-12-23",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+        "posted_at": "2025-12-23"
+      },
+      "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+      "tags": [
+        "qwen-image",
+        "family:qwen-image",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen-Image-Edit-2511 is released"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-ae780669a1"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-ae780669a1"
+        ],
+        "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-87c78ee187",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-11-17",
+        "kind": "reported-update",
+        "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+        "title": "Qwen Code v0.2.1 expands search, editing, and IDE support",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2025-11-17",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+        "posted_at": "2025-11-17"
+      },
+      "summary": "The news post reported Qwen OAuth quotas, web search, improved fuzzy editing, model controls, Zed integration, output/search changes, and platform fixes.",
+      "tags": [
+        "qwen-code",
+        "family:qwen-code",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen Code v0.2.1 expands search, editing, and IDE support"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Music Flamingo understanding",
+        "thread_slug": "audio-flamingo-music"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "audio-flamingo"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-5f314f696f",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/audio-flamingo/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/audio-flamingo/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/audio-flamingo.md",
+        "title": "Audio Flamingo"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-11-15",
+        "kind": "reported-update",
+        "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+        "title": "Music Flamingo targets long-form music understanding",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVIDIA/audio-flamingo",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Audio Flamingo",
+        "family_slug": "audio-flamingo",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Audio Flamingo",
+        "origin_region": null,
+        "released": "2025-11-15",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+        "posted_at": "2025-11-15"
+      },
+      "summary": "The news post described up to 15-minute music analysis, descriptions, structural and mix questions, instrument/genre recognition, multilingual lyrics transcription, and cultural context.",
+      "tags": [
+        "audio-flamingo",
+        "family:audio-flamingo",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "Music Flamingo targets long-form music understanding"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "audio-music",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Audio Flamingo general audio understanding",
+        "thread_slug": "audio-flamingo-general"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post described unusual-sound understanding, up to ten-minute audio, multi-audio dialogue, reasoning, voice interaction, and a shared speech/sound/music encoder."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "audio-music",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "audio-flamingo"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-d5883c87bf",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/audio-voice/audio-flamingo/#agent-brief",
+        "article_url": "https://happyin.space/audio-voice/audio-flamingo/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/audio-voice/audio-flamingo.md",
+        "title": "Audio Flamingo"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-10-27",
+        "kind": "reported-update",
+        "summary": "The news post described unusual-sound understanding, up to ten-minute audio, multi-audio dialogue, reasoning, voice interaction, and a shared speech/sound/music encoder.",
+        "title": "Audio Flamingo 3 expands audio-language understanding",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVIDIA/audio-flamingo",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Audio Flamingo",
+        "family_slug": "audio-flamingo",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Audio Flamingo",
+        "origin_region": null,
+        "released": "2025-10-27",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described unusual-sound understanding, up to ten-minute audio, multi-audio dialogue, reasoning, voice interaction, and a shared speech/sound/music encoder.",
+        "posted_at": "2025-10-27"
+      },
+      "summary": "The news post described unusual-sound understanding, up to ten-minute audio, multi-audio dialogue, reasoning, voice interaction, and a shared speech/sound/music encoder.",
+      "tags": [
+        "audio-flamingo",
+        "family:audio-flamingo",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "Audio Flamingo 3 expands audio-language understanding"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-fe2f35c14b"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-fe2f35c14b"
+        ],
+        "summary": "The news post reported Plan Mode, vision routing, Zed authentication, workflow controls, Windows multiline-paste fixes, and subagent/UI improvements."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-ae780669a1",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-10-11",
+        "kind": "reported-update",
+        "summary": "The news post reported Plan Mode, vision routing, Zed authentication, workflow controls, Windows multiline-paste fixes, and subagent/UI improvements.",
+        "title": "Qwen Code v0.0.12-v0.0.14 add planning and vision",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2025-10-11",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported Plan Mode, vision routing, Zed authentication, workflow controls, Windows multiline-paste fixes, and subagent/UI improvements.",
+        "posted_at": "2025-10-11"
+      },
+      "summary": "The news post reported Plan Mode, vision routing, Zed authentication, workflow controls, Windows multiline-paste fixes, and subagent/UI improvements.",
+      "tags": [
+        "qwen-code",
+        "family:qwen-code",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen Code v0.0.12-v0.0.14 add planning and vision"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "SANA video generation",
+        "thread_slug": "sana-video-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post described a compact NVIDIA-led text/image-to-video model targeting 720p, 16 fps, sequences up to one minute, and reported RTX 5090 timing while code was still pending."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-04bc8d2a40",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-10-01",
+        "kind": "reported-update",
+        "summary": "The news post described a compact NVIDIA-led text/image-to-video model targeting 720p, 16 fps, sequences up to one minute, and reported RTX 5090 timing while code was still pending.",
+        "title": "SANA-Video is previewed",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2025-10-01",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post described a compact NVIDIA-led text/image-to-video model targeting 720p, 16 fps, sequences up to one minute, and reported RTX 5090 timing while code was still pending.",
+        "posted_at": "2025-10-01"
+      },
+      "summary": "The news post described a compact NVIDIA-led text/image-to-video model targeting 720p, 16 fps, sequences up to one minute, and reported RTX 5090 timing while code was still pending.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "SANA-Video is previewed"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [
+          "n-e75b2209d4"
+        ],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-e75b2209d4"
+        ],
+        "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-fe2f35c14b",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-09-24",
+        "kind": "reported-update",
+        "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+        "title": "Qwen3-Coder gains multimodality and benchmark updates",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2025-09-24",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+        "posted_at": "2025-09-24"
+      },
+      "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+      "tags": [
+        "qwen-code",
+        "family:qwen-code",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen3-Coder gains multimodality and benchmark updates"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-image",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Qwen-Image editing",
+        "thread_slug": "qwen-image-editing"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post reported semantic and visual editing plus Chinese/English text replacement while preserving font, size, and style."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-image"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-37b2067a0b",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/qwen-image/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+        "title": "Qwen-Image"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-08-18",
+        "kind": "reported-update",
+        "summary": "The news post reported semantic and visual editing plus Chinese/English text replacement while preserving font, size, and style.",
+        "title": "Qwen-Image-Edit is published",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/Qwen-Image",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen-Image",
+        "family_slug": "qwen-image",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen-Image",
+        "origin_region": null,
+        "released": "2025-08-18",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported semantic and visual editing plus Chinese/English text replacement while preserving font, size, and style.",
+        "posted_at": "2025-08-18"
+      },
+      "summary": "The news post reported semantic and visual editing plus Chinese/English text replacement while preserving font, size, and style.",
+      "tags": [
+        "qwen-image",
+        "family:qwen-image",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen-Image-Edit is published"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Unsloth model training guides",
+        "thread_slug": "unsloth-model-training-guides"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "unsloth"
+        ],
+        "vendors": [
+          "unsloth"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-4920069d82",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/unsloth/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+        "title": "Unsloth"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-08-11",
+        "kind": "reported-update",
+        "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+        "title": "Unsloth publishes GPT-OSS fine-tuning guidance",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/unslothai/unsloth",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Unsloth",
+        "homepage": "https://unsloth.ai/",
+        "slug": "unsloth"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Unsloth",
+        "family_slug": "unsloth",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Unsloth",
+        "origin_region": null,
+        "released": "2025-08-11",
+        "vendor": "Unsloth",
+        "vendor_slug": "unsloth",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+        "posted_at": "2025-08-11"
+      },
+      "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+      "tags": [
+        "unsloth",
+        "family:unsloth",
+        "project-history",
+        "telegram",
+        "organization:unsloth"
+      ],
+      "title": "Unsloth publishes GPT-OSS fine-tuning guidance"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-image",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Qwen-Image generation",
+        "thread_slug": "qwen-image-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-image"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-9bf7eec688",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/qwen-image/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+        "title": "Qwen-Image"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-08-04",
+        "kind": "reported-update",
+        "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+        "title": "Qwen-Image launches with native text rendering",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/Qwen-Image",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen-Image",
+        "family_slug": "qwen-image",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen-Image",
+        "origin_region": null,
+        "released": "2025-08-04",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+        "posted_at": "2025-08-04"
+      },
+      "summary": "The news post introduced Qwen-Image with a focus on rendering text and consistent editing and linked repository, weights, and demo surfaces.",
+      "tags": [
+        "qwen-image",
+        "family:qwen-image",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen-Image launches with native text rendering"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "llm",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "Qwen Code agent",
+        "thread_slug": "qwen-code-agent"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post introduced Qwen3-Coder and the Qwen Code command-line agent adapted from Gemini CLI."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "llm",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "qwen-code"
+        ],
+        "vendors": [
+          "qwen"
+        ],
+        "versions": [],
+        "year": 2025
+      },
+      "id": "n-e75b2209d4",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+        "article_url": "https://happyin.space/llm-agents/qwen-code/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+        "title": "Qwen Code"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2025-07-23",
+        "kind": "reported-update",
+        "summary": "The news post introduced Qwen3-Coder and the Qwen Code command-line agent adapted from Gemini CLI.",
+        "title": "Qwen Code launches beside Qwen3-Coder",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/QwenLM/qwen-code",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "Qwen",
+        "homepage": "https://qwen.ai/",
+        "slug": "qwen"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "Qwen Code",
+        "family_slug": "qwen-code",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "Qwen Code",
+        "origin_region": null,
+        "released": "2025-07-23",
+        "vendor": "Qwen",
+        "vendor_slug": "qwen",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post introduced Qwen3-Coder and the Qwen Code command-line agent adapted from Gemini CLI.",
+        "posted_at": "2025-07-23"
+      },
+      "summary": "The news post introduced Qwen3-Coder and the Qwen Code command-line agent adapted from Gemini CLI.",
+      "tags": [
+        "qwen-code",
+        "family:qwen-code",
+        "project-history",
+        "telegram",
+        "organization:qwen"
+      ],
+      "title": "Qwen Code launches beside Qwen3-Coder"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [
+          "n-f6f78aa8d5"
+        ],
+        "scope": "project",
+        "thread_display": "SANA image generation",
+        "thread_slug": "sana-image-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [
+          "n-f6f78aa8d5"
+        ],
+        "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2024
+      },
+      "id": "n-f8cc9060c3",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2024-11-21",
+        "kind": "reported-update",
+        "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+        "title": "SANA code is published",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2024-11-21",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+        "posted_at": "2024-11-21"
+      },
+      "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "SANA code is published"
+    },
+    {
+      "_meta": {
+        "classified_at": null,
+        "enriched_at": null,
+        "extracted_at": null,
+        "models_used": {},
+        "schema_validated": true,
+        "verified_at": null
+      },
+      "category": "diffusion-video",
+      "development": {
+        "predecessor_ids": [],
+        "scope": "project",
+        "thread_display": "SANA image generation",
+        "thread_slug": "sana-image-generation"
+      },
+      "entry_type": "news",
+      "evolution": {
+        "is_latest_in_family": false,
+        "latest_version": null,
+        "related_ids": [],
+        "summary": "The news post reported that NVIDIA's anticipated SANA image generator had gained an empty GitHub repository and a temporary demo."
+      },
+      "facets": {
+        "adaptations": [],
+        "base_models": [],
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "features": [],
+        "formats": [],
+        "license": null,
+        "models": [],
+        "origin": null,
+        "platforms": [],
+        "projects": [
+          "sana"
+        ],
+        "vendors": [
+          "nvidia"
+        ],
+        "versions": [],
+        "year": 2024
+      },
+      "id": "n-f6f78aa8d5",
+      "knowledge": {
+        "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+        "article_url": "https://happyin.space/image-generation/SANA/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+        "title": "SANA"
+      },
+      "lang": "en",
+      "lifecycle_event": {
+        "date": "2024-10-22",
+        "kind": "reported-update",
+        "summary": "The news post reported that NVIDIA's anticipated SANA image generator had gained an empty GitHub repository and a temporary demo.",
+        "title": "SANA repository and demo appear",
+        "version": null
+      },
+      "links": [
+        {
+          "host": "github.com",
+          "is_primary": true,
+          "kind": "code",
+          "lang": "en",
+          "status": "live",
+          "url": "https://github.com/NVlabs/Sana",
+          "verified_at": null
+        }
+      ],
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "organization": {
+        "display": "NVIDIA",
+        "homepage": "https://www.nvidia.com/",
+        "slug": "nvidia"
+      },
+      "project": {
+        "adaptation": null,
+        "base_model": null,
+        "family_display": "SANA",
+        "family_slug": "sana",
+        "license": null,
+        "model_display": null,
+        "model_slug": null,
+        "name": "SANA",
+        "origin_region": null,
+        "released": "2024-10-22",
+        "vendor": "NVIDIA",
+        "vendor_slug": "nvidia",
+        "version": null
+      },
+      "research_notes": "",
+      "schema_version": "1.4",
+      "source": {
+        "excerpt": "The news post reported that NVIDIA's anticipated SANA image generator had gained an empty GitHub repository and a temporary demo.",
+        "posted_at": "2024-10-22"
+      },
+      "summary": "The news post reported that NVIDIA's anticipated SANA image generator had gained an empty GitHub repository and a temporary demo.",
+      "tags": [
+        "sana",
+        "family:sana",
+        "project-history",
+        "telegram",
+        "organization:nvidia"
+      ],
+      "title": "SANA repository and demo appear"
     }
   ]
 }

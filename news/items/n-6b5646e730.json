@@ -1,0 +1,135 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": "2026-08-27T12:03:52Z"
+  },
+  "category": "llm",
+  "claims": [
+    {
+      "evidence": [
+        {
+          "published_at": "2026-08-26",
+          "publisher": "Qwen",
+          "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+          "url": "https://github.com/QwenLM/qwen-code/releases"
+        },
+        {
+          "published_at": "2026-08-26",
+          "publisher": "Qwen",
+          "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+          "url": "https://qwenlm.github.io/qwen-code-docs/zh/users/quickstart/"
+        }
+      ],
+      "id": "claim_endpoint_qwen_code_v0_22_2",
+      "kind": "event",
+      "statement": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+      "status": "verified"
+    }
+  ],
+  "development": {
+    "predecessor_ids": [
+      "n-7e83db4168"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen Code agent",
+    "thread_slug": "qwen-code-agent"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": true,
+    "latest_version": null,
+    "related_ids": [
+      "n-7e83db4168"
+    ],
+    "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-code"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-6b5646e730",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/qwen-code/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+    "title": "Qwen Code"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-08-26",
+    "kind": "verified-release",
+    "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+    "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/qwen-code/releases",
+      "verified_at": "2026-08-27T12:03:52Z"
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen Code",
+    "family_slug": "qwen-code",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Qwen Code",
+    "origin_region": null,
+    "released": "2026-08-26",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+    "posted_at": "2026-08-26"
+  },
+  "summary": "The official release surface published v0.22.2; current documentation requires Node.js 22+ and records Qwen OAuth retirement in favor of supported provider/API-key routes.",
+  "tags": [
+    "qwen-code",
+    "family:qwen-code",
+    "project-history",
+    "first_party",
+    "organization:qwen"
+  ],
+  "title": "Qwen Code reaches v0.22.2 under the current provider contract"
+}

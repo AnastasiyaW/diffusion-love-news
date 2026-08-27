@@ -1,0 +1,128 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": "2026-08-27T12:03:52Z"
+  },
+  "category": "tools-frontend",
+  "claims": [
+    {
+      "evidence": [
+        {
+          "published_at": "2026-08-26",
+          "publisher": "ComfyUI SenseNova U1",
+          "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+          "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1"
+        },
+        {
+          "published_at": "2026-08-26",
+          "publisher": "ComfyUI SenseNova U1",
+          "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+          "url": "https://github.com/OpenSenseNova/SenseNova-U1/blob/main/docs/FAQ_CN.md"
+        }
+      ],
+      "id": "claim_endpoint_comfyui_sensenova_u1_35f930a",
+      "kind": "event",
+      "statement": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+      "status": "verified"
+    }
+  ],
+  "development": {
+    "predecessor_ids": [
+      "n-dc75b3cb12"
+    ],
+    "scope": "project",
+    "thread_display": "ComfyUI SenseNova U1 wrapper",
+    "thread_slug": "comfyui-sensenova-u1-wrapper"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": true,
+    "latest_version": null,
+    "related_ids": [
+      "n-dc75b3cb12"
+    ],
+    "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "comfyui-sensenova-u1"
+    ],
+    "vendors": [],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-84255b9cc3",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-sensenova-u1.md",
+    "title": "SenseNova U1 and ComfyUI"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-08-26",
+    "kind": "verified-release",
+    "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+    "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
+      "verified_at": "2026-08-27T12:03:52Z"
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": null,
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ComfyUI SenseNova U1",
+    "family_slug": "comfyui-sensenova-u1",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ComfyUI SenseNova U1",
+    "origin_region": null,
+    "released": "2026-08-26",
+    "vendor": null,
+    "vendor_slug": null,
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+    "posted_at": "2026-08-26"
+  },
+  "summary": "The verified wrapper revision documents U1.5 preview/formal and GGUF, INT8, FP8, and BF16 paths while striking through the older eight-step LoRA instructions.",
+  "tags": [
+    "comfyui-sensenova-u1",
+    "family:comfyui-sensenova-u1",
+    "project-history",
+    "first_party"
+  ],
+  "title": "The SenseNova U1 wrapper moves to U1.5 and current quantization paths"
+}

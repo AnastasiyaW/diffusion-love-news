@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "diffusion-image",
+  "development": {
+    "predecessor_ids": [
+      "n-37b2067a0b"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen-Image editing",
+    "thread_slug": "qwen-image-editing"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-37b2067a0b"
+    ],
+    "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-image"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-589c676a0a",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/qwen-image/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/qwen-image/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/qwen-image.md",
+    "title": "Qwen-Image"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-12-23",
+    "kind": "reported-update",
+    "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+    "title": "Qwen-Image-Edit-2511 is released",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/Qwen-Image",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen-Image",
+    "family_slug": "qwen-image",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Qwen-Image",
+    "origin_region": null,
+    "released": "2025-12-23",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+    "posted_at": "2025-12-23"
+  },
+  "summary": "The news post reported improved consistency in group photos and complex scenes, reduced image shift, and integrated popular LoRAs.",
+  "tags": [
+    "qwen-image",
+    "family:qwen-image",
+    "project-history",
+    "telegram",
+    "organization:qwen"
+  ],
+  "title": "Qwen-Image-Edit-2511 is released"
+}

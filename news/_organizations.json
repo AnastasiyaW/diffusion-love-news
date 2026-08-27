@@ -1,4 +1,105 @@
 {
+  "ace-step": {
+    "slug": "ace-step",
+    "display": "ACE-Step",
+    "homepage": "https://ace-step.github.io/",
+    "project_slugs": [
+      "ace-step-1-5"
+    ],
+    "post_count": 4,
+    "direct_post_count": 0,
+    "first_seen": "2026-02-03",
+    "last_seen": "2026-05-18",
+    "news_ids": [
+      "n-061c80a1dc",
+      "n-4003adb534",
+      "n-b9e02bd01a",
+      "n-851c72bbf5"
+    ],
+    "direct_news_ids": [],
+    "development_threads": [],
+    "related_news": [
+      {
+        "id": "n-851c72bbf5",
+        "date": "2026-05-18",
+        "title": "ACE-Step 1.5 reaches v0.1.8 with artifact-specific GPU guidance",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": "ace-step-1-5",
+        "version": null,
+        "tags": [
+          "ace-step-1-5",
+          "family:ace-step-1-5",
+          "project-history",
+          "first_party",
+          "organization:ace-step"
+        ],
+        "primary_link": "https://github.com/ace-step/ACE-Step-1.5/releases",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-b9e02bd01a",
+        "date": "2026-04-07",
+        "title": "ACE-Step 1.5 XL Music Generation",
+        "category": "audio-music",
+        "entry_type": "project",
+        "project": "ace-step-1-5",
+        "version": null,
+        "tags": [
+          "ACE-Step 1.5 XL",
+          "ACE-Step 1.5",
+          "acestep",
+          "ace-step-1-5",
+          "audio-music",
+          "model:ace-step-1-5",
+          "github",
+          "huggingface"
+        ],
+        "primary_link": "https://github.com/ace-step/ACE-Step-1.5",
+        "has_image": true,
+        "has_video": false
+      },
+      {
+        "id": "n-4003adb534",
+        "date": "2026-02-04",
+        "title": "ACE-Step 1.5 demo becomes operational",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": "ace-step-1-5",
+        "version": null,
+        "tags": [
+          "ace-step-1-5",
+          "family:ace-step-1-5",
+          "project-history",
+          "telegram",
+          "organization:ace-step"
+        ],
+        "primary_link": "https://github.com/ace-step/ACE-Step-1.5",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-061c80a1dc",
+        "date": "2026-02-03",
+        "title": "ACE-Step 1.5 launches as an open music generator",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": "ace-step-1-5",
+        "version": null,
+        "tags": [
+          "ace-step-1-5",
+          "family:ace-step-1-5",
+          "project-history",
+          "telegram",
+          "organization:ace-step"
+        ],
+        "primary_link": "https://github.com/ace-step/ACE-Step-1.5",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "happyin": {
     "slug": "happyin",
     "display": "Happyin",
@@ -32,6 +133,617 @@
           "organization:happyin"
         ],
         "primary_link": "https://app.diffusion.love/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
+  "nvidia": {
+    "slug": "nvidia",
+    "display": "NVIDIA",
+    "homepage": "https://www.nvidia.com/",
+    "project_slugs": [
+      "audio-flamingo",
+      "sana"
+    ],
+    "post_count": 11,
+    "direct_post_count": 0,
+    "first_seen": "2024-10-22",
+    "last_seen": "2026-08-19",
+    "news_ids": [
+      "n-f6f78aa8d5",
+      "n-f8cc9060c3",
+      "n-04bc8d2a40",
+      "n-d5883c87bf",
+      "n-5f314f696f",
+      "n-5e3859fa47",
+      "n-e76fc8f96f",
+      "n-9aa3cb6ab5",
+      "n-c185396a2b",
+      "n-95cbbfe193",
+      "n-a78b2b7401"
+    ],
+    "direct_news_ids": [],
+    "development_threads": [],
+    "related_news": [
+      {
+        "id": "n-a78b2b7401",
+        "date": "2026-08-19",
+        "title": "SANA-Video2 5B code and checkpoint are released",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "first_party",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-95cbbfe193",
+        "date": "2026-08-04",
+        "title": "SANA-Video 2.0 is announced without weights",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-c185396a2b",
+        "date": "2026-05-18",
+        "title": "NVIDIA publishes SANA-WM",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-9aa3cb6ab5",
+        "date": "2026-04-15",
+        "title": "Audio Flamingo Next (AF-Next)",
+        "category": "audio-music",
+        "entry_type": "project",
+        "project": "audio-flamingo",
+        "version": null,
+        "tags": [
+          "Audio Flamingo Next",
+          "Audio Flamingo",
+          "audio-flamingo",
+          "audio-music",
+          "github",
+          "huggingface",
+          "paper",
+          "open"
+        ],
+        "primary_link": "https://github.com/NVIDIA/audio-flamingo",
+        "has_image": false,
+        "has_video": true
+      },
+      {
+        "id": "n-e76fc8f96f",
+        "date": "2026-04-09",
+        "title": "SANA-Video: Efficient 720p Video Synthesis and Upscaling",
+        "category": "diffusion-video",
+        "entry_type": "project",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "SANA-Video",
+          "SANA",
+          "sana",
+          "diffusion-video",
+          "text-to-video",
+          "image-to-video",
+          "upscale",
+          "github"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": true
+      },
+      {
+        "id": "n-5e3859fa47",
+        "date": "2025-12-24",
+        "title": "SANA-Video code and weights arrive",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-5f314f696f",
+        "date": "2025-11-15",
+        "title": "Music Flamingo targets long-form music understanding",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": "audio-flamingo",
+        "version": null,
+        "tags": [
+          "audio-flamingo",
+          "family:audio-flamingo",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVIDIA/audio-flamingo",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-d5883c87bf",
+        "date": "2025-10-27",
+        "title": "Audio Flamingo 3 expands audio-language understanding",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": "audio-flamingo",
+        "version": null,
+        "tags": [
+          "audio-flamingo",
+          "family:audio-flamingo",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVIDIA/audio-flamingo",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-04bc8d2a40",
+        "date": "2025-10-01",
+        "title": "SANA-Video is previewed",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-f8cc9060c3",
+        "date": "2024-11-21",
+        "title": "SANA code is published",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-f6f78aa8d5",
+        "date": "2024-10-22",
+        "title": "SANA repository and demo appear",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "sana",
+        "version": null,
+        "tags": [
+          "sana",
+          "family:sana",
+          "project-history",
+          "telegram",
+          "organization:nvidia"
+        ],
+        "primary_link": "https://github.com/NVlabs/Sana",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
+  "qwen": {
+    "slug": "qwen",
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "project_slugs": [
+      "qwen-code",
+      "qwen-image"
+    ],
+    "post_count": 11,
+    "direct_post_count": 0,
+    "first_seen": "2025-07-23",
+    "last_seen": "2026-08-26",
+    "news_ids": [
+      "n-e75b2209d4",
+      "n-9bf7eec688",
+      "n-37b2067a0b",
+      "n-fe2f35c14b",
+      "n-ae780669a1",
+      "n-87c78ee187",
+      "n-589c676a0a",
+      "n-6eab718771",
+      "n-7e83db4168",
+      "n-86ce44c208",
+      "n-6b5646e730"
+    ],
+    "direct_news_ids": [],
+    "development_threads": [],
+    "related_news": [
+      {
+        "id": "n-6b5646e730",
+        "date": "2026-08-26",
+        "title": "Qwen Code reaches v0.22.2 under the current provider contract",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "qwen-code",
+          "family:qwen-code",
+          "project-history",
+          "first_party",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code/releases",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-86ce44c208",
+        "date": "2026-04-26",
+        "title": "Qwen-Image-2.0-Pro",
+        "category": "diffusion-image",
+        "entry_type": "project",
+        "project": "qwen-image",
+        "version": null,
+        "tags": [
+          "Qwen-Image-2.0-Pro",
+          "Qwen",
+          "qwen",
+          "diffusion-image",
+          "text-to-image",
+          "china",
+          "paid",
+          "family:qwen-image"
+        ],
+        "primary_link": "https://github.com/QwenLM/Qwen-Image",
+        "has_image": true,
+        "has_video": false
+      },
+      {
+        "id": "n-7e83db4168",
+        "date": "2026-04-13",
+        "title": "Qwen Code: Autonomous AI Coding Agent",
+        "category": "llm",
+        "entry_type": "project",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "Qwen Code",
+          "Qwen",
+          "qwen",
+          "llm",
+          "github",
+          "open",
+          "family:qwen-code",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code",
+        "has_image": true,
+        "has_video": false
+      },
+      {
+        "id": "n-6eab718771",
+        "date": "2025-12-31",
+        "title": "Qwen-Image-2512 updates generation",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "qwen-image",
+        "version": null,
+        "tags": [
+          "qwen-image",
+          "family:qwen-image",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/Qwen-Image",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-589c676a0a",
+        "date": "2025-12-23",
+        "title": "Qwen-Image-Edit-2511 is released",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "qwen-image",
+        "version": null,
+        "tags": [
+          "qwen-image",
+          "family:qwen-image",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/Qwen-Image",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-87c78ee187",
+        "date": "2025-11-17",
+        "title": "Qwen Code v0.2.1 expands search, editing, and IDE support",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "qwen-code",
+          "family:qwen-code",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-ae780669a1",
+        "date": "2025-10-11",
+        "title": "Qwen Code v0.0.12-v0.0.14 add planning and vision",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "qwen-code",
+          "family:qwen-code",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-fe2f35c14b",
+        "date": "2025-09-24",
+        "title": "Qwen3-Coder gains multimodality and benchmark updates",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "qwen-code",
+          "family:qwen-code",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-37b2067a0b",
+        "date": "2025-08-18",
+        "title": "Qwen-Image-Edit is published",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "qwen-image",
+        "version": null,
+        "tags": [
+          "qwen-image",
+          "family:qwen-image",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/Qwen-Image",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-9bf7eec688",
+        "date": "2025-08-04",
+        "title": "Qwen-Image launches with native text rendering",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "qwen-image",
+        "version": null,
+        "tags": [
+          "qwen-image",
+          "family:qwen-image",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/Qwen-Image",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-e75b2209d4",
+        "date": "2025-07-23",
+        "title": "Qwen Code launches beside Qwen3-Coder",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "qwen-code",
+        "version": null,
+        "tags": [
+          "qwen-code",
+          "family:qwen-code",
+          "project-history",
+          "telegram",
+          "organization:qwen"
+        ],
+        "primary_link": "https://github.com/QwenLM/qwen-code",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
+  "unsloth": {
+    "slug": "unsloth",
+    "display": "Unsloth",
+    "homepage": "https://unsloth.ai/",
+    "project_slugs": [
+      "unsloth"
+    ],
+    "post_count": 5,
+    "direct_post_count": 0,
+    "first_seen": "2025-08-11",
+    "last_seen": "2026-08-25",
+    "news_ids": [
+      "n-4920069d82",
+      "n-69431eb7bc",
+      "n-a3aa871dfa",
+      "n-57b1c93e50",
+      "n-70863553de"
+    ],
+    "direct_news_ids": [],
+    "development_threads": [],
+    "related_news": [
+      {
+        "id": "n-70863553de",
+        "date": "2026-08-25",
+        "title": "Unsloth release line reaches v0.1.803-beta",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "unsloth",
+        "version": null,
+        "tags": [
+          "unsloth",
+          "family:unsloth",
+          "project-history",
+          "first_party",
+          "organization:unsloth"
+        ],
+        "primary_link": "https://github.com/unslothai/unsloth/releases",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-57b1c93e50",
+        "date": "2026-08-13",
+        "title": "Unsloth Desktop is introduced",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "unsloth",
+        "version": null,
+        "tags": [
+          "unsloth",
+          "family:unsloth",
+          "project-history",
+          "telegram",
+          "organization:unsloth"
+        ],
+        "primary_link": "https://github.com/unslothai/unsloth",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-a3aa871dfa",
+        "date": "2026-04-08",
+        "title": "Unsloth Studio for Gemma 4 Fine-Tuning on Colab",
+        "category": "llm",
+        "entry_type": "project",
+        "project": "unsloth",
+        "version": null,
+        "tags": [
+          "Unsloth",
+          "unsloth",
+          "llm",
+          "fine-tuning",
+          "colab",
+          "free",
+          "family:unsloth",
+          "organization:unsloth"
+        ],
+        "primary_link": "https://github.com/unslothai/unsloth",
+        "has_image": false,
+        "has_video": true
+      },
+      {
+        "id": "n-69431eb7bc",
+        "date": "2026-03-11",
+        "title": "Unsloth publishes a Qwen3.5 fine-tuning guide",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "unsloth",
+        "version": null,
+        "tags": [
+          "unsloth",
+          "family:unsloth",
+          "project-history",
+          "telegram",
+          "organization:unsloth"
+        ],
+        "primary_link": "https://github.com/unslothai/unsloth",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-4920069d82",
+        "date": "2025-08-11",
+        "title": "Unsloth publishes GPT-OSS fine-tuning guidance",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "unsloth",
+        "version": null,
+        "tags": [
+          "unsloth",
+          "family:unsloth",
+          "project-history",
+          "telegram",
+          "organization:unsloth"
+        ],
+        "primary_link": "https://github.com/unslothai/unsloth",
         "has_image": false,
         "has_video": false
       }

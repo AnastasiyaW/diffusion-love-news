@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "llm",
+  "development": {
+    "predecessor_ids": [
+      "n-e75b2209d4"
+    ],
+    "scope": "project",
+    "thread_display": "Qwen Code agent",
+    "thread_slug": "qwen-code-agent"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-e75b2209d4"
+    ],
+    "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "qwen-code"
+    ],
+    "vendors": [
+      "qwen"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-fe2f35c14b",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/qwen-code/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/qwen-code/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/qwen-code.md",
+    "title": "Qwen Code"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-09-24",
+    "kind": "reported-update",
+    "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+    "title": "Qwen3-Coder gains multimodality and benchmark updates",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Qwen",
+    "homepage": "https://qwen.ai/",
+    "slug": "qwen"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Qwen Code",
+    "family_slug": "qwen-code",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Qwen Code",
+    "origin_region": null,
+    "released": "2025-09-24",
+    "vendor": "Qwen",
+    "vendor_slug": "qwen",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+    "posted_at": "2025-09-24"
+  },
+  "summary": "The news post reported a stronger multimodal Qwen3-Coder model near the Qwen Code ecosystem; this is a related model event rather than a CLI release.",
+  "tags": [
+    "qwen-code",
+    "family:qwen-code",
+    "project-history",
+    "telegram",
+    "organization:qwen"
+  ],
+  "title": "Qwen3-Coder gains multimodality and benchmark updates"
+}

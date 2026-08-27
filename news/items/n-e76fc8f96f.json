@@ -1,117 +1,148 @@
 {
- "schema_version": "1.2",
- "id": "n-e76fc8f96f",
- "entry_type": "project",
- "category": "diffusion-video",
- "lang": "en",
- "title": "SANA-Video: Efficient 720p Video Synthesis and Upscaling",
- "summary": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
- "research_notes": "Uses 32x DC-AE compression and Linear Attention for low-VRAM efficiency; licensed under Apache 2.0 since January 2025.",
- "project": {
-  "name": "SANA-Video",
-  "family_slug": "sana",
-  "family_display": "SANA-Video",
-  "model_slug": "sana",
-  "model_display": "SANA",
-  "version": null,
-  "released": "2026-04-09",
-  "vendor": null,
-  "vendor_slug": null,
-  "origin_region": null,
-  "license": null,
-  "base_model": null,
-  "adaptation": null
- },
- "tags": [
-  "SANA-Video",
-  "SANA",
-  "sana",
-  "diffusion-video",
-  "family:sana",
-  "text-to-video",
-  "image-to-video",
-  "upscale",
-  "github",
-  "open"
- ],
- "facets": {
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": "2026-05-16T09:54:22Z",
+    "extracted_at": null,
+    "models_used": {
+      "classify": "gemini-3-flash-preview",
+      "enrich": "gemini-3-flash-preview"
+    },
+    "schema_validated": true,
+    "verified_at": null
+  },
   "category": "diffusion-video",
+  "development": {
+    "predecessor_ids": [
+      "n-5e3859fa47"
+    ],
+    "scope": "project",
+    "thread_display": "SANA video generation",
+    "thread_slug": "sana-video-generation"
+  },
   "entry_type": "project",
-  "projects": [
-   "sana"
-  ],
-  "versions": [
-   "sana"
-  ],
-  "features": [
-   "text-to-video",
-   "image-to-video",
-   "upscale"
-  ],
-  "formats": [
-   "github"
-  ],
-  "platforms": [],
-  "vendors": [],
-  "base_models": [],
-  "origin": null,
-  "license": "open",
-  "year": 2026,
-  "models": [],
-  "adaptations": []
- },
- "links": [
-  {
-   "kind": "other",
-   "url": "https://nvlabs.github.io/Sana/Video/bet-small-win-big/blog.html",
-   "host": "nvlabs.github.io",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": "SANA-WM (May 2026)",
+    "related_ids": [
+      "n-5e3859fa47"
+    ],
+    "summary": "The project expanded from SANA (text-to-image) to SANA-Video, followed by SANA-WM, a 2.6B parameter world model supporting 1-minute 720p video with 6-DoF camera control."
   },
-  {
-   "kind": "code",
-   "url": "https://github.com/NVlabs/Sana",
-   "host": "github.com",
-   "lang": "en",
-   "is_primary": true,
-   "status": "live",
-   "verified_at": "2026-05-16T09:54:22Z"
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "diffusion-video",
+    "entry_type": "project",
+    "features": [
+      "text-to-video",
+      "image-to-video",
+      "upscale"
+    ],
+    "formats": [
+      "github"
+    ],
+    "license": "open",
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "sana"
+    ],
+    "vendors": [
+      "nvidia"
+    ],
+    "versions": [
+      "sana"
+    ],
+    "year": 2026
   },
-  {
-   "kind": "other",
-   "url": "https://nvlabs.github.io/Sana/docs/model_zoo/#sana-sprint",
-   "host": "nvlabs.github.io",
-   "lang": "en",
-   "is_primary": false,
-   "status": "live",
-   "verified_at": null
-  }
- ],
- "evolution": {
-  "summary": "The project expanded from SANA (text-to-image) to SANA-Video, followed by SANA-WM, a 2.6B parameter world model supporting 1-minute 720p video with 6-DoF camera control.",
-  "latest_version": "SANA-WM (May 2026)",
-  "related_ids": [],
-  "is_latest_in_family": true
- },
- "media": {
-  "has_image": false,
-  "has_video": true
- },
- "source": {
-  "posted_at": "2026-04-09",
-  "excerpt": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models."
- },
- "_meta": {
-  "extracted_at": null,
-  "classified_at": null,
-  "enriched_at": "2026-05-16T09:54:22Z",
-  "verified_at": null,
-  "models_used": {
-   "classify": "gemini-3-flash-preview",
-   "enrich": "gemini-3-flash-preview"
+  "id": "n-e76fc8f96f",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/SANA/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+    "title": "SANA"
   },
-  "schema_validated": true
- }
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-04-09",
+    "kind": "reported-milestone",
+    "summary": "The news post reported a March 2026 SANA-Video 720p model using LTX-VAE and an LTX2 Refiner path for upscaling video to 2K.",
+    "title": "SANA-Video gains a 720p LTX-VAE path",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "nvlabs.github.io",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://nvlabs.github.io/Sana/Video/bet-small-win-big/blog.html",
+      "verified_at": null
+    },
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/NVlabs/Sana",
+      "verified_at": "2026-05-16T09:54:22Z"
+    },
+    {
+      "host": "nvlabs.github.io",
+      "is_primary": false,
+      "kind": "other",
+      "lang": "en",
+      "status": "live",
+      "url": "https://nvlabs.github.io/Sana/docs/model_zoo/#sana-sprint",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": true
+  },
+  "organization": {
+    "display": "NVIDIA",
+    "homepage": "https://www.nvidia.com/",
+    "slug": "nvidia"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "SANA",
+    "family_slug": "sana",
+    "license": null,
+    "model_display": "SANA",
+    "model_slug": "sana",
+    "name": "SANA-Video",
+    "origin_region": null,
+    "released": "2026-04-09",
+    "vendor": "NVIDIA",
+    "vendor_slug": "nvidia",
+    "version": null
+  },
+  "research_notes": "Uses 32x DC-AE compression and Linear Attention for low-VRAM efficiency; licensed under Apache 2.0 since January 2025.",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
+    "posted_at": "2026-04-09"
+  },
+  "summary": "NVIDIA's high-efficiency video generation model utilizing Linear Diffusion Transformers and Deep Compression Autoencoders. It produces 720p videos with significantly reduced VRAM requirements compared to traditional quadratic attention models.",
+  "tags": [
+    "SANA-Video",
+    "SANA",
+    "sana",
+    "diffusion-video",
+    "text-to-video",
+    "image-to-video",
+    "upscale",
+    "github",
+    "open",
+    "family:sana",
+    "organization:nvidia"
+  ],
+  "title": "SANA-Video: Efficient 720p Video Synthesis and Upscaling"
 }

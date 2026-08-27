@@ -1,0 +1,106 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "tools-frontend",
+  "development": {
+    "predecessor_ids": [
+      "n-41c999d507"
+    ],
+    "scope": "project",
+    "thread_display": "ComfyUI SenseNova U1 wrapper",
+    "thread_slug": "comfyui-sensenova-u1-wrapper"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-41c999d507"
+    ],
+    "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "comfyui-sensenova-u1"
+    ],
+    "vendors": [],
+    "versions": [],
+    "year": 2026
+  },
+  "id": "n-dc75b3cb12",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/comfyui-sensenova-u1/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/comfyui-sensenova-u1.md",
+    "title": "SenseNova U1 and ComfyUI"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2026-06-19",
+    "kind": "reported-update",
+    "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+    "title": "SenseNova U1 infographic LoRA reports an eight-step path",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/smthemex/ComfyUI_SenseNova_U1",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": null,
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "ComfyUI SenseNova U1",
+    "family_slug": "comfyui-sensenova-u1",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "ComfyUI SenseNova U1",
+    "origin_region": null,
+    "released": "2026-06-19",
+    "vendor": null,
+    "vendor_slug": null,
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+    "posted_at": "2026-06-19"
+  },
+  "summary": "The news post reported an eight-step infographic LoRA with Chinese/English text, structured layouts, consumer-GPU use, and repeated-text/white-background failure modes.",
+  "tags": [
+    "comfyui-sensenova-u1",
+    "family:comfyui-sensenova-u1",
+    "project-history",
+    "telegram"
+  ],
+  "title": "SenseNova U1 infographic LoRA reports an eight-step path"
+}

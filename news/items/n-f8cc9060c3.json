@@ -1,0 +1,113 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "diffusion-video",
+  "development": {
+    "predecessor_ids": [
+      "n-f6f78aa8d5"
+    ],
+    "scope": "project",
+    "thread_display": "SANA image generation",
+    "thread_slug": "sana-image-generation"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [
+      "n-f6f78aa8d5"
+    ],
+    "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "sana"
+    ],
+    "vendors": [
+      "nvidia"
+    ],
+    "versions": [],
+    "year": 2024
+  },
+  "id": "n-f8cc9060c3",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/image-generation/SANA/#agent-brief",
+    "article_url": "https://happyin.space/image-generation/SANA/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/image-generation/SANA.md",
+    "title": "SANA"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2024-11-21",
+    "kind": "reported-update",
+    "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+    "title": "SANA code is published",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/NVlabs/Sana",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "NVIDIA",
+    "homepage": "https://www.nvidia.com/",
+    "slug": "nvidia"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "SANA",
+    "family_slug": "sana",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "SANA",
+    "origin_region": null,
+    "released": "2024-11-21",
+    "vendor": "NVIDIA",
+    "vendor_slug": "nvidia",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+    "posted_at": "2024-11-21"
+  },
+  "summary": "The news post reported publication of SANA code and a 1.6B 1024px demo while Diffusers and ComfyUI integrations were still awaited.",
+  "tags": [
+    "sana",
+    "family:sana",
+    "project-history",
+    "telegram",
+    "organization:nvidia"
+  ],
+  "title": "SANA code is published"
+}

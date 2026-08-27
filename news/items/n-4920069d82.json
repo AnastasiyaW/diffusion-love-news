@@ -1,0 +1,109 @@
+{
+  "_meta": {
+    "classified_at": null,
+    "enriched_at": null,
+    "extracted_at": null,
+    "models_used": {},
+    "schema_validated": true,
+    "verified_at": null
+  },
+  "category": "llm",
+  "development": {
+    "predecessor_ids": [],
+    "scope": "project",
+    "thread_display": "Unsloth model training guides",
+    "thread_slug": "unsloth-model-training-guides"
+  },
+  "entry_type": "news",
+  "evolution": {
+    "is_latest_in_family": false,
+    "latest_version": null,
+    "related_ids": [],
+    "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning."
+  },
+  "facets": {
+    "adaptations": [],
+    "base_models": [],
+    "category": "llm",
+    "entry_type": "news",
+    "features": [],
+    "formats": [],
+    "license": null,
+    "models": [],
+    "origin": null,
+    "platforms": [],
+    "projects": [
+      "unsloth"
+    ],
+    "vendors": [
+      "unsloth"
+    ],
+    "versions": [],
+    "year": 2025
+  },
+  "id": "n-4920069d82",
+  "knowledge": {
+    "agent_context_url": "https://happyin.space/llm-agents/unsloth/#agent-brief",
+    "article_url": "https://happyin.space/llm-agents/unsloth/",
+    "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/99b4634e9e183ac3e6900c0c7e0c64206c068ced/docs/llm-agents/unsloth.md",
+    "title": "Unsloth"
+  },
+  "lang": "en",
+  "lifecycle_event": {
+    "date": "2025-08-11",
+    "kind": "reported-update",
+    "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+    "title": "Unsloth publishes GPT-OSS fine-tuning guidance",
+    "version": null
+  },
+  "links": [
+    {
+      "host": "github.com",
+      "is_primary": true,
+      "kind": "code",
+      "lang": "en",
+      "status": "live",
+      "url": "https://github.com/unslothai/unsloth",
+      "verified_at": null
+    }
+  ],
+  "media": {
+    "has_image": false,
+    "has_video": false
+  },
+  "organization": {
+    "display": "Unsloth",
+    "homepage": "https://unsloth.ai/",
+    "slug": "unsloth"
+  },
+  "project": {
+    "adaptation": null,
+    "base_model": null,
+    "family_display": "Unsloth",
+    "family_slug": "unsloth",
+    "license": null,
+    "model_display": null,
+    "model_slug": null,
+    "name": "Unsloth",
+    "origin_region": null,
+    "released": "2025-08-11",
+    "vendor": "Unsloth",
+    "vendor_slug": "unsloth",
+    "version": null
+  },
+  "research_notes": "",
+  "schema_version": "1.4",
+  "source": {
+    "excerpt": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+    "posted_at": "2025-08-11"
+  },
+  "summary": "The news post linked Unsloth repository, Colab, and instructions for GPT-OSS fine-tuning.",
+  "tags": [
+    "unsloth",
+    "family:unsloth",
+    "project-history",
+    "telegram",
+    "organization:unsloth"
+  ],
+  "title": "Unsloth publishes GPT-OSS fine-tuning guidance"
+}
