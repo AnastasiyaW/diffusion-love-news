@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0a40fd014f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI-MiniMaxH3_LatentUpscaler was publicly linked in The source",
+ "summary": "On 2026-08-04, the recorded link linked the GitHub repository for ComfyUI-MiniMaxH3_LatentUpscaler. The sealed evidence provides no source text, commit, release, or feature description, so this records only a dated public reference to the project.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI-MiniMaxH3_LatentUpscaler",
+  "family_slug": "comfyui-minimaxh3-latentupscaler",
+  "family_display": "ComfyUI MiniMaxH3 LatentUpscaler",
+  "model_slug": "comfyui-minimaxh3-latentupscaler",
+  "model_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-MiniMaxH3_LatentUpscaler",
+  "comfyui-minimaxh3-latentupscaler",
+  "comfyui_minimaxh3_latentupscaler",
+  "family:comfyui-minimaxh3-latentupscaler",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-minimaxh3-latentupscaler"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Tr1dae/ComfyUI-MiniMaxH3_LatentUpscaler",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-04",
+  "excerpt": "On 2026-08-04, the recorded link linked the GitHub repository for ComfyUI-MiniMaxH3_LatentUpscaler. The sealed evidence provides no source text, commit, release, or feature description, so this records only a dated public reference to the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

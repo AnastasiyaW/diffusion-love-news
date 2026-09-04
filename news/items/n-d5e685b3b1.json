@@ -10,7 +10,7 @@
  "project": {
   "name": "Gemini 3.1 Flash TTS",
   "family_slug": "gemini",
-  "family_display": "Gemini 3.1 Flash TTS",
+  "family_display": "Gemini",
   "model_slug": "gemini-3-1",
   "model_display": "Gemini 3.1",
   "version": null,

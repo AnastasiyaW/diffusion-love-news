@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-386f8faa44",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Sonilo v1.1 linked to a text-to-music endpoint",
+ "summary": "On 2026-06-29, the Sonilo v1.1 development line was recorded with a Sonilo news URL, a fal.ai URL for sonilo/v1.1/text-to-music, and the Sonilo platform URL. The dated link set identifies a versioned Sonilo text-to-music endpoint as part of this milestone; the post body and any feature or availability details were not reviewed.",
+ "research_notes": "",
+ "project": {
+  "name": "Sonilo",
+  "family_slug": "sonilo",
+  "family_display": "Sonilo",
+  "model_slug": "sonilo",
+  "model_display": "Sonilo",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sonilo",
+  "family:sonilo",
+  "misc",
+  "sonilo",
+  "sonilo-v1-1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sonilo"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://sonilo.com/news/sonilo-v1-1",
+   "host": "sonilo.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://fal.ai/models/sonilo/v1.1/text-to-music",
+   "host": "fal.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://platform.sonilo.com/",
+   "host": "platform.sonilo.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-29",
+  "excerpt": "On 2026-06-29, the Sonilo v1.1 development line was recorded with a Sonilo news URL, a fal.ai URL for sonilo/v1.1/text-to-music, and the Sonilo platform URL. The dated link set identifies a versioned Sonilo text-to-music endpoint as part of this milestone; the post body and any feature or availability details were not reviewed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

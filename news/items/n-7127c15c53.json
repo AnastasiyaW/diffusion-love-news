@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7127c15c53",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax publishes an official MiniMax H3 blog entry",
+ "summary": "On 2026-07-31, MiniMax published an official blog entry associated with MiniMax H3. The dated link establishes a public project communication, but the sealed evidence does not establish the specific product change, capabilities, or availability described there.",
+ "research_notes": "MiniMax launched H3 with multimodal context and native-stereo video up to 2K/15 seconds; weights were promised for a later release.",
+ "project": {
+  "name": "MiniMax H3",
+  "family_slug": "minimax-h3",
+  "family_display": "MiniMax H3",
+  "model_slug": "minimax-h3",
+  "model_display": "MiniMax H3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax H3",
+  "family:minimax-h3",
+  "minimax",
+  "minimax-h3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-h3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.minimax.io/blog/minimax-h3",
+   "host": "minimax.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-31",
+  "excerpt": "On 2026-07-31, MiniMax published an official blog entry associated with MiniMax H3. The dated link establishes a public project communication, but the sealed evidence does not establish the specific product change, capabilities, or availability described there."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5ee5b179bf",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UniD project page and source repository were publicly linked",
+ "summary": "On 2026-07-26, a dated record linked the UniD project website and its GitHub repository. This establishes a public reference point for the project and its source location at that time. The available evidence does not identify a release, paper, model, or feature change, so no such claim is included.",
+ "research_notes": "",
+ "project": {
+  "name": "UniD",
+  "family_slug": "unid",
+  "family_display": "UniD",
+  "model_slug": "unid",
+  "model_display": "UniD",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniD",
+  "family:unid",
+  "misc",
+  "unid"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "unid"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://unid-video.github.io/",
+   "host": "unid-video.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/YihongSun/UniD",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-26",
+  "excerpt": "On 2026-07-26, a dated record linked the UniD project website and its GitHub repository. This establishes a public reference point for the project and its source location at that time. The available evidence does not identify a release, paper, model, or feature change, so no such claim is included."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

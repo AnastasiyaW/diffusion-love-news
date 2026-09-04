@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-292e34fcb3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DanceOPD project website linked",
+ "summary": "On 2026-06-26, the dated record linked to the DanceOPD GitHub Pages site. This is treated as a material public-facing step because it establishes a directly reachable project presence, although the underlying source text was not available.",
+ "research_notes": "",
+ "project": {
+  "name": "DanceOPD",
+  "family_slug": "danceopd",
+  "family_display": "DanceOPD",
+  "model_slug": "danceopd",
+  "model_display": "DanceOPD",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DanceOPD",
+  "danceopd",
+  "family:danceopd",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "danceopd"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://danceopd.github.io/",
+   "host": "danceopd.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-26",
+  "excerpt": "On 2026-06-26, the dated record linked to the DanceOPD GitHub Pages site. This is treated as a material public-facing step because it establishes a directly reachable project presence, although the underlying source text was not available."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-99ff299eee",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Data2Story was publicly linked with its website and GitHub repository",
+ "summary": "On 2026-06-16, a dated message referenced Data2Story through its project website and the data2story-skill GitHub repository. This establishes a public project-reference point for the agentic data-storytelling line, without asserting a release, feature change, or result not evidenced by the supplied links.",
+ "research_notes": "",
+ "project": {
+  "name": "Data2Story",
+  "family_slug": "data2story",
+  "family_display": "Data2Story",
+  "model_slug": "data2story",
+  "model_display": "Data2Story",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Data2Story",
+  "agentic_data_storytelling",
+  "data2story",
+  "family:data2story",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "data2story"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://data2story.github.io/",
+   "host": "data2story.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/QinghongLin/data2story-skill",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-16",
+  "excerpt": "On 2026-06-16, a dated message referenced Data2Story through its project website and the data2story-skill GitHub repository. This establishes a public project-reference point for the agentic data-storytelling line, without asserting a release, feature change, or result not evidenced by the supplied links."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

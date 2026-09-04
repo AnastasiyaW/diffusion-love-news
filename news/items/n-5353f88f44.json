@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5353f88f44",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "FLUX 3 was linked across Black Forest Labs product surfaces",
+ "summary": "On 2026-08-05, FLUX 3 was linked to a Black Forest Labs model page, quick-start documentation, and a prompt-to-image playground URL. Together, these dated links indicate a material product-surface step, but they do not by themselves establish model specifications, launch scope, or access conditions.",
+ "research_notes": "The model and Quick Start pages are undated, and the associated Playground route now returns an error.",
+ "project": {
+  "name": "FLUX 3",
+  "family_slug": "flux-3",
+  "family_display": "FLUX 3",
+  "model_slug": "flux-3",
+  "model_display": "FLUX 3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FLUX 3",
+  "family:flux-3",
+  "flux-3",
+  "flux_3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "flux-3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://bfl.ai/models/flux-3",
+   "host": "bfl.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.bfl.ai/quick_start/introduction",
+   "host": "docs.bfl.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://dashboard.bfl.ai/2b00bd3c-32a6-49e4-b5d3-3c74130b00b8/533c3ef7-1fb5-4a63-b842-1220b28ed00b/playground/prompt-to-image",
+   "host": "dashboard.bfl.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-05",
+  "excerpt": "On 2026-08-05, FLUX 3 was linked to a Black Forest Labs model page, quick-start documentation, and a prompt-to-image playground URL. Together, these dated links indicate a material product-surface step, but they do not by themselves establish model specifications, launch scope, or access conditions."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

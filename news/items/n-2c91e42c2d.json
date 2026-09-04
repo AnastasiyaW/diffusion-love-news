@@ -10,7 +10,7 @@
  "project": {
   "name": "Meta-CoT",
   "family_slug": "meta-cot",
-  "family_display": "Meta-CoT",
+  "family_display": "Meta CoT",
   "model_slug": "meta-cot",
   "model_display": "Meta-CoT",
   "version": null,

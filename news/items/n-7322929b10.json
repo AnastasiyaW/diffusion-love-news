@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7322929b10",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Splatlight marketplace distribution was documented",
+ "summary": "On 2026-08-11, the Splatlight development line included links to product pages on Gumroad and Superhive Market. This records a marketplace distribution and discoverability milestone, without asserting any unverified product version or feature change.",
+ "research_notes": "",
+ "project": {
+  "name": "Splatlight",
+  "family_slug": "splatlight",
+  "family_display": "Splatlight",
+  "model_slug": "splatlight",
+  "model_display": "Splatlight",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Splatlight",
+  "family:splatlight",
+  "misc",
+  "splatlight"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "splatlight"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3813161402759.gumroad.com/l/splatlight",
+   "host": "3813161402759.gumroad.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://superhivemarket.com/products/splatlight",
+   "host": "superhivemarket.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-11",
+  "excerpt": "On 2026-08-11, the Splatlight development line included links to product pages on Gumroad and Superhive Market. This records a marketplace distribution and discoverability milestone, without asserting any unverified product version or feature change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3efc7bc4ce",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Disney Research reference for Neural Render Proxies",
+ "summary": "On 2026-07-04, the tracked development line received a link to an official Disney Research page associated with Neural Render Proxies. The linked page is dated 2026-07-01 and identifies interactive and differentiable lighting as its context. This is recorded as a material project-development reference, without asserting unreviewed technical details.",
+ "research_notes": "",
+ "project": {
+  "name": "Neural Render Proxies",
+  "family_slug": "disney-neural-render-proxies",
+  "family_display": "Disney Neural Render Proxies",
+  "model_slug": "disney-neural-render-proxies",
+  "model_display": "Neural Render Proxies",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Neural Render Proxies",
+  "disney-neural-render-proxies",
+  "disney-nrp",
+  "family:disney-neural-render-proxies",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "disney-neural-render-proxies"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
+   "host": "studios.disneyresearch.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-04",
+  "excerpt": "On 2026-07-04, the tracked development line received a link to an official Disney Research page associated with Neural Render Proxies. The linked page is dated 2026-07-01 and identifies interactive and differentiable lighting as its context. This is recorded as a material project-development reference, without asserting unreviewed technical details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

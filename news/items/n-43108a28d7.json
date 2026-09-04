@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-43108a28d7",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face model and test space linked for Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+ "summary": "On 2026-03-30, a dated record linked a Hugging Face model page for Qwen3.5-9B-Uncensored-HauhauCS-Aggressive together with a Hugging Face test Space. This is a material public availability and testing reference for the project, although the supplied evidence does not establish further release details.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+  "family_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
+  "family_display": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+  "model_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
+  "model_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+  "family:qwen3-5-9b-uncensored-hauhaucs-aggressive",
+  "misc",
+  "qwen",
+  "qwen3-5-9b-uncensored-hauhaucs-aggressive"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-5-9b-uncensored-hauhaucs-aggressive"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/i0switch/test",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-30",
+  "excerpt": "On 2026-03-30, a dated record linked a Hugging Face model page for Qwen3.5-9B-Uncensored-HauhauCS-Aggressive together with a Hugging Face test Space. This is a material public availability and testing reference for the project, although the supplied evidence does not establish further release details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

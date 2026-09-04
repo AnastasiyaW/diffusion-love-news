@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3bd8a5bf17",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Cohere published a Command A+ blog post",
+ "summary": "On 2026-05-21, Cohere published an official blog URL dedicated to Command A+. The sealed evidence contains no source text or research, so the specific product changes, availability, and technical claims cannot be stated reliably.",
+ "research_notes": "",
+ "project": {
+  "name": "Command A+",
+  "family_slug": "command-a-plus",
+  "family_display": "Command A Plus",
+  "model_slug": "command-a-plus",
+  "model_display": "Command A+",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Command A+",
+  "command-a-plus",
+  "family:command-a-plus",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "command-a-plus"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://cohere.com/blog/command-a-plus",
+   "host": "cohere.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-21",
+  "excerpt": "On 2026-05-21, Cohere published an official blog URL dedicated to Command A+. The sealed evidence contains no source text or research, so the specific product changes, availability, and technical claims cannot be stated reliably."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

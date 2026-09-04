@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-833da82530",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MOSS-Video-Preview public project resources referenced",
+ "summary": "On 2026-06-10, the MOSS-Video-Preview development line was associated with a public GitHub repository and a Hugging Face collection. The dated links establish a public project reference point, but do not by themselves establish a specific release, model capability, or version change.",
+ "research_notes": "",
+ "project": {
+  "name": "MOSS-Video-Preview",
+  "family_slug": "moss-video-preview",
+  "family_display": "MOSS Video Preview",
+  "model_slug": "moss-video-preview",
+  "model_display": "MOSS-Video-Preview",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MOSS-Video-Preview",
+  "family:moss-video-preview",
+  "misc",
+  "moss-video-preview"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "moss-video-preview"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenMOSS/MOSS-Video-Preview",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/OpenMOSS-Team/moss-video-preview",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-10",
+  "excerpt": "On 2026-06-10, the MOSS-Video-Preview development line was associated with a public GitHub repository and a Hugging Face collection. The dated links establish a public project reference point, but do not by themselves establish a specific release, model capability, or version change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

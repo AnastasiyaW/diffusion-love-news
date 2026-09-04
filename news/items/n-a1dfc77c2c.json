@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a1dfc77c2c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen-Audio-3.0-TTS received public project and realtime TTS documentation",
+ "summary": "On 2026-07-24, Qwen-Audio-3.0-TTS was represented by a public project page and an Alibaba Cloud realtime text-to-speech user guide. This is a material development milestone because it establishes public-facing project and practical usage documentation for the line.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen-Audio-3.0-TTS",
+  "family_slug": "qwen-audio-3-0-tts",
+  "family_display": "Qwen Audio 3.0 TTS",
+  "model_slug": "qwen-audio-3-0-tts",
+  "model_display": "Qwen-Audio-3.0-TTS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen-Audio-3.0-TTS",
+  "family:qwen-audio-3-0-tts",
+  "misc",
+  "qwen-audio-3-0-tts",
+  "qwen_audio_3_0_tts"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-audio-3-0-tts"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://funaudiollm.github.io/qwen-audio-3.0-tts/",
+   "host": "funaudiollm.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/realtime-tts-user-guide",
+   "host": "alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-24",
+  "excerpt": "On 2026-07-24, Qwen-Audio-3.0-TTS was represented by a public project page and an Alibaba Cloud realtime text-to-speech user guide. This is a material development milestone because it establishes public-facing project and practical usage documentation for the line."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

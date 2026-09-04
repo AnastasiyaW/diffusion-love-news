@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-77f1dd74e4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Disney Research documented interactive generative motion editing via scheduled inpainting",
+ "summary": "On 2026-08-01, this line recorded Disney Research's work titled “Interactive Generative Motion Editing via Scheduled Inpainting,” linked from its Studios site. The accompanying video link indicates that the work included a visual demonstration of the motion-editing approach.",
+ "research_notes": "",
+ "project": {
+  "name": "Disney Research",
+  "family_slug": "disney-research",
+  "family_display": "Disney Research",
+  "model_slug": "disney-research",
+  "model_display": "Disney Research",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Disney Research",
+  "disney-research",
+  "disney_research",
+  "family:disney-research",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "disney-research"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://studios.disneyresearch.com/2026/07/30/interactive-generative-motion-editing-via-scheduled-inpainting/",
+   "host": "studios.disneyresearch.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://youtu.be/P2jsLNvb1GM?si=16BIMDSsdHAWesGF",
+   "host": "youtu.be",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-01",
+  "excerpt": "On 2026-08-01, this line recorded Disney Research's work titled “Interactive Generative Motion Editing via Scheduled Inpainting,” linked from its Studios site. The accompanying video link indicates that the work included a visual demonstration of the motion-editing approach."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

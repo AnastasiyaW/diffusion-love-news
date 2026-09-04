@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-af926b6d88",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen Audio speech-recognition API references were recorded",
+ "summary": "On 2026-07-31, the Qwen Audio development line was associated with three Alibaba Cloud Model Studio API references for Fun ASR: real-time recognition, recorded-speech HTTP recognition, and non-real-time recognition. This records an API-documentation reference point, not a verified model launch or capability change.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen Audio",
+  "family_slug": "qwen-audio",
+  "family_display": "Qwen Audio",
+  "model_slug": "qwen-audio",
+  "model_display": "Qwen Audio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen Audio",
+  "family:qwen-audio",
+  "misc",
+  "qwen-audio"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-audio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/fun-asr-real-time-speech-recognition-api-reference",
+   "host": "alibabacloud.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/fun-asr-recorded-speech-recognition-http-api",
+   "host": "alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.alibabacloud.com/help/en/model-studio/non-real-time-speech-recognition-for-fun-asr-flash",
+   "host": "alibabacloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-31",
+  "excerpt": "On 2026-07-31, the Qwen Audio development line was associated with three Alibaba Cloud Model Studio API references for Fun ASR: real-time recognition, recorded-speech HTTP recognition, and non-real-time recognition. This records an API-documentation reference point, not a verified model launch or capability change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

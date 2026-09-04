@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-64db3725b4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Civitai model page linked in the Ace Step development thread",
+ "summary": "On 2026-03-17, a Civitai model page was linked in the Ace Step development thread. This establishes a dated public reference relevant to Ace Step Node Suite, but the supplied evidence does not establish the model’s identity, version, author, or exact role in the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Ace Step Node Suite",
+  "family_slug": "ace-step-node-suite",
+  "family_display": "Ace Step Node Suite",
+  "model_slug": "ace-step-node-suite",
+  "model_display": "Ace Step Node Suite",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ace Step Node Suite",
+  "ace-step",
+  "ace-step-node-suite",
+  "family:ace-step-node-suite",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ace-step-node-suite"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2453916",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-17",
+  "excerpt": "On 2026-03-17, a Civitai model page was linked in the Ace Step development thread. This establishes a dated public reference relevant to Ace Step Node Suite, but the supplied evidence does not establish the model’s identity, version, author, or exact role in the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

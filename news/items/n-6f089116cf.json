@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6f089116cf",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Gemini gains a Mac-specific product surface",
+ "summary": "On 2026-04-16, Google linked a Gemini page specifically for Mac. This records an expansion of the Gemini product's desktop-platform surface. The supplied URL does not establish the exact supported macOS versions, rollout scope, or feature set.",
+ "research_notes": "",
+ "project": {
+  "name": "Gemini",
+  "family_slug": "gemini",
+  "family_display": "Gemini",
+  "model_slug": "gemini",
+  "model_display": "Gemini",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemini",
+  "family:gemini",
+  "gemini",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gemini"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://gemini.google/mac/",
+   "host": "gemini.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "On 2026-04-16, Google linked a Gemini page specifically for Mac. This records an expansion of the Gemini product's desktop-platform surface. The supplied URL does not establish the exact supported macOS versions, rollout scope, or feature set."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

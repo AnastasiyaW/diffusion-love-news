@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7e0c4cc870",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "RealMaster project page was linked",
+ "summary": "On 2026-03-30, a sealed branch member linked the public RealMaster project page. This is proposed as a material history entry because it provides a contemporaneous public reference point for the project. The link alone does not establish a particular release, capability, result, or version.",
+ "research_notes": "",
+ "project": {
+  "name": "RealMaster",
+  "family_slug": "realmaster",
+  "family_display": "RealMaster",
+  "model_slug": "realmaster",
+  "model_display": "RealMaster",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RealMaster",
+  "family:realmaster",
+  "misc",
+  "realmaster"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "realmaster"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://danacohen95.github.io/RealMaster/",
+   "host": "danacohen95.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-30",
+  "excerpt": "On 2026-03-30, a sealed branch member linked the public RealMaster project page. This is proposed as a material history entry because it provides a contemporaneous public reference point for the project. The link alone does not establish a particular release, capability, result, or version."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

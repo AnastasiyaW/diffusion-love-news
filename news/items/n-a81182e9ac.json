@@ -10,7 +10,7 @@
  "project": {
   "name": "Claude Opus 4.7",
   "family_slug": "claude",
-  "family_display": "Claude Opus",
+  "family_display": "Claude",
   "model_slug": "claude",
   "model_display": "Claude",
   "version": "4.7",

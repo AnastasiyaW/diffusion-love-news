@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI OmniVoice",
   "family_slug": "omnivoice",
-  "family_display": "ComfyUI OmniVoice",
+  "family_display": "OmniVoice",
   "model_slug": "omnivoice",
   "model_display": "OmniVoice",
   "version": null,

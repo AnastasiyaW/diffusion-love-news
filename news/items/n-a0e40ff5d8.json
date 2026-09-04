@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a0e40ff5d8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DAR recorded a Hugging Face research-paper reference",
+ "summary": "On 2026-05-26, the DAR development line recorded a reference to Hugging Face paper 2605.20708. This is retained as a research-reference milestone in the project's history. The sealed evidence does not establish the paper's title, authors, findings, or DAR's specific relationship to it.",
+ "research_notes": "",
+ "project": {
+  "name": "DAR",
+  "family_slug": "dar",
+  "family_display": "DAR",
+  "model_slug": "dar",
+  "model_display": "DAR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DAR",
+  "dar",
+  "family:dar",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dar"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2605.20708",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-26",
+  "excerpt": "On 2026-05-26, the DAR development line recorded a reference to Hugging Face paper 2605.20708. This is retained as a research-reference milestone in the project's history. The sealed evidence does not establish the paper's title, authors, findings, or DAR's specific relationship to it."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

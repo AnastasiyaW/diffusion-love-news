@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a316da2631",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hailuo Light Studio referenced its Relight tool",
+ "summary": "On 2026-03-20, the Hailuo Light Studio development line included a link to its Relight tool page. The sealed evidence establishes the dated tool reference, but not whether it represented a launch, an update, or routine promotion. This history event therefore records the reference without making further capability or availability claims.",
+ "research_notes": "",
+ "project": {
+  "name": "Hailuo Light Studio",
+  "family_slug": "hailuo-light-studio",
+  "family_display": "Hailuo Light Studio",
+  "model_slug": "hailuo-light-studio",
+  "model_display": "Hailuo Light Studio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hailuo Light Studio",
+  "family:hailuo-light-studio",
+  "hailuo",
+  "hailuo-light-studio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "hailuo-light-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://hailuoai.video/tool/relight",
+   "host": "hailuoai.video",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-20",
+  "excerpt": "On 2026-03-20, the Hailuo Light Studio development line included a link to its Relight tool page. The sealed evidence establishes the dated tool reference, but not whether it represented a launch, an update, or routine promotion. This history event therefore records the reference without making further capability or availability claims."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-11ae14ece9",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Muse’s ComfyUI repository was linked",
+ "summary": "On 2026-08-20, the Muse development thread pointed readers to its GitHub repository. The sealed evidence establishes a dated public source-location reference, but does not establish a specific release, feature, version, or code change. This event is retained as the project’s historical repository reference.",
+ "research_notes": "",
+ "project": {
+  "name": "Muse",
+  "family_slug": "comfyui-muse",
+  "family_display": "Comfyui Muse",
+  "model_slug": "comfyui-muse",
+  "model_display": "Muse",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Muse",
+  "comfyui-muse",
+  "family:comfyui-muse",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-muse"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/RudySen/comfyui-muse",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-20",
+  "excerpt": "On 2026-08-20, the Muse development thread pointed readers to its GitHub repository. The sealed evidence establishes a dated public source-location reference, but does not establish a specific release, feature, version, or code change. This event is retained as the project’s historical repository reference."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

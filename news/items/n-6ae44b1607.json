@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6ae44b1607",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI-PuLID-Flux2 setup resources were linked",
+ "summary": "On 2026-03-16, the ComfyUI-PuLID-Flux2 repository was linked together with its workflow directory and external PuLID and antelopev2 model resources. This records a practical integration reference point for the project, but the available evidence does not establish a release, version, or specific implementation change.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI-PuLID-Flux2",
+  "family_slug": "comfyui-pulid-flux2",
+  "family_display": "ComfyUI PuLID Flux2",
+  "model_slug": "comfyui-pulid-flux2",
+  "model_display": "ComfyUI-PuLID-Flux2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-PuLID-Flux2",
+  "comfyui-pulid-flux2",
+  "family:comfyui-pulid-flux2",
+  "misc",
+  "pulid"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-pulid-flux2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/iFayens/ComfyUI-PuLID-Flux2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/MonsterMMORPG/InstantID_Models/tree/main/models/antelopev2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/guozinan/PuLID",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/iFayens/ComfyUI-PuLID-Flux2/tree/main/workflows",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-16",
+  "excerpt": "On 2026-03-16, the ComfyUI-PuLID-Flux2 repository was linked together with its workflow directory and external PuLID and antelopev2 model resources. This records a practical integration reference point for the project, but the available evidence does not establish a release, version, or specific implementation change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

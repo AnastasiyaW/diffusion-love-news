@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-269c40ddd3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ABot-World public project resources became available",
+ "summary": "On 2026-07-13, ABot-World was linked to a project page, source repository, Hugging Face model, interactive demo, and creation portal. This dated set of official resources indicates a public availability milestone for the project, though the original message and release details were not supplied.",
+ "research_notes": "",
+ "project": {
+  "name": "ABot-World",
+  "family_slug": "abot-world",
+  "family_display": "ABot World",
+  "model_slug": "abot-world",
+  "model_display": "ABot-World",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ABot-World",
+  "abot-world",
+  "abot_world",
+  "family:abot-world",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "abot-world"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://amap-cvlab.github.io/ABot-World/",
+   "host": "amap-cvlab.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/amap-cvlab/ABot-World",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/acvlab/ABot-World-0-5B-LF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/acvlab/abot-world-interactive",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://abot-world.amap.com/#create",
+   "host": "abot-world.amap.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-13",
+  "excerpt": "On 2026-07-13, ABot-World was linked to a project page, source repository, Hugging Face model, interactive demo, and creation portal. This dated set of official resources indicates a public availability milestone for the project, though the original message and release details were not supplied."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

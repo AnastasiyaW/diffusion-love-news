@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2340faee72",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PointDiT project and gallery were linked",
+ "summary": "On 2026-07-10, the record linked PointDiT's public project page and gallery. This is a material public reference point for the project because it directs readers to the project resource and examples. The supplied evidence does not establish a release, technical claim, authorship, or change beyond those linked resources.",
+ "research_notes": "",
+ "project": {
+  "name": "PointDiT",
+  "family_slug": "pointdit",
+  "family_display": "PointDiT",
+  "model_slug": "pointdit",
+  "model_display": "PointDiT",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PointDiT",
+  "family:pointdit",
+  "misc",
+  "pointdit"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pointdit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://haofeixu.github.io/pointdit/",
+   "host": "haofeixu.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://haofeixu.github.io/pointdit/gallery.html",
+   "host": "haofeixu.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-10",
+  "excerpt": "On 2026-07-10, the record linked PointDiT's public project page and gallery. This is a material public reference point for the project because it directs readers to the project resource and examples. The supplied evidence does not establish a release, technical claim, authorship, or change beyond those linked resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

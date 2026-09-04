@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a54747f312",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Wan-Streamer v0.3 version page linked",
+ "summary": "On 2026-07-20, a sealed member in the Wan-Streamer development line linked to the project's version-specific v0.3 page. This establishes a later dated public v0.3 reference, while the available evidence does not establish the page's feature set, release status, or migration implications.",
+ "research_notes": "",
+ "project": {
+  "name": "Wan-Streamer",
+  "family_slug": "wan-streamer",
+  "family_display": "Wan Streamer",
+  "model_slug": "wan-streamer",
+  "model_display": "Wan-Streamer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Wan-Streamer",
+  "family:wan-streamer",
+  "misc",
+  "wan-streamer"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "wan-streamer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.wan-streamer.com/v0.3/",
+   "host": "wan-streamer.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-20",
+  "excerpt": "On 2026-07-20, a sealed member in the Wan-Streamer development line linked to the project's version-specific v0.3 page. This establishes a later dated public v0.3 reference, while the available evidence does not establish the page's feature set, release status, or migration implications."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

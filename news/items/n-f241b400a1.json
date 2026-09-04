@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f241b400a1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Cursor published a public update associated with Router",
+ "summary": "On 2026-07-25, Cursor published a public blog article associated with Router. Its existence is a material public milestone for the Cursor Router development line, but the sealed evidence does not establish the article's detailed functionality, rollout status, or user impact.",
+ "research_notes": "",
+ "project": {
+  "name": "Cursor Router",
+  "family_slug": "router",
+  "family_display": "Router",
+  "model_slug": "router",
+  "model_display": "Cursor Router",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Cursor Router",
+  "cursor",
+  "family:router",
+  "misc",
+  "router"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "router"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://cursor.com/blog/router",
+   "host": "cursor.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-25",
+  "excerpt": "On 2026-07-25, Cursor published a public blog article associated with Router. Its existence is a material public milestone for the Cursor Router development line, but the sealed evidence does not establish the article's detailed functionality, rollout status, or user impact."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

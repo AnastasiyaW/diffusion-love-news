@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f202a83f88",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA made FastGen project resources publicly available",
+ "summary": "On 2026-07-30, FastGen was linked to an NVIDIA Research project page and an NVlabs GitHub repository. This is a material public-development milestone because it establishes a project-level research and source-code presence for FastGen.",
+ "research_notes": "",
+ "project": {
+  "name": "FastGen",
+  "family_slug": "fastgen",
+  "family_display": "FastGen",
+  "model_slug": "fastgen",
+  "model_display": "FastGen",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FastGen",
+  "family:fastgen",
+  "fastgen",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "fastgen"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://research.nvidia.com/labs/genair/pdd/",
+   "host": "research.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVlabs/fastgen",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-30",
+  "excerpt": "On 2026-07-30, FastGen was linked to an NVIDIA Research project page and an NVlabs GitHub repository. This is a material public-development milestone because it establishes a project-level research and source-code presence for FastGen."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7abe53781e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "xAI announces Grok 4.6",
+ "summary": "On 2026-08-13, xAI published the official announcement for Grok 4.6. The accompanying xAI Build link identifies a developer-facing route associated with the release. The supplied links do not establish pricing, API contract, or rollout scope.",
+ "research_notes": "",
+ "project": {
+  "name": "Grok",
+  "family_slug": "grok",
+  "family_display": "Grok",
+  "model_slug": "grok",
+  "model_display": "Grok",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Grok",
+  "family:grok",
+  "grok",
+  "grok_telegram_bot",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "grok"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://x.ai/news/grok-4-6",
+   "host": "x.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://x.ai/build",
+   "host": "x.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-13",
+  "excerpt": "On 2026-08-13, xAI published the official announcement for Grok 4.6. The accompanying xAI Build link identifies a developer-facing route associated with the release. The supplied links do not establish pricing, API contract, or rollout scope."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

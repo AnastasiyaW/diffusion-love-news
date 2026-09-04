@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f49e4ee649",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Reka Edge was presented with chat documentation and a linked model resource",
+ "summary": "On 2026-03-15, Reka Edge was presented through a dedicated Reka app page alongside Reka's chat overview documentation and a linked external resource. This marks a material development step for Reka Edge because it connects a named offering with an accessible product surface and usage documentation. The exact capabilities, release status, and contents of the external link remain unverified.",
+ "research_notes": "",
+ "project": {
+  "name": "Reka",
+  "family_slug": "reka",
+  "family_display": "Reka",
+  "model_slug": "reka",
+  "model_display": "Reka",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Reka",
+  "family:reka",
+  "misc",
+  "reka",
+  "reka_edge"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "reka"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://app.reka.ai/reka-edge",
+   "host": "app.reka.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.reka.ai/chat/overview",
+   "host": "docs.reka.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-15",
+  "excerpt": "On 2026-03-15, Reka Edge was presented through a dedicated Reka app page alongside Reka's chat overview documentation and a linked external resource. This marks a material development step for Reka Edge because it connects a named offering with an accessible product surface and usage documentation. The exact capabilities, release status, and contents of the external link remain unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

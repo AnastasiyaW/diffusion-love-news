@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-363a1b03bb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Mage-Flow model and ComfyUI integration publicly linked",
+ "summary": "On 2026-07-26, a public The recorded link linked Mage-Flow's Hugging Face model repository and a GitHub repository for ComfyUI integration. The dated link set records that the model resources and a ComfyUI-oriented integration were publicly connected at that time. It does not establish a specific release version, authorship, or technical capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "Mage-Flow",
+  "family_slug": "mage-flow",
+  "family_display": "Mage Flow",
+  "model_slug": "mage-flow",
+  "model_display": "Mage-Flow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Mage-Flow",
+  "family:mage-flow",
+  "mage-flow",
+  "mage_flow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mage-flow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Comfy-Org/Mage-Flow",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/lumos675/ComfyUI-MageFlow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-26",
+  "excerpt": "On 2026-07-26, a public The recorded link linked Mage-Flow's Hugging Face model repository and a GitHub repository for ComfyUI integration. The dated link set records that the model resources and a ComfyUI-oriented integration were publicly connected at that time. It does not establish a specific release version, authorship, or technical capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

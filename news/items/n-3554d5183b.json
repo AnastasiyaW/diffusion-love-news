@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3554d5183b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PrunaVAED entered the LTX Video integration thread",
+ "summary": "On 2026-08-03, PrunaVAED was recorded in the LTX Video development thread with links to its Hugging Face repository and a ComfyUI pull request. This is a material integration-facing milestone, although the supplied evidence does not establish the pull request's outcome, version, or runtime behavior.",
+ "research_notes": "",
+ "project": {
+  "name": "PrunaVAED",
+  "family_slug": "prunavaed",
+  "family_display": "PrunaVAED",
+  "model_slug": "prunavaed",
+  "model_display": "PrunaVAED",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PrunaVAED",
+  "family:prunavaed",
+  "ltx_video",
+  "misc",
+  "prunavaed"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "prunavaed"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/PrunaAI/PrunaVAED",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Comfy-Org/ComfyUI/pull/15129",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-03",
+  "excerpt": "On 2026-08-03, PrunaVAED was recorded in the LTX Video development thread with links to its Hugging Face repository and a ComfyUI pull request. This is a material integration-facing milestone, although the supplied evidence does not establish the pull request's outcome, version, or runtime behavior."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

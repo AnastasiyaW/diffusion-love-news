@@ -10,7 +10,7 @@
  "project": {
   "name": "Chandra OCR 2",
   "family_slug": "chandra",
-  "family_display": "Chandra OCR",
+  "family_display": "Chandra",
   "model_slug": "chandra",
   "model_display": "Chandra",
   "version": "2",

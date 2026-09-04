@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8cc344a285",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Decart publicly presented Lucy 2.5",
+ "summary": "On 2026-07-18, Decart published a public page for Lucy 2.5 together with a linked public product endpoint. This is a material public development in the Lucy line because the dated official links identify a distinct version rather than a repost. The supplied links alone do not establish its precise capabilities, performance, availability, or relationship to earlier Lucy releases.",
+ "research_notes": "",
+ "project": {
+  "name": "Lucy 2.5",
+  "family_slug": "lucy",
+  "family_display": "Lucy",
+  "model_slug": "lucy",
+  "model_display": "Lucy 2.5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Lucy 2.5",
+  "family:lucy",
+  "lucy",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lucy"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://decart.ai/publications/lucy-2-5-raising-the-bar-for-live-ai",
+   "host": "decart.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://lucy.decart.ai/",
+   "host": "lucy.decart.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-18",
+  "excerpt": "On 2026-07-18, Decart published a public page for Lucy 2.5 together with a linked public product endpoint. This is a material public development in the Lucy line because the dated official links identify a distinct version rather than a repost. The supplied links alone do not establish its precise capabilities, performance, availability, or relationship to earlier Lucy releases."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

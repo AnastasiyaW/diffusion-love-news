@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a78c964be6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Exiv source repository and getting-started documentation were linked",
+ "summary": "On 2026-03-15, Exiv was associated with a public GitHub source repository and a getting-started documentation page. This is a material availability milestone for the project's development history, because it gives prospective users a source and an onboarding path.",
+ "research_notes": "",
+ "project": {
+  "name": "Exiv",
+  "family_slug": "exiv",
+  "family_display": "Exiv",
+  "model_slug": "exiv",
+  "model_display": "Exiv",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Exiv",
+  "exiv",
+  "family:exiv",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "exiv"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/piyushK52/Exiv",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://exiv.pages.dev/docs/01_getting_started/overview",
+   "host": "exiv.pages.dev",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-15",
+  "excerpt": "On 2026-03-15, Exiv was associated with a public GitHub source repository and a getting-started documentation page. This is a material availability milestone for the project's development history, because it gives prospective users a source and an onboarding path."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

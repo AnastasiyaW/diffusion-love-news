@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b02f3b33b7",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UMO’s public project site and source repository were linked",
+ "summary": "On 2026-03-19, the dated record linked UMO’s public project website and GitHub repository. This establishes a traceable public project presence by that date, but does not establish a specific release, feature, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "UMO",
+  "family_slug": "umo",
+  "family_display": "UMO",
+  "model_slug": "umo",
+  "model_display": "UMO",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UMO",
+  "family:umo",
+  "misc",
+  "umo"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "umo"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://oliver-cong02.github.io/UMO.github.io/",
+   "host": "oliver-cong02.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Oliver-Cong02/UMO",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-19",
+  "excerpt": "On 2026-03-19, the dated record linked UMO’s public project website and GitHub repository. This establishes a traceable public project presence by that date, but does not establish a specific release, feature, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

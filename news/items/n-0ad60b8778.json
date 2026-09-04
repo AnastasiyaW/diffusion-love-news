@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0ad60b8778",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Nemotron 3.5 Lightning public model and playground resources surfaced",
+ "summary": "On 2026-08-12, the Nemotron 3.5 Lightning development line was documented through public links to its NVIDIA Hugging Face model pages, related model search results, and NVIDIA’s hosted playground. The same set of links connected the line to the NVIDIA-NeMo Switchyard repository and a DSpark variant, showing its public distribution and associated tooling at that point in the history.",
+ "research_notes": "",
+ "project": {
+  "name": "Nemotron 3.5 Lightning",
+  "family_slug": "nvidia-nemotron",
+  "family_display": "Nvidia Nemotron",
+  "model_slug": "nvidia-nemotron",
+  "model_display": "Nemotron 3.5 Lightning",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nemotron 3.5 Lightning",
+  "family:nvidia-nemotron",
+  "misc",
+  "nvidia-nemotron",
+  "nvidia_nemotron"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvidia-nemotron"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4-DSpark",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?search=NVIDIA-Nemotron-3.5-Lightning",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://build.nvidia.com/nvidia/nemotron-3.5-lightning-30b-a3b/playground",
+   "host": "build.nvidia.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-12",
+  "excerpt": "On 2026-08-12, the Nemotron 3.5 Lightning development line was documented through public links to its NVIDIA Hugging Face model pages, related model search results, and NVIDIA’s hosted playground. The same set of links connected the line to the NVIDIA-NeMo Switchyard repository and a DSpark variant, showing its public distribution and associated tooling at that point in the history."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

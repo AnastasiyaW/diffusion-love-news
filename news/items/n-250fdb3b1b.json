@@ -10,7 +10,7 @@
  "project": {
   "name": "Color-Grade-Transfer-LoRA",
   "family_slug": "qwen-image-edit",
-  "family_display": "Color-Grade-Transfer-LoRA",
+  "family_display": "Qwen Image Edit",
   "model_slug": "color-grade-transfer",
   "model_display": "Color-Grade-Transfer",
   "version": null,

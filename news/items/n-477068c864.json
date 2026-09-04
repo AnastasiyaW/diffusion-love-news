@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-477068c864",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "H Company released the Holo3 model",
+ "summary": "On 2026-04-02, H Company published Holo3 as a new model release. The linked project, API, and model-repository pages indicate that the release was intended for both direct use and model access. The record contains no source text or independent research, so the exact capabilities and release terms remain unconfirmed.",
+ "research_notes": "",
+ "project": {
+  "name": "Holo3",
+  "family_slug": "h-company-holo3",
+  "family_display": "H Company Holo3",
+  "model_slug": "h-company-holo3",
+  "model_display": "Holo3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Holo3",
+  "family:h-company-holo3",
+  "h-company-holo3",
+  "holo3_model_release",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "h-company-holo3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://hcompany.ai/holo3",
+   "host": "hcompany.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://hcompany.ai/holo-models-api",
+   "host": "hcompany.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "On 2026-04-02, H Company published Holo3 as a new model release. The linked project, API, and model-repository pages indicate that the release was intended for both direct use and model access. The record contains no source text or independent research, so the exact capabilities and release terms remain unconfirmed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

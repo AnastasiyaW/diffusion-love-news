@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9d1d38dd75",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LTX2.3 Audio Reactive LoRA entered the dated development record",
+ "summary": "On 2026-06-13, the LTX2.3 Audio Reactive LoRA line was recorded with a direct Hugging Face link under fal. This is a material public-reference point for the line, but the supplied evidence does not establish the model’s capabilities, version details, training data, or usage terms.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX2.3 Audio Reactive LoRA",
+  "family_slug": "ltx2-3-audio-reactive-lora",
+  "family_display": "LTX2.3 Audio Reactive LoRA",
+  "model_slug": "ltx2-3-audio-reactive-lora",
+  "model_display": "LTX2.3 Audio Reactive LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX2.3 Audio Reactive LoRA",
+  "family:ltx2-3-audio-reactive-lora",
+  "ltx2-3-audio-reactive-lora",
+  "ltx_video_models",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx2-3-audio-reactive-lora"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/fal/ltx2.3-audio-reactive-lora",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-13",
+  "excerpt": "On 2026-06-13, the LTX2.3 Audio Reactive LoRA line was recorded with a direct Hugging Face link under fal. This is a material public-reference point for the line, but the supplied evidence does not establish the model’s capabilities, version details, training data, or usage terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

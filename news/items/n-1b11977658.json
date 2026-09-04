@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI Hires Fix Ultra",
   "family_slug": "comfyui-hires-fix",
-  "family_display": "ComfyUI Hires Fix Ultra",
+  "family_display": "ComfyUI Hires Fix",
   "model_slug": "comfyui-hires-fix",
   "model_display": "ComfyUI Hires Fix",
   "version": null,

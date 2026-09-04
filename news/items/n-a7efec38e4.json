@@ -1,0 +1,87 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a7efec38e4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3-ASR-1.7B-hf checkpoint reference",
+ "summary": "On 2026-06-30, the Qwen development line included a link to the Hugging Face repository named Qwen/Qwen3-ASR-1.7B-hf. Its ASR-oriented model name makes this a material extension of the recorded Qwen line into speech recognition; no additional claim is drawn from the accompanying The recorded link.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen",
+  "family_slug": "qwen",
+  "family_display": "Qwen",
+  "model_slug": "qwen",
+  "model_display": "Qwen",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen",
+  "family:qwen",
+  "misc",
+  "qwen",
+  "qwen-video",
+  "qwen_model_updates"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B-hf",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-30",
+  "excerpt": "On 2026-06-30, the Qwen development line included a link to the Hugging Face repository named Qwen/Qwen3-ASR-1.7B-hf. Its ASR-oriented model name makes this a material extension of the recorded Qwen line into speech recognition; no additional claim is drawn from the accompanying The recorded link."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

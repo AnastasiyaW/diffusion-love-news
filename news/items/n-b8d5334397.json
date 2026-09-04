@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b8d5334397",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenVuln’s public Hugging Face Space was referenced",
+ "summary": "On 2026-08-15, a sealed member in the OpenVuln development line linked directly to the project’s Hugging Face Space. This records a public project-space reference on that date, but the link alone does not establish the Space’s release status, features, or any change to the project.",
+ "research_notes": "",
+ "project": {
+  "name": "OpenVuln",
+  "family_slug": "openvuln",
+  "family_display": "OpenVuln",
+  "model_slug": "openvuln",
+  "model_display": "OpenVuln",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenVuln",
+  "family:openvuln",
+  "misc",
+  "openvuln",
+  "zai-org/openvuln"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "openvuln"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/zai-org/OpenVuln",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-15",
+  "excerpt": "On 2026-08-15, a sealed member in the OpenVuln development line linked directly to the project’s Hugging Face Space. This records a public project-space reference on that date, but the link alone does not establish the Space’s release status, features, or any change to the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

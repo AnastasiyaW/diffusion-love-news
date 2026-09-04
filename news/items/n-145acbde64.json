@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-145acbde64",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Dramabox public model, demo, and source resources were linked",
+ "summary": "On 2026-05-16, the dated evidence linked Dramabox resources spanning Resemble AI documentation, a Hugging Face model repository, a Hugging Face Space, and a GitHub repository. Together, these official project resources indicate a public availability milestone for Dramabox. The supplied evidence does not establish a version, capabilities, license, or the original publication dates of the linked resources.",
+ "research_notes": "",
+ "project": {
+  "name": "Dramabox",
+  "family_slug": "dramabox",
+  "family_display": "Dramabox",
+  "model_slug": "dramabox",
+  "model_display": "Dramabox",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Dramabox",
+  "dramabox",
+  "family:dramabox",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dramabox"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.resemble.ai/learn/models/dramabox",
+   "host": "resemble.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ResembleAI/Dramabox",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/ResembleAI/Dramabox",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/resemble-ai/DramaBox",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-16",
+  "excerpt": "On 2026-05-16, the dated evidence linked Dramabox resources spanning Resemble AI documentation, a Hugging Face model repository, a Hugging Face Space, and a GitHub repository. Together, these official project resources indicate a public availability milestone for Dramabox. The supplied evidence does not establish a version, capabilities, license, or the original publication dates of the linked resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

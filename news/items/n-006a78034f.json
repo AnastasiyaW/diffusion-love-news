@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-006a78034f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UNI-1 received an official Luma Labs project reference",
+ "summary": "On 2026-03-23, a sealed message pointed readers to the UNI-1 page on Luma Labs and to the Luma Labs application. This establishes a dated official-project reference in UNI-1's development history. The supplied evidence does not establish the exact release status, capabilities, or announcement details.",
+ "research_notes": "",
+ "project": {
+  "name": "UNI-1",
+  "family_slug": "uni-1",
+  "family_display": "UNI 1",
+  "model_slug": "uni-1",
+  "model_display": "UNI-1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UNI-1",
+  "family:uni-1",
+  "misc",
+  "uni-1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "uni-1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lumalabs.ai/uni-1",
+   "host": "lumalabs.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://app.lumalabs.ai/",
+   "host": "app.lumalabs.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-23",
+  "excerpt": "On 2026-03-23, a sealed message pointed readers to the UNI-1 page on Luma Labs and to the Luma Labs application. This establishes a dated official-project reference in UNI-1's development history. The supplied evidence does not establish the exact release status, capabilities, or announcement details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

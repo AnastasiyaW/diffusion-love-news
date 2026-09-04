@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4176893fdd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PiD research, code, and model resources were made publicly available",
+ "summary": "On 2026-05-25, PiD was represented by linked research, source-code, and Hugging Face model resources. This is a material public-development milestone because the dated link set connects the project to usable technical entry points, although the supplied evidence does not establish a precise version or capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "PiD",
+  "family_slug": "pid",
+  "family_display": "PiD",
+  "model_slug": "pid",
+  "model_display": "PiD",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PiD",
+  "family:pid",
+  "misc",
+  "pid"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pid"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://research.nvidia.com/labs/sil/projects/pid/",
+   "host": "research.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/nv-tlabs/PiD",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/PiD",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-25",
+  "excerpt": "On 2026-05-25, PiD was represented by linked research, source-code, and Hugging Face model resources. This is a material public-development milestone because the dated link set connects the project to usable technical entry points, although the supplied evidence does not establish a precise version or capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

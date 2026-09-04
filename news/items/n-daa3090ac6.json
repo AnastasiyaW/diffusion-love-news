@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-daa3090ac6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Bernini model and ComfyUI workflow resources linked",
+ "summary": "On 2026-06-02, a dated Bernini entry linked the project website and the ByteDance/Bernini model repository on Hugging Face. It also linked a Bernini testing workflow JSON and a Bernini directory in Kijai's WanVideo Comfy FP8 scaled repository. Together, these resources mark a material step toward model access and ComfyUI-oriented use.",
+ "research_notes": "",
+ "project": {
+  "name": "Bernini",
+  "family_slug": "bernini",
+  "family_display": "Bernini",
+  "model_slug": "bernini",
+  "model_display": "Bernini",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Bernini",
+  "bernini",
+  "family:bernini",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "bernini"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://bernini-ai.github.io/",
+   "host": "bernini-ai.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ByteDance/Bernini",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/user-attachments/files/28479027/Bernini_testing_video_edit_01.json",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/tree/main/Bernini",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-02",
+  "excerpt": "On 2026-06-02, a dated Bernini entry linked the project website and the ByteDance/Bernini model repository on Hugging Face. It also linked a Bernini testing workflow JSON and a Bernini directory in Kijai's WanVideo Comfy FP8 scaled repository. Together, these resources mark a material step toward model access and ComfyUI-oriented use."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

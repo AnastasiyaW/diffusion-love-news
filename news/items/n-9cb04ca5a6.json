@@ -1,165 +1,165 @@
 {
-  "schema_version": "1.3",
-  "id": "n-9cb04ca5a6",
-  "entry_type": "project",
-  "category": "tools-frontend",
-  "lang": "en",
-  "title": "Initial knowledge vault: 385 entries across 21 domains",
-  "summary": "The public knowledge-space repository was initialized with 385 entries organized across 21 domains.",
-  "research_notes": "Public project-history entry derived from the immutable repository commit and its recorded metadata.",
-  "project": {
-    "name": "Happyin Knowledge Space",
-    "family_slug": "happyin-space",
-    "family_display": "Happyin Knowledge Space",
-    "model_slug": "happyin-space",
-    "model_display": "Happyin Knowledge Space",
-    "version": null,
-    "released": "2026-03-30",
-    "vendor": null,
-    "vendor_slug": null,
-    "origin_region": null,
-    "license": null,
-    "base_model": null,
-    "adaptation": null,
-    "aliases": [
-      "knowledge-space"
-    ],
-    "summary": "Happyin Knowledge Space is a public technical knowledge base published at https://happyin.space/ from the AnastasiyaW/knowledge-space repository. Its project history records only milestones traceable to immutable repository commits.",
-    "kind": "knowledge-base",
-    "status": "active",
-    "homepage": "https://happyin.space/",
-    "repository": "https://github.com/AnastasiyaW/knowledge-space",
-    "domains": [
-      {
-        "slug": "devops",
-        "label": "DevOps",
-        "url": "https://happyin.space/devops/"
-      },
-      {
-        "slug": "image-generation",
-        "label": "Image Generation",
-        "url": "https://happyin.space/image-generation/"
-      },
-      {
-        "slug": "knowledge-base",
-        "label": "Knowledge Base",
-        "url": "https://happyin.space/knowledge-base/"
-      },
-      {
-        "slug": "llm-agents",
-        "label": "LLM Agents",
-        "url": "https://happyin.space/llm-agents/"
-      }
-    ]
-  },
-  "tags": [
-    "Happyin Knowledge Space",
-    "happyin-space",
-    "knowledge-base",
-    "family:happyin-space",
-    "github",
-    "mkdocs"
+ "schema_version": "1.3",
+ "id": "n-9cb04ca5a6",
+ "entry_type": "project",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Initial knowledge vault: 385 entries across 21 domains",
+ "summary": "The public knowledge-space repository was initialized with 385 entries organized across 21 domains.",
+ "research_notes": "Public project-history entry derived from the immutable repository commit and its recorded metadata.",
+ "project": {
+  "name": "Happyin Knowledge Space",
+  "family_slug": "happyin-space",
+  "family_display": "Happyin Space",
+  "model_slug": "happyin-space",
+  "model_display": "Happyin Knowledge Space",
+  "version": null,
+  "released": "2026-03-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null,
+  "aliases": [
+   "knowledge-space"
   ],
-  "facets": {
-    "category": "tools-frontend",
-    "entry_type": "project",
-    "projects": [
-      "happyin-space"
-    ],
-    "versions": [],
-    "features": [
-      "knowledge-base",
-      "wiki-links"
-    ],
-    "formats": [
-      "github",
-      "website"
-    ],
-    "platforms": [
-      "web"
-    ],
-    "vendors": [],
-    "base_models": [],
-    "origin": null,
-    "license": null,
-    "year": 2026,
-    "models": [],
-    "adaptations": []
-  },
-  "links": [
-    {
-      "kind": "source",
-      "url": "https://github.com/AnastasiyaW/knowledge-space/commit/c8bb9eafa0b41ff809b352a5ae27e7b0c8548777",
-      "host": "github.com",
-      "lang": "en",
-      "is_primary": true,
-      "status": "live",
-      "verified_at": "2026-03-30T20:35:13Z"
-    },
-    {
-      "kind": "repository",
-      "url": "https://github.com/AnastasiyaW/knowledge-space",
-      "host": "github.com",
-      "lang": "en",
-      "is_primary": false,
-      "status": "live",
-      "verified_at": "2026-03-30T20:35:13Z"
-    },
-    {
-      "kind": "project-page",
-      "url": "https://happyin.space/",
-      "host": "happyin.space",
-      "lang": "en",
-      "is_primary": false,
-      "status": "unverified",
-      "verified_at": null
-    }
-  ],
-  "evolution": {
-    "summary": "The public repository was initialized with 385 entries across 21 domains.",
-    "latest_version": null,
-    "related_ids": [],
-    "is_latest_in_family": false
-  },
-  "media": {
-    "has_image": false,
-    "has_video": false
-  },
-  "source": {
-    "posted_at": "2026-03-30",
-    "excerpt": "Initial knowledge vault: 385 entries across 21 domains"
-  },
-  "_meta": {
-    "extracted_at": null,
-    "classified_at": null,
-    "enriched_at": null,
-    "verified_at": "2026-03-30T20:35:13Z",
-    "models_used": {
-      "classify": null,
-      "enrich": null
-    },
-    "schema_validated": true
-  },
-  "lifecycle_event": {
-    "kind": "repository-initialized",
-    "date": "2026-03-30",
-    "title": "Initial knowledge vault",
-    "summary": "The public repository was initialized with 385 entries across 21 domains."
-  },
-  "claims": [
-    {
-      "id": "happyin-space-c8bb9ea",
-      "statement": "The initial public repository commit records 385 entries across 21 domains.",
-      "kind": "repository-history",
-      "status": "verified",
-      "evidence": [
-        {
-          "url": "https://github.com/AnastasiyaW/knowledge-space/commit/c8bb9eafa0b41ff809b352a5ae27e7b0c8548777",
-          "title": "Initial knowledge vault: 385 entries across 21 domains",
-          "publisher": "AnastasiyaW/knowledge-space",
-          "published_at": "2026-03-30"
-        }
-      ]
-    }
+  "summary": "Happyin Knowledge Space is a public technical knowledge base published at https://happyin.space/ from the AnastasiyaW/knowledge-space repository. Its project history records only milestones traceable to immutable repository commits.",
+  "kind": "knowledge-base",
+  "status": "active",
+  "homepage": "https://happyin.space/",
+  "repository": "https://github.com/AnastasiyaW/knowledge-space",
+  "domains": [
+   {
+    "slug": "devops",
+    "label": "DevOps",
+    "url": "https://happyin.space/devops/"
+   },
+   {
+    "slug": "image-generation",
+    "label": "Image Generation",
+    "url": "https://happyin.space/image-generation/"
+   },
+   {
+    "slug": "knowledge-base",
+    "label": "Knowledge Base",
+    "url": "https://happyin.space/knowledge-base/"
+   },
+   {
+    "slug": "llm-agents",
+    "label": "LLM Agents",
+    "url": "https://happyin.space/llm-agents/"
+   }
   ]
+ },
+ "tags": [
+  "Happyin Knowledge Space",
+  "happyin-space",
+  "knowledge-base",
+  "family:happyin-space",
+  "github",
+  "mkdocs"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "project",
+  "projects": [
+   "happyin-space"
+  ],
+  "versions": [],
+  "features": [
+   "knowledge-base",
+   "wiki-links"
+  ],
+  "formats": [
+   "github",
+   "website"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "source",
+   "url": "https://github.com/AnastasiyaW/knowledge-space/commit/c8bb9eafa0b41ff809b352a5ae27e7b0c8548777",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-03-30T20:35:13Z"
+  },
+  {
+   "kind": "repository",
+   "url": "https://github.com/AnastasiyaW/knowledge-space",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": "2026-03-30T20:35:13Z"
+  },
+  {
+   "kind": "project-page",
+   "url": "https://happyin.space/",
+   "host": "happyin.space",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "The public repository was initialized with 385 entries across 21 domains.",
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-30",
+  "excerpt": "Initial knowledge vault: 385 entries across 21 domains"
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": null,
+  "verified_at": "2026-03-30T20:35:13Z",
+  "models_used": {
+   "classify": null,
+   "enrich": null
+  },
+  "schema_validated": true
+ },
+ "lifecycle_event": {
+  "kind": "repository-initialized",
+  "date": "2026-03-30",
+  "title": "Initial knowledge vault",
+  "summary": "The public repository was initialized with 385 entries across 21 domains."
+ },
+ "claims": [
+  {
+   "id": "happyin-space-c8bb9ea",
+   "statement": "The initial public repository commit records 385 entries across 21 domains.",
+   "kind": "repository-history",
+   "status": "verified",
+   "evidence": [
+    {
+     "url": "https://github.com/AnastasiyaW/knowledge-space/commit/c8bb9eafa0b41ff809b352a5ae27e7b0c8548777",
+     "title": "Initial knowledge vault: 385 entries across 21 domains",
+     "publisher": "AnastasiyaW/knowledge-space",
+     "published_at": "2026-03-30"
+    }
+   ]
+  }
+ ]
 }

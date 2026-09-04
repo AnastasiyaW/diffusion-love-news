@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0c7b2e5273",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Omni-Diffusion public project resources linked",
+ "summary": "On 2026-03-11, a dated entry linked Omni-Diffusion's project website, source repository, and Hugging Face model page. Together, these resources establish a public reference point for the project's documentation, implementation, and model access. The dated links alone do not establish the release version, capabilities, or evaluation results.",
+ "research_notes": "",
+ "project": {
+  "name": "Omni-Diffusion",
+  "family_slug": "omni-diffusion",
+  "family_display": "Omni Diffusion",
+  "model_slug": "omni-diffusion",
+  "model_display": "Omni-Diffusion",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Omni-Diffusion",
+  "family:omni-diffusion",
+  "misc",
+  "multimodal_models",
+  "omni-diffusion"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "omni-diffusion"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://omni-diffusion.github.io/",
+   "host": "omni-diffusion.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/VITA-MLLM/Omni-Diffusion",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lijiang/Omni-Diffusion",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-11",
+  "excerpt": "On 2026-03-11, a dated entry linked Omni-Diffusion's project website, source repository, and Hugging Face model page. Together, these resources establish a public reference point for the project's documentation, implementation, and model access. The dated links alone do not establish the release version, capabilities, or evaluation results."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

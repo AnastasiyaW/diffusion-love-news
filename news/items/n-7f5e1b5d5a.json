@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7f5e1b5d5a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "RetimeGS project page and Hugging Face resource were linked",
+ "summary": "On 2026-03-18, a RetimeGS development-line message linked the project's public page and a Hugging Face destination. This records the public surfacing of RetimeGS resources on that date. The available evidence does not establish a specific release version, artifact, result, or capability.",
+ "research_notes": "",
+ "project": {
+  "name": "RetimeGS",
+  "family_slug": "retimegs",
+  "family_display": "RetimeGS",
+  "model_slug": "retimegs",
+  "model_display": "RetimeGS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RetimeGS",
+  "family:retimegs",
+  "misc",
+  "retimegs"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "retimegs"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://william-wang2.github.io/RetimeGS/",
+   "host": "william-wang2.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-18",
+  "excerpt": "On 2026-03-18, a RetimeGS development-line message linked the project's public page and a Hugging Face destination. This records the public surfacing of RetimeGS resources on that date. The available evidence does not establish a specific release version, artifact, result, or capability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-faa53b79d3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax H3 Hybrid Hugging Face repository recorded",
+ "summary": "On 2026-08-17, the MiniMax H3 Hybrid development line recorded a link to the Hugging Face repository smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models. The sealed evidence establishes the dated repository reference only; it does not establish the model contents, revision, or release details.",
+ "research_notes": "",
+ "project": {
+  "name": "MiniMax H3 Hybrid",
+  "family_slug": "minimax-h3-fl2va-ref2va-hybrid-models",
+  "family_display": "Minimax H3 Fl2Va Ref2Va Hybrid Models",
+  "model_slug": "minimax-h3-fl2va-ref2va-hybrid-models",
+  "model_display": "MiniMax H3 Hybrid",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax H3 Hybrid",
+  "family:minimax-h3-fl2va-ref2va-hybrid-models",
+  "minimax-h3-fl2va-ref2va-hybrid-models",
+  "misc",
+  "smhfacct/minimax-h3-fl2va-ref2va-hybrid-models"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-h3-fl2va-ref2va-hybrid-models"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, the MiniMax H3 Hybrid development line recorded a link to the Hugging Face repository smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models. The sealed evidence establishes the dated repository reference only; it does not establish the model contents, revision, or release details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

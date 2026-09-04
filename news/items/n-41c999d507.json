@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI_SenseNova_U1",
   "family_slug": "sensenova",
-  "family_display": "ComfyUI_SenseNova_U1",
+  "family_display": "SenseNova",
   "model_slug": "comfyui-sensenova-u1",
   "model_display": "ComfyUI_SenseNova_U1",
   "version": null,

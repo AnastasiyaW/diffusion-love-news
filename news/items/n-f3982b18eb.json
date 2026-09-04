@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f3982b18eb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Perceptron Mk1 public introduction",
+ "summary": "On 2026-05-14, Perceptron Mk1 was presented through a public introduction page. The dated record also links to a demo, documentation, and an OpenRouter model page, making this a material public development milestone. These links alone do not establish the model's capabilities, technical design, or access terms.",
+ "research_notes": "",
+ "project": {
+  "name": "Perceptron Mk1",
+  "family_slug": "perceptron-mk1",
+  "family_display": "Perceptron Mk1",
+  "model_slug": "perceptron-mk1",
+  "model_display": "Perceptron Mk1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Perceptron Mk1",
+  "family:perceptron-mk1",
+  "misc",
+  "perceptron-mk1",
+  "perceptron_mk1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "perceptron-mk1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.perceptron.inc/blog/introducing-perceptron-mk1",
+   "host": "perceptron.inc",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.perceptron.inc/demo",
+   "host": "perceptron.inc",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.perceptron.inc/",
+   "host": "docs.perceptron.inc",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://openrouter.ai/perceptron/perceptron-mk1",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-14",
+  "excerpt": "On 2026-05-14, Perceptron Mk1 was presented through a public introduction page. The dated record also links to a demo, documentation, and an OpenRouter model page, making this a material public development milestone. These links alone do not establish the model's capabilities, technical design, or access terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

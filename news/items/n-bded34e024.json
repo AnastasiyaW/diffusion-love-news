@@ -10,7 +10,7 @@
  "project": {
   "name": "Gemopus-4-26B-A4B-it",
   "family_slug": "gemopus",
-  "family_display": "Gemopus-4-26B-A4B-it",
+  "family_display": "Gemopus",
   "model_slug": "gemopus-4-26b",
   "model_display": "Gemopus-4-26B",
   "version": null,

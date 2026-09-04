@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6705e4929b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LuxTTS project resources were recorded",
+ "summary": "On 2026-03-17, the LuxTTS development line recorded links to its GitHub repository, Hugging Face model page, Hugging Face Space, Colab notebook, and Pinokio page. This makes the project’s source, model, demo, notebook, and installation references available together as a dated historical record.",
+ "research_notes": "",
+ "project": {
+  "name": "LuxTTS",
+  "family_slug": "luxtts",
+  "family_display": "LuxTTS",
+  "model_slug": "luxtts",
+  "model_display": "LuxTTS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LuxTTS",
+  "family:luxtts",
+  "luxtts",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "luxtts"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ysharma3501/LuxTTS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/YatharthS/LuxTTS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/YatharthS/LuxTTS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "colab",
+   "url": "https://colab.research.google.com/drive/1cDaxtbSDLRmu6tRV_781Of_GSjHSo1Cu?usp=sharing",
+   "host": "colab.research.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://pinokio.co/item.html?uri=https%3A%2F%2Fgithub.com%2FTeletambe%2FLuxTTS&parent_frame=https%3A%2F%2Fyandex.ru%2F",
+   "host": "pinokio.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-17",
+  "excerpt": "On 2026-03-17, the LuxTTS development line recorded links to its GitHub repository, Hugging Face model page, Hugging Face Space, Colab notebook, and Pinokio page. This makes the project’s source, model, demo, notebook, and installation references available together as a dated historical record."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

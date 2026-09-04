@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-fe403ecd72",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "FlashMemory-Deepseek-V4 linked to GitHub and Hugging Face",
+ "summary": "On 2026-06-15, the development record linked FlashMemory-Deepseek-V4 to a GitHub repository and a Hugging Face page. This is a material public-reference step for the project, while the supplied record does not establish its release contents, capabilities, or changes from an earlier version.",
+ "research_notes": "",
+ "project": {
+  "name": "FlashMemory-Deepseek-V4",
+  "family_slug": "flashmemory-deepseek-v4",
+  "family_display": "FlashMemory Deepseek V4",
+  "model_slug": "flashmemory-deepseek-v4",
+  "model_display": "FlashMemory-Deepseek-V4",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FlashMemory-Deepseek-V4",
+  "deepseek_optimizations",
+  "family:flashmemory-deepseek-v4",
+  "flashmemory-deepseek-v4",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "flashmemory-deepseek-v4"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/libertywing/FlashMemory-Deepseek-V4",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/libertywing/FlashMemory-Deepseek-V4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-15",
+  "excerpt": "On 2026-06-15, the development record linked FlashMemory-Deepseek-V4 to a GitHub repository and a Hugging Face page. This is a material public-reference step for the project, while the supplied record does not establish its release contents, capabilities, or changes from an earlier version."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-86023c7979",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SAM2Matting public project resources became available",
+ "summary": "On 2026-07-15, SAM2Matting was presented through linked official project, source-code, model-hosting, and interactive-demo resources. This marks a material public-access step for the project because readers could locate the implementation and evaluate it through the linked resources.",
+ "research_notes": "",
+ "project": {
+  "name": "SAM2Matting",
+  "family_slug": "sam2matting",
+  "family_display": "SAM2Matting",
+  "model_slug": "sam2matting",
+  "model_display": "SAM2Matting",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SAM2Matting",
+  "family:sam2matting",
+  "misc",
+  "sam2matting"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sam2matting"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://henghuiding.com/SAM2Matting/",
+   "host": "henghuiding.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FudanCVL/SAM2Matting",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FudanCVL/SAM2Matting",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/FudanCVL/sam2matting",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-15",
+  "excerpt": "On 2026-07-15, SAM2Matting was presented through linked official project, source-code, model-hosting, and interactive-demo resources. This marks a material public-access step for the project because readers could locate the implementation and evaluate it through the linked resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

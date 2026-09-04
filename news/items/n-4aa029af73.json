@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4aa029af73",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LMX-Omni-52B-Halo was linked to its Hugging Face model repository",
+ "summary": "On 2026-06-12, the record recorded a link to the Hugging Face repository for LMX-Omni-52B-Halo. This establishes the repository as a project artifact by that date, but does not establish its release status, capabilities, licensing, or intended use.",
+ "research_notes": "",
+ "project": {
+  "name": "LMX-Omni-52B-Halo",
+  "family_slug": "lmx-omni-52b-halo",
+  "family_display": "LMX Omni 52B Halo",
+  "model_slug": "lmx-omni-52b-halo",
+  "model_display": "LMX-Omni-52B-Halo",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LMX-Omni-52B-Halo",
+  "family:lmx-omni-52b-halo",
+  "lmx-omni-52b-halo",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lmx-omni-52b-halo"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lemonade-sdk/LMX-Omni-52B-Halo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-12",
+  "excerpt": "On 2026-06-12, the record recorded a link to the Hugging Face repository for LMX-Omni-52B-Halo. This establishes the repository as a project artifact by that date, but does not establish its release status, capabilities, licensing, or intended use."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

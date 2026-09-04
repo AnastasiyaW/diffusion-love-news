@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9e65c4419e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen-Video-Edit was publicly presented with project, code, and model links",
+ "summary": "On 2026-08-18, a dated Qwen-Video-Edit item linked a public project page, a GitHub repository, and a Hugging Face resource. This is a material public-development step because it connects the project to actionable public resources for evaluating and using it.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen-Video-Edit",
+  "family_slug": "qwen-video-edit",
+  "family_display": "Qwen Video Edit",
+  "model_slug": "qwen-video-edit",
+  "model_display": "Qwen-Video-Edit",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen-Video-Edit",
+  "family:qwen-video-edit",
+  "misc",
+  "qwen-video-edit"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-video-edit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://yunpeng1998.github.io/Qwen-Video-Edit-Page/",
+   "host": "yunpeng1998.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/yunpeng1998/Qwen-Video-Edit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/yunpeng1998/Qwen-Video-Edit",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-18",
+  "excerpt": "On 2026-08-18, a dated Qwen-Video-Edit item linked a public project page, a GitHub repository, and a Hugging Face resource. This is a material public-development step because it connects the project to actionable public resources for evaluating and using it."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

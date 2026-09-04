@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-369b74ea1a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Flux2-Klein-9B-Enhanced-Details resource was linked",
+ "summary": "On 2026-03-09, the Flux LoRAs thread linked to the Hugging Face resource for Flux2-Klein-9B-Enhanced-Details. The same dated entry also included two YouTube links and an hf.ru link, marking a public project-related reference point without establishing any specific technical change.",
+ "research_notes": "",
+ "project": {
+  "name": "Flux2-Klein-9B-Enhanced-Details",
+  "family_slug": "flux2-klein-9b-enhanced-details",
+  "family_display": "Flux2 Klein 9B Enhanced Details",
+  "model_slug": "flux2-klein-9b-enhanced-details",
+  "model_display": "Flux2-Klein-9B-Enhanced-Details",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Flux2-Klein-9B-Enhanced-Details",
+  "family:flux2-klein-9b-enhanced-details",
+  "flux-loras",
+  "flux2-klein-9b-enhanced-details",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "flux2-klein-9b-enhanced-details"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/dx8152/Flux2-Klein-9B-Enhanced-Details",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=I5HDM2oZpJ0",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://youtu.be/ZXN6haTJb3I",
+   "host": "youtu.be",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-09",
+  "excerpt": "On 2026-03-09, the Flux LoRAs thread linked to the Hugging Face resource for Flux2-Klein-9B-Enhanced-Details. The same dated entry also included two YouTube links and an hf.ru link, marking a public project-related reference point without establishing any specific technical change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6cdd78c533",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Agents-A1 public project resources were linked",
+ "summary": "On 2026-06-30, a project message linked the Agents-A1 website, GitHub repository, and Hugging Face page. This is a material public-development checkpoint because it directed readers to the project's web, source, and distribution surfaces, although the links alone do not establish a specific release, version, or capability.",
+ "research_notes": "",
+ "project": {
+  "name": "Agents-A1",
+  "family_slug": "agents-a1",
+  "family_display": "Agents A1",
+  "model_slug": "agents-a1",
+  "model_display": "Agents-A1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Agents-A1",
+  "agents-a1",
+  "agents_a1",
+  "family:agents-a1",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "agents-a1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://internscience.github.io/Agents-A1/",
+   "host": "internscience.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/InternScience/Agents-A1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/InternScience/Agents-A1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-30",
+  "excerpt": "On 2026-06-30, a project message linked the Agents-A1 website, GitHub repository, and Hugging Face page. This is a material public-development checkpoint because it directed readers to the project's web, source, and distribution surfaces, although the links alone do not establish a specific release, version, or capability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

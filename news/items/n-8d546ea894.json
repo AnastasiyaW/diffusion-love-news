@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8d546ea894",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LEMAS public project resources were linked",
+ "summary": "On 2026-04-01, the LEMAS development line linked the project's website, GitHub organization, Hugging Face project page, and the LEMAS-TTS and LEMAS-Edit Spaces. This dated link set marks a public project-resource milestone, although the specific release contents and availability of those resources cannot be determined from the supplied evidence.",
+ "research_notes": "",
+ "project": {
+  "name": "LEMAS",
+  "family_slug": "lemas",
+  "family_display": "LEMAS",
+  "model_slug": "lemas",
+  "model_display": "LEMAS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LEMAS",
+  "family:lemas",
+  "lemas",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lemas"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lemas-project.github.io/LEMAS-Project/",
+   "host": "lemas-project.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/LEMAS-Project",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LEMAS-Project",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/LEMAS-Project/LEMAS-TTS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/LEMAS-Project/LEMAS-Edit",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-01",
+  "excerpt": "On 2026-04-01, the LEMAS development line linked the project's website, GitHub organization, Hugging Face project page, and the LEMAS-TTS and LEMAS-Edit Spaces. This dated link set marks a public project-resource milestone, although the specific release contents and availability of those resources cannot be determined from the supplied evidence."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-51a9d6c3d6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "StreamFM project resources were linked",
+ "summary": "On 2026-05-14, StreamFM was linked through an examples site, a GitHub source repository, and a Google Drive folder. Together, these references establish a public project-resource bundle for the line, although they do not establish a versioned release or the contents of the supplementary materials.",
+ "research_notes": "",
+ "project": {
+  "name": "Stream.FM",
+  "family_slug": "stream-fm",
+  "family_display": "Stream.FM",
+  "model_slug": "stream-fm",
+  "model_display": "Stream.FM",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Stream.FM",
+  "family:stream-fm",
+  "misc",
+  "stream-fm",
+  "stream_fm"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "stream-fm"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://sp-uhh.github.io/streamfm_examples/",
+   "host": "sp-uhh.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/sp-uhh/streamfm",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://drive.google.com/drive/folders/1u2QKjGAdxblQVV8-qmifSM9AwhT86LER",
+   "host": "drive.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-14",
+  "excerpt": "On 2026-05-14, StreamFM was linked through an examples site, a GitHub source repository, and a Google Drive folder. Together, these references establish a public project-resource bundle for the line, although they do not establish a versioned release or the contents of the supplementary materials."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

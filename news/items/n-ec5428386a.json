@@ -10,7 +10,7 @@
  "project": {
   "name": "Claude Design",
   "family_slug": "claude",
-  "family_display": "Claude Design",
+  "family_display": "Claude",
   "model_slug": "claude",
   "model_display": "Claude",
   "version": null,

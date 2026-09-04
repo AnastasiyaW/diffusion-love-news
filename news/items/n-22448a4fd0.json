@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-22448a4fd0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "TimeLens2 public project resources were linked",
+ "summary": "On 2026-07-22, a TimeLens2 development-line message linked the public project page, GitHub source repository, Hugging Face collection, and a temporal-grounding Space. This cross-linked public surface represents a material distribution and access step for the project. The available evidence does not establish a specific version, model configuration, or feature claim.",
+ "research_notes": "",
+ "project": {
+  "name": "TimeLens2",
+  "family_slug": "timelens2",
+  "family_display": "TimeLens2",
+  "model_slug": "timelens2",
+  "model_display": "TimeLens2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TimeLens2",
+  "family:timelens2",
+  "misc",
+  "timelens2"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "timelens2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://mcg-nju.github.io/TimeLens2/",
+   "host": "mcg-nju.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/MCG-NJU/TimeLens2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/MCG-NJU/timelens2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/timelens2-8b-temporal-grounding",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, a TimeLens2 development-line message linked the public project page, GitHub source repository, Hugging Face collection, and a temporal-grounding Space. This cross-linked public surface represents a material distribution and access step for the project. The available evidence does not establish a specific version, model configuration, or feature claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "Hermes Agent",
   "family_slug": "hermes",
-  "family_display": "Hermes Agent",
+  "family_display": "Hermes",
   "model_slug": "hermes",
   "model_display": "Hermes",
   "version": null,

@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.6-27B",
   "family_slug": "qwen",
-  "family_display": "Qwen3.6-27B",
+  "family_display": "Qwen",
   "model_slug": "qwen3-6-27b",
   "model_display": "Qwen3.6-27B",
   "version": "27B",

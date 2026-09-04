@@ -10,7 +10,7 @@
  "project": {
   "name": "VR-360-Outpaint-LTX2.3-IC-LoRA",
   "family_slug": "ltx",
-  "family_display": "VR-360-Outpaint-LTX2.3-IC-LoRA",
+  "family_display": "LTX",
   "model_slug": "vr-360-outpaint-ltx2-3-ic",
   "model_display": "VR-360-Outpaint-LTX2.3-IC",
   "version": null,

@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0b1d3c8a99",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "AsymFlow public project resources were linked",
+ "summary": "On 2026-05-15, the AsymFlow development line was represented by links to its project page, technical documentation, a Hugging Face model repository, and an interactive Hugging Face Space. These dated resources indicate a public, usable project presence, although the exact release claims and technical changes cannot be established from the links alone.",
+ "research_notes": "",
+ "project": {
+  "name": "AsymFlow",
+  "family_slug": "asymflow",
+  "family_display": "AsymFlow",
+  "model_slug": "asymflow",
+  "model_display": "AsymFlow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AsymFlow",
+  "asymflow",
+  "family:asymflow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "asymflow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://hanshengchen.com/asymflow/",
+   "host": "hanshengchen.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Lakonik/LakonLab/blob/main/docs/AsymFlow.md",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lakonik/AsymFLUX.2-klein-9B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/Lakonik/AsymFLUX.2-klein",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-15",
+  "excerpt": "On 2026-05-15, the AsymFlow development line was represented by links to its project page, technical documentation, a Hugging Face model repository, and an interactive Hugging Face Space. These dated resources indicate a public, usable project presence, although the exact release claims and technical changes cannot be established from the links alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

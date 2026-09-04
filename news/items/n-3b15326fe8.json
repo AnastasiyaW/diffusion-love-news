@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3b15326fe8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face references for Muse Glimmer 30B were recorded",
+ "summary": "On 2026-08-11, the Muse thread associated Muse Glimmer with three Hugging Face URLs: a model repository named Muse-Glimmer-30B, a page for quantized models based on it, and a Space bearing its name. Together, the dated links document a model page and related quantization and Space references visible by that date. They do not establish the model's release date, capabilities, ownership, or whether the message announced a new change.",
+ "research_notes": "",
+ "project": {
+  "name": "Muse Glimmer",
+  "family_slug": "muse-glimmer",
+  "family_display": "Muse Glimmer",
+  "model_slug": "muse-glimmer",
+  "model_display": "Muse Glimmer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Muse Glimmer",
+  "family:muse-glimmer",
+  "misc",
+  "muse",
+  "muse-glimmer"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "muse-glimmer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3Ameta-models%2FMuse-Glimmer-30B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/akhaliq/Muse-Glimmer-30B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-11",
+  "excerpt": "On 2026-08-11, the Muse thread associated Muse Glimmer with three Hugging Face URLs: a model repository named Muse-Glimmer-30B, a page for quantized models based on it, and a Space bearing its name. Together, the dated links document a model page and related quantization and Space references visible by that date. They do not establish the model's release date, capabilities, ownership, or whether the message announced a new change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

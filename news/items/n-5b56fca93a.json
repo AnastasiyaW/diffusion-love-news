@@ -10,7 +10,7 @@
  "project": {
   "name": "Parakeet-unified-en-0.6b",
   "family_slug": "parakeet",
-  "family_display": "Parakeet-unified-en-0.6b",
+  "family_display": "Parakeet",
   "model_slug": "parakeet",
   "model_display": "Parakeet",
   "version": "0.6b",

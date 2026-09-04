@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-81ebf14eea",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MetaClaw GitHub repository was publicly referenced",
+ "summary": "On 2026-03-19, the MetaClaw development line included a public link to its GitHub repository. This establishes a dated public reference point for the project, but the available evidence does not identify a release, feature, or other specific change.",
+ "research_notes": "",
+ "project": {
+  "name": "MetaClaw",
+  "family_slug": "metaclaw",
+  "family_display": "MetaClaw",
+  "model_slug": "metaclaw",
+  "model_display": "MetaClaw",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MetaClaw",
+  "family:metaclaw",
+  "metaclaw",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "metaclaw"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/aiming-lab/MetaClaw",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-19",
+  "excerpt": "On 2026-03-19, the MetaClaw development line included a public link to its GitHub repository. This establishes a dated public reference point for the project, but the available evidence does not identify a release, feature, or other specific change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

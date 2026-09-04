@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e6413c0a2c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ArtiFixer resources were linked across research, code, and model channels",
+ "summary": "On 2026-06-05, the record recorded links for NVIDIA's ArtiFixer research page, GitHub repository, and Hugging Face model page. Together, these links identify a research, source-code, and model-distribution presence for the project, making the dated record material to its public development history. The links alone do not establish that any resource was first released or changed on that date.",
+ "research_notes": "",
+ "project": {
+  "name": "ArtiFixer",
+  "family_slug": "artifixer",
+  "family_display": "ArtiFixer",
+  "model_slug": "artifixer",
+  "model_display": "ArtiFixer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ArtiFixer",
+  "artifixer",
+  "family:artifixer",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "artifixer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://research.nvidia.com/labs/sil/projects/artifixer/",
+   "host": "research.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/nv-tlabs/artifixer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/ArtiFixer",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-05",
+  "excerpt": "On 2026-06-05, the record recorded links for NVIDIA's ArtiFixer research page, GitHub repository, and Hugging Face model page. Together, these links identify a research, source-code, and model-distribution presence for the project, making the dated record material to its public development history. The links alone do not establish that any resource was first released or changed on that date."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

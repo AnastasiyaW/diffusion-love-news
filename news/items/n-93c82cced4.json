@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-93c82cced4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Realism Enhancer Krea2 model version recorded",
+ "summary": "On 2026-06-29, the record recorded a Civitai link for Realism Enhancer Krea2 with model version ID 3065628. This is proposed as a material history event because it anchors the project to a specific public model-version reference on that date. The available link alone does not establish the model's release status, contents, licensing, or claimed effects.",
+ "research_notes": "",
+ "project": {
+  "name": "Realism Enhancer Krea2",
+  "family_slug": "realism-enhancer-krea2",
+  "family_display": "Realism Enhancer Krea2",
+  "model_slug": "realism-enhancer-krea2",
+  "model_display": "Realism Enhancer Krea2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Realism Enhancer Krea2",
+  "family:realism-enhancer-krea2",
+  "misc",
+  "realism-enhancer-krea2"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "realism-enhancer-krea2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://civitai.red/models/2727284/realism-enhancer-krea2?modelVersionId=3065628",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-29",
+  "excerpt": "On 2026-06-29, the record recorded a Civitai link for Realism Enhancer Krea2 with model version ID 3065628. This is proposed as a material history event because it anchors the project to a specific public model-version reference on that date. The available link alone does not establish the model's release status, contents, licensing, or claimed effects."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

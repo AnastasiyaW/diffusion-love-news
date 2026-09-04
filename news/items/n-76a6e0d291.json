@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-Flux2Klein-Enhancer",
   "family_slug": "comfyui-flux2klein-enhancer",
-  "family_display": "ComfyUI-Flux2Klein-Enhancer",
+  "family_display": "ComfyUI Flux2Klein Enhancer",
   "model_slug": null,
   "model_display": null,
   "version": null,
@@ -59,8 +59,7 @@
   "origin": null,
   "license": "open",
   "year": 2026,
-  "models": [
-  ],
+  "models": [],
   "adaptations": []
  },
  "links": [

@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-49f80a3add",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Whisper-Podlodka-Turbo Hugging Face repository was linked",
+ "summary": "On 2026-06-25, a dated project message linked the Hugging Face repository for Whisper-Podlodka-Turbo. The direct project-artifact link makes this a material record in the development line, although the available evidence does not establish the model version, capabilities, release status, or changes.",
+ "research_notes": "",
+ "project": {
+  "name": "Whisper-Podlodka-Turbo",
+  "family_slug": "whisper-podlodka-turbo",
+  "family_display": "Whisper Podlodka Turbo",
+  "model_slug": "whisper-podlodka-turbo",
+  "model_display": "Whisper-Podlodka-Turbo",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Whisper-Podlodka-Turbo",
+  "family:whisper-podlodka-turbo",
+  "misc",
+  "whisper-podlodka-turbo"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "whisper-podlodka-turbo"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/bond005/whisper-podlodka-turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-25",
+  "excerpt": "On 2026-06-25, a dated project message linked the Hugging Face repository for Whisper-Podlodka-Turbo. The direct project-artifact link makes this a material record in the development line, although the available evidence does not establish the model version, capabilities, release status, or changes."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

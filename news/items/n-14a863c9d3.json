@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.3",
+ "id": "n-14a863c9d3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Anthropic Published a Fable and Mythos Access Notice",
+ "summary": "On 2026-06-13, Anthropic published an official access notice involving Fable and Mythos. The sealed regulatory-actions classification indicates a material access-policy event, but its precise decision, scope, and rationale cannot be established from the URL alone.",
+ "research_notes": "A US directive caused Anthropic to suspend Fable 5 and Mythos 5 access while leaving other models unaffected.",
+ "project": {
+  "name": "Anthropic",
+  "family_slug": "anthropic",
+  "family_display": "Anthropic",
+  "model_slug": "anthropic",
+  "model_display": "Anthropic",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Anthropic",
+  "anthropic",
+  "anthropic_450m_funding",
+  "anthropic_claude_connections",
+  "anthropic_sleeper_agents",
+  "blender-development-fund",
+  "claude",
+  "family:anthropic",
+  "misc",
+  "regulatory_actions"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anthropic"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.anthropic.com/news/fable-mythos-access",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-13",
+  "excerpt": "On 2026-06-13, Anthropic published an official access notice involving Fable and Mythos. The sealed regulatory-actions classification indicates a material access-policy event, but its precise decision, scope, and rationale cannot be established from the URL alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

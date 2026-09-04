@@ -1,0 +1,111 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1651c3d215",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Jina AI publicized jina-embeddings-v5-omni",
+ "summary": "On 2026-05-13, linked public materials identified jina-embeddings-v5-omni as a Jina AI embedding-model development centered on indexing multiple media types in one index. The linked Elastic article, Hugging Face collection, ModelScope organization page, and WebGPU demo indicate public documentation and availability surfaces associated with the model at that time. Exact launch claims and technical specifications require verification before publication.",
+ "research_notes": "",
+ "project": {
+  "name": "jina-embeddings-v5-omni",
+  "family_slug": "jina-embeddings-v5-omni",
+  "family_display": "jina embeddings v5 omni",
+  "model_slug": "jina-embeddings-v5-omni",
+  "model_display": "jina-embeddings-v5-omni",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:jina-embeddings-v5-omni",
+  "jina-embeddings-v5-omni",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "jina-embeddings-v5-omni"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.elastic.co/search-labs/blog/jina-embeddings-v5-omni-all-media-one-index",
+   "host": "elastic.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/jinaai/jina-embeddings-v5-omni",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://modelscope.ai/organization/jinaai",
+   "host": "modelscope.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/shreyask/jina-omni-webgpu",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "On 2026-05-13, linked public materials identified jina-embeddings-v5-omni as a Jina AI embedding-model development centered on indexing multiple media types in one index. The linked Elastic article, Hugging Face collection, ModelScope organization page, and WebGPU demo indicate public documentation and availability surfaces associated with the model at that time. Exact launch claims and technical specifications require verification before publication."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

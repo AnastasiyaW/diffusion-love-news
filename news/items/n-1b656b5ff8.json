@@ -10,7 +10,7 @@
  "project": {
   "name": "Multi-User LLM Agent",
   "family_slug": "multi-user-agents",
-  "family_display": "Multi-User LLM Agent",
+  "family_display": "Multi User Agents",
   "model_slug": "multi-user-llm-agent",
   "model_display": "Multi-User LLM Agent",
   "version": null,

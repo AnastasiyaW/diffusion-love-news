@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5d5fa885b6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DreamVideo-Omni project resources were shared",
+ "summary": "On 2026-03-15, a DreamVideo-Omni message pointed readers to the project website and to a Hugging Face link. This establishes a dated public reference for the project, while the supplied evidence does not establish the contents or release status of the linked resource.",
+ "research_notes": "",
+ "project": {
+  "name": "DreamVideo-Omni",
+  "family_slug": "dreamvideo-omni",
+  "family_display": "DreamVideo Omni",
+  "model_slug": "dreamvideo-omni",
+  "model_display": "DreamVideo-Omni",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DreamVideo-Omni",
+  "dreamvideo-omni",
+  "dreamvideo_omni",
+  "family:dreamvideo-omni",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dreamvideo-omni"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://dreamvideo-omni.github.io/",
+   "host": "dreamvideo-omni.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-15",
+  "excerpt": "On 2026-03-15, a DreamVideo-Omni message pointed readers to the project website and to a Hugging Face link. This establishes a dated public reference for the project, while the supplied evidence does not establish the contents or release status of the linked resource."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

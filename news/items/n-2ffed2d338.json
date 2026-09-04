@@ -10,7 +10,7 @@
  "project": {
   "name": "Realtime TTS-2",
   "family_slug": "realtime-tts",
-  "family_display": "Realtime TTS-2",
+  "family_display": "Realtime TTS",
   "model_slug": "realtime-tts-2",
   "model_display": "Realtime TTS-2",
   "version": "2",

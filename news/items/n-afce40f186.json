@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.3",
+ "id": "n-afce40f186",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SuperSplat expanded its workflow for interactive splat applications",
+ "summary": "On 2026-07-15, SuperSplat’s development line linked a PlayCanvas announcement about building splat applications alongside example scenes, a demonstration, a video, and the Splat Transform v3.0.0 release. Together, these dated links indicate a meaningful step toward creating and transforming interactive Gaussian-splat experiences. The exact feature scope and relationship among the linked resources cannot be confirmed from the record alone.",
+ "research_notes": "",
+ "project": {
+  "name": "SuperSplat",
+  "family_slug": "supersplat",
+  "family_display": "SuperSplat",
+  "model_slug": "supersplat",
+  "model_display": "SuperSplat",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SuperSplat",
+  "family:supersplat",
+  "misc",
+  "supersplat"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "supersplat"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://blog.playcanvas.com/new-in-supersplat-vibe-code-splat-apps/",
+   "host": "blog.playcanvas.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://superspl.at/scene/7e1bd643",
+   "host": "superspl.at",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://willeastcott.github.io/snowglobe/",
+   "host": "willeastcott.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=6oGjT8eubMc",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/playcanvas/splat-transform/releases/tag/v3.0.0",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-15",
+  "excerpt": "On 2026-07-15, SuperSplat’s development line linked a PlayCanvas announcement about building splat applications alongside example scenes, a demonstration, a video, and the Splat Transform v3.0.0 release. Together, these dated links indicate a meaningful step toward creating and transforming interactive Gaussian-splat experiences. The exact feature scope and relationship among the linked resources cannot be confirmed from the record alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

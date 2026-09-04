@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-cf8c575ede",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SCoPE project resources were linked",
+ "summary": "On 2026-08-14, a SCoPE record linked its project site, TencentARC source repository, and Hugging Face page. Together, these links provided public entry points for project information, source code, and model-hosting materials. They do not establish a release date, version, authorship, or capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "SCoPE",
+  "family_slug": "scope",
+  "family_display": "SCoPE",
+  "model_slug": "scope",
+  "model_display": "SCoPE",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SCoPE",
+  "family:scope",
+  "misc",
+  "scope"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "scope"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://visual-ai.github.io/scope/",
+   "host": "visual-ai.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/TencentARC/SCoPE",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/TencentARC/SCoPE",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-14",
+  "excerpt": "On 2026-08-14, a SCoPE record linked its project site, TencentARC source repository, and Hugging Face page. Together, these links provided public entry points for project information, source code, and model-hosting materials. They do not establish a release date, version, authorship, or capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

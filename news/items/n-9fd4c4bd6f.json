@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9fd4c4bd6f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UnitySplats public project references",
+ "summary": "On 2026-07-26, UnitySplats was associated with a public GitHub repository and an Arloopa experience page. Together, those dated references establish a public development reference point for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "UnitySplats",
+  "family_slug": "unitysplats",
+  "family_display": "UnitySplats",
+  "model_slug": "unitysplats",
+  "model_display": "UnitySplats",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UnitySplats",
+  "family:unitysplats",
+  "misc",
+  "unitysplats"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "unitysplats"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/arloopa/UnitySplats",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.arloopa.com/experiences/6a54ae01541fb36254ae855a",
+   "host": "arloopa.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-26",
+  "excerpt": "On 2026-07-26, UnitySplats was associated with a public GitHub repository and an Arloopa experience page. Together, those dated references establish a public development reference point for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b977739627",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Zeta-Chroma base-model artifact recorded",
+ "summary": "On 2026-03-18, the Zeta-Chroma development line recorded a link to a Safetensors artifact in the project's Hugging Face repository. Linked social and repository-discussion URLs associate the item with the same project line. The supplied links do not establish the artifact's capabilities, training, licensing, or release terms.",
+ "research_notes": "",
+ "project": {
+  "name": "Zeta-Chroma",
+  "family_slug": "zeta-chroma",
+  "family_display": "Zeta Chroma",
+  "model_slug": "zeta-chroma",
+  "model_display": "Zeta-Chroma",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Zeta-Chroma",
+  "family:zeta-chroma",
+  "misc",
+  "zeta-chroma"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "zeta-chroma"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lodestones/Zeta-Chroma/blob/main/zeta-chroma-base-x0-pixel-dino-distance.safetensors",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://x.com/LodestoneRock/status/2034117781776699784",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/lodestones/Zeta-Chroma/discussions/9",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-18",
+  "excerpt": "On 2026-03-18, the Zeta-Chroma development line recorded a link to a Safetensors artifact in the project's Hugging Face repository. Linked social and repository-discussion URLs associate the item with the same project line. The supplied links do not establish the artifact's capabilities, training, licensing, or release terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

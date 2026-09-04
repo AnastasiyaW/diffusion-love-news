@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d83223a468",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3.6-34B-80L-Fable-5-Heretic model page recorded on Hugging Face",
+ "summary": "On 2026-06-29, a Hugging Face model page for Qwen3.6-34B-80L-Fable-5-Heretic was linked. A companion Hugging Face search link associated the model name with a quantized-base-model filter. This is a distribution milestone for the project, while its contents, authorship, release details, and technical changes remain unverified.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.6-34B-80L-Fable-5-Heretic",
+  "family_slug": "qwen3-6-34b-80l-fable-5-heretic",
+  "family_display": "Qwen3.6 34B 80L Fable 5 Heretic",
+  "model_slug": "qwen3-6-34b-80l-fable-5-heretic",
+  "model_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.6-34B-80L-Fable-5-Heretic",
+  "family:qwen3-6-34b-80l-fable-5-heretic",
+  "misc",
+  "qwen3-6-34b-80l-fable-5-heretic"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-6-34b-80l-fable-5-heretic"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/hiebo/Qwen3.6-34B-80L-Fable-5-Heretic",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3Ahiebo%2FQwen3.6-34B-80L-Fable-5-Heretic",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-29",
+  "excerpt": "On 2026-06-29, a Hugging Face model page for Qwen3.6-34B-80L-Fable-5-Heretic was linked. A companion Hugging Face search link associated the model name with a quantized-base-model filter. This is a distribution milestone for the project, while its contents, authorship, release details, and technical changes remain unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

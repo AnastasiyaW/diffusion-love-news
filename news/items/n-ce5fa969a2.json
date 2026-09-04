@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ce5fa969a2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "dots.mocr project resources were linked",
+ "summary": "On 2026-03-22, a dated message linked the dots.mocr GitHub repository, two Hugging Face resources, and a project website. This establishes a public reference point in the project's development line, including a separately linked SVG-related resource. The underlying post content and the nature of any release or update were not provided, so this record does not assert capabilities, versions, or performance.",
+ "research_notes": "",
+ "project": {
+  "name": "dots.mocr",
+  "family_slug": "dots-mocr",
+  "family_display": "dots.mocr",
+  "model_slug": "dots-mocr",
+  "model_display": "dots.mocr",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "dots-mocr",
+  "dots.mocr",
+  "family:dots-mocr",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dots-mocr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/rednote-hilab/dots.mocr",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/rednote-hilab/dots.mocr",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/rednote-hilab/dots.mocr-svg",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://dotsocr.xiaohongshu.com/",
+   "host": "dotsocr.xiaohongshu.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-22",
+  "excerpt": "On 2026-03-22, a dated message linked the dots.mocr GitHub repository, two Hugging Face resources, and a project website. This establishes a public reference point in the project's development line, including a separately linked SVG-related resource. The underlying post content and the nature of any release or update were not provided, so this record does not assert capabilities, versions, or performance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c969bb3002",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Pulse of Motion project resources were published",
+ "summary": "On 2026-03-29, Pulse of Motion was associated with a public project site, source repositories, a model resource, and a leaderboard link. Taken together, these linked resources indicate a material public project milestone, although the exact release claims and version are not established by the sealed evidence alone.",
+ "research_notes": "",
+ "project": {
+  "name": "Pulse of Motion",
+  "family_slug": "pulse-of-motion",
+  "family_display": "Pulse of Motion",
+  "model_slug": "pulse-of-motion",
+  "model_display": "Pulse of Motion",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Pulse of Motion",
+  "family:pulse-of-motion",
+  "misc",
+  "pulse-of-motion"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pulse-of-motion"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://xiangbogaobarry.github.io/Pulse-of-Motion/",
+   "host": "xiangbogaobarry.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FoundationVision/InfinityStar",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/taco-group/Pulse-of-Motion",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/xiangbog/Visual_Chronometer/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.pulse-of-motion-leaderboard.com/leaderboard",
+   "host": "pulse-of-motion-leaderboard.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-29",
+  "excerpt": "On 2026-03-29, Pulse of Motion was associated with a public project site, source repositories, a model resource, and a leaderboard link. Taken together, these linked resources indicate a material public project milestone, although the exact release claims and version are not established by the sealed evidence alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

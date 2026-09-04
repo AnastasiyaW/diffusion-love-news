@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ef5357108f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Volumography website referenced in launch thread",
+ "summary": "On 2026-04-08, a message in the Volumography launch thread linked to the Volumography website. The available evidence establishes only that this project link was shared on that date; it does not establish a product launch, feature release, or other capability claim.",
+ "research_notes": "",
+ "project": {
+  "name": "Volumography",
+  "family_slug": "volumography",
+  "family_display": "Volumography",
+  "model_slug": "volumography",
+  "model_display": "Volumography",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Volumography",
+  "family:volumography",
+  "misc",
+  "volumography",
+  "volumography_launch"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "volumography"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://volumography.com/",
+   "host": "volumography.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-08",
+  "excerpt": "On 2026-04-08, a message in the Volumography launch thread linked to the Volumography website. The available evidence establishes only that this project link was shared on that date; it does not establish a product launch, feature release, or other capability claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

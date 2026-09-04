@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-49a53e09e5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face repository associated with Qwen3.8-27B-Uncensored-MLX",
+ "summary": "On 2026-08-23, this development line included a link to the Hugging Face repository for Qwen3.8-27B-Uncensored-MLX. The dated link records a public project reference, but does not establish the repository contents, release status, or any specific model changes.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-27B-Uncensored-MLX",
+  "family_slug": "qwen3-8-27b-uncensored-mlx",
+  "family_display": "Qwen3.8 27B Uncensored MLX",
+  "model_slug": "qwen3-8-27b-uncensored-mlx",
+  "model_display": "Qwen3.8-27B-Uncensored-MLX",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-27B-Uncensored-MLX",
+  "family:qwen3-8-27b-uncensored-mlx",
+  "misc",
+  "qwen3-8-27b-uncensored-mlx",
+  "qwen3_8_uncensored_mlx"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-27b-uncensored-mlx"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-23",
+  "excerpt": "On 2026-08-23, this development line included a link to the Hugging Face repository for Qwen3.8-27B-Uncensored-MLX. The dated link records a public project reference, but does not establish the repository contents, release status, or any specific model changes."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

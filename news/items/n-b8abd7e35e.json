@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b8abd7e35e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Cream Typer GitHub repository referenced",
+ "summary": "On 2026-06-11, the Cream Typer development line recorded a direct link to the project's GitHub repository. The supplied evidence establishes the repository reference, but provides no source text, release details, or description of a change; this history event therefore does not assert a launch, version, or feature update.",
+ "research_notes": "",
+ "project": {
+  "name": "Cream Typer",
+  "family_slug": "cream-typer",
+  "family_display": "Cream Typer",
+  "model_slug": "cream-typer",
+  "model_display": "Cream Typer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Cream Typer",
+  "cream-typer",
+  "family:cream-typer",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "cream-typer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/adjacentai/cream-typer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-11",
+  "excerpt": "On 2026-06-11, the Cream Typer development line recorded a direct link to the project's GitHub repository. The supplied evidence establishes the repository reference, but provides no source text, release details, or description of a change; this history event therefore does not assert a launch, version, or feature update."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

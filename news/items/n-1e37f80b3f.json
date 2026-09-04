@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1e37f80b3f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Alibaba development line recorded a Latent-to-Pixel paper",
+ "summary": "On 2026-08-23, the Alibaba development line recorded a link to a Latent-to-Pixel paper. This is treated as a material research checkpoint in the generative-model line, rather than as a product-release claim. The supplied evidence does not establish the original post's wording, authorship, technical claims, or availability.",
+ "research_notes": "",
+ "project": {
+  "name": "Alibaba",
+  "family_slug": "alibaba",
+  "family_display": "Alibaba",
+  "model_slug": "alibaba",
+  "model_display": "Alibaba",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Alibaba",
+  "alibaba",
+  "alibaba:mofusion",
+  "alibaba_latent_to_pixel",
+  "family:alibaba",
+  "humanomniv2",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "alibaba"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2608.16887",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-23",
+  "excerpt": "On 2026-08-23, the Alibaba development line recorded a link to a Latent-to-Pixel paper. This is treated as a material research checkpoint in the generative-model line, rather than as a product-release claim. The supplied evidence does not establish the original post's wording, authorship, technical claims, or availability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

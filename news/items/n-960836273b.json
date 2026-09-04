@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-960836273b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ShotVerse public project references were shared",
+ "summary": "On 2026-03-14, ShotVerse was referenced with links to its project website, GitHub repository, and a Hugging Face destination. Together, these links establish a dated public reference point for the project and its associated resources.",
+ "research_notes": "",
+ "project": {
+  "name": "ShotVerse",
+  "family_slug": "shotverse",
+  "family_display": "ShotVerse",
+  "model_slug": "shotverse",
+  "model_display": "ShotVerse",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ShotVerse",
+  "family:shotverse",
+  "misc",
+  "shotverse"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "shotverse"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://shotverse.github.io/",
+   "host": "shotverse.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Songlin1998/ShotVerse",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-14",
+  "excerpt": "On 2026-03-14, ShotVerse was referenced with links to its project website, GitHub repository, and a Hugging Face destination. Together, these links establish a dated public reference point for the project and its associated resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

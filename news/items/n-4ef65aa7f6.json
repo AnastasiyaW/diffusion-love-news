@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4ef65aa7f6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "FINAL-Bench published the POCKET-35B-GGUF model line",
+ "summary": "On 2026-07-27, FINAL-Bench made POCKET-35B-GGUF publicly available through its model page. The dated links also indicate a CPU-oriented demo space and inclusion in the Pocket Models collection, marking a concrete distribution step for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "POCKET-35B-GGUF",
+  "family_slug": "pocket-35b-gguf",
+  "family_display": "POCKET 35B GGUF",
+  "model_slug": "pocket-35b-gguf",
+  "model_display": "POCKET-35B-GGUF",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "POCKET-35B-GGUF",
+  "family:pocket-35b-gguf",
+  "misc",
+  "pocket-35b-gguf",
+  "pocket_models"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pocket-35b-gguf"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FINAL-Bench/POCKET-35B-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/FINAL-Bench/POCKET-35B-CPU",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/FINAL-Bench/pocket-models",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-27",
+  "excerpt": "On 2026-07-27, FINAL-Bench made POCKET-35B-GGUF publicly available through its model page. The dated links also indicate a CPU-oriented demo space and inclusion in the Pocket Models collection, marking a concrete distribution step for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

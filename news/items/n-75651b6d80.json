@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-75651b6d80",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Lightricks published an LTX-2.3 IC-LoRA Ingredients model page",
+ "summary": "On 2026-06-19, a Hugging Face model page for Lightricks' LTX-2.3-22B IC-LoRA Ingredients was recorded in this development line. The dated link establishes a distinct LTX-2.3 model artifact, but the supplied evidence does not establish its release notes, capabilities, or recommended workflow.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX-2.3 IC-LoRA Ingredients",
+  "family_slug": "ltx-2-3-ic-lora-ingredients",
+  "family_display": "LTX 2.3 IC LoRA Ingredients",
+  "model_slug": "ltx-2-3-ic-lora-ingredients",
+  "model_display": "LTX-2.3 IC-LoRA Ingredients",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3 IC-LoRA Ingredients",
+  "family:ltx-2-3-ic-lora-ingredients",
+  "ltx-2-3-ic-lora-ingredients",
+  "ltx_2_3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx-2-3-ic-lora-ingredients"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Ingredients",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-19",
+  "excerpt": "On 2026-06-19, a Hugging Face model page for Lightricks' LTX-2.3-22B IC-LoRA Ingredients was recorded in this development line. The dated link establishes a distinct LTX-2.3 model artifact, but the supplied evidence does not establish its release notes, capabilities, or recommended workflow."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-60ec620b9e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenResearcher project, model checkpoint, and demo were made available",
+ "summary": "On 2026-03-25, OpenResearcher was presented through a GitHub project repository, an OpenResearcher-30B-A3B Hugging Face model page, and a Hugging Face Space. Together, these linked resources mark a material public availability step for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "OpenResearcher",
+  "family_slug": "openresearcher",
+  "family_display": "OpenResearcher",
+  "model_slug": "openresearcher",
+  "model_display": "OpenResearcher",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenResearcher",
+  "family:openresearcher",
+  "misc",
+  "openresearcher"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "openresearcher"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/TIGER-AI-Lab/OpenResearcher",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/OpenResearcher/OpenResearcher-30B-A3B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/OpenResearcher/OpenResearcher",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-25",
+  "excerpt": "On 2026-03-25, OpenResearcher was presented through a GitHub project repository, an OpenResearcher-30B-A3B Hugging Face model page, and a Hugging Face Space. Together, these linked resources mark a material public availability step for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-eaa0dc5be8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ShutterMuse public project links were shared",
+ "summary": "On 2026-07-03, ShutterMuse was referenced with a project website, a GitHub repository, and a Hugging Face page. The supplied links establish a public presence for the project across a site, source repository, and model-distribution venue. They do not establish a specific release, version, capability, or technical result.",
+ "research_notes": "",
+ "project": {
+  "name": "ShutterMuse",
+  "family_slug": "shuttermuse",
+  "family_display": "ShutterMuse",
+  "model_slug": "shuttermuse",
+  "model_display": "ShutterMuse",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ShutterMuse",
+  "family:shuttermuse",
+  "misc",
+  "shuttermuse"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "shuttermuse"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lijayutnt.github.io/ShutterMuse/",
+   "host": "lijayutnt.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/lijayuTnT/ShutterMuse",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ShutterMuse/ShutterMuse",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-03",
+  "excerpt": "On 2026-07-03, ShutterMuse was referenced with a project website, a GitHub repository, and a Hugging Face page. The supplied links establish a public presence for the project across a site, source repository, and model-distribution venue. They do not establish a specific release, version, capability, or technical result."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

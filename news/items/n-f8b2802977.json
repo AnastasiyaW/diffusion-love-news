@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f8b2802977",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Spectrum MiniMax H3 repository was linked",
+ "summary": "On 2026-08-04, the record linked the GitHub repository for ComfyUI Spectrum MiniMax H3. This establishes a dated historical reference to the project, but does not verify a release, feature change, model version, or repository-creation event.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI Spectrum MiniMax H3",
+  "family_slug": "comfyui-spectrum-minimax-h3",
+  "family_display": "ComfyUI Spectrum MiniMax H3",
+  "model_slug": "comfyui-spectrum-minimax-h3",
+  "model_display": "ComfyUI Spectrum MiniMax H3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Spectrum MiniMax H3",
+  "comfyui-spectrum-minimax-h3",
+  "family:comfyui-spectrum-minimax-h3",
+  "minimax_h3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-spectrum-minimax-h3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-04",
+  "excerpt": "On 2026-08-04, the record linked the GitHub repository for ComfyUI Spectrum MiniMax H3. This establishes a dated historical reference to the project, but does not verify a release, feature change, model version, or repository-creation event."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

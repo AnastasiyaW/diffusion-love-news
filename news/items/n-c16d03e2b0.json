@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c16d03e2b0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Video Tiler repository was referenced",
+ "summary": "On 2026-08-05, the recorded link referenced the GitHub repository for ComfyUI Video Tiler. This records the dated public reference to the project only; the sealed evidence does not establish a release, version, feature set, or installation guidance.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI Video Tiler",
+  "family_slug": "comfyui-video-tiler",
+  "family_display": "ComfyUI Video Tiler",
+  "model_slug": "comfyui-video-tiler",
+  "model_display": "ComfyUI Video Tiler",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Video Tiler",
+  "comfyui-video-tiler",
+  "comfyui_video_tiler",
+  "family:comfyui-video-tiler",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-video-tiler"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/maDcaDDie2000/comfyui-video-tiler",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-05",
+  "excerpt": "On 2026-08-05, the recorded link referenced the GitHub repository for ComfyUI Video Tiler. This records the dated public reference to the project only; the sealed evidence does not establish a release, version, feature set, or installation guidance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

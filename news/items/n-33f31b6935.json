@@ -10,7 +10,7 @@
  "project": {
   "name": "MOSS-Audio-8B-Thinking",
   "family_slug": "moss-audio",
-  "family_display": "MOSS-Audio",
+  "family_display": "MOSS Audio",
   "model_slug": "moss-audio-8b-thinking",
   "model_display": "MOSS-Audio-8B-Thinking",
   "version": null,

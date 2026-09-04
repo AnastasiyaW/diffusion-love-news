@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-868a3aaeef",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Canon UltraReal was publicly listed on Civitai and Hugging Face",
+ "summary": "On 2026-07-19, Canon UltraReal was linked to public model pages on Civitai and Hugging Face. This is a dated public distribution-listing milestone for the project, but the supplied evidence does not establish a version, weight change, release notes, or the contents of the original message.",
+ "research_notes": "",
+ "project": {
+  "name": "Canon UltraReal",
+  "family_slug": "canon-ultrareal",
+  "family_display": "Canon UltraReal",
+  "model_slug": "canon-ultrareal",
+  "model_display": "Canon UltraReal",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Canon UltraReal",
+  "canon-ultrareal",
+  "family:canon-ultrareal",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "canon-ultrareal"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://civitai.red/models/2783143/canon-ultrareal",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Danrisi/Canon_UltraReal",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-19",
+  "excerpt": "On 2026-07-19, Canon UltraReal was linked to public model pages on Civitai and Hugging Face. This is a dated public distribution-listing milestone for the project, but the supplied evidence does not establish a version, weight change, release notes, or the contents of the original message."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

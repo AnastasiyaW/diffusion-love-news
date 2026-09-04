@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7e2c33bcb6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Model Installer GitHub repository referenced",
+ "summary": "On 2026-03-23, the ComfyUI Model Installer development line included a link to its GitHub repository. This records the project’s public source location in the history; the supplied evidence does not establish a release, feature change, or installation outcome.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI Model Installer",
+  "family_slug": "comfyui-model-installer",
+  "family_display": "ComfyUI Model Installer",
+  "model_slug": "comfyui-model-installer",
+  "model_display": "ComfyUI Model Installer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Model Installer",
+  "comfyui-model-installer",
+  "family:comfyui-model-installer",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-model-installer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/arleckk/ComfyUI-Model-Installer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-23",
+  "excerpt": "On 2026-03-23, the ComfyUI Model Installer development line included a link to its GitHub repository. This records the project’s public source location in the history; the supplied evidence does not establish a release, feature change, or installation outcome."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

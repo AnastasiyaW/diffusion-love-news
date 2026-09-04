@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-984ac0ee00",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "A Civitai model page was referenced for UltraReal - KREA2 Klein9b",
+ "summary": "On 2026-07-04, this development line recorded a link to a Civitai model page for UltraReal - KREA2 Klein9b. The available evidence establishes the dated public-model reference, but not whether it announced a release, update, or other activity.",
+ "research_notes": "",
+ "project": {
+  "name": "UltraReal - KREA2 LoRA",
+  "family_slug": "ultrareal-krea2",
+  "family_display": "UltraReal KREA2",
+  "model_slug": "ultrareal-krea2",
+  "model_display": "UltraReal - KREA2 LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UltraReal - KREA2 LoRA",
+  "family:ultrareal-krea2",
+  "krea2-loras",
+  "misc",
+  "ultrareal-krea2"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ultrareal-krea2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://civitai.red/models/2462105/ultra-real-krea2-klein9b",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-04",
+  "excerpt": "On 2026-07-04, this development line recorded a link to a Civitai model page for UltraReal - KREA2 Klein9b. The available evidence establishes the dated public-model reference, but not whether it announced a release, update, or other activity."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

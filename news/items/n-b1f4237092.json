@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen variants",
   "family_slug": "qwen",
-  "family_display": "Qwen variants",
+  "family_display": "Qwen",
   "model_slug": "qwen",
   "model_display": "Qwen",
   "version": null,

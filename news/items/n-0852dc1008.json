@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0852dc1008",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SeedDance 2.5 was promoted through BytePlus Ark",
+ "summary": "On 2026-06-23, a BytePlus Ark promotion link identified SeedDance 2.5 by model name. This is a material public-facing development step for the project, though the dated links alone do not establish its release details, capabilities, or availability terms.",
+ "research_notes": "",
+ "project": {
+  "name": "SeedDance",
+  "family_slug": "seeddance",
+  "family_display": "SeedDance",
+  "model_slug": "seeddance",
+  "model_display": "SeedDance",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SeedDance",
+  "family:seeddance",
+  "misc",
+  "seeddance"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seeddance"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ai.byteplus.com/ark/promotion?modelName=seedance-2-5",
+   "host": "ai.byteplus.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-23",
+  "excerpt": "On 2026-06-23, a BytePlus Ark promotion link identified SeedDance 2.5 by model name. This is a material public-facing development step for the project, though the dated links alone do not establish its release details, capabilities, or availability terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

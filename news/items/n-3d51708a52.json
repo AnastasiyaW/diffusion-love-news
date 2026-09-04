@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3d51708a52",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Suno published a Studio 2 update",
+ "summary": "On 2026-08-13, the record linked to Suno's Studio 2 blog page. This is a material development milestone for the Studio line and follows the earlier waitlist-stage reference. The dated links alone do not establish the specific features, release status, or changes described in the update.",
+ "research_notes": "",
+ "project": {
+  "name": "Suno Studio 2.0",
+  "family_slug": "suno-studio",
+  "family_display": "Suno Studio",
+  "model_slug": "suno-studio",
+  "model_display": "Suno Studio 2.0",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Suno Studio 2.0",
+  "family:suno-studio",
+  "misc",
+  "suno",
+  "suno-studio"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "suno-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://suno.com/blog/studio-2",
+   "host": "suno.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-13",
+  "excerpt": "On 2026-08-13, the record linked to Suno's Studio 2 blog page. This is a material development milestone for the Studio line and follows the earlier waitlist-stage reference. The dated links alone do not establish the specific features, release status, or changes described in the update."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

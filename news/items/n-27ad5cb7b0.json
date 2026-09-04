@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-27ad5cb7b0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Covo-Audio-Chat Hugging Face resource recorded",
+ "summary": "On 2026-03-24, the Covo-Audio development line recorded a link to the Hugging Face resource tencent/Covo-Audio-Chat. The dated link establishes an associated public resource, but not its capabilities, version, release status, or change details. This history entry therefore records only that resource association.",
+ "research_notes": "",
+ "project": {
+  "name": "Covo-Audio",
+  "family_slug": "covo-audio",
+  "family_display": "Covo Audio",
+  "model_slug": "covo-audio",
+  "model_display": "Covo-Audio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Covo-Audio",
+  "covo-audio",
+  "covo_audio",
+  "family:covo-audio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "covo-audio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/Covo-Audio-Chat",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-24",
+  "excerpt": "On 2026-03-24, the Covo-Audio development line recorded a link to the Hugging Face resource tencent/Covo-Audio-Chat. The dated link establishes an associated public resource, but not its capabilities, version, release status, or change details. This history entry therefore records only that resource association."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "MegaStyle ComfyUI Nodes",
   "family_slug": "megastyle",
-  "family_display": "MegaStyle ComfyUI Nodes",
+  "family_display": "MegaStyle",
   "model_slug": "megastyle",
   "model_display": "MegaStyle",
   "version": null,

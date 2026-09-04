@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-076b3f0be6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "HeyGen showcased HyperFrames in its builder workflow",
+ "summary": "On 2026-06-20, a dated message connected HyperFrames with a HeyGen community event about the company's builder workflow and with a Claude connector page. Taken together, the links mark a practical workflow and integration milestone for HyperFrames rather than a general mention. The underlying pages and source message were not researched, so the specific functionality, availability, and implementation details remain unconfirmed.",
+ "research_notes": "",
+ "project": {
+  "name": "HyperFrames",
+  "family_slug": "heygen-hyperframes",
+  "family_display": "Heygen Hyperframes",
+  "model_slug": "heygen-hyperframes",
+  "model_display": "HyperFrames",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HyperFrames",
+  "family:heygen-hyperframes",
+  "heygen-hyperframes",
+  "hyperframes",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "heygen-hyperframes"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://claude.com/connectors/hyperframes-heygen",
+   "host": "claude.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://community.heygen.com/public/events/inside-the-builder-workflow-how-we-use-hyperframes-at-heygen-78wylpm1m2",
+   "host": "community.heygen.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-20",
+  "excerpt": "On 2026-06-20, a dated message connected HyperFrames with a HeyGen community event about the company's builder workflow and with a Claude connector page. Taken together, the links mark a practical workflow and integration milestone for HyperFrames rather than a general mention. The underlying pages and source message were not researched, so the specific functionality, availability, and implementation details remain unconfirmed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

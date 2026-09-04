@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b7c4d9268f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Claude Academy Became an Official Learning Resource",
+ "summary": "On 2026-08-21, the record recorded Claude Academy as an official educational resource. The dedicated academy site supports treating this as a development milestone, although its exact launch timing and initial curriculum remain unverified.",
+ "research_notes": "Claude Academy opened free courses, tutorials, and use cases for safe, intentional use.",
+ "project": {
+  "name": "Anthropic",
+  "family_slug": "anthropic",
+  "family_display": "Anthropic",
+  "model_slug": "anthropic",
+  "model_display": "Anthropic",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Anthropic",
+  "anthropic",
+  "anthropic_450m_funding",
+  "anthropic_claude_connections",
+  "anthropic_sleeper_agents",
+  "blender-development-fund",
+  "claude",
+  "family:anthropic",
+  "misc",
+  "regulatory_actions"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anthropic"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://academy.claude.com/",
+   "host": "academy.claude.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-21",
+  "excerpt": "On 2026-08-21, the record recorded Claude Academy as an official educational resource. The dedicated academy site supports treating this as a development milestone, although its exact launch timing and initial curriculum remain unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

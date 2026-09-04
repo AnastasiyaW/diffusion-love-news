@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d6ed6958b0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hunyuan3D-WorldClaw project page recorded",
+ "summary": "On 2026-08-10, Hunyuan3D-WorldClaw was recorded with a link to its public project page. The sealed evidence establishes the date and project URL, but does not establish release details, capabilities, versioning, authorship, or operational status. This history entry therefore records only the dated public project-reference milestone.",
+ "research_notes": "",
+ "project": {
+  "name": "Hunyuan3D-WorldClaw",
+  "family_slug": "hunyuan3d-worldclaw",
+  "family_display": "Hunyuan3D WorldClaw",
+  "model_slug": "hunyuan3d-worldclaw",
+  "model_display": "Hunyuan3D-WorldClaw",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hunyuan3D-WorldClaw",
+  "family:hunyuan3d-worldclaw",
+  "hunyuan3d",
+  "hunyuan3d-worldclaw",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "hunyuan3d-worldclaw"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+   "host": "tencent-hunyuan.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-10",
+  "excerpt": "On 2026-08-10, Hunyuan3D-WorldClaw was recorded with a link to its public project page. The sealed evidence establishes the date and project URL, but does not establish release details, capabilities, versioning, authorship, or operational status. This history entry therefore records only the dated public project-reference milestone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7150bbd771",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "An LTX-2.3 22B IC LoRA for relighting was published",
+ "summary": "On 2026-07-30, a Hugging Face resource named LTX-2.3-22B-IC-LoRA-Relight was linked. This is a material extension of the LTX-2.3 line because it adds a specialized relighting capability through a LoRA resource.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX-2.3",
+  "family_slug": "ltx-video",
+  "family_display": "Ltx Video",
+  "model_slug": "ltx-video",
+  "model_display": "LTX-2.3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3",
+  "family:ltx-video",
+  "ltx-video",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx-video"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Relight",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-30",
+  "excerpt": "On 2026-07-30, a Hugging Face resource named LTX-2.3-22B-IC-LoRA-Relight was linked. This is a material extension of the LTX-2.3 line because it adds a specialized relighting capability through a LoRA resource."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

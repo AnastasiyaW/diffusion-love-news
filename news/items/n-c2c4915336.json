@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c2c4915336",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Marionette public project resources were linked",
+ "summary": "On 2026-08-18, the Marionette development line was represented by links to its project page, source repository, Hugging Face model page, and hosted world-model space. This is a material public-project milestone because it connects the project’s documentation, code, model distribution, and runnable demonstration.",
+ "research_notes": "",
+ "project": {
+  "name": "Marionette",
+  "family_slug": "marionette",
+  "family_display": "Marionette",
+  "model_slug": "marionette",
+  "model_display": "Marionette",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Marionette",
+  "alayalab/marionette",
+  "family:marionette",
+  "marionette",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "marionette"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://alayalab.github.io/Marionette/",
+   "host": "alayalab.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/AlayaLab/Marionette",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AlayaLab/Marionette",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/marionette-world-model",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-18",
+  "excerpt": "On 2026-08-18, the Marionette development line was represented by links to its project page, source repository, Hugging Face model page, and hosted world-model space. This is a material public-project milestone because it connects the project’s documentation, code, model distribution, and runnable demonstration."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

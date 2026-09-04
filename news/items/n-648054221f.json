@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-648054221f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DRIFT project page and repository were linked",
+ "summary": "On 2026-06-04, a dated message associated with DRIFT linked to the DRIFT project page and its GitHub repository. The sealed evidence establishes those resources in the development line, but does not establish a release, version, technical change, or project-launch claim.",
+ "research_notes": "",
+ "project": {
+  "name": "DRIFT",
+  "family_slug": "drift",
+  "family_display": "DRIFT",
+  "model_slug": "drift",
+  "model_display": "DRIFT",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DRIFT",
+  "drift",
+  "family:drift",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "drift"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://nju-link.github.io/DRIFT/",
+   "host": "nju-link.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NJU-LINK/DRIFT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-04",
+  "excerpt": "On 2026-06-04, a dated message associated with DRIFT linked to the DRIFT project page and its GitHub repository. The sealed evidence establishes those resources in the development line, but does not establish a release, version, technical change, or project-launch claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

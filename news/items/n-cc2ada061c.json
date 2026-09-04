@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-cc2ada061c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UniVR project website and source repository were shared",
+ "summary": "On 2026-07-13, links to the UniVR project website and its GitHub repository were recorded in this development line. The dated links establish a public project presence and source location, but do not establish the underlying release, feature scope, or authorship of the post.",
+ "research_notes": "",
+ "project": {
+  "name": "UniVR",
+  "family_slug": "univr",
+  "family_display": "UniVR",
+  "model_slug": "univr",
+  "model_display": "UniVR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UniVR",
+  "family:univr",
+  "misc",
+  "univr"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "univr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://maverickren.github.io/UniVR.github.io/",
+   "host": "maverickren.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/MaverickRen/UniVR.github.io",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-13",
+  "excerpt": "On 2026-07-13, links to the UniVR project website and its GitHub repository were recorded in this development line. The dated links establish a public project presence and source location, but do not establish the underlying release, feature scope, or authorship of the post."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

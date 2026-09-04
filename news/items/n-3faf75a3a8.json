@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3faf75a3a8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Lyria 3 Pro preview access route was recorded",
+ "summary": "On 2026-03-25, a dated entry linked to the Gemini application and to an AI Studio music-generation page whose URL identifies the `lyria-3-pro-preview` model. These links record a preview access route for Lyria 3 Pro, but do not by themselves establish a formal release, its capabilities, or availability conditions.",
+ "research_notes": "",
+ "project": {
+  "name": "Lyria 3 Pro",
+  "family_slug": "lyria-3-pro",
+  "family_display": "Lyria 3 Pro",
+  "model_slug": "lyria-3-pro",
+  "model_display": "Lyria 3 Pro",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Lyria 3 Pro",
+  "family:lyria-3-pro",
+  "lyria-3-pro",
+  "lyria_3_pro",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lyria-3-pro"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://gemini.google.com/app",
+   "host": "gemini.google.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://aistudio.google.com/new_music?model=lyria-3-pro-preview",
+   "host": "aistudio.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-25",
+  "excerpt": "On 2026-03-25, a dated entry linked to the Gemini application and to an AI Studio music-generation page whose URL identifies the `lyria-3-pro-preview` model. These links record a preview access route for Lyria 3 Pro, but do not by themselves establish a formal release, its capabilities, or availability conditions."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "Nemotron OCR v2",
   "family_slug": "nemotron",
-  "family_display": "Nemotron OCR",
+  "family_display": "Nemotron",
   "model_slug": "nemotron",
   "model_display": "Nemotron",
   "version": "v2",

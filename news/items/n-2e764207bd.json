@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2e764207bd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Mobile Frontend public references were shared",
+ "summary": "On 2026-08-12, the ComfyUI Mobile Frontend development line was linked to its GitHub repository and the Cueforge website. This creates a dated public reference point for the project, although the supplied evidence does not establish a release, feature set, or other specific milestone.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI Mobile Frontend",
+  "family_slug": "comfyui-mobile-frontend",
+  "family_display": "ComfyUI Mobile Frontend",
+  "model_slug": "comfyui-mobile-frontend",
+  "model_display": "ComfyUI Mobile Frontend",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Mobile Frontend",
+  "comfyui-mobile-frontend",
+  "comfyui_mobile_frontend",
+  "family:comfyui-mobile-frontend",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-mobile-frontend"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/cosmicbuffalo/comfyui-mobile-frontend",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://cueforge.dev/",
+   "host": "cueforge.dev",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-12",
+  "excerpt": "On 2026-08-12, the ComfyUI Mobile Frontend development line was linked to its GitHub repository and the Cueforge website. This creates a dated public reference point for the project, although the supplied evidence does not establish a release, feature set, or other specific milestone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

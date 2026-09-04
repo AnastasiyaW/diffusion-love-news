@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7f6dd4a0bc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Orchestra-o1 source and model artifacts were linked",
+ "summary": "On 2026-06-16, the Orchestra-o1 development line included links to its GitHub repository, an 8B Hugging Face model page, and a GGUF model page. This is a material availability milestone because it connects the project with source and deployable model artifacts, though the available evidence does not establish whether this was an initial release, an update, or a repost.",
+ "research_notes": "",
+ "project": {
+  "name": "Orchestra-o1",
+  "family_slug": "orchestra-o1",
+  "family_display": "Orchestra o1",
+  "model_slug": "orchestra-o1",
+  "model_display": "Orchestra-o1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Orchestra-o1",
+  "family:orchestra-o1",
+  "misc",
+  "multi_agent_frameworks",
+  "orchestra-o1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "orchestra-o1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/zfkarl/Orchestra-o1",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Karl28/Orchestra-o1-8B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mradermacher/Orchestra-o1-8B-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-16",
+  "excerpt": "On 2026-06-16, the Orchestra-o1 development line included links to its GitHub repository, an 8B Hugging Face model page, and a GGUF model page. This is a material availability milestone because it connects the project with source and deployable model artifacts, though the available evidence does not establish whether this was an initial release, an update, or a repost."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

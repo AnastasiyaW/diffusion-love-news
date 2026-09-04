@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-969e5271ff",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MonoArt project website and source repository were linked",
+ "summary": "On 2026-03-23, the MonoArt development line recorded links to the project's website and GitHub repository. This is a dated public reference point for the project and its source location, but the supplied links alone do not establish a specific release, result, or technical capability.",
+ "research_notes": "",
+ "project": {
+  "name": "MonoArt",
+  "family_slug": "monoart",
+  "family_display": "MonoArt",
+  "model_slug": "monoart",
+  "model_display": "MonoArt",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MonoArt",
+  "family:monoart",
+  "misc",
+  "monoart"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "monoart"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lihaitian.com/MonoArt/",
+   "host": "lihaitian.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Quest4Science/MonoArt",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-23",
+  "excerpt": "On 2026-03-23, the MonoArt development line recorded links to the project's website and GitHub repository. This is a dated public reference point for the project and its source location, but the supplied links alone do not establish a specific release, result, or technical capability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

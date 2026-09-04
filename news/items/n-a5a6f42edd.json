@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a5a6f42edd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GLM-OCR project resources became publicly available",
+ "summary": "On 2026-03-15, GLM-OCR was represented by a linked project repository, model page, hosted demo, and official documentation. This is a material development milestone because it established a public path to inspect, evaluate, and use the project, although the exact release claims remain unresearched.",
+ "research_notes": "",
+ "project": {
+  "name": "GLM-OCR",
+  "family_slug": "glm-ocr",
+  "family_display": "GLM OCR",
+  "model_slug": "glm-ocr",
+  "model_display": "GLM-OCR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GLM-OCR",
+  "family:glm-ocr",
+  "glm-ocr",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "glm-ocr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/zai-org/GLM-OCR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/zai-org/GLM-OCR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/prithivMLmods/GLM-OCR-Demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.z.ai/guides/vlm/glm-ocr",
+   "host": "docs.z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-15",
+  "excerpt": "On 2026-03-15, GLM-OCR was represented by a linked project repository, model page, hosted demo, and official documentation. This is a material development milestone because it established a public path to inspect, evaluate, and use the project, although the exact release claims remain unresearched."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

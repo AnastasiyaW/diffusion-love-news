@@ -10,7 +10,7 @@
  "project": {
   "name": "Mistral Medium 3.5",
   "family_slug": "mistral",
-  "family_display": "Mistral Medium",
+  "family_display": "Mistral",
   "model_slug": "mistral",
   "model_display": "Mistral",
   "version": "3.5",

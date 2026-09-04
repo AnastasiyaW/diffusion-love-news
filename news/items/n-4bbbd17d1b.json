@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4bbbd17d1b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "AnyTop public project page and repository were linked",
+ "summary": "On 2026-07-25, a dated record associated AnyTop with a public project page and a GitHub repository. This establishes a public project presence on that date, without establishing the project's functionality, release status, authorship, or the contents of either link.",
+ "research_notes": "",
+ "project": {
+  "name": "AnyTop",
+  "family_slug": "anytop",
+  "family_display": "AnyTop",
+  "model_slug": "anytop",
+  "model_display": "AnyTop",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AnyTop",
+  "anytop",
+  "family:anytop",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anytop"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://anytop2025.github.io/Anytop-page/",
+   "host": "anytop2025.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Anytop2025/Anytop",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-25",
+  "excerpt": "On 2026-07-25, a dated record associated AnyTop with a public project page and a GitHub repository. This establishes a public project presence on that date, without establishing the project's functionality, release status, authorship, or the contents of either link."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

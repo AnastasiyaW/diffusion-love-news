@@ -10,7 +10,7 @@
  "project": {
   "name": "ElevenLabs On-Premise",
   "family_slug": "elevenlabs",
-  "family_display": "ElevenLabs On-Premise",
+  "family_display": "ElevenLabs",
   "model_slug": "elevenlabs",
   "model_display": "ElevenLabs",
   "version": null,

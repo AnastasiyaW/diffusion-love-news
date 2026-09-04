@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1a1adbb4f3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA released Cosmos3-Edge on Hugging Face",
+ "summary": "On 2026-07-21, NVIDIA's Hugging Face blog and model-repository links for Cosmos3-Edge were recorded. Together, they indicate an official public availability milestone for the project, making it material to its development history. The supplied links do not establish capability, license, or deployment details.",
+ "research_notes": "",
+ "project": {
+  "name": "Cosmos 3 Edge",
+  "family_slug": "nvidia-cosmos-3-edge",
+  "family_display": "Nvidia Cosmos 3 Edge",
+  "model_slug": "nvidia-cosmos-3-edge",
+  "model_display": "Cosmos 3 Edge",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Cosmos 3 Edge",
+  "cosmos-3-edge",
+  "family:nvidia-cosmos-3-edge",
+  "misc",
+  "nvidia-cosmos-3-edge"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvidia-cosmos-3-edge"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/blog/nvidia/cosmos3edge?linkId=100000431533160",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Cosmos3-Edge",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-21",
+  "excerpt": "On 2026-07-21, NVIDIA's Hugging Face blog and model-repository links for Cosmos3-Edge were recorded. Together, they indicate an official public availability milestone for the project, making it material to its development history. The supplied links do not establish capability, license, or deployment details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

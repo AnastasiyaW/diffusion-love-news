@@ -1,0 +1,139 @@
+{
+ "schema_version": "1.3",
+ "id": "n-45b7bbd16b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Krea 2’s early community tooling and model artifacts surfaced",
+ "summary": "On 2026-06-23, the collected link set paired a Krea AI social post with community-hosted Krea 2 Base, Turbo, and FP8-labelled artifacts, prompting documentation, and a ComfyUI pull request. This records the emergence of a public implementation ecosystem around Krea 2 before the linked official documentation set on the following day. The source pages and post were not independently researched, so their exact capabilities, status, and authorship remain unverified.",
+ "research_notes": "RAW стал базой для обучения и LoRA, Turbo — 8-step checkpoint для text-to-image.",
+ "project": {
+  "name": "Krea 2",
+  "family_slug": "krea-2",
+  "family_display": "Krea 2",
+  "model_slug": "krea-2",
+  "model_display": "Krea 2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Krea 2",
+  "family:krea-2",
+  "krea-2",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "krea-2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://x.com/krea_ai/status/2069111451202334885",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CalamitousFelicitousness/Krea-2-Base-Diffusers",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CalamitousFelicitousness/Krea-2-Turbo-Diffusers",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AlperKTS/Krea2_FP8",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lumatrix/Krea-2/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Comfy-Org/ComfyUI/pull/14589",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/buckets/krea-community/krea-2/tree/docs/prompting.md",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-23",
+  "excerpt": "On 2026-06-23, the collected link set paired a Krea AI social post with community-hosted Krea 2 Base, Turbo, and FP8-labelled artifacts, prompting documentation, and a ComfyUI pull request. This records the emergence of a public implementation ecosystem around Krea 2 before the linked official documentation set on the following day. The source pages and post were not independently researched, so their exact capabilities, status, and authorship remain unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

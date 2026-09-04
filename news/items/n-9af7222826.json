@@ -10,7 +10,7 @@
  "project": {
   "name": "QClaw-4B",
   "family_slug": "qclaw-4b",
-  "family_display": "QClaw-4B",
+  "family_display": "QClaw 4B",
   "model_slug": "qclaw-4b",
   "model_display": "QClaw-4B",
   "version": "4B",

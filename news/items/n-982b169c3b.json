@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-982b169c3b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Echo LongVideo public project resources were linked",
+ "summary": "On 2026-06-05, Echo LongVideo was referenced through a public project page, a GitHub repository, and a Hugging Face model page. This dated resource set is a material development milestone because it identifies the project's public documentation, source, and model-distribution locations; the sealed evidence does not establish the specific release contents.",
+ "research_notes": "",
+ "project": {
+  "name": "Echo LongVideo",
+  "family_slug": "echo-longvideo",
+  "family_display": "Echo LongVideo",
+  "model_slug": "echo-longvideo",
+  "model_display": "Echo LongVideo",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Echo LongVideo",
+  "echo-longvideo",
+  "echo_longvideo",
+  "family:echo-longvideo",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "echo-longvideo"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://echo-team-joy-future-academy-jd.github.io/Echo-LongVideo-Page/",
+   "host": "echo-team-joy-future-academy-jd.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/jdopensource/JoyAI-Echo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/jd-opensource/JoyAI-Echo",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-05",
+  "excerpt": "On 2026-06-05, Echo LongVideo was referenced through a public project page, a GitHub repository, and a Hugging Face model page. This dated resource set is a material development milestone because it identifies the project's public documentation, source, and model-distribution locations; the sealed evidence does not establish the specific release contents."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

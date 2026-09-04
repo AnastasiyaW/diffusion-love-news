@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c4e41aef2b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "What to Edit Next public site was referenced",
+ "summary": "On 2026-08-17, this development line linked the public website for What to Edit Next. The available evidence does not include the source text or research into the site, so this records only the date of that public-site reference, not a launch, feature, or release claim.",
+ "research_notes": "",
+ "project": {
+  "name": "What to Edit Next",
+  "family_slug": "what-to-edit-next",
+  "family_display": "What to Edit Next",
+  "model_slug": "what-to-edit-next",
+  "model_display": "What to Edit Next",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "What to Edit Next",
+  "alibaba/what-to-edit-next",
+  "family:what-to-edit-next",
+  "misc",
+  "what-to-edit-next"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "what-to-edit-next"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://what-to-edit-next.github.io/",
+   "host": "what-to-edit-next.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, this development line linked the public website for What to Edit Next. The available evidence does not include the source text or research into the site, so this records only the date of that public-site reference, not a launch, feature, or release claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

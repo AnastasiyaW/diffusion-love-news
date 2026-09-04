@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2222547f97",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LTX-2.3 was presented with documentation and a text-to-video playground",
+ "summary": "On 2026-03-05, LTX-2.3 was linked with its model page, quickstart documentation, and a text-to-video playground. This marks a public availability and onboarding step for the LTX-2.3 line, covering both reference material and an interactive entry point.",
+ "research_notes": "Fast handled text/image-to-video, while Pro added audio-to-video, Retake, and Extend; 22B dev/distilled weights and latent upscalers shipped.",
+ "project": {
+  "name": "LTX-2.3",
+  "family_slug": "ltx-video",
+  "family_display": "Ltx Video",
+  "model_slug": "ltx-video",
+  "model_display": "LTX-2.3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3",
+  "family:ltx-video",
+  "ltx-video",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx-video"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ltx.io/model/ltx-2-3",
+   "host": "ltx.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.ltx.video/quickstart",
+   "host": "docs.ltx.video",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://app.ltx.studio/ltx-2-playground/t2v",
+   "host": "app.ltx.studio",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-05",
+  "excerpt": "On 2026-03-05, LTX-2.3 was linked with its model page, quickstart documentation, and a text-to-video playground. This marks a public availability and onboarding step for the LTX-2.3 line, covering both reference material and an interactive entry point."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

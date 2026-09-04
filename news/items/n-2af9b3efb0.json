@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2af9b3efb0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Mistral Small 4 119B 2603 Eagle repository was linked on Hugging Face",
+ "summary": "On 2026-03-17, the record recorded a link to the Hugging Face repository for Mistral Small 4 119B 2603 Eagle. The repository name identifies a Mistral Small 4 model artifact and its 119B, 2603, and Eagle variant labels. The dated link alone does not establish release status, capabilities, license, or access conditions.",
+ "research_notes": "",
+ "project": {
+  "name": "Mistral Small 4",
+  "family_slug": "mistral-small-4",
+  "family_display": "Mistral Small 4",
+  "model_slug": "mistral-small-4",
+  "model_display": "Mistral Small 4",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Mistral Small 4",
+  "family:mistral-small-4",
+  "misc",
+  "mistral-small",
+  "mistral-small-4"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mistral-small-4"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603-eagle",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-17",
+  "excerpt": "On 2026-03-17, the record recorded a link to the Hugging Face repository for Mistral Small 4 119B 2603 Eagle. The repository name identifies a Mistral Small 4 model artifact and its 119B, 2603, and Eagle variant labels. The dated link alone does not establish release status, capabilities, license, or access conditions."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

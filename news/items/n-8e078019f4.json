@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8e078019f4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MATCH project page referenced",
+ "summary": "On 2026-03-27, the MATCH project line included a link to its canonical project page. With no original source text or research evidence in the record, this records only a public project reference and does not infer a release, capability, or outcome.",
+ "research_notes": "",
+ "project": {
+  "name": "MATCH",
+  "family_slug": "match",
+  "family_display": "MATCH",
+  "model_slug": "match",
+  "model_display": "MATCH",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MATCH",
+  "family:match",
+  "match",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "match"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://malteprinzler.github.io/projects/match/",
+   "host": "malteprinzler.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-27",
+  "excerpt": "On 2026-03-27, the MATCH project line included a link to its canonical project page. With no original source text or research evidence in the record, this records only a public project reference and does not infer a release, capability, or outcome."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

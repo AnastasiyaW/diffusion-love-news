@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2c76b163d3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "F⁴Splat GitHub repository linked",
+ "summary": "On 2026-07-24, the F⁴Splat development line linked its GitHub repository alongside the earlier March announcement. This is a material public-access milestone because it connects the project to a source repository. The available evidence does not establish which code, version, or implementation changes were present at that date.",
+ "research_notes": "",
+ "project": {
+  "name": "F⁴Splat",
+  "family_slug": "f4splat",
+  "family_display": "F4Splat",
+  "model_slug": "f4splat",
+  "model_display": "F⁴Splat",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "F⁴Splat",
+  "f4splat",
+  "family:f4splat",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "f4splat"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/mlvlab/F4Splat",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-24",
+  "excerpt": "On 2026-07-24, the F⁴Splat development line linked its GitHub repository alongside the earlier March announcement. This is a material public-access milestone because it connects the project to a source repository. The available evidence does not establish which code, version, or implementation changes were present at that date."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

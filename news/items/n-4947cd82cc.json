@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4947cd82cc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenMAIC project resources referenced",
+ "summary": "On 2026-03-16, a dated OpenMAIC message referenced the project's GitHub repository and public website. The supplied evidence does not establish a release, feature, launch, or other technical milestone, so this event records the availability of those project resources only.",
+ "research_notes": "",
+ "project": {
+  "name": "OpenMAIC",
+  "family_slug": "openmaic",
+  "family_display": "OpenMAIC",
+  "model_slug": "openmaic",
+  "model_display": "OpenMAIC",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenMAIC",
+  "family:openmaic",
+  "misc",
+  "openmaic"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "openmaic"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/THU-MAIC/OpenMAIC",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://open.maic.chat/",
+   "host": "open.maic.chat",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-16",
+  "excerpt": "On 2026-03-16, a dated OpenMAIC message referenced the project's GitHub repository and public website. The supplied evidence does not establish a release, feature, launch, or other technical milestone, so this event records the availability of those project resources only."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

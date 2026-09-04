@@ -10,7 +10,7 @@
  "project": {
   "name": "SpatialEdit-16B",
   "family_slug": "spatialedit",
-  "family_display": "SpatialEdit-16B",
+  "family_display": "SpatialEdit",
   "model_slug": "spatialedit-16b",
   "model_display": "SpatialEdit-16B",
   "version": "16B",

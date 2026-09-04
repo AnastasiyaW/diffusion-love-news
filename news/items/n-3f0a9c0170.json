@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3f0a9c0170",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Sol-Attn implementations for Blackwell and Triton were linked",
+ "summary": "On 2026-08-07, a project update linked two separate ComfyUI Sol-Attn codebases: one identified for Blackwell and one identified for Triton. This is a material development step because it records the availability of implementation paths for distinct execution environments, without establishing their maturity, compatibility, or performance.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI Sol-Attn",
+  "family_slug": "comfyui-sol-attn",
+  "family_display": "ComfyUI Sol Attn",
+  "model_slug": "comfyui-sol-attn",
+  "model_display": "ComfyUI Sol-Attn",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI Sol-Attn",
+  "comfyui-sol-attn",
+  "family:comfyui-sol-attn",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-sol-attn"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/KingGore/ComfyUI_sol-attn_Blackwell",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/kijai/ComfyUI-SolAttn_triton",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-07",
+  "excerpt": "On 2026-08-07, a project update linked two separate ComfyUI Sol-Attn codebases: one identified for Blackwell and one identified for Triton. This is a material development step because it records the availability of implementation paths for distinct execution environments, without establishing their maturity, compatibility, or performance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

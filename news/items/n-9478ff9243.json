@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9478ff9243",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Grok Build public repository reference",
+ "summary": "On 2026-07-16, the Grok Build thread referenced xAI’s public Grok Build GitHub repository. This creates a dated public source reference for the project, although the repository contents and the message’s exact context have not been researched.",
+ "research_notes": "",
+ "project": {
+  "name": "Grok Build",
+  "family_slug": "grok-build",
+  "family_display": "Grok Build",
+  "model_slug": "grok-build",
+  "model_display": "Grok Build",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Grok Build",
+  "family:grok-build",
+  "grok-build",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "grok-build"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/xai-org/grok-build",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-16",
+  "excerpt": "On 2026-07-16, the Grok Build thread referenced xAI’s public Grok Build GitHub repository. This creates a dated public source reference for the project, although the repository contents and the message’s exact context have not been researched."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

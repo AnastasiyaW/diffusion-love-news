@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d5e082f834",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Autograph was referenced on Maxon’s official website",
+ "summary": "On 2026-04-16, the record linked to Maxon’s official Autograph page. This establishes an official Maxon web reference for Autograph by that date, but the supplied evidence does not establish a launch, release, acquisition, version change, or the reason the link was shared.",
+ "research_notes": "",
+ "project": {
+  "name": "Autograph",
+  "family_slug": "autograph",
+  "family_display": "Autograph",
+  "model_slug": "autograph",
+  "model_display": "Autograph",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Autograph",
+  "autograph",
+  "family:autograph",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "autograph"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.maxon.net/en/autograph",
+   "host": "maxon.net",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-16",
+  "excerpt": "On 2026-04-16, the record linked to Maxon’s official Autograph page. This establishes an official Maxon web reference for Autograph by that date, but the supplied evidence does not establish a launch, release, acquisition, version change, or the reason the link was shared."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

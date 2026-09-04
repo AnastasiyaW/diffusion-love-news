@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-63310818df",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "On 2026-07-02, Onklaud 5 was linked to a public GitHub repository",
+ "summary": "On 2026-07-02, the Onklaud 5 development line included a link to the GitHub repository KorroAi/onklaud-5. The dated link establishes a public repository reference for the project, but does not establish a release, feature set, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "Onklaud 5",
+  "family_slug": "onklaud",
+  "family_display": "Onklaud",
+  "model_slug": "onklaud",
+  "model_display": "Onklaud 5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Onklaud 5",
+  "family:onklaud",
+  "misc",
+  "onklaud"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "onklaud"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/KorroAi/onklaud-5",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-02",
+  "excerpt": "On 2026-07-02, the Onklaud 5 development line included a link to the GitHub repository KorroAi/onklaud-5. The dated link establishes a public repository reference for the project, but does not establish a release, feature set, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

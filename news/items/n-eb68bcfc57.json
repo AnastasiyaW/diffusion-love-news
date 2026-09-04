@@ -1,0 +1,148 @@
+{
+ "schema_version": "1.3",
+ "id": "n-eb68bcfc57",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Krea published Krea 2’s official open-source and deployment materials",
+ "summary": "On 2026-06-24, the collected official Krea 2 links covered an open-source page and repository, official Raw and Turbo model repositories, an API and playground surface, and a technical report. A ComfyUI Krea 2 Turbo text-to-image workflow template accompanied those resources, providing a named local-workflow entry point. The linked pages were not independently researched, so exact availability, licensing, and technical claims are unverified.",
+ "research_notes": "Open-weight версия соответствует Medium, а модули moodboard и style reference не вошли в открытый выпуск.",
+ "project": {
+  "name": "Krea 2",
+  "family_slug": "krea-2",
+  "family_display": "Krea 2",
+  "model_slug": "krea-2",
+  "model_display": "Krea 2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Krea 2",
+  "family:krea-2",
+  "krea-2",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "krea-2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.krea.ai/krea-2-open-source",
+   "host": "krea.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Comfy-Org/workflow_templates/blob/main/templates/image_krea2_turbo_t2i.json",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/krea-ai/krea-2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/krea/krea-2-raw",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/krea/krea-2-turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.krea.ai/app/api",
+   "host": "krea.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.krea.ai/app/api/playground",
+   "host": "krea.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.krea.ai/blog/krea-2-technical-report",
+   "host": "krea.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-24",
+  "excerpt": "On 2026-06-24, the collected official Krea 2 links covered an open-source page and repository, official Raw and Turbo model repositories, an API and playground surface, and a technical report. A ComfyUI Krea 2 Turbo text-to-image workflow template accompanied those resources, providing a named local-workflow entry point. The linked pages were not independently researched, so exact availability, licensing, and technical claims are unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

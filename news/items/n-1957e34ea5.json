@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1957e34ea5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DIRECT project resources were linked",
+ "summary": "On 2026-06-09, a DIRECT development-line message linked the project website, source repository, and Hugging Face page. Taken together, those dated links indicate a public-facing project milestone suitable for the development history. The announcement text and the exact status of each linked resource were not reviewed.",
+ "research_notes": "",
+ "project": {
+  "name": "DIRECT",
+  "family_slug": "direct",
+  "family_display": "DIRECT",
+  "model_slug": "direct",
+  "model_display": "DIRECT",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DIRECT",
+  "direct",
+  "family:direct",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "direct"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://gong1130.github.io/DIRECT/",
+   "host": "gong1130.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Gong1130/DIRECT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/superGong/DIRECT",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-09",
+  "excerpt": "On 2026-06-09, a DIRECT development-line message linked the project website, source repository, and Hugging Face page. Taken together, those dated links indicate a public-facing project milestone suitable for the development history. The announcement text and the exact status of each linked resource were not reviewed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

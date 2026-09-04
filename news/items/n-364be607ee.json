@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-364be607ee",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "image_caption_utility GitHub repository was referenced",
+ "summary": "On 2026-06-22, the development record referenced the GitHub repository for image_caption_utility. The dated link establishes a public repository reference for the project, but does not establish a specific release, implementation change, or feature set.",
+ "research_notes": "",
+ "project": {
+  "name": "image_caption_utility",
+  "family_slug": "image-caption-utility",
+  "family_display": "image caption utility",
+  "model_slug": "image-caption-utility",
+  "model_display": "image_caption_utility",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:image-caption-utility",
+  "image-caption-utility",
+  "image_caption_utility",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "image-caption-utility"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/a7in/image_caption_utility",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-22",
+  "excerpt": "On 2026-06-22, the development record referenced the GitHub repository for image_caption_utility. The dated link establishes a public repository reference for the project, but does not establish a specific release, implementation change, or feature set."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

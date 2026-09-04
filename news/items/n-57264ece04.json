@@ -10,7 +10,7 @@
  "project": {
   "name": "LTX-2.3-22b-IC-LoRA-ReFocus",
   "family_slug": "ltx",
-  "family_display": "LTX-2.3-22b-IC-LoRA-ReFocus",
+  "family_display": "LTX",
   "model_slug": "ltx-2-3-22b",
   "model_display": "LTX-2.3-22b",
   "version": null,

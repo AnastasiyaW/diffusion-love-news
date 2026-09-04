@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-fdaa3b9adb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI-MiniMax-H3-LongMedia public repository reference",
+ "summary": "On 2026-08-14, the record recorded a public GitHub repository reference for ComfyUI-MiniMax-H3-LongMedia. This is a material dated point of public traceability for the project, but the available evidence does not establish the repository's contents, release status, or implementation changes on that date.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI-MiniMax-H3-LongMedia",
+  "family_slug": "comfyui-minimax-h3-longmedia",
+  "family_display": "ComfyUI MiniMax H3 LongMedia",
+  "model_slug": "comfyui-minimax-h3-longmedia",
+  "model_display": "ComfyUI-MiniMax-H3-LongMedia",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI-MiniMax-H3-LongMedia",
+  "comfyui-minimax-h3-longmedia",
+  "comfyui_minimax_h3_longmedia",
+  "family:comfyui-minimax-h3-longmedia",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-minimax-h3-longmedia"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/vizart-vj/ComfyUI-MiniMax-H3-LongMedia",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-14",
+  "excerpt": "On 2026-08-14, the record recorded a public GitHub repository reference for ComfyUI-MiniMax-H3-LongMedia. This is a material dated point of public traceability for the project, but the available evidence does not establish the repository's contents, release status, or implementation changes on that date."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

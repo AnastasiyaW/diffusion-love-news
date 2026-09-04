@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e584d1d2e9",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "iXBT News reported on the Unitree GD01",
+ "summary": "On 2026-05-12, iXBT News published an item focused on the Unitree GD01. Its supplied URL includes a 650 figure, but the available evidence does not establish what that figure represents; this is therefore a provisional development-history event pending source review.",
+ "research_notes": "",
+ "project": {
+  "name": "Unitree GD01",
+  "family_slug": "unitree",
+  "family_display": "Unitree",
+  "model_slug": "unitree",
+  "model_display": "Unitree GD01",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unitree GD01",
+  "family:unitree",
+  "misc",
+  "unitree",
+  "unitree-gd01"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "unitree"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.ixbt.com/news/2026/05/12/unitree-gd01-650.html",
+   "host": "ixbt.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-12",
+  "excerpt": "On 2026-05-12, iXBT News published an item focused on the Unitree GD01. Its supplied URL includes a 650 figure, but the available evidence does not establish what that figure represents; this is therefore a provisional development-history event pending source review."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

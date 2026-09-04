@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-eac94cf783",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "CohereLabs published North Mini Code 1.0 model pages on Hugging Face",
+ "summary": "On 2026-06-30, the development line points to Hugging Face pages for North-Mini-Code-1.0 and a w4a16 variant. This is a material distribution step for the North Mini Code line because it identifies both a base model artifact and a separately named variant.",
+ "research_notes": "",
+ "project": {
+  "name": "North",
+  "family_slug": "cohere-north",
+  "family_display": "Cohere North",
+  "model_slug": "cohere-north",
+  "model_display": "North",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "North",
+  "cohere",
+  "cohere-north",
+  "family:cohere-north",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "cohere-north"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0-w4a16",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-30",
+  "excerpt": "On 2026-06-30, the development line points to Hugging Face pages for North-Mini-Code-1.0 and a w4a16 variant. This is a material distribution step for the North Mini Code line because it identifies both a base model artifact and a separately named variant."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

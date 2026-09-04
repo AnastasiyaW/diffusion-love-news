@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ced223aa89",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Public project and repository reference for MLSLabsRenderer-Lite",
+ "summary": "On 2026-07-29, the MLSLabsRenderer-Lite development line was recorded with links to its public project website and the MLSLabs Gaussian Splatting Renderer UE repository. Taken only from the dated links, this establishes a traceable public reference point for the project's renderer development, but does not establish a specific release, feature set, or version.",
+ "research_notes": "",
+ "project": {
+  "name": "MLSLabsRenderer-Lite",
+  "family_slug": "mlslabsrenderer-lite",
+  "family_display": "MLSLabsRenderer Lite",
+  "model_slug": "mlslabsrenderer-lite",
+  "model_display": "MLSLabsRenderer-Lite",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MLSLabsRenderer-Lite",
+  "family:mlslabsrenderer-lite",
+  "misc",
+  "mlslabsrenderer-lite"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mlslabsrenderer-lite"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://mls4dlive.cn/",
+   "host": "mls4dlive.cn",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/mlslabs/MLSLabsGaussianSplattingRenderer-UE",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-29",
+  "excerpt": "On 2026-07-29, the MLSLabsRenderer-Lite development line was recorded with links to its public project website and the MLSLabs Gaussian Splatting Renderer UE repository. Taken only from the dated links, this establishes a traceable public reference point for the project's renderer development, but does not establish a specific release, feature set, or version."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

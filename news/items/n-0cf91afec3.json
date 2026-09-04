@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0cf91afec3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen-Image 3.0 public Qwen links recorded",
+ "summary": "On 2026-07-21, a dated message associated Qwen-Image 3.0 with a Qwen-hosted blog URL identified as qwen-image-3.0 and with the Qwen Chat site. This records a public reference point for the project line, without asserting capabilities, availability, or release terms that the supplied links alone do not establish.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen-Image 3.0",
+  "family_slug": "qwen-image-3-0",
+  "family_display": "Qwen Image 3.0",
+  "model_slug": "qwen-image-3-0",
+  "model_display": "Qwen-Image 3.0",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen-Image 3.0",
+  "family:qwen-image-3-0",
+  "misc",
+  "qwen-image",
+  "qwen-image-3-0"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-image-3-0"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://qwen.ai/blog?id=qwen-image-3.0",
+   "host": "qwen.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "http://chat.qwen.ai/",
+   "host": "chat.qwen.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-21",
+  "excerpt": "On 2026-07-21, a dated message associated Qwen-Image 3.0 with a Qwen-hosted blog URL identified as qwen-image-3.0 and with the Qwen Chat site. This records a public reference point for the project line, without asserting capabilities, availability, or release terms that the supplied links alone do not establish."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

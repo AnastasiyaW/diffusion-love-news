@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5540a93cb5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Seed Audio 1.0 was referenced through a fal.ai model page",
+ "summary": "On 2026-06-26, the Seed Audio development record included a link to fal.ai’s model page for ByteDance Seed Audio 1.0. This marks a hosted-access reference for the project, without establishing the model’s original release date or technical capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "Seed Audio",
+  "family_slug": "seed-audio",
+  "family_display": "Seed Audio",
+  "model_slug": "seed-audio",
+  "model_display": "Seed Audio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seed Audio",
+  "family:seed-audio",
+  "misc",
+  "seed-audio"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seed-audio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://fal.ai/models/bytedance/seed-audio-1.0",
+   "host": "fal.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-26",
+  "excerpt": "On 2026-06-26, the Seed Audio development record included a link to fal.ai’s model page for ByteDance Seed Audio 1.0. This marks a hosted-access reference for the project, without establishing the model’s original release date or technical capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

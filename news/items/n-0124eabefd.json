@@ -10,7 +10,7 @@
  "project": {
   "name": "OmniVoice Studio",
   "family_slug": "omnivoice",
-  "family_display": "OmniVoice Studio",
+  "family_display": "OmniVoice",
   "model_slug": "omnivoice",
   "model_display": "OmniVoice",
   "version": null,

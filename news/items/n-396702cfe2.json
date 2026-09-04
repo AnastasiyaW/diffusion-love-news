@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-396702cfe2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "fx was publicly surfaced through its website and source repository",
+ "summary": "On 2026-08-20, the dated message linked the fx website and its Vercel Labs GitHub repository. This establishes a public project presence and is a useful starting point in the project's history, although the available evidence does not identify a specific release, feature, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "fx",
+  "family_slug": "vercel-fx",
+  "family_display": "Vercel Fx",
+  "model_slug": "vercel-fx",
+  "model_display": "fx",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:vercel-fx",
+  "fx",
+  "misc",
+  "vercel-fx"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "vercel-fx"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://fx.sh/",
+   "host": "fx.sh",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/vercel-labs/fx",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-20",
+  "excerpt": "On 2026-08-20, the dated message linked the fx website and its Vercel Labs GitHub repository. This establishes a public project presence and is a useful starting point in the project's history, although the available evidence does not identify a specific release, feature, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

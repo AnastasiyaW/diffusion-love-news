@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-14c8e61352",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DA-Flow project website and source repository linked",
+ "summary": "On 2026-03-26, the DA-Flow project website and its GitHub repository were linked as a development update. The dated links identify a project landing page and an official source-code location for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "DA-Flow",
+  "family_slug": "da-flow",
+  "family_display": "DA Flow",
+  "model_slug": "da-flow",
+  "model_display": "DA-Flow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DA-Flow",
+  "da-flow",
+  "da_flow",
+  "family:da-flow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "da-flow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://cvlab-kaist.github.io/DA-Flow/",
+   "host": "cvlab-kaist.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/cvlab-kaist/DA-Flow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-26",
+  "excerpt": "On 2026-03-26, the DA-Flow project website and its GitHub repository were linked as a development update. The dated links identify a project landing page and an official source-code location for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

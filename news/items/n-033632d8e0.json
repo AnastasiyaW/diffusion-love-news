@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-033632d8e0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Kimi K3 is associated with Kimi Code",
+ "summary": "On 2026-07-16, the Kimi K3 development line referenced Kimi Code through the dated Kimi link. This indicates a code-oriented Kimi K3-related development step, although the available evidence does not establish the specific capability, release status, or scope. The proposed history event should remain subject to human confirmation.",
+ "research_notes": "",
+ "project": {
+  "name": "Kimi K3",
+  "family_slug": "kimi-k3",
+  "family_display": "Kimi K3",
+  "model_slug": "kimi-k3",
+  "model_display": "Kimi K3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Kimi K3",
+  "family:kimi-k3",
+  "kimi-k3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "kimi-k3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.kimi.com/code",
+   "host": "kimi.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-16",
+  "excerpt": "On 2026-07-16, the Kimi K3 development line referenced Kimi Code through the dated Kimi link. This indicates a code-oriented Kimi K3-related development step, although the available evidence does not establish the specific capability, release status, or scope. The proposed history event should remain subject to human confirmation."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

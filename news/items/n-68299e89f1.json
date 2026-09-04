@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-68299e89f1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Freepik linked to Seedance 2.0 video-generation resources",
+ "summary": "On 2026-04-02, Freepik was linked with Seedance 2.0 video-generation resources through the preserved references. The dated links point to Freepik’s AI Video Generator, a Seedance video page, and Volcengine’s Seedance 2.0 contact page. Together, they indicate a material Seedance 2.0 integration or distribution development relevant to Freepik.",
+ "research_notes": "",
+ "project": {
+  "name": "Freepik",
+  "family_slug": "freepik-seedance",
+  "family_display": "Freepik Seedance",
+  "model_slug": "freepik-seedance",
+  "model_display": "Freepik",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Freepik",
+  "family:freepik-seedance",
+  "freepik-seedance",
+  "misc",
+  "seedance_2_0_integrations"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "freepik-seedance"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.freepik.com/pikaso/ai-video-generator",
+   "host": "freepik.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://syntx.ai/video/seedance",
+   "host": "syntx.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.volcengine.com/contact/seedance2-0public?_vtm_=0.0.c202308.d201952.0",
+   "host": "volcengine.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-02",
+  "excerpt": "On 2026-04-02, Freepik was linked with Seedance 2.0 video-generation resources through the preserved references. The dated links point to Freepik’s AI Video Generator, a Seedance video page, and Volcengine’s Seedance 2.0 contact page. Together, they indicate a material Seedance 2.0 integration or distribution development relevant to Freepik."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

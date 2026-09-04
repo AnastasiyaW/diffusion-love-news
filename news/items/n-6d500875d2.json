@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6d500875d2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA published its GDC 2026 GeForce RTX announcements",
+ "summary": "On 2026-03-11 NVIDIA published a GeForce RTX announcement for GDC 2026. The supplied official NVIDIA link is classified on the DLSS 4.5 development line, so it should be retained as a historical milestone pending source-level review. The dated link alone does not establish the specific DLSS 4.5 features, availability, or performance claims.",
+ "research_notes": "",
+ "project": {
+  "name": "DLSS 4.5",
+  "family_slug": "dlss",
+  "family_display": "DLSS",
+  "model_slug": "dlss",
+  "model_display": "DLSS 4.5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DLSS 4.5",
+  "dlss",
+  "family:dlss",
+  "graphics_tech",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dlss"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.nvidia.com/en-us/geforce/news/gdc-2026-nvidia-geforce-rtx-announcements/",
+   "host": "nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-11",
+  "excerpt": "On 2026-03-11 NVIDIA published a GeForce RTX announcement for GDC 2026. The supplied official NVIDIA link is classified on the DLSS 4.5 development line, so it should be retained as a historical milestone pending source-level review. The dated link alone does not establish the specific DLSS 4.5 features, availability, or performance claims."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

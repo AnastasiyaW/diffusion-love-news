@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d791bdd250",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen-Image-Flash research-paper reference recorded",
+ "summary": "On 2026-06-05, the Qwen-Image-Flash development line linked to Hugging Face Papers record 2606.03746. This is proposed as a material history event because it identifies a contemporaneous paper-level reference for the project; the paper's exact contents remain unverified.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen-Image-Flash",
+  "family_slug": "qwen-image-flash",
+  "family_display": "Qwen Image Flash",
+  "model_slug": "qwen-image-flash",
+  "model_display": "Qwen-Image-Flash",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen-Image-Flash",
+  "family:qwen-image-flash",
+  "misc",
+  "qwen",
+  "qwen-image-flash"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-image-flash"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2606.03746",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-05",
+  "excerpt": "On 2026-06-05, the Qwen-Image-Flash development line linked to Hugging Face Papers record 2606.03746. This is proposed as a material history event because it identifies a contemporaneous paper-level reference for the project; the paper's exact contents remain unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

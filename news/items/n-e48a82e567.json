@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e48a82e567",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SparkVSR public project resources were shared",
+ "summary": "On 2026-03-19, SparkVSR's project page, source repository, and Hug Face model page were linked together. This is a material public-availability step in the project's development history, while the supplied evidence does not establish a specific version, release status, or technical claim.",
+ "research_notes": "",
+ "project": {
+  "name": "SparkVSR",
+  "family_slug": "sparkvsr",
+  "family_display": "SparkVSR",
+  "model_slug": "sparkvsr",
+  "model_display": "SparkVSR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SparkVSR",
+  "family:sparkvsr",
+  "misc",
+  "sparkvsr"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sparkvsr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://sparkvsr.github.io/",
+   "host": "sparkvsr.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/taco-group/SparkVSR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/JiongzeYu/SparkVSR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-19",
+  "excerpt": "On 2026-03-19, SparkVSR's project page, source repository, and Hug Face model page were linked together. This is a material public-availability step in the project's development history, while the supplied evidence does not establish a specific version, release status, or technical claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

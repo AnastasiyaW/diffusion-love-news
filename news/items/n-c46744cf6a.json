@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c46744cf6a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Liquid AI published the LFM2.5-2.6B model line",
+ "summary": "On 2026-08-04, Liquid AI linked a blog entry and Hugging Face resources for LFM2.5-2.6B. The linked resources included the model page, quantized-model discovery, a WebGPU space, and a playground, marking a public availability step for this model line.",
+ "research_notes": "",
+ "project": {
+  "name": "LFM2.5-2.6B",
+  "family_slug": "lfm2-5-2-6b",
+  "family_display": "LFM2.5 2.6B",
+  "model_slug": "lfm2-5-2-6b",
+  "model_display": "LFM2.5-2.6B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LFM2.5-2.6B",
+  "family:lfm2-5-2-6b",
+  "lfm2-5-2-6b",
+  "lfm2_5_2_6b",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lfm2-5-2-6b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.liquid.ai/blog/lfm2-5-2-6b",
+   "host": "liquid.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3ALiquidAI%2FLFM2.5-2.6B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/LiquidAI/LFM2.5-2.6B-WebGPU",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://playground.liquid.ai/",
+   "host": "playground.liquid.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-04",
+  "excerpt": "On 2026-08-04, Liquid AI linked a blog entry and Hugging Face resources for LFM2.5-2.6B. The linked resources included the model page, quantized-model discovery, a WebGPU space, and a playground, marking a public availability step for this model line."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

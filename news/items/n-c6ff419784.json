@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c6ff419784",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Pika published its Pika Audio model family and Pika Music playground",
+ "summary": "On 2026-08-17, Pika published official pages for its Pika Audio models, developer API documentation, and a Pika Music playground. These links show that Pika extended its public product surface with audio-model and music-generation access. The supplied links alone do not establish model specifications, pricing, or availability terms.",
+ "research_notes": "The linked first-party overview is dated 2026-08-14 and adds Soundtrack, Music, SFX, and Speech to the Pika API Club.",
+ "project": {
+  "name": "Pika",
+  "family_slug": "pika",
+  "family_display": "Pika",
+  "model_slug": "pika",
+  "model_display": "Pika",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Pika",
+  "family:pika",
+  "misc",
+  "pika",
+  "pikaswaps"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pika"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://experiment.pika.art/blog/pika-audio-models",
+   "host": "experiment.pika.art",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://dev.pika.art/models/pika/pika-audio",
+   "host": "dev.pika.art",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://dev.pika.art/models/pika/pika-audio/pika-music/playground",
+   "host": "dev.pika.art",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, Pika published official pages for its Pika Audio models, developer API documentation, and a Pika Music playground. These links show that Pika extended its public product surface with audio-model and music-generation access. The supplied links alone do not establish model specifications, pricing, or availability terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

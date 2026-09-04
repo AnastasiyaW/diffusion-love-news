@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8e75dd0767",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Chronosplat source repository and interactive viewer were linked",
+ "summary": "On 2026-08-02, the Chronosplat development line linked its GitHub source repository and a hosted interactive viewer. These dated links establish a project-level public reference and runnable demo endpoint, while leaving the exact release scope and changes on that date unknown.",
+ "research_notes": "",
+ "project": {
+  "name": "Chronosplat",
+  "family_slug": "chronosplat",
+  "family_display": "Chronosplat",
+  "model_slug": "chronosplat",
+  "model_display": "Chronosplat",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Chronosplat",
+  "chronosplat",
+  "family:chronosplat",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "chronosplat"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/tcwilsonart/Chronosplat",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://tcwilsonart.github.io/Chronosplat/#f=1&p=-0.268,0.132,-0.404&t=0.189,0.102,0.125",
+   "host": "tcwilsonart.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-02",
+  "excerpt": "On 2026-08-02, the Chronosplat development line linked its GitHub source repository and a hosted interactive viewer. These dated links establish a project-level public reference and runnable demo endpoint, while leaving the exact release scope and changes on that date unknown."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

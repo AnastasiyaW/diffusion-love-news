@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b2222dab41",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA DiffusionGemma NVFP4 repository recorded alongside Google’s upstream model",
+ "summary": "On 2026-06-12, a dated record linked NVIDIA’s DiffusionGemma-26B-A4B-it-NVFP4 Hugging Face repository alongside Google’s DiffusionGemma-26B-A4B-it repository. This is a material distribution point in the project’s development line because it identifies a distinct NVIDIA-hosted NVFP4 variant in relation to the upstream model.",
+ "research_notes": "",
+ "project": {
+  "name": "diffusiongemma-26B-A4B-it-NVFP4",
+  "family_slug": "diffusiongemma-26b-a4b-it-nvfp4",
+  "family_display": "diffusiongemma 26B A4B it NVFP4",
+  "model_slug": "diffusiongemma-26b-a4b-it-nvfp4",
+  "model_display": "diffusiongemma-26B-A4B-it-NVFP4",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "diffusiongemma",
+  "diffusiongemma-26B-A4B-it-NVFP4",
+  "diffusiongemma-26b-a4b-it-nvfp4",
+  "family:diffusiongemma-26b-a4b-it-nvfp4",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "diffusiongemma-26b-a4b-it-nvfp4"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-12",
+  "excerpt": "On 2026-06-12, a dated record linked NVIDIA’s DiffusionGemma-26B-A4B-it-NVFP4 Hugging Face repository alongside Google’s DiffusionGemma-26B-A4B-it repository. This is a material distribution point in the project’s development line because it identifies a distinct NVIDIA-hosted NVFP4 variant in relation to the upstream model."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

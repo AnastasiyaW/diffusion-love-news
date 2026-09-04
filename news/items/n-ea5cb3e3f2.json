@@ -10,7 +10,7 @@
  "project": {
   "name": "CoPaw-Flash-9B-DataAnalyst-LoRA",
   "family_slug": "copaw",
-  "family_display": "CoPaw-Flash-9B-DataAnalyst-LoRA",
+  "family_display": "CoPaw",
   "model_slug": "copaw",
   "model_display": "CoPaw",
   "version": null,
