@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6e1bdb74a2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SAMA public project, source, and model resources were linked",
+ "summary": "On 2026-03-20, a dated SAMA message linked the project's public website, source repository, and the Hugging Face page for SAMA-14B. These links establish that the three public resources were associated with SAMA on that date, without establishing further claims about the model or project.",
+ "research_notes": "",
+ "project": {
+  "name": "SAMA",
+  "family_slug": "sama",
+  "family_display": "SAMA",
+  "model_slug": "sama",
+  "model_display": "SAMA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SAMA",
+  "family:sama",
+  "misc",
+  "sama"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sama"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://cynthiazxy123.github.io/SAMA/",
+   "host": "cynthiazxy123.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Cynthiazxy123/SAMA",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/syxbb/SAMA-14B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-20",
+  "excerpt": "On 2026-03-20, a dated SAMA message linked the project's public website, source repository, and the Hugging Face page for SAMA-14B. These links establish that the three public resources were associated with SAMA on that date, without establishing further claims about the model or project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-86748f8e9e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Colibri source repository and INT4 model were publicly linked",
+ "summary": "On 2026-07-12, a Colibri GitHub repository and a Hugging Face page for a GLM-5.2 Colibri INT4 model were linked together. This is dated evidence that the project's source code and a related quantized model artifact were presented as public resources. The recorded link was not provided, so its exact release status, authorship, and functionality cannot be confirmed from the links alone.",
+ "research_notes": "",
+ "project": {
+  "name": "Colibri",
+  "family_slug": "colibri",
+  "family_display": "Colibri",
+  "model_slug": "colibri",
+  "model_display": "Colibri",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Colibri",
+  "colibri",
+  "family:colibri",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "colibri"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/JustVugg/colibri",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/jlnsrk/GLM-5.2-colibri-int4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-12",
+  "excerpt": "On 2026-07-12, a Colibri GitHub repository and a Hugging Face page for a GLM-5.2 Colibri INT4 model were linked together. This is dated evidence that the project's source code and a related quantized model artifact were presented as public resources. The recorded link was not provided, so its exact release status, authorship, and functionality cannot be confirmed from the links alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

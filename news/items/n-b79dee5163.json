@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b79dee5163",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA published LocateAnything resources and a LocateAnything-3B model page",
+ "summary": "On 2026-05-29, NVIDIA's LocateAnything research page and the linked NVIDIA LocateAnything-3B Hugging Face model page were shared. This marks a public project-and-model availability step in LocateAnything's development history.",
+ "research_notes": "",
+ "project": {
+  "name": "LocateAnything",
+  "family_slug": "locateanything",
+  "family_display": "LocateAnything",
+  "model_slug": "locateanything",
+  "model_display": "LocateAnything",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LocateAnything",
+  "family:locateanything",
+  "locateanything",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "locateanything"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://research.nvidia.com/labs/lpr/locate-anything/",
+   "host": "research.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-29",
+  "excerpt": "On 2026-05-29, NVIDIA's LocateAnything research page and the linked NVIDIA LocateAnything-3B Hugging Face model page were shared. This marks a public project-and-model availability step in LocateAnything's development history."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

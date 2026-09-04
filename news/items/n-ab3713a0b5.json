@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ab3713a0b5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "daVinci-MagiHuman was linked with official code, model, and demo resources",
+ "summary": "On 2026-03-24, the daVinci-MagiHuman development line was recorded with links to its GitHub repository, Hugging Face model page, and Hugging Face Space. This is treated as a material public-availability step because it directs readers to the project's code, model, and interactive demo; no release version or technical capability is inferred.",
+ "research_notes": "",
+ "project": {
+  "name": "daVinci-MagiHuman",
+  "family_slug": "davinci-magihuman",
+  "family_display": "daVinci MagiHuman",
+  "model_slug": "davinci-magihuman",
+  "model_display": "daVinci-MagiHuman",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "daVinci-MagiHuman",
+  "davinci-magihuman",
+  "davinci_magihuman",
+  "family:davinci-magihuman",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "davinci-magihuman"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/GAIR-NLP/daVinci-MagiHuman/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/SII-GAIR/daVinci-MagiHuman",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-24",
+  "excerpt": "On 2026-03-24, the daVinci-MagiHuman development line was recorded with links to its GitHub repository, Hugging Face model page, and Hugging Face Space. This is treated as a material public-availability step because it directs readers to the project's code, model, and interactive demo; no release version or technical capability is inferred."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

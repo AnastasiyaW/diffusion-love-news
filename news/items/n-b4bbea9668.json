@@ -10,7 +10,7 @@
  "project": {
   "name": "Managed Agents",
   "family_slug": "claude",
-  "family_display": "Managed Agents",
+  "family_display": "Claude",
   "model_slug": "managed-agents",
   "model_display": "Managed Agents",
   "version": null,

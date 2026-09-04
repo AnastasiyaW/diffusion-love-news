@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-594cd03215",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Mage-Flow project resources became available",
+ "summary": "On 2026-07-22, Mage-Flow was represented by linked project documentation and a public source repository. The same dated link set included Hugging Face discovery and demonstration pages, indicating an accessible development and evaluation entry point for the project. The supplied links alone do not establish a precise release version, technical claims, or benchmark results.",
+ "research_notes": "",
+ "project": {
+  "name": "Mage-Flow",
+  "family_slug": "microsoft-mage-flow",
+  "family_display": "Microsoft Mage Flow",
+  "model_slug": "microsoft-mage-flow",
+  "model_display": "Mage-Flow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Mage-Flow",
+  "family:microsoft-mage-flow",
+  "mage-flow",
+  "microsoft-mage-flow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "microsoft-mage-flow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://microsoft.github.io/Mage/flow/",
+   "host": "microsoft.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/microsoft/Mage",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=arxiv%3A2607.19064",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/mage-flow",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/microsoft/mage-vl-demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, Mage-Flow was represented by linked project documentation and a public source repository. The same dated link set included Hugging Face discovery and demonstration pages, indicating an accessible development and evaluation entry point for the project. The supplied links alone do not establish a precise release version, technical claims, or benchmark results."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

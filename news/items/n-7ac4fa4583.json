@@ -1,0 +1,131 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7ac4fa4583",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Boogu-Image public project resources were linked",
+ "summary": "On 2026-06-18, a Boogu-Image message linked a project website, source repository, Hugging Face organization, two demo sites, and a gallery. This is a material public-access milestone because it connects the project to its implementation, model-distribution, evaluation, and example surfaces.",
+ "research_notes": "",
+ "project": {
+  "name": "Boogu-Image",
+  "family_slug": "boogu-image",
+  "family_display": "Boogu Image",
+  "model_slug": "boogu-image",
+  "model_display": "Boogu-Image",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Boogu-Image",
+  "boogu-image",
+  "boogu_image",
+  "family:boogu-image",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "boogu-image"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://boogu.org/",
+   "host": "boogu.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/boogu-project/Boogu-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Boogu",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://demo-base.boogu.org/",
+   "host": "demo-base.boogu.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://demo-edit.boogu.org/",
+   "host": "demo-edit.boogu.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://boogu-gallery.netlify.app/",
+   "host": "boogu-gallery.netlify.app",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-18",
+  "excerpt": "On 2026-06-18, a Boogu-Image message linked a project website, source repository, Hugging Face organization, two demo sites, and a gallery. This is a material public-access milestone because it connects the project to its implementation, model-distribution, evaluation, and example surfaces."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

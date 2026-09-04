@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ded5155805",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ViFeEdit public project resources were linked",
+ "summary": "On 2026-03-18, the ViFeEdit development line was associated with a public GitHub repository and a Hugging Face link. The available evidence identifies the project resources but does not establish a release, version, capability change, or publication status.",
+ "research_notes": "",
+ "project": {
+  "name": "ViFeEdit",
+  "family_slug": "vifeedit",
+  "family_display": "ViFeEdit",
+  "model_slug": "vifeedit",
+  "model_display": "ViFeEdit",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ViFeEdit",
+  "family:vifeedit",
+  "misc",
+  "vifeedit"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "vifeedit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Lexie-YU/ViFeEdit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-18",
+  "excerpt": "On 2026-03-18, the ViFeEdit development line was associated with a public GitHub repository and a Hugging Face link. The available evidence identifies the project resources but does not establish a release, version, capability change, or publication status."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

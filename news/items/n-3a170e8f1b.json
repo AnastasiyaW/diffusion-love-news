@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3a170e8f1b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Seoul World Model public project and code references recorded",
+ "summary": "On 2026-03-17, the Seoul World Model development line recorded links to a public project website and a GitHub repository. This is a material public reference point for the project's history because it connects the project to both an official presentation surface and source-code location.",
+ "research_notes": "",
+ "project": {
+  "name": "Seoul World Model",
+  "family_slug": "seoul-world-model",
+  "family_display": "Seoul World Model",
+  "model_slug": "seoul-world-model",
+  "model_display": "Seoul World Model",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seoul World Model",
+  "family:seoul-world-model",
+  "misc",
+  "seoul-world-model"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seoul-world-model"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://seoul-world-model.github.io/",
+   "host": "seoul-world-model.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/naver-ai/seoul-world-model",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-17",
+  "excerpt": "On 2026-03-17, the Seoul World Model development line recorded links to a public project website and a GitHub repository. This is a material public reference point for the project's history because it connects the project to both an official presentation surface and source-code location."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

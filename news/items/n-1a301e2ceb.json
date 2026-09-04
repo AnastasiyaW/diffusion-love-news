@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1a301e2ceb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PhyMotion links its project, code, and model resources",
+ "summary": "On 2026-05-16, a PhyMotion entry linked a project website, a GitHub repository, and a Hugging Face model page named PhyMotion-CausalForcing-1.3B. This records the project's code and model resources as a single dated public reference point, without asserting a release date, capabilities, or changes not established by the links.",
+ "research_notes": "",
+ "project": {
+  "name": "PhyMotion",
+  "family_slug": "phymotion",
+  "family_display": "PhyMotion",
+  "model_slug": "phymotion",
+  "model_display": "PhyMotion",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PhyMotion",
+  "family:phymotion",
+  "misc",
+  "phymotion"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "phymotion"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://phy-motion.github.io/",
+   "host": "phy-motion.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/h6kplus/PhyMotion",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/6kplus/PhyMotion-CausalForcing-1.3B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-16",
+  "excerpt": "On 2026-05-16, a PhyMotion entry linked a project website, a GitHub repository, and a Hugging Face model page named PhyMotion-CausalForcing-1.3B. This records the project's code and model resources as a single dated public reference point, without asserting a release date, capabilities, or changes not established by the links."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

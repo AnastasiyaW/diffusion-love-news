@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ad9c9181f8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ABot-Earth 0.5 was publicly linked with a project site, plot viewer, and repository",
+ "summary": "On 2026-06-10, ABot-Earth 0.5 was publicly referenceable through its project website, an interactive plot-viewer URL, and a GitHub repository. This is a material development-history entry because it establishes a concrete public project line and its primary technical references.",
+ "research_notes": "",
+ "project": {
+  "name": "ABot-Earth 0.5",
+  "family_slug": "abot-earth-0-5",
+  "family_display": "ABot Earth 0.5",
+  "model_slug": "abot-earth-0-5",
+  "model_display": "ABot-Earth 0.5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ABot-Earth 0.5",
+  "abot-earth",
+  "abot-earth-0-5",
+  "family:abot-earth-0-5",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "abot-earth-0-5"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://abot-earth.amap.com/",
+   "host": "abot-earth.amap.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://abot-earth.amap.com/plot-viewer?watchHeight=-2.4&model=82_Colosseum_Rome",
+   "host": "abot-earth.amap.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/amap-cvlab/ABot-Earth-0.5",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-10",
+  "excerpt": "On 2026-06-10, ABot-Earth 0.5 was publicly referenceable through its project website, an interactive plot-viewer URL, and a GitHub repository. This is a material development-history entry because it establishes a concrete public project line and its primary technical references."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

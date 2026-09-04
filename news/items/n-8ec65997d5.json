@@ -1,0 +1,87 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8ec65997d5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Netflix said about 300 programs had used AI during 2026",
+ "summary": "On 2026-07-18, this line recorded Variety's report that Netflix said roughly 300 programs had used AI during that year. The URL identifies the claim as part of Netflix's second-quarter earnings coverage; the supplied metadata does not establish the affected workflows, productions, or governance.",
+ "research_notes": "",
+ "project": {
+  "name": "Netflix",
+  "family_slug": "netflix",
+  "family_display": "Netflix",
+  "model_slug": "netflix",
+  "model_display": "Netflix",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Netflix",
+  "family:netflix",
+  "misc",
+  "netflix",
+  "netflix_ai_anime",
+  "netflix_mgs"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "netflix"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://variety.com/2026/biz/news/about-300-netflix-programs-used-ai-this-year-q2-earnings-1236812914/",
+   "host": "variety.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-18",
+  "excerpt": "On 2026-07-18, this line recorded Variety's report that Netflix said roughly 300 programs had used AI during that year. The URL identifies the claim as part of Netflix's second-quarter earnings coverage; the supplied metadata does not establish the affected workflows, productions, or governance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-86875b15aa",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Unlimited-OCR official repositories were shared",
+ "summary": "On 2026-06-22, the Unlimited-OCR project was referenced through official Hugging Face and GitHub repository links. This is a material development-history event because it establishes public project resources that readers can inspect and use as primary references.",
+ "research_notes": "",
+ "project": {
+  "name": "Unlimited-OCR",
+  "family_slug": "unlimited-ocr",
+  "family_display": "Unlimited OCR",
+  "model_slug": "unlimited-ocr",
+  "model_display": "Unlimited-OCR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unlimited-OCR",
+  "baidu-unlimited-ocr",
+  "family:unlimited-ocr",
+  "misc",
+  "unlimited-ocr"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "unlimited-ocr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/baidu/Unlimited-OCR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/baidu/Unlimited-OCR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-22",
+  "excerpt": "On 2026-06-22, the Unlimited-OCR project was referenced through official Hugging Face and GitHub repository links. This is a material development-history event because it establishes public project resources that readers can inspect and use as primary references."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

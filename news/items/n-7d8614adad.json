@@ -10,7 +10,7 @@
  "project": {
   "name": "HiDream-O1-Image",
   "family_slug": "hidream",
-  "family_display": "HiDream-O1-Image",
+  "family_display": "HiDream",
   "model_slug": "hidream",
   "model_display": "HiDream",
   "version": null,

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-32a7d157bd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face repository linked for Qwen3.8-27B-Uncensored HauhauCS Aggressive MTP GGUF",
+ "summary": "On 2026-08-22, this development line linked the Hugging Face repository named Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF. The dated link records a public model artifact associated with the project, so it is retained as a development-history event.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "family_slug": "qwen3-8-27b-uncensored",
+  "family_display": "Qwen3.8 27B Uncensored",
+  "model_slug": "qwen3-8-27b-uncensored",
+  "model_display": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "family:qwen3-8-27b-uncensored",
+  "misc",
+  "qwen3-8-27b-uncensored",
+  "qwen3_8_uncensored_hauhaucs"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-27b-uncensored"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-22",
+  "excerpt": "On 2026-08-22, this development line linked the Hugging Face repository named Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF. The dated link records a public model artifact associated with the project, so it is retained as a development-history event."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

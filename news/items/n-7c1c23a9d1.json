@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7c1c23a9d1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PyPI Wheel Downloader repository reference",
+ "summary": "On 2026-06-07, the PyPI Wheel Downloader development line was linked to its GitHub repository. This records a public project-reference step, without establishing a release, version, or feature set.",
+ "research_notes": "",
+ "project": {
+  "name": "PyPI Wheel Downloader",
+  "family_slug": "pypi-wheel-downloader",
+  "family_display": "PyPI Wheel Downloader",
+  "model_slug": "pypi-wheel-downloader",
+  "model_display": "PyPI Wheel Downloader",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PyPI Wheel Downloader",
+  "family:pypi-wheel-downloader",
+  "misc",
+  "pypi-wheel-downloader",
+  "pypi_wheel_downloader"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pypi-wheel-downloader"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/mkhazaeidev/pypi-wheel-downloader",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-07",
+  "excerpt": "On 2026-06-07, the PyPI Wheel Downloader development line was linked to its GitHub repository. This records a public project-reference step, without establishing a release, version, or feature set."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

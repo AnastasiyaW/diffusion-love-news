@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-16c3e34986",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Vibe Coding XR was introduced with XR Blocks and a Gemini resource",
+ "summary": "On 2026-03-26, Vibe Coding XR was introduced through linked Google Research, XR Blocks, and Gemini resources. The dated links indicate a development step pairing AI-assisted XR prototyping with an associated toolkit and Gemini resource. The supplied evidence does not establish availability, technical capabilities, or product status beyond those linked resources.",
+ "research_notes": "",
+ "project": {
+  "name": "Vibe Coding XR",
+  "family_slug": "vibe-coding-xr",
+  "family_display": "Vibe Coding XR",
+  "model_slug": "vibe-coding-xr",
+  "model_display": "Vibe Coding XR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Vibe Coding XR",
+  "family:vibe-coding-xr",
+  "misc",
+  "vibe-coding-xr"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "vibe-coding-xr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini/",
+   "host": "research.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/google/xrblocks",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://gemini.google.com/gem/71ee80f488a4?usp=sharing",
+   "host": "gemini.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-26",
+  "excerpt": "On 2026-03-26, Vibe Coding XR was introduced through linked Google Research, XR Blocks, and Gemini resources. The dated links indicate a development step pairing AI-assisted XR prototyping with an associated toolkit and Gemini resource. The supplied evidence does not establish availability, technical capabilities, or product status beyond those linked resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

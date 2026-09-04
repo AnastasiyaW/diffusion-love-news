@@ -10,7 +10,7 @@
  "project": {
   "name": "HuggingFace Kernels",
   "family_slug": "flash-attention",
-  "family_display": "HuggingFace Kernels",
+  "family_display": "Flash Attention",
   "model_slug": "huggingface-kernels",
   "model_display": "HuggingFace Kernels",
   "version": null,

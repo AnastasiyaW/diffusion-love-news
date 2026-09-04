@@ -1,0 +1,140 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0ebdd3ab44",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax Music 3 gained public project, model, platform, demo, and ComfyUI entry points",
+ "summary": "On 2026-08-14, MiniMax Music 3 was documented through linked source, model, music-generation guide, demo, and ComfyUI resources. The dated link set connected the project across GitHub, Hugging Face, the MiniMax platform, and ComfyUI. This is material because it marks a public development step with several practical entry points for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "MiniMax Music 3",
+  "family_slug": "minimax-music-3",
+  "family_display": "MiniMax Music 3",
+  "model_slug": "minimax-music-3",
+  "model_display": "MiniMax Music 3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax Music 3",
+  "family:minimax-music-3",
+  "minimax-music-3",
+  "minimax_music",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-music-3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/MiniMax-AI/MiniMax-Music3",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://platform.minimax.io/docs/guides/music-generation",
+   "host": "platform.minimax.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/MiniMaxAI/MiniMax-Music3",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://minimax-ai.github.io/music3-demo/",
+   "host": "minimax-ai.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Comfy-Org/workflow_templates/blob/main/templates/audio_minimax_music_3.json",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.comfy.org/tutorials/audio/minimax/minimax-music-3",
+   "host": "docs.comfy.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-14",
+  "excerpt": "On 2026-08-14, MiniMax Music 3 was documented through linked source, model, music-generation guide, demo, and ComfyUI resources. The dated link set connected the project across GitHub, Hugging Face, the MiniMax platform, and ComfyUI. This is material because it marks a public development step with several practical entry points for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

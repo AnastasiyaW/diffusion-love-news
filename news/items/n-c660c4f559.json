@@ -10,7 +10,7 @@
  "project": {
   "name": "Continuous-Time Distribution Matching",
   "family_slug": "cdm",
-  "family_display": "Continuous-Time Distribution Matching",
+  "family_display": "Cdm",
   "model_slug": "continuous-time-distribution-matching",
   "model_display": "Continuous-Time Distribution Matching",
   "version": null,

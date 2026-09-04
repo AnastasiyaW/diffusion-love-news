@@ -10,7 +10,7 @@
  "project": {
   "name": "Free Claude Code",
   "family_slug": "claude-code",
-  "family_display": "Free Claude Code",
+  "family_display": "Claude Code",
   "model_slug": "claude-code",
   "model_display": "Claude Code",
   "version": null,

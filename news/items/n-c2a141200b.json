@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-ConnectTheDots",
   "family_slug": "connect-the-dots",
-  "family_display": "ComfyUI-ConnectTheDots",
+  "family_display": "Connect The Dots",
   "model_slug": "connectthedots",
   "model_display": "ConnectTheDots",
   "version": null,

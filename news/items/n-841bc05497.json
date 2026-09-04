@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-841bc05497",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "EgoForce public project resources were linked",
+ "summary": "On 2026-07-14, the EgoForce development line was associated with a project page, a source repository, a Hugging Face model page, and a Hugging Face Space. Together, the dated links establish a public entry point for project information, code, model artifacts, and an interactive surface. No claims are made here about a specific version, capabilities, benchmarks, or release status.",
+ "research_notes": "",
+ "project": {
+  "name": "EgoForce",
+  "family_slug": "egoforce",
+  "family_display": "EgoForce",
+  "model_slug": "egoforce",
+  "model_display": "EgoForce",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "EgoForce",
+  "egoforce",
+  "family:egoforce",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "egoforce"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://dfki-av.github.io/EgoForce/",
+   "host": "dfki-av.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/dfki-av/EgoForce/tree/main",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/chris10/EgoForce",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/chris10/EgoForce",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-14",
+  "excerpt": "On 2026-07-14, the EgoForce development line was associated with a project page, a source repository, a Hugging Face model page, and a Hugging Face Space. Together, the dated links establish a public entry point for project information, code, model artifacts, and an interactive surface. No claims are made here about a specific version, capabilities, benchmarks, or release status."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

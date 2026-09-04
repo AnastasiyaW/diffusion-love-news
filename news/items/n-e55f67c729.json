@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e55f67c729",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MODUS public project resources became available",
+ "summary": "On 2026-07-29, MODUS was shared with links to its official project page, source repository, Hugging Face model, and interactive demo. This constitutes a material public-availability step because it gave practitioners direct access to the project and its associated resources.",
+ "research_notes": "",
+ "project": {
+  "name": "MODUS",
+  "family_slug": "modus",
+  "family_display": "MODUS",
+  "model_slug": "modus",
+  "model_display": "MODUS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MODUS",
+  "family:modus",
+  "misc",
+  "modus"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "modus"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://modus-multimodal.epfl.ch/",
+   "host": "modus-multimodal.epfl.ch",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/EPFL-VILAB/Modus",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/EPFL-VILAB/MODUS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/EPFL-VILAB/MODUS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-29",
+  "excerpt": "On 2026-07-29, MODUS was shared with links to its official project page, source repository, Hugging Face model, and interactive demo. This constitutes a material public-availability step because it gave practitioners direct access to the project and its associated resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

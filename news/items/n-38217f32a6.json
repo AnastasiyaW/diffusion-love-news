@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-38217f32a6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Google AI Studio announced a full-stack vibe-coding update",
+ "summary": "On 2026-03-20, Google AI Studio announced an update concerning full-stack vibe coding, as indicated by the supplied Google Blog link. The accompanying AI Studio apps link places the development in the product's application-building experience. The exact capabilities, availability, and technical details are not established by the unresearched link-only evidence.",
+ "research_notes": "",
+ "project": {
+  "name": "Google AI Studio",
+  "family_slug": "google-ai-studio",
+  "family_display": "Google AI Studio",
+  "model_slug": "google-ai-studio",
+  "model_display": "Google AI Studio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Google AI Studio",
+  "family:google-ai-studio",
+  "google-ai-studio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "google-ai-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/full-stack-vibe-coding-google-ai-studio/",
+   "host": "blog.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://aistudio.google.com/apps",
+   "host": "aistudio.google.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-20",
+  "excerpt": "On 2026-03-20, Google AI Studio announced an update concerning full-stack vibe coding, as indicated by the supplied Google Blog link. The accompanying AI Studio apps link places the development in the product's application-building experience. The exact capabilities, availability, and technical details are not established by the unresearched link-only evidence."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

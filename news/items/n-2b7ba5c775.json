@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2b7ba5c775",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OmniVideo-7B_Qwen2.5-Omni model and OmniVideo-100K resources linked",
+ "summary": "On 2026-06-21, this development line was associated with a Hugging Face resource for OmniVideo-7B_Qwen2.5-Omni and the OmniVideo-100K project page. The dated links make this a visible project-history step, but do not establish the post's exact announcement, release status, capabilities, or dataset details.",
+ "research_notes": "",
+ "project": {
+  "name": "OmniVideo-7B_Qwen2.5-Omni",
+  "family_slug": "omnivideo-7b-qwen2-5-omni",
+  "family_display": "OmniVideo 7B Qwen2.5 Omni",
+  "model_slug": "omnivideo-7b-qwen2-5-omni",
+  "model_display": "OmniVideo-7B_Qwen2.5-Omni",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OmniVideo-7B_Qwen2.5-Omni",
+  "family:omnivideo-7b-qwen2-5-omni",
+  "misc",
+  "omnivideo",
+  "omnivideo-7b-qwen2-5-omni"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "omnivideo-7b-qwen2-5-omni"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/MiG-NJU/OmniVideo-7B_Qwen2.5-Omni",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://yzlmhzz.github.io/OmniVideo-100K/",
+   "host": "yzlmhzz.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-21",
+  "excerpt": "On 2026-06-21, this development line was associated with a Hugging Face resource for OmniVideo-7B_Qwen2.5-Omni and the OmniVideo-100K project page. The dated links make this a visible project-history step, but do not establish the post's exact announcement, release status, capabilities, or dataset details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-65c8f1b873",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ByteDance published an EvoQuality resource on Hugging Face",
+ "summary": "On 2026-06-11, this development line recorded a public link to ByteDance's EvoQuality resource on Hugging Face. This is a material public-distribution point for the project, although the supplied evidence does not establish the resource's artifact type, version, capabilities, or accompanying announcement details.",
+ "research_notes": "",
+ "project": {
+  "name": "EvoQuality",
+  "family_slug": "evoquality",
+  "family_display": "EvoQuality",
+  "model_slug": "evoquality",
+  "model_display": "EvoQuality",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "EvoQuality",
+  "bytedance-evoquality",
+  "evoquality",
+  "family:evoquality",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "evoquality"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ByteDance/EvoQuality",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-11",
+  "excerpt": "On 2026-06-11, this development line recorded a public link to ByteDance's EvoQuality resource on Hugging Face. This is a material public-distribution point for the project, although the supplied evidence does not establish the resource's artifact type, version, capabilities, or accompanying announcement details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

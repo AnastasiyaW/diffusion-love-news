@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a99ab8a6eb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3.8-Flash-Next project resources were documented",
+ "summary": "On 2026-08-26, Qwen3.8-Flash-Next was recorded with links to a project repository, Hugging Face resources, a public demo, and Qwen Cloud. The dated link set also included a Hugging Face search for quantized models based on this subject. This establishes a public project-resource milestone, without establishing a release date, capabilities, or deployment status.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-Flash-Next",
+  "family_slug": "qwen3-8-flash-next",
+  "family_display": "Qwen3.8 Flash Next",
+  "model_slug": "qwen3-8-flash-next",
+  "model_display": "Qwen3.8-Flash-Next",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-Flash-Next",
+  "family:qwen3-8-flash-next",
+  "misc",
+  "qwen",
+  "qwen3-8-flash-next"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-flash-next"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/QwenLM/Qwen3.8-Flash-Next",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3AQwen%2FQwen3.8-Flash-Next",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/bored10/qwen3-8-flash-next-demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.qwencloud.com/",
+   "host": "qwencloud.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-26",
+  "excerpt": "On 2026-08-26, Qwen3.8-Flash-Next was recorded with links to a project repository, Hugging Face resources, a public demo, and Qwen Cloud. The dated link set also included a Hugging Face search for quantized models based on this subject. This establishes a public project-resource milestone, without establishing a release date, capabilities, or deployment status."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

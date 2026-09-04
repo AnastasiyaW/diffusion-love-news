@@ -10,7 +10,7 @@
  "project": {
   "name": "LLaDA2.0-Uni",
   "family_slug": "llada",
-  "family_display": "LLaDA2.0-Uni",
+  "family_display": "Llada",
   "model_slug": "llada2-0",
   "model_display": "LLaDA2.0",
   "version": null,

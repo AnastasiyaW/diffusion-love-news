@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b66c6b5fe8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Obsidian Mind GitHub repository was referenced",
+ "summary": "On 2026-07-28, a dated The source member in the Obsidian Mind thread linked to the project's GitHub repository. This establishes a public repository reference for the project on that date, but the sealed evidence does not identify a release, feature, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "Obsidian Mind",
+  "family_slug": "obsidian-mind",
+  "family_display": "Obsidian Mind",
+  "model_slug": "obsidian-mind",
+  "model_display": "Obsidian Mind",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Obsidian Mind",
+  "family:obsidian-mind",
+  "misc",
+  "obsidian-mind"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "obsidian-mind"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/breferrari/obsidian-mind",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-28",
+  "excerpt": "On 2026-07-28, a dated The source member in the Obsidian Mind thread linked to the project's GitHub repository. This establishes a public repository reference for the project on that date, but the sealed evidence does not identify a release, feature, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

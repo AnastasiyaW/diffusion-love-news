@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1a26ffa75d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LiTo was linked to an Apple GitHub repository",
+ "summary": "On 2026-05-21, the sealed LiTo development-line record linked to the Apple GitHub repository `apple/ml-lito`. This is a material public project-reference milestone, but the supplied evidence does not establish the repository's contents, release status, or whether this was LiTo's first public availability.",
+ "research_notes": "",
+ "project": {
+  "name": "LiTo",
+  "family_slug": "lito",
+  "family_display": "LiTo",
+  "model_slug": "lito",
+  "model_display": "LiTo",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LiTo",
+  "family:lito",
+  "lito",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lito"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/apple/ml-lito",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-21",
+  "excerpt": "On 2026-05-21, the sealed LiTo development-line record linked to the Apple GitHub repository `apple/ml-lito`. This is a material public project-reference milestone, but the supplied evidence does not establish the repository's contents, release status, or whether this was LiTo's first public availability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

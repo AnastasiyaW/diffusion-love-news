@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-DreamScene360",
   "family_slug": "dreamscene360",
-  "family_display": "ComfyUI-DreamScene360",
+  "family_display": "DreamScene360",
   "model_slug": "dreamscene360",
   "model_display": "DreamScene360",
   "version": null,

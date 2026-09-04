@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b6851c60f8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ACTI distribution links were recorded",
+ "summary": "On 2026-07-01, an ACTI-associated The recorded link linked to the project website, an X status page, and the project's X download endpoint. This records an apparent public-access or distribution update, pending confirmation against the original message.",
+ "research_notes": "",
+ "project": {
+  "name": "ACTI",
+  "family_slug": "acti",
+  "family_display": "ACTI",
+  "model_slug": "acti",
+  "model_display": "ACTI",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ACTI",
+  "acti",
+  "family:acti",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "acti"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://openacti.com/",
+   "host": "openacti.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://x.com/openacti1/status/2071964952966177254",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://openacti.com/dl/x",
+   "host": "openacti.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, an ACTI-associated The recorded link linked to the project website, an X status page, and the project's X download endpoint. This records an apparent public-access or distribution update, pending confirmation against the original message."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

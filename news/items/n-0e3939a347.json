@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0e3939a347",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3-ForcedAligner-0.6B-hf was linked on Hugging Face",
+ "summary": "On 2026-06-26, the Qwen3-ForcedAligner-0.6B-hf Hugging Face model page was linked in the Qwen3 ASR thread. This is a material development-line event because it identifies a specific forced-alignment model artifact. The original post and model-card contents were not provided, so no capabilities, release claims, or usage details are asserted.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3-ForcedAligner-0.6B-hf",
+  "family_slug": "qwen3-forcedaligner-0-6b-hf",
+  "family_display": "Qwen3 ForcedAligner 0.6B hf",
+  "model_slug": "qwen3-forcedaligner-0-6b-hf",
+  "model_display": "Qwen3-ForcedAligner-0.6B-hf",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3-ForcedAligner-0.6B-hf",
+  "family:qwen3-forcedaligner-0-6b-hf",
+  "misc",
+  "qwen3-asr",
+  "qwen3-forcedaligner-0-6b-hf"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-forcedaligner-0-6b-hf"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B-hf",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-26",
+  "excerpt": "On 2026-06-26, the Qwen3-ForcedAligner-0.6B-hf Hugging Face model page was linked in the Qwen3 ASR thread. This is a material development-line event because it identifies a specific forced-alignment model artifact. The original post and model-card contents were not provided, so no capabilities, release claims, or usage details are asserted."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

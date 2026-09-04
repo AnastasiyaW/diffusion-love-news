@@ -10,7 +10,7 @@
  "project": {
   "name": "ERNIE 5.1 Preview",
   "family_slug": "ernie",
-  "family_display": "ERNIE 5.1 Preview",
+  "family_display": "ERNIE",
   "model_slug": "ernie-5-1",
   "model_display": "ERNIE 5.1",
   "version": null,

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e2e11bcd53",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SpatialBoost project website and GitHub repository linked",
+ "summary": "On 2026-03-30, a SpatialBoost message linked its project website and GitHub repository. This is recorded as a material public-development event because it gives readers public project and code entry points; the provided evidence does not establish technical claims, release contents, or maturity.",
+ "research_notes": "",
+ "project": {
+  "name": "SpatialBoost",
+  "family_slug": "spatialboost",
+  "family_display": "SpatialBoost",
+  "model_slug": "spatialboost",
+  "model_display": "SpatialBoost",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SpatialBoost",
+  "family:spatialboost",
+  "misc",
+  "spatialboost"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "spatialboost"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://rootyjeon.github.io/spatial-boost/",
+   "host": "rootyjeon.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/rootyJeon/SpatialBoost",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-30",
+  "excerpt": "On 2026-03-30, a SpatialBoost message linked its project website and GitHub repository. This is recorded as a material public-development event because it gives readers public project and code entry points; the provided evidence does not establish technical claims, release contents, or maturity."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

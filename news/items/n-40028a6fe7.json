@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-40028a6fe7",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Raon-OpenTTS source, model, and ComfyUI reference were linked",
+ "summary": "On 2026-08-20, this development-line member linked the Raon-OpenTTS source repository, the KRAFTON/Raon-OpenTTS-1B model page, and a separate ComfyUI-related Hugging Face page. The linked set is a material public reference point for the project and its apparent model and workflow availability. The links alone do not establish release versions, capabilities, or whether the ComfyUI resource was an official project component.",
+ "research_notes": "",
+ "project": {
+  "name": "Raon-OpenTTS",
+  "family_slug": "raon-opentts",
+  "family_display": "Raon OpenTTS",
+  "model_slug": "raon-opentts",
+  "model_display": "Raon-OpenTTS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Raon-OpenTTS",
+  "family:raon-opentts",
+  "misc",
+  "raon-opentts"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "raon-opentts"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/krafton-ai/Raon-OpenTTS",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/KRAFTON/Raon-OpenTTS-1B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/drbaph/Raon-OpenTTS-comfyui",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-20",
+  "excerpt": "On 2026-08-20, this development-line member linked the Raon-OpenTTS source repository, the KRAFTON/Raon-OpenTTS-1B model page, and a separate ComfyUI-related Hugging Face page. The linked set is a material public reference point for the project and its apparent model and workflow availability. The links alone do not establish release versions, capabilities, or whether the ComfyUI resource was an official project component."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ba790c8631",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Civitai outlines separate .com and .red entry points",
+ "summary": "On 2026-04-13, Civitai published an article describing Civitai.com and Civitai.red as two access points and indicating a forthcoming direction for them. The link establishes the existence of that first-party announcement, but the sealed evidence does not provide enough detail to state the operational distinction or user impact.",
+ "research_notes": ".com — SFW, карты, memberships и Creator Program; .red — полный каталог, NSFW и crypto. Аккаунт, загрузки и follows общие.",
+ "project": {
+  "name": "Civitai",
+  "family_slug": "civitai",
+  "family_display": "Civitai",
+  "model_slug": "civitai",
+  "model_display": "Civitai",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Civitai",
+  "civitai",
+  "civitai-clubs",
+  "civitai_monetization",
+  "family:civitai",
+  "misc",
+  "platform_policy"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "civitai"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/articles/28369/two-front-doors-civitaicom-civitaired-and-whats-next",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-13",
+  "excerpt": "On 2026-04-13, Civitai published an article describing Civitai.com and Civitai.red as two access points and indicating a forthcoming direction for them. The link establishes the existence of that first-party announcement, but the sealed evidence does not provide enough detail to state the operational distinction or user impact."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

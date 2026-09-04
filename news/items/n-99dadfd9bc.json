@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-99dadfd9bc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiMo Code public project resources linked",
+ "summary": "On 2026-06-12, a dated item linked MiMo Code’s coder page, GitHub repository, and Chinese getting-started page. This establishes a public-facing project footprint and is material to the development line. The supplied evidence does not establish whether this was an initial release, a versioned update, or a change in functionality.",
+ "research_notes": "",
+ "project": {
+  "name": "MiMo Code",
+  "family_slug": "mimo-code",
+  "family_display": "MiMo Code",
+  "model_slug": "mimo-code",
+  "model_display": "MiMo Code",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiMo Code",
+  "family:mimo-code",
+  "mimo-code",
+  "misc",
+  "xiaomi-mimo-code"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mimo-code"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://mimo.xiaomi.com/coder",
+   "host": "mimo.xiaomi.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/XiaomiMiMo/MiMo-Code",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://mimo.xiaomi.com/zh/mimocode/start",
+   "host": "mimo.xiaomi.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-12",
+  "excerpt": "On 2026-06-12, a dated item linked MiMo Code’s coder page, GitHub repository, and Chinese getting-started page. This establishes a public-facing project footprint and is material to the development line. The supplied evidence does not establish whether this was an initial release, a versioned update, or a change in functionality."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

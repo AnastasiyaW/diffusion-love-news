@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-cddebb8e59",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ProxyPose public project resources linked",
+ "summary": "On 2026-07-11, ProxyPose was presented through linked project, source-code, and Hugging Face resources. This is a material public development-line event because it establishes a discoverable project presence, although the linked resources' technical claims and release status were not independently researched.",
+ "research_notes": "",
+ "project": {
+  "name": "ProxyPose",
+  "family_slug": "proxypose",
+  "family_display": "ProxyPose",
+  "model_slug": "proxypose",
+  "model_display": "ProxyPose",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ProxyPose",
+  "family:proxypose",
+  "misc",
+  "proxypose"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "proxypose"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ruihangzhang97.github.io/proxypose/",
+   "host": "ruihangzhang97.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ruihangzhang97/proxypose",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ruihangzhang79/proxypose",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-11",
+  "excerpt": "On 2026-07-11, ProxyPose was presented through linked project, source-code, and Hugging Face resources. This is a material public development-line event because it establishes a discoverable project presence, although the linked resources' technical claims and release status were not independently researched."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

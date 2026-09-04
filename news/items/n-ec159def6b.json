@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ec159def6b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ID-LoRA public project resources linked",
+ "summary": "On 2026-03-15, ID-LoRA linked its project website, source repository, and model-related hosting profiles. This is a material public availability step for the project's development history because it points readers to the project's primary resources. The dated links alone do not establish a specific release, version, capability, or license.",
+ "research_notes": "",
+ "project": {
+  "name": "ID-LoRA",
+  "family_slug": "id-lora",
+  "family_display": "ID LoRA",
+  "model_slug": "id-lora",
+  "model_display": "ID-LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ID-LoRA",
+  "family:id-lora",
+  "id-lora",
+  "id_lora",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "id-lora"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://id-lora.github.io/",
+   "host": "id-lora.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ID-LoRA/ID-LoRA/tree/main",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AviadDahan",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-15",
+  "excerpt": "On 2026-03-15, ID-LoRA linked its project website, source repository, and model-related hosting profiles. This is a material public availability step for the project's development history because it points readers to the project's primary resources. The dated links alone do not establish a specific release, version, capability, or license."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

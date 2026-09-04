@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4b652bcc77",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Stripe reportedly neared an acquisition of OpenRouter for more than $7 billion",
+ "summary": "On 2026-08-17, a Bloomberg report indicated that Stripe was nearing a deal to acquire AI firm OpenRouter for more than $7 billion. This was reported prospective deal activity, not a confirmed completed acquisition, and should be recorded with that qualification.",
+ "research_notes": "",
+ "project": {
+  "name": "Stripe",
+  "family_slug": "stripe",
+  "family_display": "Stripe",
+  "model_slug": "stripe",
+  "model_display": "Stripe",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Stripe",
+  "family:stripe",
+  "misc",
+  "stripe"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "stripe"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+   "host": "bloomberg.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, a Bloomberg report indicated that Stripe was nearing a deal to acquire AI firm OpenRouter for more than $7 billion. This was reported prospective deal activity, not a confirmed completed acquisition, and should be recorded with that qualification."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

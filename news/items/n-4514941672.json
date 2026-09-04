@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4514941672",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "pdf-inspector repository linked in the Firecrawl thread",
+ "summary": "On 2026-08-03, the pdf-inspector GitHub repository was linked in the Firecrawl thread. This is a material historical reference because it identifies the project’s source repository at that date. The available evidence does not establish a release, feature change, or project maturity.",
+ "research_notes": "",
+ "project": {
+  "name": "pdf-inspector",
+  "family_slug": "pdf-inspector",
+  "family_display": "pdf inspector",
+  "model_slug": "pdf-inspector",
+  "model_display": "pdf-inspector",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:pdf-inspector",
+  "firecrawl",
+  "misc",
+  "pdf-inspector"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pdf-inspector"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/firecrawl/pdf-inspector",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-03",
+  "excerpt": "On 2026-08-03, the pdf-inspector GitHub repository was linked in the Firecrawl thread. This is a material historical reference because it identifies the project’s source repository at that date. The available evidence does not establish a release, feature change, or project maturity."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0f55e4f6a1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Dated public references for EVIE-Preview-4.5B",
+ "summary": "On 2026-08-18, a dated post linked the GitHub repository and Hugging Face page for EVIE-Preview-4.5B. The paired project references establish a public discovery point for this development line. The supplied evidence does not establish the model's capabilities, contents, release status, or licensing.",
+ "research_notes": "",
+ "project": {
+  "name": "EVIE-Preview-4.5B",
+  "family_slug": "evie-preview-4-5b",
+  "family_display": "EVIE Preview 4.5B",
+  "model_slug": "evie-preview-4-5b",
+  "model_display": "EVIE-Preview-4.5B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "EVIE-Preview-4.5B",
+  "evie-preview-4-5b",
+  "family:evie-preview-4-5b",
+  "misc",
+  "tencent/evie-preview-4.5b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "evie-preview-4-5b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent/EVIE-Preview-4.5B",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/EVIE-Preview-4.5B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-18",
+  "excerpt": "On 2026-08-18, a dated post linked the GitHub repository and Hugging Face page for EVIE-Preview-4.5B. The paired project references establish a public discovery point for this development line. The supplied evidence does not establish the model's capabilities, contents, release status, or licensing."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

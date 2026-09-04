@@ -10,7 +10,7 @@
  "project": {
   "name": "Adaptive Spatio-Temporal 3DGS",
   "family_slug": "gaussian-splatting",
-  "family_display": "Adaptive Spatio-Temporal",
+  "family_display": "Gaussian Splatting",
   "model_slug": "adaptive-spatio-temporal-3dgs",
   "model_display": "Adaptive Spatio-Temporal 3DGS",
   "version": "3DGS",

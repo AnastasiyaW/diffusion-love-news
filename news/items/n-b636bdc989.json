@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b636bdc989",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Initial public announcement of Starchild-1",
+ "summary": "On 2026-05-19, a public link associated with Starchild-1 pointed to an Odyssey article identified by its URL as an introduction to the project. This is proposed as a new history event because it appears to mark the project's initial public introduction. The sealed evidence supplies no technical, availability, or performance details, so none are asserted.",
+ "research_notes": "",
+ "project": {
+  "name": "Starchild-1",
+  "family_slug": "starchild-1",
+  "family_display": "Starchild 1",
+  "model_slug": "starchild-1",
+  "model_display": "Starchild-1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Starchild-1",
+  "family:starchild-1",
+  "misc",
+  "starchild-1",
+  "starchild_1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "starchild-1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://odyssey.ml/introducing-starchild-1",
+   "host": "odyssey.ml",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-19",
+  "excerpt": "On 2026-05-19, a public link associated with Starchild-1 pointed to an Odyssey article identified by its URL as an introduction to the project. This is proposed as a new history event because it appears to mark the project's initial public introduction. The sealed evidence supplies no technical, availability, or performance details, so none are asserted."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

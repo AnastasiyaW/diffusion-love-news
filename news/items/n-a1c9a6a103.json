@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a1c9a6a103",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LlamaServerLauncherAvalonia repository was referenced",
+ "summary": "On 2026-06-17, the LlamaServerLauncher development line referenced the GitHub repository LlamaServerLauncherAvalonia. The available evidence establishes the repository association but does not establish a release, code change, feature, or usage instruction.",
+ "research_notes": "",
+ "project": {
+  "name": "LlamaServerLauncher",
+  "family_slug": "llama-server-launcher",
+  "family_display": "Llama Server Launcher",
+  "model_slug": "llama-server-launcher",
+  "model_display": "LlamaServerLauncher",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LlamaServerLauncher",
+  "family:llama-server-launcher",
+  "llama-server-launcher",
+  "llama_server_launcher",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "llama-server-launcher"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/pytraveler/LlamaServerLauncherAvalonia",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-17",
+  "excerpt": "On 2026-06-17, the LlamaServerLauncher development line referenced the GitHub repository LlamaServerLauncherAvalonia. The available evidence establishes the repository association but does not establish a release, code change, feature, or usage instruction."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

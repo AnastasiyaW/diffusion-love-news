@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7bd01d988c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "On 2026-08-04, QuerySplat was linked through its project site, GitHub repository, and Hugging Face page.",
+ "summary": "On 2026-08-04, the dated record connected QuerySplat with a public project website, a GitHub repository, and a Hugging Face page. This is a material public-development milestone because it establishes linked project resources, but the available evidence does not support claims about a release version, functionality, or results.",
+ "research_notes": "",
+ "project": {
+  "name": "QuerySplat",
+  "family_slug": "querysplat",
+  "family_display": "QuerySplat",
+  "model_slug": "querysplat",
+  "model_display": "QuerySplat",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "QuerySplat",
+  "family:querysplat",
+  "misc",
+  "querysplat"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "querysplat"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://inspatio.github.io/querysplat/",
+   "host": "inspatio.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/inspatio/querysplat",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/inspatio/querysplat",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-04",
+  "excerpt": "On 2026-08-04, the dated record connected QuerySplat with a public project website, a GitHub repository, and a Hugging Face page. This is a material public-development milestone because it establishes linked project resources, but the available evidence does not support claims about a release version, functionality, or results."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

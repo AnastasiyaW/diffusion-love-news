@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f43e44e73f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Moebius project resources were shared publicly",
+ "summary": "On 2026-06-20, a message about Moebius linked the project website, its GitHub repository, and its Hugging Face page. This is treated as a material public-availability milestone because it directs readers to the project's public-facing resources, while the exact release or capability cannot be established from the supplied links alone.",
+ "research_notes": "",
+ "project": {
+  "name": "Moebius",
+  "family_slug": "moebius",
+  "family_display": "Moebius",
+  "model_slug": "moebius",
+  "model_display": "Moebius",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Moebius",
+  "family:moebius",
+  "misc",
+  "moebius"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "moebius"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://hustvl.github.io/Moebius/",
+   "host": "hustvl.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "http://github.com/hustvl/Moebius",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/hustvl/Moebius",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-20",
+  "excerpt": "On 2026-06-20, a message about Moebius linked the project website, its GitHub repository, and its Hugging Face page. This is treated as a material public-availability milestone because it directs readers to the project's public-facing resources, while the exact release or capability cannot be established from the supplied links alone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

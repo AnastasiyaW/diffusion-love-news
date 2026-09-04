@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-02ff6518d6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Anti-Vocale public GitHub repository referenced",
+ "summary": "On 2026-06-29, the Anti-Vocale development record included a link to its public GitHub repository. The dated link establishes a project repository reference, but does not identify a specific release, commit, feature, or other change.",
+ "research_notes": "",
+ "project": {
+  "name": "Anti-Vocale",
+  "family_slug": "anti-vocale",
+  "family_display": "Anti Vocale",
+  "model_slug": "anti-vocale",
+  "model_display": "Anti-Vocale",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Anti-Vocale",
+  "anti-vocale",
+  "family:anti-vocale",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anti-vocale"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/RisorseArtificiali/anti-vocale",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-29",
+  "excerpt": "On 2026-06-29, the Anti-Vocale development record included a link to its public GitHub repository. The dated link establishes a project repository reference, but does not identify a specific release, commit, feature, or other change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

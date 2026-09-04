@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-29eb1f831e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Awesome Harness Engineering GitHub repository was referenced",
+ "summary": "On 2026-07-06, a dated message associated with Awesome Harness Engineering linked to its GitHub repository. This establishes a public repository reference for the project on that date, but does not establish a release, feature change, or other milestone.",
+ "research_notes": "",
+ "project": {
+  "name": "Awesome Harness Engineering",
+  "family_slug": "awesome-harness-engineering",
+  "family_display": "Awesome Harness Engineering",
+  "model_slug": "awesome-harness-engineering",
+  "model_display": "Awesome Harness Engineering",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Awesome Harness Engineering",
+  "awesome-harness-engineering",
+  "family:awesome-harness-engineering",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "awesome-harness-engineering"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ai-boost/awesome-harness-engineering",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-06",
+  "excerpt": "On 2026-07-06, a dated message associated with Awesome Harness Engineering linked to its GitHub repository. This establishes a public repository reference for the project on that date, but does not establish a release, feature change, or other milestone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

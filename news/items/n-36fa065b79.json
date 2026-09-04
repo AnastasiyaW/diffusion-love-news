@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-36fa065b79",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Sun Direction LoRA Flux 2 Klein 9B resource reference recorded",
+ "summary": "On 2026-07-03, the project’s Flux 2 Klein LoRAs thread recorded a link to its Hugging Face resource. The sealed evidence contains no post body or model-card contents, so this event establishes only the dated resource reference and makes no claim about a release version, training configuration, license, or performance.",
+ "research_notes": "",
+ "project": {
+  "name": "Sun Direction LoRA Flux 2 Klein 9B",
+  "family_slug": "sun-direction-lora-flux2-klein-9b",
+  "family_display": "Sun Direction Lora Flux2 Klein 9B",
+  "model_slug": "sun-direction-lora-flux2-klein-9b",
+  "model_display": "Sun Direction LoRA Flux 2 Klein 9B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sun Direction LoRA Flux 2 Klein 9B",
+  "family:sun-direction-lora-flux2-klein-9b",
+  "flux2-klein-loras",
+  "misc",
+  "sun-direction-lora-flux2-klein-9b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sun-direction-lora-flux2-klein-9b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-03",
+  "excerpt": "On 2026-07-03, the project’s Flux 2 Klein LoRAs thread recorded a link to its Hugging Face resource. The sealed evidence contains no post body or model-card contents, so this event establishes only the dated resource reference and makes no claim about a release version, training configuration, license, or performance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

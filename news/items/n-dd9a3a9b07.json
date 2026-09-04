@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-dd9a3a9b07",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "WhatModels public website documented",
+ "summary": "On 2026-05-15, a message in the WhatModels thread linked to the project's public website. This establishes a dated public reference point for WhatModels, but the available evidence does not identify a launch, release, or feature change.",
+ "research_notes": "",
+ "project": {
+  "name": "WhatModels",
+  "family_slug": "whatmodels",
+  "family_display": "WhatModels",
+  "model_slug": "whatmodels",
+  "model_display": "WhatModels",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "WhatModels",
+  "family:whatmodels",
+  "misc",
+  "whatmodels"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "whatmodels"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://whatmodelscanirun.com/",
+   "host": "whatmodelscanirun.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-15",
+  "excerpt": "On 2026-05-15, a message in the WhatModels thread linked to the project's public website. This establishes a dated public reference point for WhatModels, but the available evidence does not identify a launch, release, or feature change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-310e3414f5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Happy Horse 1.1 image-to-video model reference",
+ "summary": "On 2026-06-22, the Happy Horse development line recorded a reference to Happy Horse 1.1 as an image-to-video model. The dated item linked the model’s fal.ai page, a related YouTube video, and a social-media post, making it a useful historical pointer to the version’s public availability context. The available evidence does not establish a release announcement, technical changes, or benchmark results.",
+ "research_notes": "",
+ "project": {
+  "name": "Happy Horse 1.1",
+  "family_slug": "happy-horse",
+  "family_display": "Happy Horse",
+  "model_slug": "happy-horse",
+  "model_display": "Happy Horse 1.1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Happy Horse 1.1",
+  "family:happy-horse",
+  "happy-horse",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "happy-horse"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://x.com/HappyHorseATH/status/2068941160584974753",
+   "host": "x.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://fal.ai/models/alibaba/happy-horse/v1.1/image-to-video",
+   "host": "fal.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=kLJU04I9rLE",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-22",
+  "excerpt": "On 2026-06-22, the Happy Horse development line recorded a reference to Happy Horse 1.1 as an image-to-video model. The dated item linked the model’s fal.ai page, a related YouTube video, and a social-media post, making it a useful historical pointer to the version’s public availability context. The available evidence does not establish a release announcement, technical changes, or benchmark results."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

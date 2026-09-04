@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI Photopea Tab",
   "family_slug": "comfyui-photopea",
-  "family_display": "ComfyUI Photopea Tab",
+  "family_display": "ComfyUI Photopea",
   "model_slug": "comfyui-photopea",
   "model_display": "ComfyUI Photopea",
   "version": null,

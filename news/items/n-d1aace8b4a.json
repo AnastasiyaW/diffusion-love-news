@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d1aace8b4a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Muse Image, Muse Video, and MSL announcement",
+ "summary": "On 2026-07-08, Meta AI published a Muse-related announcement whose linked URL identifies Muse Image, Muse Video, and MSL. This is proposed as a material new public-history event because the link appears to introduce named components of the Muse project. The supplied evidence does not establish their capabilities, availability, or technical specifications.",
+ "research_notes": "",
+ "project": {
+  "name": "Muse",
+  "family_slug": "muse",
+  "family_display": "Muse",
+  "model_slug": "muse",
+  "model_display": "Muse",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Muse",
+  "family:muse",
+  "misc",
+  "muse"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "muse"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+   "host": "ai.meta.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-08",
+  "excerpt": "On 2026-07-08, Meta AI published a Muse-related announcement whose linked URL identifies Muse Image, Muse Video, and MSL. This is proposed as a material new public-history event because the link appears to introduce named components of the Muse project. The supplied evidence does not establish their capabilities, availability, or technical specifications."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

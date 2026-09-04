@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-17b312d487",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "V-JEPA was linked to the V-JEPA 2 repository",
+ "summary": "On 2026-03-20, the V-JEPA development line recorded a link to the facebookresearch/vjepa2 GitHub repository. This establishes that repository as a dated implementation reference for the project, without establishing any specific release, capability, or result.",
+ "research_notes": "",
+ "project": {
+  "name": "V-JEPA",
+  "family_slug": "v-jepa",
+  "family_display": "V JEPA",
+  "model_slug": "v-jepa",
+  "model_display": "V-JEPA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "V-JEPA",
+  "family:v-jepa",
+  "misc",
+  "v-jepa"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "v-jepa"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/facebookresearch/vjepa2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-20",
+  "excerpt": "On 2026-03-20, the V-JEPA development line recorded a link to the facebookresearch/vjepa2 GitHub repository. This establishes that repository as a dated implementation reference for the project, without establishing any specific release, capability, or result."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

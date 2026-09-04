@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d0102378c0",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "3DreamBooth project resources were publicly linked",
+ "summary": "On 2026-03-21, a entry linked the 3DreamBooth project website and its GitHub source repository. This is treated as a material public-reference point for the project's development history, without inferring a release, feature, or other change not evidenced by the links.",
+ "research_notes": "",
+ "project": {
+  "name": "3DreamBooth",
+  "family_slug": "3dreambooth",
+  "family_display": "3DreamBooth",
+  "model_slug": "3dreambooth",
+  "model_display": "3DreamBooth",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "3DreamBooth",
+  "3dreambooth",
+  "family:3dreambooth",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "3dreambooth"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://ko-lani.github.io/3DreamBooth/",
+   "host": "ko-lani.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Ko-Lani/3DreamBooth",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-21",
+  "excerpt": "On 2026-03-21, a entry linked the 3DreamBooth project website and its GitHub source repository. This is treated as a material public-reference point for the project's development history, without inferring a release, feature, or other change not evidenced by the links."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

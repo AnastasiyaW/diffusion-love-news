@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6504693e58",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ONYX Ai Matte project resources were linked",
+ "summary": "On 2026-03-10, the ONYX Ai Matte development line was associated with its project website and a Hugging Face resource link. The dated links establish an externally accessible project reference, but do not establish a specific release, model version, capability, or change without the original post or research.",
+ "research_notes": "",
+ "project": {
+  "name": "ONYX Ai Matte",
+  "family_slug": "onyx-ai-matte",
+  "family_display": "ONYX Ai Matte",
+  "model_slug": "onyx-ai-matte",
+  "model_display": "ONYX Ai Matte",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ONYX Ai Matte",
+  "family:onyx-ai-matte",
+  "misc",
+  "onyx-ai-matte"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "onyx-ai-matte"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://onyxofx.com/",
+   "host": "onyxofx.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-10",
+  "excerpt": "On 2026-03-10, the ONYX Ai Matte development line was associated with its project website and a Hugging Face resource link. The dated links establish an externally accessible project reference, but do not establish a specific release, model version, capability, or change without the original post or research."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

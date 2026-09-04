@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI Wan VACE Video Joiner",
   "family_slug": "wanvideo",
-  "family_display": "ComfyUI Wan VACE Video Joiner",
+  "family_display": "Wanvideo",
   "model_slug": "comfyui-wan-vace-video-joiner",
   "model_display": "ComfyUI Wan VACE Video Joiner",
   "version": null,

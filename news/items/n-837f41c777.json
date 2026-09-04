@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-837f41c777",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Krea2 Realism v1 version-specific model references recorded",
+ "summary": "On 2026-07-04, the Krea2-realism development line recorded two version-specific Civitai references for Krea2 Realism v1. The links identify distinct model-version artifacts, 3066973 and 3090634, preserving a dated pointer to the available versions in the project history.",
+ "research_notes": "",
+ "project": {
+  "name": "Krea2-realism",
+  "family_slug": "krea2-realism",
+  "family_display": "Krea2 realism",
+  "model_slug": "krea2-realism",
+  "model_display": "Krea2-realism",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Krea2-realism",
+  "family:krea2-realism",
+  "krea2-loras",
+  "krea2-realism",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "krea2-realism"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://civitai.red/models/2728365/krea2-realism-v1?modelVersionId=3066973",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://civitai.red/models/2728365/krea2-realism-v1?modelVersionId=3090634",
+   "host": "civitai.red",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-04",
+  "excerpt": "On 2026-07-04, the Krea2-realism development line recorded two version-specific Civitai references for Krea2 Realism v1. The links identify distinct model-version artifacts, 3066973 and 3090634, preserving a dated pointer to the available versions in the project history."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

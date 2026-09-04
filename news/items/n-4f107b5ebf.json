@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4f107b5ebf",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face reference recorded for the GGUF model line",
+ "summary": "On 2026-03-25, a dated record linked to a Hugging Face page for this GGUF model line. The URL provides a concrete public distribution reference under the mradermacher account. The dated link alone does not establish the model's provenance, contents, availability, or technical changes.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
+  "family_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
+  "family_display": "Qwen3.5 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking GGUF",
+  "model_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
+  "model_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
+  "family:qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
+  "misc",
+  "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
+  "qwen3_5_40b_claude_4_6_opus_deckard_heretic_uncensored_thinking_gguf"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/mradermacher/Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-25",
+  "excerpt": "On 2026-03-25, a dated record linked to a Hugging Face page for this GGUF model line. The URL provides a concrete public distribution reference under the mradermacher account. The dated link alone does not establish the model's provenance, contents, availability, or technical changes."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

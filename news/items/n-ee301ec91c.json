@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ee301ec91c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Seedance 2.0 referenced for external video evaluation",
+ "summary": "On 2026-04-09, a message in the Seedance 2.0 evaluations thread linked Arena's text-to-video leaderboard and video pages. This establishes a dated reference to external video-model evaluation, but the available record does not establish Seedance 2.0's placement, score, methodology, or a product change.",
+ "research_notes": "",
+ "project": {
+  "name": "Seedance 2.0",
+  "family_slug": "seedance-2-0",
+  "family_display": "Seedance 2.0",
+  "model_slug": "seedance-2-0",
+  "model_display": "Seedance 2.0",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seedance 2.0",
+  "family:seedance-2-0",
+  "misc",
+  "seedance-2-0",
+  "seedance_2_0_evaluations"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seedance-2-0"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://arena.ai/leaderboard/text-to-video",
+   "host": "arena.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://arena.ai/video",
+   "host": "arena.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-09",
+  "excerpt": "On 2026-04-09, a message in the Seedance 2.0 evaluations thread linked Arena's text-to-video leaderboard and video pages. This establishes a dated reference to external video-model evaluation, but the available record does not establish Seedance 2.0's placement, score, methodology, or a product change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

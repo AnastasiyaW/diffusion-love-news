@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-13a562a609",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Ling-3.0-flash received a dated OpenRouter model reference",
+ "summary": "On 2026-07-27, the sealed development record linked to OpenRouter's public model page for InclusionAI Ling-3.0-flash. This establishes a dated public reference for the model, but does not establish its launch date, capabilities, or current service availability.",
+ "research_notes": "",
+ "project": {
+  "name": "Ling-3.0-flash",
+  "family_slug": "ling-3-0-flash",
+  "family_display": "Ling 3.0 flash",
+  "model_slug": "ling-3-0-flash",
+  "model_display": "Ling-3.0-flash",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ling-3.0-flash",
+  "family:ling-3-0-flash",
+  "ling-3-0-flash",
+  "ling_flash",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ling-3-0-flash"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://openrouter.ai/models/inclusionai/ling-3.0-flash",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-27",
+  "excerpt": "On 2026-07-27, the sealed development record linked to OpenRouter's public model page for InclusionAI Ling-3.0-flash. This establishes a dated public reference for the model, but does not establish its launch date, capabilities, or current service availability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

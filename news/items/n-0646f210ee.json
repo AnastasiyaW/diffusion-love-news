@@ -10,7 +10,7 @@
  "project": {
   "name": "ChatGPT",
   "family_slug": "dalle",
-  "family_display": "ChatGPT",
+  "family_display": "Dalle",
   "model_slug": "chatgpt",
   "model_display": "ChatGPT",
   "version": null,

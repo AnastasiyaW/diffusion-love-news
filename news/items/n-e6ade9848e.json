@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e6ade9848e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MOSS-SoundEffect v2.0 resources and ComfyUI integration were linked",
+ "summary": "On 2026-07-14, the development line was linked to a MOSS-SoundEffect v2.0 source tree, model page, model-family listing, and hosted demo space. The same dated link set also included a ComfyUI integration repository, making this a material ecosystem milestone for practitioners evaluating or using the v2.0 line.",
+ "research_notes": "",
+ "project": {
+  "name": "MOSS-SoundEffect",
+  "family_slug": "moss-soundeffect",
+  "family_display": "MOSS SoundEffect",
+  "model_slug": "moss-soundeffect",
+  "model_display": "MOSS-SoundEffect",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MOSS-SoundEffect",
+  "family:moss-soundeffect",
+  "misc",
+  "moss-soundeffect",
+  "moss_soundeffect"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "moss-soundeffect"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenMOSS/MOSS-TTS/tree/main/moss_soundeffect_v2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Afinetune%3AOpenMOSS-Team%2FMOSS-SoundEffect-v2.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/envy-ai/ComfyUI-MOSS-SoundEffect-v2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-14",
+  "excerpt": "On 2026-07-14, the development line was linked to a MOSS-SoundEffect v2.0 source tree, model page, model-family listing, and hosted demo space. The same dated link set also included a ComfyUI integration repository, making this a material ecosystem milestone for practitioners evaluating or using the v2.0 line."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

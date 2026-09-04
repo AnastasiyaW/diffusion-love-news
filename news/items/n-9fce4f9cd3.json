@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9fce4f9cd3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "xAI published a Grok 4.5 product update",
+ "summary": "On 2026-07-09, xAI published a news item for Grok 4.5, marking a named development in the Grok product line. The dated links also direct readers to xAI documentation, its CLI, and the Grok service, indicating a product-facing update rather than commentary or a repost. The sealed evidence does not establish specific capabilities, availability, or performance claims.",
+ "research_notes": "",
+ "project": {
+  "name": "Grok 4.5",
+  "family_slug": "grok-4-5",
+  "family_display": "Grok 4.5",
+  "model_slug": "grok-4-5",
+  "model_display": "Grok 4.5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Grok 4.5",
+  "family:grok-4-5",
+  "grok",
+  "grok-4-5",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "grok-4-5"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://x.ai/news/grok-4-5",
+   "host": "x.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.x.ai/",
+   "host": "docs.x.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://x.ai/cli",
+   "host": "x.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://grok.com/",
+   "host": "grok.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-09",
+  "excerpt": "On 2026-07-09, xAI published a news item for Grok 4.5, marking a named development in the Grok product line. The dated links also direct readers to xAI documentation, its CLI, and the Grok service, indicating a product-facing update rather than commentary or a repost. The sealed evidence does not establish specific capabilities, availability, or performance claims."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

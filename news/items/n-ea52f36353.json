@@ -1,0 +1,130 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ea52f36353",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MuScriptor public project resources were available",
+ "summary": "On 2026-07-22, a dated MuScriptor item linked the project website, source repository, model page, interactive demo, and installation resources. Together, those links establish a public project-access milestone by that date. They do not, on their own, establish a specific release version, model capability, or technical change.",
+ "research_notes": "",
+ "project": {
+  "name": "MuScriptor",
+  "family_slug": "muscriptor",
+  "family_display": "MuScriptor",
+  "model_slug": "muscriptor",
+  "model_display": "MuScriptor",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MuScriptor",
+  "family:muscriptor",
+  "misc",
+  "muscriptor"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "muscriptor"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://muscriptor.kyutai.org/",
+   "host": "muscriptor.kyutai.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/muscriptor/muscriptor",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/MuScriptor/muscriptor-large",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/muscriptor-music-transcription",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://muscriptor.github.io/",
+   "host": "muscriptor.github.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://pinokio.co/apps/github-com-cocktailpeanut-muscriptor-pinokio",
+   "host": "pinokio.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, a dated MuScriptor item linked the project website, source repository, model page, interactive demo, and installation resources. Together, those links establish a public project-access milestone by that date. They do not, on their own, establish a specific release version, model capability, or technical change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2f045eb33c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Video-to-World project resources were linked publicly",
+ "summary": "On 2026-03-23, the Video-to-World line was associated with both a public project page and a GitHub repository. This provides a dated public reference point for the project's documentation and source-code presence.",
+ "research_notes": "",
+ "project": {
+  "name": "video_to_world",
+  "family_slug": "video-to-world",
+  "family_display": "video to world",
+  "model_slug": "video-to-world",
+  "model_display": "video_to_world",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:video-to-world",
+  "misc",
+  "video-to-world",
+  "video_to_world"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "video-to-world"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lukashoel.github.io/video_to_world/",
+   "host": "lukashoel.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/lukasHoel/video_to_world",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-23",
+  "excerpt": "On 2026-03-23, the Video-to-World line was associated with both a public project page and a GitHub repository. This provides a dated public reference point for the project's documentation and source-code presence."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "LongCat-AudioDiT",
   "family_slug": "longcat-audiodit",
-  "family_display": "LongCat-AudioDiT",
+  "family_display": "LongCat AudioDiT",
   "model_slug": "longcat-audiodit",
   "model_display": "LongCat-AudioDiT",
   "version": null,

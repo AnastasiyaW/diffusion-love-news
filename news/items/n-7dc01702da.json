@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7dc01702da",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Seedance 2.0 was referenced in ModelArk video-generation materials",
+ "summary": "On 2026-04-14, the dated ModelArk launch URL identified `seedance-2-0`, alongside a BytePlus video-generation documentation link. This is a material platform-availability step in Seedance’s development history. The supplied links alone do not establish capabilities, access terms, regions, or specifications.",
+ "research_notes": "",
+ "project": {
+  "name": "Seedance",
+  "family_slug": "seedance",
+  "family_display": "Seedance",
+  "model_slug": "seedance",
+  "model_display": "Seedance",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Seedance",
+  "family:seedance",
+  "misc",
+  "seedance"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seedance"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://exp.volcengine.com/ark?_vtm_=0.0.c202308.d201952.0&launch=seedance-2-0",
+   "host": "exp.volcengine.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.byteplus.com/en/docs/ModelArk/1544106?redirect=1#video-generation",
+   "host": "docs.byteplus.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-14",
+  "excerpt": "On 2026-04-14, the dated ModelArk launch URL identified `seedance-2-0`, alongside a BytePlus video-generation documentation link. This is a material platform-availability step in Seedance’s development history. The supplied links alone do not establish capabilities, access terms, regions, or specifications."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

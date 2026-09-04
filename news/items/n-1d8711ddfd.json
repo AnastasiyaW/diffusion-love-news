@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1d8711ddfd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ZCode installation documentation entered the development record",
+ "summary": "On 2026-06-15, the sealed ZCode IDE development record included Z.ai's English ZCode installation documentation. Its install-focused official URL makes this a material onboarding milestone for the ZCode 3.0 line. The supplied evidence does not establish the product release details, supported platforms, or whether the guide itself was first published that day.",
+ "research_notes": "",
+ "project": {
+  "name": "ZCode 3.0",
+  "family_slug": "zcode",
+  "family_display": "ZCode",
+  "model_slug": "zcode",
+  "model_display": "ZCode 3.0",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ZCode 3.0",
+  "family:zcode",
+  "misc",
+  "zcode",
+  "zcode_ide"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "zcode"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://zcode.z.ai/en/docs/install",
+   "host": "zcode.z.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-15",
+  "excerpt": "On 2026-06-15, the sealed ZCode IDE development record included Z.ai's English ZCode installation documentation. Its install-focused official URL makes this a material onboarding milestone for the ZCode 3.0 line. The supplied evidence does not establish the product release details, supported platforms, or whether the guide itself was first published that day."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

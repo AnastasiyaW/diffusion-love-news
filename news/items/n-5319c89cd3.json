@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5319c89cd3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "HuggingFace VFS Plugin source repository was linked",
+ "summary": "On 2026-06-14, the HuggingFace VFS Plugin development line included a link to the project's GitHub repository. This establishes the repository reference in the historical record, but the supplied evidence does not establish a release, implementation change, or capability beyond that link.",
+ "research_notes": "",
+ "project": {
+  "name": "HuggingFace VFS Plugin",
+  "family_slug": "huggingface-wfx",
+  "family_display": "Huggingface Wfx",
+  "model_slug": "huggingface-wfx",
+  "model_display": "HuggingFace VFS Plugin",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HuggingFace VFS Plugin",
+  "family:huggingface-wfx",
+  "huggingface-wfx",
+  "huggingface_tools",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "huggingface-wfx"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/mikinko/HuggingFace_WFX",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-14",
+  "excerpt": "On 2026-06-14, the HuggingFace VFS Plugin development line included a link to the project's GitHub repository. This establishes the repository reference in the historical record, but the supplied evidence does not establish a release, implementation change, or capability beyond that link."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

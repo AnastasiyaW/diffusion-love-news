@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6de0fad44f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SenseNova-Vision was publicly linked across its code, model, and demo resources",
+ "summary": "On 2026-07-08, SenseNova-Vision was associated with a GitHub repository, a Hugging Face page for the SenseNova-Vision-7B-MoT model, and a Hugging Face Space. Together, these dated links mark a public project-development step by connecting its implementation, model artifact, and interactive surface.",
+ "research_notes": "",
+ "project": {
+  "name": "SenseNova-Vision",
+  "family_slug": "sensenova-vision",
+  "family_display": "SenseNova Vision",
+  "model_slug": "sensenova-vision",
+  "model_display": "SenseNova-Vision",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SenseNova-Vision",
+  "family:sensenova-vision",
+  "misc",
+  "sensenova-vision"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sensenova-vision"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenSenseNova/SenseNova-Vision",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/sensenova/SenseNova-Vision-7B-MoT",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/sensenova/SenseNova-Vision",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-08",
+  "excerpt": "On 2026-07-08, SenseNova-Vision was associated with a GitHub repository, a Hugging Face page for the SenseNova-Vision-7B-MoT model, and a Hugging Face Space. Together, these dated links mark a public project-development step by connecting its implementation, model artifact, and interactive surface."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

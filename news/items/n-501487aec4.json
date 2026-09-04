@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI Yedp Action Director",
   "family_slug": "yedp",
-  "family_display": "ComfyUI Yedp Action Director",
+  "family_display": "Yedp",
   "model_slug": "yedp",
   "model_display": "Yedp",
   "version": null,

@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4ed3ebfa1c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "AnyFlow project resources were published",
+ "summary": "On 2026-05-13, AnyFlow was presented through a project page, source repository, Hugging Face collection, and interactive demo link. This establishes a public project-release point in the available historical record, though the linked evidence alone does not establish a version or specific capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "AnyFlow",
+  "family_slug": "anyflow",
+  "family_display": "AnyFlow",
+  "model_slug": "anyflow",
+  "model_display": "AnyFlow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "AnyFlow",
+  "anyflow",
+  "anyflow-release",
+  "family:anyflow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anyflow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://nvlabs.github.io/AnyFlow/",
+   "host": "nvlabs.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVlabs/AnyFlow",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/nvidia/anyflow",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://kxn6bflf-anyflow-demo.xenon.lepton.run/",
+   "host": "kxn6bflf-anyflow-demo.xenon.lepton.run",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "On 2026-05-13, AnyFlow was presented through a project page, source repository, Hugging Face collection, and interactive demo link. This establishes a public project-release point in the available historical record, though the linked evidence alone does not establish a version or specific capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

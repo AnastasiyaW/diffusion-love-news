@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6ab0eb34ad",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "S3T-Former source repository was shared",
+ "summary": "On 2026-03-20, a dated message linked to the GitHub repository for S3T-Former. This establishes a contemporaneous public code reference for the project, but the available evidence does not identify a release, paper version, benchmark result, or specific code change. The history entry should therefore record repository availability only.",
+ "research_notes": "",
+ "project": {
+  "name": "S3T-Former",
+  "family_slug": "s3t-former",
+  "family_display": "S3T Former",
+  "model_slug": "s3t-former",
+  "model_display": "S3T-Former",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "S3T-Former",
+  "family:s3t-former",
+  "misc",
+  "s3t-former"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "s3t-former"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/zhengnaichuan2022/S3T-Former",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-20",
+  "excerpt": "On 2026-03-20, a dated message linked to the GitHub repository for S3T-Former. This establishes a contemporaneous public code reference for the project, but the available evidence does not identify a release, paper version, benchmark result, or specific code change. The history entry should therefore record repository availability only."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

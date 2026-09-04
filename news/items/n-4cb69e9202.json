@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4cb69e9202",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "JoyAI-Video-Edit public project references recorded",
+ "summary": "On 2026-08-06, JoyAI-Video-Edit was associated with public references to a GitHub repository, a Hugging Face page, and a JoyAI Labs web page. This records a visible project-development milestone, while the supplied evidence does not establish a specific release version, capability, or launch status.",
+ "research_notes": "",
+ "project": {
+  "name": "JoyAI-Video-Edit",
+  "family_slug": "joyai-video-edit",
+  "family_display": "JoyAI Video Edit",
+  "model_slug": "joyai-video-edit",
+  "model_display": "JoyAI-Video-Edit",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "JoyAI-Video-Edit",
+  "family:joyai-video-edit",
+  "joyai-video-edit",
+  "joyai_video_edit",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "joyai-video-edit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/jd-opensource/JoyAI-Video-Edit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/jdopensource/JoyAI-Video-Edit",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://joyai-labs.jd.com/v2v/",
+   "host": "joyai-labs.jd.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-06",
+  "excerpt": "On 2026-08-06, JoyAI-Video-Edit was associated with public references to a GitHub repository, a Hugging Face page, and a JoyAI Labs web page. This records a visible project-development milestone, while the supplied evidence does not establish a specific release version, capability, or launch status."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

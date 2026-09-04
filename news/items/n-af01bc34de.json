@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-af01bc34de",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SeedRealtime release announcement",
+ "summary": "On 2026-08-06, a public link associated SeedRealtime with a release announcement. The URL indicates that the announced work concerns an audio-visual, full-duplex large language model. This is a material public development milestone for the project, although its specific capabilities and availability are not verified in this page.",
+ "research_notes": "",
+ "project": {
+  "name": "SeedRealtime",
+  "family_slug": "seedrealtime",
+  "family_display": "SeedRealtime",
+  "model_slug": "seedrealtime",
+  "model_display": "SeedRealtime",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SeedRealtime",
+  "family:seedrealtime",
+  "misc",
+  "seedrealtime"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "seedrealtime"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://seed.bytedance.com/en/blog/seedrealtime-audio-visual-full-duplex-llm-released-toward-omni-modal-natural-interaction",
+   "host": "seed.bytedance.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-06",
+  "excerpt": "On 2026-08-06, a public link associated SeedRealtime with a release announcement. The URL indicates that the announced work concerns an audio-visual, full-duplex large language model. This is a material public development milestone for the project, although its specific capabilities and availability are not verified in this page."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5d526ba827",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "d-OPSD research paper and code repository linked",
+ "summary": "On 2026-06-21, the d-OPSD development line recorded links to a Hugging Face paper and a GitHub code repository. Together, these links indicate a public research-and-code release milestone for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "d-OPSD",
+  "family_slug": "d-opsd",
+  "family_display": "d OPSD",
+  "model_slug": "d-opsd",
+  "model_display": "d-OPSD",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "d-OPSD",
+  "d-opsd",
+  "family:d-opsd",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "d-opsd"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2606.18195",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xingzhejun/d-opsd-code",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-21",
+  "excerpt": "On 2026-06-21, the d-OPSD development line recorded links to a Hugging Face paper and a GitHub code repository. Together, these links indicate a public research-and-code release milestone for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

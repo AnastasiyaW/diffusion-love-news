@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-fe5aa54dca",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenCut website and source repository were publicly referenced",
+ "summary": "On 2026-07-18, a message associated with OpenCut linked both the project website and its GitHub repository. From the dated links alone, this is treated as a material public-facing development record because it directed readers to the project and its source code. The available evidence does not establish whether it marked a launch, release, or feature update.",
+ "research_notes": "",
+ "project": {
+  "name": "OpenCut",
+  "family_slug": "opencut",
+  "family_display": "OpenCut",
+  "model_slug": "opencut",
+  "model_display": "OpenCut",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenCut",
+  "family:opencut",
+  "misc",
+  "opencut"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "opencut"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://opencut.app/",
+   "host": "opencut.app",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/OpenCut-app/OpenCut",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-18",
+  "excerpt": "On 2026-07-18, a message associated with OpenCut linked both the project website and its GitHub repository. From the dated links alone, this is treated as a material public-facing development record because it directed readers to the project and its source code. The available evidence does not establish whether it marked a launch, release, or feature update."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

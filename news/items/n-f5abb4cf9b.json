@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f5abb4cf9b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Claude Fable 5 was brought back into service",
+ "summary": "On 2026-07-01, Anthropic linked a news item concerning the redeployment of Claude Fable 5, indicating a new deployment-lifecycle step for the project. The dated link alone does not establish the reason for redeployment, technical changes, rollout scope, or user impact.",
+ "research_notes": "",
+ "project": {
+  "name": "Claude Fable 5",
+  "family_slug": "claude-fable-5",
+  "family_display": "Claude Fable 5",
+  "model_slug": "claude-fable-5",
+  "model_display": "Claude Fable 5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claude Fable 5",
+  "anthropic",
+  "claude-fable-5",
+  "family:claude-fable-5",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "claude-fable-5"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.anthropic.com/news/redeploying-fable-5",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, Anthropic linked a news item concerning the redeployment of Claude Fable 5, indicating a new deployment-lifecycle step for the project. The dated link alone does not establish the reason for redeployment, technical changes, rollout scope, or user impact."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

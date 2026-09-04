@@ -1,0 +1,131 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d3641add96",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Higgs Audio v3 TTS public resources were published",
+ "summary": "On 2026-06-08, public resources for Higgs Audio v3 TTS were linked across a Boson AI blog page, a Hugging Face model page, a demo space, product workspace, and documentation. The same dated link set also included a separate ComfyUI integration repository, making this a material public-development event for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Higgs Audio v3 TTS",
+  "family_slug": "higgs-audio-v3-tts",
+  "family_display": "Higgs Audio v3 TTS",
+  "model_slug": "higgs-audio-v3-tts",
+  "model_display": "Higgs Audio v3 TTS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Higgs Audio v3 TTS",
+  "family:higgs-audio-v3-tts",
+  "higgs-audio-v3-tts",
+  "higgs_audio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "higgs-audio-v3-tts"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.boson.ai/blog/higgs-audio-v3-tts",
+   "host": "boson.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/multimodalart/higgs-audio-v3-tts",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.boson.ai/workspace/avatar",
+   "host": "boson.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.boson.ai/models/higgs-audio-tts/overview",
+   "host": "docs.boson.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-08",
+  "excerpt": "On 2026-06-08, public resources for Higgs Audio v3 TTS were linked across a Boson AI blog page, a Hugging Face model page, a demo space, product workspace, and documentation. The same dated link set also included a separate ComfyUI integration repository, making this a material public-development event for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

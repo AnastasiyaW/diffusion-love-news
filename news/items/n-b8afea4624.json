@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b8afea4624",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Beyond Pixels project and source repository were recorded",
+ "summary": "On 2026-08-13, the Latent-to-4D development line recorded links to the Beyond Pixels project page and its source repository. This is a material project milestone because it establishes a public project artifact together with an implementation location.",
+ "research_notes": "",
+ "project": {
+  "name": "Latent-to-4D",
+  "family_slug": "latent-to-4d",
+  "family_display": "Latent to 4D",
+  "model_slug": "latent-to-4d",
+  "model_display": "Latent-to-4D",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Latent-to-4D",
+  "family:latent-to-4d",
+  "latent-to-4d",
+  "latent_to_4d",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "latent-to-4d"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://hayd-zju.github.io/Beyond-Pixels/",
+   "host": "hayd-zju.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/hayd-zju/Beyond-Pixels",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-13",
+  "excerpt": "On 2026-08-13, the Latent-to-4D development line recorded links to the Beyond Pixels project page and its source repository. This is a material project milestone because it establishes a public project artifact together with an implementation location."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

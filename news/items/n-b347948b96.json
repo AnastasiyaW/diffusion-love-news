@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b347948b96",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Clarity-OMR linked its code, model, and demo resources",
+ "summary": "On 2026-03-24, the Clarity-OMR development line linked its GitHub repository, Hugging Face model page, and a Hugging Face Spaces demo. This was a material project step because it connected the project’s implementation, model access, and interactive demonstration in one dated update.",
+ "research_notes": "",
+ "project": {
+  "name": "Clarity-OMR",
+  "family_slug": "clarity-omr",
+  "family_display": "Clarity OMR",
+  "model_slug": "clarity-omr",
+  "model_display": "Clarity-OMR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Clarity-OMR",
+  "clarity-omr",
+  "clarity_omr",
+  "family:clarity-omr",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "clarity-omr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/clquwu/Clarity-OMR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/clquwu/Clarity-OMR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/skymer44/omrmusicsheet",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-24",
+  "excerpt": "On 2026-03-24, the Clarity-OMR development line linked its GitHub repository, Hugging Face model page, and a Hugging Face Spaces demo. This was a material project step because it connected the project’s implementation, model access, and interactive demonstration in one dated update."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

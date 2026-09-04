@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c8fa19868e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face's hf-mount repository was publicly referenced",
+ "summary": "On 2026-03-25, this development line recorded a link to Hugging Face's hf-mount GitHub repository. From the dated link alone, it can establish only that the project was publicly referenced on that date; no release, feature, or usage claim is supported.",
+ "research_notes": "",
+ "project": {
+  "name": "hf-mount",
+  "family_slug": "hf-mount",
+  "family_display": "hf mount",
+  "model_slug": "hf-mount",
+  "model_display": "hf-mount",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:hf-mount",
+  "hf-mount",
+  "hf_mount",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "hf-mount"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/huggingface/hf-mount",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-25",
+  "excerpt": "On 2026-03-25, this development line recorded a link to Hugging Face's hf-mount GitHub repository. From the dated link alone, it can establish only that the project was publicly referenced on that date; no release, feature, or usage claim is supported."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

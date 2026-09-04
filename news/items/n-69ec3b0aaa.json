@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-69ec3b0aaa",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVILA-HD-Video was presented with source, model, and related demo resources",
+ "summary": "On 2026-03-13, the NVILA-HD-Video development line was presented through links to its VILA source location, an NVIDIA-hosted model checkpoint, and related AutoGaze resources. Together, these links established a practical public entry point for inspecting the implementation and obtaining the referenced model.",
+ "research_notes": "",
+ "project": {
+  "name": "NVILA-HD-Video",
+  "family_slug": "nvila-hd-video",
+  "family_display": "NVILA HD Video",
+  "model_slug": "nvila-hd-video",
+  "model_display": "NVILA-HD-Video",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NVILA-HD-Video",
+  "family:nvila-hd-video",
+  "misc",
+  "nvila",
+  "nvila-hd-video"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvila-hd-video"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://autogaze.github.io/",
+   "host": "autogaze.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVlabs/VILA/tree/main/vila_hd/nvila_hd_video",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/NVILA-8B-HD-Video",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/bfshi/AutoGaze",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-13",
+  "excerpt": "On 2026-03-13, the NVILA-HD-Video development line was presented through links to its VILA source location, an NVIDIA-hosted model checkpoint, and related AutoGaze resources. Together, these links established a practical public entry point for inspecting the implementation and obtaining the referenced model."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

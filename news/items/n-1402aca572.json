@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1402aca572",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "TencentDB Agent Memory project reference shared",
+ "summary": "On 2026-08-04, a development-line message linked the TencentCloud/TencentDB-Agent-Memory GitHub repository. The dated link establishes a project-related reference, but no source text or repository snapshot was supplied, so the historical record cannot safely describe its implementation, release status, or capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "TencentDB Agent Memory",
+  "family_slug": "tencentdb-agent-memory",
+  "family_display": "TencentDB Agent Memory",
+  "model_slug": "tencentdb-agent-memory",
+  "model_display": "TencentDB Agent Memory",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TencentDB Agent Memory",
+  "family:tencentdb-agent-memory",
+  "misc",
+  "tencentdb-agent-memory",
+  "tencentdb_agent_memory"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "tencentdb-agent-memory"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-04",
+  "excerpt": "On 2026-08-04, a development-line message linked the TencentCloud/TencentDB-Agent-Memory GitHub repository. The dated link establishes a project-related reference, but no source text or repository snapshot was supplied, so the historical record cannot safely describe its implementation, release status, or capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

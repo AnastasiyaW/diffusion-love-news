@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e55e56223b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Audio-Interaction project resources were shared",
+ "summary": "On 2026-06-05, the Audio-Interaction line was recorded with links to its GitHub repository and Hugging Face page. This establishes a dated public-reference point for the project, but not a specific release, model revision, or capability change.",
+ "research_notes": "",
+ "project": {
+  "name": "Audio-Interaction",
+  "family_slug": "audio-interaction",
+  "family_display": "Audio Interaction",
+  "model_slug": "audio-interaction",
+  "model_display": "Audio-Interaction",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Audio-Interaction",
+  "audio-interaction",
+  "audio_interaction",
+  "family:audio-interaction",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "audio-interaction"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/zhifeixie/AudioInteraction",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/xzf-thu/Audio-Interaction",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-05",
+  "excerpt": "On 2026-06-05, the Audio-Interaction line was recorded with links to its GitHub repository and Hugging Face page. This establishes a dated public-reference point for the project, but not a specific release, model revision, or capability change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

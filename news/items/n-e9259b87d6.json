@@ -10,7 +10,7 @@
  "project": {
   "name": "CADD-Base-7B",
   "family_slug": "cadd",
-  "family_display": "CADD-Base-7B",
+  "family_display": "CADD",
   "model_slug": "cadd",
   "model_display": "CADD",
   "version": "7B",

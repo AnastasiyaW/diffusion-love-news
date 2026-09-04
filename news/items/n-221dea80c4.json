@@ -10,7 +10,7 @@
  "project": {
   "name": "Memory Intelligence Agent (MIA)",
   "family_slug": "mia",
-  "family_display": "Memory Intelligence Agent (MIA)",
+  "family_display": "(MIA)",
   "model_slug": "mia",
   "model_display": "MIA",
   "version": null,

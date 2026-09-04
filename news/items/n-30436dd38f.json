@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-30436dd38f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LTX LoRA distribution links recorded",
+ "summary": "On March 24, 2026, this development line recorded links to an LTX-LoRAs repository on Hugging Face and an LTX LoRAs page on Civitai. The links indicate a public distribution or discovery step relevant to the project, but the record does not establish the exact model variant, inpainting behavior, compatibility, provenance, or release details.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX-2.3 inpaint LoRA",
+  "family_slug": "ltx-2-3-inpaint-lora",
+  "family_display": "LTX 2.3 inpaint LoRA",
+  "model_slug": "ltx-2-3-inpaint-lora",
+  "model_display": "LTX-2.3 inpaint LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3 inpaint LoRA",
+  "family:ltx-2-3-inpaint-lora",
+  "ltx-2-3-inpaint-lora",
+  "ltx_2_3_inpaint_lora",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx-2-3-inpaint-lora"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Alissonerdx/LTX-LoRAs/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2484952/ltx-loras",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-24",
+  "excerpt": "On March 24, 2026, this development line recorded links to an LTX-LoRAs repository on Hugging Face and an LTX LoRAs page on Civitai. The links indicate a public distribution or discovery step relevant to the project, but the record does not establish the exact model variant, inpainting behavior, compatibility, provenance, or release details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

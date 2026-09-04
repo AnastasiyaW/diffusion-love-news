@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-70c95e5ecb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Dots Studio published public resources for dots3-note preview",
+ "summary": "On 2026-08-17, Dots Studio linked the dots3-note preview line to a Studio Dots page, a GitHub repository, and a Hugging Face resource. This was a material public-development step because it established discoverable project resources, although the dated links alone do not establish the exact release contents or capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "dots3-note preview",
+  "family_slug": "dots3-note-prev",
+  "family_display": "Dots3 Note Prev",
+  "model_slug": "dots3-note-prev",
+  "model_display": "dots3-note preview",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "dots-studio/dots3-note-prev",
+  "dots3-note preview",
+  "dots3-note-prev",
+  "family:dots3-note-prev",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dots3-note-prev"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://studio.dots.ai/dots/dots3-en.html",
+   "host": "studio.dots.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/studio-dots-ai/dots3-note-prev",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/dots-studio/dots3-note-prev",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, Dots Studio linked the dots3-note preview line to a Studio Dots page, a GitHub repository, and a Hugging Face resource. This was a material public-development step because it established discoverable project resources, although the dated links alone do not establish the exact release contents or capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

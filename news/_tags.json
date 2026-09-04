@@ -1,6 +1,18 @@
 {
+  "360 Security Technology": [
+    "n-6a43f5da48"
+  ],
+  "360-security-technology": [
+    "n-6a43f5da48"
+  ],
   "3DGS": [
     "n-60f7bb3300"
+  ],
+  "3DGS-PLY-3DTiles-Converter": [
+    "n-8719519a69"
+  ],
+  "3DreamBooth": [
+    "n-d0102378c0"
   ],
   "3d": [
     "n-f57cbec8b9",
@@ -30,20 +42,53 @@
     "n-08dc2040a6",
     "n-01b786ce9f"
   ],
+  "3d_reconstruction": [
+    "n-9371b417f8"
+  ],
+  "3d_surface_reconstruction": [
+    "n-5f58046d55"
+  ],
   "3dgs": [
     "n-60f7bb3300"
+  ],
+  "3dgs-ply-3dtiles-converter": [
+    "n-8719519a69"
+  ],
+  "3dgs_ply_3dtiles_converter": [
+    "n-8719519a69"
+  ],
+  "3dreambooth": [
+    "n-d0102378c0"
   ],
   "4C4D": [
     "n-9dd20d8e0c"
   ],
+  "4DAnyone": [
+    "n-0778115bb1"
+  ],
   "4c4d": [
     "n-9dd20d8e0c"
+  ],
+  "4danyone": [
+    "n-0778115bb1"
+  ],
+  "ABot-Earth 0.5": [
+    "n-ad9c9181f8"
+  ],
+  "ABot-World": [
+    "n-269c40ddd3"
   ],
   "ACE-Step 1.5": [
     "n-b9e02bd01a"
   ],
   "ACE-Step 1.5 XL": [
     "n-b9e02bd01a"
+  ],
+  "ACTI": [
+    "n-b6851c60f8"
+  ],
+  "AGORA": [
+    "n-27957b3eee"
   ],
   "AI Metadata Inspector": [
     "n-02e0b8ae6c"
@@ -60,8 +105,20 @@
   "AP Netflix VOID": [
     "n-08ae804484"
   ],
+  "ARDY": [
+    "n-e8b9f004d7"
+  ],
+  "ASASR": [
+    "n-80bd00594d"
+  ],
   "AURA": [
     "n-5e356466d0"
+  ],
+  "AVA-Encoder": [
+    "n-8f2e77690e"
+  ],
+  "Ace Step Node Suite": [
+    "n-64db3725b4"
   ],
   "AceStep 1.5": [
     "n-596ffa06da"
@@ -75,20 +132,76 @@
   "Adaptive Spatio-Temporal 3DGS": [
     "n-ccb2a502fb"
   ],
+  "Adobe": [
+    "n-0d7aed5e86"
+  ],
+  "Adonis": [
+    "n-19402c57d8"
+  ],
+  "Agent Orchestrator": [
+    "n-f7bf45f8a9"
+  ],
   "AgentOfficeSuite": [
     "n-cfec66a95b"
+  ],
+  "Agents-A1": [
+    "n-6cdd78c533"
+  ],
+  "Aleph 2.0": [
+    "n-f52983ecb7"
+  ],
+  "Alibaba": [
+    "n-1e37f80b3f"
+  ],
+  "Anthropic": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "Anti-Vocale": [
+    "n-02ff6518d6"
   ],
   "Any4D": [
     "n-155ef8c3dc"
   ],
+  "AnyFlow": [
+    "n-4ed3ebfa1c"
+  ],
   "AnyRecon": [
     "n-5be6e62e52"
+  ],
+  "AnyTop": [
+    "n-4bbbd17d1b"
+  ],
+  "Anydoc": [
+    "n-721afd6a19"
+  ],
+  "Apple": [
+    "n-353bab66f8"
+  ],
+  "Apple Foundation Models 3": [
+    "n-3bacf0e143"
   ],
   "ArcFlow": [
     "n-a7d1f83b13"
   ],
+  "Arena.ai": [
+    "n-286154962f"
+  ],
+  "ArtiFixer": [
+    "n-e6413c0a2c"
+  ],
   "Assistant_Pepe_32B": [
     "n-73e8b27cb3"
+  ],
+  "Astrolabe": [
+    "n-b438d99dc2"
+  ],
+  "AsymFlow": [
+    "n-0b1d3c8a99"
+  ],
+  "Audex": [
+    "n-c5e93c1d3a"
   ],
   "Audio Flamingo": [
     "n-9aa3cb6ab5"
@@ -96,14 +209,32 @@
   "Audio Flamingo Next": [
     "n-9aa3cb6ab5"
   ],
+  "Audio-Interaction": [
+    "n-e55e56223b"
+  ],
   "Audio-Omni": [
     "n-bab7f8e6fd"
+  ],
+  "AudioX-Turbo": [
+    "n-97fff052b7"
+  ],
+  "Autograph": [
+    "n-d5e082f834"
   ],
   "AvatarPointillist": [
     "n-b651b2cbf2"
   ],
+  "AwaRes": [
+    "n-fdae3b02e0"
+  ],
+  "Awesome Harness Engineering": [
+    "n-29eb1f831e"
+  ],
   "BACH": [
     "n-a7521b7b08"
+  ],
+  "BRDFusion": [
+    "n-4082277aeb"
   ],
   "BRO": [
     "n-49a6616381"
@@ -111,14 +242,44 @@
   "BRO v14": [
     "n-49a6616381"
   ],
+  "Base44": [
+    "n-c2e38d5935"
+  ],
+  "Bernini": [
+    "n-daa3090ac6"
+  ],
+  "Bodycount Detector": [
+    "n-3df0e38055"
+  ],
+  "Bonsai 27B": [
+    "n-0a5ac285d9"
+  ],
+  "Bonsai Image 4B": [
+    "n-7254e49ce8"
+  ],
+  "Boogu-Image": [
+    "n-7ac4fa4583"
+  ],
+  "Boogu-Image-Edit GGUF": [
+    "n-cf04305133"
+  ],
   "Boxer": [
     "n-2938402642"
+  ],
+  "Breeze TTS 2": [
+    "n-d99912828e"
   ],
   "ByteCut": [
     "n-19adc0c7af"
   ],
   "ByteCut Director": [
     "n-19adc0c7af"
+  ],
+  "ByteDance Video Upscaler": [
+    "n-347308d9b6"
+  ],
+  "ByteShape": [
+    "n-fec11a299f"
   ],
   "C-MET": [
     "n-70f82f82ae"
@@ -129,11 +290,41 @@
   "CADD-Base-7B": [
     "n-e9259b87d6"
   ],
+  "CARE-Edit": [
+    "n-3297691b6f"
+  ],
+  "CARLA-Air": [
+    "n-c4a0d1a186"
+  ],
   "CHAI": [
     "n-a8098d79d8"
   ],
+  "CLI-Anything": [
+    "n-a2b2f064d2"
+  ],
   "CORAL": [
     "n-f771c01e06"
+  ],
+  "Calibri": [
+    "n-1e7e01ddd7"
+  ],
+  "CameraAnything": [
+    "n-612fbb9ad1"
+  ],
+  "Canon UltraReal": [
+    "n-868a3aaeef"
+  ],
+  "Canva": [
+    "n-e1ca928d8e"
+  ],
+  "CapCut Video Studio": [
+    "n-28ff35cede"
+  ],
+  "Causal Forcing++": [
+    "n-6624131df0"
+  ],
+  "CausalCine": [
+    "n-6ada41074f"
   ],
   "Chandra": [
     "n-840bb8c6c7"
@@ -147,27 +338,46 @@
   "ChatGPT": [
     "n-0646f210ee"
   ],
+  "Chronosplat": [
+    "n-8e75dd0767"
+  ],
+  "Civitai": [
+    "n-ba790c8631"
+  ],
   "Clad": [
     "n-545f242033"
   ],
   "Clad Size-aware": [
     "n-545f242033"
   ],
+  "Clarity-OMR": [
+    "n-b347948b96"
+  ],
   "Claude": [
     "n-ec5428386a",
     "n-a81182e9ac"
   ],
   "Claude Code": [
-    "n-f861f085b8"
+    "n-f861f085b8",
+    "n-55b05978df"
   ],
   "Claude Design": [
     "n-ec5428386a"
+  ],
+  "Claude Fable 5": [
+    "n-f5abb4cf9b"
   ],
   "Claude Opus": [
     "n-a81182e9ac"
   ],
   "Claude Opus 4.7": [
     "n-a81182e9ac"
+  ],
+  "Claude Opus 5": [
+    "n-4ea5eb69ba"
+  ],
+  "Claude Sonnet 5": [
+    "n-cfd3254184"
   ],
   "Claw": [
     "n-2f8c6f34f0"
@@ -181,6 +391,9 @@
   "ClawGUI": [
     "n-6dd8c1ff25"
   ],
+  "CoCo": [
+    "n-6f05bdf264"
+  ],
   "CoInteract": [
     "n-d1faa63ee9"
   ],
@@ -193,14 +406,29 @@
   "Codex": [
     "n-2a8f5beb6c"
   ],
+  "Cohere Transcribe": [
+    "n-68b3b1fae6"
+  ],
+  "Colibri": [
+    "n-86748f8e9e"
+  ],
+  "CollabVR": [
+    "n-e8fb056748"
+  ],
   "Color-Grade-Transfer": [
     "n-250fdb3b1b"
   ],
   "Color-Grade-Transfer-LoRA": [
     "n-250fdb3b1b"
   ],
+  "ComPyter": [
+    "n-fb33cdc42d"
+  ],
   "ComfyStudio": [
     "n-18e6b47885"
+  ],
+  "ComfyUI": [
+    "n-c724eb9e4c"
   ],
   "ComfyUI 6DOF": [
     "n-f6c6cdf729"
@@ -217,6 +445,18 @@
   "ComfyUI Hires Fix Ultra": [
     "n-1b11977658"
   ],
+  "ComfyUI KSampler Matrix Lab": [
+    "n-e431684c08"
+  ],
+  "ComfyUI Mobile Frontend": [
+    "n-2e764207bd"
+  ],
+  "ComfyUI Model Installer": [
+    "n-7e2c33bcb6"
+  ],
+  "ComfyUI Model Resolver": [
+    "n-79465fc2da"
+  ],
   "ComfyUI OmniVoice": [
     "n-661e84940d"
   ],
@@ -226,20 +466,59 @@
   "ComfyUI Photopea Tab": [
     "n-39f773b51f"
   ],
+  "ComfyUI Setup Manager": [
+    "n-3600f1f8ab"
+  ],
+  "ComfyUI Sol-Attn": [
+    "n-3f0a9c0170"
+  ],
+  "ComfyUI Spectrum MiniMax H3": [
+    "n-f8b2802977"
+  ],
+  "ComfyUI StreetView-Loader": [
+    "n-67e41ba5ae"
+  ],
+  "ComfyUI Video Tiler": [
+    "n-c16d03e2b0"
+  ],
   "ComfyUI Wan VACE Video Joiner": [
     "n-332335c756"
   ],
   "ComfyUI Yedp Action Director": [
     "n-501487aec4"
   ],
+  "ComfyUI-AsymFlow": [
+    "n-b3aa6851b7"
+  ],
   "ComfyUI-ConnectTheDots": [
     "n-c2a141200b"
+  ],
+  "ComfyUI-DaVinci-MagiHuman": [
+    "n-8c14423e0d"
   ],
   "ComfyUI-DreamScene360": [
     "n-2915ceca6f"
   ],
   "ComfyUI-Flux2Klein-Enhancer": [
     "n-76a6e0d291"
+  ],
+  "ComfyUI-Krea2TextEncoder": [
+    "n-ba02def424"
+  ],
+  "ComfyUI-Latent-Tiled-PiD": [
+    "n-a85f96599d"
+  ],
+  "ComfyUI-MiniMax-H3-LongMedia": [
+    "n-fdaa3b9adb"
+  ],
+  "ComfyUI-MiniMaxH3_LatentUpscaler": [
+    "n-0a40fd014f"
+  ],
+  "ComfyUI-PixelDriftFix": [
+    "n-7340bf1aad"
+  ],
+  "ComfyUI-PuLID-Flux2": [
+    "n-6ae44b1607"
   ],
   "ComfyUI-mesh2motion": [
     "n-2ff0f435cc"
@@ -250,11 +529,20 @@
   "ComfyUI_SenseNova_U1": [
     "n-41c999d507"
   ],
+  "ComfyUI_StarNodes": [
+    "n-ffa010ab28"
+  ],
+  "Command A+": [
+    "n-3bd8a5bf17"
+  ],
   "CompHairHead": [
     "n-f1139f1ee9"
   ],
   "ConnectTheDots": [
     "n-c2a141200b"
+  ],
+  "Context-Matched Distillation": [
+    "n-831457a1a0"
   ],
   "Continuous-Time Distribution Matching": [
     "n-c660c4f559"
@@ -262,17 +550,30 @@
   "CorridorKey": [
     "n-169e12a080"
   ],
+  "Cosmos 3 Edge": [
+    "n-1a1adbb4f3"
+  ],
   "CosyVoice": [
     "n-7de8349cd0"
   ],
   "CosyVoice 3": [
     "n-7de8349cd0"
   ],
+  "Covo-Audio": [
+    "n-27ad5cb7b0"
+  ],
+  "Cream Typer": [
+    "n-b8abd7e35e"
+  ],
   "Cursor": [
+    "n-d182530af4",
     "n-a6a4ba2d0f"
   ],
   "Cursor 3": [
     "n-a6a4ba2d0f"
+  ],
+  "Cursor Router": [
+    "n-f241b400a1"
   ],
   "CutClaw": [
     "n-0948d8e4a5"
@@ -280,14 +581,50 @@
   "D-OPSD": [
     "n-637b9d18ed"
   ],
+  "DA-Flow": [
+    "n-14c8e61352"
+  ],
+  "DAR": [
+    "n-a0e40ff5d8"
+  ],
+  "DEMON": [
+    "n-2d7b3093fd"
+  ],
+  "DIRECT": [
+    "n-1957e34ea5"
+  ],
+  "DLSS 4.5": [
+    "n-6d500875d2"
+  ],
+  "DMX": [
+    "n-676d66ea41"
+  ],
+  "DRIFT": [
+    "n-648054221f"
+  ],
+  "DVD": [
+    "n-ecb3a7060c"
+  ],
+  "DanceOPD": [
+    "n-292e34fcb3"
+  ],
+  "Data2Story": [
+    "n-99ff299eee"
+  ],
   "Daybreak": [
     "n-e92b026fad"
   ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
   ],
+  "DeepSeek-V4-Flash-Vision-Exp": [
+    "n-abed76ad0f"
+  ],
   "DeepSeek-V4-Pro": [
     "n-bc5c88f85f"
+  ],
+  "DeerFlow 2.0": [
+    "n-7d2c69bfe3"
   ],
   "Delulu": [
     "n-18c1e67c85"
@@ -304,11 +641,26 @@
   "DisCa": [
     "n-348f0ce004"
   ],
+  "Disney Research": [
+    "n-77f1dd74e4"
+  ],
+  "DomainShuttle": [
+    "n-6edfc59eed"
+  ],
+  "Doodles Stoodio": [
+    "n-782f0991a7"
+  ],
+  "Dramabox": [
+    "n-145acbde64"
+  ],
   "DreamLite": [
     "n-c56d07046e"
   ],
   "DreamScene360": [
     "n-2915ceca6f"
+  ],
+  "DreamVideo-Omni": [
+    "n-5d5fa885b6"
   ],
   "EMF": [
     "n-525a6be75a"
@@ -322,8 +674,26 @@
   "ERNIE-Image": [
     "n-97b254669d"
   ],
+  "EVA": [
+    "n-6d1e8777ce"
+  ],
+  "EVIE-Preview-4.5B": [
+    "n-0f55e4f6a1"
+  ],
+  "Echo LongVideo": [
+    "n-982b169c3b"
+  ],
   "Echo-2": [
     "n-76eee2c69c"
+  ],
+  "Efficient Universal Perception Encoder": [
+    "n-0dea9b891a"
+  ],
+  "EgoForce": [
+    "n-841bc05497"
+  ],
+  "Elastic-Wan2.2-I2V": [
+    "n-253f50a66d"
   ],
   "ElevenLabs": [
     "n-f5dbfdb346"
@@ -337,6 +707,28 @@
   "Ernie Image Turbo": [
     "n-c2ca134086"
   ],
+  "EvoQuality": [
+    "n-65c8f1b873"
+  ],
+  "Evoke": [
+    "n-901220b5b4"
+  ],
+  "Exiv": [
+    "n-a78c964be6"
+  ],
+  "ExpressionControl": [
+    "n-825557a5f2"
+  ],
+  "FASTER": [
+    "n-2e867da591"
+  ],
+  "FLUX 3": [
+    "n-5353f88f44",
+    "n-3ec7e1a063"
+  ],
+  "FLUX Video Upscale": [
+    "n-1a1b209e8f"
+  ],
   "FLUX.2": [
     "n-e5bb396e69",
     "n-b2c1d5a768"
@@ -345,8 +737,14 @@
     "n-bb60458b02",
     "n-76a6e0d291"
   ],
+  "FLUX.2 Klein 9B Manga Colorization LoRA": [
+    "n-819b4129d7"
+  ],
   "FLUX.2 Small Decoder": [
     "n-b2c1d5a768"
+  ],
+  "FLUX.2 [Klein] KV - 9B": [
+    "n-d0e1053814"
   ],
   "FLUX.2 [klein] Move": [
     "n-e5bb396e69"
@@ -357,11 +755,35 @@
   "Face Anything": [
     "n-a4fb636ca8"
   ],
+  "Fast-FoundationStereo": [
+    "n-6bd85df8ed"
+  ],
   "FastGHA": [
     "n-8cf0d43011"
   ],
+  "FastGen": [
+    "n-f202a83f88"
+  ],
+  "FedorAiToolkit": [
+    "n-66b11f2c1c"
+  ],
+  "FireRed Image Edit": [
+    "n-264e8c1717"
+  ],
+  "FireRedTTS3": [
+    "n-97c92d3269"
+  ],
+  "Firefly Graph": [
+    "n-625a62d5de"
+  ],
+  "FlashMemory-Deepseek-V4": [
+    "n-fe403ecd72"
+  ],
   "FlexAvatar": [
     "n-08dc2040a6"
+  ],
+  "Flow Upscaler ComfyUI Nodes": [
+    "n-5fb7b8ba70"
   ],
   "FlowAnchor": [
     "n-a74ee42caa"
@@ -378,11 +800,39 @@
   "Flux FaceIR": [
     "n-30f5861cb4"
   ],
+  "Flux2-Klein": [
+    "n-6a470bac38"
+  ],
+  "Flux2-Klein-9B-Consistency": [
+    "n-e2832a6cb2"
+  ],
+  "Flux2-Klein-9B-Enhanced-Details": [
+    "n-369b74ea1a"
+  ],
+  "Frame Extractor": [
+    "n-c3d4c31323"
+  ],
   "Free Claude Code": [
     "n-f861f085b8"
   ],
+  "Freepik": [
+    "n-68299e89f1"
+  ],
+  "Fugu-Ultra 1.1": [
+    "n-05ec9a95a1"
+  ],
+  "F⁴Splat": [
+    "n-4b181dadc0",
+    "n-2c76b163d3"
+  ],
   "GBrain": [
     "n-eb965439db"
+  ],
+  "GEAR": [
+    "n-e613f26dc4"
+  ],
+  "GELab-Zero": [
+    "n-97e1334295"
   ],
   "GEMS": [
     "n-d111345e9c"
@@ -390,11 +840,29 @@
   "GLM-5.1": [
     "n-e51898fad5"
   ],
+  "GLM-5.2": [
+    "n-0b4ad29b73"
+  ],
+  "GLM-5.2-GGUF": [
+    "n-a1265a873f"
+  ],
+  "GLM-5.2-NVFP4": [
+    "n-5efefc3953"
+  ],
+  "GLM-5.2-Vision-NVFP4": [
+    "n-7bf964cae8"
+  ],
+  "GLM-5.3-Flash": [
+    "n-4148509833"
+  ],
   "GLM-5V": [
     "n-b2b9ca697e"
   ],
   "GLM-5V-Turbo": [
     "n-b2b9ca697e"
+  ],
+  "GLM-OCR": [
+    "n-a5a6f42edd"
   ],
   "GLiGuard": [
     "n-3ef8391496"
@@ -410,7 +878,14 @@
     "n-df001e7bab"
   ],
   "GPT-5.5": [
-    "n-2405c2d2f2"
+    "n-2405c2d2f2",
+    "n-1fff983f43"
+  ],
+  "GPT-5.5-Cyber": [
+    "n-22b4ad25f5"
+  ],
+  "GPT-5.6 Sol": [
+    "n-d76b3cf6c5"
   ],
   "GPT-Image": [
     "n-ca390bf3b3"
@@ -424,14 +899,38 @@
   "GSD 2": [
     "n-ee8bd2e38f"
   ],
+  "GUSH3R": [
+    "n-b10bd633b8"
+  ],
+  "Gabi": [
+    "n-de14e3f121"
+  ],
+  "GalaxyAce LoRA": [
+    "n-18aead67ea"
+  ],
   "GameWorld": [
     "n-f306331601"
+  ],
+  "Gemini": [
+    "n-6f089116cf",
+    "n-55b3aea30b",
+    "n-412ff5547f",
+    "n-288cee31b2"
   ],
   "Gemini 3.1": [
     "n-d5e685b3b1"
   ],
   "Gemini 3.1 Flash TTS": [
     "n-d5e685b3b1"
+  ],
+  "Gemini 3.5 Live Translate": [
+    "n-599684b34f"
+  ],
+  "Gemini Embedding 2": [
+    "n-1ee49081d2"
+  ],
+  "Gemini Intelligence for Android": [
+    "n-97cedb7ec2"
   ],
   "Gemma": [
     "n-c7bfff5d31",
@@ -440,6 +939,9 @@
   ],
   "Gemma 4": [
     "n-c7bfff5d31"
+  ],
+  "Gemma 4 12B": [
+    "n-2e0520da75"
   ],
   "Gemma 4 31B-it": [
     "n-9139899069"
@@ -477,11 +979,48 @@
   "GeoSR": [
     "n-1b0490d011"
   ],
+  "Geometric Latent Diffusion": [
+    "n-0c368b4c16"
+  ],
+  "GlyphPrinter": [
+    "n-d6f1ea9ec7"
+  ],
+  "Google AI Studio": [
+    "n-38217f32a6"
+  ],
+  "Google Veo": [
+    "n-ca4cb3b16f"
+  ],
   "Griptape": [
     "n-ebeab9837a"
   ],
+  "Grok": [
+    "n-c4546aea9c",
+    "n-7abe53781e"
+  ],
+  "Grok 4.5": [
+    "n-9fce4f9cd3"
+  ],
+  "Grok Build": [
+    "n-9478ff9243"
+  ],
+  "Grok Imagine Image 2.0": [
+    "n-fe49770141"
+  ],
+  "Grok Imagine Video": [
+    "n-2591c503ad"
+  ],
   "GyroScope": [
     "n-a71a838b34"
+  ],
+  "HATCHA": [
+    "n-00c9c3996b"
+  ],
+  "HOMIE": [
+    "n-ec3dda9c78"
+  ],
+  "HY-WU": [
+    "n-17be84d500"
   ],
   "HY-World": [
     "n-1e0d9b8388"
@@ -495,12 +1034,18 @@
   "HackerNews Predictor": [
     "n-541dc74a2e"
   ],
+  "Hailuo Light Studio": [
+    "n-a316da2631"
+  ],
   "Happy Horse": [
     "n-6562acabdd",
     "n-0588f1e672"
   ],
   "Happy Horse 1.0": [
     "n-6562acabdd"
+  ],
+  "Happy Horse 1.1": [
+    "n-310e3414f5"
   ],
   "Happy Oyster": [
     "n-5e1a256a5e"
@@ -520,14 +1065,44 @@
     "n-95d245f3eb",
     "n-367db0be8e"
   ],
+  "HiAR": [
+    "n-e304c780ea"
+  ],
   "HiDream": [
     "n-7d8614adad"
   ],
   "HiDream-O1-Image": [
     "n-7d8614adad"
   ],
+  "Higgs Audio v3 TTS": [
+    "n-d3641add96"
+  ],
+  "Holi-Spatial": [
+    "n-e7545aced1"
+  ],
+  "Holo3": [
+    "n-477068c864"
+  ],
+  "Hotgen Video V5": [
+    "n-7970b35444"
+  ],
   "HuggingFace Kernels": [
     "n-545c4e25d2"
+  ],
+  "HuggingFace VFS Plugin": [
+    "n-5319c89cd3"
+  ],
+  "Huihui-Qwen3.8-27B-abliterated": [
+    "n-ea26f61d82"
+  ],
+  "Huihui-gemma-4-12B-it-abliterated": [
+    "n-d1c36e4341"
+  ],
+  "Hunyuan3D-Buffalo 1.0": [
+    "n-fb888fd82d"
+  ],
+  "Hunyuan3D-WorldClaw": [
+    "n-d6ed6958b0"
   ],
   "Hy-MT1.5-1.8B": [
     "n-e17cbf7ded"
@@ -538,11 +1113,27 @@
   "HyDRA": [
     "n-09ee25f7d5"
   ],
+  "HyperAgents": [
+    "n-8a4dfeeb5d"
+  ],
   "HyperFrames": [
-    "n-963305f6b7"
+    "n-963305f6b7",
+    "n-076b3f0be6"
+  ],
+  "Hyra": [
+    "n-715fbe9451"
   ],
   "IC-LoRA: Cameraman v1": [
     "n-c492e2a3e4"
+  ],
+  "ID-LoRA": [
+    "n-ec159def6b"
+  ],
+  "ID-V2V": [
+    "n-d140f3d07f"
+  ],
+  "IGGT4D": [
+    "n-bb326c9fdf"
   ],
   "INSID3": [
     "n-a8a043a8fd"
@@ -550,17 +1141,36 @@
   "IceCache": [
     "n-fc612ab002"
   ],
+  "Ideogram 4": [
+    "n-6c5e22fee1",
+    "n-6398af54be"
+  ],
+  "Image-to-LoRA": [
+    "n-22001436c1"
+  ],
   "Image-to-Material": [
     "n-e63a0d4512"
   ],
   "InfiniDepth": [
     "n-23309eb954"
   ],
+  "InfiniSplat": [
+    "n-cf72a26f02"
+  ],
+  "InfinityEdit": [
+    "n-13290b7929"
+  ],
+  "Inline Studio": [
+    "n-196adf34af"
+  ],
   "Interaction Models": [
     "n-972d1e2832"
   ],
   "JavisVerse": [
     "n-18331ebc79"
+  ],
+  "Joy-LTX 2.5 x Z-Image": [
+    "n-f2122c676b"
   ],
   "JoyAI": [
     "n-0739891476"
@@ -569,13 +1179,38 @@
     "n-d192447768",
     "n-0739891476"
   ],
+  "JoyAI-VL-Interaction": [
+    "n-6c34648459"
+  ],
+  "JoyAI-Video-Edit": [
+    "n-4cb69e9202"
+  ],
+  "KIRI Engine": [
+    "n-61589d5fc9"
+  ],
+  "KVPO": [
+    "n-6b8983b2a2"
+  ],
+  "KVarN": [
+    "n-ec4e396a59"
+  ],
+  "KarpathyTalk": [
+    "n-289ba243a5"
+  ],
   "Kimi": [
     "n-2aa536ccdc"
+  ],
+  "Kimi Code CLI": [
+    "n-ced28f0724"
   ],
   "Kimi K2.6": [
     "n-2aa536ccdc"
   ],
+  "Kimi K3": [
+    "n-033632d8e0"
+  ],
   "Kimodo": [
+    "n-f5a3ca876d",
     "n-61c8c02fec"
   ],
   "Kimodo-SOMA-RP-v1.1": [
@@ -584,14 +1219,51 @@
   "Kiri Engine": [
     "n-9db878fd06"
   ],
+  "KnowAct-GUIClaw": [
+    "n-f09f1875bc"
+  ],
+  "Krea": [
+    "n-390aed02e2"
+  ],
+  "Krea 2": [
+    "n-eb68bcfc57",
+    "n-45b7bbd16b"
+  ],
+  "Krea 2 Outpaint": [
+    "n-a0d5299653"
+  ],
+  "Krea2 Filter Bypass": [
+    "n-31cb32c83a"
+  ],
+  "Krea2 TextFusion Refusal-Reduction LoRA": [
+    "n-6d8dc4435a"
+  ],
+  "Krea2-realism": [
+    "n-837f41c777"
+  ],
   "KupkaProd": [
     "n-511353336a"
   ],
   "KupkaProd Cinema Pipeline": [
     "n-511353336a"
   ],
+  "Kura": [
+    "n-26bc0bd267"
+  ],
+  "LATO.2": [
+    "n-b48ae23ef5"
+  ],
   "LDF-VFI": [
     "n-88b74a7e58"
+  ],
+  "LEMAS": [
+    "n-8d546ea894"
+  ],
+  "LFM2.5-2.6B": [
+    "n-c46744cf6a"
+  ],
+  "LFM2.5-VL-3B": [
+    "n-64c52eaf4d"
   ],
   "LGTM": [
     "n-fdbf17ddf7"
@@ -601,6 +1273,9 @@
   ],
   "LLaDA2.0-Uni": [
     "n-64094eafae"
+  ],
+  "LMX-Omni-52B-Halo": [
+    "n-4aa029af73"
   ],
   "LPM": [
     "n-464a2f9508"
@@ -617,8 +1292,14 @@
   "LTX 2.3 Enhancers": [
     "n-34034d382e"
   ],
+  "LTX-2 Caption tool": [
+    "n-0627ff22c0"
+  ],
   "LTX-2.3": [
-    "n-492f7ebf1e"
+    "n-ce71bb02ce",
+    "n-7150bbd771",
+    "n-492f7ebf1e",
+    "n-2222547f97"
   ],
   "LTX-2.3 22B": [
     "n-c492e2a3e4",
@@ -632,8 +1313,23 @@
   "LTX-2.3 22B IC-LoRA Outpaint": [
     "n-3ae3ddb34b"
   ],
+  "LTX-2.3 Black Magic LoRA": [
+    "n-bd49bc44b7"
+  ],
+  "LTX-2.3 Clean Plate IC-LoRA": [
+    "n-192b3cf75c"
+  ],
+  "LTX-2.3 IC-LoRA Cross-Eyed": [
+    "n-a61b804416"
+  ],
+  "LTX-2.3 IC-LoRA Ingredients": [
+    "n-75651b6d80"
+  ],
   "LTX-2.3 LoRA": [
     "n-492f7ebf1e"
+  ],
+  "LTX-2.3 inpaint LoRA": [
+    "n-30436dd38f"
   ],
   "LTX-2.3-22B": [
     "n-997df70c3d"
@@ -651,22 +1347,68 @@
   "LTX-2.3-22b-IC-LoRA-Ungrade": [
     "n-ccdb07b0af"
   ],
+  "LTX-2.3-Foley-LoRA": [
+    "n-443c254b7f"
+  ],
+  "LTX-2.3-GGUF": [
+    "n-222b01635c"
+  ],
+  "LTX-2.5": [
+    "n-75171cd2c8"
+  ],
+  "LTX2.3 Audio Reactive LoRA": [
+    "n-9d1d38dd75"
+  ],
   "LTX2.3-10Eros": [
     "n-3904aeff63"
   ],
   "LTX2.3-Multifunctional": [
     "n-ac33c5f998"
   ],
+  "Laguna S 2.1": [
+    "n-a11d97b87b"
+  ],
+  "Langswap": [
+    "n-dd68bf49b2"
+  ],
+  "Latent-to-4D": [
+    "n-b8afea4624"
+  ],
   "Lava Genie": [
     "n-ea4c5d4dff"
+  ],
+  "LiTo": [
+    "n-1a26ffa75d"
+  ],
+  "Ling-3.0-flash": [
+    "n-13a562a609"
   ],
   "LingBot-Map": [
     "n-f57cbec8b9"
   ],
+  "LingBot-Video": [
+    "n-61e3cf03ac"
+  ],
+  "LingBot-World 2.0": [
+    "n-de20defbe8"
+  ],
   "LiveActionAOV": [
     "n-23270485c3"
   ],
+  "LiveEdit": [
+    "n-1027303bd3"
+  ],
+  "LlamaServerLauncher": [
+    "n-a1c9a6a103"
+  ],
+  "LoGeR": [
+    "n-9371b417f8"
+  ],
+  "LocateAnything": [
+    "n-b79dee5163"
+  ],
   "LongCat": [
+    "n-bbc670c0e1",
     "n-5d03d1bfa4"
   ],
   "LongCat-AudioDiT": [
@@ -675,8 +1417,20 @@
   "LongCat-Next": [
     "n-5d03d1bfa4"
   ],
+  "LoomVideo": [
+    "n-9ce590f831"
+  ],
+  "LoopX": [
+    "n-0f298b0d41"
+  ],
   "Ltx2.3-VBVR-lora-I2V": [
     "n-4bbad7fe81"
+  ],
+  "Lucida": [
+    "n-8a9fb1a4b9"
+  ],
+  "Lucy 2.5": [
+    "n-8cc344a285"
   ],
   "Luma": [
     "n-99c607c318",
@@ -694,11 +1448,17 @@
   "LumiVid": [
     "n-52e566a651"
   ],
+  "LuxTTS": [
+    "n-6705e4929b"
+  ],
   "Lyra": [
     "n-a549ac3575"
   ],
   "Lyra 2.0": [
     "n-a549ac3575"
+  ],
+  "Lyria 3 Pro": [
+    "n-3faf75a3a8"
   ],
   "M2SVid": [
     "n-8ff86e4411"
@@ -706,14 +1466,23 @@
   "MACE-Dance": [
     "n-44b3b570af"
   ],
+  "MAGI-2": [
+    "n-dd148acbc4"
+  ],
   "MAI": [
     "n-2eb209422c"
   ],
   "MAI-Transcribe-1": [
     "n-2eb209422c"
   ],
+  "MAMMA": [
+    "n-cdfe0e2f1c"
+  ],
   "MARBLE": [
     "n-06b8f54c97"
+  ],
+  "MATCH": [
+    "n-8e078019f4"
   ],
   "MF0-1984": [
     "n-dd8d68b69f"
@@ -721,17 +1490,42 @@
   "MIA": [
     "n-221dea80c4"
   ],
+  "MLSLabsRenderer-Lite": [
+    "n-ced223aa89"
+  ],
+  "MODUS": [
+    "n-e55f67c729"
+  ],
   "MOSS-Audio": [
     "n-8da3cc43df"
   ],
   "MOSS-Audio-8B-Thinking": [
     "n-33f31b6935"
   ],
+  "MOSS-SoundEffect": [
+    "n-e6ade9848e"
+  ],
   "MOSS-TTS": [
     "n-f1ea79cf67"
   ],
   "MOSS-TTS-Nano": [
     "n-f1ea79cf67"
+  ],
+  "MOSS-Transcribe-Diarize-0.9B": [
+    "n-0663ce9db2"
+  ],
+  "MOSS-Video-Preview": [
+    "n-833da82530"
+  ],
+  "MVTrack4Gen": [
+    "n-eca931f946"
+  ],
+  "Mage-Flow": [
+    "n-594cd03215",
+    "n-363a1b03bb"
+  ],
+  "MagicMakeup Transfer": [
+    "n-84568364fd"
   ],
   "Majoor": [
     "n-ff03e5bf7b"
@@ -754,6 +1548,18 @@
   "Marco-MoE": [
     "n-15fd6206af"
   ],
+  "Marionette": [
+    "n-c2c4915336"
+  ],
+  "Marlin-2B": [
+    "n-05fe00f082"
+  ],
+  "MaskVidExperiments": [
+    "n-f8b15964ba"
+  ],
+  "MatrAIx": [
+    "n-75510d5219"
+  ],
   "Matrix-Game": [
     "n-5f36799f6d"
   ],
@@ -770,6 +1576,9 @@
   "MemPalace": [
     "n-a3583f87c7"
   ],
+  "MemPrivacy": [
+    "n-9760d7add3"
+  ],
   "Memory Intelligence Agent (MIA)": [
     "n-221dea80c4"
   ],
@@ -779,11 +1588,32 @@
   "Memory Transfer Learning": [
     "n-73e5608506"
   ],
+  "MeshCap": [
+    "n-160cda1ba7"
+  ],
   "Meta-CoT": [
     "n-2c91e42c2d"
   ],
+  "MetaClaw": [
+    "n-81ebf14eea"
+  ],
+  "MetaView": [
+    "n-e3f07cf60d"
+  ],
+  "MiMo Code": [
+    "n-99dadfd9bc"
+  ],
   "MiMo V2.5": [
     "n-768295e164"
+  ],
+  "MicroZoom": [
+    "n-6e6ec9ab6b"
+  ],
+  "Microsoft 365 Copilot Researcher": [
+    "n-e859acd94e"
+  ],
+  "Midjourney": [
+    "n-632e606b02"
   ],
   "MiniCPM-V": [
     "n-36e9bae8ed"
@@ -791,14 +1621,51 @@
   "MiniCPM-V 4.6": [
     "n-36e9bae8ed"
   ],
+  "MiniMax H3": [
+    "n-7127c15c53",
+    "n-160efa0fdb"
+  ],
+  "MiniMax H3 Extender": [
+    "n-756794e690"
+  ],
+  "MiniMax H3 Hybrid": [
+    "n-faa53b79d3"
+  ],
+  "MiniMax M3": [
+    "n-d2bc181ad0"
+  ],
   "MiniMax Music": [
     "n-dfe5e1e7a6"
   ],
   "MiniMax Music 2.6": [
     "n-dfe5e1e7a6"
   ],
+  "MiniMax Music 3": [
+    "n-0ebdd3ab44"
+  ],
+  "MiniMax Music 3 Latent Refiner": [
+    "n-37729ce27a"
+  ],
+  "MiniMax Music 3.0 Studio": [
+    "n-a11009c2dc"
+  ],
+  "MiniMax-H3 Turbo LoRA": [
+    "n-2facb069d0"
+  ],
+  "MiniMax-H3 x Z-Image": [
+    "n-f0c1036242"
+  ],
+  "MiniMax-H3-Fun-Controlnet-Union": [
+    "n-ccb51d2a95"
+  ],
+  "Mirage": [
+    "n-0ab05cddfc"
+  ],
   "MiroFish": [
     "n-e4b7a4de7b"
+  ],
+  "MisoTTS": [
+    "n-044c492370"
   ],
   "Mistral": [
     "n-8e2ceecbcb"
@@ -809,11 +1676,32 @@
   "Mistral Medium 3.5": [
     "n-8e2ceecbcb"
   ],
+  "Mistral Small 4": [
+    "n-2af9b3efb0"
+  ],
   "Mobile Ultra-detailed Animatable Avatars": [
     "n-207ed94fbd"
   ],
+  "MobileWan": [
+    "n-fcae5fc646"
+  ],
+  "Modality Forcing": [
+    "n-9358043c25"
+  ],
   "Modddif": [
     "n-c8fc3fe21e"
+  ],
+  "Modly": [
+    "n-d497328784"
+  ],
+  "Moebius": [
+    "n-f43e44e73f"
+  ],
+  "MolmoMotion": [
+    "n-a2c367a2ab"
+  ],
+  "MonoArt": [
+    "n-969e5271ff"
   ],
   "Motif-Video": [
     "n-c56aa9fa27"
@@ -821,20 +1709,60 @@
   "Motif-Video 2B": [
     "n-c56aa9fa27"
   ],
+  "MuScriptor": [
+    "n-ea52f36353"
+  ],
   "Muffins Flat 2 Panoramic Node": [
     "n-af1e479850"
   ],
   "Multi-User LLM Agent": [
     "n-1b656b5ff8"
   ],
+  "MultiSplat": [
+    "n-e5c07a6c4b"
+  ],
   "Multica": [
     "n-63cbd51a4a"
+  ],
+  "Muse": [
+    "n-d1aace8b4a",
+    "n-11ae14ece9"
+  ],
+  "Muse Glimmer": [
+    "n-3b15326fe8"
+  ],
+  "NAVA": [
+    "n-2242c477fb"
   ],
   "NUMINA": [
     "n-e3abad048f"
   ],
+  "NVIDIA Synthetic Video Detector": [
+    "n-0abfd5c1ff"
+  ],
+  "NVILA-HD-Video": [
+    "n-69ec3b0aaa"
+  ],
+  "NVPanoptix-3D": [
+    "n-49188c7915"
+  ],
+  "Nanbeige4.2-3B": [
+    "n-b3f3b611a3"
+  ],
+  "NanoVDR": [
+    "n-a14c05d0aa"
+  ],
   "Nemotron": [
     "n-6a0618307a"
+  ],
+  "Nemotron 3 Super": [
+    "n-c0d09bda8b"
+  ],
+  "Nemotron 3 Ultra": [
+    "n-549e91e1c0"
+  ],
+  "Nemotron 3.5 Lightning": [
+    "n-0ad60b8778"
   ],
   "Nemotron OCR": [
     "n-6a0618307a"
@@ -842,11 +1770,32 @@
   "Nemotron OCR v2": [
     "n-6a0618307a"
   ],
+  "Nemotron VoiceChat": [
+    "n-992fb237e4"
+  ],
   "Nemotron-3": [
     "n-1cfc0e728d"
   ],
   "Nemotron-3-Nano-Omni": [
     "n-1cfc0e728d"
+  ],
+  "Netflix": [
+    "n-8ec65997d5"
+  ],
+  "NeumaTex": [
+    "n-551508ee8c"
+  ],
+  "Neural Render Proxies": [
+    "n-3efc7bc4ce"
+  ],
+  "Neural Texture Compression": [
+    "n-ce536a0efc"
+  ],
+  "NexVid": [
+    "n-20c0bd9616"
+  ],
+  "North": [
+    "n-eac94cf783"
   ],
   "Nucleus": [
     "n-af83147e90"
@@ -860,8 +1809,20 @@
   "NumPy Synth": [
     "n-c4a452f85d"
   ],
+  "ONYX Ai Matte": [
+    "n-6504693e58"
+  ],
   "Obscura Remova": [
     "n-daa2681205"
+  ],
+  "Obsidian Mind": [
+    "n-b66c6b5fe8"
+  ],
+  "OccAny": [
+    "n-334d920a5d"
+  ],
+  "Odysseus": [
+    "n-c3f798c77b"
   ],
   "Odyssey-2": [
     "n-d8bf4374be"
@@ -872,11 +1833,32 @@
   "OlmPool": [
     "n-ab5423ca1c"
   ],
+  "Omma": [
+    "n-42aacd4f9b"
+  ],
+  "Omni-Diffusion": [
+    "n-0c7b2e5273"
+  ],
+  "OmniDirector": [
+    "n-38e5bcdce7"
+  ],
+  "OmniNFT": [
+    "n-eea14f2dcf"
+  ],
+  "OmniRoute": [
+    "n-3450949e78"
+  ],
   "OmniShotCut": [
     "n-bb0f83ff09"
   ],
   "OmniShow": [
     "n-03e4a812c8"
+  ],
+  "OmniStream": [
+    "n-eab857eece"
+  ],
+  "OmniVideo-7B_Qwen2.5-Omni": [
+    "n-2b7ba5c775"
   ],
   "OmniVoice": [
     "n-665b60a4fc",
@@ -895,6 +1877,9 @@
   "OneManCompany (OMC)": [
     "n-2bdd41c2da"
   ],
+  "Onklaud 5": [
+    "n-63310818df"
+  ],
   "Open Design": [
     "n-ff21b44ef5"
   ],
@@ -904,29 +1889,104 @@
   "Open Multi-Agent": [
     "n-662ab03ff4"
   ],
+  "OpenAI": [
+    "n-303168f615"
+  ],
+  "OpenCut": [
+    "n-fe5aa54dca"
+  ],
   "OpenGame": [
     "n-7cc366b545"
   ],
   "OpenHarness": [
     "n-44c547a245"
   ],
+  "OpenMAIC": [
+    "n-4947cd82cc"
+  ],
+  "OpenMOSS": [
+    "n-181f36a473"
+  ],
   "OpenMobile": [
     "n-02d9e4ba24"
+  ],
+  "OpenMontage": [
+    "n-02cbd28ee8"
+  ],
+  "OpenPose Studio for ComfyUI": [
+    "n-cf0d503ef2"
+  ],
+  "OpenResearcher": [
+    "n-60ec620b9e"
   ],
   "OpenReview": [
     "n-efaa00d50b"
   ],
+  "OpenSeeker": [
+    "n-0481856e9f"
+  ],
+  "OpenVuln": [
+    "n-b8d5334397"
+  ],
+  "OpenWorker": [
+    "n-e3b0bbbd83"
+  ],
+  "OrbitSheets": [
+    "n-7328495c92"
+  ],
+  "Orchestra-o1": [
+    "n-7f6dd4a0bc"
+  ],
+  "Origin": [
+    "n-d9748d5e13"
+  ],
+  "Ornith-1.5": [
+    "n-ad1e6a3d0c"
+  ],
+  "Ouroboros": [
+    "n-d7ef7b4828"
+  ],
+  "OvisOCR2": [
+    "n-78395026cf"
+  ],
   "P-Video-Avatar": [
     "n-d4d07dd0bf"
   ],
+  "PAM": [
+    "n-adee3ca551"
+  ],
+  "PEARL": [
+    "n-701c94a6a1"
+  ],
+  "POCKET-35B-GGUF": [
+    "n-4ef65aa7f6"
+  ],
   "PSDesigner": [
     "n-da24004da2"
+  ],
+  "PackForcing": [
+    "n-5dc5be210a"
+  ],
+  "PadCaptioner": [
+    "n-3a9d69d7e9"
   ],
   "Parakeet": [
     "n-5b56fca93a"
   ],
   "Parakeet-unified-en-0.6b": [
     "n-5b56fca93a"
+  ],
+  "Pascal Editor": [
+    "n-944c22a8fe"
+  ],
+  "Penguin-VL": [
+    "n-77aec57904"
+  ],
+  "Percepta AI": [
+    "n-b495739d31"
+  ],
+  "Perceptron Mk1": [
+    "n-f3982b18eb"
   ],
   "Perplexity": [
     "n-a56b9d31b6"
@@ -946,20 +2006,45 @@
   "PhoneClaw": [
     "n-f3c22d2162"
   ],
+  "PhotoQuilt": [
+    "n-cb62ae01fa"
+  ],
+  "PhyMotion": [
+    "n-1a301e2ceb"
+  ],
   "PhysForge": [
     "n-ee38e77991"
   ],
   "Pi-HOC": [
     "n-4694b833dd"
   ],
+  "PiD": [
+    "n-4176893fdd"
+  ],
+  "Pika": [
+    "n-c6ff419784"
+  ],
+  "Pika Director's Suite": [
+    "n-7dd296434c"
+  ],
+  "PixVerse CLI": [
+    "n-f108d81c34"
+  ],
   "Pixal3D": [
     "n-9e0a0fba7f"
   ],
   "PixelSmile": [
+    "n-7071875109",
     "n-55968207e4"
   ],
   "PlayCoder": [
     "n-fe9036dfac"
+  ],
+  "Pocket": [
+    "n-17e916004b"
+  ],
+  "PointDiT": [
+    "n-2340faee72"
   ],
   "PrismAudio": [
     "n-8fe6695c64"
@@ -967,17 +2052,33 @@
   "Prompt Relay": [
     "n-d4f61075f4"
   ],
+  "ProxyPose": [
+    "n-cddebb8e59"
+  ],
+  "PrunaVAED": [
+    "n-3554d5183b"
+  ],
+  "Pulse of Motion": [
+    "n-c969bb3002"
+  ],
+  "PyPI Wheel Downloader": [
+    "n-7c1c23a9d1"
+  ],
   "QClaw": [
     "n-093c066bee"
   ],
   "QClaw-4B": [
     "n-9af7222826"
   ],
+  "QuerySplat": [
+    "n-7bd01d988c"
+  ],
   "QuickMagic": [
     "n-2fd5e60740"
   ],
   "Qwen": [
     "n-b1f4237092",
+    "n-a7efec38e4",
     "n-86ce44c208",
     "n-7e83db4168"
   ],
@@ -987,20 +2088,54 @@
   "Qwen 3.6 Plus": [
     "n-6a60e32785"
   ],
+  "Qwen 3.6 Plus Preview": [
+    "n-3f35c2ca4e"
+  ],
+  "Qwen Audio": [
+    "n-af926b6d88"
+  ],
   "Qwen Code": [
     "n-7e83db4168"
   ],
   "Qwen variants": [
     "n-b1f4237092"
   ],
+  "Qwen-Audio-3.0-TTS": [
+    "n-a1dfc77c2c"
+  ],
+  "Qwen-Image 3.0": [
+    "n-0cf91afec3"
+  ],
   "Qwen-Image-2.0-Pro": [
     "n-86ce44c208"
   ],
+  "Qwen-Image-Flash": [
+    "n-d791bdd250"
+  ],
+  "Qwen-MM-Plugins": [
+    "n-32fda16502"
+  ],
+  "Qwen-Video-Edit": [
+    "n-9e65c4419e"
+  ],
+  "Qwen3-ForcedAligner-0.6B-hf": [
+    "n-0e3939a347"
+  ],
   "Qwen3-TTS": [
-    "n-d755c8bc8a"
+    "n-d755c8bc8a",
+    "n-4eb63d4caf"
   ],
   "Qwen3.5 / Gemma-4 / Qwopus": [
     "n-16ee77b7eb"
+  ],
+  "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF": [
+    "n-ba6ade4c05"
+  ],
+  "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF": [
+    "n-4f107b5ebf"
+  ],
+  "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive": [
+    "n-43108a28d7"
   ],
   "Qwen3.6-27B": [
     "n-dc7072d90a",
@@ -1009,6 +2144,9 @@
   ],
   "Qwen3.6-27B-DFlash": [
     "n-dc7072d90a"
+  ],
+  "Qwen3.6-34B-80L-Fable-5-Heretic": [
+    "n-d83223a468"
   ],
   "Qwen3.6-35B": [
     "n-8a620616a1",
@@ -1024,11 +2162,71 @@
   "Qwen3.6-35B-Reasoning-Distilled": [
     "n-129b6b09c0"
   ],
+  "Qwen3.8-27B": [
+    "n-5d775dee1a"
+  ],
+  "Qwen3.8-27B-Cold-Fusion": [
+    "n-29022e4fd2"
+  ],
+  "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF": [
+    "n-32a7d157bd"
+  ],
+  "Qwen3.8-27B-Uncensored-MLX": [
+    "n-49a53e09e5"
+  ],
+  "Qwen3.8-Flash-Next": [
+    "n-a99ab8a6eb"
+  ],
+  "Qwen3.8-Max": [
+    "n-b63f0f79e7"
+  ],
+  "Qwopus3.5-9B-Coder": [
+    "n-2540f877eb"
+  ],
+  "Qwopus3.6-27B-Coder-MTP": [
+    "n-8b5f11bc11"
+  ],
+  "Qwopus3.6-27B-v2": [
+    "n-d4f7f53653"
+  ],
+  "Qwythos-27B-v1": [
+    "n-7dca97e2c9"
+  ],
+  "Qwythos-9B-Claude-Mythos-5": [
+    "n-82a94d3961"
+  ],
   "RS Nodes": [
     "n-c66b8c38b0"
   ],
+  "Ramp Router": [
+    "n-2393a845fa"
+  ],
+  "Raon-OpenTTS": [
+    "n-40028a6fe7"
+  ],
   "RawGen": [
     "n-c449ab03a6"
+  ],
+  "Ray 3.2": [
+    "n-29d4083d61"
+  ],
+  "ReChannel": [
+    "n-5cd28a2bd1"
+  ],
+  "ReDesign": [
+    "n-78d5e0b6be"
+  ],
+  "RealMaster": [
+    "n-7e0c4cc870"
+  ],
+  "RealRestorer": [
+    "n-920abfb1e3"
+  ],
+  "Realism Enhancer Krea2": [
+    "n-93c82cced4"
+  ],
+  "Realism_Engine_Ideogram_4": [
+    "n-f2b3361da7"
   ],
   "Realtime TTS-2": [
     "n-2ffed2d338"
@@ -1039,11 +2237,26 @@
   "RefineAnything": [
     "n-10b1471000"
   ],
+  "Reka": [
+    "n-f49e4ee649"
+  ],
   "ReplaceMe": [
     "n-18cb9608e2"
   ],
+  "ResearchStudio": [
+    "n-cf19d00e70"
+  ],
   "Reshoot-Anything": [
     "n-8a851b82d9"
+  ],
+  "Rest2Art": [
+    "n-052770a8bf"
+  ],
+  "RetimeGS": [
+    "n-7f5e1b5d5a"
+  ],
+  "RiGS": [
+    "n-240baee803"
   ],
   "Ring-2.6-1T": [
     "n-58129455d1"
@@ -1066,14 +2279,40 @@
   "RvR": [
     "n-b6c1907179"
   ],
+  "S3T-Former": [
+    "n-6ab0eb34ad"
+  ],
+  "SAM-MT": [
+    "n-07db2c49c3"
+  ],
+  "SAM2Matting": [
+    "n-86023c7979"
+  ],
+  "SAMA": [
+    "n-6e1bdb74a2"
+  ],
   "SANA": [
     "n-e76fc8f96f"
+  ],
+  "SANA-Streaming": [
+    "n-9bab984caa"
   ],
   "SANA-Video": [
     "n-e76fc8f96f"
   ],
   "SCAIL-2": [
+    "n-7e81500f3d",
     "n-0cf9d026b8"
+  ],
+  "SCoPE": [
+    "n-cf8c575ede"
+  ],
+  "SIMART": [
+    "n-b3548b068b",
+    "n-5cbb79d999"
+  ],
+  "SIQ-1-35B": [
+    "n-38018d5d2d"
   ],
   "SVGS": [
     "n-f735b8e846"
@@ -1081,23 +2320,55 @@
   "Sapiens2": [
     "n-aa28911ec6"
   ],
+  "SeFi-Image": [
+    "n-1857cf1c7a"
+  ],
+  "Seamless-Equirectangular LTX-2.3 LoRA": [
+    "n-ffa7213d37"
+  ],
+  "See-through": [
+    "n-4a97c79072"
+  ],
+  "Seed Audio": [
+    "n-5540a93cb5"
+  ],
+  "Seed Audio 1.0": [
+    "n-0a1838ff3d"
+  ],
   "Seed3D": [
     "n-ea73b925dc"
   ],
   "Seed3D 2.0": [
     "n-ea73b925dc"
   ],
+  "SeedDance": [
+    "n-0852dc1008"
+  ],
+  "SeedRealtime": [
+    "n-af01bc34de"
+  ],
+  "SeedVR2": [
+    "n-98db5e9f27"
+  ],
   "Seedance": [
-    "n-e4d5ff5436"
+    "n-e4d5ff5436",
+    "n-7dc01702da"
   ],
   "Seedance 2.0": [
+    "n-ee301ec91c",
     "n-e4d5ff5436"
+  ],
+  "Seedream 5 Pro": [
+    "n-740438cbeb"
   ],
   "Seeduplex": [
     "n-5d75a2276e"
   ],
   "Seeing Fast and Slow": [
     "n-b1f200df41"
+  ],
+  "Self Gradient Forcing": [
+    "n-e9d344fa77"
   ],
   "Semantic Progress Function": [
     "n-b18df4c1c8"
@@ -1106,10 +2377,26 @@
     "n-b18df4c1c8"
   ],
   "SenseNova": [
-    "n-4a638abcfe"
+    "n-4a638abcfe",
+    "n-000fcd918f"
   ],
   "SenseNova-U1": [
     "n-4a638abcfe"
+  ],
+  "SenseNova-Vision": [
+    "n-6de0fad44f"
+  ],
+  "Seoul World Model": [
+    "n-3a170e8f1b"
+  ],
+  "ShotStream": [
+    "n-dbba09c3a2"
+  ],
+  "ShotVerse": [
+    "n-960836273b"
+  ],
+  "ShutterMuse": [
+    "n-eaa0dc5be8"
   ],
   "SillyTavern": [
     "n-fa9c04297f"
@@ -1117,11 +2404,18 @@
   "SlopLobster": [
     "n-2dbef67328"
   ],
+  "Sol-Attn": [
+    "n-aefede82fd"
+  ],
+  "Solar Open 2": [
+    "n-2d08c11049"
+  ],
   "Sommelier": [
     "n-b107eae70b"
   ],
   "Sonilo": [
-    "n-694e3b1cf5"
+    "n-694e3b1cf5",
+    "n-386f8faa44"
   ],
   "Spark": [
     "n-110bebc860"
@@ -1129,8 +2423,23 @@
   "Spark 2.0": [
     "n-110bebc860"
   ],
+  "SparkVSR": [
+    "n-e48a82e567"
+  ],
+  "Spatial Memory Agent": [
+    "n-f1f27d1e3a"
+  ],
   "Spatial Studio": [
     "n-f4c04ff479"
+  ],
+  "Spatial-TTT": [
+    "n-171634870a"
+  ],
+  "SpatialBoost": [
+    "n-e2e11bcd53"
+  ],
+  "SpatialClaw": [
+    "n-3905bae486"
   ],
   "SpatialEdit-16B": [
     "n-3fedc168df"
@@ -1141,6 +2450,15 @@
   "Spectrum": [
     "n-58225bc7d0"
   ],
+  "Splatlight": [
+    "n-7322929b10"
+  ],
+  "Stable Layers": [
+    "n-a5a478ec38"
+  ],
+  "Starchild-1": [
+    "n-b636bdc989"
+  ],
   "StorySplat": [
     "n-e4fab55e05"
   ],
@@ -1149,6 +2467,12 @@
   ],
   "Stream-R1": [
     "n-09f901429d"
+  ],
+  "Stream.FM": [
+    "n-51a9d6c3d6"
+  ],
+  "Stripe": [
+    "n-4b652bcc77"
   ],
   "StyleID": [
     "n-9f3f263dfe"
@@ -1159,17 +2483,38 @@
   "Sulphur 2": [
     "n-8913c98771"
   ],
+  "Sun Direction LoRA Flux 2 Klein 9B": [
+    "n-36fa065b79"
+  ],
+  "Suno Studio 2.0": [
+    "n-3d51708a52"
+  ],
+  "SuperSplat": [
+    "n-afce40f186"
+  ],
   "Superset": [
     "n-73d2d5938e"
   ],
+  "Supertonic": [
+    "n-27ea6ab4ef"
+  ],
   "Superwhisper": [
     "n-08bc14aa3d"
+  ],
+  "Surflo": [
+    "n-5f58046d55"
+  ],
+  "SwiftVR": [
+    "n-e3f801a8ba"
   ],
   "Sync-3": [
     "n-cd25320940"
   ],
   "Sync.so": [
     "n-d883c4c40c"
+  ],
+  "SynthID-Bypass": [
+    "n-63fc70b541"
   ],
   "TIPSv2": [
     "n-de24cf852f"
@@ -1183,11 +2528,32 @@
   "TRIBE Review MVP": [
     "n-f9bd7f602b"
   ],
+  "TSANTSALIZE": [
+    "n-6607af2693"
+  ],
   "TUNA-2": [
     "n-44592b77d5"
   ],
+  "Telegram": [
+    "n-c32e26254c"
+  ],
+  "TencentDB Agent Memory": [
+    "n-1402aca572"
+  ],
+  "TeraTTSv2": [
+    "n-32e036715e"
+  ],
   "Thinking with Visual Primitives (TVP)": [
     "n-2244c25f96"
+  ],
+  "ThinkingCap-Qwen3.6-27B": [
+    "n-5b5558fedd"
+  ],
+  "TimeLens2": [
+    "n-22448a4fd0"
+  ],
+  "TimeSlice Nodes": [
+    "n-04a79175d6"
   ],
   "TinyMU": [
     "n-bec376434e"
@@ -1195,8 +2561,53 @@
   "Token Warping": [
     "n-4697df47f5"
   ],
+  "Topaz Starlight Precise": [
+    "n-d22e265efd"
+  ],
+  "Transcribe.cpp": [
+    "n-1059ecec13"
+  ],
+  "Treblo": [
+    "n-a60b24ebb5"
+  ],
   "TriAttention": [
     "n-e96d2e151b"
+  ],
+  "Tripo": [
+    "n-f80e0da140"
+  ],
+  "TripoSplat": [
+    "n-38e1500c66"
+  ],
+  "TurboQuant": [
+    "n-3870f53415"
+  ],
+  "Tutu MCP": [
+    "n-4e2f708bcc"
+  ],
+  "UEmbed": [
+    "n-75473141c2"
+  ],
+  "UI-Mate-27B": [
+    "n-3f39baf7da"
+  ],
+  "UMO": [
+    "n-b02f3b33b7"
+  ],
+  "UNI-1": [
+    "n-006a78034f"
+  ],
+  "UPAL": [
+    "n-7314a6bcc8"
+  ],
+  "Ultra Real - Klein 9b": [
+    "n-277ef3d868"
+  ],
+  "UltraMuse XYZ Studio": [
+    "n-2b3ced63f1"
+  ],
+  "UltraReal - KREA2 LoRA": [
+    "n-984ac0ee00"
   ],
   "Uni-ViGU": [
     "n-a5ceb23735"
@@ -1207,6 +2618,9 @@
   "UniCorrn": [
     "n-a3c0ebdd3a"
   ],
+  "UniD": [
+    "n-5ee5b179bf"
+  ],
   "UniGenDet": [
     "n-2fc856ac34"
   ],
@@ -1216,17 +2630,41 @@
   "UniRelight": [
     "n-49b64d4933"
   ],
+  "UniVR": [
+    "n-cc2ada061c"
+  ],
   "UniVidX": [
     "n-70e759ac2b"
   ],
   "Unify-Agent": [
     "n-c9e1e40a9c"
   ],
+  "Unitree GD01": [
+    "n-e584d1d2e9"
+  ],
   "Unity AI": [
     "n-e60825c137"
   ],
+  "Unity CLI": [
+    "n-2fb0f885be"
+  ],
+  "UnityShots": [
+    "n-c41ee335f6"
+  ],
+  "UnitySplats": [
+    "n-9fd4c4bd6f"
+  ],
+  "Unlimited-OCR": [
+    "n-86875b15aa"
+  ],
   "Unsloth": [
     "n-a3aa871dfa"
+  ],
+  "V-JEPA": [
+    "n-17b312d487"
+  ],
+  "V-RAE": [
+    "n-4177cab2fa"
   ],
   "VOID": [
     "n-83af6888de",
@@ -1238,8 +2676,20 @@
   "VR-360-Outpaint-LTX2.3-IC-LoRA": [
     "n-9a27202165"
   ],
+  "VVAH": [
+    "n-498f6ed5c2"
+  ],
   "Vanast": [
     "n-e33dfb0bdb"
+  ],
+  "Velorn": [
+    "n-c73bfca8d3"
+  ],
+  "ViFeEdit": [
+    "n-ded5155805"
+  ],
+  "Vibe Coding XR": [
+    "n-16c3e34986"
   ],
   "VibeComfy": [
     "n-6b3a93f373"
@@ -1247,11 +2697,44 @@
   "VibeComfy 2.0": [
     "n-6b3a93f373"
   ],
+  "VibeVoice-ASR-BitNet": [
+    "n-9fe0054e15"
+  ],
+  "VibeWorlding": [
+    "n-8b8615589c"
+  ],
+  "Video-DeepResearch": [
+    "n-038f2eebc4"
+  ],
+  "VideoCoCo": [
+    "n-497d40e909"
+  ],
+  "VideoNeuMat": [
+    "n-1c57725150"
+  ],
+  "Vidu": [
+    "n-819e122ccd"
+  ],
+  "Violin": [
+    "n-3347fb1328"
+  ],
   "Vista4D": [
     "n-d9b76e73f7"
   ],
+  "VocalRender": [
+    "n-4621bd0727"
+  ],
+  "Volumography": [
+    "n-ef5357108f"
+  ],
   "VoxCPM2": [
     "n-d7b1c6bb36"
+  ],
+  "Voxtral-Realtime-WebGPU": [
+    "n-da87b7d4da"
+  ],
+  "WAN": [
+    "n-2b71540823"
   ],
   "Wan 2.7": [
     "n-d9eaebd61d"
@@ -1259,11 +2742,27 @@
   "Wan 2.7-Image": [
     "n-d9eaebd61d"
   ],
+  "Wan-Animate-2": [
+    "n-4fb87f050c"
+  ],
+  "Wan-Dancer": [
+    "n-1b82c038ef"
+  ],
+  "Wan-Streamer": [
+    "n-a54747f312",
+    "n-15581903e4"
+  ],
   "Wan2.2": [
     "n-cf88820803"
   ],
   "Wan2.2-Distill-Models": [
     "n-cf88820803"
+  ],
+  "Wan2.2-NVFP4-Sparse": [
+    "n-7d096b306e"
+  ],
+  "Wan2.2-T2V-A14B-Diffusers-FP8": [
+    "n-b1bee57937"
   ],
   "Wan2.7": [
     "n-d745776a36"
@@ -1271,20 +2770,50 @@
   "Wan2.7-Video": [
     "n-d745776a36"
   ],
+  "WavTTS": [
+    "n-75eec0b102"
+  ],
   "Waypoint-1.5": [
     "n-2090ac5f1b"
+  ],
+  "What to Edit Next": [
+    "n-c4e41aef2b"
+  ],
+  "WhatModels": [
+    "n-dd9a3a9b07"
+  ],
+  "Whisper-Podlodka-Turbo": [
+    "n-49f80a3add"
   ],
   "WildDet3D": [
     "n-c5207bfa4a"
   ],
+  "Windows-Copilot-API": [
+    "n-25eed24e0d"
+  ],
+  "WithEveryone": [
+    "n-f57cbf8f0c"
+  ],
   "World-R1": [
     "n-5db7fa704b"
+  ],
+  "WorldCam": [
+    "n-8e1566e0c7"
+  ],
+  "X-Dub": [
+    "n-a5bfdf92c1"
+  ],
+  "X-Voice": [
+    "n-7290230618"
   ],
   "X2SAM": [
     "n-1c50287b34"
   ],
   "Xiaomi MiMo V2.5": [
     "n-768295e164"
+  ],
+  "YaGS": [
+    "n-82f8f06562"
   ],
   "Yedp": [
     "n-501487aec4"
@@ -1299,14 +2828,41 @@
   "Z-Image Turbo workflow": [
     "n-9744e9b73c"
   ],
+  "Z-Image Turbo++": [
+    "n-7f424895fc"
+  ],
   "Z-Image-SAM-ControlNet": [
     "n-c78d87f531"
+  ],
+  "ZCode 3.0": [
+    "n-1d8711ddfd"
+  ],
+  "Zeta-Chroma": [
+    "n-b977739627"
+  ],
+  "abot-earth": [
+    "n-ad9c9181f8"
+  ],
+  "abot-earth-0-5": [
+    "n-ad9c9181f8"
+  ],
+  "abot-world": [
+    "n-269c40ddd3"
+  ],
+  "abot_world": [
+    "n-269c40ddd3"
+  ],
+  "ace-step": [
+    "n-64db3725b4"
   ],
   "ace-step-1-5": [
     "n-b9e02bd01a",
     "n-851c72bbf5",
     "n-4003adb534",
     "n-061c80a1dc"
+  ],
+  "ace-step-node-suite": [
+    "n-64db3725b4"
   ],
   "acestep": [
     "n-b9e02bd01a",
@@ -1318,6 +2874,9 @@
   ],
   "acestep.cpp": [
     "n-a236c67d82"
+  ],
+  "acti": [
+    "n-b6851c60f8"
   ],
   "adaptation:controlnet": [
     "n-c78d87f531"
@@ -1352,8 +2911,50 @@
   "adaptive-spatio-temporal-3dgs": [
     "n-ccb2a502fb"
   ],
+  "adobe": [
+    "n-0d7aed5e86"
+  ],
+  "adobe-ai-tools": [
+    "n-0d7aed5e86"
+  ],
+  "adobe-firefly": [
+    "n-0d7aed5e86"
+  ],
+  "adobe-firefly-graph": [
+    "n-625a62d5de"
+  ],
+  "adobe-sneaks": [
+    "n-0d7aed5e86"
+  ],
+  "adobe_illustrator_features": [
+    "n-0d7aed5e86"
+  ],
+  "adonis-flux2klein": [
+    "n-19402c57d8"
+  ],
+  "afm-3": [
+    "n-3bacf0e143"
+  ],
+  "agent_platforms": [
+    "n-7d2c69bfe3"
+  ],
+  "agent_tools": [
+    "n-a2b2f064d2"
+  ],
+  "agentic_data_storytelling": [
+    "n-99ff299eee"
+  ],
   "agentofficesuite": [
     "n-cfec66a95b"
+  ],
+  "agents-a1": [
+    "n-6cdd78c533"
+  ],
+  "agents_a1": [
+    "n-6cdd78c533"
+  ],
+  "agora": [
+    "n-27957b3eee"
   ],
   "ai-metadata-inspector": [
     "n-02e0b8ae6c"
@@ -1364,8 +2965,29 @@
   "ai4animation": [
     "n-535631e71f"
   ],
+  "aim-uofa/sma": [
+    "n-f1f27d1e3a"
+  ],
   "alaya": [
     "n-01b786ce9f"
+  ],
+  "alayalab/evoke": [
+    "n-901220b5b4"
+  ],
+  "alayalab/marionette": [
+    "n-c2c4915336"
+  ],
+  "alibaba": [
+    "n-1e37f80b3f"
+  ],
+  "alibaba/what-to-edit-next": [
+    "n-c4e41aef2b"
+  ],
+  "alibaba:mofusion": [
+    "n-1e37f80b3f"
+  ],
+  "alibaba_latent_to_pixel": [
+    "n-1e37f80b3f"
   ],
   "animation": [
     "n-f1139f1ee9",
@@ -1401,17 +3023,75 @@
     "n-0cf9d026b8",
     "n-03e4a812c8"
   ],
+  "anthropic": [
+    "n-f5abb4cf9b",
+    "n-cfd3254184",
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "anthropic_450m_funding": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "anthropic_claude_connections": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "anthropic_sleeper_agents": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "anti-vocale": [
+    "n-02ff6518d6"
+  ],
   "any4d": [
     "n-155ef8c3dc"
+  ],
+  "anydoc": [
+    "n-721afd6a19"
+  ],
+  "anyflow": [
+    "n-4ed3ebfa1c"
+  ],
+  "anyflow-release": [
+    "n-4ed3ebfa1c"
   ],
   "anyrecon": [
     "n-5be6e62e52"
   ],
+  "anytop": [
+    "n-4bbbd17d1b"
+  ],
   "aose": [
     "n-cfec66a95b"
   ],
+  "apple": [
+    "n-353bab66f8"
+  ],
+  "apple-foundation-models": [
+    "n-3bacf0e143"
+  ],
+  "apple_gaudi": [
+    "n-353bab66f8"
+  ],
+  "apple_intelligence": [
+    "n-353bab66f8"
+  ],
   "arcflow": [
     "n-a7d1f83b13"
+  ],
+  "ardy": [
+    "n-e8b9f004d7"
+  ],
+  "arena-ai": [
+    "n-286154962f"
+  ],
+  "arena_ai": [
+    "n-286154962f"
   ],
   "artemis": [
     "n-60f7bb3300"
@@ -1422,16 +3102,35 @@
   "article-enrichment": [
     "n-2f94cbb043"
   ],
+  "artifixer": [
+    "n-e6413c0a2c"
+  ],
+  "asasr": [
+    "n-80bd00594d"
+  ],
   "assistant-pepe": [
     "n-73e8b27cb3"
   ],
   "assistant-pepe-32b": [
     "n-73e8b27cb3"
   ],
+  "astrolabe": [
+    "n-b438d99dc2"
+  ],
+  "asymflow": [
+    "n-b3aa6851b7",
+    "n-0b1d3c8a99"
+  ],
+  "audex": [
+    "n-c5e93c1d3a"
+  ],
   "audio-flamingo": [
     "n-d5883c87bf",
     "n-9aa3cb6ab5",
     "n-5f314f696f"
+  ],
+  "audio-interaction": [
+    "n-e55e56223b"
   ],
   "audio-music": [
     "n-f5dbfdb346",
@@ -1467,11 +3166,32 @@
   "audio-omni": [
     "n-bab7f8e6fd"
   ],
+  "audio_interaction": [
+    "n-e55e56223b"
+  ],
+  "audiox": [
+    "n-97fff052b7"
+  ],
+  "audiox-turbo": [
+    "n-97fff052b7"
+  ],
   "aura": [
     "n-5e356466d0"
   ],
+  "autograph": [
+    "n-d5e082f834"
+  ],
+  "ava-encoder": [
+    "n-8f2e77690e"
+  ],
   "avatarpointillist": [
     "n-b651b2cbf2"
+  ],
+  "awares": [
+    "n-fdae3b02e0"
+  ],
+  "awesome-harness-engineering": [
+    "n-29eb1f831e"
   ],
   "awesome-russian-speech": [
     "n-78ccc63365"
@@ -1485,6 +3205,9 @@
   "background-removal": [
     "n-169e12a080",
     "n-0124eabefd"
+  ],
+  "baidu-unlimited-ocr": [
+    "n-86875b15aa"
   ],
   "base-model:flux-2-klein-9b": [
     "n-76a6e0d291"
@@ -1502,11 +3225,56 @@
   "base-model:qwen3-6-35b-a3b": [
     "n-129b6b09c0"
   ],
+  "base44": [
+    "n-c2e38d5935"
+  ],
   "bepic-viewer": [
     "n-08fceb7eae"
   ],
+  "bernini": [
+    "n-daa3090ac6"
+  ],
+  "black-forest-labs": [
+    "n-1a1b209e8f"
+  ],
+  "blender-development-fund": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "bodycount-detector": [
+    "n-3df0e38055"
+  ],
+  "bonsai-27b": [
+    "n-0a5ac285d9"
+  ],
+  "bonsai-image": [
+    "n-7254e49ce8"
+  ],
+  "boogu-image": [
+    "n-7ac4fa4583"
+  ],
+  "boogu-image-edit-gguf": [
+    "n-cf04305133"
+  ],
+  "boogu_image": [
+    "n-cf04305133",
+    "n-7ac4fa4583"
+  ],
   "boxer": [
     "n-2938402642"
+  ],
+  "braindb": [
+    "n-520de897dc"
+  ],
+  "brdfusion": [
+    "n-4082277aeb"
+  ],
+  "breeze-tts": [
+    "n-d99912828e"
+  ],
+  "breeze-tts-2": [
+    "n-d99912828e"
   ],
   "bro": [
     "n-49a6616381"
@@ -1517,6 +3285,18 @@
   "bytecut": [
     "n-19adc0c7af"
   ],
+  "bytedance-evoquality": [
+    "n-65c8f1b873"
+  ],
+  "bytedance-seed-audio-1-0": [
+    "n-0a1838ff3d"
+  ],
+  "bytedance-video-upscaler": [
+    "n-347308d9b6"
+  ],
+  "byteshape": [
+    "n-fec11a299f"
+  ],
   "c-met": [
     "n-70f82f82ae"
   ],
@@ -1526,11 +3306,53 @@
   "cadd-7b": [
     "n-e9259b87d6"
   ],
+  "calibri": [
+    "n-1e7e01ddd7"
+  ],
   "camera-comfyUI": [
     "n-3354f12396"
   ],
   "camera-comfyui": [
     "n-3354f12396"
+  ],
+  "cameraanything": [
+    "n-612fbb9ad1"
+  ],
+  "canon-ultrareal": [
+    "n-868a3aaeef"
+  ],
+  "canva": [
+    "n-e1ca928d8e"
+  ],
+  "canva_magic_layers": [
+    "n-e1ca928d8e"
+  ],
+  "capcut": [
+    "n-28ff35cede"
+  ],
+  "capcut_features": [
+    "n-28ff35cede"
+  ],
+  "care-edit": [
+    "n-3297691b6f"
+  ],
+  "carla-air": [
+    "n-c4a0d1a186"
+  ],
+  "carla_air_release": [
+    "n-c4a0d1a186"
+  ],
+  "causal-forcing": [
+    "n-6624131df0"
+  ],
+  "causal_forcing": [
+    "n-6624131df0"
+  ],
+  "causalcine": [
+    "n-6ada41074f"
+  ],
+  "causalcine-release": [
+    "n-6ada41074f"
   ],
   "cdm": [
     "n-c660c4f559"
@@ -1561,7 +3383,14 @@
     "n-019c913613"
   ],
   "chatgpt": [
+    "n-303168f615",
     "n-0646f210ee"
+  ],
+  "chatgpt-plugins": [
+    "n-303168f615"
+  ],
+  "chatgpt_monetization": [
+    "n-303168f615"
   ],
   "china": [
     "n-fe9036dfac",
@@ -1628,19 +3457,65 @@
     "n-04529e7d46",
     "n-02d9e4ba24"
   ],
+  "chronosplat": [
+    "n-8e75dd0767"
+  ],
+  "civitai": [
+    "n-ba790c8631"
+  ],
+  "civitai-clubs": [
+    "n-ba790c8631"
+  ],
+  "civitai_monetization": [
+    "n-ba790c8631"
+  ],
   "clad": [
     "n-545f242033"
   ],
+  "clarity-omr": [
+    "n-b347948b96"
+  ],
+  "clarity_omr": [
+    "n-b347948b96"
+  ],
   "claude": [
     "n-ec5428386a",
+    "n-b7c4d9268f",
     "n-b4bbea9668",
-    "n-a81182e9ac"
+    "n-a81182e9ac",
+    "n-66988bb8af",
+    "n-14a863c9d3"
   ],
   "claude-4-7": [
     "n-a81182e9ac"
   ],
   "claude-code": [
-    "n-f861f085b8"
+    "n-f861f085b8",
+    "n-55b05978df"
+  ],
+  "claude-code-billing": [
+    "n-55b05978df"
+  ],
+  "claude-fable-5": [
+    "n-f5abb4cf9b"
+  ],
+  "claude-opus-5": [
+    "n-4ea5eb69ba"
+  ],
+  "claude-sonnet-5": [
+    "n-cfd3254184"
+  ],
+  "claude-video": [
+    "n-238cbd39cb"
+  ],
+  "claude-video (watch)": [
+    "n-238cbd39cb"
+  ],
+  "claude_opus_5": [
+    "n-4ea5eb69ba"
+  ],
+  "claude_video": [
+    "n-238cbd39cb"
   ],
   "claw": [
     "n-2f8c6f34f0"
@@ -1650,6 +3525,12 @@
   ],
   "clawgui": [
     "n-6dd8c1ff25"
+  ],
+  "cli-anything": [
+    "n-a2b2f064d2"
+  ],
+  "clip": [
+    "n-303168f615"
   ],
   "closed": [
     "n-f0cec18709",
@@ -1670,8 +3551,20 @@
     "n-2405c2d2f2",
     "n-093c066bee"
   ],
+  "coco": [
+    "n-6f05bdf264"
+  ],
   "codex": [
     "n-2a8f5beb6c"
+  ],
+  "cohere": [
+    "n-eac94cf783"
+  ],
+  "cohere-north": [
+    "n-eac94cf783"
+  ],
+  "cohere-transcribe": [
+    "n-68b3b1fae6"
   ],
   "cointeract": [
     "n-d1faa63ee9"
@@ -1681,8 +3574,20 @@
     "n-a3aa871dfa",
     "n-83af6888de"
   ],
+  "colibri": [
+    "n-86748f8e9e"
+  ],
+  "collabvr": [
+    "n-e8fb056748"
+  ],
+  "collabvr-release": [
+    "n-e8fb056748"
+  ],
   "color-grade-transfer": [
     "n-250fdb3b1b"
+  ],
+  "comfy-cloud-pricing": [
+    "n-c724eb9e4c"
   ],
   "comfystudio": [
     "n-18e6b47885"
@@ -1694,6 +3599,7 @@
     "n-e4d5ff5436",
     "n-df8413780a",
     "n-d967265835",
+    "n-c724eb9e4c",
     "n-c66b8c38b0",
     "n-c492e2a3e4",
     "n-c2a141200b",
@@ -1732,8 +3638,14 @@
   "comfyui-6dof": [
     "n-f6c6cdf729"
   ],
+  "comfyui-asymflow": [
+    "n-b3aa6851b7"
+  ],
   "comfyui-command-palette": [
     "n-133a0bfd18"
+  ],
+  "comfyui-davinci-magihuman": [
+    "n-8c14423e0d"
   ],
   "comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
@@ -1743,19 +3655,145 @@
   "comfyui-hires-fix": [
     "n-1b11977658"
   ],
+  "comfyui-krea2textencoder": [
+    "n-ba02def424"
+  ],
+  "comfyui-ksampler-matrix-lab": [
+    "n-e431684c08"
+  ],
+  "comfyui-latent-tiled-pid": [
+    "n-a85f96599d"
+  ],
+  "comfyui-lrw-nodes": [
+    "n-ab593e345a"
+  ],
+  "comfyui-minimax-h3-extender": [
+    "n-756794e690"
+  ],
+  "comfyui-minimax-h3-longmedia": [
+    "n-fdaa3b9adb"
+  ],
+  "comfyui-minimaxh3-latentupscaler": [
+    "n-0a40fd014f"
+  ],
+  "comfyui-mobile-frontend": [
+    "n-2e764207bd"
+  ],
+  "comfyui-model-installer": [
+    "n-7e2c33bcb6"
+  ],
+  "comfyui-model-resolver": [
+    "n-79465fc2da"
+  ],
+  "comfyui-muse": [
+    "n-11ae14ece9"
+  ],
+  "comfyui-openpose-studio": [
+    "n-cf0d503ef2"
+  ],
+  "comfyui-orbitsheets": [
+    "n-7328495c92"
+  ],
   "comfyui-photopea": [
     "n-39f773b51f"
+  ],
+  "comfyui-pixeldriftfix": [
+    "n-7340bf1aad"
+  ],
+  "comfyui-pulid-flux2": [
+    "n-6ae44b1607"
   ],
   "comfyui-sensenova-u1": [
     "n-dc75b3cb12",
     "n-84255b9cc3",
     "n-41c999d507"
   ],
+  "comfyui-setup-manager": [
+    "n-3600f1f8ab"
+  ],
+  "comfyui-skill-public": [
+    "n-7aa1f96c36"
+  ],
+  "comfyui-sol-attn": [
+    "n-3f0a9c0170"
+  ],
+  "comfyui-spectrum-minimax-h3": [
+    "n-f8b2802977"
+  ],
+  "comfyui-starnodes": [
+    "n-ffa010ab28"
+  ],
+  "comfyui-streetview-loader": [
+    "n-67e41ba5ae"
+  ],
+  "comfyui-vfx-passes": [
+    "n-4941701283"
+  ],
+  "comfyui-vfx-workflow": [
+    "n-4941701283"
+  ],
+  "comfyui-video-tiler": [
+    "n-c16d03e2b0"
+  ],
   "comfyui-wan-vace-video-joiner": [
     "n-332335c756"
   ],
+  "comfyui_core_updates": [
+    "n-c724eb9e4c"
+  ],
+  "comfyui_desktop": [
+    "n-c724eb9e4c"
+  ],
+  "comfyui_ksampler_matrix_lab": [
+    "n-e431684c08"
+  ],
+  "comfyui_lrw_nodes": [
+    "n-ab593e345a"
+  ],
+  "comfyui_minimax_h3_longmedia": [
+    "n-fdaa3b9adb"
+  ],
+  "comfyui_minimaxh3_latentupscaler": [
+    "n-0a40fd014f"
+  ],
+  "comfyui_mobile_frontend": [
+    "n-2e764207bd"
+  ],
+  "comfyui_openpose_studio": [
+    "n-cf0d503ef2"
+  ],
+  "comfyui_pixeldriftfix": [
+    "n-7340bf1aad"
+  ],
+  "comfyui_setup_manager": [
+    "n-3600f1f8ab"
+  ],
+  "comfyui_skill_public": [
+    "n-7aa1f96c36"
+  ],
+  "comfyui_streetview_loader": [
+    "n-67e41ba5ae"
+  ],
+  "comfyui_tools": [
+    "n-2b3ced63f1"
+  ],
+  "comfyui_video_tiler": [
+    "n-c16d03e2b0"
+  ],
+  "command-a-plus": [
+    "n-3bd8a5bf17"
+  ],
   "comphairhead": [
     "n-f1139f1ee9"
+  ],
+  "composio": [
+    "n-f7bf45f8a9"
+  ],
+  "composio-agent-orchestrator": [
+    "n-f7bf45f8a9"
+  ],
+  "compyter": [
+    "n-fb33cdc42d"
   ],
   "connect-the-dots": [
     "n-c2a141200b"
@@ -1775,6 +3813,9 @@
   "content-batch": [
     "n-8a14fda3a6",
     "n-048b3192a0"
+  ],
+  "content-credentials": [
+    "n-0d7aed5e86"
   ],
   "content-index": [
     "n-690d423e11"
@@ -1800,13 +3841,28 @@
   "corridorkey": [
     "n-169e12a080"
   ],
+  "cosmos-3-edge": [
+    "n-1a1adbb4f3"
+  ],
   "cosyvoice": [
     "n-7de8349cd0"
   ],
   "cosyvoice-3": [
     "n-7de8349cd0"
   ],
+  "covo-audio": [
+    "n-27ad5cb7b0"
+  ],
+  "covo_audio": [
+    "n-27ad5cb7b0"
+  ],
+  "cream-typer": [
+    "n-b8abd7e35e"
+  ],
   "cursor": [
+    "n-f241b400a1",
+    "n-d9748d5e13",
+    "n-d182530af4",
     "n-a6a4ba2d0f"
   ],
   "cursor-3": [
@@ -1815,17 +3871,52 @@
   "cutclaw": [
     "n-0948d8e4a5"
   ],
+  "d-OPSD": [
+    "n-5d526ba827"
+  ],
   "d-opsd": [
-    "n-637b9d18ed"
+    "n-637b9d18ed",
+    "n-5d526ba827"
+  ],
+  "da-flow": [
+    "n-14c8e61352"
+  ],
+  "daVinci-MagiHuman": [
+    "n-ab3713a0b5"
+  ],
+  "da_flow": [
+    "n-14c8e61352"
+  ],
+  "dall_e_2": [
+    "n-303168f615"
   ],
   "dalle": [
     "n-0646f210ee"
+  ],
+  "dalle_2_public_access": [
+    "n-303168f615"
+  ],
+  "danceopd": [
+    "n-292e34fcb3"
+  ],
+  "dar": [
+    "n-a0e40ff5d8"
+  ],
+  "data2story": [
+    "n-99ff299eee"
+  ],
+  "davinci-magihuman": [
+    "n-ab3713a0b5"
+  ],
+  "davinci_magihuman": [
+    "n-ab3713a0b5"
   ],
   "daybreak": [
     "n-e92b026fad"
   ],
   "deepseek": [
-    "n-bc5c88f85f"
+    "n-bc5c88f85f",
+    "n-abed76ad0f"
   ],
   "deepseek-tvp": [
     "n-2244c25f96"
@@ -1833,8 +3924,29 @@
   "deepseek-v4": [
     "n-bc5c88f85f"
   ],
+  "deepseek-v4-flash-vision-exp": [
+    "n-abed76ad0f"
+  ],
+  "deepseek_optimizations": [
+    "n-fe403ecd72"
+  ],
+  "deerflow": [
+    "n-7d2c69bfe3"
+  ],
+  "delta-mem": [
+    "n-ca13b9fa04"
+  ],
+  "delta-mem-release": [
+    "n-ca13b9fa04"
+  ],
   "delulu": [
     "n-18c1e67c85"
+  ],
+  "demon": [
+    "n-2d7b3093fd"
+  ],
+  "demos": [
+    "n-da87b7d4da"
   ],
   "deno-ai-studio": [
     "n-2d6650cee4"
@@ -1851,6 +3963,9 @@
     "n-23309eb954",
     "n-23270485c3",
     "n-01b786ce9f"
+  ],
+  "depth_prediction": [
+    "n-9358043c25"
   ],
   "development-graph": [
     "n-001a2f8ef9"
@@ -1945,8 +4060,68 @@
     "n-0948d8e4a5",
     "n-0588f1e672"
   ],
+  "diffusiongemma": [
+    "n-b2222dab41"
+  ],
+  "diffusiongemma-26B-A4B-it-NVFP4": [
+    "n-b2222dab41"
+  ],
+  "diffusiongemma-26b-a4b-it-nvfp4": [
+    "n-b2222dab41"
+  ],
+  "direct": [
+    "n-1957e34ea5"
+  ],
   "disca": [
     "n-348f0ce004"
+  ],
+  "disney-neural-render-proxies": [
+    "n-3efc7bc4ce"
+  ],
+  "disney-nrp": [
+    "n-3efc7bc4ce"
+  ],
+  "disney-research": [
+    "n-77f1dd74e4"
+  ],
+  "disney_research": [
+    "n-77f1dd74e4"
+  ],
+  "dlss": [
+    "n-6d500875d2"
+  ],
+  "dmx": [
+    "n-676d66ea41"
+  ],
+  "dmx_format_release": [
+    "n-676d66ea41"
+  ],
+  "domainshuttle": [
+    "n-6edfc59eed"
+  ],
+  "doodles": [
+    "n-782f0991a7"
+  ],
+  "doodles-stoodio": [
+    "n-782f0991a7"
+  ],
+  "dots-mocr": [
+    "n-ce5fa969a2"
+  ],
+  "dots-studio/dots3-note-prev": [
+    "n-70c95e5ecb"
+  ],
+  "dots.mocr": [
+    "n-ce5fa969a2"
+  ],
+  "dots3-note preview": [
+    "n-70c95e5ecb"
+  ],
+  "dots3-note-prev": [
+    "n-70c95e5ecb"
+  ],
+  "dramabox": [
+    "n-145acbde64"
   ],
   "dreamlite": [
     "n-c56d07046e"
@@ -1954,11 +4129,32 @@
   "dreamscene360": [
     "n-2915ceca6f"
   ],
+  "dreamvideo-omni": [
+    "n-5d5fa885b6"
+  ],
+  "dreamvideo_omni": [
+    "n-5d5fa885b6"
+  ],
+  "drift": [
+    "n-648054221f"
+  ],
+  "dvd": [
+    "n-ecb3a7060c"
+  ],
   "echo": [
     "n-76eee2c69c"
   ],
   "echo-2": [
     "n-76eee2c69c"
+  ],
+  "echo-longvideo": [
+    "n-982b169c3b"
+  ],
+  "echo_longvideo": [
+    "n-982b169c3b"
+  ],
+  "ecosystem_grants": [
+    "n-c724eb9e4c"
   ],
   "edit": [
     "n-f9bd7f602b",
@@ -2020,8 +4216,20 @@
     "n-047f61d312",
     "n-01b786ce9f"
   ],
+  "editor": [
+    "n-944c22a8fe"
+  ],
+  "egoforce": [
+    "n-841bc05497"
+  ],
+  "elastic-wan22-i2v": [
+    "n-253f50a66d"
+  ],
   "elevenlabs": [
     "n-f5dbfdb346"
+  ],
+  "embeddings": [
+    "n-1ee49081d2"
   ],
   "emf": [
     "n-525a6be75a"
@@ -2035,6 +4243,31 @@
   "ernie-image": [
     "n-c2ca134086",
     "n-97b254669d"
+  ],
+  "eupe": [
+    "n-0dea9b891a"
+  ],
+  "eva": [
+    "n-6d1e8777ce"
+  ],
+  "evie-preview-4-5b": [
+    "n-0f55e4f6a1"
+  ],
+  "evoke": [
+    "n-901220b5b4"
+  ],
+  "evoquality": [
+    "n-65c8f1b873"
+  ],
+  "exiv": [
+    "n-a78c964be6"
+  ],
+  "expressioncontrol": [
+    "n-825557a5f2"
+  ],
+  "f4splat": [
+    "n-4b181dadc0",
+    "n-2c76b163d3"
   ],
   "face": [
     "n-f1139f1ee9",
@@ -2056,8 +4289,26 @@
   "face-anything": [
     "n-a4fb636ca8"
   ],
+  "family:360-security-technology": [
+    "n-6a43f5da48"
+  ],
+  "family:3dgs-ply-3dtiles-converter": [
+    "n-8719519a69"
+  ],
+  "family:3dreambooth": [
+    "n-d0102378c0"
+  ],
   "family:4c4d": [
     "n-9dd20d8e0c"
+  ],
+  "family:4danyone": [
+    "n-0778115bb1"
+  ],
+  "family:abot-earth-0-5": [
+    "n-ad9c9181f8"
+  ],
+  "family:abot-world": [
+    "n-269c40ddd3"
   ],
   "family:ace-step-1-5": [
     "n-b9e02bd01a",
@@ -2065,9 +4316,33 @@
     "n-4003adb534",
     "n-061c80a1dc"
   ],
+  "family:ace-step-node-suite": [
+    "n-64db3725b4"
+  ],
   "family:acestep": [
     "n-a236c67d82",
     "n-596ffa06da"
+  ],
+  "family:acti": [
+    "n-b6851c60f8"
+  ],
+  "family:adobe": [
+    "n-0d7aed5e86"
+  ],
+  "family:adobe-firefly-graph": [
+    "n-625a62d5de"
+  ],
+  "family:adonis-flux2klein": [
+    "n-19402c57d8"
+  ],
+  "family:afm-3": [
+    "n-3bacf0e143"
+  ],
+  "family:agents-a1": [
+    "n-6cdd78c533"
+  ],
+  "family:agora": [
+    "n-27957b3eee"
   ],
   "family:ai-metadata-inspector": [
     "n-02e0b8ae6c"
@@ -2078,37 +4353,99 @@
   "family:alaya": [
     "n-01b786ce9f"
   ],
+  "family:alibaba": [
+    "n-1e37f80b3f"
+  ],
+  "family:anthropic": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "family:anti-vocale": [
+    "n-02ff6518d6"
+  ],
   "family:any4d": [
     "n-155ef8c3dc"
+  ],
+  "family:anydoc": [
+    "n-721afd6a19"
+  ],
+  "family:anyflow": [
+    "n-4ed3ebfa1c"
   ],
   "family:anyrecon": [
     "n-5be6e62e52"
   ],
+  "family:anytop": [
+    "n-4bbbd17d1b"
+  ],
   "family:aose": [
     "n-cfec66a95b"
+  ],
+  "family:apple": [
+    "n-353bab66f8"
   ],
   "family:arcflow": [
     "n-a7d1f83b13"
   ],
+  "family:ardy": [
+    "n-e8b9f004d7"
+  ],
+  "family:arena-ai": [
+    "n-286154962f"
+  ],
   "family:artemis": [
     "n-60f7bb3300"
   ],
+  "family:artifixer": [
+    "n-e6413c0a2c"
+  ],
+  "family:asasr": [
+    "n-80bd00594d"
+  ],
   "family:assistant-pepe": [
     "n-73e8b27cb3"
+  ],
+  "family:astrolabe": [
+    "n-b438d99dc2"
+  ],
+  "family:asymflow": [
+    "n-0b1d3c8a99"
+  ],
+  "family:audex": [
+    "n-c5e93c1d3a"
   ],
   "family:audio-flamingo": [
     "n-d5883c87bf",
     "n-9aa3cb6ab5",
     "n-5f314f696f"
   ],
+  "family:audio-interaction": [
+    "n-e55e56223b"
+  ],
   "family:audio-omni": [
     "n-bab7f8e6fd"
+  ],
+  "family:audiox-turbo": [
+    "n-97fff052b7"
   ],
   "family:aura": [
     "n-5e356466d0"
   ],
+  "family:autograph": [
+    "n-d5e082f834"
+  ],
+  "family:ava-encoder": [
+    "n-8f2e77690e"
+  ],
   "family:avatarpointillist": [
     "n-b651b2cbf2"
+  ],
+  "family:awares": [
+    "n-fdae3b02e0"
+  ],
+  "family:awesome-harness-engineering": [
+    "n-29eb1f831e"
   ],
   "family:awesome-russian-speech": [
     "n-78ccc63365"
@@ -2116,11 +4453,41 @@
   "family:bach": [
     "n-a7521b7b08"
   ],
+  "family:base44": [
+    "n-c2e38d5935"
+  ],
   "family:bepic-viewer": [
     "n-08fceb7eae"
   ],
+  "family:bernini": [
+    "n-daa3090ac6"
+  ],
+  "family:bodycount-detector": [
+    "n-3df0e38055"
+  ],
+  "family:bonsai-27b": [
+    "n-0a5ac285d9"
+  ],
+  "family:bonsai-image": [
+    "n-7254e49ce8"
+  ],
+  "family:boogu-image": [
+    "n-7ac4fa4583"
+  ],
+  "family:boogu-image-edit-gguf": [
+    "n-cf04305133"
+  ],
   "family:boxer": [
     "n-2938402642"
+  ],
+  "family:braindb": [
+    "n-520de897dc"
+  ],
+  "family:brdfusion": [
+    "n-4082277aeb"
+  ],
+  "family:breeze-tts-2": [
+    "n-d99912828e"
   ],
   "family:bro": [
     "n-49a6616381"
@@ -2128,14 +4495,50 @@
   "family:bytecut": [
     "n-19adc0c7af"
   ],
+  "family:bytedance-seed-audio-1-0": [
+    "n-0a1838ff3d"
+  ],
+  "family:bytedance-video-upscaler": [
+    "n-347308d9b6"
+  ],
+  "family:byteshape": [
+    "n-fec11a299f"
+  ],
   "family:c-met": [
     "n-70f82f82ae"
   ],
   "family:cadd": [
     "n-e9259b87d6"
   ],
+  "family:calibri": [
+    "n-1e7e01ddd7"
+  ],
   "family:camera-comfyui": [
     "n-3354f12396"
+  ],
+  "family:cameraanything": [
+    "n-612fbb9ad1"
+  ],
+  "family:canon-ultrareal": [
+    "n-868a3aaeef"
+  ],
+  "family:canva": [
+    "n-e1ca928d8e"
+  ],
+  "family:capcut": [
+    "n-28ff35cede"
+  ],
+  "family:care-edit": [
+    "n-3297691b6f"
+  ],
+  "family:carla-air": [
+    "n-c4a0d1a186"
+  ],
+  "family:causal-forcing": [
+    "n-6624131df0"
+  ],
+  "family:causalcine": [
+    "n-6ada41074f"
   ],
   "family:cdm": [
     "n-c660c4f559"
@@ -2146,8 +4549,17 @@
   "family:chandra": [
     "n-840bb8c6c7"
   ],
+  "family:chronosplat": [
+    "n-8e75dd0767"
+  ],
+  "family:civitai": [
+    "n-ba790c8631"
+  ],
   "family:clad": [
     "n-545f242033"
+  ],
+  "family:clarity-omr": [
+    "n-b347948b96"
   ],
   "family:claude": [
     "n-ec5428386a",
@@ -2155,7 +4567,20 @@
     "n-a81182e9ac"
   ],
   "family:claude-code": [
-    "n-f861f085b8"
+    "n-f861f085b8",
+    "n-55b05978df"
+  ],
+  "family:claude-fable-5": [
+    "n-f5abb4cf9b"
+  ],
+  "family:claude-opus-5": [
+    "n-4ea5eb69ba"
+  ],
+  "family:claude-sonnet-5": [
+    "n-cfd3254184"
+  ],
+  "family:claude-video": [
+    "n-238cbd39cb"
   ],
   "family:claw": [
     "n-2f8c6f34f0"
@@ -2166,20 +4591,47 @@
   "family:clawgui": [
     "n-6dd8c1ff25"
   ],
+  "family:cli-anything": [
+    "n-a2b2f064d2"
+  ],
+  "family:coco": [
+    "n-6f05bdf264"
+  ],
   "family:codex": [
     "n-2a8f5beb6c"
+  ],
+  "family:cohere-north": [
+    "n-eac94cf783"
+  ],
+  "family:cohere-transcribe": [
+    "n-68b3b1fae6"
   ],
   "family:cointeract": [
     "n-d1faa63ee9"
   ],
+  "family:colibri": [
+    "n-86748f8e9e"
+  ],
+  "family:collabvr": [
+    "n-e8fb056748"
+  ],
   "family:comfystudio": [
     "n-18e6b47885"
+  ],
+  "family:comfyui": [
+    "n-c724eb9e4c"
   ],
   "family:comfyui-6dof": [
     "n-f6c6cdf729"
   ],
+  "family:comfyui-asymflow": [
+    "n-b3aa6851b7"
+  ],
   "family:comfyui-command-palette": [
     "n-133a0bfd18"
+  ],
+  "family:comfyui-davinci-magihuman": [
+    "n-8c14423e0d"
   ],
   "family:comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
@@ -2189,16 +4641,94 @@
   "family:comfyui-hires-fix": [
     "n-1b11977658"
   ],
+  "family:comfyui-krea2textencoder": [
+    "n-ba02def424"
+  ],
+  "family:comfyui-ksampler-matrix-lab": [
+    "n-e431684c08"
+  ],
+  "family:comfyui-latent-tiled-pid": [
+    "n-a85f96599d"
+  ],
+  "family:comfyui-lrw-nodes": [
+    "n-ab593e345a"
+  ],
+  "family:comfyui-minimax-h3-extender": [
+    "n-756794e690"
+  ],
+  "family:comfyui-minimax-h3-longmedia": [
+    "n-fdaa3b9adb"
+  ],
+  "family:comfyui-minimaxh3-latentupscaler": [
+    "n-0a40fd014f"
+  ],
+  "family:comfyui-mobile-frontend": [
+    "n-2e764207bd"
+  ],
+  "family:comfyui-model-installer": [
+    "n-7e2c33bcb6"
+  ],
+  "family:comfyui-model-resolver": [
+    "n-79465fc2da"
+  ],
+  "family:comfyui-muse": [
+    "n-11ae14ece9"
+  ],
+  "family:comfyui-openpose-studio": [
+    "n-cf0d503ef2"
+  ],
+  "family:comfyui-orbitsheets": [
+    "n-7328495c92"
+  ],
   "family:comfyui-photopea": [
     "n-39f773b51f"
+  ],
+  "family:comfyui-pixeldriftfix": [
+    "n-7340bf1aad"
+  ],
+  "family:comfyui-pulid-flux2": [
+    "n-6ae44b1607"
   ],
   "family:comfyui-sensenova-u1": [
     "n-dc75b3cb12",
     "n-84255b9cc3",
     "n-41c999d507"
   ],
+  "family:comfyui-setup-manager": [
+    "n-3600f1f8ab"
+  ],
+  "family:comfyui-skill-public": [
+    "n-7aa1f96c36"
+  ],
+  "family:comfyui-sol-attn": [
+    "n-3f0a9c0170"
+  ],
+  "family:comfyui-spectrum-minimax-h3": [
+    "n-f8b2802977"
+  ],
+  "family:comfyui-starnodes": [
+    "n-ffa010ab28"
+  ],
+  "family:comfyui-streetview-loader": [
+    "n-67e41ba5ae"
+  ],
+  "family:comfyui-vfx-workflow": [
+    "n-4941701283"
+  ],
+  "family:comfyui-video-tiler": [
+    "n-c16d03e2b0"
+  ],
+  "family:command-a-plus": [
+    "n-3bd8a5bf17"
+  ],
   "family:comphairhead": [
     "n-f1139f1ee9"
+  ],
+  "family:composio-agent-orchestrator": [
+    "n-f7bf45f8a9"
+  ],
+  "family:compyter": [
+    "n-fb33cdc42d"
   ],
   "family:connect-the-dots": [
     "n-c2a141200b"
@@ -2215,17 +4745,40 @@
   "family:cosyvoice": [
     "n-7de8349cd0"
   ],
+  "family:covo-audio": [
+    "n-27ad5cb7b0"
+  ],
+  "family:cream-typer": [
+    "n-b8abd7e35e"
+  ],
   "family:cursor": [
+    "n-d182530af4",
     "n-a6a4ba2d0f"
   ],
   "family:cutclaw": [
     "n-0948d8e4a5"
   ],
   "family:d-opsd": [
-    "n-637b9d18ed"
+    "n-637b9d18ed",
+    "n-5d526ba827"
+  ],
+  "family:da-flow": [
+    "n-14c8e61352"
   ],
   "family:dalle": [
     "n-0646f210ee"
+  ],
+  "family:danceopd": [
+    "n-292e34fcb3"
+  ],
+  "family:dar": [
+    "n-a0e40ff5d8"
+  ],
+  "family:data2story": [
+    "n-99ff299eee"
+  ],
+  "family:davinci-magihuman": [
+    "n-ab3713a0b5"
   ],
   "family:daybreak": [
     "n-e92b026fad"
@@ -2236,8 +4789,20 @@
   "family:deepseek-tvp": [
     "n-2244c25f96"
   ],
+  "family:deepseek-v4-flash-vision-exp": [
+    "n-abed76ad0f"
+  ],
+  "family:deerflow": [
+    "n-7d2c69bfe3"
+  ],
+  "family:delta-mem": [
+    "n-ca13b9fa04"
+  ],
   "family:delulu": [
     "n-18c1e67c85"
+  ],
+  "family:demon": [
+    "n-2d7b3093fd"
   ],
   "family:deno-ai-studio": [
     "n-2d6650cee4"
@@ -2248,14 +4813,65 @@
   "family:diffusion-love": [
     "n-001a2f8ef9"
   ],
+  "family:diffusiongemma-26b-a4b-it-nvfp4": [
+    "n-b2222dab41"
+  ],
+  "family:direct": [
+    "n-1957e34ea5"
+  ],
+  "family:disney-neural-render-proxies": [
+    "n-3efc7bc4ce"
+  ],
+  "family:disney-research": [
+    "n-77f1dd74e4"
+  ],
+  "family:dlss": [
+    "n-6d500875d2"
+  ],
+  "family:dmx": [
+    "n-676d66ea41"
+  ],
+  "family:domainshuttle": [
+    "n-6edfc59eed"
+  ],
+  "family:doodles-stoodio": [
+    "n-782f0991a7"
+  ],
+  "family:dots-mocr": [
+    "n-ce5fa969a2"
+  ],
+  "family:dots3-note-prev": [
+    "n-70c95e5ecb"
+  ],
+  "family:dramabox": [
+    "n-145acbde64"
+  ],
   "family:dreamlite": [
     "n-c56d07046e"
   ],
   "family:dreamscene360": [
     "n-2915ceca6f"
   ],
+  "family:dreamvideo-omni": [
+    "n-5d5fa885b6"
+  ],
+  "family:drift": [
+    "n-648054221f"
+  ],
+  "family:dvd": [
+    "n-ecb3a7060c"
+  ],
   "family:echo": [
     "n-76eee2c69c"
+  ],
+  "family:echo-longvideo": [
+    "n-982b169c3b"
+  ],
+  "family:editor": [
+    "n-944c22a8fe"
+  ],
+  "family:egoforce": [
+    "n-841bc05497"
   ],
   "family:elevenlabs": [
     "n-f5dbfdb346"
@@ -2270,17 +4886,66 @@
     "n-c2ca134086",
     "n-97b254669d"
   ],
+  "family:eupe": [
+    "n-0dea9b891a"
+  ],
+  "family:eva": [
+    "n-6d1e8777ce"
+  ],
+  "family:evie-preview-4-5b": [
+    "n-0f55e4f6a1"
+  ],
+  "family:evoke": [
+    "n-901220b5b4"
+  ],
+  "family:evoquality": [
+    "n-65c8f1b873"
+  ],
+  "family:exiv": [
+    "n-a78c964be6"
+  ],
+  "family:expressioncontrol": [
+    "n-825557a5f2"
+  ],
+  "family:f4splat": [
+    "n-4b181dadc0",
+    "n-2c76b163d3"
+  ],
   "family:face-anything": [
     "n-a4fb636ca8"
+  ],
+  "family:fast-foundationstereo": [
+    "n-6bd85df8ed"
+  ],
+  "family:faster": [
+    "n-2e867da591"
+  ],
+  "family:fastgen": [
+    "n-f202a83f88"
   ],
   "family:fastgha": [
     "n-8cf0d43011"
   ],
+  "family:fedoraitoolkit": [
+    "n-66b11f2c1c"
+  ],
+  "family:firered-image-edit": [
+    "n-264e8c1717"
+  ],
+  "family:fireredtts3": [
+    "n-97c92d3269"
+  ],
   "family:flash-attention": [
     "n-545c4e25d2"
   ],
+  "family:flashmemory-deepseek-v4": [
+    "n-fe403ecd72"
+  ],
   "family:flexavatar": [
     "n-08dc2040a6"
+  ],
+  "family:flow-upscaler": [
+    "n-5fb7b8ba70"
   ],
   "family:flowanchor": [
     "n-a74ee42caa"
@@ -2297,8 +4962,45 @@
     "n-b2c1d5a768",
     "n-30f5861cb4"
   ],
+  "family:flux-2-klein-9b-kv": [
+    "n-d0e1053814"
+  ],
+  "family:flux-2-klein-9b-manga-colorization-by-reference-lora": [
+    "n-819b4129d7"
+  ],
+  "family:flux-3": [
+    "n-5353f88f44",
+    "n-3ec7e1a063"
+  ],
+  "family:flux-video-upscale": [
+    "n-1a1b209e8f"
+  ],
+  "family:flux2-klein": [
+    "n-6a470bac38"
+  ],
+  "family:flux2-klein-9b-consistency": [
+    "n-e2832a6cb2"
+  ],
+  "family:flux2-klein-9b-enhanced-details": [
+    "n-369b74ea1a"
+  ],
   "family:foresyn-ai": [
     "n-541dc74a2e"
+  ],
+  "family:frame-extractor": [
+    "n-c3d4c31323"
+  ],
+  "family:freepik-seedance": [
+    "n-68299e89f1"
+  ],
+  "family:fugu-ultra": [
+    "n-05ec9a95a1"
+  ],
+  "family:gabi-robot": [
+    "n-de14e3f121"
+  ],
+  "family:galaxyace-lora": [
+    "n-18aead67ea"
   ],
   "family:gameworld": [
     "n-f306331601"
@@ -2309,8 +5011,26 @@
   "family:gbrain": [
     "n-eb965439db"
   ],
+  "family:gear": [
+    "n-e613f26dc4"
+  ],
+  "family:gelab-zero": [
+    "n-97e1334295"
+  ],
   "family:gemini": [
-    "n-d5e685b3b1"
+    "n-d5e685b3b1",
+    "n-6f089116cf",
+    "n-55b3aea30b",
+    "n-412ff5547f"
+  ],
+  "family:gemini-3-5-live-translate": [
+    "n-599684b34f"
+  ],
+  "family:gemini-embedding-2": [
+    "n-1ee49081d2"
+  ],
+  "family:gemini-intelligence-android": [
+    "n-97cedb7ec2"
   ],
   "family:gemma": [
     "n-f4d17d7115",
@@ -2318,6 +5038,9 @@
     "n-ae3f3a3876",
     "n-9139899069",
     "n-5ac53c2267"
+  ],
+  "family:gemma-4-12b": [
+    "n-2e0520da75"
   ],
   "family:gemopus": [
     "n-bded34e024"
@@ -2330,6 +5053,9 @@
   ],
   "family:geo-register-plugin": [
     "n-85862dbbb3"
+  ],
+  "family:geometric-latent-diffusion": [
+    "n-0c368b4c16"
   ],
   "family:geosr": [
     "n-1b0490d011"
@@ -2347,8 +5073,47 @@
     "n-e51898fad5",
     "n-b2b9ca697e"
   ],
+  "family:glm-5-2": [
+    "n-0b4ad29b73"
+  ],
+  "family:glm-5-2-gguf": [
+    "n-a1265a873f"
+  ],
+  "family:glm-5-2-nvfp4": [
+    "n-5efefc3953"
+  ],
+  "family:glm-5-2-vision": [
+    "n-7bf964cae8"
+  ],
+  "family:glm-5-3-flash": [
+    "n-4148509833"
+  ],
+  "family:glm-ocr": [
+    "n-a5a6f42edd"
+  ],
+  "family:glyphprinter": [
+    "n-d6f1ea9ec7"
+  ],
+  "family:google-ai-studio": [
+    "n-38217f32a6"
+  ],
+  "family:google-gemini": [
+    "n-288cee31b2"
+  ],
+  "family:google-veo": [
+    "n-ca4cb3b16f"
+  ],
   "family:gpt": [
     "n-2405c2d2f2"
+  ],
+  "family:gpt-5-5": [
+    "n-1fff983f43"
+  ],
+  "family:gpt-5-5-cyber": [
+    "n-22b4ad25f5"
+  ],
+  "family:gpt-5-6-sol": [
+    "n-d76b3cf6c5"
   ],
   "family:gpt-image": [
     "n-df001e7bab",
@@ -2358,17 +5123,45 @@
   "family:griptape": [
     "n-ebeab9837a"
   ],
+  "family:grok": [
+    "n-c4546aea9c",
+    "n-7abe53781e"
+  ],
+  "family:grok-4-5": [
+    "n-9fce4f9cd3"
+  ],
+  "family:grok-build": [
+    "n-9478ff9243"
+  ],
+  "family:grok-imagine-image-2-0": [
+    "n-fe49770141"
+  ],
+  "family:grok-imagine-video": [
+    "n-2591c503ad"
+  ],
   "family:gsd": [
     "n-ee8bd2e38f"
+  ],
+  "family:gush3r": [
+    "n-b10bd633b8"
   ],
   "family:gyroscope": [
     "n-a71a838b34"
   ],
+  "family:h-company-holo3": [
+    "n-477068c864"
+  ],
   "family:habitat-gs": [
     "n-c96f664d5d"
   ],
+  "family:hailuo-light-studio": [
+    "n-a316da2631"
+  ],
   "family:happy-alibaba": [
     "n-5e1a256a5e"
+  ],
+  "family:happy-horse": [
+    "n-310e3414f5"
   ],
   "family:happyhorse": [
     "n-6562acabdd",
@@ -2382,14 +5175,50 @@
     "n-2f94cbb043",
     "n-048b3192a0"
   ],
+  "family:hatcha": [
+    "n-00c9c3996b"
+  ],
   "family:hermes": [
     "n-367db0be8e"
   ],
   "family:hermes-agent": [
     "n-95d245f3eb"
   ],
+  "family:heygen-hyperframes": [
+    "n-076b3f0be6"
+  ],
+  "family:hf-cerebras-realtime-voice": [
+    "n-54505b5f46"
+  ],
+  "family:hf-mount": [
+    "n-c8fa19868e"
+  ],
+  "family:hiar": [
+    "n-e304c780ea"
+  ],
   "family:hidream": [
     "n-7d8614adad"
+  ],
+  "family:higgs-audio-v3-tts": [
+    "n-d3641add96"
+  ],
+  "family:holi-spatial": [
+    "n-e7545aced1"
+  ],
+  "family:homie": [
+    "n-ec3dda9c78"
+  ],
+  "family:hotgen-video-v5": [
+    "n-7970b35444"
+  ],
+  "family:huggingface-wfx": [
+    "n-5319c89cd3"
+  ],
+  "family:huihui-gemma-4-12b-it-abliterated": [
+    "n-d1c36e4341"
+  ],
+  "family:huihui-qwen3-8-27b-abliterated": [
+    "n-ea26f61d82"
   ],
   "family:hunyuan": [
     "n-1fef5a401b",
@@ -2399,23 +5228,72 @@
     "n-fb32c38877",
     "n-348f0ce004"
   ],
+  "family:hunyuan3d-buffalo-1-0": [
+    "n-fb888fd82d"
+  ],
+  "family:hunyuan3d-worldclaw": [
+    "n-d6ed6958b0"
+  ],
   "family:hy-mt": [
     "n-e17cbf7ded"
   ],
   "family:hy-world": [
     "n-1e0d9b8388"
   ],
+  "family:hy-wu": [
+    "n-17be84d500"
+  ],
   "family:hydra": [
     "n-09ee25f7d5"
+  ],
+  "family:hyperagents": [
+    "n-8a4dfeeb5d"
   ],
   "family:hyperframes": [
     "n-963305f6b7"
   ],
+  "family:hyra": [
+    "n-715fbe9451"
+  ],
   "family:icecache": [
     "n-fc612ab002"
   ],
+  "family:id-lora": [
+    "n-ec159def6b"
+  ],
+  "family:id-v2v": [
+    "n-d140f3d07f"
+  ],
+  "family:ideogram-4": [
+    "n-6c5e22fee1",
+    "n-6398af54be"
+  ],
+  "family:ideogram-4-gguf": [
+    "n-9e6857e8a9"
+  ],
+  "family:iggt4d": [
+    "n-bb326c9fdf"
+  ],
+  "family:image-caption-utility": [
+    "n-364be607ee"
+  ],
+  "family:image-to-lora": [
+    "n-22001436c1"
+  ],
+  "family:img2threejs": [
+    "n-a02ba7b073"
+  ],
   "family:infinidepth": [
     "n-23309eb954"
+  ],
+  "family:infinisplat": [
+    "n-cf72a26f02"
+  ],
+  "family:infinityedit": [
+    "n-13290b7929"
+  ],
+  "family:inline-studio": [
+    "n-196adf34af"
   ],
   "family:insid3": [
     "n-a8a043a8fd"
@@ -2423,23 +5301,89 @@
   "family:javisverse": [
     "n-18331ebc79"
   ],
+  "family:jina-embeddings-v5-omni": [
+    "n-1651c3d215"
+  ],
+  "family:joy-ltx-2-5-x-z-image": [
+    "n-f2122c676b"
+  ],
   "family:joyai": [
     "n-0739891476"
   ],
   "family:joyai-image": [
     "n-d192447768"
   ],
+  "family:joyai-video-edit": [
+    "n-4cb69e9202"
+  ],
+  "family:joyai-vl-interaction": [
+    "n-6c34648459"
+  ],
+  "family:karpathytalk": [
+    "n-289ba243a5"
+  ],
   "family:kimi": [
     "n-2aa536ccdc"
   ],
+  "family:kimi-code-cli": [
+    "n-ced28f0724"
+  ],
+  "family:kimi-k3": [
+    "n-033632d8e0"
+  ],
   "family:kimodo": [
+    "n-f5a3ca876d",
     "n-61c8c02fec"
   ],
   "family:kiri-engine": [
-    "n-9db878fd06"
+    "n-9db878fd06",
+    "n-61589d5fc9"
+  ],
+  "family:knowact-guiclaw": [
+    "n-f09f1875bc"
+  ],
+  "family:krea": [
+    "n-390aed02e2"
+  ],
+  "family:krea-2": [
+    "n-eb68bcfc57",
+    "n-45b7bbd16b"
+  ],
+  "family:krea-2-outpaint": [
+    "n-a0d5299653"
+  ],
+  "family:krea2-filter-bypass": [
+    "n-31cb32c83a"
+  ],
+  "family:krea2-realism": [
+    "n-837f41c777"
+  ],
+  "family:krea2-textfusion-refusal-reduction-lora": [
+    "n-6d8dc4435a"
   ],
   "family:kupkaprod": [
     "n-511353336a"
+  ],
+  "family:kura": [
+    "n-26bc0bd267"
+  ],
+  "family:kvarn": [
+    "n-ec4e396a59"
+  ],
+  "family:kvpo": [
+    "n-6b8983b2a2"
+  ],
+  "family:langswap": [
+    "n-dd68bf49b2"
+  ],
+  "family:latent-to-4d": [
+    "n-b8afea4624"
+  ],
+  "family:latentspatialmemory": [
+    "n-0ab05cddfc"
+  ],
+  "family:lato": [
+    "n-b48ae23ef5"
   ],
   "family:lava-music": [
     "n-ea4c5d4dff"
@@ -2447,23 +5391,69 @@
   "family:ldf-vfi": [
     "n-88b74a7e58"
   ],
+  "family:lemas": [
+    "n-8d546ea894"
+  ],
+  "family:lfm2-5-2-6b": [
+    "n-c46744cf6a"
+  ],
+  "family:lfm2-5-vl-3b": [
+    "n-64c52eaf4d"
+  ],
   "family:lgtm": [
     "n-fdbf17ddf7"
+  ],
+  "family:lightricks-ltx-2-3-clean-plate-lora": [
+    "n-192b3cf75c"
+  ],
+  "family:ling-3-0-flash": [
+    "n-13a562a609"
   ],
   "family:lingbot-map": [
     "n-f57cbec8b9"
   ],
+  "family:lingbot-video": [
+    "n-61e3cf03ac"
+  ],
+  "family:lingbot-world-2": [
+    "n-de20defbe8"
+  ],
+  "family:lito": [
+    "n-1a26ffa75d"
+  ],
   "family:liveactionaov": [
     "n-23270485c3"
+  ],
+  "family:liveedit": [
+    "n-1027303bd3"
   ],
   "family:llada": [
     "n-64094eafae"
   ],
+  "family:llama-server-launcher": [
+    "n-a1c9a6a103"
+  ],
+  "family:lmx-omni-52b-halo": [
+    "n-4aa029af73"
+  ],
+  "family:locateanything": [
+    "n-b79dee5163"
+  ],
+  "family:loger": [
+    "n-9371b417f8"
+  ],
   "family:longcat": [
+    "n-bbc670c0e1",
     "n-5d03d1bfa4"
   ],
   "family:longcat-audiodit": [
     "n-d967265835"
+  ],
+  "family:loomvideo": [
+    "n-9ce590f831"
+  ],
+  "family:loopx": [
+    "n-0f298b0d41"
   ],
   "family:lpm": [
     "n-464a2f9508"
@@ -2484,6 +5474,44 @@
     "n-3904aeff63",
     "n-34034d382e"
   ],
+  "family:ltx-2-3-black-magic-lora": [
+    "n-bd49bc44b7"
+  ],
+  "family:ltx-2-3-gguf": [
+    "n-222b01635c"
+  ],
+  "family:ltx-2-3-ic-lora-cross-eyed": [
+    "n-a61b804416"
+  ],
+  "family:ltx-2-3-ic-lora-ingredients": [
+    "n-75651b6d80"
+  ],
+  "family:ltx-2-3-inpaint-lora": [
+    "n-30436dd38f"
+  ],
+  "family:ltx-2-5": [
+    "n-75171cd2c8"
+  ],
+  "family:ltx-2-caption-tool": [
+    "n-0627ff22c0"
+  ],
+  "family:ltx-foley-lora": [
+    "n-443c254b7f"
+  ],
+  "family:ltx-video": [
+    "n-ce71bb02ce",
+    "n-7150bbd771",
+    "n-2222547f97"
+  ],
+  "family:ltx2-3-audio-reactive-lora": [
+    "n-9d1d38dd75"
+  ],
+  "family:lucida": [
+    "n-8a9fb1a4b9"
+  ],
+  "family:lucy": [
+    "n-8cc344a285"
+  ],
   "family:luma": [
     "n-99c607c318",
     "n-5cac0a3186"
@@ -2491,8 +5519,14 @@
   "family:lumipic": [
     "n-eb367fb3e1"
   ],
+  "family:luxtts": [
+    "n-6705e4929b"
+  ],
   "family:lyra": [
     "n-a549ac3575"
+  ],
+  "family:lyria-3-pro": [
+    "n-3faf75a3a8"
   ],
   "family:m-xr": [
     "n-e63a0d4512"
@@ -2503,11 +5537,26 @@
   "family:mace-dance": [
     "n-44b3b570af"
   ],
+  "family:macos-harness": [
+    "n-f77e6ada52"
+  ],
+  "family:mage-flow": [
+    "n-363a1b03bb"
+  ],
+  "family:magi-2": [
+    "n-dd148acbc4"
+  ],
+  "family:magicmakeup": [
+    "n-84568364fd"
+  ],
   "family:mai": [
     "n-2eb209422c"
   ],
   "family:majoor": [
     "n-ff03e5bf7b"
+  ],
+  "family:mamma": [
+    "n-cdfe0e2f1c"
   ],
   "family:map2world": [
     "n-40f1573a5d"
@@ -2518,6 +5567,21 @@
   ],
   "family:marco-moe": [
     "n-15fd6206af"
+  ],
+  "family:marionette": [
+    "n-c2c4915336"
+  ],
+  "family:marlin-2b": [
+    "n-05fe00f082"
+  ],
+  "family:maskvidexperiments": [
+    "n-f8b15964ba"
+  ],
+  "family:match": [
+    "n-8e078019f4"
+  ],
+  "family:matraix": [
+    "n-75510d5219"
   ],
   "family:matrix-game": [
     "n-5f36799f6d"
@@ -2532,11 +5596,20 @@
   "family:mempalace": [
     "n-a3583f87c7"
   ],
+  "family:memprivacy": [
+    "n-9760d7add3"
+  ],
   "family:mesh2motion": [
     "n-2ff0f435cc"
   ],
   "family:meta-cot": [
     "n-2c91e42c2d"
+  ],
+  "family:metaclaw": [
+    "n-81ebf14eea"
+  ],
+  "family:metaview": [
+    "n-e3f07cf60d"
   ],
   "family:mf0-1984": [
     "n-dd8d68b69f"
@@ -2544,30 +5617,112 @@
   "family:mia": [
     "n-221dea80c4"
   ],
+  "family:microsoft-copilot-researcher": [
+    "n-e859acd94e"
+  ],
+  "family:microsoft-mage-flow": [
+    "n-594cd03215"
+  ],
+  "family:microzoom": [
+    "n-6e6ec9ab6b"
+  ],
+  "family:midjourney": [
+    "n-632e606b02"
+  ],
   "family:mimo": [
     "n-768295e164"
+  ],
+  "family:mimo-code": [
+    "n-99dadfd9bc"
   ],
   "family:minicpm-v": [
     "n-36e9bae8ed"
   ],
+  "family:minimax-h3": [
+    "n-7127c15c53",
+    "n-160efa0fdb"
+  ],
+  "family:minimax-h3-fl2va-ref2va-hybrid-models": [
+    "n-faa53b79d3"
+  ],
+  "family:minimax-h3-fun-controlnet-union": [
+    "n-ccb51d2a95"
+  ],
+  "family:minimax-h3-turbo-lora": [
+    "n-2facb069d0"
+  ],
+  "family:minimax-h3-x-z-image": [
+    "n-f0c1036242"
+  ],
+  "family:minimax-m3": [
+    "n-d2bc181ad0"
+  ],
   "family:minimax-music": [
     "n-dfe5e1e7a6"
+  ],
+  "family:minimax-music-3": [
+    "n-0ebdd3ab44"
+  ],
+  "family:minimax-music3-latent-refiner": [
+    "n-37729ce27a"
+  ],
+  "family:minimax-music3-studio": [
+    "n-a11009c2dc"
   ],
   "family:mirofish": [
     "n-e4b7a4de7b"
   ],
+  "family:misotts": [
+    "n-044c492370"
+  ],
   "family:mistral": [
     "n-8e2ceecbcb"
   ],
+  "family:mistral-small-4": [
+    "n-2af9b3efb0"
+  ],
+  "family:mlslabsrenderer-lite": [
+    "n-ced223aa89"
+  ],
+  "family:mm-ctx": [
+    "n-8ae442bb62"
+  ],
+  "family:modality-forcing": [
+    "n-9358043c25"
+  ],
   "family:modddif": [
     "n-c8fc3fe21e"
+  ],
+  "family:modly": [
+    "n-d497328784"
+  ],
+  "family:modus": [
+    "n-e55f67c729"
+  ],
+  "family:moebius": [
+    "n-f43e44e73f"
+  ],
+  "family:molmomotion": [
+    "n-a2c367a2ab"
+  ],
+  "family:monoart": [
+    "n-969e5271ff"
   ],
   "family:moss-audio": [
     "n-8da3cc43df",
     "n-33f31b6935"
   ],
+  "family:moss-soundeffect": [
+    "n-e6ade9848e"
+  ],
+  "family:moss-transcribe-diarize": [
+    "n-0663ce9db2"
+  ],
   "family:moss-tts": [
     "n-f1ea79cf67"
+  ],
+  "family:moss-video-preview": [
+    "n-833da82530"
   ],
   "family:motif-video": [
     "n-c56aa9fa27"
@@ -2581,9 +5736,51 @@
   "family:multica": [
     "n-63cbd51a4a"
   ],
+  "family:multisplat": [
+    "n-e5c07a6c4b"
+  ],
+  "family:muscriptor": [
+    "n-ea52f36353"
+  ],
+  "family:muse": [
+    "n-d1aace8b4a"
+  ],
+  "family:muse-glimmer": [
+    "n-3b15326fe8"
+  ],
+  "family:mvtrack4gen": [
+    "n-eca931f946"
+  ],
+  "family:nanbeige-4-2-3b": [
+    "n-b3f3b611a3"
+  ],
+  "family:nanovdr": [
+    "n-a14c05d0aa"
+  ],
+  "family:nava": [
+    "n-2242c477fb"
+  ],
   "family:nemotron": [
     "n-6a0618307a",
     "n-1cfc0e728d"
+  ],
+  "family:nemotron-3-super": [
+    "n-c0d09bda8b"
+  ],
+  "family:nemotron-3-ultra": [
+    "n-549e91e1c0"
+  ],
+  "family:nemotron-voicechat": [
+    "n-992fb237e4"
+  ],
+  "family:netflix": [
+    "n-8ec65997d5"
+  ],
+  "family:neumatex": [
+    "n-551508ee8c"
+  ],
+  "family:nexvid": [
+    "n-20c0bd9616"
   ],
   "family:nucleus": [
     "n-af83147e90",
@@ -2592,8 +5789,35 @@
   "family:numina": [
     "n-e3abad048f"
   ],
+  "family:nvidia-cmd": [
+    "n-831457a1a0"
+  ],
+  "family:nvidia-cosmos-3-edge": [
+    "n-1a1adbb4f3"
+  ],
+  "family:nvidia-nemotron": [
+    "n-0ad60b8778"
+  ],
+  "family:nvidia-ntc": [
+    "n-ce536a0efc"
+  ],
+  "family:nvila-hd-video": [
+    "n-69ec3b0aaa"
+  ],
+  "family:nvpanoptix-3d": [
+    "n-49188c7915"
+  ],
   "family:obscura-remova": [
     "n-daa2681205"
+  ],
+  "family:obsidian-mind": [
+    "n-b66c6b5fe8"
+  ],
+  "family:occany": [
+    "n-334d920a5d"
+  ],
+  "family:odysseus": [
+    "n-c3f798c77b"
   ],
   "family:odyssey": [
     "n-d8bf4374be"
@@ -2601,11 +5825,29 @@
   "family:olmo": [
     "n-ab5423ca1c"
   ],
+  "family:omni-diffusion": [
+    "n-0c7b2e5273"
+  ],
+  "family:omnidirector": [
+    "n-38e5bcdce7"
+  ],
+  "family:omninft": [
+    "n-eea14f2dcf"
+  ],
+  "family:omniroute": [
+    "n-3450949e78"
+  ],
   "family:omnishotcut": [
     "n-bb0f83ff09"
   ],
   "family:omnishow": [
     "n-03e4a812c8"
+  ],
+  "family:omnistream": [
+    "n-eab857eece"
+  ],
+  "family:omnivideo-7b-qwen2-5-omni": [
+    "n-2b7ba5c775"
   ],
   "family:omnivoice": [
     "n-665b60a4fc",
@@ -2614,6 +5856,12 @@
   ],
   "family:onemancompany": [
     "n-2bdd41c2da"
+  ],
+  "family:onklaud": [
+    "n-63310818df"
+  ],
+  "family:onyx-ai-matte": [
+    "n-6504693e58"
   ],
   "family:open-design": [
     "n-ff21b44ef5"
@@ -2624,20 +5872,86 @@
   "family:open-multi-agent": [
     "n-662ab03ff4"
   ],
+  "family:openai": [
+    "n-303168f615"
+  ],
+  "family:opencut": [
+    "n-fe5aa54dca"
+  ],
   "family:opengame": [
     "n-7cc366b545"
   ],
   "family:openharness": [
     "n-44c547a245"
   ],
+  "family:openmaic": [
+    "n-4947cd82cc"
+  ],
   "family:openmobile": [
     "n-02d9e4ba24"
+  ],
+  "family:openmontage": [
+    "n-02cbd28ee8"
+  ],
+  "family:openmoss": [
+    "n-181f36a473"
+  ],
+  "family:openresearcher": [
+    "n-60ec620b9e"
   ],
   "family:openreview": [
     "n-efaa00d50b"
   ],
+  "family:openseeker": [
+    "n-0481856e9f"
+  ],
+  "family:openvuln": [
+    "n-b8d5334397"
+  ],
+  "family:openworker": [
+    "n-e3b0bbbd83"
+  ],
+  "family:orchestra-o1": [
+    "n-7f6dd4a0bc"
+  ],
+  "family:origin": [
+    "n-d9748d5e13"
+  ],
+  "family:ornith-1-5": [
+    "n-ad1e6a3d0c"
+  ],
+  "family:ouroboros": [
+    "n-d7ef7b4828"
+  ],
+  "family:ovisocr2": [
+    "n-78395026cf"
+  ],
+  "family:packforcing": [
+    "n-5dc5be210a"
+  ],
+  "family:padcaptioner": [
+    "n-3a9d69d7e9"
+  ],
+  "family:pam": [
+    "n-adee3ca551"
+  ],
   "family:parakeet": [
     "n-5b56fca93a"
+  ],
+  "family:pdf-inspector": [
+    "n-4514941672"
+  ],
+  "family:pearl": [
+    "n-701c94a6a1"
+  ],
+  "family:penguin-vl": [
+    "n-77aec57904"
+  ],
+  "family:percepta-ai": [
+    "n-b495739d31"
+  ],
+  "family:perceptron-mk1": [
+    "n-f3982b18eb"
   ],
   "family:perplexity": [
     "n-a56b9d31b6"
@@ -2651,23 +5965,52 @@
   "family:phoneclaw": [
     "n-f3c22d2162"
   ],
+  "family:photoquilt": [
+    "n-cb62ae01fa"
+  ],
+  "family:phymotion": [
+    "n-1a301e2ceb"
+  ],
   "family:physforge": [
     "n-ee38e77991"
   ],
   "family:pi-hoc": [
     "n-4694b833dd"
   ],
+  "family:pid": [
+    "n-4176893fdd"
+  ],
   "family:pika": [
+    "n-c6ff419784",
     "n-807bf78763"
+  ],
+  "family:pika-directors-suite": [
+    "n-7dd296434c"
   ],
   "family:pixal3d": [
     "n-9e0a0fba7f"
   ],
   "family:pixelsmile": [
+    "n-7071875109",
     "n-55968207e4"
+  ],
+  "family:pixverse-cli": [
+    "n-f108d81c34"
   ],
   "family:playcoder": [
     "n-fe9036dfac"
+  ],
+  "family:pocket": [
+    "n-17e916004b"
+  ],
+  "family:pocket-35b-gguf": [
+    "n-4ef65aa7f6"
+  ],
+  "family:pointdit": [
+    "n-2340faee72"
+  ],
+  "family:poolside-laguna-s-2-1": [
+    "n-a11d97b87b"
   ],
   "family:privacy-filter": [
     "n-1985ad3cff"
@@ -2675,11 +6018,23 @@
   "family:prompt-relay": [
     "n-d4f61075f4"
   ],
+  "family:proxypose": [
+    "n-cddebb8e59"
+  ],
   "family:pruna-ai": [
     "n-d4d07dd0bf"
   ],
+  "family:prunavaed": [
+    "n-3554d5183b"
+  ],
   "family:psdesigner": [
     "n-da24004da2"
+  ],
+  "family:pulse-of-motion": [
+    "n-c969bb3002"
+  ],
+  "family:pypi-wheel-downloader": [
+    "n-7c1c23a9d1"
   ],
   "family:pytheory": [
     "n-c4a452f85d"
@@ -2690,6 +6045,12 @@
   "family:qclaw-4b": [
     "n-9af7222826"
   ],
+  "family:qualcomm-mobilewan": [
+    "n-fcae5fc646"
+  ],
+  "family:querysplat": [
+    "n-7bd01d988c"
+  ],
   "family:quickmagic": [
     "n-2fd5e60740"
   ],
@@ -2697,12 +6058,25 @@
     "n-dc7072d90a",
     "n-d755c8bc8a",
     "n-b1f4237092",
+    "n-a7efec38e4",
     "n-97c6278d46",
     "n-8a620616a1",
     "n-6a60e32785",
     "n-129b6b09c0",
     "n-04529e7d46",
     "n-019c913613"
+  ],
+  "family:qwen-3-6-plus-preview": [
+    "n-3f35c2ca4e"
+  ],
+  "family:qwen-3-8-27b": [
+    "n-5d775dee1a"
+  ],
+  "family:qwen-audio": [
+    "n-af926b6d88"
+  ],
+  "family:qwen-audio-3-0-tts": [
+    "n-a1dfc77c2c"
   ],
   "family:qwen-code": [
     "n-fe2f35c14b",
@@ -2719,26 +6093,128 @@
     "n-589c676a0a",
     "n-37b2067a0b"
   ],
+  "family:qwen-image-3-0": [
+    "n-0cf91afec3"
+  ],
   "family:qwen-image-edit": [
     "n-250fdb3b1b"
+  ],
+  "family:qwen-image-flash": [
+    "n-d791bdd250"
+  ],
+  "family:qwen-mm-plugins": [
+    "n-32fda16502"
+  ],
+  "family:qwen-video-edit": [
+    "n-9e65c4419e"
+  ],
+  "family:qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf": [
+    "n-ba6ade4c05"
+  ],
+  "family:qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf": [
+    "n-4f107b5ebf"
+  ],
+  "family:qwen3-5-9b-uncensored-hauhaucs-aggressive": [
+    "n-43108a28d7"
+  ],
+  "family:qwen3-6-34b-80l-fable-5-heretic": [
+    "n-d83223a468"
+  ],
+  "family:qwen3-8-27b-cold-fusion": [
+    "n-29022e4fd2"
+  ],
+  "family:qwen3-8-27b-uncensored": [
+    "n-32a7d157bd"
+  ],
+  "family:qwen3-8-27b-uncensored-mlx": [
+    "n-49a53e09e5"
+  ],
+  "family:qwen3-8-flash-next": [
+    "n-a99ab8a6eb"
+  ],
+  "family:qwen3-8-max": [
+    "n-b63f0f79e7"
+  ],
+  "family:qwen3-forcedaligner-0-6b-hf": [
+    "n-0e3939a347"
+  ],
+  "family:qwen3-tts": [
+    "n-4eb63d4caf"
+  ],
+  "family:qwopus3-5-9b-coder": [
+    "n-2540f877eb"
+  ],
+  "family:qwopus3-6-27b-coder-mtp": [
+    "n-8b5f11bc11"
+  ],
+  "family:qwopus3-6-27b-v2": [
+    "n-d4f7f53653"
+  ],
+  "family:qwythos-27b-v1": [
+    "n-7dca97e2c9"
+  ],
+  "family:qwythos-9b-claude-mythos-5": [
+    "n-82a94d3961"
+  ],
+  "family:ramp-router": [
+    "n-2393a845fa"
+  ],
+  "family:raon-opentts": [
+    "n-40028a6fe7"
   ],
   "family:rawgen": [
     "n-c449ab03a6"
   ],
+  "family:ray": [
+    "n-29d4083d61"
+  ],
+  "family:realism-engine-ideogram-4": [
+    "n-f2b3361da7"
+  ],
+  "family:realism-enhancer-krea2": [
+    "n-93c82cced4"
+  ],
+  "family:realmaster": [
+    "n-7e0c4cc870"
+  ],
+  "family:realrestorer": [
+    "n-920abfb1e3"
+  ],
   "family:realtime-tts": [
     "n-2ffed2d338"
+  ],
+  "family:rechannel": [
+    "n-5cd28a2bd1"
   ],
   "family:reconviagen": [
     "n-461304d95b"
   ],
+  "family:redesign": [
+    "n-78d5e0b6be"
+  ],
   "family:refineanything": [
     "n-10b1471000"
+  ],
+  "family:reka": [
+    "n-f49e4ee649"
   ],
   "family:replaceme": [
     "n-18cb9608e2"
   ],
+  "family:researchstudio": [
+    "n-cf19d00e70"
+  ],
   "family:reshoot-anything": [
     "n-8a851b82d9"
+  ],
+  "family:rest2art": [
+    "n-052770a8bf"
+  ],
+  "family:retimegs": [
+    "n-7f5e1b5d5a"
+  ],
+  "family:rigs": [
+    "n-240baee803"
   ],
   "family:ring": [
     "n-58129455d1"
@@ -2749,14 +6225,32 @@
   "family:rotorquant": [
     "n-553243c913"
   ],
+  "family:router": [
+    "n-f241b400a1"
+  ],
   "family:rowboat": [
     "n-11e8a99b4c"
   ],
   "family:rs-nodes": [
     "n-c66b8c38b0"
   ],
+  "family:runway-aleph-2": [
+    "n-f52983ecb7"
+  ],
   "family:rvr": [
     "n-b6c1907179"
+  ],
+  "family:s3t-former": [
+    "n-6ab0eb34ad"
+  ],
+  "family:sam-mt": [
+    "n-07db2c49c3"
+  ],
+  "family:sam2matting": [
+    "n-86023c7979"
+  ],
+  "family:sama": [
+    "n-6e1bdb74a2"
   ],
   "family:sana": [
     "n-f8cc9060c3",
@@ -2768,51 +6262,136 @@
     "n-5e3859fa47",
     "n-04bc8d2a40"
   ],
+  "family:sana-streaming": [
+    "n-9bab984caa"
+  ],
   "family:sapiens": [
     "n-aa28911ec6"
   ],
   "family:scail": [
     "n-0cf9d026b8"
   ],
+  "family:scail-2": [
+    "n-7e81500f3d"
+  ],
+  "family:scope": [
+    "n-cf8c575ede"
+  ],
   "family:sdxs": [
     "n-f24b5871aa"
   ],
+  "family:seamless-equirectangular-lora": [
+    "n-ffa7213d37"
+  ],
+  "family:see-through": [
+    "n-4a97c79072"
+  ],
   "family:seed": [
     "n-ea73b925dc"
+  ],
+  "family:seed-audio": [
+    "n-5540a93cb5"
   ],
   "family:seed-voice": [
     "n-5d75a2276e"
   ],
   "family:seedance": [
     "n-e4d5ff5436",
+    "n-7dc01702da",
     "n-49e8a26e33"
+  ],
+  "family:seedance-2-0": [
+    "n-ee301ec91c"
+  ],
+  "family:seeddance": [
+    "n-0852dc1008"
+  ],
+  "family:seedrealtime": [
+    "n-af01bc34de"
+  ],
+  "family:seedream-5-pro": [
+    "n-740438cbeb"
+  ],
+  "family:seedvr2": [
+    "n-98db5e9f27"
   ],
   "family:seeing-fast-and-slow": [
     "n-b1f200df41"
+  ],
+  "family:sefi-image": [
+    "n-1857cf1c7a"
+  ],
+  "family:self-gradient-forcing": [
+    "n-e9d344fa77"
   ],
   "family:semantic-progress-function": [
     "n-b18df4c1c8"
   ],
   "family:sensenova": [
-    "n-4a638abcfe"
+    "n-4a638abcfe",
+    "n-000fcd918f"
+  ],
+  "family:sensenova-vision": [
+    "n-6de0fad44f"
+  ],
+  "family:seoul-world-model": [
+    "n-3a170e8f1b"
+  ],
+  "family:shotstream": [
+    "n-dbba09c3a2"
+  ],
+  "family:shotverse": [
+    "n-960836273b"
+  ],
+  "family:shuttermuse": [
+    "n-eaa0dc5be8"
   ],
   "family:sillytavern": [
     "n-fa9c04297f"
   ],
+  "family:simart": [
+    "n-b3548b068b",
+    "n-5cbb79d999"
+  ],
+  "family:siq-1-35b": [
+    "n-38018d5d2d"
+  ],
   "family:sloplobster": [
     "n-2dbef67328"
+  ],
+  "family:sma": [
+    "n-f1f27d1e3a"
+  ],
+  "family:sol-attn": [
+    "n-aefede82fd"
+  ],
+  "family:solar-open-2": [
+    "n-2d08c11049"
   ],
   "family:sommelier": [
     "n-b107eae70b"
   ],
   "family:sonilo": [
-    "n-694e3b1cf5"
+    "n-694e3b1cf5",
+    "n-386f8faa44"
   ],
   "family:spark": [
     "n-110bebc860"
   ],
+  "family:sparkvsr": [
+    "n-e48a82e567"
+  ],
   "family:spatial-studio": [
     "n-f4c04ff479"
+  ],
+  "family:spatial-ttt": [
+    "n-171634870a"
+  ],
+  "family:spatialboost": [
+    "n-e2e11bcd53"
+  ],
+  "family:spatialclaw": [
+    "n-3905bae486"
   ],
   "family:spatialedit": [
     "n-3fedc168df"
@@ -2823,11 +6402,29 @@
   "family:spectrum": [
     "n-58225bc7d0"
   ],
+  "family:splatlight": [
+    "n-7322929b10"
+  ],
+  "family:spline-omma": [
+    "n-42aacd4f9b"
+  ],
+  "family:stable-layers": [
+    "n-a5a478ec38"
+  ],
+  "family:starchild-1": [
+    "n-b636bdc989"
+  ],
   "family:storysplat": [
     "n-e4fab55e05"
   ],
   "family:stream": [
     "n-09f901429d"
+  ],
+  "family:stream-fm": [
+    "n-51a9d6c3d6"
+  ],
+  "family:stripe": [
+    "n-4b652bcc77"
   ],
   "family:styleid": [
     "n-9f3f263dfe"
@@ -2835,14 +6432,32 @@
   "family:sulphur": [
     "n-8913c98771"
   ],
+  "family:sun-direction-lora-flux2-klein-9b": [
+    "n-36fa065b79"
+  ],
+  "family:suno-studio": [
+    "n-3d51708a52"
+  ],
   "family:superset": [
     "n-73d2d5938e"
+  ],
+  "family:supersplat": [
+    "n-afce40f186"
+  ],
+  "family:supertonic": [
+    "n-27ea6ab4ef"
   ],
   "family:superwhisper": [
     "n-08bc14aa3d"
   ],
+  "family:surflo": [
+    "n-5f58046d55"
+  ],
   "family:svgs": [
     "n-f735b8e846"
+  ],
+  "family:swiftvr": [
+    "n-e3f801a8ba"
   ],
   "family:sync-labs": [
     "n-cd25320940"
@@ -2850,11 +6465,41 @@
   "family:sync-so": [
     "n-d883c4c40c"
   ],
+  "family:synthetic-video-detector": [
+    "n-0abfd5c1ff"
+  ],
+  "family:synthid-bypass": [
+    "n-63fc70b541"
+  ],
+  "family:telegram": [
+    "n-c32e26254c"
+  ],
+  "family:tencentdb-agent-memory": [
+    "n-1402aca572"
+  ],
+  "family:terattsv2": [
+    "n-32e036715e"
+  ],
+  "family:thestageai-elastic-wan22-i2v": [
+    "n-253f50a66d"
+  ],
   "family:thinking-machines": [
     "n-972d1e2832"
   ],
+  "family:thinkingcap-qwen3-6-27b": [
+    "n-5b5558fedd"
+  ],
   "family:thinksound": [
     "n-8fe6695c64"
+  ],
+  "family:three-mediapipe-rig": [
+    "n-160cda1ba7"
+  ],
+  "family:timelens2": [
+    "n-22448a4fd0"
+  ],
+  "family:timeslice-nodes": [
+    "n-04a79175d6"
   ],
   "family:tinymu": [
     "n-bec376434e"
@@ -2865,6 +6510,15 @@
   "family:token-warping": [
     "n-4697df47f5"
   ],
+  "family:topaz-starlight-precise": [
+    "n-d22e265efd"
+  ],
+  "family:transcribe-cpp": [
+    "n-1059ecec13"
+  ],
+  "family:treblo": [
+    "n-a60b24ebb5"
+  ],
   "family:trellis": [
     "n-d7c3a5e60e"
   ],
@@ -2874,17 +6528,53 @@
   "family:tribe": [
     "n-f9bd7f602b"
   ],
+  "family:tripo": [
+    "n-f80e0da140"
+  ],
+  "family:triposplat": [
+    "n-38e1500c66"
+  ],
+  "family:tsantsalize": [
+    "n-6607af2693"
+  ],
   "family:tuna": [
     "n-44592b77d5"
   ],
+  "family:turboquant": [
+    "n-3870f53415"
+  ],
+  "family:tutu-mcp": [
+    "n-4e2f708bcc"
+  ],
+  "family:uembed": [
+    "n-75473141c2"
+  ],
+  "family:ui-mate": [
+    "n-3f39baf7da"
+  ],
+  "family:ultra-real-klein-9b": [
+    "n-277ef3d868"
+  ],
+  "family:ultrareal-krea2": [
+    "n-984ac0ee00"
+  ],
   "family:uma": [
     "n-207ed94fbd"
+  ],
+  "family:umo": [
+    "n-b02f3b33b7"
+  ],
+  "family:uni-1": [
+    "n-006a78034f"
   ],
   "family:uni-vigu": [
     "n-a5ceb23735"
   ],
   "family:unicorrn": [
     "n-a3c0ebdd3a"
+  ],
+  "family:unid": [
+    "n-5ee5b179bf"
   ],
   "family:unify-agent": [
     "n-c9e1e40a9c"
@@ -2898,11 +6588,29 @@
   "family:unirelight": [
     "n-49b64d4933"
   ],
+  "family:unitree": [
+    "n-e584d1d2e9"
+  ],
   "family:unity-ai": [
     "n-e60825c137"
   ],
+  "family:unity-cli": [
+    "n-2fb0f885be"
+  ],
+  "family:unityshots": [
+    "n-c41ee335f6"
+  ],
+  "family:unitysplats": [
+    "n-9fd4c4bd6f"
+  ],
   "family:unividx": [
     "n-70e759ac2b"
+  ],
+  "family:univr": [
+    "n-cc2ada061c"
+  ],
+  "family:unlimited-ocr": [
+    "n-86875b15aa"
   ],
   "family:unsloth": [
     "n-a3aa871dfa",
@@ -2911,44 +6619,154 @@
     "n-57b1c93e50",
     "n-4920069d82"
   ],
+  "family:upal": [
+    "n-7314a6bcc8"
+  ],
+  "family:v-jepa": [
+    "n-17b312d487"
+  ],
+  "family:v-rae": [
+    "n-4177cab2fa"
+  ],
   "family:vanast": [
     "n-e33dfb0bdb"
+  ],
+  "family:velorn": [
+    "n-c73bfca8d3"
+  ],
+  "family:vercel-fx": [
+    "n-396702cfe2"
+  ],
+  "family:vibe-coding-xr": [
+    "n-16c3e34986"
   ],
   "family:vibecomfy": [
     "n-6b3a93f373"
   ],
+  "family:vibevoice-asr-bitnet": [
+    "n-9fe0054e15"
+  ],
+  "family:vibeworlding": [
+    "n-8b8615589c"
+  ],
+  "family:video-deepresearch": [
+    "n-038f2eebc4"
+  ],
+  "family:video-production-skills": [
+    "n-1a5ac07fef"
+  ],
+  "family:video-to-world": [
+    "n-2f045eb33c"
+  ],
   "family:video-use": [
     "n-047f61d312"
   ],
+  "family:videococo": [
+    "n-497d40e909"
+  ],
+  "family:videoneumat": [
+    "n-1c57725150"
+  ],
+  "family:vidu": [
+    "n-819e122ccd"
+  ],
+  "family:vifeedit": [
+    "n-ded5155805"
+  ],
+  "family:violin": [
+    "n-3347fb1328"
+  ],
   "family:vista4d": [
     "n-d9b76e73f7"
+  ],
+  "family:vocalrender": [
+    "n-4621bd0727"
   ],
   "family:void": [
     "n-83af6888de",
     "n-08ae804484"
   ],
+  "family:volumography": [
+    "n-ef5357108f"
+  ],
   "family:voxcpm": [
     "n-d7b1c6bb36"
+  ],
+  "family:voxtral": [
+    "n-da87b7d4da"
+  ],
+  "family:vvah": [
+    "n-498f6ed5c2"
   ],
   "family:wan": [
     "n-d9eaebd61d",
     "n-d745776a36",
-    "n-cf88820803"
+    "n-cf88820803",
+    "n-2b71540823"
+  ],
+  "family:wan-animate-2": [
+    "n-4fb87f050c"
+  ],
+  "family:wan-dancer": [
+    "n-1b82c038ef"
+  ],
+  "family:wan-streamer": [
+    "n-a54747f312",
+    "n-15581903e4"
+  ],
+  "family:wan2-2": [
+    "n-b1bee57937"
+  ],
+  "family:wan2-2-nvfp4-sparse": [
+    "n-7d096b306e"
   ],
   "family:wanvideo": [
     "n-332335c756"
   ],
+  "family:wavtts": [
+    "n-75eec0b102"
+  ],
   "family:waypoint": [
     "n-2090ac5f1b"
+  ],
+  "family:what-to-edit-next": [
+    "n-c4e41aef2b"
+  ],
+  "family:whatmodels": [
+    "n-dd9a3a9b07"
+  ],
+  "family:whisper-podlodka-turbo": [
+    "n-49f80a3add"
   ],
   "family:wilddet3d": [
     "n-c5207bfa4a"
   ],
+  "family:windows-copilot-api": [
+    "n-25eed24e0d"
+  ],
+  "family:witheveryone": [
+    "n-f57cbf8f0c"
+  ],
   "family:world-r1": [
     "n-5db7fa704b"
   ],
+  "family:worldcam": [
+    "n-8e1566e0c7"
+  ],
+  "family:x-dub": [
+    "n-a5bfdf92c1"
+  ],
   "family:x-sam": [
     "n-1c50287b34"
+  ],
+  "family:x-voice": [
+    "n-7290230618"
+  ],
+  "family:xyz-studio": [
+    "n-2b3ced63f1"
+  ],
+  "family:yags": [
+    "n-82f8f06562"
   ],
   "family:yedp": [
     "n-501487aec4"
@@ -2958,11 +6776,35 @@
     "n-bcef63351f",
     "n-9744e9b73c"
   ],
+  "family:z-image-turbo-plus-plus": [
+    "n-7f424895fc"
+  ],
+  "family:z-image-turbo-sda": [
+    "n-675f824e2a"
+  ],
+  "family:zcode": [
+    "n-1d8711ddfd"
+  ],
+  "family:zeta-chroma": [
+    "n-b977739627"
+  ],
   "family:zveroboy-photo": [
     "n-df8413780a"
   ],
+  "fast-foundationstereo": [
+    "n-6bd85df8ed"
+  ],
+  "faster": [
+    "n-2e867da591"
+  ],
+  "fastgen": [
+    "n-f202a83f88"
+  ],
   "fastgha": [
     "n-8cf0d43011"
+  ],
+  "fedoraitoolkit": [
+    "n-66b11f2c1c"
   ],
   "fine-tune-for:gemma-4-e4b-it": [
     "n-f4d17d7115"
@@ -2991,6 +6833,28 @@
     "n-129b6b09c0",
     "n-04529e7d46"
   ],
+  "firecrawl": [
+    "n-721afd6a19",
+    "n-4514941672"
+  ],
+  "firefly-graph": [
+    "n-625a62d5de"
+  ],
+  "firefly-illustrator-integration": [
+    "n-0d7aed5e86"
+  ],
+  "firered": [
+    "n-264e8c1717"
+  ],
+  "firered-image-edit": [
+    "n-264e8c1717"
+  ],
+  "fireredtts": [
+    "n-97c92d3269"
+  ],
+  "fireredtts3": [
+    "n-97c92d3269"
+  ],
   "first_party": [
     "n-a78b2b7401",
     "n-851c72bbf5",
@@ -3002,6 +6866,9 @@
   "flash-attention": [
     "n-545c4e25d2"
   ],
+  "flashmemory-deepseek-v4": [
+    "n-fe403ecd72"
+  ],
   "flexavatar": [
     "n-08dc2040a6"
   ],
@@ -3010,6 +6877,9 @@
   ],
   "flova.ai": [
     "n-49e8a26e33"
+  ],
+  "flow-upscaler": [
+    "n-5fb7b8ba70"
   ],
   "flowanchor": [
     "n-a74ee42caa"
@@ -3027,6 +6897,8 @@
     "n-bb60458b02",
     "n-b2c1d5a768",
     "n-a7d1f83b13",
+    "n-80bd00594d",
+    "n-6a470bac38",
     "n-30f5861cb4"
   ],
   "flux-2": [
@@ -3036,8 +6908,49 @@
   "flux-2-klein-9b": [
     "n-bb60458b02"
   ],
+  "flux-2-klein-9b-kv": [
+    "n-d0e1053814"
+  ],
+  "flux-2-klein-9b-manga-colorization-by-reference-lora": [
+    "n-819b4129d7"
+  ],
+  "flux-3": [
+    "n-5353f88f44",
+    "n-3ec7e1a063"
+  ],
+  "flux-lora": [
+    "n-819b4129d7"
+  ],
+  "flux-loras": [
+    "n-369b74ea1a"
+  ],
+  "flux-video-upscale": [
+    "n-1a1b209e8f"
+  ],
+  "flux2-klein": [
+    "n-6a470bac38"
+  ],
+  "flux2-klein-9b-consistency": [
+    "n-e2832a6cb2"
+  ],
+  "flux2-klein-9b-enhanced-details": [
+    "n-369b74ea1a"
+  ],
+  "flux2-klein-loras": [
+    "n-36fa065b79"
+  ],
+  "flux_3": [
+    "n-5353f88f44",
+    "n-3ec7e1a063"
+  ],
+  "flux_ecosystem": [
+    "n-5fb7b8ba70"
+  ],
   "foresyn-ai": [
     "n-541dc74a2e"
+  ],
+  "frame-extractor": [
+    "n-c3d4c31323"
   ],
   "free": [
     "n-ff21b44ef5",
@@ -3062,6 +6975,27 @@
     "n-0841776bd9",
     "n-0588f1e672",
     "n-02e0b8ae6c"
+  ],
+  "freepik-seedance": [
+    "n-68299e89f1"
+  ],
+  "fugu-ultra": [
+    "n-05ec9a95a1"
+  ],
+  "fugu_ultra": [
+    "n-05ec9a95a1"
+  ],
+  "fx": [
+    "n-396702cfe2"
+  ],
+  "gabi-ordination": [
+    "n-de14e3f121"
+  ],
+  "gabi-robot": [
+    "n-de14e3f121"
+  ],
+  "galaxyace-lora": [
+    "n-18aead67ea"
   ],
   "gameworld": [
     "n-f306331601"
@@ -3089,21 +7023,57 @@
   "gbrain": [
     "n-eb965439db"
   ],
+  "gear": [
+    "n-e613f26dc4"
+  ],
+  "gelab-zero": [
+    "n-97e1334295"
+  ],
   "gemini": [
-    "n-d5e685b3b1"
+    "n-d5e685b3b1",
+    "n-6f089116cf",
+    "n-55b3aea30b",
+    "n-412ff5547f",
+    "n-288cee31b2"
   ],
   "gemini-3-1": [
     "n-d5e685b3b1"
   ],
+  "gemini-3-5-live-translate": [
+    "n-599684b34f"
+  ],
+  "gemini-app": [
+    "n-288cee31b2"
+  ],
+  "gemini-embedding-2": [
+    "n-1ee49081d2"
+  ],
+  "gemini-gems": [
+    "n-288cee31b2"
+  ],
+  "gemini-intelligence-android": [
+    "n-97cedb7ec2"
+  ],
+  "gemini_intelligence_android": [
+    "n-97cedb7ec2"
+  ],
+  "gemini_models": [
+    "n-599684b34f"
+  ],
   "gemma": [
     "n-f4d17d7115",
+    "n-d1c36e4341",
     "n-c7bfff5d31",
     "n-ae3f3a3876",
     "n-9139899069",
-    "n-5ac53c2267"
+    "n-5ac53c2267",
+    "n-2e0520da75"
   ],
   "gemma-4": [
     "n-c7bfff5d31"
+  ],
+  "gemma-4-12b": [
+    "n-2e0520da75"
   ],
   "gemma-4-31b": [
     "n-5ac53c2267"
@@ -3131,6 +7101,12 @@
   ],
   "geo-register-plugin": [
     "n-85862dbbb3"
+  ],
+  "geometric-latent-diffusion": [
+    "n-0c368b4c16"
+  ],
+  "geometric_latent_diffusion": [
+    "n-0c368b4c16"
   ],
   "geosr": [
     "n-1b0490d011"
@@ -3345,19 +7321,76 @@
   ],
   "glm": [
     "n-e51898fad5",
-    "n-b2b9ca697e"
+    "n-b2b9ca697e",
+    "n-4148509833"
   ],
   "glm-5-1": [
     "n-e51898fad5"
   ],
+  "glm-5-2": [
+    "n-0b4ad29b73"
+  ],
+  "glm-5-2-gguf": [
+    "n-a1265a873f"
+  ],
+  "glm-5-2-nvfp4": [
+    "n-5efefc3953"
+  ],
+  "glm-5-2-vision": [
+    "n-7bf964cae8"
+  ],
+  "glm-5-3-flash": [
+    "n-4148509833"
+  ],
   "glm-5v": [
     "n-b2b9ca697e"
+  ],
+  "glm-ocr": [
+    "n-a5a6f42edd"
+  ],
+  "glm_5_2": [
+    "n-a1265a873f"
+  ],
+  "glm_5_2_vision": [
+    "n-7bf964cae8"
+  ],
+  "glm_models": [
+    "n-0b4ad29b73"
+  ],
+  "glyphprinter": [
+    "n-d6f1ea9ec7"
+  ],
+  "google-ai-studio": [
+    "n-38217f32a6"
+  ],
+  "google-gemini": [
+    "n-288cee31b2"
+  ],
+  "google-veo": [
+    "n-ca4cb3b16f"
+  ],
+  "google_veo": [
+    "n-ca4cb3b16f"
+  ],
+  "google_veo_access": [
+    "n-ca4cb3b16f"
   ],
   "gpt": [
     "n-2405c2d2f2"
   ],
   "gpt-5-5": [
-    "n-2405c2d2f2"
+    "n-2405c2d2f2",
+    "n-1fff983f43"
+  ],
+  "gpt-5-5-announcement": [
+    "n-1fff983f43"
+  ],
+  "gpt-5-5-cyber": [
+    "n-22b4ad25f5"
+  ],
+  "gpt-5-6-sol": [
+    "n-d76b3cf6c5",
+    "n-303168f615"
   ],
   "gpt-image": [
     "n-df001e7bab",
@@ -3369,8 +7402,39 @@
     "n-ca390bf3b3",
     "n-af7e0341d4"
   ],
+  "gpt_4": [
+    "n-303168f615"
+  ],
+  "graphics_tech": [
+    "n-6d500875d2"
+  ],
   "griptape": [
     "n-ebeab9837a"
+  ],
+  "grok": [
+    "n-fe49770141",
+    "n-c4546aea9c",
+    "n-9fce4f9cd3",
+    "n-7abe53781e"
+  ],
+  "grok-4-5": [
+    "n-9fce4f9cd3"
+  ],
+  "grok-build": [
+    "n-9478ff9243"
+  ],
+  "grok-imagine-image-2-0": [
+    "n-fe49770141"
+  ],
+  "grok-imagine-video": [
+    "n-2591c503ad"
+  ],
+  "grok_imagine_video": [
+    "n-2591c503ad"
+  ],
+  "grok_telegram_bot": [
+    "n-c4546aea9c",
+    "n-7abe53781e"
   ],
   "gsd": [
     "n-ee8bd2e38f"
@@ -3378,8 +7442,14 @@
   "gsd-2": [
     "n-ee8bd2e38f"
   ],
+  "gush3r": [
+    "n-b10bd633b8"
+  ],
   "gyroscope": [
     "n-a71a838b34"
+  ],
+  "h-company-holo3": [
+    "n-477068c864"
   ],
   "habitat-gs": [
     "n-c96f664d5d"
@@ -3387,10 +7457,17 @@
   "hackernews-predictor": [
     "n-541dc74a2e"
   ],
+  "hailuo": [
+    "n-a316da2631"
+  ],
+  "hailuo-light-studio": [
+    "n-a316da2631"
+  ],
   "happy-alibaba": [
     "n-5e1a256a5e"
   ],
   "happy-horse": [
+    "n-310e3414f5",
     "n-0588f1e672"
   ],
   "happy-horse-1-0": [
@@ -3414,14 +7491,59 @@
     "n-2f94cbb043",
     "n-048b3192a0"
   ],
+  "hatcha": [
+    "n-00c9c3996b"
+  ],
   "hermes": [
     "n-367db0be8e"
   ],
   "hermes-agent": [
     "n-95d245f3eb"
   ],
+  "heydoughogan ComfyUI VFX Workflow": [
+    "n-4941701283"
+  ],
+  "heygen-hyperframes": [
+    "n-076b3f0be6"
+  ],
+  "hf-cerebras-realtime-voice": [
+    "n-54505b5f46"
+  ],
+  "hf-cerebras-voice": [
+    "n-54505b5f46"
+  ],
+  "hf-mount": [
+    "n-c8fa19868e"
+  ],
+  "hf_mount": [
+    "n-c8fa19868e"
+  ],
+  "hiar": [
+    "n-e304c780ea"
+  ],
   "hidream": [
     "n-7d8614adad"
+  ],
+  "higgs-audio-v3-tts": [
+    "n-d3641add96"
+  ],
+  "higgs_audio": [
+    "n-d3641add96"
+  ],
+  "holi-spatial": [
+    "n-e7545aced1"
+  ],
+  "holo3_model_release": [
+    "n-477068c864"
+  ],
+  "homie": [
+    "n-ec3dda9c78"
+  ],
+  "hotgen-video": [
+    "n-7970b35444"
+  ],
+  "hotgen-video-v5": [
+    "n-7970b35444"
   ],
   "huggingface": [
     "n-fb32c38877",
@@ -3555,6 +7677,24 @@
   "huggingface-kernels": [
     "n-545c4e25d2"
   ],
+  "huggingface-wfx": [
+    "n-5319c89cd3"
+  ],
+  "huggingface_tools": [
+    "n-5319c89cd3"
+  ],
+  "huihui-ai/huihui-qwen3.8-27b-abliterated": [
+    "n-ea26f61d82"
+  ],
+  "huihui-gemma-4-12b-it-abliterated": [
+    "n-d1c36e4341"
+  ],
+  "huihui-qwen3-8-27b-abliterated": [
+    "n-ea26f61d82"
+  ],
+  "humanomniv2": [
+    "n-1e37f80b3f"
+  ],
   "hunyuan": [
     "n-1fef5a401b",
     "n-0841776bd9"
@@ -3562,6 +7702,16 @@
   "hunyuan-video": [
     "n-fb32c38877",
     "n-348f0ce004"
+  ],
+  "hunyuan3d": [
+    "n-fb888fd82d",
+    "n-d6ed6958b0"
+  ],
+  "hunyuan3d-buffalo-1-0": [
+    "n-fb888fd82d"
+  ],
+  "hunyuan3d-worldclaw": [
+    "n-d6ed6958b0"
   ],
   "hy-mt": [
     "n-e17cbf7ded"
@@ -3578,17 +7728,64 @@
   "hy-world-2-0": [
     "n-1e0d9b8388"
   ],
+  "hy-wu": [
+    "n-17be84d500"
+  ],
   "hy3": [
     "n-0841776bd9"
   ],
   "hydra": [
     "n-09ee25f7d5"
   ],
+  "hyperagents": [
+    "n-8a4dfeeb5d"
+  ],
   "hyperframes": [
-    "n-963305f6b7"
+    "n-963305f6b7",
+    "n-076b3f0be6"
+  ],
+  "hyra": [
+    "n-715fbe9451"
   ],
   "icecache": [
     "n-fc612ab002"
+  ],
+  "id-lora": [
+    "n-ec159def6b"
+  ],
+  "id-v2v": [
+    "n-d140f3d07f"
+  ],
+  "id_lora": [
+    "n-ec159def6b"
+  ],
+  "ideogram": [
+    "n-6c5e22fee1",
+    "n-6398af54be"
+  ],
+  "ideogram-4": [
+    "n-9e6857e8a9",
+    "n-6c5e22fee1",
+    "n-6398af54be"
+  ],
+  "ideogram-4-GGUF": [
+    "n-9e6857e8a9"
+  ],
+  "ideogram-4-gguf": [
+    "n-9e6857e8a9"
+  ],
+  "ideogram-lora": [
+    "n-f2b3361da7"
+  ],
+  "ideogram_4": [
+    "n-6c5e22fee1",
+    "n-6398af54be"
+  ],
+  "iggt4d": [
+    "n-bb326c9fdf"
+  ],
+  "image-caption-utility": [
+    "n-364be607ee"
   ],
   "image-to-image": [
     "n-eb367fb3e1",
@@ -3610,6 +7807,9 @@
     "n-0646f210ee",
     "n-04529e7d46"
   ],
+  "image-to-lora": [
+    "n-22001436c1"
+  ],
   "image-to-material": [
     "n-e63a0d4512"
   ],
@@ -3626,8 +7826,35 @@
     "n-3904aeff63",
     "n-09f901429d"
   ],
+  "image_caption_utility": [
+    "n-364be607ee"
+  ],
+  "image_editing": [
+    "n-3297691b6f"
+  ],
+  "image_generation": [
+    "n-d0e1053814"
+  ],
+  "image_to_lora": [
+    "n-22001436c1"
+  ],
+  "img2threejs": [
+    "n-a02ba7b073"
+  ],
   "infinidepth": [
     "n-23309eb954"
+  ],
+  "infinisplat": [
+    "n-cf72a26f02"
+  ],
+  "infinityedit": [
+    "n-13290b7929"
+  ],
+  "inline-studio": [
+    "n-196adf34af"
+  ],
+  "inlineresearch/inline-studio": [
+    "n-196adf34af"
   ],
   "inpainting": [
     "n-ebeab9837a",
@@ -3642,8 +7869,20 @@
   "interaction-models": [
     "n-972d1e2832"
   ],
+  "interactive_vlms": [
+    "n-6c34648459"
+  ],
   "javisverse": [
     "n-18331ebc79"
+  ],
+  "jina-embeddings-v5-omni": [
+    "n-1651c3d215"
+  ],
+  "joy-ltx-2-5-x-z-image": [
+    "n-f2122c676b"
+  ],
+  "joy_ltx_2_5_x_z_image": [
+    "n-f2122c676b"
   ],
   "joyai": [
     "n-0739891476"
@@ -3651,20 +7890,58 @@
   "joyai-image": [
     "n-d192447768"
   ],
+  "joyai-video-edit": [
+    "n-4cb69e9202"
+  ],
+  "joyai-vl-interaction": [
+    "n-6c34648459"
+  ],
+  "joyai_video_edit": [
+    "n-4cb69e9202"
+  ],
+  "karpathytalk": [
+    "n-289ba243a5"
+  ],
+  "karpathytalk_launch": [
+    "n-289ba243a5"
+  ],
   "kimi": [
     "n-2aa536ccdc"
   ],
   "kimi-6": [
     "n-2aa536ccdc"
   ],
+  "kimi-code-cli": [
+    "n-ced28f0724"
+  ],
+  "kimi-k3": [
+    "n-033632d8e0"
+  ],
+  "kimi_code": [
+    "n-ced28f0724"
+  ],
   "kimodo": [
+    "n-f5a3ca876d",
     "n-61c8c02fec"
   ],
   "kimodo-v1-1": [
     "n-61c8c02fec"
   ],
   "kiri-engine": [
-    "n-9db878fd06"
+    "n-9db878fd06",
+    "n-61589d5fc9"
+  ],
+  "klein": [
+    "n-825557a5f2"
+  ],
+  "klein-9b": [
+    "n-277ef3d868"
+  ],
+  "kling_video": [
+    "n-38e5bcdce7"
+  ],
+  "knowact-guiclaw": [
+    "n-f09f1875bc"
   ],
   "knowledge-base": [
     "n-a3f6d0a225",
@@ -3677,8 +7954,67 @@
   "knowledge-space": [
     "n-001a2f8ef9"
   ],
+  "krea": [
+    "n-390aed02e2"
+  ],
+  "krea-2": [
+    "n-eb68bcfc57",
+    "n-45b7bbd16b"
+  ],
+  "krea-2-outpaint": [
+    "n-a0d5299653"
+  ],
+  "krea-2-release": [
+    "n-390aed02e2"
+  ],
+  "krea2-filter-bypass": [
+    "n-31cb32c83a"
+  ],
+  "krea2-loras": [
+    "n-984ac0ee00",
+    "n-837f41c777"
+  ],
+  "krea2-realism": [
+    "n-837f41c777"
+  ],
+  "krea2-textfusion-refusal-reduction-lora": [
+    "n-6d8dc4435a"
+  ],
+  "krea2_textfusion_refusal_reduction_lora": [
+    "n-6d8dc4435a"
+  ],
+  "krea_realtime_video": [
+    "n-390aed02e2"
+  ],
   "kupkaprod": [
     "n-511353336a"
+  ],
+  "kura": [
+    "n-26bc0bd267"
+  ],
+  "kvarn": [
+    "n-ec4e396a59"
+  ],
+  "kvpo": [
+    "n-6b8983b2a2"
+  ],
+  "laguna": [
+    "n-a11d97b87b"
+  ],
+  "langswap": [
+    "n-dd68bf49b2"
+  ],
+  "latent-to-4d": [
+    "n-b8afea4624"
+  ],
+  "latent_to_4d": [
+    "n-b8afea4624"
+  ],
+  "latentspatialmemory": [
+    "n-0ab05cddfc"
+  ],
+  "lato": [
+    "n-b48ae23ef5"
   ],
   "lava-genie": [
     "n-ea4c5d4dff"
@@ -3689,11 +8025,41 @@
   "ldf-vfi": [
     "n-88b74a7e58"
   ],
+  "lemas": [
+    "n-8d546ea894"
+  ],
+  "lfm2-5-2-6b": [
+    "n-c46744cf6a"
+  ],
+  "lfm2-5-vl-3b": [
+    "n-64c52eaf4d"
+  ],
+  "lfm2_5_2_6b": [
+    "n-c46744cf6a"
+  ],
   "lgtm": [
     "n-fdbf17ddf7"
   ],
+  "lightricks-ltx-2-3-clean-plate-lora": [
+    "n-192b3cf75c"
+  ],
+  "ling-3-0-flash": [
+    "n-13a562a609"
+  ],
+  "ling_flash": [
+    "n-13a562a609"
+  ],
   "lingbot-map": [
     "n-f57cbec8b9"
+  ],
+  "lingbot-video": [
+    "n-61e3cf03ac"
+  ],
+  "lingbot-world": [
+    "n-de20defbe8"
+  ],
+  "lingbot-world-2": [
+    "n-de20defbe8"
   ],
   "lip-sync": [
     "n-d883c4c40c",
@@ -3706,14 +8072,29 @@
     "n-464a2f9508",
     "n-03e4a812c8"
   ],
+  "liquid-ai/lfm2-5-vl-3b": [
+    "n-64c52eaf4d"
+  ],
+  "lito": [
+    "n-1a26ffa75d"
+  ],
   "liveactionaov": [
     "n-23270485c3"
+  ],
+  "liveedit": [
+    "n-1027303bd3"
   ],
   "llada": [
     "n-64094eafae"
   ],
   "llada2-0": [
     "n-64094eafae"
+  ],
+  "llama-server-launcher": [
+    "n-a1c9a6a103"
+  ],
+  "llama_server_launcher": [
+    "n-a1c9a6a103"
   ],
   "llm": [
     "n-ff21b44ef5",
@@ -3803,11 +8184,30 @@
   "llm-agents": [
     "n-2f94cbb043"
   ],
+  "llm_releases": [
+    "n-c0d09bda8b"
+  ],
+  "lmx-omni-52b-halo": [
+    "n-4aa029af73"
+  ],
+  "locateanything": [
+    "n-b79dee5163"
+  ],
+  "loger": [
+    "n-9371b417f8"
+  ],
   "longcat": [
+    "n-bbc670c0e1",
     "n-5d03d1bfa4"
   ],
   "longcat-audiodit": [
     "n-d967265835"
+  ],
+  "loomvideo": [
+    "n-9ce590f831"
+  ],
+  "loopx": [
+    "n-0f298b0d41"
   ],
   "lora": [
     "n-ea5cb3e3f2",
@@ -3875,6 +8275,9 @@
   "lora-for:wan2-2": [
     "n-cf88820803"
   ],
+  "lora_releases": [
+    "n-e2832a6cb2"
+  ],
   "lpm": [
     "n-464a2f9508"
   ],
@@ -3919,8 +8322,43 @@
     "n-3ae3ddb34b",
     "n-396cd4f7c0"
   ],
+  "ltx-2-3-black-magic-lora": [
+    "n-bd49bc44b7"
+  ],
+  "ltx-2-3-gguf": [
+    "n-222b01635c"
+  ],
+  "ltx-2-3-ic-lora-cross-eyed": [
+    "n-a61b804416"
+  ],
+  "ltx-2-3-ic-lora-ingredients": [
+    "n-75651b6d80"
+  ],
+  "ltx-2-3-inpaint-lora": [
+    "n-30436dd38f"
+  ],
+  "ltx-2-5": [
+    "n-75171cd2c8"
+  ],
+  "ltx-2-caption-tool": [
+    "n-0627ff22c0"
+  ],
+  "ltx-foley-lora": [
+    "n-443c254b7f"
+  ],
   "ltx-v1": [
     "n-c492e2a3e4"
+  ],
+  "ltx-video": [
+    "n-ce71bb02ce",
+    "n-75171cd2c8",
+    "n-7150bbd771",
+    "n-222b01635c",
+    "n-2222547f97",
+    "n-192b3cf75c"
+  ],
+  "ltx2-3-audio-reactive-lora": [
+    "n-9d1d38dd75"
   ],
   "ltx2-3-multifunctional": [
     "n-ac33c5f998"
@@ -3931,6 +8369,28 @@
   "ltx23_edit_anything": [
     "n-69cc1d969e"
   ],
+  "ltx_2_3": [
+    "n-a61b804416",
+    "n-75651b6d80",
+    "n-6607af2693"
+  ],
+  "ltx_2_3_inpaint_lora": [
+    "n-30436dd38f"
+  ],
+  "ltx_video": [
+    "n-bd49bc44b7",
+    "n-443c254b7f",
+    "n-3554d5183b"
+  ],
+  "ltx_video_models": [
+    "n-9d1d38dd75"
+  ],
+  "lucida": [
+    "n-8a9fb1a4b9"
+  ],
+  "lucy": [
+    "n-8cc344a285"
+  ],
   "luma": [
     "n-99c607c318",
     "n-5cac0a3186"
@@ -3938,11 +8398,20 @@
   "luma-1-1": [
     "n-99c607c318"
   ],
+  "luma-ray": [
+    "n-29d4083d61"
+  ],
   "lumipic": [
     "n-eb367fb3e1"
   ],
   "lumivid": [
     "n-52e566a651"
+  ],
+  "lumosai8/comfyui-orbitsheets": [
+    "n-7328495c92"
+  ],
+  "luxtts": [
+    "n-6705e4929b"
   ],
   "lyra": [
     "n-a549ac3575"
@@ -3950,14 +8419,45 @@
   "lyra-2-0": [
     "n-a549ac3575"
   ],
+  "lyria-3-pro": [
+    "n-3faf75a3a8"
+  ],
+  "lyria_3_pro": [
+    "n-3faf75a3a8"
+  ],
   "m-xr": [
     "n-e63a0d4512"
   ],
   "m2svid": [
     "n-8ff86e4411"
   ],
+  "macOS Harness": [
+    "n-f77e6ada52"
+  ],
   "mace-dance": [
     "n-44b3b570af"
+  ],
+  "macos-harness": [
+    "n-f77e6ada52"
+  ],
+  "macos_harness": [
+    "n-f77e6ada52"
+  ],
+  "mage-flow": [
+    "n-594cd03215",
+    "n-363a1b03bb"
+  ],
+  "mage_flow": [
+    "n-363a1b03bb"
+  ],
+  "magi": [
+    "n-dd148acbc4"
+  ],
+  "magi-2": [
+    "n-dd148acbc4"
+  ],
+  "magicmakeup": [
+    "n-84568364fd"
   ],
   "mai": [
     "n-2eb209422c"
@@ -3967,6 +8467,9 @@
   ],
   "majoor": [
     "n-ff03e5bf7b"
+  ],
+  "mamma": [
+    "n-cdfe0e2f1c"
   ],
   "managed-agents": [
     "n-b4bbea9668"
@@ -3984,6 +8487,21 @@
   "marco-moe": [
     "n-15fd6206af"
   ],
+  "marionette": [
+    "n-c2c4915336"
+  ],
+  "marlin-2b": [
+    "n-05fe00f082"
+  ],
+  "maskvidexperiments": [
+    "n-f8b15964ba"
+  ],
+  "match": [
+    "n-8e078019f4"
+  ],
+  "matraix": [
+    "n-75510d5219"
+  ],
   "matrix-game": [
     "n-5f36799f6d"
   ],
@@ -4000,11 +8518,26 @@
   "mempalace": [
     "n-a3583f87c7"
   ],
+  "memprivacy": [
+    "n-9760d7add3"
+  ],
+  "memprivacy-release": [
+    "n-9760d7add3"
+  ],
   "mesh2motion": [
     "n-2ff0f435cc"
   ],
   "meta-cot": [
     "n-2c91e42c2d"
+  ],
+  "meta-pocket": [
+    "n-17e916004b"
+  ],
+  "metaclaw": [
+    "n-81ebf14eea"
+  ],
+  "metaview": [
+    "n-e3f07cf60d"
   ],
   "mf0-1984": [
     "n-dd8d68b69f"
@@ -4015,11 +8548,41 @@
   "mia": [
     "n-221dea80c4"
   ],
+  "microsoft": [
+    "n-97e1334295"
+  ],
+  "microsoft-copilot-researcher": [
+    "n-e859acd94e"
+  ],
+  "microsoft-mage-flow": [
+    "n-594cd03215"
+  ],
+  "microsoft-mirage": [
+    "n-0ab05cddfc"
+  ],
+  "microsoft_copilot": [
+    "n-e859acd94e"
+  ],
+  "microzoom": [
+    "n-6e6ec9ab6b"
+  ],
+  "midjourney": [
+    "n-632e606b02"
+  ],
+  "midjourney_roadmap": [
+    "n-632e606b02"
+  ],
+  "midjourney_web_trial": [
+    "n-632e606b02"
+  ],
   "mimo": [
     "n-768295e164"
   ],
   "mimo-5": [
     "n-768295e164"
+  ],
+  "mimo-code": [
+    "n-99dadfd9bc"
   ],
   "mimo-v2-5": [
     "n-768295e164"
@@ -4030,14 +8593,620 @@
   "minicpm-v-4-6": [
     "n-36e9bae8ed"
   ],
+  "minimax": [
+    "n-7127c15c53",
+    "n-160efa0fdb"
+  ],
+  "minimax-h3": [
+    "n-7127c15c53",
+    "n-160efa0fdb"
+  ],
+  "minimax-h3-fl2va-ref2va-hybrid-models": [
+    "n-faa53b79d3"
+  ],
+  "minimax-h3-fun-controlnet-union": [
+    "n-ccb51d2a95"
+  ],
+  "minimax-h3-turbo-lora": [
+    "n-2facb069d0"
+  ],
+  "minimax-h3-x-z-image": [
+    "n-f0c1036242"
+  ],
+  "minimax-m3": [
+    "n-d2bc181ad0"
+  ],
   "minimax-music": [
     "n-dfe5e1e7a6"
   ],
   "minimax-music-2-6": [
     "n-dfe5e1e7a6"
   ],
+  "minimax-music-3": [
+    "n-0ebdd3ab44"
+  ],
+  "minimax-music3-latent-refiner": [
+    "n-37729ce27a"
+  ],
+  "minimax-music3-studio": [
+    "n-a11009c2dc"
+  ],
+  "minimax_h3": [
+    "n-f8b2802977"
+  ],
+  "minimax_h3_fun_controlnet_union": [
+    "n-ccb51d2a95"
+  ],
+  "minimax_h3_turbo_lora": [
+    "n-2facb069d0"
+  ],
+  "minimax_h3_x_z_image": [
+    "n-f0c1036242"
+  ],
+  "minimax_music": [
+    "n-0ebdd3ab44"
+  ],
+  "minimax_music3_latent_refiner": [
+    "n-37729ce27a"
+  ],
   "mirofish": [
     "n-e4b7a4de7b"
+  ],
+  "misc": [
+    "n-ffa7213d37",
+    "n-ffa010ab28",
+    "n-fec11a299f",
+    "n-fe5aa54dca",
+    "n-fe49770141",
+    "n-fe403ecd72",
+    "n-fdae3b02e0",
+    "n-fdaa3b9adb",
+    "n-fcae5fc646",
+    "n-fb888fd82d",
+    "n-fb33cdc42d",
+    "n-faa53b79d3",
+    "n-f8b2802977",
+    "n-f8b15964ba",
+    "n-f80e0da140",
+    "n-f7bf45f8a9",
+    "n-f77e6ada52",
+    "n-f5abb4cf9b",
+    "n-f5a3ca876d",
+    "n-f57cbf8f0c",
+    "n-f52983ecb7",
+    "n-f49e4ee649",
+    "n-f43e44e73f",
+    "n-f3982b18eb",
+    "n-f2b3361da7",
+    "n-f241b400a1",
+    "n-f2122c676b",
+    "n-f202a83f88",
+    "n-f1f27d1e3a",
+    "n-f108d81c34",
+    "n-f0c1036242",
+    "n-f09f1875bc",
+    "n-ef5357108f",
+    "n-eea14f2dcf",
+    "n-ee301ec91c",
+    "n-ecb3a7060c",
+    "n-eca931f946",
+    "n-ec4e396a59",
+    "n-ec3dda9c78",
+    "n-ec159def6b",
+    "n-eb68bcfc57",
+    "n-eac94cf783",
+    "n-eab857eece",
+    "n-eaa0dc5be8",
+    "n-ea52f36353",
+    "n-ea26f61d82",
+    "n-e9d344fa77",
+    "n-e8fb056748",
+    "n-e8b9f004d7",
+    "n-e859acd94e",
+    "n-e7545aced1",
+    "n-e6ade9848e",
+    "n-e6413c0a2c",
+    "n-e613f26dc4",
+    "n-e5c07a6c4b",
+    "n-e584d1d2e9",
+    "n-e55f67c729",
+    "n-e55e56223b",
+    "n-e48a82e567",
+    "n-e431684c08",
+    "n-e3f801a8ba",
+    "n-e3f07cf60d",
+    "n-e3b0bbbd83",
+    "n-e304c780ea",
+    "n-e2e11bcd53",
+    "n-e2832a6cb2",
+    "n-e1ca928d8e",
+    "n-ded5155805",
+    "n-de20defbe8",
+    "n-de14e3f121",
+    "n-dd9a3a9b07",
+    "n-dd68bf49b2",
+    "n-dd148acbc4",
+    "n-dbba09c3a2",
+    "n-daa3090ac6",
+    "n-da87b7d4da",
+    "n-d99912828e",
+    "n-d9748d5e13",
+    "n-d83223a468",
+    "n-d7ef7b4828",
+    "n-d791bdd250",
+    "n-d76b3cf6c5",
+    "n-d6f1ea9ec7",
+    "n-d6ed6958b0",
+    "n-d5e082f834",
+    "n-d4f7f53653",
+    "n-d497328784",
+    "n-d3641add96",
+    "n-d2bc181ad0",
+    "n-d22e265efd",
+    "n-d1c36e4341",
+    "n-d1aace8b4a",
+    "n-d182530af4",
+    "n-d140f3d07f",
+    "n-d0e1053814",
+    "n-d0102378c0",
+    "n-cfd3254184",
+    "n-cf8c575ede",
+    "n-cf72a26f02",
+    "n-cf19d00e70",
+    "n-cf0d503ef2",
+    "n-cf04305133",
+    "n-ced28f0724",
+    "n-ced223aa89",
+    "n-ce71bb02ce",
+    "n-ce5fa969a2",
+    "n-ce536a0efc",
+    "n-cdfe0e2f1c",
+    "n-cddebb8e59",
+    "n-ccb51d2a95",
+    "n-cc2ada061c",
+    "n-cb62ae01fa",
+    "n-ca4cb3b16f",
+    "n-ca13b9fa04",
+    "n-c969bb3002",
+    "n-c8fa19868e",
+    "n-c73bfca8d3",
+    "n-c724eb9e4c",
+    "n-c6ff419784",
+    "n-c5e93c1d3a",
+    "n-c4e41aef2b",
+    "n-c4a0d1a186",
+    "n-c46744cf6a",
+    "n-c4546aea9c",
+    "n-c41ee335f6",
+    "n-c3f798c77b",
+    "n-c3d4c31323",
+    "n-c32e26254c",
+    "n-c2e38d5935",
+    "n-c2c4915336",
+    "n-c16d03e2b0",
+    "n-c0d09bda8b",
+    "n-bd49bc44b7",
+    "n-bbc670c0e1",
+    "n-bb326c9fdf",
+    "n-ba790c8631",
+    "n-ba6ade4c05",
+    "n-ba02def424",
+    "n-b977739627",
+    "n-b8d5334397",
+    "n-b8afea4624",
+    "n-b8abd7e35e",
+    "n-b7c4d9268f",
+    "n-b79dee5163",
+    "n-b6851c60f8",
+    "n-b66c6b5fe8",
+    "n-b63f0f79e7",
+    "n-b636bdc989",
+    "n-b495739d31",
+    "n-b48ae23ef5",
+    "n-b438d99dc2",
+    "n-b3f3b611a3",
+    "n-b3aa6851b7",
+    "n-b3548b068b",
+    "n-b347948b96",
+    "n-b2222dab41",
+    "n-b1bee57937",
+    "n-b10bd633b8",
+    "n-b02f3b33b7",
+    "n-afce40f186",
+    "n-af926b6d88",
+    "n-af01bc34de",
+    "n-aefede82fd",
+    "n-adee3ca551",
+    "n-ad9c9181f8",
+    "n-ad1e6a3d0c",
+    "n-abed76ad0f",
+    "n-ab593e345a",
+    "n-ab3713a0b5",
+    "n-a99ab8a6eb",
+    "n-a85f96599d",
+    "n-a7efec38e4",
+    "n-a78c964be6",
+    "n-a61b804416",
+    "n-a60b24ebb5",
+    "n-a5bfdf92c1",
+    "n-a5a6f42edd",
+    "n-a5a478ec38",
+    "n-a54747f312",
+    "n-a316da2631",
+    "n-a2c367a2ab",
+    "n-a2b2f064d2",
+    "n-a1dfc77c2c",
+    "n-a1c9a6a103",
+    "n-a14c05d0aa",
+    "n-a1265a873f",
+    "n-a11d97b87b",
+    "n-a11009c2dc",
+    "n-a0e40ff5d8",
+    "n-a0d5299653",
+    "n-a02ba7b073",
+    "n-9fe0054e15",
+    "n-9fd4c4bd6f",
+    "n-9fce4f9cd3",
+    "n-9e6857e8a9",
+    "n-9e65c4419e",
+    "n-9d1d38dd75",
+    "n-9ce590f831",
+    "n-9bab984caa",
+    "n-99ff299eee",
+    "n-99dadfd9bc",
+    "n-992fb237e4",
+    "n-98db5e9f27",
+    "n-984ac0ee00",
+    "n-982b169c3b",
+    "n-97fff052b7",
+    "n-97e1334295",
+    "n-97cedb7ec2",
+    "n-97c92d3269",
+    "n-9760d7add3",
+    "n-969e5271ff",
+    "n-960836273b",
+    "n-9478ff9243",
+    "n-944c22a8fe",
+    "n-93c82cced4",
+    "n-9371b417f8",
+    "n-9358043c25",
+    "n-920abfb1e3",
+    "n-901220b5b4",
+    "n-8f2e77690e",
+    "n-8ec65997d5",
+    "n-8e75dd0767",
+    "n-8e1566e0c7",
+    "n-8e078019f4",
+    "n-8d546ea894",
+    "n-8cc344a285",
+    "n-8c14423e0d",
+    "n-8b8615589c",
+    "n-8b5f11bc11",
+    "n-8ae442bb62",
+    "n-8a9fb1a4b9",
+    "n-8a4dfeeb5d",
+    "n-8719519a69",
+    "n-868a3aaeef",
+    "n-86875b15aa",
+    "n-86748f8e9e",
+    "n-86023c7979",
+    "n-84568364fd",
+    "n-841bc05497",
+    "n-837f41c777",
+    "n-833da82530",
+    "n-831457a1a0",
+    "n-82f8f06562",
+    "n-82a94d3961",
+    "n-825557a5f2",
+    "n-81ebf14eea",
+    "n-819e122ccd",
+    "n-819b4129d7",
+    "n-80bd00594d",
+    "n-7f6dd4a0bc",
+    "n-7f5e1b5d5a",
+    "n-7f424895fc",
+    "n-7e81500f3d",
+    "n-7e2c33bcb6",
+    "n-7e0c4cc870",
+    "n-7dd296434c",
+    "n-7dca97e2c9",
+    "n-7dc01702da",
+    "n-7d2c69bfe3",
+    "n-7d096b306e",
+    "n-7c1c23a9d1",
+    "n-7bf964cae8",
+    "n-7bd01d988c",
+    "n-7ac4fa4583",
+    "n-7abe53781e",
+    "n-7aa1f96c36",
+    "n-7970b35444",
+    "n-79465fc2da",
+    "n-78d5e0b6be",
+    "n-78395026cf",
+    "n-782f0991a7",
+    "n-77f1dd74e4",
+    "n-77aec57904",
+    "n-75eec0b102",
+    "n-756794e690",
+    "n-75651b6d80",
+    "n-75510d5219",
+    "n-75473141c2",
+    "n-75171cd2c8",
+    "n-740438cbeb",
+    "n-7340bf1aad",
+    "n-7328495c92",
+    "n-7322929b10",
+    "n-7314a6bcc8",
+    "n-7290230618",
+    "n-7254e49ce8",
+    "n-721afd6a19",
+    "n-715fbe9451",
+    "n-7150bbd771",
+    "n-7127c15c53",
+    "n-70c95e5ecb",
+    "n-7071875109",
+    "n-701c94a6a1",
+    "n-6f089116cf",
+    "n-6f05bdf264",
+    "n-6edfc59eed",
+    "n-6e6ec9ab6b",
+    "n-6e1bdb74a2",
+    "n-6de0fad44f",
+    "n-6d8dc4435a",
+    "n-6d500875d2",
+    "n-6d1e8777ce",
+    "n-6cdd78c533",
+    "n-6c5e22fee1",
+    "n-6c34648459",
+    "n-6bd85df8ed",
+    "n-6b8983b2a2",
+    "n-6ae44b1607",
+    "n-6ada41074f",
+    "n-6ab0eb34ad",
+    "n-6a470bac38",
+    "n-6a43f5da48",
+    "n-69ec3b0aaa",
+    "n-68b3b1fae6",
+    "n-68299e89f1",
+    "n-67e41ba5ae",
+    "n-676d66ea41",
+    "n-675f824e2a",
+    "n-6705e4929b",
+    "n-66b11f2c1c",
+    "n-66988bb8af",
+    "n-6624131df0",
+    "n-6607af2693",
+    "n-65c8f1b873",
+    "n-6504693e58",
+    "n-64db3725b4",
+    "n-64c52eaf4d",
+    "n-648054221f",
+    "n-63fc70b541",
+    "n-6398af54be",
+    "n-63310818df",
+    "n-632e606b02",
+    "n-625a62d5de",
+    "n-61e3cf03ac",
+    "n-61589d5fc9",
+    "n-612fbb9ad1",
+    "n-60ec620b9e",
+    "n-5fb7b8ba70",
+    "n-5f58046d55",
+    "n-5efefc3953",
+    "n-5ee5b179bf",
+    "n-5dc5be210a",
+    "n-5d775dee1a",
+    "n-5d5fa885b6",
+    "n-5d526ba827",
+    "n-5cd28a2bd1",
+    "n-5cbb79d999",
+    "n-5b5558fedd",
+    "n-599684b34f",
+    "n-594cd03215",
+    "n-55b3aea30b",
+    "n-55b05978df",
+    "n-5540a93cb5",
+    "n-551508ee8c",
+    "n-549e91e1c0",
+    "n-54505b5f46",
+    "n-5353f88f44",
+    "n-5319c89cd3",
+    "n-520de897dc",
+    "n-51a9d6c3d6",
+    "n-4fb87f050c",
+    "n-4f107b5ebf",
+    "n-4ef65aa7f6",
+    "n-4ed3ebfa1c",
+    "n-4eb63d4caf",
+    "n-4ea5eb69ba",
+    "n-4e2f708bcc",
+    "n-4cb69e9202",
+    "n-4bbbd17d1b",
+    "n-4b652bcc77",
+    "n-4b181dadc0",
+    "n-4aa029af73",
+    "n-4a97c79072",
+    "n-49f80a3add",
+    "n-49a53e09e5",
+    "n-498f6ed5c2",
+    "n-497d40e909",
+    "n-4947cd82cc",
+    "n-4941701283",
+    "n-49188c7915",
+    "n-477068c864",
+    "n-4621bd0727",
+    "n-45b7bbd16b",
+    "n-4514941672",
+    "n-443c254b7f",
+    "n-43108a28d7",
+    "n-42aacd4f9b",
+    "n-4177cab2fa",
+    "n-4176893fdd",
+    "n-4148509833",
+    "n-412ff5547f",
+    "n-4082277aeb",
+    "n-40028a6fe7",
+    "n-3faf75a3a8",
+    "n-3f39baf7da",
+    "n-3f35c2ca4e",
+    "n-3f0a9c0170",
+    "n-3efc7bc4ce",
+    "n-3ec7e1a063",
+    "n-3df0e38055",
+    "n-3d51708a52",
+    "n-3bd8a5bf17",
+    "n-3bacf0e143",
+    "n-3b15326fe8",
+    "n-3a9d69d7e9",
+    "n-3a170e8f1b",
+    "n-396702cfe2",
+    "n-390aed02e2",
+    "n-3905bae486",
+    "n-38e5bcdce7",
+    "n-38e1500c66",
+    "n-3870f53415",
+    "n-386f8faa44",
+    "n-38217f32a6",
+    "n-38018d5d2d",
+    "n-37729ce27a",
+    "n-36fa065b79",
+    "n-369b74ea1a",
+    "n-364be607ee",
+    "n-363a1b03bb",
+    "n-3600f1f8ab",
+    "n-3554d5183b",
+    "n-353bab66f8",
+    "n-347308d9b6",
+    "n-3450949e78",
+    "n-334d920a5d",
+    "n-3347fb1328",
+    "n-32fda16502",
+    "n-32e036715e",
+    "n-32a7d157bd",
+    "n-3297691b6f",
+    "n-31cb32c83a",
+    "n-310e3414f5",
+    "n-30436dd38f",
+    "n-303168f615",
+    "n-2fb0f885be",
+    "n-2facb069d0",
+    "n-2f045eb33c",
+    "n-2e867da591",
+    "n-2e764207bd",
+    "n-2e0520da75",
+    "n-2d7b3093fd",
+    "n-2d08c11049",
+    "n-2c76b163d3",
+    "n-2b7ba5c775",
+    "n-2b71540823",
+    "n-2b3ced63f1",
+    "n-2af9b3efb0",
+    "n-29eb1f831e",
+    "n-29d4083d61",
+    "n-292e34fcb3",
+    "n-29022e4fd2",
+    "n-28ff35cede",
+    "n-289ba243a5",
+    "n-288cee31b2",
+    "n-286154962f",
+    "n-27ea6ab4ef",
+    "n-27ad5cb7b0",
+    "n-27957b3eee",
+    "n-277ef3d868",
+    "n-26bc0bd267",
+    "n-269c40ddd3",
+    "n-264e8c1717",
+    "n-25eed24e0d",
+    "n-2591c503ad",
+    "n-2540f877eb",
+    "n-253f50a66d",
+    "n-240baee803",
+    "n-2393a845fa",
+    "n-238cbd39cb",
+    "n-2340faee72",
+    "n-22b4ad25f5",
+    "n-22448a4fd0",
+    "n-2242c477fb",
+    "n-222b01635c",
+    "n-2222547f97",
+    "n-22001436c1",
+    "n-20c0bd9616",
+    "n-1fff983f43",
+    "n-1ee49081d2",
+    "n-1e7e01ddd7",
+    "n-1e37f80b3f",
+    "n-1d8711ddfd",
+    "n-1c57725150",
+    "n-1b82c038ef",
+    "n-1a5ac07fef",
+    "n-1a301e2ceb",
+    "n-1a26ffa75d",
+    "n-1a1b209e8f",
+    "n-1a1adbb4f3",
+    "n-196adf34af",
+    "n-1957e34ea5",
+    "n-19402c57d8",
+    "n-192b3cf75c",
+    "n-18aead67ea",
+    "n-1857cf1c7a",
+    "n-181f36a473",
+    "n-17e916004b",
+    "n-17be84d500",
+    "n-17b312d487",
+    "n-171634870a",
+    "n-16c3e34986",
+    "n-1651c3d215",
+    "n-160efa0fdb",
+    "n-160cda1ba7",
+    "n-15581903e4",
+    "n-14c8e61352",
+    "n-14a863c9d3",
+    "n-145acbde64",
+    "n-1402aca572",
+    "n-13a562a609",
+    "n-13290b7929",
+    "n-11ae14ece9",
+    "n-1059ecec13",
+    "n-1027303bd3",
+    "n-0f55e4f6a1",
+    "n-0f298b0d41",
+    "n-0ebdd3ab44",
+    "n-0e3939a347",
+    "n-0dea9b891a",
+    "n-0d7aed5e86",
+    "n-0cf91afec3",
+    "n-0c7b2e5273",
+    "n-0c368b4c16",
+    "n-0b4ad29b73",
+    "n-0b1d3c8a99",
+    "n-0ad60b8778",
+    "n-0abfd5c1ff",
+    "n-0ab05cddfc",
+    "n-0a5ac285d9",
+    "n-0a40fd014f",
+    "n-0a1838ff3d",
+    "n-0852dc1008",
+    "n-07db2c49c3",
+    "n-0778115bb1",
+    "n-076b3f0be6",
+    "n-0663ce9db2",
+    "n-0627ff22c0",
+    "n-05fe00f082",
+    "n-05ec9a95a1",
+    "n-052770a8bf",
+    "n-04a79175d6",
+    "n-0481856e9f",
+    "n-044c492370",
+    "n-038f2eebc4",
+    "n-033632d8e0",
+    "n-02ff6518d6",
+    "n-02cbd28ee8",
+    "n-00c9c3996b",
+    "n-006a78034f",
+    "n-000fcd918f"
+  ],
+  "misotts": [
+    "n-044c492370"
   ],
   "mistral": [
     "n-8e2ceecbcb"
@@ -4045,18 +9214,36 @@
   "mistral-3-5": [
     "n-8e2ceecbcb"
   ],
+  "mistral-small": [
+    "n-2af9b3efb0"
+  ],
+  "mistral-small-4": [
+    "n-2af9b3efb0"
+  ],
   "mkdocs": [
     "n-a3f6d0a225",
     "n-9cb04ca5a6"
   ],
+  "mlslabsrenderer-lite": [
+    "n-ced223aa89"
+  ],
+  "mm-ctx": [
+    "n-8ae442bb62"
+  ],
   "mobile-ultra-detailed-animatable-avatars": [
     "n-207ed94fbd"
+  ],
+  "mobilewan": [
+    "n-fcae5fc646"
   ],
   "mocap": [
     "n-aa28911ec6",
     "n-535631e71f",
     "n-501487aec4",
     "n-2fd5e60740"
+  ],
+  "modality-forcing": [
+    "n-9358043c25"
   ],
   "modddif": [
     "n-c8fc3fe21e"
@@ -4395,6 +9582,27 @@
   "model:z-anime": [
     "n-bcef63351f"
   ],
+  "model_releases": [
+    "n-303168f615"
+  ],
+  "modly": [
+    "n-d497328784"
+  ],
+  "modus": [
+    "n-e55f67c729"
+  ],
+  "moebius": [
+    "n-f43e44e73f"
+  ],
+  "molmomotion": [
+    "n-a2c367a2ab"
+  ],
+  "monoart": [
+    "n-969e5271ff"
+  ],
+  "moss": [
+    "n-181f36a473"
+  ],
   "moss-audio": [
     "n-8da3cc43df",
     "n-33f31b6935"
@@ -4402,8 +9610,23 @@
   "moss-audio-8b-thinking": [
     "n-33f31b6935"
   ],
+  "moss-soundeffect": [
+    "n-e6ade9848e"
+  ],
+  "moss-transcribe-diarize": [
+    "n-0663ce9db2"
+  ],
   "moss-tts": [
     "n-f1ea79cf67"
+  ],
+  "moss-video-preview": [
+    "n-833da82530"
+  ],
+  "moss_soundeffect": [
+    "n-e6ade9848e"
+  ],
+  "moss_transcribe_diarize": [
+    "n-0663ce9db2"
   ],
   "motif-video": [
     "n-c56aa9fa27"
@@ -4423,18 +9646,81 @@
   "multi-user-llm-agent": [
     "n-1b656b5ff8"
   ],
+  "multi_agent_frameworks": [
+    "n-7f6dd4a0bc"
+  ],
   "multica": [
     "n-63cbd51a4a"
   ],
+  "multimodal_models": [
+    "n-0c7b2e5273"
+  ],
+  "multisplat": [
+    "n-e5c07a6c4b"
+  ],
+  "muscriptor": [
+    "n-ea52f36353"
+  ],
+  "muse": [
+    "n-d1aace8b4a",
+    "n-3b15326fe8"
+  ],
+  "muse-glimmer": [
+    "n-3b15326fe8"
+  ],
+  "mvtrack4gen": [
+    "n-eca931f946"
+  ],
+  "nanbeige": [
+    "n-b3f3b611a3"
+  ],
+  "nanbeige-4-2-3b": [
+    "n-b3f3b611a3"
+  ],
+  "nanovdr": [
+    "n-a14c05d0aa"
+  ],
+  "nava": [
+    "n-2242c477fb"
+  ],
   "nemotron": [
+    "n-992fb237e4",
     "n-6a0618307a",
+    "n-549e91e1c0",
     "n-1cfc0e728d"
   ],
   "nemotron-3": [
     "n-1cfc0e728d"
   ],
+  "nemotron-3-super": [
+    "n-c0d09bda8b"
+  ],
+  "nemotron-3-ultra": [
+    "n-549e91e1c0"
+  ],
   "nemotron-v2": [
     "n-6a0618307a"
+  ],
+  "nemotron-voicechat": [
+    "n-992fb237e4"
+  ],
+  "netflix": [
+    "n-8ec65997d5"
+  ],
+  "netflix_ai_anime": [
+    "n-8ec65997d5"
+  ],
+  "netflix_mgs": [
+    "n-8ec65997d5"
+  ],
+  "neumatex": [
+    "n-551508ee8c"
+  ],
+  "neural_neighbor_style_transfer": [
+    "n-0d7aed5e86"
+  ],
+  "nexvid": [
+    "n-20c0bd9616"
   ],
   "normal-map": [
     "n-de24cf852f",
@@ -4453,8 +9739,56 @@
   "numpy-synth": [
     "n-c4a452f85d"
   ],
+  "nvidia": [
+    "n-3905bae486"
+  ],
+  "nvidia-cmd": [
+    "n-831457a1a0"
+  ],
+  "nvidia-cosmos": [
+    "n-831457a1a0"
+  ],
+  "nvidia-cosmos-3-edge": [
+    "n-1a1adbb4f3"
+  ],
+  "nvidia-nemotron": [
+    "n-0ad60b8778"
+  ],
+  "nvidia-ntc": [
+    "n-ce536a0efc"
+  ],
+  "nvidia_dlss_technologies": [
+    "n-ce536a0efc"
+  ],
+  "nvidia_nemotron": [
+    "n-0ad60b8778"
+  ],
+  "nvidia_synthetic_video_detector": [
+    "n-0abfd5c1ff"
+  ],
+  "nvila": [
+    "n-69ec3b0aaa"
+  ],
+  "nvila-hd-video": [
+    "n-69ec3b0aaa"
+  ],
+  "nvpanoptix-3d": [
+    "n-49188c7915"
+  ],
+  "nvpanoptix_3d": [
+    "n-49188c7915"
+  ],
   "obscura-remova": [
     "n-daa2681205"
+  ],
+  "obsidian-mind": [
+    "n-b66c6b5fe8"
+  ],
+  "occany": [
+    "n-334d920a5d"
+  ],
+  "odysseus": [
+    "n-c3f798c77b"
   ],
   "odyssey": [
     "n-d8bf4374be"
@@ -4468,11 +9802,35 @@
   "olmpool": [
     "n-ab5423ca1c"
   ],
+  "omma_platform_launch": [
+    "n-42aacd4f9b"
+  ],
+  "omni-diffusion": [
+    "n-0c7b2e5273"
+  ],
+  "omnidirector": [
+    "n-38e5bcdce7"
+  ],
+  "omninft": [
+    "n-eea14f2dcf"
+  ],
+  "omniroute": [
+    "n-3450949e78"
+  ],
   "omnishotcut": [
     "n-bb0f83ff09"
   ],
   "omnishow": [
     "n-03e4a812c8"
+  ],
+  "omnistream": [
+    "n-eab857eece"
+  ],
+  "omnivideo": [
+    "n-2b7ba5c775"
+  ],
+  "omnivideo-7b-qwen2-5-omni": [
+    "n-2b7ba5c775"
   ],
   "omnivoice": [
     "n-665b60a4fc",
@@ -4484,6 +9842,12 @@
   ],
   "onemancompany": [
     "n-2bdd41c2da"
+  ],
+  "onklaud": [
+    "n-63310818df"
+  ],
+  "onyx-ai-matte": [
+    "n-6504693e58"
   ],
   "open": [
     "n-ff03e5bf7b",
@@ -4641,17 +10005,81 @@
   "open-multi-agent": [
     "n-662ab03ff4"
   ],
+  "open_source_release": [
+    "n-353bab66f8"
+  ],
+  "openai": [
+    "n-d76b3cf6c5",
+    "n-303168f615"
+  ],
+  "openai-gpt-5-erdos-math-controversy": [
+    "n-303168f615"
+  ],
+  "openai-safety-testing": [
+    "n-303168f615"
+  ],
+  "openai:chatgpt": [
+    "n-303168f615"
+  ],
+  "openai_bug_bounty": [
+    "n-303168f615"
+  ],
+  "openai_chatgpt_agent": [
+    "n-303168f615"
+  ],
+  "openai_devday_2024": [
+    "n-303168f615"
+  ],
+  "openai_disney": [
+    "n-303168f615"
+  ],
+  "openai_gpt_next": [
+    "n-303168f615"
+  ],
+  "openai_gpt_store_and_updates": [
+    "n-303168f615"
+  ],
+  "openai_reasoning": [
+    "n-303168f615"
+  ],
+  "opencut": [
+    "n-fe5aa54dca"
+  ],
   "opengame": [
     "n-7cc366b545"
   ],
   "openharness": [
     "n-44c547a245"
   ],
+  "openmaic": [
+    "n-4947cd82cc"
+  ],
   "openmobile": [
     "n-02d9e4ba24"
   ],
+  "openmontage": [
+    "n-02cbd28ee8"
+  ],
+  "openmoss": [
+    "n-181f36a473"
+  ],
+  "openresearcher": [
+    "n-60ec620b9e"
+  ],
   "openreview": [
     "n-efaa00d50b"
+  ],
+  "openseeker": [
+    "n-0481856e9f"
+  ],
+  "openvuln": [
+    "n-b8d5334397"
+  ],
+  "openworker": [
+    "n-e3b0bbbd83"
+  ],
+  "orchestra-o1": [
+    "n-7f6dd4a0bc"
   ],
   "organization:ace-step": [
     "n-b9e02bd01a",
@@ -4695,8 +10123,29 @@
     "n-57b1c93e50",
     "n-4920069d82"
   ],
+  "origin": [
+    "n-d9748d5e13"
+  ],
+  "ornith": [
+    "n-ad1e6a3d0c"
+  ],
+  "ornith-1-5": [
+    "n-ad1e6a3d0c"
+  ],
+  "ouroboros": [
+    "n-d7ef7b4828"
+  ],
+  "ovisocr2": [
+    "n-78395026cf"
+  ],
   "p-video-avatar": [
     "n-d4d07dd0bf"
+  ],
+  "packforcing": [
+    "n-5dc5be210a"
+  ],
+  "padcaptioner": [
+    "n-3a9d69d7e9"
   ],
   "paid": [
     "n-f5dbfdb346",
@@ -4719,6 +10168,9 @@
     "n-2fd5e60740",
     "n-2a8f5beb6c",
     "n-08bc14aa3d"
+  ],
+  "pam": [
+    "n-adee3ca551"
   ],
   "paper": [
     "n-fdbf17ddf7",
@@ -4785,6 +10237,27 @@
   "parakeet-0-6b": [
     "n-5b56fca93a"
   ],
+  "pascal_editor": [
+    "n-944c22a8fe"
+  ],
+  "pdf-inspector": [
+    "n-4514941672"
+  ],
+  "pearl": [
+    "n-701c94a6a1"
+  ],
+  "penguin-vl": [
+    "n-77aec57904"
+  ],
+  "percepta-ai": [
+    "n-b495739d31"
+  ],
+  "perceptron-mk1": [
+    "n-f3982b18eb"
+  ],
+  "perceptron_mk1": [
+    "n-f3982b18eb"
+  ],
   "perplexity": [
     "n-a56b9d31b6"
   ],
@@ -4797,23 +10270,64 @@
   "phoneclaw": [
     "n-f3c22d2162"
   ],
+  "photoquilt": [
+    "n-cb62ae01fa"
+  ],
+  "phymotion": [
+    "n-1a301e2ceb"
+  ],
   "physforge": [
     "n-ee38e77991"
   ],
   "pi-hoc": [
     "n-4694b833dd"
   ],
+  "pid": [
+    "n-4176893fdd"
+  ],
   "pika": [
+    "n-c6ff419784",
     "n-807bf78763"
+  ],
+  "pika-directors-suite": [
+    "n-7dd296434c"
+  ],
+  "pikaswaps": [
+    "n-c6ff419784"
   ],
   "pixal3d": [
     "n-9e0a0fba7f"
   ],
   "pixelsmile": [
+    "n-7071875109",
     "n-55968207e4"
+  ],
+  "pixverse": [
+    "n-f108d81c34"
+  ],
+  "pixverse-cli": [
+    "n-f108d81c34"
+  ],
+  "platform_policy": [
+    "n-ba790c8631"
   ],
   "playcoder": [
     "n-fe9036dfac"
+  ],
+  "pocket": [
+    "n-17e916004b"
+  ],
+  "pocket-35b-gguf": [
+    "n-4ef65aa7f6"
+  ],
+  "pocket_models": [
+    "n-4ef65aa7f6"
+  ],
+  "pointdit": [
+    "n-2340faee72"
+  ],
+  "poolside-laguna-s-2-1": [
+    "n-a11d97b87b"
   ],
   "pose": [
     "n-f6c6cdf729",
@@ -4826,6 +10340,9 @@
   ],
   "privacy-filter": [
     "n-1985ad3cff"
+  ],
+  "product_updates": [
+    "n-c724eb9e4c"
   ],
   "project-history": [
     "n-fe2f35c14b",
@@ -4861,11 +10378,29 @@
   "prompt-relay": [
     "n-d4f61075f4"
   ],
+  "proxypose": [
+    "n-cddebb8e59"
+  ],
   "pruna-ai": [
     "n-d4d07dd0bf"
   ],
+  "prunavaed": [
+    "n-3554d5183b"
+  ],
   "psdesigner": [
     "n-da24004da2"
+  ],
+  "pulid": [
+    "n-6ae44b1607"
+  ],
+  "pulse-of-motion": [
+    "n-c969bb3002"
+  ],
+  "pypi-wheel-downloader": [
+    "n-7c1c23a9d1"
+  ],
+  "pypi_wheel_downloader": [
+    "n-7c1c23a9d1"
   ],
   "pytheory": [
     "n-c4a452f85d"
@@ -4876,18 +10411,32 @@
   "qclaw-4b": [
     "n-9af7222826"
   ],
+  "qualcomm-mobilewan": [
+    "n-fcae5fc646"
+  ],
+  "querysplat": [
+    "n-7bd01d988c"
+  ],
   "quickmagic": [
     "n-2fd5e60740"
   ],
   "qwen": [
     "n-dc7072d90a",
+    "n-d791bdd250",
     "n-d755c8bc8a",
+    "n-b63f0f79e7",
     "n-b1f4237092",
+    "n-a99ab8a6eb",
+    "n-a7efec38e4",
     "n-97c6278d46",
     "n-8a620616a1",
     "n-86ce44c208",
     "n-7e83db4168",
     "n-6a60e32785",
+    "n-5d775dee1a",
+    "n-43108a28d7",
+    "n-3f35c2ca4e",
+    "n-32fda16502",
     "n-129b6b09c0",
     "n-04529e7d46",
     "n-019c913613"
@@ -4899,6 +10448,18 @@
   "qwen-3-6": [
     "n-6a60e32785"
   ],
+  "qwen-3-6-plus-preview": [
+    "n-3f35c2ca4e"
+  ],
+  "qwen-3-8-27b": [
+    "n-5d775dee1a"
+  ],
+  "qwen-audio": [
+    "n-af926b6d88"
+  ],
+  "qwen-audio-3-0-tts": [
+    "n-a1dfc77c2c"
+  ],
   "qwen-code": [
     "n-fe2f35c14b",
     "n-e75b2209d4",
@@ -4906,14 +10467,42 @@
     "n-87c78ee187",
     "n-6b5646e730"
   ],
+  "qwen-derivatives": [
+    "n-29022e4fd2"
+  ],
   "qwen-image": [
     "n-9bf7eec688",
     "n-6eab718771",
     "n-589c676a0a",
-    "n-37b2067a0b"
+    "n-37b2067a0b",
+    "n-0cf91afec3"
+  ],
+  "qwen-image-3-0": [
+    "n-0cf91afec3"
   ],
   "qwen-image-edit": [
     "n-250fdb3b1b"
+  ],
+  "qwen-image-flash": [
+    "n-d791bdd250"
+  ],
+  "qwen-mm-plugins": [
+    "n-32fda16502"
+  ],
+  "qwen-video": [
+    "n-a7efec38e4"
+  ],
+  "qwen-video-edit": [
+    "n-9e65c4419e"
+  ],
+  "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf": [
+    "n-ba6ade4c05"
+  ],
+  "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf": [
+    "n-4f107b5ebf"
+  ],
+  "qwen3-5-9b-uncensored-hauhaucs-aggressive": [
+    "n-43108a28d7"
   ],
   "qwen3-5-gemma-4-qwopus": [
     "n-16ee77b7eb"
@@ -4923,6 +10512,9 @@
     "n-97c6278d46",
     "n-019c913613"
   ],
+  "qwen3-6-34b-80l-fable-5-heretic": [
+    "n-d83223a468"
+  ],
   "qwen3-6-35b": [
     "n-8a620616a1",
     "n-04529e7d46"
@@ -4930,11 +10522,108 @@
   "qwen3-6-35b-a3b": [
     "n-129b6b09c0"
   ],
+  "qwen3-8-27b-cold-fusion": [
+    "n-29022e4fd2"
+  ],
+  "qwen3-8-27b-uncensored": [
+    "n-32a7d157bd"
+  ],
+  "qwen3-8-27b-uncensored-mlx": [
+    "n-49a53e09e5"
+  ],
+  "qwen3-8-flash-next": [
+    "n-a99ab8a6eb"
+  ],
+  "qwen3-8-max": [
+    "n-b63f0f79e7"
+  ],
+  "qwen3-asr": [
+    "n-0e3939a347"
+  ],
+  "qwen3-forcedaligner-0-6b-hf": [
+    "n-0e3939a347"
+  ],
   "qwen3-tts": [
-    "n-d755c8bc8a"
+    "n-d755c8bc8a",
+    "n-4eb63d4caf"
+  ],
+  "qwen3_5_27b_claude_4_6_opus_reasoning_distilled_gguf": [
+    "n-ba6ade4c05"
+  ],
+  "qwen3_5_40b_claude_4_6_opus_deckard_heretic_uncensored_thinking_gguf": [
+    "n-4f107b5ebf"
+  ],
+  "qwen3_8_uncensored_hauhaucs": [
+    "n-32a7d157bd"
+  ],
+  "qwen3_8_uncensored_mlx": [
+    "n-49a53e09e5"
+  ],
+  "qwen3_tts": [
+    "n-4eb63d4caf"
+  ],
+  "qwen_audio_3_0_tts": [
+    "n-a1dfc77c2c"
+  ],
+  "qwen_image_2512": [
+    "n-fec11a299f"
+  ],
+  "qwen_model_updates": [
+    "n-a7efec38e4"
+  ],
+  "qwopus": [
+    "n-d4f7f53653"
+  ],
+  "qwopus3-5-9b-coder": [
+    "n-2540f877eb"
+  ],
+  "qwopus3-6-27b-coder-mtp": [
+    "n-8b5f11bc11"
+  ],
+  "qwopus3-6-27b-v2": [
+    "n-d4f7f53653"
+  ],
+  "qwopus3_5_9b_coder": [
+    "n-2540f877eb"
+  ],
+  "qwopus3_6": [
+    "n-8b5f11bc11"
+  ],
+  "qwythos": [
+    "n-7dca97e2c9"
+  ],
+  "qwythos-27b-v1": [
+    "n-7dca97e2c9"
+  ],
+  "qwythos-9b-claude-mythos-5": [
+    "n-82a94d3961"
+  ],
+  "ramp-router": [
+    "n-2393a845fa"
+  ],
+  "raon-opentts": [
+    "n-40028a6fe7"
   ],
   "rawgen": [
     "n-c449ab03a6"
+  ],
+  "ray": [
+    "n-29d4083d61"
+  ],
+  "real-time voice AI": [
+    "n-54505b5f46"
+  ],
+  "realism-engine-ideogram-4": [
+    "n-f2b3361da7"
+  ],
+  "realism-enhancer-krea2": [
+    "n-93c82cced4"
+  ],
+  "realmaster": [
+    "n-7e0c4cc870"
+  ],
+  "realrestorer": [
+    "n-920abfb1e3"
   ],
   "realtime": [
     "n-f57cbec8b9",
@@ -4969,11 +10658,28 @@
   "realtime-tts-2": [
     "n-2ffed2d338"
   ],
+  "rechannel": [
+    "n-5cd28a2bd1"
+  ],
   "reconviagen": [
     "n-461304d95b"
   ],
+  "redesign": [
+    "n-78d5e0b6be"
+  ],
   "refineanything": [
     "n-10b1471000"
+  ],
+  "regulatory_actions": [
+    "n-b7c4d9268f",
+    "n-66988bb8af",
+    "n-14a863c9d3"
+  ],
+  "reka": [
+    "n-f49e4ee649"
+  ],
+  "reka_edge": [
+    "n-f49e4ee649"
   ],
   "replaceme": [
     "n-18cb9608e2"
@@ -4981,8 +10687,20 @@
   "research-intake": [
     "n-8a14fda3a6"
   ],
+  "researchstudio": [
+    "n-cf19d00e70"
+  ],
   "reshoot-anything": [
     "n-8a851b82d9"
+  ],
+  "rest2art": [
+    "n-052770a8bf"
+  ],
+  "retimegs": [
+    "n-7f5e1b5d5a"
+  ],
+  "rigs": [
+    "n-240baee803"
   ],
   "ring": [
     "n-58129455d1"
@@ -5002,24 +10720,55 @@
   "rotorquant": [
     "n-553243c913"
   ],
+  "router": [
+    "n-f241b400a1"
+  ],
   "rowboat": [
     "n-11e8a99b4c"
   ],
   "rs-nodes": [
     "n-c66b8c38b0"
   ],
+  "runway-aleph": [
+    "n-f52983ecb7"
+  ],
+  "runway-aleph-2": [
+    "n-f52983ecb7"
+  ],
   "rvr": [
     "n-b6c1907179"
+  ],
+  "s3t-former": [
+    "n-6ab0eb34ad"
+  ],
+  "sam-mt": [
+    "n-07db2c49c3"
+  ],
+  "sam2matting": [
+    "n-86023c7979"
+  ],
+  "sam_mt": [
+    "n-07db2c49c3"
+  ],
+  "sama": [
+    "n-6e1bdb74a2"
   ],
   "sana": [
     "n-f8cc9060c3",
     "n-f6f78aa8d5",
     "n-e76fc8f96f",
     "n-c185396a2b",
+    "n-aefede82fd",
     "n-a78b2b7401",
     "n-95cbbfe193",
     "n-5e3859fa47",
     "n-04bc8d2a40"
+  ],
+  "sana-streaming": [
+    "n-9bab984caa"
+  ],
+  "sana_streaming": [
+    "n-9bab984caa"
   ],
   "sapiens": [
     "n-aa28911ec6"
@@ -5028,9 +10777,11 @@
     "n-aa28911ec6"
   ],
   "scail": [
+    "n-7e81500f3d",
     "n-0cf9d026b8"
   ],
   "scail-2": [
+    "n-7e81500f3d",
     "n-0cf9d026b8"
   ],
   "scene": [
@@ -5055,6 +10806,9 @@
     "n-1e0d9b8388",
     "n-110bebc860"
   ],
+  "scope": [
+    "n-cf8c575ede"
+  ],
   "sdxs": [
     "n-f24b5871aa"
   ],
@@ -5064,11 +10818,24 @@
   "sdxs-1b-upscaler": [
     "n-f24b5871aa"
   ],
+  "seamless-equirectangular-lora": [
+    "n-ffa7213d37"
+  ],
+  "see-through": [
+    "n-4a97c79072"
+  ],
+  "see_through_release": [
+    "n-4a97c79072"
+  ],
   "seed": [
     "n-ea73b925dc"
   ],
   "seed-2-0": [
     "n-ea73b925dc"
+  ],
+  "seed-audio": [
+    "n-5540a93cb5",
+    "n-0a1838ff3d"
   ],
   "seed-voice": [
     "n-5d75a2276e"
@@ -5078,16 +10845,45 @@
   ],
   "seedance": [
     "n-e4d5ff5436",
+    "n-7dc01702da",
     "n-49e8a26e33"
   ],
   "seedance-2-0": [
+    "n-ee301ec91c",
     "n-e4d5ff5436"
+  ],
+  "seedance_2_0_evaluations": [
+    "n-ee301ec91c"
+  ],
+  "seedance_2_0_integrations": [
+    "n-68299e89f1"
+  ],
+  "seeddance": [
+    "n-0852dc1008"
+  ],
+  "seedrealtime": [
+    "n-af01bc34de"
+  ],
+  "seedream": [
+    "n-740438cbeb"
+  ],
+  "seedream-5-pro": [
+    "n-740438cbeb"
   ],
   "seeduplex": [
     "n-5d75a2276e"
   ],
+  "seedvr": [
+    "n-98db5e9f27"
+  ],
+  "seedvr2": [
+    "n-98db5e9f27"
+  ],
   "seeing-fast-and-slow": [
     "n-b1f200df41"
+  ],
+  "sefi-image": [
+    "n-1857cf1c7a"
   ],
   "segmentation": [
     "n-ebeab9837a",
@@ -5101,15 +10897,47 @@
     "n-23270485c3",
     "n-1c50287b34"
   ],
+  "self-gradient-forcing": [
+    "n-e9d344fa77"
+  ],
+  "self_gradient_forcing": [
+    "n-e9d344fa77"
+  ],
   "semantic-progress-function": [
     "n-b18df4c1c8"
   ],
   "sensenova": [
     "n-4a638abcfe",
-    "n-41c999d507"
+    "n-41c999d507",
+    "n-000fcd918f"
+  ],
+  "sensenova-vision": [
+    "n-6de0fad44f"
+  ],
+  "seoul-world-model": [
+    "n-3a170e8f1b"
+  ],
+  "shotstream": [
+    "n-dbba09c3a2"
+  ],
+  "shotverse": [
+    "n-960836273b"
+  ],
+  "shuttermuse": [
+    "n-eaa0dc5be8"
   ],
   "sillytavern": [
     "n-fa9c04297f"
+  ],
+  "simart": [
+    "n-b3548b068b",
+    "n-5cbb79d999"
+  ],
+  "siq-1-35b": [
+    "n-38018d5d2d"
+  ],
+  "siq_1_35b": [
+    "n-38018d5d2d"
   ],
   "site-identity": [
     "n-a3f6d0a225"
@@ -5117,11 +10945,30 @@
   "sloplobster": [
     "n-2dbef67328"
   ],
+  "sma": [
+    "n-f1f27d1e3a"
+  ],
+  "smhfacct/minimax-h3-fl2va-ref2va-hybrid-models": [
+    "n-faa53b79d3"
+  ],
+  "sol-attn": [
+    "n-aefede82fd"
+  ],
+  "solar-open-2": [
+    "n-2d08c11049"
+  ],
+  "solar_open_2": [
+    "n-2d08c11049"
+  ],
   "sommelier": [
     "n-b107eae70b"
   ],
   "sonilo": [
-    "n-694e3b1cf5"
+    "n-694e3b1cf5",
+    "n-386f8faa44"
+  ],
+  "sonilo-v1-1": [
+    "n-386f8faa44"
   ],
   "spark": [
     "n-110bebc860"
@@ -5129,8 +10976,23 @@
   "spark-2-0": [
     "n-110bebc860"
   ],
+  "sparkvsr": [
+    "n-e48a82e567"
+  ],
   "spatial-studio": [
     "n-f4c04ff479"
+  ],
+  "spatial-ttt": [
+    "n-171634870a"
+  ],
+  "spatial_ttt": [
+    "n-171634870a"
+  ],
+  "spatialboost": [
+    "n-e2e11bcd53"
+  ],
+  "spatialclaw": [
+    "n-3905bae486"
   ],
   "spatialedit": [
     "n-3fedc168df"
@@ -5144,6 +11006,24 @@
   "spectrum": [
     "n-58225bc7d0"
   ],
+  "splatlight": [
+    "n-7322929b10"
+  ],
+  "spline-omma": [
+    "n-42aacd4f9b"
+  ],
+  "stability_ai": [
+    "n-a5a478ec38"
+  ],
+  "stable-layers": [
+    "n-a5a478ec38"
+  ],
+  "starchild-1": [
+    "n-b636bdc989"
+  ],
+  "starchild_1": [
+    "n-b636bdc989"
+  ],
   "statistics": [
     "n-690d423e11"
   ],
@@ -5152,6 +11032,15 @@
   ],
   "stream": [
     "n-09f901429d"
+  ],
+  "stream-fm": [
+    "n-51a9d6c3d6"
+  ],
+  "stream_fm": [
+    "n-51a9d6c3d6"
+  ],
+  "stripe": [
+    "n-4b652bcc77"
   ],
   "styleid": [
     "n-9f3f263dfe"
@@ -5162,14 +11051,41 @@
   "sulphur-2": [
     "n-8913c98771"
   ],
+  "sun-direction-lora-flux2-klein-9b": [
+    "n-36fa065b79"
+  ],
+  "suno": [
+    "n-3d51708a52"
+  ],
+  "suno-studio": [
+    "n-3d51708a52"
+  ],
+  "sunwood-ai-labs/minimax-music3-studio": [
+    "n-a11009c2dc"
+  ],
   "superset": [
     "n-73d2d5938e"
+  ],
+  "supersplat": [
+    "n-afce40f186"
+  ],
+  "supertonic": [
+    "n-27ea6ab4ef"
   ],
   "superwhisper": [
     "n-08bc14aa3d"
   ],
+  "surflo": [
+    "n-5f58046d55"
+  ],
   "svgs": [
     "n-f735b8e846"
+  ],
+  "swe_bench_verified": [
+    "n-303168f615"
+  ],
+  "swiftvr": [
+    "n-e3f801a8ba"
   ],
   "sync-3": [
     "n-cd25320940"
@@ -5183,6 +11099,15 @@
   "sync-so": [
     "n-d883c4c40c"
   ],
+  "synthetic-video-detector": [
+    "n-0abfd5c1ff"
+  ],
+  "synthid-bypass": [
+    "n-63fc70b541"
+  ],
+  "synthid_bypass": [
+    "n-63fc70b541"
+  ],
   "telegram": [
     "n-fe2f35c14b",
     "n-f8cc9060c3",
@@ -5190,6 +11115,7 @@
     "n-e75b2209d4",
     "n-dc75b3cb12",
     "n-d5883c87bf",
+    "n-c32e26254c",
     "n-c185396a2b",
     "n-b65d8e8b42",
     "n-ae780669a1",
@@ -5207,6 +11133,33 @@
     "n-37b2067a0b",
     "n-061c80a1dc",
     "n-04bc8d2a40"
+  ],
+  "telegram_product_updates": [
+    "n-c32e26254c"
+  ],
+  "tencent-ailab": [
+    "n-77aec57904"
+  ],
+  "tencent-hunyuan": [
+    "n-17be84d500"
+  ],
+  "tencent/evie-preview-4.5b": [
+    "n-0f55e4f6a1"
+  ],
+  "tencent/ui-mate": [
+    "n-3f39baf7da"
+  ],
+  "tencentdb-agent-memory": [
+    "n-1402aca572"
+  ],
+  "tencentdb_agent_memory": [
+    "n-1402aca572"
+  ],
+  "teraspace/terattsv2": [
+    "n-32e036715e"
+  ],
+  "terattsv2": [
+    "n-32e036715e"
   ],
   "text-to-image": [
     "n-eaa27c5213",
@@ -5255,14 +11208,32 @@
     "n-09ee25f7d5",
     "n-0588f1e672"
   ],
+  "thestageai-elastic-wan22-i2v": [
+    "n-253f50a66d"
+  ],
   "thinking-machines": [
     "n-972d1e2832"
   ],
   "thinking-with-visual-primitives-tvp": [
     "n-2244c25f96"
   ],
+  "thinkingcap-qwen3-6-27b": [
+    "n-5b5558fedd"
+  ],
   "thinksound": [
     "n-8fe6695c64"
+  ],
+  "three-mediapipe-rig": [
+    "n-160cda1ba7"
+  ],
+  "timelens2": [
+    "n-22448a4fd0"
+  ],
+  "timeslice-nodes": [
+    "n-04a79175d6"
+  ],
+  "timeslice_nodes": [
+    "n-04a79175d6"
   ],
   "tinymu": [
     "n-bec376434e"
@@ -5320,10 +11291,19 @@
     "n-0739891476",
     "n-02e0b8ae6c"
   ],
+  "topaz-starlight-precise": [
+    "n-d22e265efd"
+  ],
   "training": [
     "n-c96f664d5d",
     "n-c66b8c38b0",
     "n-06b8f54c97"
+  ],
+  "transcribe-cpp": [
+    "n-1059ecec13"
+  ],
+  "treblo": [
+    "n-a60b24ebb5"
   ],
   "trellis": [
     "n-d7c3a5e60e"
@@ -5337,14 +11317,59 @@
   "tribe": [
     "n-f9bd7f602b"
   ],
+  "tripo": [
+    "n-f80e0da140"
+  ],
+  "triposg_triposf": [
+    "n-f80e0da140"
+  ],
+  "triposplat": [
+    "n-38e1500c66"
+  ],
+  "tritant/comfyui_minimax_h3_extender": [
+    "n-756794e690"
+  ],
+  "tsantsalize": [
+    "n-6607af2693"
+  ],
+  "tulongfeng-yitianzhen": [
+    "n-6a43f5da48"
+  ],
   "tuna": [
     "n-44592b77d5"
   ],
   "tuna-2": [
     "n-44592b77d5"
   ],
+  "turboquant": [
+    "n-3870f53415"
+  ],
+  "tutu": [
+    "n-4e2f708bcc"
+  ],
+  "tutu-mcp": [
+    "n-4e2f708bcc"
+  ],
+  "uembed": [
+    "n-75473141c2"
+  ],
+  "ui-mate": [
+    "n-3f39baf7da"
+  ],
+  "ultra-real-klein-9b": [
+    "n-277ef3d868"
+  ],
+  "ultrareal-krea2": [
+    "n-984ac0ee00"
+  ],
   "uma": [
     "n-207ed94fbd"
+  ],
+  "umo": [
+    "n-b02f3b33b7"
+  ],
+  "uni-1": [
+    "n-006a78034f"
   ],
   "uni-vigu": [
     "n-a5ceb23735"
@@ -5354,6 +11379,9 @@
   ],
   "unicorrn": [
     "n-a3c0ebdd3a"
+  ],
+  "unid": [
+    "n-5ee5b179bf"
   ],
   "unify-agent": [
     "n-c9e1e40a9c"
@@ -5367,11 +11395,35 @@
   "unirelight": [
     "n-49b64d4933"
   ],
+  "unitree": [
+    "n-e584d1d2e9"
+  ],
+  "unitree-gd01": [
+    "n-e584d1d2e9"
+  ],
   "unity-ai": [
     "n-e60825c137"
   ],
+  "unity-cli": [
+    "n-2fb0f885be"
+  ],
+  "unity_cli": [
+    "n-2fb0f885be"
+  ],
+  "unityshots": [
+    "n-c41ee335f6"
+  ],
+  "unitysplats": [
+    "n-9fd4c4bd6f"
+  ],
   "unividx": [
     "n-70e759ac2b"
+  ],
+  "univr": [
+    "n-cc2ada061c"
+  ],
+  "unlimited-ocr": [
+    "n-86875b15aa"
   ],
   "unsloth": [
     "n-a3aa871dfa",
@@ -5379,6 +11431,9 @@
     "n-69431eb7bc",
     "n-57b1c93e50",
     "n-4920069d82"
+  ],
+  "upal": [
+    "n-7314a6bcc8"
   ],
   "upscale": [
     "n-f24b5871aa",
@@ -5388,14 +11443,50 @@
     "n-34034d382e",
     "n-1b11977658"
   ],
+  "v-jepa": [
+    "n-17b312d487"
+  ],
+  "v-rae": [
+    "n-4177cab2fa"
+  ],
+  "v_rae": [
+    "n-4177cab2fa"
+  ],
   "vanast": [
     "n-e33dfb0bdb"
+  ],
+  "velorn": [
+    "n-c73bfca8d3"
+  ],
+  "veo_model_releases": [
+    "n-ca4cb3b16f"
+  ],
+  "vercel-fx": [
+    "n-396702cfe2"
+  ],
+  "vibe-coding-xr": [
+    "n-16c3e34986"
   ],
   "vibecomfy": [
     "n-6b3a93f373"
   ],
   "vibecomfy-2-0": [
     "n-6b3a93f373"
+  ],
+  "vibevoice": [
+    "n-9fe0054e15"
+  ],
+  "vibevoice-asr-bitnet": [
+    "n-9fe0054e15"
+  ],
+  "vibeworlding": [
+    "n-8b8615589c"
+  ],
+  "video-deepresearch": [
+    "n-038f2eebc4"
+  ],
+  "video-production-skills": [
+    "n-1a5ac07fef"
   ],
   "video-to-video": [
     "n-ebeab9837a",
@@ -5412,8 +11503,35 @@
     "n-2af8215f2c",
     "n-18c1e67c85"
   ],
+  "video-to-world": [
+    "n-2f045eb33c"
+  ],
   "video-use": [
     "n-047f61d312"
+  ],
+  "video_restoration": [
+    "n-e3f801a8ba"
+  ],
+  "video_to_world": [
+    "n-2f045eb33c"
+  ],
+  "videococo": [
+    "n-497d40e909"
+  ],
+  "videoneumat": [
+    "n-1c57725150"
+  ],
+  "vidu": [
+    "n-819e122ccd"
+  ],
+  "vifeedit": [
+    "n-ded5155805"
+  ],
+  "violin": [
+    "n-3347fb1328"
+  ],
+  "visa_vvah": [
+    "n-498f6ed5c2"
   ],
   "vista4d": [
     "n-d9b76e73f7"
@@ -5445,6 +11563,9 @@
     "n-1b0490d011",
     "n-18331ebc79"
   ],
+  "vocalrender": [
+    "n-4621bd0727"
+  ],
   "voice-clone": [
     "n-f1ea79cf67",
     "n-dfe5e1e7a6",
@@ -5465,31 +11586,71 @@
     "n-83af6888de",
     "n-08ae804484"
   ],
+  "volumography": [
+    "n-ef5357108f"
+  ],
+  "volumography_launch": [
+    "n-ef5357108f"
+  ],
   "voxcpm": [
     "n-d7b1c6bb36"
   ],
   "voxcpm2": [
     "n-d7b1c6bb36"
   ],
+  "voxtral": [
+    "n-da87b7d4da"
+  ],
   "vr-360-outpaint-ltx2-3-ic": [
     "n-9a27202165"
+  ],
+  "vvah": [
+    "n-498f6ed5c2"
   ],
   "wan": [
     "n-d9eaebd61d",
     "n-d745776a36",
-    "n-cf88820803"
+    "n-cf88820803",
+    "n-7d096b306e",
+    "n-2b71540823"
   ],
   "wan-2-7": [
     "n-d9eaebd61d"
   ],
+  "wan-animate": [
+    "n-4fb87f050c"
+  ],
+  "wan-animate-2": [
+    "n-4fb87f050c"
+  ],
+  "wan-dancer": [
+    "n-1b82c038ef"
+  ],
+  "wan-streamer": [
+    "n-a54747f312",
+    "n-15581903e4"
+  ],
   "wan2-2": [
-    "n-cf88820803"
+    "n-cf88820803",
+    "n-b1bee57937"
+  ],
+  "wan2-2-nvfp4-sparse": [
+    "n-7d096b306e"
+  ],
+  "wan2-2-quantization": [
+    "n-b1bee57937"
   ],
   "wan2-7": [
     "n-d745776a36"
   ],
+  "wan_dancer": [
+    "n-1b82c038ef"
+  ],
   "wanvideo": [
     "n-332335c756"
+  ],
+  "wavtts": [
+    "n-75eec0b102"
   ],
   "waypoint": [
     "n-2090ac5f1b"
@@ -5533,20 +11694,53 @@
     "n-093c066bee",
     "n-0588f1e672"
   ],
+  "what-to-edit-next": [
+    "n-c4e41aef2b"
+  ],
+  "whatmodels": [
+    "n-dd9a3a9b07"
+  ],
+  "whisper-podlodka-turbo": [
+    "n-49f80a3add"
+  ],
   "wiki-links": [
     "n-048b3192a0"
   ],
   "wilddet3d": [
     "n-c5207bfa4a"
   ],
+  "windows-copilot-api": [
+    "n-25eed24e0d"
+  ],
+  "witheveryone": [
+    "n-f57cbf8f0c"
+  ],
   "world-r1": [
     "n-5db7fa704b"
+  ],
+  "worldcam": [
+    "n-8e1566e0c7"
+  ],
+  "x-dub": [
+    "n-a5bfdf92c1"
   ],
   "x-sam": [
     "n-1c50287b34"
   ],
+  "x-voice": [
+    "n-7290230618"
+  ],
   "x2sam": [
     "n-1c50287b34"
+  ],
+  "xiaomi-mimo-code": [
+    "n-99dadfd9bc"
+  ],
+  "xyz-studio": [
+    "n-2b3ced63f1"
+  ],
+  "yags": [
+    "n-82f8f06562"
   ],
   "yedp": [
     "n-501487aec4"
@@ -5559,7 +11753,34 @@
     "n-bcef63351f",
     "n-9744e9b73c"
   ],
+  "z-image-turbo-plus-plus": [
+    "n-7f424895fc"
+  ],
+  "z-image-turbo-sda": [
+    "n-675f824e2a"
+  ],
+  "z_image": [
+    "n-7f424895fc"
+  ],
+  "z_image_turbo_sda": [
+    "n-675f824e2a"
+  ],
+  "zai-org/openvuln": [
+    "n-b8d5334397"
+  ],
+  "zcode": [
+    "n-1d8711ddfd"
+  ],
+  "zcode_ide": [
+    "n-1d8711ddfd"
+  ],
+  "zeta-chroma": [
+    "n-b977739627"
+  ],
   "zveroboy-photo": [
     "n-df8413780a"
+  ],
+  "δ-mem": [
+    "n-ca13b9fa04"
   ]
 }

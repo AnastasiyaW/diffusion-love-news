@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f0c1036242",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax-H3 x Z-Image native and GGUF repositories were linked",
+ "summary": "On 2026-08-24, the MiniMax-H3 x Z-Image development line was associated with Hugging Face links for a native repository and a GGUF repository. This is a material distribution step because it identifies two model-format access points, although the available record does not establish their release status, contents, or compatibility.",
+ "research_notes": "",
+ "project": {
+  "name": "MiniMax-H3 x Z-Image",
+  "family_slug": "minimax-h3-x-z-image",
+  "family_display": "MiniMax H3 x Z Image",
+  "model_slug": "minimax-h3-x-z-image",
+  "model_display": "MiniMax-H3 x Z-Image",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax-H3 x Z-Image",
+  "family:minimax-h3-x-z-image",
+  "minimax-h3-x-z-image",
+  "minimax_h3_x_z_image",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-h3-x-z-image"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-native/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "http://huggingface.co/joeygambino/MiniMax-H3-x-Z-Image-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-24",
+  "excerpt": "On 2026-08-24, the MiniMax-H3 x Z-Image development line was associated with Hugging Face links for a native repository and a GGUF repository. This is a material distribution step because it identifies two model-format access points, although the available record does not establish their release status, contents, or compatibility."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

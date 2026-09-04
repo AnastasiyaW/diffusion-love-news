@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f2b3361da7",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hugging Face project resource recorded for Realism_Engine_Ideogram_4",
+ "summary": "On 2026-06-11, this development line included a link to a Hugging Face resource for Realism_Engine_Ideogram_4. The dated link establishes an identifiable project resource associated with the line at that time. The available evidence does not establish its release status, contents, training method, or compatibility.",
+ "research_notes": "",
+ "project": {
+  "name": "Realism_Engine_Ideogram_4",
+  "family_slug": "realism-engine-ideogram-4",
+  "family_display": "Realism Engine Ideogram 4",
+  "model_slug": "realism-engine-ideogram-4",
+  "model_display": "Realism_Engine_Ideogram_4",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Realism_Engine_Ideogram_4",
+  "family:realism-engine-ideogram-4",
+  "ideogram-lora",
+  "misc",
+  "realism-engine-ideogram-4"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "realism-engine-ideogram-4"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/RazzzHF/Realism_Engine_Ideogram_4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-11",
+  "excerpt": "On 2026-06-11, this development line included a link to a Hugging Face resource for Realism_Engine_Ideogram_4. The dated link establishes an identifiable project resource associated with the line at that time. The available evidence does not establish its release status, contents, training method, or compatibility."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

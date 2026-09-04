@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4148509833",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GLM-5.3-Flash was introduced with official model and documentation links",
+ "summary": "On 2026-08-26, GLM-5.3-Flash was presented through linked Z.ai, Hugging Face, and documentation resources. The linked set identifies a development milestone for the project, including a model destination and a guide for its VLM use.",
+ "research_notes": "",
+ "project": {
+  "name": "GLM-5.3-Flash",
+  "family_slug": "glm-5-3-flash",
+  "family_display": "GLM 5.3 Flash",
+  "model_slug": "glm-5-3-flash",
+  "model_display": "GLM-5.3-Flash",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GLM-5.3-Flash",
+  "family:glm-5-3-flash",
+  "glm",
+  "glm-5-3-flash",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "glm-5-3-flash"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://z.ai/blog/glm-5.3-flash",
+   "host": "z.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3Azai-org%2FGLM-5.3-Flash",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.z.ai/guides/vlm/glm-5.3-flash",
+   "host": "docs.z.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-26",
+  "excerpt": "On 2026-08-26, GLM-5.3-Flash was presented through linked Z.ai, Hugging Face, and documentation resources. The linked set identifies a development milestone for the project, including a model destination and a guide for its VLM use."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

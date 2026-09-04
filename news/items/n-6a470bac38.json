@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6a470bac38",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "An INT8 Flux2-Klein checkpoint and ComfyUI integration became available",
+ "summary": "On 2026-07-01, a Hugging Face repository exposed an INT8 ConvRot checkpoint for Flux2-Klein-9B True V3. The dated links also connected it to a ComfyUI-focused INT8 integration repository, marking a practical distribution step for local inference users.",
+ "research_notes": "",
+ "project": {
+  "name": "Flux2-Klein",
+  "family_slug": "flux2-klein",
+  "family_display": "Flux2 Klein",
+  "model_slug": "flux2-klein",
+  "model_display": "Flux2-Klein",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Flux2-Klein",
+  "family:flux2-klein",
+  "flux",
+  "flux2-klein",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "flux2-klein"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3/blob/main/Flux2-Klein-9B-True-V3-INT8-ConvRot.safetensors",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/BobJohnson24/ComfyUI-INT8-Fast",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, a Hugging Face repository exposed an INT8 ConvRot checkpoint for Flux2-Klein-9B True V3. The dated links also connected it to a ComfyUI-focused INT8 integration repository, marking a practical distribution step for local inference users."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

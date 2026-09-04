@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-fb888fd82d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Hunyuan3D-Buffalo 1.0 project resources were published",
+ "summary": "On 2026-08-10, Hunyuan3D-Buffalo 1.0 was associated with an official project page and a Tencent-Hunyuan GitHub repository. Based on those dated links alone, this was a material public availability step in the project's development history. Specific capabilities, release status, and implementation details are not established by the available evidence.",
+ "research_notes": "",
+ "project": {
+  "name": "Hunyuan3D-Buffalo 1.0",
+  "family_slug": "hunyuan3d-buffalo-1-0",
+  "family_display": "Hunyuan3D Buffalo 1.0",
+  "model_slug": "hunyuan3d-buffalo-1-0",
+  "model_display": "Hunyuan3D-Buffalo 1.0",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Hunyuan3D-Buffalo 1.0",
+  "family:hunyuan3d-buffalo-1-0",
+  "hunyuan3d",
+  "hunyuan3d-buffalo-1-0",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "hunyuan3d-buffalo-1-0"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://tencent-hunyuan.github.io/Hunyuan3D-Buffalo1.0/",
+   "host": "tencent-hunyuan.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/Hunyuan3D-Buffalo1.0",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-10",
+  "excerpt": "On 2026-08-10, Hunyuan3D-Buffalo 1.0 was associated with an official project page and a Tencent-Hunyuan GitHub repository. Based on those dated links alone, this was a material public availability step in the project's development history. Specific capabilities, release status, and implementation details are not established by the available evidence."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

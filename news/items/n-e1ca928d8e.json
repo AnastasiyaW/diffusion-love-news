@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e1ca928d8e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Canva published a Magic Layers newsroom update.",
+ "summary": "On 2026-03-13, Canva published an official newsroom item about Magic Layers. The contemporaneous Canva homepage link also highlighted Magic Layers, indicating that it was being presented as a current company product development. No specific capabilities or release scope are stated here because the underlying source text was not supplied.",
+ "research_notes": "",
+ "project": {
+  "name": "Canva",
+  "family_slug": "canva",
+  "family_display": "Canva",
+  "model_slug": "canva",
+  "model_display": "Canva",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Canva",
+  "canva",
+  "canva_magic_layers",
+  "family:canva",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "canva"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.canva.com/newsroom/news/magic-layers/",
+   "host": "canva.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.canva.com/?highlight=magicLayers",
+   "host": "canva.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-13",
+  "excerpt": "On 2026-03-13, Canva published an official newsroom item about Magic Layers. The contemporaneous Canva homepage link also highlighted Magic Layers, indicating that it was being presented as a current company product development. No specific capabilities or release scope are stated here because the underlying source text was not supplied."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

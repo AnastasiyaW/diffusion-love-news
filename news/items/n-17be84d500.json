@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-17be84d500",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "HY-WU official project resources became available",
+ "summary": "On 2026-03-06, official HY-WU resources were linked through a project site, a GitHub repository, and a Hugging Face page. This is a public project-distribution milestone, although the supplied evidence does not establish the release's capabilities, version, or announcement details.",
+ "research_notes": "",
+ "project": {
+  "name": "HY-WU",
+  "family_slug": "hy-wu",
+  "family_display": "HY WU",
+  "model_slug": "hy-wu",
+  "model_display": "HY-WU",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HY-WU",
+  "family:hy-wu",
+  "hy-wu",
+  "misc",
+  "tencent-hunyuan"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "hy-wu"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://tencent-hy-wu.github.io/",
+   "host": "tencent-hy-wu.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Tencent-Hunyuan/HY-WU",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/tencent/HY-WU",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-06",
+  "excerpt": "On 2026-03-06, official HY-WU resources were linked through a project site, a GitHub repository, and a Hugging Face page. This is a public project-distribution milestone, although the supplied evidence does not establish the release's capabilities, version, or announcement details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

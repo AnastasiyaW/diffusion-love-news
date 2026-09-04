@@ -10,7 +10,7 @@
  "project": {
   "name": "Wan2.2-Distill-Models",
   "family_slug": "wan",
-  "family_display": "Wan2.2-Distill-Models",
+  "family_display": "WAN",
   "model_slug": "wan2-2",
   "model_display": "Wan2.2",
   "version": null,

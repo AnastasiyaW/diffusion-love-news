@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.5 / Gemma-4 / Qwopus",
   "family_slug": "gguf-models",
-  "family_display": "Qwen3.5 / Gemma-4 / Qwopus",
+  "family_display": "Gguf Models",
   "model_slug": "qwen3-5-gemma-4-qwopus",
   "model_display": "Qwen3.5 / Gemma-4 / Qwopus",
   "version": null,

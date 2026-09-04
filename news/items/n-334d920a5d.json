@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-334d920a5d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OccAny public project resources shared",
+ "summary": "On 2026-03-25, a dated OccAny reference linked a project page, a GitHub repository, and a Hugging Face page. This is treated as a material public-availability milestone for the project, while the supplied links alone do not establish a release version, technical results, or licensing terms.",
+ "research_notes": "",
+ "project": {
+  "name": "OccAny",
+  "family_slug": "occany",
+  "family_display": "OccAny",
+  "model_slug": "occany",
+  "model_display": "OccAny",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OccAny",
+  "family:occany",
+  "misc",
+  "occany"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "occany"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://valeoai.github.io/OccAny/",
+   "host": "valeoai.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/valeoai/OccAny",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/anhquancao/OccAny",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-25",
+  "excerpt": "On 2026-03-25, a dated OccAny reference linked a project page, a GitHub repository, and a Hugging Face page. This is treated as a material public-availability milestone for the project, while the supplied links alone do not establish a release version, technical results, or licensing terms."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

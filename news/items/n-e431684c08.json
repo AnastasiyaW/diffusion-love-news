@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e431684c08",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI KSampler Matrix Lab repository referenced",
+ "summary": "On 2026-06-05, this development line was linked to the GitHub repository for ComfyUI KSampler Matrix Lab. The dated link establishes a public repository reference for the project, but the post contents, repository state, capabilities, and release status have not been researched.",
+ "research_notes": "",
+ "project": {
+  "name": "ComfyUI KSampler Matrix Lab",
+  "family_slug": "comfyui-ksampler-matrix-lab",
+  "family_display": "ComfyUI KSampler Matrix Lab",
+  "model_slug": "comfyui-ksampler-matrix-lab",
+  "model_display": "ComfyUI KSampler Matrix Lab",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI KSampler Matrix Lab",
+  "comfyui-ksampler-matrix-lab",
+  "comfyui_ksampler_matrix_lab",
+  "family:comfyui-ksampler-matrix-lab",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-ksampler-matrix-lab"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/btitkin/ComfyUI-KSampler-Matrix-Lab",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-05",
+  "excerpt": "On 2026-06-05, this development line was linked to the GitHub repository for ComfyUI KSampler Matrix Lab. The dated link establishes a public repository reference for the project, but the post contents, repository state, capabilities, and release status have not been researched."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

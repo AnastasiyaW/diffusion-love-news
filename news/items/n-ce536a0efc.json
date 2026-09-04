@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ce536a0efc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA demonstrated Neural Texture Compression with substantially lower VRAM use",
+ "summary": "On 2026-04-06, NVIDIA publicly demonstrated Neural Texture Compression as a texture-memory reduction technique. The linked report described a comparison in which the demonstrated approach reduced VRAM use from 6.5 GB to 970 MB, making this a material public development for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Neural Texture Compression",
+  "family_slug": "nvidia-ntc",
+  "family_display": "Nvidia Ntc",
+  "model_slug": "nvidia-ntc",
+  "model_display": "Neural Texture Compression",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Neural Texture Compression",
+  "family:nvidia-ntc",
+  "misc",
+  "nvidia-ntc",
+  "nvidia_dlss_technologies"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvidia-ntc"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://videocardz.com/newz/nvidia-shows-neural-texture-compression-cutting-vram-from-6-5gb-to-970mb",
+   "host": "videocardz.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-06",
+  "excerpt": "On 2026-04-06, NVIDIA publicly demonstrated Neural Texture Compression as a texture-memory reduction technique. The linked report described a comparison in which the demonstrated approach reduced VRAM use from 6.5 GB to 970 MB, making this a material public development for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

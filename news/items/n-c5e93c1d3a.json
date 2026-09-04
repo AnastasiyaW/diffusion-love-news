@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c5e93c1d3a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Audex model repositories became publicly discoverable",
+ "summary": "On 2026-07-07, this development line linked the public Hugging Face repository trees for NVIDIA Nemotron-Labs-Audex-30B-A3B and Nemotron-Labs-Audex-2B. The links establish a material public availability milestone for two Audex model variants, although their exact release details are not established here.",
+ "research_notes": "",
+ "project": {
+  "name": "Audex",
+  "family_slug": "audex",
+  "family_display": "Audex",
+  "model_slug": "audex",
+  "model_display": "Audex",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Audex",
+  "audex",
+  "family:audex",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "audex"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-2B/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-07",
+  "excerpt": "On 2026-07-07, this development line linked the public Hugging Face repository trees for NVIDIA Nemotron-Labs-Audex-30B-A3B and Nemotron-Labs-Audex-2B. The links establish a material public availability milestone for two Audex model variants, although their exact release details are not established here."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

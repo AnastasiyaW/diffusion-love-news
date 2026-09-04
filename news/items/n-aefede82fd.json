@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-aefede82fd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Sol-Attn project page and implementation branch referenced",
+ "summary": "On 2026-08-03, a message in the sana thread linked the Sol-Attn project page and the NVlabs/Sana `sol-engine` branch. Together, those references mark a publicly documented development step for the Sol-Attn project that should be reviewed for inclusion in its history. The available evidence does not establish whether the date was an announcement, release, or code update.",
+ "research_notes": "",
+ "project": {
+  "name": "Sol-Attn",
+  "family_slug": "sol-attn",
+  "family_display": "Sol Attn",
+  "model_slug": "sol-attn",
+  "model_display": "Sol-Attn",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Sol-Attn",
+  "family:sol-attn",
+  "misc",
+  "sana",
+  "sol-attn"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sol-attn"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://nvlabs.github.io/Sana/Sol-Attn/",
+   "host": "nvlabs.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVlabs/Sana/tree/sol-engine",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-03",
+  "excerpt": "On 2026-08-03, a message in the sana thread linked the Sol-Attn project page and the NVlabs/Sana `sol-engine` branch. Together, those references mark a publicly documented development step for the Sol-Attn project that should be reviewed for inclusion in its history. The available evidence does not establish whether the date was an announcement, release, or code update."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

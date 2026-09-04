@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6a43f5da48",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "360 Security Technology was reported to have developed an AI cybersecurity system",
+ "summary": "On 2026-06-27, linked reporting described 360 Security Technology as developing an AI system for vulnerability discovery and automated defensive-security work. This represents a material step in the company's AI cybersecurity product development, although the linked evidence alone does not establish the system's exact name, availability, or technical performance.",
+ "research_notes": "",
+ "project": {
+  "name": "360 Security Technology",
+  "family_slug": "360-security-technology",
+  "family_display": "360 Security Technology",
+  "model_slug": "360-security-technology",
+  "model_display": "360 Security Technology",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "360 Security Technology",
+  "360-security-technology",
+  "family:360-security-technology",
+  "misc",
+  "tulongfeng-yitianzhen"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "360-security-technology"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1144097/v-kitae-sozdali-analog-anthropic-mythos-moshchniy-iiinstrument-dlya-poiska-uyazvimostey-i-avtomatizatsii-kiberzashchiti",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-27",
+  "excerpt": "On 2026-06-27, linked reporting described 360 Security Technology as developing an AI system for vulnerability discovery and automated defensive-security work. This represents a material step in the company's AI cybersecurity product development, although the linked evidence alone does not establish the system's exact name, availability, or technical performance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

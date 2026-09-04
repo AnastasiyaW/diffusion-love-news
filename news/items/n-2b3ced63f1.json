@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2b3ced63f1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "UltraMuse XYZ Studio repository referenced",
+ "summary": "On 2026-06-16, a ComfyUI Tools thread item referenced the UltraMuse XYZ Studio GitHub repository. The sealed evidence establishes a dated public reference to the project, but does not identify a specific release, feature, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "UltraMuse XYZ Studio",
+  "family_slug": "xyz-studio",
+  "family_display": "XYZ Studio",
+  "model_slug": "xyz-studio",
+  "model_display": "UltraMuse XYZ Studio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "UltraMuse XYZ Studio",
+  "comfyui_tools",
+  "family:xyz-studio",
+  "misc",
+  "xyz-studio"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "xyz-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/ultramuseart/xyz-studio",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-16",
+  "excerpt": "On 2026-06-16, a ComfyUI Tools thread item referenced the UltraMuse XYZ Studio GitHub repository. The sealed evidence establishes a dated public reference to the project, but does not identify a specific release, feature, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

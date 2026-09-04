@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4eb63d4caf",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ggml-org published a GGUF distribution of Qwen3-TTS-12Hz-1.7B-Base",
+ "summary": "On 2026-08-06, the dated link recorded a GGUF distribution of Qwen3-TTS-12Hz-1.7B-Base on Hugging Face. This was a downstream distribution step rather than an upstream Qwen model release, but it materially expanded the local-runtime deployment path for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3-TTS",
+  "family_slug": "qwen3-tts",
+  "family_display": "Qwen3 TTS",
+  "model_slug": "qwen3-tts",
+  "model_display": "Qwen3-TTS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3-TTS",
+  "family:qwen3-tts",
+  "misc",
+  "qwen3-tts",
+  "qwen3_tts"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-tts"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/ggml-org/Qwen3-TTS-12Hz-1.7B-Base-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-06",
+  "excerpt": "On 2026-08-06, the dated link recorded a GGUF distribution of Qwen3-TTS-12Hz-1.7B-Base on Hugging Face. This was a downstream distribution step rather than an upstream Qwen model release, but it materially expanded the local-runtime deployment path for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

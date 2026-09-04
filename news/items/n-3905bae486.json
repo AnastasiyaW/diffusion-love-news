@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3905bae486",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SpatialClaw project references shared",
+ "summary": "On 2026-07-01, a message in the NVIDIA thread linked to the SpatialClaw project website and the NVlabs SpatialClaw GitHub repository. The linked primary resources establish a dated public reference point for the project, but do not identify a specific release, capability, or other milestone.",
+ "research_notes": "",
+ "project": {
+  "name": "SpatialClaw",
+  "family_slug": "spatialclaw",
+  "family_display": "SpatialClaw",
+  "model_slug": "spatialclaw",
+  "model_display": "SpatialClaw",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SpatialClaw",
+  "family:spatialclaw",
+  "misc",
+  "nvidia",
+  "spatialclaw"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "spatialclaw"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://spatialclaw.github.io/",
+   "host": "spatialclaw.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVlabs/SpatialClaw",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, a message in the NVIDIA thread linked to the SpatialClaw project website and the NVlabs SpatialClaw GitHub repository. The linked primary resources establish a dated public reference point for the project, but do not identify a specific release, capability, or other milestone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

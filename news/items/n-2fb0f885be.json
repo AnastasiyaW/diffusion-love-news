@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2fb0f885be",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Unity published an announcement about Unity CLI",
+ "summary": "On 2026-07-23, Unity published a dated official blog entry concerning Unity CLI. The project-specific official link makes this a material introduction milestone in the Unity CLI history. The sealed evidence does not establish its capabilities, availability, or technical behavior.",
+ "research_notes": "",
+ "project": {
+  "name": "Unity CLI",
+  "family_slug": "unity-cli",
+  "family_display": "Unity CLI",
+  "model_slug": "unity-cli",
+  "model_display": "Unity CLI",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Unity CLI",
+  "family:unity-cli",
+  "misc",
+  "unity-cli",
+  "unity_cli"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "unity-cli"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://unity.com/ru/blog/meet-the-unity-cli",
+   "host": "unity.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-23",
+  "excerpt": "On 2026-07-23, Unity published a dated official blog entry concerning Unity CLI. The project-specific official link makes this a material introduction milestone in the Unity CLI history. The sealed evidence does not establish its capabilities, availability, or technical behavior."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

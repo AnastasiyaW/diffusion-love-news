@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-mesh2motion",
   "family_slug": "mesh2motion",
-  "family_display": "ComfyUI-mesh2motion",
+  "family_display": "mesh2motion",
   "model_slug": "mesh2motion",
   "model_display": "mesh2motion",
   "version": null,

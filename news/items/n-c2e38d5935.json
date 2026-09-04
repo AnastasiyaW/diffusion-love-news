@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c2e38d5935",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Base44’s Superagent page and documentation were referenced",
+ "summary": "On 2026-03-31, the record linked to a Base44 Superagent page and to Base44 documentation. This establishes that a Superagent-labelled Base44 surface was being referenced on that date. The links alone do not establish a product launch, a new capability, or how the surface was used.",
+ "research_notes": "",
+ "project": {
+  "name": "Base44",
+  "family_slug": "base44",
+  "family_display": "Base44",
+  "model_slug": "base44",
+  "model_display": "Base44",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Base44",
+  "base44",
+  "family:base44",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "base44"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://app.base44.com/superagent/69cbc1644ec0607465542d70",
+   "host": "app.base44.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://docs.base44.com/",
+   "host": "docs.base44.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-31",
+  "excerpt": "On 2026-03-31, the record linked to a Base44 Superagent page and to Base44 documentation. This establishes that a Superagent-labelled Base44 surface was being referenced on that date. The links alone do not establish a product launch, a new capability, or how the surface was used."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

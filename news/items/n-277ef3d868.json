@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-277ef3d868",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Ultra Real - Klein 9b linked to a Civitai model page and ComfyUI workflows",
+ "summary": "On 2026-03-23, a dated development-line record associated Ultra Real - Klein 9b with a Civitai model page and a ComfyUI workflows repository. This establishes an archival model-and-workflow reference for the project at that time, without establishing a specific release, version, or compatibility claim.",
+ "research_notes": "",
+ "project": {
+  "name": "Ultra Real - Klein 9b",
+  "family_slug": "ultra-real-klein-9b",
+  "family_display": "Ultra Real Klein 9b",
+  "model_slug": "ultra-real-klein-9b",
+  "model_display": "Ultra Real - Klein 9b",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ultra Real - Klein 9b",
+  "family:ultra-real-klein-9b",
+  "klein-9b",
+  "misc",
+  "ultra-real-klein-9b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ultra-real-klein-9b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "civitai",
+   "url": "https://civitai.com/models/2462105/ultra-real-klein-9b",
+   "host": "civitai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/vizsumit/comfyui-workflows",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-23",
+  "excerpt": "On 2026-03-23, a dated development-line record associated Ultra Real - Klein 9b with a Civitai model page and a ComfyUI workflows repository. This establishes an archival model-and-workflow reference for the project at that time, without establishing a specific release, version, or compatibility claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

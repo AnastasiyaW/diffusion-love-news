@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b63f0f79e7",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen blog entry for Qwen3.8",
+ "summary": "On 2026-08-03, a Qwen blog URL identified as qwen3.8 was shared in the Qwen thread. It establishes a dated public reference associated with Qwen3.8-Max and should be recorded as a new history event. The announcement's contents, release status, and technical changes remain unverified pending research.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-Max",
+  "family_slug": "qwen3-8-max",
+  "family_display": "Qwen3.8 Max",
+  "model_slug": "qwen3-8-max",
+  "model_display": "Qwen3.8-Max",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-Max",
+  "family:qwen3-8-max",
+  "misc",
+  "qwen",
+  "qwen3-8-max"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-max"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://qwen.ai/blog?id=qwen3.8",
+   "host": "qwen.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-03",
+  "excerpt": "On 2026-08-03, a Qwen blog URL identified as qwen3.8 was shared in the Qwen thread. It establishes a dated public reference associated with Qwen3.8-Max and should be recorded as a new history event. The announcement's contents, release status, and technical changes remain unverified pending research."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

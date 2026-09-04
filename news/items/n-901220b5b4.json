@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-901220b5b4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Evoke public project resources were linked",
+ "summary": "On 2026-08-15, an Evoke item linked to a project website, source repository, and model page. This records the dated public availability of those three endpoints, without asserting a particular release, capability, or workflow.",
+ "research_notes": "",
+ "project": {
+  "name": "Evoke",
+  "family_slug": "evoke",
+  "family_display": "Evoke",
+  "model_slug": "evoke",
+  "model_display": "Evoke",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Evoke",
+  "alayalab/evoke",
+  "evoke",
+  "family:evoke",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "evoke"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://evoke-world.github.io/Evoke/",
+   "host": "evoke-world.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/AlayaLab/Evoke",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/SII-YuanyangYin/Evoke",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-15",
+  "excerpt": "On 2026-08-15, an Evoke item linked to a project website, source repository, and model page. This records the dated public availability of those three endpoints, without asserting a particular release, capability, or workflow."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

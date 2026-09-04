@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-75510d5219",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MatrAIx Persona 8B was publicly referenced with a visual playground quickstart",
+ "summary": "On 2026-08-11, a dated public reference tied MatrAIx to its website, the MatrAIx-Persona-8B repository, and a quickstart section for a visual playground. This establishes a public project and usage-documentation entry point for Persona 8B by that date. The supplied links alone do not establish a specific release date, model capability, or code change.",
+ "research_notes": "",
+ "project": {
+  "name": "MatrAIx",
+  "family_slug": "matraix",
+  "family_display": "MatrAIx",
+  "model_slug": "matraix",
+  "model_display": "MatrAIx",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MatrAIx",
+  "family:matraix",
+  "matraix",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "matraix"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://matraix.ai/",
+   "host": "matraix.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/MatrAIx-ai/MatrAIx-Persona-8B/blob/main/docs/quickstart.md#10-playground--play-tasks-visually",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-11",
+  "excerpt": "On 2026-08-11, a dated public reference tied MatrAIx to its website, the MatrAIx-Persona-8B repository, and a quickstart section for a visual playground. This establishes a public project and usage-documentation entry point for Persona 8B by that date. The supplied links alone do not establish a specific release date, model capability, or code change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

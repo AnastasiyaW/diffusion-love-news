@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2591c503ad",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Grok Imagine Video 1.5 announcement",
+ "summary": "On 2026-06-17, a dated branch member linked an xAI news URL identifying Grok Imagine Video 1.5. It also pointed to Grok Imagine and an xAI Console Imagine video route, making it a material product-development announcement for this history. The supplied evidence does not establish the version's features, rollout status, pricing, or technical details.",
+ "research_notes": "",
+ "project": {
+  "name": "Grok Imagine Video",
+  "family_slug": "grok-imagine-video",
+  "family_display": "Grok Imagine Video",
+  "model_slug": "grok-imagine-video",
+  "model_display": "Grok Imagine Video",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Grok Imagine Video",
+  "family:grok-imagine-video",
+  "grok-imagine-video",
+  "grok_imagine_video",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "grok-imagine-video"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://x.ai/news/grok-imagine-video-1-5",
+   "host": "x.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://grok.com/imagine",
+   "host": "grok.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://console.x.ai/welcome?path=%2Fimagine%3Fcampaign%3Dimagine-video-1-5-blog%26mode%3Dvideo",
+   "host": "console.x.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-17",
+  "excerpt": "On 2026-06-17, a dated branch member linked an xAI news URL identifying Grok Imagine Video 1.5. It also pointed to Grok Imagine and an xAI Console Imagine video route, making it a material product-development announcement for this history. The supplied evidence does not establish the version's features, rollout status, pricing, or technical details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

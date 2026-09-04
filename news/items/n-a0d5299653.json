@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a0d5299653",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Krea 2 Outpaint resources were documented across Hugging Face and ComfyUI",
+ "summary": "On 2026-07-19, a dated update linked a Hugging Face model repository, two Hugging Face Spaces, and a ComfyUI integration for Krea 2 Outpaint. The linked resources establish a practical discovery, trial, and integration path for the project, while the available evidence does not establish their exact release status or relationship.",
+ "research_notes": "",
+ "project": {
+  "name": "Krea 2 Outpaint",
+  "family_slug": "krea-2-outpaint",
+  "family_display": "Krea 2 Outpaint",
+  "model_slug": "krea-2-outpaint",
+  "model_display": "Krea 2 Outpaint",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Krea 2 Outpaint",
+  "family:krea-2-outpaint",
+  "krea-2-outpaint",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "krea-2-outpaint"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/yijunwang2/krea2-outpaint",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/yijunwang2/krea2-outpaint",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/modulsx/krea2-outpaint",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/RealRebelAI/ComfyUI-Rebels-Krea2-Outpaint",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-19",
+  "excerpt": "On 2026-07-19, a dated update linked a Hugging Face model repository, two Hugging Face Spaces, and a ComfyUI integration for Krea 2 Outpaint. The linked resources establish a practical discovery, trial, and integration path for the project, while the available evidence does not establish their exact release status or relationship."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d4f7f53653",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwopus3.6-27B-v2 artifacts were published in GGUF and FP8 repositories",
+ "summary": "On 2026-06-24, repositories named Qwopus3.6-27B-v2-GGUF and Qwopus3.6-27B-v2-FP8 were linked as part of the Qwopus3.6-27B-v2 line. This constitutes a material distribution step because it made named artifacts available in two inference-oriented formats. A contemporaneous The recorded link accompanied the repository links, but its contents were not reviewed.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwopus3.6-27B-v2",
+  "family_slug": "qwopus3-6-27b-v2",
+  "family_display": "Qwopus3.6 27B v2",
+  "model_slug": "qwopus3-6-27b-v2",
+  "model_display": "Qwopus3.6-27B-v2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwopus3.6-27B-v2",
+  "family:qwopus3-6-27b-v2",
+  "misc",
+  "qwopus",
+  "qwopus3-6-27b-v2"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwopus3-6-27b-v2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-FP8",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-24",
+  "excerpt": "On 2026-06-24, repositories named Qwopus3.6-27B-v2-GGUF and Qwopus3.6-27B-v2-FP8 were linked as part of the Qwopus3.6-27B-v2 line. This constitutes a material distribution step because it made named artifacts available in two inference-oriented formats. A contemporaneous The recorded link accompanied the repository links, but its contents were not reviewed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

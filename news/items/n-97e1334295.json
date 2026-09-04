@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-97e1334295",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GELab-Zero Sico Evolution preview model appeared on Hugging Face",
+ "summary": "On 2026-07-01, the GELab-Zero development line recorded a Hugging Face model reference for GELab-Zero-4B-preview-Sico-Evolution. The linked model listing also pointed to an associated Hugging Face view for adapter-based models, making this a public development checkpoint for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "GELab-Zero",
+  "family_slug": "gelab-zero",
+  "family_display": "GELab Zero",
+  "model_slug": "gelab-zero",
+  "model_display": "GELab-Zero",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GELab-Zero",
+  "family:gelab-zero",
+  "gelab-zero",
+  "microsoft",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gelab-zero"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/microsoft/GELab-Zero-4B-preview-Sico-Evolution",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aadapter%3Amicrosoft%2FGELab-Zero-4B-preview-Sico-Evolution",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, the GELab-Zero development line recorded a Hugging Face model reference for GELab-Zero-4B-preview-Sico-Evolution. The linked model listing also pointed to an associated Hugging Face view for adapter-based models, making this a public development checkpoint for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

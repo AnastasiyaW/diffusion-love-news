@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-171634870a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Spatial-TTT public project resources were linked",
+ "summary": "On 2026-03-13, a dated Spatial-TTT update linked a public project page, GitHub repository, and Hugging Face collection. These links mark a public-facing project step by providing locations for project information, source code, and associated model resources.",
+ "research_notes": "",
+ "project": {
+  "name": "Spatial-TTT",
+  "family_slug": "spatial-ttt",
+  "family_display": "Spatial TTT",
+  "model_slug": "spatial-ttt",
+  "model_display": "Spatial-TTT",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spatial-TTT",
+  "family:spatial-ttt",
+  "misc",
+  "spatial-ttt",
+  "spatial_ttt"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "spatial-ttt"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://liuff19.github.io/Spatial-TTT/",
+   "host": "liuff19.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/THU-SI/Spatial-TTT",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/THU-SI/spatial-ttt",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-13",
+  "excerpt": "On 2026-03-13, a dated Spatial-TTT update linked a public project page, GitHub repository, and Hugging Face collection. These links mark a public-facing project step by providing locations for project information, source code, and associated model resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

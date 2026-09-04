@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a11d97b87b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Poolside introduced Laguna S 2.1",
+ "summary": "On 2026-07-22, Poolside introduced Laguna S 2.1 as a new step in the Laguna development line. The dated links associate the release with an announcement, a model-distribution page, quantized-model references, and listed chat and provider access routes. This is material because it identifies a distinct named version of the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Laguna S 2.1",
+  "family_slug": "poolside-laguna-s-2-1",
+  "family_display": "Poolside Laguna S 2 1",
+  "model_slug": "poolside-laguna-s-2-1",
+  "model_display": "Laguna S 2.1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Laguna S 2.1",
+  "family:poolside-laguna-s-2-1",
+  "laguna",
+  "misc",
+  "poolside-laguna-s-2-1"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "poolside-laguna-s-2-1"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+   "host": "poolside.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3Apoolside%2FLaguna-S-2.1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://chat.poolside.ai/",
+   "host": "chat.poolside.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://openrouter.ai/poolside/laguna-s-2.1",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, Poolside introduced Laguna S 2.1 as a new step in the Laguna development line. The dated links associate the release with an announcement, a model-distribution page, quantized-model references, and listed chat and provider access routes. This is material because it identifies a distinct named version of the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

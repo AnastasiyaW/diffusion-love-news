@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4e2f708bcc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Tutu MCP public endpoint referenced",
+ "summary": "On 2026-06-18, a Tutu MCP development update referenced the public MCP endpoint at mcp.tutu.ru/mcp. The dated message also linked several related The recorded link, making this a material public trace of the project's development.",
+ "research_notes": "",
+ "project": {
+  "name": "Tutu MCP",
+  "family_slug": "tutu-mcp",
+  "family_display": "Tutu MCP",
+  "model_slug": "tutu-mcp",
+  "model_display": "Tutu MCP",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Tutu MCP",
+  "family:tutu-mcp",
+  "misc",
+  "tutu",
+  "tutu-mcp"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "tutu-mcp"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://mcp.tutu.ru/mcp",
+   "host": "mcp.tutu.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-18",
+  "excerpt": "On 2026-06-18, a Tutu MCP development update referenced the public MCP endpoint at mcp.tutu.ru/mcp. The dated message also linked several related The recorded link, making this a material public trace of the project's development."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

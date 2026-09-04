@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-66b11f2c1c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "FedorAiToolkit was linked with the bodyrec repository",
+ "summary": "On 2026-07-22, a dated record linked the FedorAiToolkit GitHub repository alongside the bodyrec repository. The available evidence establishes those two repository references, but does not establish a release, code change, integration, or ownership relationship beyond their co-occurrence in the record.",
+ "research_notes": "",
+ "project": {
+  "name": "FedorAiToolkit",
+  "family_slug": "fedoraitoolkit",
+  "family_display": "FedorAiToolkit",
+  "model_slug": "fedoraitoolkit",
+  "model_display": "FedorAiToolkit",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FedorAiToolkit",
+  "family:fedoraitoolkit",
+  "fedoraitoolkit",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "fedoraitoolkit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/CliffNodes/FedorAiToolkit",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/FugueSegue/bodyrec",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, a dated record linked the FedorAiToolkit GitHub repository alongside the bodyrec repository. The available evidence establishes those two repository references, but does not establish a release, code change, integration, or ownership relationship beyond their co-occurrence in the record."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

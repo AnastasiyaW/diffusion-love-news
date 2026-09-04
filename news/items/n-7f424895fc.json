@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7f424895fc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Z-Image Turbo++ paper reference linked",
+ "summary": "On 2026-06-17, a Hugging Face Papers page, identified as paper 2606.12575, was linked in the Z-Image Turbo++ development line. The dated link establishes a research reference for the project, but does not establish the paper's title, technical claims, or release status. This history event records the reference itself rather than any unverified capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "Z-Image Turbo++",
+  "family_slug": "z-image-turbo-plus-plus",
+  "family_display": "Z Image Turbo Plus Plus",
+  "model_slug": "z-image-turbo-plus-plus",
+  "model_display": "Z-Image Turbo++",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Z-Image Turbo++",
+  "family:z-image-turbo-plus-plus",
+  "misc",
+  "z-image-turbo-plus-plus",
+  "z_image"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "z-image-turbo-plus-plus"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2606.12575",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-17",
+  "excerpt": "On 2026-06-17, a Hugging Face Papers page, identified as paper 2606.12575, was linked in the Z-Image Turbo++ development line. The dated link establishes a research reference for the project, but does not establish the paper's title, technical claims, or release status. This history event records the reference itself rather than any unverified capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-192b3cf75c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LTX-2.3 Clean Plate IC-LoRA model and demo references were recorded",
+ "summary": "On 2026-07-22, a dated record linked the Lightricks LTX-2.3 22B IC-LoRA Clean Plate Hugging Face model page and an associated Hugging Face Space. This is treated as a material public-reference milestone in the project's development line, based solely on the dated links.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX-2.3 Clean Plate IC-LoRA",
+  "family_slug": "lightricks-ltx-2-3-clean-plate-lora",
+  "family_display": "Lightricks Ltx 2 3 Clean Plate Lora",
+  "model_slug": "lightricks-ltx-2-3-clean-plate-lora",
+  "model_display": "LTX-2.3 Clean Plate IC-LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3 Clean Plate IC-LoRA",
+  "family:lightricks-ltx-2-3-clean-plate-lora",
+  "lightricks-ltx-2-3-clean-plate-lora",
+  "ltx-video",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "lightricks-ltx-2-3-clean-plate-lora"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Clean-Plate",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/Lightricks/ltx-2-3-22b-ic-lora-clean-plate",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, a dated record linked the Lightricks LTX-2.3 22B IC-LoRA Clean Plate Hugging Face model page and an associated Hugging Face Space. This is treated as a material public-reference milestone in the project's development line, based solely on the dated links."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

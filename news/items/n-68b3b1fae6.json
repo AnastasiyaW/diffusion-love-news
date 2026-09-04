@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-68b3b1fae6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Cohere publishes Cohere Transcribe model resources",
+ "summary": "On 2026-03-27, Cohere published Cohere Transcribe resources, including a Cohere blog page, a Hugging Face model repository, and a demonstration space. The linked Model Vault page also places the project within Cohere's model-access offering.",
+ "research_notes": "",
+ "project": {
+  "name": "Cohere Transcribe",
+  "family_slug": "cohere-transcribe",
+  "family_display": "Cohere Transcribe",
+  "model_slug": "cohere-transcribe",
+  "model_display": "Cohere Transcribe",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Cohere Transcribe",
+  "cohere-transcribe",
+  "family:cohere-transcribe",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "cohere-transcribe"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://cohere.com/blog/transcribe",
+   "host": "cohere.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/CohereLabs/cohere-transcribe-03-2026",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://cohere.com/solutions/model-vault",
+   "host": "cohere.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-27",
+  "excerpt": "On 2026-03-27, Cohere published Cohere Transcribe resources, including a Cohere blog page, a Hugging Face model repository, and a demonstration space. The linked Model Vault page also places the project within Cohere's model-access offering."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

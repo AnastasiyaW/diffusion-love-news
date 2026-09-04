@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-196adf34af",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Inline Studio published the v1.2.71 release",
+ "summary": "On 2026-08-16, Inline Studio published its GitHub release v1.2.71. The dated evidence also linked the project’s characters page, establishing a versioned development checkpoint but not the release’s specific contents.",
+ "research_notes": "",
+ "project": {
+  "name": "Inline Studio",
+  "family_slug": "inline-studio",
+  "family_display": "Inline Studio",
+  "model_slug": "inline-studio",
+  "model_display": "Inline Studio",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Inline Studio",
+  "family:inline-studio",
+  "inline-studio",
+  "inlineresearch/inline-studio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "inline-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://inlinestudio.art/characters",
+   "host": "inlinestudio.art",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/inlineresearch/Inline-Studio/releases/tag/v1.2.71",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-16",
+  "excerpt": "On 2026-08-16, Inline Studio published its GitHub release v1.2.71. The dated evidence also linked the project’s characters page, establishing a versioned development checkpoint but not the release’s specific contents."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

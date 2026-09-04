@@ -10,7 +10,7 @@
  "project": {
   "name": "MOSS-TTS-Nano",
   "family_slug": "moss-tts",
-  "family_display": "MOSS-TTS-Nano",
+  "family_display": "MOSS TTS",
   "model_slug": "moss-tts",
   "model_display": "MOSS-TTS",
   "version": null,

@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5d775dee1a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3.8-27B Hugging Face resources were recorded",
+ "summary": "On 2026-08-14, this development line recorded a Hugging Face model repository for Qwen3.8-27B, a listing filtered for quantized models based on it, and a Hugging Face Space bearing the same model name. Together, these dated links establish a public reference point for the model and related downstream resources. They do not by themselves establish a release announcement, technical specifications, or the Space's functionality.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-27B",
+  "family_slug": "qwen-3-8-27b",
+  "family_display": "Qwen 3 8 27B",
+  "model_slug": "qwen-3-8-27b",
+  "model_display": "Qwen3.8-27B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-27B",
+  "family:qwen-3-8-27b",
+  "misc",
+  "qwen",
+  "qwen-3-8-27b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen-3-8-27b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/models?other=base_model%3Aquantized%3AQwen%2FQwen3.8-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/apathy-exe/Qwen3.8-27B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-14",
+  "excerpt": "On 2026-08-14, this development line recorded a Hugging Face model repository for Qwen3.8-27B, a listing filtered for quantized models based on it, and a Hugging Face Space bearing the same model name. Together, these dated links establish a public reference point for the model and related downstream resources. They do not by themselves establish a release announcement, technical specifications, or the Space's functionality."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-80bd00594d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ASASR project resources were linked",
+ "summary": "On 2026-07-01, a development-line message linked the ASASR GitHub repository and Hugging Face page. From the dated links alone, this is a project-facing resource-publication step. It does not establish a version, feature set, release status, or model capability.",
+ "research_notes": "",
+ "project": {
+  "name": "ASASR",
+  "family_slug": "asasr",
+  "family_display": "ASASR",
+  "model_slug": "asasr",
+  "model_display": "ASASR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ASASR",
+  "asasr",
+  "family:asasr",
+  "flux",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "asasr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/wafer-bob/ASASR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/wafer-bob/ASASR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, a development-line message linked the ASASR GitHub repository and Hugging Face page. From the dated links alone, this is a project-facing resource-publication step. It does not establish a version, feature set, release status, or model capability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

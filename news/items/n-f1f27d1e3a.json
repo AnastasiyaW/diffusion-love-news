@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-f1f27d1e3a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Spatial Memory Agent project page was linked",
+ "summary": "On 2026-08-16, a message in the aim-uofa/sma thread linked to the Spatial Memory Agent project page. This establishes a dated project reference, but does not establish a release, capability, or research result.",
+ "research_notes": "",
+ "project": {
+  "name": "Spatial Memory Agent",
+  "family_slug": "sma",
+  "family_display": "Sma",
+  "model_slug": "sma",
+  "model_display": "Spatial Memory Agent",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Spatial Memory Agent",
+  "aim-uofa/sma",
+  "family:sma",
+  "misc",
+  "sma"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "sma"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://aim-uofa.github.io/SMA/",
+   "host": "aim-uofa.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-16",
+  "excerpt": "On 2026-08-16, a message in the aim-uofa/sma thread linked to the Spatial Memory Agent project page. This establishes a dated project reference, but does not establish a release, capability, or research result."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

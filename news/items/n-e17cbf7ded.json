@@ -10,7 +10,7 @@
  "project": {
   "name": "Hy-MT1.5-1.8B",
   "family_slug": "hy-mt",
-  "family_display": "Hy-MT1.5-1.8B",
+  "family_display": "Hy Mt",
   "model_slug": "hy-mt1-5-1-8b",
   "model_display": "Hy-MT1.5-1.8B",
   "version": "1.8B",

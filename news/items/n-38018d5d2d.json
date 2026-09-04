@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-38018d5d2d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SIQ-1-35B public model and agent demo were linked",
+ "summary": "On 2026-06-17, this development-line member connected SIQ-1-35B to a public Hugging Face model page and a Hermes-agent ZeroGPU Space. It also linked related autoresearch, parameter-golf, and benchmark repositories, placing the project in an experimentation and evaluation context. The dated links establish the public artifacts and references, but not the original post's precise claims about them.",
+ "research_notes": "",
+ "project": {
+  "name": "SIQ-1-35B",
+  "family_slug": "siq-1-35b",
+  "family_display": "SIQ 1 35B",
+  "model_slug": "siq-1-35b",
+  "model_display": "SIQ-1-35B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SIQ-1-35B",
+  "family:siq-1-35b",
+  "misc",
+  "siq-1-35b",
+  "siq_1_35b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "siq-1-35b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/karpathy/autoresearch",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/openai/parameter-golf",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/petergpt/bullshit-benchmark",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/AlexWortega/SIQ-1-35B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/AlexWortega/hermes-agent-zerogpu",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-17",
+  "excerpt": "On 2026-06-17, this development-line member connected SIQ-1-35B to a public Hugging Face model page and a Hermes-agent ZeroGPU Space. It also linked related autoresearch, parameter-golf, and benchmark repositories, placing the project in an experimentation and evaluation context. The dated links establish the public artifacts and references, but not the original post's precise claims about them."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

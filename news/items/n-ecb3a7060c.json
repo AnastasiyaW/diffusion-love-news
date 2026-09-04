@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ecb3a7060c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "DVD public project resources were linked",
+ "summary": "On 2026-03-13, a dated link set connected the DVD project’s public website, source repository, and model-download pages. This establishes a public access point for the project’s code and model artifacts, but does not establish a specific release, version, or technical change.",
+ "research_notes": "",
+ "project": {
+  "name": "DVD",
+  "family_slug": "dvd",
+  "family_display": "DVD",
+  "model_slug": "dvd",
+  "model_display": "DVD",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "DVD",
+  "dvd",
+  "family:dvd",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dvd"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://dvd-project.github.io/",
+   "host": "dvd-project.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/EnVision-Research/DVD",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FayeHongfeiZhang/DVD/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:06:20Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-13",
+  "excerpt": "On 2026-03-13, a dated link set connected the DVD project’s public website, source repository, and model-download pages. This establishes a public access point for the project’s code and model artifacts, but does not establish a specific release, version, or technical change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:06:20Z",
+  "classified_at": "2026-09-04T22:06:20Z",
+  "enriched_at": "2026-09-04T22:06:20Z",
+  "verified_at": "2026-09-04T22:06:20Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-82a94d3961",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwythos-9B-Claude-Mythos-5 was publicly listed on Hugging Face",
+ "summary": "On 2026-06-24, the dated record linked to a Hugging Face page for Qwythos-9B-Claude-Mythos-5. This establishes a public model-artifact milestone in the project's development history. No source text, model card contents, release notes, or technical specifications were supplied with the sealed evidence.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwythos-9B-Claude-Mythos-5",
+  "family_slug": "qwythos-9b-claude-mythos-5",
+  "family_display": "Qwythos 9B Claude Mythos 5",
+  "model_slug": "qwythos-9b-claude-mythos-5",
+  "model_display": "Qwythos-9B-Claude-Mythos-5",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwythos-9B-Claude-Mythos-5",
+  "family:qwythos-9b-claude-mythos-5",
+  "misc",
+  "qwythos-9b-claude-mythos-5"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwythos-9b-claude-mythos-5"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-24",
+  "excerpt": "On 2026-06-24, the dated record linked to a Hugging Face page for Qwythos-9B-Claude-Mythos-5. This establishes a public model-artifact milestone in the project's development history. No source text, model card contents, release notes, or technical specifications were supplied with the sealed evidence."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

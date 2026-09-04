@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a5bfdf92c1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "X-Dub public project resources were linked",
+ "summary": "On 2026-03-28, a dated X-Dub entry linked the project's website, GitHub repository, and Hugging Face page. This establishes a public-facing project presence with associated code and model-resource locations at that time. The supplied evidence does not establish a specific release, version, capability, or technical change.",
+ "research_notes": "",
+ "project": {
+  "name": "X-Dub",
+  "family_slug": "x-dub",
+  "family_display": "X Dub",
+  "model_slug": "x-dub",
+  "model_display": "X-Dub",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "X-Dub",
+  "family:x-dub",
+  "misc",
+  "x-dub"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "x-dub"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://hjrphoebus.github.io/X-Dub/",
+   "host": "hjrphoebus.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KlingAIResearch/X-Dub",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/KlingTeam/X-Dub",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-28",
+  "excerpt": "On 2026-03-28, a dated X-Dub entry linked the project's website, GitHub repository, and Hugging Face page. This establishes a public-facing project presence with associated code and model-resource locations at that time. The supplied evidence does not establish a specific release, version, capability, or technical change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

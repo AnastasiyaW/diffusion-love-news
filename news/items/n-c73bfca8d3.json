@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c73bfca8d3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Velorn public development and release references",
+ "summary": "On 2026-07-13, a Velorn-related update linked the project website, public The recorded link, and GitHub releases page. The link set indicates a public project-development update, but does not establish the specific release, version, or changes.",
+ "research_notes": "",
+ "project": {
+  "name": "Velorn",
+  "family_slug": "velorn",
+  "family_display": "Velorn",
+  "model_slug": "velorn",
+  "model_display": "Velorn",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Velorn",
+  "family:velorn",
+  "misc",
+  "velorn"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "velorn"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://velorn.ai/",
+   "host": "velorn.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/VelornLabs/velorn/releases",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-13",
+  "excerpt": "On 2026-07-13, a Velorn-related update linked the project website, public The recorded link, and GitHub releases page. The link set indicates a public project-development update, but does not establish the specific release, version, or changes."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

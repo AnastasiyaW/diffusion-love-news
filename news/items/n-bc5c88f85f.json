@@ -10,7 +10,7 @@
  "project": {
   "name": "DeepSeek-V4-Pro",
   "family_slug": "deepseek",
-  "family_display": "DeepSeek-V4-Pro",
+  "family_display": "DeepSeek",
   "model_slug": "deepseek-v4",
   "model_display": "DeepSeek-V4",
   "version": null,

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-cdfe0e2f1c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MAMMA project site and source repository referenced",
+ "summary": "On 2026-06-07, the MAMMA development line recorded links to the project website and its GitHub repository. This establishes a dated public reference to the project's materials and source location. The available link-only evidence does not establish a release, version, feature change, or usage outcome.",
+ "research_notes": "",
+ "project": {
+  "name": "MAMMA",
+  "family_slug": "mamma",
+  "family_display": "MAMMA",
+  "model_slug": "mamma",
+  "model_display": "MAMMA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MAMMA",
+  "family:mamma",
+  "mamma",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mamma"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://mamma.is.tue.mpg.de/",
+   "host": "mamma.is.tue.mpg.de",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/cuevhv/mamma",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-07",
+  "excerpt": "On 2026-06-07, the MAMMA development line recorded links to the project website and its GitHub repository. This establishes a dated public reference to the project's materials and source location. The available link-only evidence does not establish a release, version, feature change, or usage outcome."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

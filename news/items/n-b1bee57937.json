@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b1bee57937",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Wan2.2 T2V A14B Diffusers FP8 and NVFP4 variants were documented",
+ "summary": "On 2026-05-13, the record recorded links to NVIDIA-hosted Hugging Face repositories for FP8 and NVFP4 Diffusers variants of Wan2.2 T2V A14B. This is a material quantization step because it identifies lower-precision model variants relevant to running the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Wan2.2-T2V-A14B-Diffusers-FP8",
+  "family_slug": "wan2-2",
+  "family_display": "Wan2.2",
+  "model_slug": "wan2-2",
+  "model_display": "Wan2.2-T2V-A14B-Diffusers-FP8",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Wan2.2-T2V-A14B-Diffusers-FP8",
+  "family:wan2-2",
+  "misc",
+  "wan2-2",
+  "wan2-2-quantization"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "wan2-2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-FP8",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/Wan2.2-T2V-A14B-Diffusers-NVFP4",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "On 2026-05-13, the record recorded links to NVIDIA-hosted Hugging Face repositories for FP8 and NVFP4 Diffusers variants of Wan2.2 T2V A14B. This is a material quantization step because it identifies lower-precision model variants relevant to running the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

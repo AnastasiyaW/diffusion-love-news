@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-22b4ad25f5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenAI Daybreak security communication linked to GPT-5.5-Cyber",
+ "summary": "On 2026-06-23, the GPT-5.5-Cyber thread linked to an official OpenAI Daybreak page. Based on the dated official link and its security-oriented URL, this is proposed as a material public communication in the project's development history. Its detailed claims and precise technical significance have not been researched.",
+ "research_notes": "",
+ "project": {
+  "name": "GPT-5.5-Cyber",
+  "family_slug": "gpt-5-5-cyber",
+  "family_display": "GPT 5.5 Cyber",
+  "model_slug": "gpt-5-5-cyber",
+  "model_display": "GPT-5.5-Cyber",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT-5.5-Cyber",
+  "family:gpt-5-5-cyber",
+  "gpt-5-5-cyber",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gpt-5-5-cyber"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://openai.com/index/daybreak-securing-the-world/",
+   "host": "openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-23",
+  "excerpt": "On 2026-06-23, the GPT-5.5-Cyber thread linked to an official OpenAI Daybreak page. Based on the dated official link and its security-oriented URL, this is proposed as a material public communication in the project's development history. Its detailed claims and precise technical significance have not been researched."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

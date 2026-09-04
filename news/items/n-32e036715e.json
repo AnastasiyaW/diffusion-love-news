@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-32e036715e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "TeraTTSv2 was documented with linked model, demo, and related voice tools",
+ "summary": "On 2026-08-17, the dated record linked the TeraTTSv2 Hugging Face model and a TeraTTS demo space. It also connected this reference set to two GitHub projects concerning Supertonic-based voice cloning and mixing. The available record establishes the contemporaneous links, but not a release, feature change, benchmark, or technical relationship beyond them.",
+ "research_notes": "",
+ "project": {
+  "name": "TeraTTSv2",
+  "family_slug": "terattsv2",
+  "family_display": "TeraTTSv2",
+  "model_slug": "terattsv2",
+  "model_display": "TeraTTSv2",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TeraTTSv2",
+  "family:terattsv2",
+  "misc",
+  "teraspace/terattsv2",
+  "terattsv2"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "terattsv2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "http://huggingface.co/TeraSpace/TeraTTSv2",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/TeraTTS/TTS",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/saurabhv749/supertonic3-voice-clone",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Topping1/Supertonic-Voice-Mixer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-17",
+  "excerpt": "On 2026-08-17, the dated record linked the TeraTTSv2 Hugging Face model and a TeraTTS demo space. It also connected this reference set to two GitHub projects concerning Supertonic-based voice cloning and mixing. The available record establishes the contemporaneous links, but not a release, feature change, benchmark, or technical relationship beyond them."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "sdxs-1b-upscaler",
   "family_slug": "sdxs",
-  "family_display": "sdxs-1b-upscaler",
+  "family_display": "sdxs",
   "model_slug": "sdxs-1b",
   "model_display": "sdxs-1b",
   "version": null,

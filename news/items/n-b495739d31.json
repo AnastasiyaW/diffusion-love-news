@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b495739d31",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Percepta AI published a perspective on LLMs as computers",
+ "summary": "On 2026-03-16, Percepta AI published a blog article addressing whether large language models can be understood as computers. This is a dated public contribution to the company's apparent line of thought on LLM-based computing, rather than evidence of a specific product release or technical result.",
+ "research_notes": "",
+ "project": {
+  "name": "Percepta AI",
+  "family_slug": "percepta-ai",
+  "family_display": "Percepta AI",
+  "model_slug": "percepta-ai",
+  "model_display": "Percepta AI",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Percepta AI",
+  "family:percepta-ai",
+  "misc",
+  "percepta-ai"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "percepta-ai"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.percepta.ai/blog/can-llms-be-computers",
+   "host": "percepta.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-16",
+  "excerpt": "On 2026-03-16, Percepta AI published a blog article addressing whether large language models can be understood as computers. This is a dated public contribution to the company's apparent line of thought on LLM-based computing, rather than evidence of a specific product release or technical result."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

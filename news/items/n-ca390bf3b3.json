@@ -10,7 +10,7 @@
  "project": {
   "name": "GPT-Image 2",
   "family_slug": "gpt-image",
-  "family_display": "GPT-Image",
+  "family_display": "GPT Image",
   "model_slug": "gpt-image-2",
   "model_display": "GPT-Image 2",
   "version": "2",

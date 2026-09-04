@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e3f07cf60d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MetaView public project resources were made available",
+ "summary": "On 2026-07-20, MetaView was associated with a public project site, source repository, Hugging Face model page, and hosted demo. Taken together, these dated links indicate a public availability milestone for the project. The links alone do not establish a version, feature set, or release conditions.",
+ "research_notes": "",
+ "project": {
+  "name": "MetaView",
+  "family_slug": "metaview",
+  "family_display": "MetaView",
+  "model_slug": "metaview",
+  "model_display": "MetaView",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MetaView",
+  "family:metaview",
+  "metaview",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "metaview"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://prototypenx.github.io/MetaView/",
+   "host": "prototypenx.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KlingAIResearch/MetaView",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Kwai-Kolors/MetaView",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/metaview-lightning",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-20",
+  "excerpt": "On 2026-07-20, MetaView was associated with a public project site, source repository, Hugging Face model page, and hosted demo. Taken together, these dated links indicate a public availability milestone for the project. The links alone do not establish a version, feature set, or release conditions."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-2b71540823",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "WAN exposed a realtime playground route",
+ "summary": "On 2026-07-31, the WAN Create site included a lab playground route labeled realtime. This is a material interface-development step because it indicates an interactive realtime entry point for WAN, distinct from a model-download or batch-workflow link.",
+ "research_notes": "",
+ "project": {
+  "name": "WAN",
+  "family_slug": "wan",
+  "family_display": "WAN",
+  "model_slug": "wan",
+  "model_display": "WAN",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "WAN",
+  "family:wan",
+  "misc",
+  "wan"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "wan"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://create.wan.video/lab/playground/realtime",
+   "host": "create.wan.video",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-31",
+  "excerpt": "On 2026-07-31, the WAN Create site included a lab playground route labeled realtime. This is a material interface-development step because it indicates an interactive realtime entry point for WAN, distinct from a model-download or batch-workflow link."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

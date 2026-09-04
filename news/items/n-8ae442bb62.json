@@ -1,0 +1,84 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8ae442bb62",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "mm-ctx public Hugging Face Space reference",
+ "summary": "On 2026-05-19, the mm-ctx development line referenced a public Hugging Face Space at https://huggingface.co/spaces/vlm-run/mm-ctx. The available record establishes this public project reference, but does not establish whether it marked a launch, update, demo, or another specific milestone.",
+ "research_notes": "",
+ "project": {
+  "name": "mm-ctx",
+  "family_slug": "mm-ctx",
+  "family_display": "mm ctx",
+  "model_slug": "mm-ctx",
+  "model_display": "mm-ctx",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "family:mm-ctx",
+  "misc",
+  "mm-ctx"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "mm-ctx"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/vlm-run/mm-ctx",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-19",
+  "excerpt": "On 2026-05-19, the mm-ctx development line referenced a public Hugging Face Space at https://huggingface.co/spaces/vlm-run/mm-ctx. The available record establishes this public project reference, but does not establish whether it marked a launch, update, demo, or another specific milestone."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

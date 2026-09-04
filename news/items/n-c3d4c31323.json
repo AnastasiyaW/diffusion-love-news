@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c3d4c31323",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Frame Extractor repository linked as a project development reference",
+ "summary": "On 2026-08-21, the Frame Extractor development line included a link to its GitHub repository. This establishes a dated public reference for the project, but the available evidence does not identify a specific release, feature, change, or operational capability.",
+ "research_notes": "",
+ "project": {
+  "name": "Frame Extractor",
+  "family_slug": "frame-extractor",
+  "family_display": "Frame Extractor",
+  "model_slug": "frame-extractor",
+  "model_display": "Frame Extractor",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Frame Extractor",
+  "family:frame-extractor",
+  "frame-extractor",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "frame-extractor"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/morishuz/frame-extractor",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-21",
+  "excerpt": "On 2026-08-21, the Frame Extractor development line included a link to its GitHub repository. This establishes a dated public reference for the project, but the available evidence does not identify a specific release, feature, change, or operational capability."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

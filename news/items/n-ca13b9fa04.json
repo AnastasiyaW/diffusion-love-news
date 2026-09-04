@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ca13b9fa04",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "δ-Mem was introduced with paper and code links",
+ "summary": "On 2026-05-13, δ-Mem was presented in this development line with links to a Hugging Face Papers entry and the declare-lab/delta-Mem repository. This is a material research-release milestone because it connects the project to both a paper record and an implementation resource. The available dated links do not establish the release's technical claims, authorship, version, or evaluation results.",
+ "research_notes": "",
+ "project": {
+  "name": "δ-mem",
+  "family_slug": "delta-mem",
+  "family_display": "Delta Mem",
+  "model_slug": "delta-mem",
+  "model_display": "δ-mem",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "delta-mem",
+  "delta-mem-release",
+  "family:delta-mem",
+  "misc",
+  "δ-mem"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "delta-mem"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/papers/2605.12357",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/declare-lab/delta-Mem",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "On 2026-05-13, δ-Mem was presented in this development line with links to a Hugging Face Papers entry and the declare-lab/delta-Mem repository. This is a material research-release milestone because it connects the project to both a paper record and an implementation resource. The available dated links do not establish the release's technical claims, authorship, version, or evaluation results."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

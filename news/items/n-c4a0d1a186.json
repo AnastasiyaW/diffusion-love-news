@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c4a0d1a186",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "CARLA-Air GitHub repository linked",
+ "summary": "On 2026-04-03, the CARLA-Air development line included a link to the project's GitHub repository, louis zeng CN/CarlaAir. This provides a dated public-source reference for the project. The available evidence does not establish a release, version, change set, or repository contents.",
+ "research_notes": "",
+ "project": {
+  "name": "CARLA-Air",
+  "family_slug": "carla-air",
+  "family_display": "CARLA Air",
+  "model_slug": "carla-air",
+  "model_display": "CARLA-Air",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CARLA-Air",
+  "carla-air",
+  "carla_air_release",
+  "family:carla-air",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "carla-air"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/louiszengCN/CarlaAir",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-04-03",
+  "excerpt": "On 2026-04-03, the CARLA-Air development line included a link to the project's GitHub repository, louis zeng CN/CarlaAir. This provides a dated public-source reference for the project. The available evidence does not establish a release, version, change set, or repository contents."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

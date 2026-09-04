@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-55b05978df",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Reports describe a Claude Code-related unexpected-charge incident",
+ "summary": "On 2026-05-13, linked reports described an alleged Claude Code-related incident involving unexpected charges and an Anthropic API key in a project context. The available links do not establish the cause, scope, or remediation, so this is retained as a reported user-impact event pending research.",
+ "research_notes": "",
+ "project": {
+  "name": "Claude Code",
+  "family_slug": "claude-code",
+  "family_display": "Claude Code",
+  "model_slug": "claude-code",
+  "model_display": "Claude Code",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claude Code",
+  "claude-code",
+  "claude-code-billing",
+  "family:claude-code",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "claude-code"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://vc.ru/ai/2897200-bag-v-claude-code-privel-k-spisaniyu-sredstv-iz-za-hermes-md",
+   "host": "vc.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1tbaq2d/psa_if_your_project_has_an_anthropic_api_key_in/?js_challenge=1&jsc_orig_r=",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-05-13",
+  "excerpt": "On 2026-05-13, linked reports described an alleged Claude Code-related incident involving unexpected charges and an Anthropic API key in a project context. The available links do not establish the cause, scope, or remediation, so this is retained as a reported user-impact event pending research."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

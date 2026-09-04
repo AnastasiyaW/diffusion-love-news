@@ -1,0 +1,104 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e3f801a8ba",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "SwiftVR public project resources were recorded",
+ "summary": "On 2026-06-15, SwiftVR was recorded with links to a public project page, source repository, model page, and The source discussion. This establishes a public project presence by that date, but the available evidence does not establish a version, release details, or technical capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "SwiftVR",
+  "family_slug": "swiftvr",
+  "family_display": "SwiftVR",
+  "model_slug": "swiftvr",
+  "model_display": "SwiftVR",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "SwiftVR",
+  "family:swiftvr",
+  "misc",
+  "swiftvr",
+  "video_restoration"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "swiftvr"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://h-oliday.github.io/SwiftVR/",
+   "host": "h-oliday.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/H-oliday/SwiftVR",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/H-oliday/SwiftVR",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-15",
+  "excerpt": "On 2026-06-15, SwiftVR was recorded with links to a public project page, source repository, model page, and The source discussion. This establishes a public project presence by that date, but the available evidence does not establish a version, release details, or technical capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

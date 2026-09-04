@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0abfd5c1ff",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA surfaced its Synthetic Video Detector in SIGGRAPH 2026 materials",
+ "summary": "On 2026-07-25, NVIDIA's SIGGRAPH 2026 news page linked to a dedicated Synthetic Video Detector page on NVIDIA Build. This is a material public disclosure and availability milestone for the project because it connected the detector to NVIDIA's public developer platform. The supplied links do not establish its capabilities, release maturity, or deployment details.",
+ "research_notes": "",
+ "project": {
+  "name": "NVIDIA Synthetic Video Detector",
+  "family_slug": "synthetic-video-detector",
+  "family_display": "Synthetic Video Detector",
+  "model_slug": "synthetic-video-detector",
+  "model_display": "NVIDIA Synthetic Video Detector",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NVIDIA Synthetic Video Detector",
+  "family:synthetic-video-detector",
+  "misc",
+  "nvidia_synthetic_video_detector",
+  "synthetic-video-detector"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "synthetic-video-detector"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/#synthetic-video",
+   "host": "blogs.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://build.nvidia.com/nvidia/synthetic-video-detector",
+   "host": "build.nvidia.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-25",
+  "excerpt": "On 2026-07-25, NVIDIA's SIGGRAPH 2026 news page linked to a dedicated Synthetic Video Detector page on NVIDIA Build. This is a material public disclosure and availability milestone for the project because it connected the detector to NVIDIA's public developer platform. The supplied links do not establish its capabilities, release maturity, or deployment details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-443c254b7f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LTX-2.3-Foley-LoRA model page was recorded",
+ "summary": "On 2026-07-01, the project history recorded a Hugging Face model page at FuzzPuppy/LTX-2.3-Foley-LoRA. This is a material public reference for a named Foley LoRA artifact, while the sealed link alone does not establish its capabilities, provenance, compatibility, or release details.",
+ "research_notes": "",
+ "project": {
+  "name": "LTX-2.3-Foley-LoRA",
+  "family_slug": "ltx-foley-lora",
+  "family_display": "Ltx Foley Lora",
+  "model_slug": "ltx-foley-lora",
+  "model_display": "LTX-2.3-Foley-LoRA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "LTX-2.3-Foley-LoRA",
+  "family:ltx-foley-lora",
+  "ltx-foley-lora",
+  "ltx_video",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ltx-foley-lora"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FuzzPuppy/LTX-2.3-Foley-LoRA",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-01",
+  "excerpt": "On 2026-07-01, the project history recorded a Hugging Face model page at FuzzPuppy/LTX-2.3-Foley-LoRA. This is a material public reference for a named Foley LoRA artifact, while the sealed link alone does not establish its capabilities, provenance, compatibility, or release details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

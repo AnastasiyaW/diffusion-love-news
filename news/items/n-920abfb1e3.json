@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-920abfb1e3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "RealRestorer project resources were linked",
+ "summary": "On 2026-03-27, the RealRestorer development line was recorded with links to a project page, source repository, model page, and The source reference. This is material to the project history because it establishes a dated public reference point for its associated code and model resources. The supplied links alone do not establish the exact release status, capabilities, or versions.",
+ "research_notes": "",
+ "project": {
+  "name": "RealRestorer",
+  "family_slug": "realrestorer",
+  "family_display": "RealRestorer",
+  "model_slug": "realrestorer",
+  "model_display": "RealRestorer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "RealRestorer",
+  "family:realrestorer",
+  "misc",
+  "realrestorer"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "realrestorer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://yfyang007.github.io/RealRestorer",
+   "host": "yfyang007.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/yfyang007/RealRestorer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/RealRestorer/RealRestorer",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-27",
+  "excerpt": "On 2026-03-27, the RealRestorer development line was recorded with links to a project page, source repository, model page, and The source reference. This is material to the project history because it establishes a dated public reference point for its associated code and model resources. The supplied links alone do not establish the exact release status, capabilities, or versions."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

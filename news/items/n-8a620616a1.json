@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.6-35B-A3B-NVFP4",
   "family_slug": "qwen",
-  "family_display": "Qwen3.6-35B-A3B-NVFP4",
+  "family_display": "Qwen",
   "model_slug": "qwen3-6-35b",
   "model_display": "Qwen3.6-35B",
   "version": null,

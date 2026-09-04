@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-adee3ca551",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PAM public project resources were made available",
+ "summary": "On 2026-03-26, PAM was associated with a public project site, source-code repository, and Hugging Face repository. This establishes a public access point for the project and its associated implementation and hosted resources.",
+ "research_notes": "",
+ "project": {
+  "name": "PAM",
+  "family_slug": "pam",
+  "family_display": "PAM",
+  "model_slug": "pam",
+  "model_display": "PAM",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PAM",
+  "family:pam",
+  "misc",
+  "pam"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "pam"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://gasaiyu.github.io/PAM.github.io/",
+   "host": "gasaiyu.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/GasaiYU/PAM",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/GasaiYU/PAM/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-26",
+  "excerpt": "On 2026-03-26, PAM was associated with a public project site, source-code repository, and Hugging Face repository. This establishes a public access point for the project and its associated implementation and hosted resources."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

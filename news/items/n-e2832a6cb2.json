@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e2832a6cb2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Flux2-Klein-9B-Consistency resource linked",
+ "summary": "On 2026-03-13, the Flux2-Klein-9B-Consistency development line was linked to a Hugging Face resource under dx8152 and to a YouTube video. The dated links indicate a public project-release or availability milestone, but do not establish the model's capabilities, version details, or intended workflow.",
+ "research_notes": "",
+ "project": {
+  "name": "Flux2-Klein-9B-Consistency",
+  "family_slug": "flux2-klein-9b-consistency",
+  "family_display": "Flux2 Klein 9B Consistency",
+  "model_slug": "flux2-klein-9b-consistency",
+  "model_display": "Flux2-Klein-9B-Consistency",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Flux2-Klein-9B-Consistency",
+  "family:flux2-klein-9b-consistency",
+  "flux2-klein-9b-consistency",
+  "lora_releases",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "flux2-klein-9b-consistency"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/dx8152/Flux2-Klein-9B-Consistency",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://www.youtube.com/watch?v=JXMbbbdfnSg",
+   "host": "youtube.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-13",
+  "excerpt": "On 2026-03-13, the Flux2-Klein-9B-Consistency development line was linked to a Hugging Face resource under dx8152 and to a YouTube video. The dated links indicate a public project-release or availability milestone, but do not establish the model's capabilities, version details, or intended workflow."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

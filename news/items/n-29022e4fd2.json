@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-29022e4fd2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3.8-27B-Cold-Fusion GGUF artifact linked",
+ "summary": "On 2026-08-20, a Hugging Face repository link for an artifact named Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF was shared. The dated link records a distinct named artifact in the Qwen derivatives line, but does not by itself establish its technical changes, provenance, or performance.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-27B-Cold-Fusion",
+  "family_slug": "qwen3-8-27b-cold-fusion",
+  "family_display": "Qwen3.8 27B Cold Fusion",
+  "model_slug": "qwen3-8-27b-cold-fusion",
+  "model_display": "Qwen3.8-27B-Cold-Fusion",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-27B-Cold-Fusion",
+  "family:qwen3-8-27b-cold-fusion",
+  "misc",
+  "qwen-derivatives",
+  "qwen3-8-27b-cold-fusion"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-27b-cold-fusion"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-20",
+  "excerpt": "On 2026-08-20, a Hugging Face repository link for an artifact named Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF was shared. The dated link records a distinct named artifact in the Qwen derivatives line, but does not by itself establish its technical changes, provenance, or performance."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

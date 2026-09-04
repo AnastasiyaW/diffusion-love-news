@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5cd28a2bd1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ReChannel project resources were linked",
+ "summary": "On 2026-07-14, ReChannel was linked to a GitHub repository and a Hugging Face page. The supplied links establish a dated project-reference event, but do not identify a specific release, model version, or capability change.",
+ "research_notes": "",
+ "project": {
+  "name": "ReChannel",
+  "family_slug": "rechannel",
+  "family_display": "ReChannel",
+  "model_slug": "rechannel",
+  "model_display": "ReChannel",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ReChannel",
+  "family:rechannel",
+  "misc",
+  "rechannel"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "rechannel"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/xmz111/ReChannel",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/xmz111/ReChannel",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-14",
+  "excerpt": "On 2026-07-14, ReChannel was linked to a GitHub repository and a Hugging Face page. The supplied links establish a dated project-reference event, but do not identify a specific release, model version, or capability change."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

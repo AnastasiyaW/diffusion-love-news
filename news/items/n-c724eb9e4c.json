@@ -1,0 +1,90 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c724eb9e4c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ComfyUI Introduces Stable Dynamic VRAM Management",
+ "summary": "On 2026-03-26, ComfyUI documented Dynamic VRAM as a stable mechanism for reducing memory pressure and out-of-memory failures on supported Nvidia systems. Its guidance emphasized measuring total workflow time instead of isolated iteration speed.",
+ "research_notes": "Веса выгружаются экономнее, снижаются расход RAM и риск OOM.",
+ "project": {
+  "name": "ComfyUI",
+  "family_slug": "comfyui",
+  "family_display": "ComfyUI",
+  "model_slug": "comfyui",
+  "model_display": "ComfyUI",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ComfyUI",
+  "comfy-cloud-pricing",
+  "comfyui",
+  "comfyui_core_updates",
+  "comfyui_desktop",
+  "ecosystem_grants",
+  "family:comfyui",
+  "misc",
+  "product_updates"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://blog.comfy.org/p/dynamic-vram-in-comfyui-saving-local",
+   "host": "blog.comfy.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-26",
+  "excerpt": "On 2026-03-26, ComfyUI documented Dynamic VRAM as a stable mechanism for reducing memory pressure and out-of-memory failures on supported Nvidia systems. Its guidance emphasized measuring total workflow time instead of isolated iteration speed."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,142 +1,142 @@
 {
-  "schema_version": "1.3",
-  "id": "n-2f94cbb043",
-  "entry_type": "news",
+ "schema_version": "1.3",
+ "id": "n-2f94cbb043",
+ "entry_type": "news",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Enrich agent research articles",
+ "summary": "Five public articles in the llm-agents domain were enriched in the repository.",
+ "research_notes": "The affected-file count was verified from the immutable commit file list.",
+ "project": {
+  "name": "Happyin Knowledge Space",
+  "family_slug": "happyin-space",
+  "family_display": "Happyin Space",
+  "model_slug": "happyin-space",
+  "model_display": "Happyin Knowledge Space",
+  "version": null,
+  "released": "2026-03-30",
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null,
+  "summary": "Happyin Knowledge Space is a public technical knowledge base published at https://happyin.space/ from the AnastasiyaW/knowledge-space repository. Its project history records only milestones traceable to immutable repository commits.",
+  "kind": "knowledge-base",
+  "status": "active",
+  "homepage": "https://happyin.space/",
+  "repository": "https://github.com/AnastasiyaW/knowledge-space"
+ },
+ "tags": [
+  "Happyin Knowledge Space",
+  "happyin-space",
+  "knowledge-base",
+  "family:happyin-space",
+  "llm-agents",
+  "article-enrichment"
+ ],
+ "facets": {
   "category": "tools-frontend",
-  "lang": "en",
-  "title": "Enrich agent research articles",
-  "summary": "Five public articles in the llm-agents domain were enriched in the repository.",
-  "research_notes": "The affected-file count was verified from the immutable commit file list.",
-  "project": {
-    "name": "Happyin Knowledge Space",
-    "family_slug": "happyin-space",
-    "family_display": "Happyin Knowledge Space",
-    "model_slug": "happyin-space",
-    "model_display": "Happyin Knowledge Space",
-    "version": null,
-    "released": "2026-03-30",
-    "vendor": null,
-    "vendor_slug": null,
-    "origin_region": null,
-    "license": null,
-    "base_model": null,
-    "adaptation": null,
-    "summary": "Happyin Knowledge Space is a public technical knowledge base published at https://happyin.space/ from the AnastasiyaW/knowledge-space repository. Its project history records only milestones traceable to immutable repository commits.",
-    "kind": "knowledge-base",
-    "status": "active",
-    "homepage": "https://happyin.space/",
-    "repository": "https://github.com/AnastasiyaW/knowledge-space"
-  },
-  "tags": [
-    "Happyin Knowledge Space",
-    "happyin-space",
-    "knowledge-base",
-    "family:happyin-space",
-    "llm-agents",
-    "article-enrichment"
+  "entry_type": "news",
+  "projects": [
+   "happyin-space"
   ],
-  "facets": {
-    "category": "tools-frontend",
-    "entry_type": "news",
-    "projects": [
-      "happyin-space"
-    ],
-    "versions": [],
-    "features": [
-      "knowledge-base",
-      "wiki-links"
-    ],
-    "formats": [
-      "github",
-      "website"
-    ],
-    "platforms": [
-      "web"
-    ],
-    "vendors": [],
-    "base_models": [],
-    "origin": null,
-    "license": null,
-    "year": 2026,
-    "models": [],
-    "adaptations": []
-  },
-  "links": [
-    {
-      "kind": "source",
-      "url": "https://github.com/AnastasiyaW/knowledge-space/commit/a99e8c6e78f9526369c63f784d92007d8331a097",
-      "host": "github.com",
-      "lang": "en",
-      "is_primary": true,
-      "status": "live",
-      "verified_at": "2026-06-19T18:47:44Z"
-    },
-    {
-      "kind": "repository",
-      "url": "https://github.com/AnastasiyaW/knowledge-space",
-      "host": "github.com",
-      "lang": "en",
-      "is_primary": false,
-      "status": "live",
-      "verified_at": "2026-06-19T18:47:44Z"
-    },
-    {
-      "kind": "project-page",
-      "url": "https://happyin.space/",
-      "host": "happyin.space",
-      "lang": "en",
-      "is_primary": false,
-      "status": "unverified",
-      "verified_at": null
-    }
+  "versions": [],
+  "features": [
+   "knowledge-base",
+   "wiki-links"
   ],
-  "evolution": {
-    "summary": "Five llm-agents research articles were enriched.",
-    "latest_version": null,
-    "related_ids": [
-      "n-048b3192a0"
-    ],
-    "is_latest_in_family": true
+  "formats": [
+   "github",
+   "website"
+  ],
+  "platforms": [
+   "web"
+  ],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "source",
+   "url": "https://github.com/AnastasiyaW/knowledge-space/commit/a99e8c6e78f9526369c63f784d92007d8331a097",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "live",
+   "verified_at": "2026-06-19T18:47:44Z"
   },
-  "media": {
-    "has_image": false,
-    "has_video": false
+  {
+   "kind": "repository",
+   "url": "https://github.com/AnastasiyaW/knowledge-space",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "live",
+   "verified_at": "2026-06-19T18:47:44Z"
   },
-  "source": {
-    "posted_at": "2026-06-19",
-    "excerpt": "Enrich agent research articles"
+  {
+   "kind": "project-page",
+   "url": "https://happyin.space/",
+   "host": "happyin.space",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": null
+  }
+ ],
+ "evolution": {
+  "summary": "Five llm-agents research articles were enriched.",
+  "latest_version": null,
+  "related_ids": [
+   "n-048b3192a0"
+  ],
+  "is_latest_in_family": true
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-19",
+  "excerpt": "Enrich agent research articles"
+ },
+ "_meta": {
+  "extracted_at": null,
+  "classified_at": null,
+  "enriched_at": null,
+  "verified_at": "2026-06-19T18:47:44Z",
+  "models_used": {
+   "classify": null,
+   "enrich": null
   },
-  "_meta": {
-    "extracted_at": null,
-    "classified_at": null,
-    "enriched_at": null,
-    "verified_at": "2026-06-19T18:47:44Z",
-    "models_used": {
-      "classify": null,
-      "enrich": null
-    },
-    "schema_validated": true
-  },
-  "lifecycle_event": {
-    "kind": "article-enrichment",
-    "date": "2026-06-19",
-    "title": "Agent research articles enriched",
-    "summary": "Five articles in the llm-agents domain were enriched."
-  },
-  "claims": [
+  "schema_validated": true
+ },
+ "lifecycle_event": {
+  "kind": "article-enrichment",
+  "date": "2026-06-19",
+  "title": "Agent research articles enriched",
+  "summary": "Five articles in the llm-agents domain were enriched."
+ },
+ "claims": [
+  {
+   "id": "happyin-space-a99e8c6",
+   "statement": "The enrichment commit modified five articles in the llm-agents domain.",
+   "kind": "content-enrichment",
+   "status": "verified",
+   "evidence": [
     {
-      "id": "happyin-space-a99e8c6",
-      "statement": "The enrichment commit modified five articles in the llm-agents domain.",
-      "kind": "content-enrichment",
-      "status": "verified",
-      "evidence": [
-        {
-          "url": "https://github.com/AnastasiyaW/knowledge-space/commit/a99e8c6e78f9526369c63f784d92007d8331a097",
-          "title": "Enrich agent research articles",
-          "publisher": "AnastasiyaW/knowledge-space",
-          "published_at": "2026-06-19"
-        }
-      ]
+     "url": "https://github.com/AnastasiyaW/knowledge-space/commit/a99e8c6e78f9526369c63f784d92007d8331a097",
+     "title": "Enrich agent research articles",
+     "publisher": "AnastasiyaW/knowledge-space",
+     "published_at": "2026-06-19"
     }
-  ]
+   ]
+  }
+ ]
 }

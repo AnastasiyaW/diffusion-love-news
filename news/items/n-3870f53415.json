@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3870f53415",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "TurboQuant was publicly presented as an extreme-compression AI-efficiency approach",
+ "summary": "On 2026-03-26, a Google Research blog link presented TurboQuant in connection with AI efficiency and extreme compression. This is a material public development in the project's history because it signals a named approach or project being introduced to readers.",
+ "research_notes": "",
+ "project": {
+  "name": "TurboQuant",
+  "family_slug": "turboquant",
+  "family_display": "TurboQuant",
+  "model_slug": "turboquant",
+  "model_display": "TurboQuant",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "TurboQuant",
+  "family:turboquant",
+  "misc",
+  "turboquant"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "turboquant"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "http://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+   "host": "research.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-26",
+  "excerpt": "On 2026-03-26, a Google Research blog link presented TurboQuant in connection with AI efficiency and extreme compression. This is a material public development in the project's history because it signals a named approach or project being introduced to readers."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

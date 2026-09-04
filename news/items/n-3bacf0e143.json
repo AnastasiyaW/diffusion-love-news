@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-3bacf0e143",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Apple presents the third generation of its Foundation Models",
+ "summary": "On 2026-06-10, Apple published a research announcement presenting the third generation of Apple Foundation Models. This is a generation-level development in the project’s history; the available dated link alone does not establish more specific capability or deployment details.",
+ "research_notes": "",
+ "project": {
+  "name": "Apple Foundation Models 3",
+  "family_slug": "afm-3",
+  "family_display": "Afm 3",
+  "model_slug": "afm-3",
+  "model_display": "Apple Foundation Models 3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Apple Foundation Models 3",
+  "afm-3",
+  "apple-foundation-models",
+  "family:afm-3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "afm-3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+   "host": "machinelearning.apple.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-10",
+  "excerpt": "On 2026-06-10, Apple published a research announcement presenting the third generation of Apple Foundation Models. This is a generation-level development in the project’s history; the available dated link alone does not establish more specific capability or deployment details."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

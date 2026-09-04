@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-612fbb9ad1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "CameraAnything public project resources linked",
+ "summary": "On 2026-07-29, the CameraAnything development line was represented by links to its project page, source repository, and Hugging Face page. From the dated links alone, this is treated as a public availability and distribution milestone for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "CameraAnything",
+  "family_slug": "cameraanything",
+  "family_display": "CameraAnything",
+  "model_slug": "cameraanything",
+  "model_display": "CameraAnything",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "CameraAnything",
+  "cameraanything",
+  "family:cameraanything",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "cameraanything"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://yixuanli98.github.io/cameraanything/",
+   "host": "yixuanli98.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/yixuanli98/CameraAnything",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/liyixxxuan/cameraanything",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-29",
+  "excerpt": "On 2026-07-29, the CameraAnything development line was represented by links to its project page, source repository, and Hugging Face page. From the dated links alone, this is treated as a public availability and distribution milestone for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0778115bb1",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "4DAnyone public project and source reference",
+ "summary": "On 2026-08-22, the recorded link referenced the 4DAnyone project website and the ant-research/4DAnyone GitHub repository together. This is treated as a material public-project and source-reference milestone without inferring a specific release, technical claim, or repository state.",
+ "research_notes": "",
+ "project": {
+  "name": "4DAnyone",
+  "family_slug": "4danyone",
+  "family_display": "4DAnyone",
+  "model_slug": "4danyone",
+  "model_display": "4DAnyone",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "4DAnyone",
+  "4danyone",
+  "family:4danyone",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "4danyone"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://4danyone.github.io/",
+   "host": "4danyone.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/ant-research/4DAnyone",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-22",
+  "excerpt": "On 2026-08-22, the recorded link referenced the 4DAnyone project website and the ant-research/4DAnyone GitHub repository together. This is treated as a material public-project and source-reference milestone without inferring a specific release, technical claim, or repository state."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-cb62ae01fa",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "PhotoQuilt project resources were made available",
+ "summary": "On 2026-07-06, PhotoQuilt was linked through its project website, source-code repository, and hosted Hugging Face Space. This constitutes a material public development step because it gave practitioners distinct places to inspect, obtain, and try the project.",
+ "research_notes": "",
+ "project": {
+  "name": "PhotoQuilt",
+  "family_slug": "photoquilt",
+  "family_display": "PhotoQuilt",
+  "model_slug": "photoquilt",
+  "model_display": "PhotoQuilt",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "PhotoQuilt",
+  "family:photoquilt",
+  "misc",
+  "photoquilt"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "photoquilt"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://kooroshrh.github.io/photo-quilt/",
+   "host": "kooroshrh.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KooroshRH/PhotoQuilt",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/hugging-apps/photo-quilt",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-06",
+  "excerpt": "On 2026-07-06, PhotoQuilt was linked through its project website, source-code repository, and hosted Hugging Face Space. This constitutes a material public development step because it gave practitioners distinct places to inspect, obtain, and try the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

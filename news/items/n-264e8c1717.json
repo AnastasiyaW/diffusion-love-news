@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-264e8c1717",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "A ComfyUI resource for FireRed Image Edit 1.1 was linked",
+ "summary": "On 2026-03-17, a message in the FireRed thread linked a Hugging Face repository whose URL identifies it as FireRed Image Edit 1.1 for ComfyUI. The same message included three RunningHub URLs. The available evidence does not reveal the linked content or prove a release, capability change, or workflow details, so this records only the dated publication of these resource links.",
+ "research_notes": "",
+ "project": {
+  "name": "FireRed Image Edit",
+  "family_slug": "firered-image-edit",
+  "family_display": "FireRed Image Edit",
+  "model_slug": "firered-image-edit",
+  "model_display": "FireRed Image Edit",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "FireRed Image Edit",
+  "family:firered-image-edit",
+  "firered",
+  "firered-image-edit",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "firered-image-edit"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1-ComfyUI",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.runninghub.ai/post/2030611704802971649?inviteCode=rh-v1495",
+   "host": "runninghub.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.runninghub.ai/post/2030612012606169089?inviteCode=rh-v1495",
+   "host": "runninghub.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.runninghub.ai/post/2030612111793065986?inviteCode=rh-v1495",
+   "host": "runninghub.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-17",
+  "excerpt": "On 2026-03-17, a message in the FireRed thread linked a Hugging Face repository whose URL identifies it as FireRed Image Edit 1.1 for ComfyUI. The same message included three RunningHub URLs. The available evidence does not reveal the linked content or prove a release, capability change, or workflow details, so this records only the dated publication of these resource links."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

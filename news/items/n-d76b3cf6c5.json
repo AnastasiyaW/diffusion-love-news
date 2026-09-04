@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d76b3cf6c5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "METR coverage of GPT-5.6 Sol",
+ "summary": "On 2026-06-30, the record recorded a source-shared link to a METR blog article dated 2026-06-26 concerning GPT-5.6 Sol. This is material as an externally published evaluation-related milestone for the project, although the available record does not establish the article's detailed findings.",
+ "research_notes": "",
+ "project": {
+  "name": "GPT-5.6 Sol",
+  "family_slug": "gpt-5-6-sol",
+  "family_display": "GPT 5.6 Sol",
+  "model_slug": "gpt-5-6-sol",
+  "model_display": "GPT-5.6 Sol",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT-5.6 Sol",
+  "family:gpt-5-6-sol",
+  "gpt-5-6-sol",
+  "misc",
+  "openai"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gpt-5-6-sol"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://metr.org/blog/2026-06-26-gpt-5-6-sol/",
+   "host": "metr.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-30",
+  "excerpt": "On 2026-06-30, the record recorded a source-shared link to a METR blog article dated 2026-06-26 concerning GPT-5.6 Sol. This is material as an externally published evaluation-related milestone for the project, although the available record does not establish the article's detailed findings."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

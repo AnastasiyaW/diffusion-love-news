@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-4941701283",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Dated Comfy workflow reference for VFX passes",
+ "summary": "On 2026-06-12, this development line linked to a Comfy workflow page alongside heydoughogan's Twitter profile. The dated workflow reference is a public-facing step associated with the project, but the supplied evidence does not establish the workflow's contents, release status, or changes from prior work. This proposed history event is therefore limited to recording that reference.",
+ "research_notes": "",
+ "project": {
+  "name": "heydoughogan ComfyUI VFX Workflow",
+  "family_slug": "comfyui-vfx-workflow",
+  "family_display": "ComfyUI VFX Workflow",
+  "model_slug": "comfyui-vfx-workflow",
+  "model_display": "heydoughogan ComfyUI VFX Workflow",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "comfyui-vfx-passes",
+  "comfyui-vfx-workflow",
+  "family:comfyui-vfx-workflow",
+  "heydoughogan ComfyUI VFX Workflow",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-vfx-workflow"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://comfy.org/workflows/be0889296f65-be0889296f65/",
+   "host": "comfy.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://twitter.com/heydoughogan",
+   "host": "twitter.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-12",
+  "excerpt": "On 2026-06-12, this development line linked to a Comfy workflow page alongside heydoughogan's Twitter profile. The dated workflow reference is a public-facing step associated with the project, but the supplied evidence does not establish the workflow's contents, release status, or changes from prior work. This proposed history event is therefore limited to recording that reference."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

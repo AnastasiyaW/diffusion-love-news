@@ -1,0 +1,113 @@
+{
+ "schema_version": "1.3",
+ "id": "n-0c368b4c16",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Geometric Latent Diffusion project resources, model, and demo made publicly available",
+ "summary": "On 2026-03-30, Geometric Latent Diffusion was presented through a project page and source repository, with a Hugging Face model release and interactive demo also linked. This was a material public-availability milestone for the project's code, model artefact, and demonstration.",
+ "research_notes": "",
+ "project": {
+  "name": "Geometric Latent Diffusion",
+  "family_slug": "geometric-latent-diffusion",
+  "family_display": "Geometric Latent Diffusion",
+  "model_slug": "geometric-latent-diffusion",
+  "model_display": "Geometric Latent Diffusion",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Geometric Latent Diffusion",
+  "family:geometric-latent-diffusion",
+  "geometric-latent-diffusion",
+  "geometric_latent_diffusion",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "geometric-latent-diffusion"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://cvlab-kaist.github.io/GLD/",
+   "host": "cvlab-kaist.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/cvlab-kaist/GLD/",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/SeonghuJeon/GLD",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/SeonghuJeon/GLD-demo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-30",
+  "excerpt": "On 2026-03-30, Geometric Latent Diffusion was presented through a project page and source repository, with a Hugging Face model release and interactive demo also linked. This was a material public-availability milestone for the project's code, model artefact, and demonstration."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

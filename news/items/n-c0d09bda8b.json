@@ -1,0 +1,122 @@
+{
+ "schema_version": "1.3",
+ "id": "n-c0d09bda8b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVIDIA announced Nemotron 3 Super",
+ "summary": "On 2026-03-12, NVIDIA announced Nemotron 3 Super. The supplied dated links associate the release with a model distribution page, hosted access, a video overview, and a NeMo usage cookbook, making it a material development step for the project.",
+ "research_notes": "",
+ "project": {
+  "name": "Nemotron 3 Super",
+  "family_slug": "nemotron-3-super",
+  "family_display": "Nemotron 3 Super",
+  "model_slug": "nemotron-3-super",
+  "model_display": "Nemotron 3 Super",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nemotron 3 Super",
+  "family:nemotron-3-super",
+  "llm_releases",
+  "misc",
+  "nemotron-3-super"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nemotron-3-super"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning/",
+   "host": "developer.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://openrouter.ai/nvidia/nemotron-3-super-120b-a12b:free",
+   "host": "openrouter.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "video",
+   "url": "https://youtu.be/Y1ed7T7Vwdg",
+   "host": "youtu.be",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/NVIDIA-NeMo/Nemotron/tree/main/usage-cookbook/Nemotron-3-Super",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-12",
+  "excerpt": "On 2026-03-12, NVIDIA announced Nemotron 3 Super. The supplied dated links associate the release with a model distribution page, hosted access, a video overview, and a NeMo usage cookbook, making it a material development step for the project."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-dbba09c3a2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ShotStream public project, code, and model pages were linked",
+ "summary": "On 2026-03-31, a dated ShotStream member pointed readers to its public project page, GitHub repository, and Hugging Face page. This records a public reference point for the project’s development line, but the supplied evidence does not establish a release version, capabilities, authorship, or the exact text of the original message.",
+ "research_notes": "",
+ "project": {
+  "name": "ShotStream",
+  "family_slug": "shotstream",
+  "family_display": "ShotStream",
+  "model_slug": "shotstream",
+  "model_display": "ShotStream",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ShotStream",
+  "family:shotstream",
+  "misc",
+  "shotstream"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "shotstream"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://luo0207.github.io/ShotStream/",
+   "host": "luo0207.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/KlingAIResearch/ShotStream",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/KlingTeam/ShotStream",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-31",
+  "excerpt": "On 2026-03-31, a dated ShotStream member pointed readers to its public project page, GitHub repository, and Hugging Face page. This records a public reference point for the project’s development line, but the supplied evidence does not establish a release version, capabilities, authorship, or the exact text of the original message."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

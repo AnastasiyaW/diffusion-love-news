@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-49188c7915",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "NVPanoptix-3D v1.1 Matterport3D model link recorded",
+ "summary": "On 2026-03-24, the record recorded a link to an NVIDIA Hugging Face repository whose path identifies NVPanoptix-3D v1.1 for Matterport3D. This is proposed as a material historical step because it points to a versioned model artifact for the project. The link alone does not establish whether this was a release, update, or repost, so no capability or availability claims are made.",
+ "research_notes": "",
+ "project": {
+  "name": "NVPanoptix-3D",
+  "family_slug": "nvpanoptix-3d",
+  "family_display": "NVPanoptix 3D",
+  "model_slug": "nvpanoptix-3d",
+  "model_display": "NVPanoptix-3D",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NVPanoptix-3D",
+  "family:nvpanoptix-3d",
+  "misc",
+  "nvpanoptix-3d",
+  "nvpanoptix_3d"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvpanoptix-3d"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/nvidia/nvpanoptix-3d-v1.1-matterport3d",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-24",
+  "excerpt": "On 2026-03-24, the record recorded a link to an NVIDIA Hugging Face repository whose path identifies NVPanoptix-3D v1.1 for Matterport3D. This is proposed as a material historical step because it points to a versioned model artifact for the project. The link alone does not establish whether this was a release, update, or repost, so no capability or availability claims are made."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

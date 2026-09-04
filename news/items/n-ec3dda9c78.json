@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ec3dda9c78",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "HOMIE public project resources were recorded",
+ "summary": "On 2026-07-22, the HOMIE development line was recorded with links to its project website, GitHub repository, and a Hugging Face model page named homie-r2v-wan2.1. This is a material public project milestone because it connects the project’s public documentation, source, and model distribution. The record does not establish the precise release claims, version details, capabilities, or license.",
+ "research_notes": "",
+ "project": {
+  "name": "HOMIE",
+  "family_slug": "homie",
+  "family_display": "HOMIE",
+  "model_slug": "homie",
+  "model_display": "HOMIE",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "HOMIE",
+  "family:homie",
+  "homie",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "homie"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://yiyangcai.github.io/homie-page.github.io/",
+   "host": "yiyangcai.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/YIYANGCAI/HOMIE",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/yychai/homie-r2v-wan2.1",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-07-22",
+  "excerpt": "On 2026-07-22, the HOMIE development line was recorded with links to its project website, GitHub repository, and a Hugging Face model page named homie-r2v-wan2.1. This is a material public project milestone because it connects the project’s public documentation, source, and model distribution. The record does not establish the precise release claims, version details, capabilities, or license."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

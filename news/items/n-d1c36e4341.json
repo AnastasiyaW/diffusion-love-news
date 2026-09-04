@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d1c36e4341",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Huihui-gemma-4-12B-it-abliterated repository referenced",
+ "summary": "On 2026-06-07, the record recorded a link to the Huihui-gemma-4-12B-it-abliterated repository on Hugging Face. From the available evidence alone, this supports treating the repository reference as a material public-history event, without establishing release details or model capabilities.",
+ "research_notes": "",
+ "project": {
+  "name": "Huihui-gemma-4-12B-it-abliterated",
+  "family_slug": "huihui-gemma-4-12b-it-abliterated",
+  "family_display": "Huihui gemma 4 12B it abliterated",
+  "model_slug": "huihui-gemma-4-12b-it-abliterated",
+  "model_display": "Huihui-gemma-4-12B-it-abliterated",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Huihui-gemma-4-12B-it-abliterated",
+  "family:huihui-gemma-4-12b-it-abliterated",
+  "gemma",
+  "huihui-gemma-4-12b-it-abliterated",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "huihui-gemma-4-12b-it-abliterated"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/huihui-ai/Huihui-gemma-4-12B-it-abliterated",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-07",
+  "excerpt": "On 2026-06-07, the record recorded a link to the Huihui-gemma-4-12B-it-abliterated repository on Hugging Face. From the available evidence alone, this supports treating the repository reference as a material public-history event, without establishing release details or model capabilities."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

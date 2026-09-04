@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-160efa0fdb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax H3: A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned mod",
+ "summary": "A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned model release.",
+ "research_notes": "A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned model release.",
+ "project": {
+  "name": "MiniMax H3",
+  "family_slug": "minimax-h3",
+  "family_display": "MiniMax H3",
+  "model_slug": "minimax-h3",
+  "model_display": "MiniMax H3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax H3",
+  "family:minimax-h3",
+  "minimax",
+  "minimax-h3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-h3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-10",
+  "excerpt": "A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned model release."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-756794e690",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax H3 Extender repository was referenced",
+ "summary": "On 2026-08-16, a project-development message referenced the GitHub repository for MiniMax H3 Extender. With no source text or repository inspection in the sealed evidence, this records only a dated repository reference and does not assert a release, feature set, or compatibility claim.",
+ "research_notes": "",
+ "project": {
+  "name": "MiniMax H3 Extender",
+  "family_slug": "comfyui-minimax-h3-extender",
+  "family_display": "Comfyui Minimax H3 Extender",
+  "model_slug": "comfyui-minimax-h3-extender",
+  "model_display": "MiniMax H3 Extender",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax H3 Extender",
+  "comfyui-minimax-h3-extender",
+  "family:comfyui-minimax-h3-extender",
+  "misc",
+  "tritant/comfyui_minimax_h3_extender"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "comfyui-minimax-h3-extender"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/tritant/ComfyUI_MiniMax_H3_Extender",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-04T22:01:31Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-16",
+  "excerpt": "On 2026-08-16, a project-development message referenced the GitHub repository for MiniMax H3 Extender. With no source text or repository inspection in the sealed evidence, this records only a dated repository reference and does not assert a release, feature set, or compatibility claim."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-04T22:01:31Z",
+  "classified_at": "2026-09-04T22:01:31Z",
+  "enriched_at": "2026-09-04T22:01:31Z",
+  "verified_at": "2026-09-04T22:01:31Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

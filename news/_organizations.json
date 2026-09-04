@@ -103,7 +103,7 @@
   "happyin": {
     "slug": "happyin",
     "display": "Happyin",
-    "homepage": "https://happyin.app/",
+    "homepage": null,
     "project_slugs": [
       "diffusion-love"
     ],
