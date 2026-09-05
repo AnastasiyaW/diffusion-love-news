@@ -53195,7 +53195,7 @@
   },
   "minimax-h3": {
     "family_slug": "minimax-h3",
-    "family_display": "MiniMax H3",
+    "family_display": "MiniMax H3 development",
     "family_display_variants": [
       {
         "family_display": "MiniMax H3",
@@ -53204,6 +53204,14 @@
         "news_ids": [
           "n-7127c15c53",
           "n-160efa0fdb"
+        ]
+      },
+      {
+        "family_display": "MiniMax H3 development",
+        "first_seen": "2026-09-05",
+        "last_seen": "2026-09-05",
+        "news_ids": [
+          "n-0ecaaac1b0"
         ]
       }
     ],
@@ -53215,14 +53223,15 @@
     "categories": [
       "misc"
     ],
-    "post_count": 2,
+    "post_count": 3,
     "first_seen": "2026-07-31",
-    "last_seen": "2026-08-10",
+    "last_seen": "2026-09-05",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
       "n-7127c15c53",
-      "n-160efa0fdb"
+      "n-160efa0fdb",
+      "n-0ecaaac1b0"
     ],
     "versions_timeline": [
       {
@@ -53238,6 +53247,13 @@
         "news_id": "n-160efa0fdb",
         "title": "MiniMax H3: A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned mod",
         "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/"
+      },
+      {
+        "version": null,
+        "date": "2026-09-05",
+        "news_id": "n-0ecaaac1b0",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/"
       }
     ],
     "features": [],
@@ -53275,6 +53291,54 @@
         "news_ids": [
           "n-160efa0fdb"
         ]
+      },
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+        "is_primary": true,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3/tree/42ed227ee7df40d41602854ae760620d6eb651fe",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/blob/8c2d9b0edb844d6002864a9addd61458dbe81c22/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/tree/8c2d9b0edb844d6002864a9addd61458dbe81c22",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
       }
     ],
     "timeline": [
@@ -53295,9 +53359,36 @@
         "version": null,
         "news_id": "n-160efa0fdb",
         "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-05",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync.",
+        "version": null,
+        "news_id": "n-0ecaaac1b0",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/"
       }
     ],
     "related_news": [
+      {
+        "id": "n-0ecaaac1b0",
+        "date": "2026-09-05",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "minimax-h3",
+        "version": null,
+        "tags": [
+          "MiniMax H3 development",
+          "family:minimax-h3",
+          "minimax-h3",
+          "misc"
+        ],
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-160efa0fdb",
         "date": "2026-08-10",
@@ -53337,7 +53428,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "minimax-h3",
+        "display": "Minimax H3",
+        "first_seen": "2026-09-05",
+        "last_seen": "2026-09-05",
+        "latest_news_id": "n-0ecaaac1b0",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      }
+    ]
   },
   "minimax-h3-fl2va-ref2va-hybrid-models": {
     "family_slug": "minimax-h3-fl2va-ref2va-hybrid-models",

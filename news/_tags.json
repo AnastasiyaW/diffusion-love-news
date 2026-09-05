@@ -1634,6 +1634,9 @@
   "MiniMax H3 Hybrid": [
     "n-faa53b79d3"
   ],
+  "MiniMax H3 development": [
+    "n-0ecaaac1b0"
+  ],
   "MiniMax M3": [
     "n-d2bc181ad0"
   ],
@@ -5648,7 +5651,8 @@
   ],
   "family:minimax-h3": [
     "n-7127c15c53",
-    "n-160efa0fdb"
+    "n-160efa0fdb",
+    "n-0ecaaac1b0"
   ],
   "family:minimax-h3-fl2va-ref2va-hybrid-models": [
     "n-faa53b79d3"
@@ -8607,7 +8611,8 @@
   ],
   "minimax-h3": [
     "n-7127c15c53",
-    "n-160efa0fdb"
+    "n-160efa0fdb",
+    "n-0ecaaac1b0"
   ],
   "minimax-h3-fl2va-ref2va-hybrid-models": [
     "n-faa53b79d3"
@@ -9178,6 +9183,7 @@
     "n-1027303bd3",
     "n-0f55e4f6a1",
     "n-0f298b0d41",
+    "n-0ecaaac1b0",
     "n-0ebdd3ab44",
     "n-0e3939a347",
     "n-0dea9b891a",
