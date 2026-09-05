@@ -1,9 +1,140 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-05T19:43:23Z",
+  "generated_at": "2026-09-05T20:14:50Z",
   "site": "diffusion.love",
-  "total": 913,
+  "total": 914,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-0ecaaac1b0",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+      "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync.",
+      "research_notes": "Install the released custom-node archive under ComfyUI/custom_nodes/, place MiniMaxH3_SemanticBridge_v1.safetensors under ComfyUI/models/semantic_bridge/, restart ComfyUI, and start from the supplied workflow reference.\n\nUse v1 only with the standard MiniMax H3 FL2VA/text-conditioned route. Do not put it into Ref2VA or another reference-conditioned workflow.\n\nBegin at alpha 0.10 with per-token magnitude matching. Compare native H3 and bridge-enabled output using the same prompt, seed, and generation settings; treat the published alpha 0.15 comparisons as examples rather than a universal preset.\n\nKeep the author's representation-space cosine measurements separate from video-quality claims. The release says they measure agreement with a teacher-derived representation, not perceptual quality or universal prompt-adherence improvement.",
+      "project": {
+        "name": "MiniMax H3 development",
+        "family_slug": "minimax-h3",
+        "family_display": "MiniMax H3 development",
+        "model_slug": "minimax-h3",
+        "model_display": "MiniMax H3 development",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "minimax-h3",
+        "thread_display": "Minimax H3",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "MiniMax H3 development",
+        "article_url": "https://happyin.space/projects/minimax-h3/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7b8cbbc1b5c2ec2402eb9621f345a3edb87293d3/docs/projects/minimax-h3.md",
+        "agent_context_url": "https://happyin.space/projects/minimax-h3/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-05",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "version": null,
+        "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync."
+      },
+      "tags": [
+        "MiniMax H3 development",
+        "family:minimax-h3",
+        "minimax-h3",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "minimax-h3"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+          "host": "reddit.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-05T20:14:50Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3/tree/42ed227ee7df40d41602854ae760620d6eb651fe",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T20:14:50Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/blob/8c2d9b0edb844d6002864a9addd61458dbe81c22/README.md",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T20:14:50Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/tree/8c2d9b0edb844d6002864a9addd61458dbe81c22",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T20:14:50Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-05",
+        "excerpt": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-05T20:14:50Z",
+        "classified_at": "2026-09-05T20:14:50Z",
+        "enriched_at": "2026-09-05T20:14:50Z",
+        "verified_at": "2026-09-05T20:14:50Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-046d02af9f",

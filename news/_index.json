@@ -1,5 +1,23 @@
 [
   {
+    "id": "n-0ecaaac1b0",
+    "date": "2026-09-05",
+    "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3 development",
+      "family:minimax-h3",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-046d02af9f",
     "date": "2026-09-02",
     "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
