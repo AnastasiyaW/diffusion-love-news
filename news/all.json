@@ -1,9 +1,141 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-04T22:06:20Z",
+  "generated_at": "2026-09-05T19:43:23Z",
   "site": "diffusion.love",
-  "total": 910,
+  "total": 911,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-046d02af9f",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+      "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model.",
+      "research_notes": "Clone the extension into ComfyUI/custom_nodes and install its requirements using the Python environment that runs ComfyUI.\n\nDownload the encoder and decoder ONNX files from the maintainer's linked model repository, including accompanying .data files when supplied. Put them under ComfyUI/models/vae.\n\nBuild the engines with MiniMax-H3 TRT VAE Compiler, then load them with MiniMax-H3 TRT VAE Loader.\n\nBelow 12GB VRAM, the maintainer suggests the w4a16_awq decoder. Treat this as an author recommendation, not a guarantee that the complete video workflow will fit your GPU.\n\nCompare the same latent at your target resolution and measure VAE decode separately from total generation time. The independent test found a much smaller gain at 768p than at 2.0MP.",
+      "project": {
+        "name": "ComfyUI Development",
+        "family_slug": "comfyui",
+        "family_display": "ComfyUI Development",
+        "model_slug": "comfyui",
+        "model_display": "ComfyUI Development",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "comfyui-development",
+        "thread_display": "Comfyui Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "ComfyUI Development",
+        "article_url": "https://happyin.space/projects/comfyui/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/5641d1bde34d526d56c0caf49593fca7c6bbc13a/docs/projects/comfyui.md",
+        "agent_context_url": "https://happyin.space/projects/comfyui/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "version": null,
+        "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model."
+      },
+      "tags": [
+        "ComfyUI Development",
+        "comfyui",
+        "comfyui-development",
+        "family:comfyui",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "comfyui"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-05T19:43:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README.md",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T19:43:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README_zh.md",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T19:43:23Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://note.com/seal309midorin/n/nb75b14bbab4e",
+          "host": "note.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-05T19:43:23Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-02",
+        "excerpt": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-05T19:43:23Z",
+        "classified_at": "2026-09-05T19:43:23Z",
+        "enriched_at": "2026-09-05T19:43:23Z",
+        "verified_at": "2026-09-05T19:43:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.3",
       "id": "n-d99912828e",

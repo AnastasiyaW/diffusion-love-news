@@ -439,6 +439,9 @@
   "ComfyUI Command Palette": [
     "n-133a0bfd18"
   ],
+  "ComfyUI Development": [
+    "n-046d02af9f"
+  ],
   "ComfyUI Hires Fix": [
     "n-1b11977658"
   ],
@@ -3633,7 +3636,8 @@
     "n-0cf9d026b8",
     "n-08fceb7eae",
     "n-08ae804484",
-    "n-0739891476"
+    "n-0739891476",
+    "n-046d02af9f"
   ],
   "comfyui-6dof": [
     "n-f6c6cdf729"
@@ -3646,6 +3650,9 @@
   ],
   "comfyui-davinci-magihuman": [
     "n-8c14423e0d"
+  ],
+  "comfyui-development": [
+    "n-046d02af9f"
   ],
   "comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
@@ -4619,7 +4626,8 @@
     "n-18e6b47885"
   ],
   "family:comfyui": [
-    "n-c724eb9e4c"
+    "n-c724eb9e4c",
+    "n-046d02af9f"
   ],
   "family:comfyui-6dof": [
     "n-f6c6cdf729"
@@ -9196,6 +9204,7 @@
     "n-052770a8bf",
     "n-04a79175d6",
     "n-0481856e9f",
+    "n-046d02af9f",
     "n-044c492370",
     "n-038f2eebc4",
     "n-033632d8e0",

@@ -12751,7 +12751,7 @@
   },
   "comfyui": {
     "family_slug": "comfyui",
-    "family_display": "ComfyUI",
+    "family_display": "ComfyUI Development",
     "family_display_variants": [
       {
         "family_display": "ComfyUI",
@@ -12759,6 +12759,14 @@
         "last_seen": "2026-03-26",
         "news_ids": [
           "n-c724eb9e4c"
+        ]
+      },
+      {
+        "family_display": "ComfyUI Development",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-046d02af9f"
         ]
       }
     ],
@@ -12770,13 +12778,14 @@
     "categories": [
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-03-26",
+    "last_seen": "2026-09-02",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-c724eb9e4c"
+      "n-c724eb9e4c",
+      "n-046d02af9f"
     ],
     "versions_timeline": [
       {
@@ -12785,6 +12794,13 @@
         "news_id": "n-c724eb9e4c",
         "title": "ComfyUI Introduces Stable Dynamic VRAM Management",
         "primary_link": "https://blog.comfy.org/p/dynamic-vram-in-comfyui-saving-local"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-046d02af9f",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
       }
     ],
     "features": [],
@@ -12800,6 +12816,18 @@
     "domains": [],
     "links": [
       {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+        "is_primary": true,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      },
+      {
         "kind": "reference",
         "host": "blog.comfy.org",
         "lang": "en",
@@ -12809,6 +12837,42 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-c724eb9e4c"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README_zh.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "note.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://note.com/seal309midorin/n/nb75b14bbab4e",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
         ]
       }
     ],
@@ -12821,9 +12885,37 @@
         "version": null,
         "news_id": "n-c724eb9e4c",
         "primary_link": "https://blog.comfy.org/p/dynamic-vram-in-comfyui-saving-local"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model.",
+        "version": null,
+        "news_id": "n-046d02af9f",
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
       }
     ],
     "related_news": [
+      {
+        "id": "n-046d02af9f",
+        "date": "2026-09-02",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "comfyui",
+        "version": null,
+        "tags": [
+          "ComfyUI Development",
+          "comfyui",
+          "comfyui-development",
+          "family:comfyui",
+          "misc"
+        ],
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-c724eb9e4c",
         "date": "2026-03-26",
@@ -12847,7 +12939,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "comfyui-development",
+        "display": "Comfyui Development",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-046d02af9f",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      }
+    ]
   },
   "comfyui-6dof": {
     "family_slug": "comfyui-6dof",

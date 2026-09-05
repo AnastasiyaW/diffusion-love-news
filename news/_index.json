@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-046d02af9f",
+    "date": "2026-09-02",
+    "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI Development",
+      "comfyui",
+      "comfyui-development",
+      "family:comfyui",
+      "misc"
+    ],
+    "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-d99912828e",
     "date": "2026-08-26",
     "title": "Breeze TTS 2 was presented through official project links",
