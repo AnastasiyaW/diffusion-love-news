@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: read
+  contents: write  # the validate job commits rebuilt indexes on main
 
 jobs:
   validate:
@@ -18,6 +18,27 @@ jobs:
         with:
           python-version: "3.11"
       - run: python -m unittest discover -s tests -p "test_*.py"
+
+      # An approval copies one item from pending to main; the indexes are derived from the
+      # items and would be stale until rebuilt. Rebuild here - committed on main, left in
+      # the runner's tree on a pull request - and only then check.
+      - name: Rebuild the derived indexes
+        run: python scripts/build_news.py
+
+      - name: Commit the rebuilt indexes (main only)
+        if: github.event_name == 'push'
+        run: |
+          if git diff --quiet -- news; then
+            echo "indexes already current"
+            exit 0
+          fi
+          git config user.name "diffusion-love-news"
+          git config user.email "noreply@diffusion.love"
+          git add -- news
+          git commit -qm "indexes: rebuild after approval"
+          # This push starts one more run; that run finds no drift and commits nothing.
+          git push origin HEAD:main
+
       - run: python scripts/build_news.py --check
 
   purge-jsdelivr:
