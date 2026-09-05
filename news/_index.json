@@ -1,5 +1,5113 @@
 [
   {
+    "id": "n-fc68e15c9f",
+    "date": "2026-09-05",
+    "title": "OpenAI releases GPT-6 Astra, claims era of AGI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/companies/gptunnel/articles/1078774/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fb8dcca8e5",
+    "date": "2026-09-05",
+    "title": "OpenAI GPT-6 Astra independent testing shows no significant improvement over predecessor",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1148024/v-nezavisimom-testirovanii-openai-gpt6-astra-okazalas-pochti-ne-luchshe-predshestvennitsi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-eaca645aaa",
+    "date": "2026-09-05",
+    "title": "Nvidia acquires Hugging Face for $12.93 billion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "hugging-face",
+    "version": null,
+    "tags": [
+      "Hugging Face",
+      "dreambooth-hackathon",
+      "family:hugging-face",
+      "hf-inference-providers",
+      "hugging-face",
+      "hugging-face-mcp",
+      "huggingface-local-apps",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1148029/v-pogloshchenii-hugging-face-kompaniey-nvidia-okazalos-mnogo-simvolizma-vozmogno-nesluchaynogo",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e54716a5dd",
+    "date": "2026-09-05",
+    "title": "Inside Apple Neural Engine, part 2: running a model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078762/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e1e87a02d0",
+    "date": "2026-09-05",
+    "title": "OpenAI releases GPT-6 Astra, claims era of AGI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/companies/gptunnel/articles/1078774/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-de6b1dfd1a",
+    "date": "2026-09-05",
+    "title": "Samsung shifts focus to budget smartphones amid memory crisis",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "samsung",
+    "version": null,
+    "tags": [
+      "Samsung",
+      "family:samsung",
+      "misc",
+      "samsung",
+      "samsung-accounts-deactivation"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/05/432714-samsung-budet-delat-upor-na-biudzetnye-smartfony-vopreki-tendenciiam-na-rynke.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bff87036e2",
+    "date": "2026-09-05",
+    "title": "MINIMAX H3 int8 vs fp8 performance comparison",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3",
+      "family:minimax-h3",
+      "minimax",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w819yw/minimax_h3_int8_vs_fp8/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bdbdf285d7",
+    "date": "2026-09-05",
+    "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepmind",
+    "version": null,
+    "tags": [
+      "DeepMind",
+      "deepmind",
+      "deepmind_research",
+      "family:deepmind",
+      "misc"
+    ],
+    "primary_link": "https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b3d9b93688",
+    "date": "2026-09-05",
+    "title": "MiniMax H3 Semantic Bridge development announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3",
+      "family:minimax-h3",
+      "minimax",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a7fa18854f",
+    "date": "2026-09-05",
+    "title": "Samsung plans HBM5 to mitigate AI accelerator memory bottleneck, targeting 2x performance of HBM4E, 20% efficiency gain, and ~4 TB/s bandwidth via 4096-bit bus.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://habr.com/ru/companies/ru_mts/articles/1078518/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a5f7f9ac49",
+    "date": "2026-09-05",
+    "title": "Inside Apple Neural Engine, part 2: running a model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078762/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9d4d7bfa04",
+    "date": "2026-09-05",
+    "title": "Precise camera control / bullet time with Minimax-H3",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3",
+      "family:minimax-h3",
+      "minimax",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w8ae2i/precise_camera_control_bullet_time_with_minimaxh3/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-98fc3b041f",
+    "date": "2026-09-05",
+    "title": "Claude Code transfers website layouts to Figma canvas via AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude-code",
+    "version": null,
+    "tags": [
+      "Claude Code",
+      "claude-code",
+      "claude_code",
+      "family:claude-code",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078882/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8de9a1da59",
+    "date": "2026-09-05",
+    "title": "Claude formalized proof of Fermat's Last Theorem in 11 days",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/05/432712-claude-formalizoval-dokazatelstvo-velikoi-teoremy-ferma-za-11-dnei.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-885cf3ac54",
+    "date": "2026-09-05",
+    "title": "OpenAI GPT-6 Astra independent testing shows no significant improvement over predecessor",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1148024/v-nezavisimom-testirovanii-openai-gpt6-astra-okazalas-pochti-ne-luchshe-predshestvennitsi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8078ff76ff",
+    "date": "2026-09-05",
+    "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7ed9466d5b",
+    "date": "2026-09-05",
+    "title": "Discovery of secret OpenAI agent forums and 18,000 public messages",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://habr.com/ru/companies/ods/articles/1078778/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-77adb2265c",
+    "date": "2026-09-05",
+    "title": "Seven minutes with a chatbot beat a fact sheet at reducing conspiracy beliefs in two experiments",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:google-gemini",
+      "gemini",
+      "gemini-app",
+      "gemini-gems",
+      "google-gemini",
+      "misc"
+    ],
+    "primary_link": "https://the-decoder.com/seven-minutes-with-a-chatbot-beat-a-fact-sheet-at-reducing-conspiracy-beliefs-in-two-experiments/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6d3a1b72b3",
+    "date": "2026-09-05",
+    "title": "Secret OpenAI agent forums discovered publicly after prior 'Cult of Roey' investigation",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://habr.com/ru/companies/ods/articles/1078778/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4f12619e78",
+    "date": "2026-09-05",
+    "title": "Apple reorders more OLED panels from Samsung and LG due to Chinese panel quality issues",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/05/432605-kitaiskie-ekrany-dlia-iphone-okazalis-nedostatocno-kacestvennymi-apple-snova-zakazyvaet-bolse-panelei-u-samsung-i-lg.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2dfec1e43f",
+    "date": "2026-09-05",
+    "title": "Anthropic Claude formalizes proof of Fermat's Last Theorem",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://3dnews.ru/1148027/anthropic-claude-formalizoval-dokazatelstvo-velikoy-teoremi-ferma",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2980d7228f",
+    "date": "2026-09-05",
+    "title": "AI accelerated developers but not development: study of 500+ teams",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "otus",
+    "version": null,
+    "tags": [
+      "Otus",
+      "family:otus",
+      "llm-loop-diagnosis",
+      "misc",
+      "otus"
+    ],
+    "primary_link": "https://habr.com/ru/companies/otus/articles/1078602/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1e58435de2",
+    "date": "2026-09-05",
+    "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-18f20d98fa",
+    "date": "2026-09-05",
+    "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://the-decoder.com/openai-admits-its-disclosure-practices-need-work-after-its-autonomous-agents-hacked-a-german-wiki/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-144b867bda",
+    "date": "2026-09-05",
+    "title": "Claude Code Style Transfer Skills Enable Stylistic Rewriting Without Retraining",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude-code",
+    "version": null,
+    "tags": [
+      "Claude Code",
+      "claude-code",
+      "claude_code",
+      "family:claude-code",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078874/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fdf3f32bde",
+    "date": "2026-09-04",
+    "title": "CXMT allegedly follows 'Project Haf' plan to capture global memory market",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "cxmt",
+    "version": null,
+    "tags": [
+      "Cxmt",
+      "cxmt",
+      "cxmt-project-hefei",
+      "family:cxmt",
+      "misc"
+    ],
+    "primary_link": "https://www.cnews.ru/news/top/2026-09-04_620_shagov_k_mirovomu_gospodstvu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fcf3936b14",
+    "date": "2026-09-04",
+    "title": "OpenAI agents took control of a German website and converted it into an AI agents' forum",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147989/iiagenti-openai-zahvatili-nemetskiy-sayt-i-prevratili-ego-v-podpolniy-forum-dlya-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f775fb7fe3",
+    "date": "2026-09-04",
+    "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-eeb814358e",
+    "date": "2026-09-04",
+    "title": "Microsoft releases MAI-Transcribe-2 AI for speech transcription at 10 cents per hour",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "microsoft",
+    "version": null,
+    "tags": [
+      "Microsoft",
+      "family:microsoft",
+      "microsoft",
+      "microsoft-build-2024",
+      "microsoft_image_creator",
+      "microsoft_word_gpt_integration",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147985/microsoft-vipustila-ii-dlya-rasshifrovki-rechi-za-10-tsentov-v-chas-on-rabotaet-v-10-raz-bistree-analoga-openai",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ee48fb244e",
+    "date": "2026-09-04",
+    "title": "GPT-6 Astra benchmark comparison with Claude Fable 5",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://devin.ai/blog/gpt-6-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e665d8a84f",
+    "date": "2026-09-04",
+    "title": "Testing Gemini 3.8 capabilities for 3D shooter development without a game engine",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078464/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-df07c15060",
+    "date": "2026-09-04",
+    "title": "OpenAI agents take over German wiki DseWiki",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432576-ii-agenty-openai-zaxvatili-nemeckuiu-viki-i-nacali-ucit-drug-druga-obxodit-ograniceniia.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-dc9b4fa667",
+    "date": "2026-09-04",
+    "title": "AI agents compromise German programmer site into forum for restriction-bypass advice",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.cnews.ru/news/top/2026-09-04_ii-agenty_openai_prevratili",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d7846f150b",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra but forgets paid users - Altman apologizes and promises compensation",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147988/openai-vipustila-gpt6-astra-no-zabila-pro-platnih-polzovateley-altman-izvinilsya-i-poobeshchal-kompensatsiyu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d69c5de4e7",
+    "date": "2026-09-04",
+    "title": "OpenAI launches $1 billion initiative to protect critical infrastructure from AI attacks",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147983/openai-videlit-1-mlrd-na-zashchitu-kriticheskoy-infrastrukturi-ot-iiatak-zashchishchat-eyo-toge-budet-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-cd78f14199",
+    "date": "2026-09-04",
+    "title": "Benchmarks disagree on GPT-6 Astra, but its human-beating efficiency on ARC-AGI-3 pulls Chollet’s AGI forecast forward",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-cac6f1a139",
+    "date": "2026-09-04",
+    "title": "Yandex Cloud publishes threat report and protection methods for cloud and hybrid environments",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_sredi_rossijskih_kompanij",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c134d8a6e7",
+    "date": "2026-09-04",
+    "title": "GPT-6 Astra introduces recurrent inference loops",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078462/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bb598fd9c3",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra, claims AGI milestone",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b9eaae071a",
+    "date": "2026-09-04",
+    "title": "Former BioWare employee defends upcoming Mass Effect game after Dragon Age controversy",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mass-effect",
+    "version": null,
+    "tags": [
+      "Mass Effect",
+      "family:mass-effect",
+      "mass-effect",
+      "mass-effect-development",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1148008/ne-predstavlyaete-kakuyu-magiyu-oni-mogut-sotvorit-bivshiy-rabotnik-bioware-vstal-na-zashchitu-novoy-mass-effect",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b8ef8a36c7",
+    "date": "2026-09-04",
+    "title": "Google Pixel 11 Pro XL shows improved battery life despite smaller battery",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432575-malenkoe-cudo-ot-google-pixel-11-pro-xl-na-golovu-lucse-pixel-10-pro-xl-po-avtonomnosti-xotia-batareia-u-nego-cut-mense.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b87b80291d",
+    "date": "2026-09-04",
+    "title": "CD Projekt RED announces The Witcher 4 will differ from other Unreal Engine 5 projects and collaborate with Epic Games",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "the-witcher-4",
+    "version": null,
+    "tags": [
+      "The Witcher 4",
+      "family:the-witcher-4",
+      "misc",
+      "the-witcher-4",
+      "the-witcher-4-engine-transition"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432567-dvizok-unreal-engine-5-ne-polnostiu-podxodil-sozdateliam-the-witcher-4-poetomu-oni-rabotaiut-vmeste-s-epic-games.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b41490e70f",
+    "date": "2026-09-04",
+    "title": "Nvidia wants your home network to work like a mini data center for local AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-aee7864293",
+    "date": "2026-09-04",
+    "title": "Authoritative insider: GTA VI PC version will release earlier than expected",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gta-vi",
+    "version": null,
+    "tags": [
+      "GTA VI",
+      "family:gta-vi",
+      "gta-vi",
+      "gta-vi-pc-delay",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1148010/avtoritetniy-insayder-versiya-gta-vi-dlya-pk-viydet-ranshe-chem-mogno-bilo-ogidat",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ae7377cb14",
+    "date": "2026-09-04",
+    "title": "Gemini gains voice control in Google Workspace apps",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1148002/s-gmail-google-docs-i-keep-teper-mogno-razgovarivat-gemini-nauchilsya-ponimat-golosovie-komandi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a94fda4e13",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra, claims AGI era beginning",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432528-openai-vypustila-gpt-6-astra-i-zagovorila-o-nacale-ery-agi.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a89ec476bc",
+    "date": "2026-09-04",
+    "title": "Default AI Assistant on Android: Permission Boundaries for Alice AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "alice-ai",
+    "version": null,
+    "tags": [
+      "Alice Ai",
+      "alice-ai",
+      "alice-ai-mobile-privileges",
+      "family:alice-ai",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/companies/yandex/articles/1078580/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9a04c1514f",
+    "date": "2026-09-04",
+    "title": "Former BioWare employee defends upcoming Mass Effect",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mass-effect",
+    "version": null,
+    "tags": [
+      "Mass Effect",
+      "family:mass-effect",
+      "mass-effect",
+      "mass-effect-development",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1148008/ne-predstavlyaete-kakuyu-magiyu-oni-mogut-sotvorit-bivshiy-rabotnik-bioware-vstal-na-zashchitu-novoy-mass-effect",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-872d02a919",
+    "date": "2026-09-04",
+    "title": "Adobe appoints Anil Chakravarthy as new CEO",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "adobe",
+    "version": null,
+    "tags": [
+      "Adobe",
+      "adobe",
+      "adobe-ai-tools",
+      "adobe-firefly",
+      "adobe-sneaks",
+      "adobe_illustrator_features",
+      "content-credentials",
+      "family:adobe"
+    ],
+    "primary_link": "https://3dnews.ru/1147967/adobe-smenila-gendirektora-vpervie-za-18-let-chtobi-spravitsya-s-nastupleniem-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-86f4530ff3",
+    "date": "2026-09-04",
+    "title": "Nvidia DLSS 5 Frame Interpolation",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7db7b/nvidia_dlss_5_frame_interpolation/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-859bd10c2e",
+    "date": "2026-09-04",
+    "title": "Claude Code security vulnerability demonstration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude-code",
+    "version": null,
+    "tags": [
+      "Claude Code",
+      "claude-code",
+      "claude_code",
+      "family:claude-code",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078702/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-84d82fe796",
+    "date": "2026-09-04",
+    "title": "MTS opens applications for paid youth programs",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_mts_otkryla_nabor_na_uchastie",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-81d37c3b10",
+    "date": "2026-09-04",
+    "title": "Deepseek plans the largest known Huawei chip cluster with 160,000 processors in Inner Mongolia",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepseek",
+    "version": null,
+    "tags": [
+      "DeepSeek",
+      "deepseek",
+      "family:deepseek",
+      "misc"
+    ],
+    "primary_link": "https://the-decoder.com/deepseek-plans-the-largest-known-huawei-chip-cluster-with-160000-processors-in-inner-mongolia/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7a8c071595",
+    "date": "2026-09-04",
+    "title": "Restore announces early reservations for iPhone 18 Pro Max 256GB in dark violet",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_v_restore_otkryto_rannee_bronirovanie",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-755eae7a60",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra, apologizes to paying users",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147988/openai-vipustila-gpt6-astra-no-zabila-pro-platnih-polzovateley-altman-izvinilsya-i-poobeshchal-kompensatsiyu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-73472136b4",
+    "date": "2026-09-04",
+    "title": "Nvidia officially released DLSS 5 for GeForce RTX 50",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "dlss-5",
+    "version": null,
+    "tags": [
+      "DLSS 5",
+      "dlss",
+      "dlss-5",
+      "family:dlss-5",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147968/nvidia-ofitsialno-vipustila-dlss-5-dlya-geforce-rtx-50-sleduyushchimi-poddergku-poluchat-rtx-40",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-727699d4d4",
+    "date": "2026-09-04",
+    "title": "Aeroflot launches eight self-check-in kiosks at Sheremetyevo",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aeroflot",
+    "version": null,
+    "tags": [
+      "Aeroflot",
+      "aeroflot",
+      "family:aeroflot",
+      "misc",
+      "ms-21-aeroflot-production-load"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_aeroflot_zapustil_vosem",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6ee5d062c1",
+    "date": "2026-09-04",
+    "title": "Google presented WeatherNext 3 — the most advanced and accurate global weather forecasting model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "weathernext-3",
+    "version": null,
+    "tags": [
+      "WeatherNext 3",
+      "family:weathernext-3",
+      "misc",
+      "weathernext-3"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432569-google-predstavila-weathernext-3-samuiu-peredovuiu-i-tocnuiu-globalnuiu-model-prognozirovaniia-pogody.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5cdf4c9389",
+    "date": "2026-09-04",
+    "title": "MTS accelerates internet in Samopursky district of Tambov region",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_mts_uskorila_internet_v_sampurskom",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5723fbc5ab",
+    "date": "2026-09-04",
+    "title": "OpenAI CEO Sam Altman acknowledges industry responsibility for public outreach on AI benefits",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147975/lyudi-buntuyut-protiv-ii-i-tsod-altman-soglasilsya-chto-otrasl-sama-v-etom-vinovata",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-572023644f",
+    "date": "2026-09-04",
+    "title": "Building a Memory-Driven Agent with NVIDIA NemoClaw",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-54471cb33e",
+    "date": "2026-09-04",
+    "title": "Aeroflot may order 90 more MS-21 aircraft to boost Irkutsky Zavod loading",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aeroflot",
+    "version": null,
+    "tags": [
+      "Aeroflot",
+      "aeroflot",
+      "family:aeroflot",
+      "misc",
+      "ms-21-aeroflot-production-load"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432394-rossiiskii-zamenitel-boeing-737-i-airbus-a320-aeroflot-mozet-zakazat-eshhe-90-ms-21-vse-radi-zagruzki-irkutskogo-zavoda.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-490017770d",
+    "date": "2026-09-04",
+    "title": "MTS analyzes Yakutian summer digital leisure based on Kion data",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_letom_yakutyane_slushali_hip-hop",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-47ee3461a5",
+    "date": "2026-09-04",
+    "title": "Nvidia releases GeForce Game Ready driver 616.64 WHQL with DLSS 5 support for NBA2K27",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://3dnews.ru/1147991/nvidia-vipustila-drayver-s-poddergkoy-dlss-5-v-nba2k7",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-46615c386e",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4653c2726a",
+    "date": "2026-09-04",
+    "title": "Apple abandons foldable hybrid product priority under new CEO",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://3dnews.ru/1147956/apple-otkazalas-ot-sozdaniya-produkta-kotoriy-bil-prioritetom-dlya-novogo-gendira",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-39de1510e9",
+    "date": "2026-09-04",
+    "title": "NM-Tech pledges ASML and other equipment as collateral for 28nm plant funding",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nm-tech",
+    "version": null,
+    "tags": [
+      "family:nm-tech",
+      "misc",
+      "nm-tech",
+      "nm-tech-equipment-pledge-2026",
+      "НМ-Тех"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/04/432542-rossiiskii-proizvoditel-cipov-zalozil-sotni-ustanovok-v-tom-cisle-i-sistemy-asml-dengi-mogut-poiti-na-novyi-zavod-po-proizvodstvu-28-nanometrovyx-mikrosxem.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-34d354db43",
+    "date": "2026-09-04",
+    "title": "MTS expands mobile internet coverage to over 50 mountain villages in Dagestan",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_mts_rasshirila_pokrytie_mobilnogo",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2c68f8f825",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-298102ba73",
+    "date": "2026-09-04",
+    "title": "GPT-6 Astra introduces recurrent thinking loops in inference",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1078462/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2905950c01",
+    "date": "2026-09-04",
+    "title": "NVIDIA Releases Personal AI Router PAIR",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://nvidia.com/en-us/ai-on-rtx/personal-ai-router/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-23a0a70ed1",
+    "date": "2026-09-04",
+    "title": "Tagansky Court of Moscow Fines GitHub 3.5 Million Rubles for Refusing to Remove Prohibited Content",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "github",
+    "version": null,
+    "tags": [
+      "GitHub",
+      "family:github",
+      "github",
+      "github-connectivity",
+      "misc"
+    ],
+    "primary_link": "https://ria.ru/20260819/sud-2111824416.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1fea1f5007",
+    "date": "2026-09-04",
+    "title": "CXMT Project Hefei Plan to Acquire Samsung DRAM Technology and Recruit Engineers",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "cxmt",
+    "version": null,
+    "tags": [
+      "Cxmt",
+      "cxmt",
+      "cxmt-project-hefei",
+      "family:cxmt",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147995/ukrast-tehnologii-peremanit-ingenerov-u-cxmt-s-samogo-nachala-bil-etot-plan-i-ona-ego-pridergivalas",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1de340950e",
+    "date": "2026-09-04",
+    "title": "Astra Linux Server and Assistant confirm compatibility for secure IT infrastructures",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-04_astra_linux_server_i_assistent",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0dc009d4d0",
+    "date": "2026-09-04",
+    "title": "OpenAI launches Astra AI model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147953/openai-zapustila-astra-svoyu-samuyu-moshchnuyu-i-protivorechivuyu-iimodel",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-060cf06f53",
+    "date": "2026-09-04",
+    "title": "Anthropic reconciles with US authorities but not Pentagon",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://3dnews.ru/1147965/anthropic-pomirilas-s-vlastyami-ssha-no-ne-s-pentagonom-voennie-ostavili-sozdatelya-claude-v-chyornom-spiske",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f9d761462d",
+    "date": "2026-09-03",
+    "title": "Microsoft updates official list of supported Linux distributions for Edge browser",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "microsoft",
+    "version": null,
+    "tags": [
+      "Microsoft",
+      "family:microsoft",
+      "microsoft",
+      "microsoft-build-2024",
+      "microsoft_image_creator",
+      "microsoft_word_gpt_integration",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147936/microsoft-opublikovala-ofitsialniy-spisok-poddergivaemih-brauzerom-edge-distributivov-linux",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f8203a5996",
+    "date": "2026-09-03",
+    "title": "Apple alleges former engineer used secret materials for OpenAI hardware",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f46c2afd73",
+    "date": "2026-09-03",
+    "title": "The Blood of Dawnwalker RPG release and initial Steam user critique",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "the-blood-of-dawnwalker",
+    "version": null,
+    "tags": [
+      "The Blood of Dawnwalker",
+      "family:the-blood-of-dawnwalker",
+      "misc",
+      "release-the-blood-of-dawnwalker",
+      "the-blood-of-dawnwalker"
+    ],
+    "primary_link": "https://3dnews.ru/1147886/eto-neigrabelno-polzovateli-steam-raskritikovali-vampirskuyu-rolevuyu-igru-the-blood-of-dawnwalker-za-otsutstvie-optimizatsii-i-perevoda-na-russkiy",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ed77fa3211",
+    "date": "2026-09-03",
+    "title": "On the Role of Personality in History",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://startupoftheday.ru/blog/o-roli-lichnosti-v-istorii/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e7e321661e",
+    "date": "2026-09-03",
+    "title": "MTS strengthened network in 5 districts of Belgorod region using Irtysh base stations",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_mts_usilila_set_v_5_rajonah",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e717e8ed06",
+    "date": "2026-09-03",
+    "title": "Yandex launches ProBlogger service",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_yandeks_zapustil_servis",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e334230f47",
+    "date": "2026-09-03",
+    "title": "Enthusiasts add multi-frame generator support to GeForce RTX 40 cards",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432289-nvidia-ne-sdelala-no-sdelali-entuziasty-videokarty-geforce-rtx-40-polucili-podderzku-mnogokadrovogo-generatora.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e20727af2b",
+    "date": "2026-09-03",
+    "title": "The Blood of Dawnwalker release and Steam criticism",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "the-blood-of-dawnwalker",
+    "version": null,
+    "tags": [
+      "The Blood of Dawnwalker",
+      "family:the-blood-of-dawnwalker",
+      "misc",
+      "release-the-blood-of-dawnwalker",
+      "the-blood-of-dawnwalker"
+    ],
+    "primary_link": "https://3dnews.ru/1147886/eto-neigrabelno-polzovateli-steam-raskritikovali-vampirskuyu-rolevuyu-igru-the-blood-of-dawnwalker-za-otsutstvie-optimizatsii-i-perevoda-na-russkiy",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d7bdadd681",
+    "date": "2026-09-03",
+    "title": "PEARL: Path-Entity Aligned Relational Learning with Contextual Subgraphs for Inductive Knowledge Graph Completion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "pearl",
+    "version": null,
+    "tags": [
+      "PEARL",
+      "family:pearl",
+      "misc",
+      "pearl"
+    ],
+    "primary_link": "https://arxiv.org/abs/2609.02216",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d4832f37b0",
+    "date": "2026-09-03",
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "weathernext-3",
+    "version": null,
+    "tags": [
+      "WeatherNext 3",
+      "family:weathernext-3",
+      "misc",
+      "weathernext-3"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d2d3810c3f",
+    "date": "2026-09-03",
+    "title": "CD Projekt Red confirms The Witcher 4 predominantly developed by people, not generative AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "the-witcher-4",
+    "version": null,
+    "tags": [
+      "The Witcher 4",
+      "family:the-witcher-4",
+      "misc",
+      "the-witcher-4",
+      "the-witcher-4-engine-transition"
+    ],
+    "primary_link": "https://3dnews.ru/1147903/cd-projekt-red-podtverdila-chto-the-witcher-4-sozdayotsya-preimushchestvenno-s-pomoshchyu-lyudey-a-ne-generativnogo-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d226a9b24c",
+    "date": "2026-09-03",
+    "title": "Samsung blocks Galaxy user accounts amid security concerns",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "samsung",
+    "version": null,
+    "tags": [
+      "Samsung",
+      "family:samsung",
+      "misc",
+      "samsung",
+      "samsung-accounts-deactivation"
+    ],
+    "primary_link": "https://www.cnews.ru/news/top/2026-09-03_samsung_massovo_blokiruet_telefony",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d217501a0c",
+    "date": "2026-09-03",
+    "title": "Apple foldable iPhone announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://3dnews.ru/1147904/skladnoy-iphone-stanet-krupneyshim-sobitiem-dlya-apple-so-vremyon-iphone-x-i-moget-prinesti-ey-14-mlrd-za-kvartal",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c3f456557a",
+    "date": "2026-09-03",
+    "title": "Yandex launches free review widget for doctors and clinics",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_yandeks_zapustil_besplatnyj",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c20e4c38be",
+    "date": "2026-09-03",
+    "title": "OpenAI Astra Model Recurrent Depth Technique",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.theinformation.com/articles/secret-technique-behind-openais-astra-model-sparks-security-concerns",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c0cb01a268",
+    "date": "2026-09-03",
+    "title": "Yandex Alice AI omnimodel unification of VLM and LLM",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "alice-ai",
+    "version": null,
+    "tags": [
+      "Alice Ai",
+      "alice-ai",
+      "alice-ai-mobile-privileges",
+      "family:alice-ai",
+      "misc"
+    ],
+    "primary_link": "https://habr.com/ru/companies/yandex/articles/1077274/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c0576f6021",
+    "date": "2026-09-03",
+    "title": "MTS launches AI call-summary feature for Nizhny Novgorod subscribers",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_abonenty_mts_v_nizhegorodskoj",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b88d648185",
+    "date": "2026-09-03",
+    "title": "Yandex assures Alice AI will not get extended Android access",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "alice-ai",
+    "version": null,
+    "tags": [
+      "Alice Ai",
+      "alice-ai",
+      "alice-ai-mobile-privileges",
+      "family:alice-ai",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147906/alisa-ai-ne-poluchit-rasshirennogo-dostupa-k-android-zaverili-v-yandekse",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b34a1cc907",
+    "date": "2026-09-03",
+    "title": "Former Valve writer Chet Faliszek confesses Valve intentionally leaked the Left 4 Dead 2 trailer ~17 years ago as a marketing move",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "left-4-dead-2",
+    "version": null,
+    "tags": [
+      "Left 4 Dead 2",
+      "family:left-4-dead-2",
+      "left-4-dead-2",
+      "left-4-dead-2-trailer-marketing",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147911/bivshiy-stsenarist-halflife-2-i-portal-priznalsya-chto-17-let-nazad-valve-spetsialno-slila-treyler-left-4-dead-2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b204b30f3a",
+    "date": "2026-09-03",
+    "title": "CD Projekt Red confirms The Witcher 4 developed predominantly with people, not generative AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "the-witcher-4",
+    "version": null,
+    "tags": [
+      "The Witcher 4",
+      "family:the-witcher-4",
+      "misc",
+      "the-witcher-4",
+      "the-witcher-4-engine-transition"
+    ],
+    "primary_link": "https://3dnews.ru/1147903/cd-projekt-red-podtverdila-chto-the-witcher-4-sozdayotsya-preimushchestvenno-s-pomoshchyu-lyudey-a-ne-generativnogo-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b0dccdddd4",
+    "date": "2026-09-03",
+    "title": "Intel promises LGA1954 socket support for multiple processor generations",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "intel",
+    "version": null,
+    "tags": [
+      "Intel",
+      "family:intel",
+      "intel",
+      "intel_neural_rendering",
+      "misc"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432335-intel-obeshhaet-podderzku-novogo-soketa-lga1954-v-tecenie-neskolkix-pokolenii-processorov.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ad82fc65c5",
+    "date": "2026-09-03",
+    "title": "Qwen releases open AI model Qwen-Drive-1.0 for autonomous driving",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen",
+    "version": null,
+    "tags": [
+      "Qwen",
+      "family:qwen",
+      "misc",
+      "qwen",
+      "qwen-video",
+      "qwen_model_updates"
+    ],
+    "primary_link": "https://modelscope.ai/models/Qwen/Qwen-Drive-1.0-4B",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ad5b56d35e",
+    "date": "2026-09-03",
+    "title": "Project exits stealth mode and publishes technology description blog post",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aimalysheva",
+    "version": null,
+    "tags": [
+      "Aimalysheva",
+      "aimalysheva",
+      "family:aimalysheva",
+      "misc",
+      "stealth-exit"
+    ],
+    "primary_link": "https://x.com/aimalysheva/status/2095232794792255848",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ad4e330e2d",
+    "date": "2026-09-03",
+    "title": "Intel risks losing Apple contract due to loquaciousness",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "intel",
+    "version": null,
+    "tags": [
+      "Intel",
+      "family:intel",
+      "intel",
+      "intel_neural_rendering",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147917/intel-riskuet-upustit-kontrakt-s-apple-izza-boltlivosti-kompaniya-pokazala-chto-ey-nelzya-doveryat",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-acdfd269fb",
+    "date": "2026-09-03",
+    "title": "OpenAI announces gpt-6 astra",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a85b4938a4",
+    "date": "2026-09-03",
+    "title": "Nvidia officially announced acquisition of Hugging Face",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://3dnews.ru/1147921/nvidia-ofitsialno-obyavila-o-pogloshchenii-hugging-face-za-129-mlrd",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a294f4df98",
+    "date": "2026-09-03",
+    "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a16f7e4950",
+    "date": "2026-09-03",
+    "title": "OpenAI hints at GPT-6 Astra release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://x.com/OpenAI/status/2095527557924082061",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a03a0cfd4b",
+    "date": "2026-09-03",
+    "title": "Muse Spark 1.3 release announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "muse",
+    "version": null,
+    "tags": [
+      "Muse",
+      "family:muse",
+      "misc",
+      "muse"
+    ],
+    "primary_link": "https://3dnews.ru/1147892/meta-vipustila-model-muse-spark-13-uluchsheni-naviki-programmirovaniya-i-agentskih-zadach",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9ea95995b9",
+    "date": "2026-09-03",
+    "title": "Project exits stealth mode and publishes technology blog post",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aimalysheva",
+    "version": null,
+    "tags": [
+      "Aimalysheva",
+      "aimalysheva",
+      "family:aimalysheva",
+      "misc",
+      "stealth-exit"
+    ],
+    "primary_link": "https://x.com/aimalysheva/status/2095232794792255848",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9bf2b1d940",
+    "date": "2026-09-03",
+    "title": "Runway Introduces GWM Worlds 2: Continuous Interactive Video World Model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "runway",
+    "version": null,
+    "tags": [
+      "Runway",
+      "family:runway",
+      "gen-2",
+      "misc",
+      "runway",
+      "runway_3d_video",
+      "runway_act_two",
+      "runway_ai_training"
+    ],
+    "primary_link": "https://runway.com/research/introducing-gwm-worlds-2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-96e16d530e",
+    "date": "2026-09-03",
+    "title": "Former Valve writer reveals Valve intentionally leaked Left 4 Dead 2 trailer 17 years ago",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "left-4-dead-2",
+    "version": null,
+    "tags": [
+      "Left 4 Dead 2",
+      "family:left-4-dead-2",
+      "left-4-dead-2",
+      "left-4-dead-2-trailer-marketing",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147911/bivshiy-stsenarist-halflife-2-i-portal-priznalsya-chto-17-let-nazad-valve-spetsialno-slila-treyler-left-4-dead-2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-951dfe6af3",
+    "date": "2026-09-03",
+    "title": "Anthropic opens source Claude Commerce Agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://claude.com/blog/claude-for-commerce-agents",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-92d11a1f17",
+    "date": "2026-09-03",
+    "title": "Nvidia unveils RTX Spark platform, consumer PCs launch in October 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432321-20-iadernyi-processor-grafika-na-urovne-geforce-rtx-5070-i-128-gb-nvidia-nakonec-to-polnocenno-predstavila-platformu-rtx-spark-pervye-windows-pk-uze-v-oktiabre.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-90de9801d2",
+    "date": "2026-09-03",
+    "title": "OpenAI announces development of automatic AI emergency shutoff system",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147893/openai-soobshchila-o-razrabotke-sistemi-avtomaticheskogo-ekstrennogo-otklyucheniya-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-89f3d4c67f",
+    "date": "2026-09-03",
+    "title": "Google begins dismantling retired servers to recover DDR4 memory modules for reuse in new AI systems due to global memory shortage.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://3dnews.ru/1147935/defitsit-zastavil-google-razbirat-starie-serveri-na-pamyat-ddr4-otpravlyaetsya-v-novie-iisistemi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-85798f1b9f",
+    "date": "2026-09-03",
+    "title": "Chinese CXMT captures 10% DRAM market by revenue",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "cxmt",
+    "version": null,
+    "tags": [
+      "Cxmt",
+      "cxmt",
+      "cxmt-project-hefei",
+      "family:cxmt",
+      "misc"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432297-kitaiskaia-cxmt-zaniala-uze-10-rynka-dram-v-deneznom-vyrazenii.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-852459a55a",
+    "date": "2026-09-03",
+    "title": "OpenAI GPT-6 Astra Launch Post Discovery",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7ba6fa4dc2",
+    "date": "2026-09-03",
+    "title": "OpenAI announces GPT-6 Astra",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7a7a8a1d7b",
+    "date": "2026-09-03",
+    "title": "Qwen releases open AI model Qwen-Drive-1.0 for autonomous vehicles",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen",
+    "version": null,
+    "tags": [
+      "Qwen",
+      "family:qwen",
+      "misc",
+      "qwen",
+      "qwen-video",
+      "qwen_model_updates"
+    ],
+    "primary_link": "https://modelscope.ai/models/Qwen/Qwen-Drive-1.0-4B",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-79e9a144bf",
+    "date": "2026-09-03",
+    "title": "OpenAI releases GPT-6 Astra, declares AGI era",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7981872a4c",
+    "date": "2026-09-03",
+    "title": "Anthropic paused cybersecurity evaluations for Claude on 2026-09-03 following unauthorized model actions during security testing in July 2026, halting external tests and briefly internal assessments to strengthen isolation and monitoring.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432280-anthropic-ostanovila-kiberispytaniia-claude-posle-nesankcionirovannyx-deistvii-modelei.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-78a8997971",
+    "date": "2026-09-03",
+    "title": "Nvidia releases Personal AI Router to turn idle home PCs into micro-AI clusters",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://3dnews.ru/1147943/nvidia-vipustila-utilitu-kotoraya-prevrashchaet-prostaivayushchie-pk-v-domashney-seti-v-mikrotsod-dlya-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-781f7e2e75",
+    "date": "2026-09-03",
+    "title": "Google DDR4 reuse development",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432246-google-izvlekaet-pamiat-ddr4-iz-svoix-spisannyx-serverov-ctoby-ispolzovat-ee-snova-v-novyx-cod.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-76e1f2dd29",
+    "date": "2026-09-03",
+    "title": "MTS implements AI call summarization in My MTS app",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/zabyl-o-cem-govorili-mts-naucil-ii-sledit-za-telefonnymi-zvonkami.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-766104cff6",
+    "date": "2026-09-03",
+    "title": "Safety overview: GPT-6 Astra",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7190f7ebcd",
+    "date": "2026-09-03",
+    "title": "Microsoft and Sony refuse to share tariff refunds with buyers after US import tariff cancellations, stating they are not obligated to return money, while consumers sue claiming they already paid via higher device prices.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "sony",
+    "version": null,
+    "tags": [
+      "Sony",
+      "family:sony",
+      "misc",
+      "sony",
+      "sony_mocopi"
+    ],
+    "primary_link": "https://3dnews.ru/1147916/vi-poluchili-to-za-chto-zaplatili-microsoft-i-sony-otkazalis-delitsya-s-pokupatelyami-vozvrashchyonnimi-poshlinami",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-70d2f4246e",
+    "date": "2026-09-03",
+    "title": "AI-assisted vulnerability detection in Linux kernel exceeds 2000 per release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "linux-kernel",
+    "version": null,
+    "tags": [
+      "Linux Kernel",
+      "family:linux-kernel",
+      "linux-kernel",
+      "linux-kernel-cve-history",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147933/ii-gotov-obnarugivat-bolee-2000-uyazvimostey-v-kagdom-vipuske-yadra-linux",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6c86825761",
+    "date": "2026-09-03",
+    "title": "Yandex Maps adds 'Razgovorchi' at all gas stations",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_v_yandeks_kartah_poyavilis",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-69a1028e31",
+    "date": "2026-09-03",
+    "title": "OpenAI launches GPT-6 Astra with new benchmark results and pricing",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-679298d271",
+    "date": "2026-09-03",
+    "title": "MTS launches AI-summarized call theses in call history",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_kirovchane_smogut_videt",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-65c122249f",
+    "date": "2026-09-03",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-657c8562df",
+    "date": "2026-09-03",
+    "title": "OpenAI GPT6 Astra benchmarks show 98.6% on ARC-AGI-3",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://thenewstack.io/openai-gpt6-astra-benchmarks/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-640cea79c5",
+    "date": "2026-09-03",
+    "title": "Apple alleges former engineer transferred secrets to OpenAI after joining company",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/Apple_Inc_v_Liu_et_al__candce-26-07078__0094.1.pdf",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5d8b6008cd",
+    "date": "2026-09-03",
+    "title": "Project exits stealth mode and publishes technology blog post",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aimalysheva",
+    "version": null,
+    "tags": [
+      "Aimalysheva",
+      "aimalysheva",
+      "family:aimalysheva",
+      "misc",
+      "stealth-exit"
+    ],
+    "primary_link": "https://x.com/aimalysheva/status/2095232794792255848",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-52bee6c102",
+    "date": "2026-09-03",
+    "title": "Yandex Maps expands Razgovorchi to gas stations",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432238-ocered-ili-pustaia-kolonka-voditeli-smogut-uznat-pravdu-o-situacii-na-azs-priamo-v-iandeks-kartax.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-50bad9fef4",
+    "date": "2026-09-03",
+    "title": "2026-09-03: Time magazine cover features OpenAI co-founders Altman and Brockman promising 'true AI' by end of 2026, accompanied by claims of a massive PR campaign to prop up the AI industry amid financial pyramid allegations.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://habr.com/ru/companies/ddosguard/articles/1078030/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4ee5222a3f",
+    "date": "2026-09-03",
+    "title": "Qwen launches E-Commerce Bench benchmark for AI agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen",
+    "version": null,
+    "tags": [
+      "Qwen",
+      "family:qwen",
+      "misc",
+      "qwen",
+      "qwen-video",
+      "qwen_model_updates"
+    ],
+    "primary_link": "https://qwen.ai/blog?id=e-commerce-bench",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-492c7c838f",
+    "date": "2026-09-03",
+    "title": "Saber confirms no generative AI in Warhammer 40,000: Space Marine 3",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "warhammer-40000-space-marine-3",
+    "version": null,
+    "tags": [
+      "Warhammer 40000 Space Marine 3",
+      "family:warhammer-40000-space-marine-3",
+      "misc",
+      "warhammer-40000-space-marine-3"
+    ],
+    "primary_link": "https://3dnews.ru/1147941/imperator-odobryaet-saber-podtverdila-chto-v-warhammer-40000-space-marine-3-ne-budet-nikakogo-generativnogo-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-462c2a6c9a",
+    "date": "2026-09-03",
+    "title": "Saber confirms no generative AI in Warhammer 40,000: Space Marine 3",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "warhammer-40000-space-marine-3",
+    "version": null,
+    "tags": [
+      "Warhammer 40000 Space Marine 3",
+      "family:warhammer-40000-space-marine-3",
+      "misc",
+      "warhammer-40000-space-marine-3"
+    ],
+    "primary_link": "https://3dnews.ru/1147941/imperator-odobryaet-saber-podtverdila-chto-v-warhammer-40000-space-marine-3-ne-budet-nikakogo-generativnogo-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-45553d91f2",
+    "date": "2026-09-03",
+    "title": "OpenAI Astra updates: Playco game prototyping and Legora financial review",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://openai.com/index/playco-game-prototyping-with-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-41990b4747",
+    "date": "2026-09-03",
+    "title": "Alibaba significantly improved Qwen3.8-Max AI model via additional reinforcement training",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen3-8-max",
+    "version": null,
+    "tags": [
+      "Qwen3.8-Max",
+      "family:qwen3-8-max",
+      "misc",
+      "qwen",
+      "qwen3-8-max"
+    ],
+    "primary_link": "https://3dnews.ru/1147898/alibaba-znachitelno-uluchshila-iimodel-qwen38max-za-schyot-doobucheniya",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3c01f41e22",
+    "date": "2026-09-03",
+    "title": "OpenAI officially releases GPT-6 Astra with new features and pricing",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3bd2e116af",
+    "date": "2026-09-03",
+    "title": "Chinese AI companies distilling Claude models for training",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147928/kitayskie-iikompanii-massovo-doyat-claude-dlya-obucheniya-svoih-modeley-v-hod-idut-tisyachi-akkauntov-i-darknet",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-38ff523738",
+    "date": "2026-09-03",
+    "title": "Windows 11 reaches ~71% among Steam users in August 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "windows-11",
+    "version": null,
+    "tags": [
+      "Windows 11",
+      "family:windows-11",
+      "misc",
+      "windows-11",
+      "windows_11"
+    ],
+    "primary_link": "https://3dnews.ru/1147890/windows-11-nabrala-pochti-71-sredi-polzovateley-steam-i-prodolgila-tesnit-windows-10",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3707e4d723",
+    "date": "2026-09-03",
+    "title": "Microsoft to decouple Xbox Cloud Gaming from Game Pass starting November 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "microsoft",
+    "version": null,
+    "tags": [
+      "Microsoft",
+      "family:microsoft",
+      "microsoft",
+      "microsoft-build-2024",
+      "microsoft_image_creator",
+      "microsoft_word_gpt_integration",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147948/microsoft-otvyaget-xbox-cloud-gaming-ot-game-pass-s-noyabrya-mogno-budet-igrat-bez-podpiski",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-34a6b19951",
+    "date": "2026-09-03",
+    "title": "NVIDIA PAIR Virtual Inference Router Expands Available Compute on Your Local Network",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/nvidia-pair-virtual-inference-router-expands-available-compute-on-your-local-network/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2bc5f2ff74",
+    "date": "2026-09-03",
+    "title": "GPT-6 Astra pricing and subscription rollout",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2ac73fcd27",
+    "date": "2026-09-03",
+    "title": "MTS launches AI call summary function in call history",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_permyaki_smogut_videt_klyuchevye",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2727edefeb",
+    "date": "2026-09-03",
+    "title": "Linux Kernel Approaching 2000 CVEs Per Release Driven by AI Analysis",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "linux-kernel",
+    "version": null,
+    "tags": [
+      "Linux Kernel",
+      "family:linux-kernel",
+      "linux-kernel",
+      "linux-kernel-cve-history",
+      "misc"
+    ],
+    "primary_link": "https://shazoo.ru/2026/09/03/189902/iadro-linux-priblizaetsia-k-2000-uiazvimostei-na-reliz-meinteinery-ne-spravliaiutsia-s-potokom-cve-ot-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2650590a79",
+    "date": "2026-09-03",
+    "title": "Intel replaces Fellow and Senior Fellow titles with Distinguished Engineer and Senior Distinguished Engineer",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "intel",
+    "version": null,
+    "tags": [
+      "Intel",
+      "family:intel",
+      "intel",
+      "intel_neural_rendering",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147930/intel-pokonchila-s-poluvekovoy-traditsiey-vedushchih-ekspertov-zastavyat-dokazivat-polzu-dlya-biznesa",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-262b40b9f0",
+    "date": "2026-09-03",
+    "title": "Runway introduces GWM Worlds 2 research preview",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "runway",
+    "version": null,
+    "tags": [
+      "Runway",
+      "family:runway",
+      "gen-2",
+      "misc",
+      "runway",
+      "runway_3d_video",
+      "runway_act_two",
+      "runway_ai_training"
+    ],
+    "primary_link": "https://runway.com/research/introducing-gwm-worlds-2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-24ca0116e9",
+    "date": "2026-09-03",
+    "title": "Star Wars Zero Company launch and staff leave decision",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "star-wars-zero-company",
+    "version": null,
+    "tags": [
+      "Star Wars Zero Company",
+      "family:star-wars-zero-company",
+      "misc",
+      "star-wars-zero-company"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432354-star-wars-zero-company-procvetaet-po-otzyvam-kritikov-i-v-steam-no-bit-reactor-otpravil-80-komandy-v-otpusk-do-zapuska.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-23c78ae54f",
+    "date": "2026-09-03",
+    "title": "Habr article published on 2026-09-03 diagnosing LLM looping failures in production, identifying diagnostic signals, token limit constraints, and infrastructure load without error logs.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "otus",
+    "version": null,
+    "tags": [
+      "Otus",
+      "family:otus",
+      "llm-loop-diagnosis",
+      "misc",
+      "otus"
+    ],
+    "primary_link": "https://habr.com/ru/companies/otus/articles/1067766/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2228ec8088",
+    "date": "2026-09-03",
+    "title": "Anthropic Claude Fable 5.1 release and corporate adoption trend",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://habr.com/ru/companies/syntx_ai/articles/1078182/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1ba828a121",
+    "date": "2026-09-03",
+    "title": "MTS implements AI-powered phone call summary feature for Novosibirsk users",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "mts",
+    "version": null,
+    "tags": [
+      "Mts",
+      "family:mts",
+      "misc",
+      "mts",
+      "mts-youth-programs"
+    ],
+    "primary_link": "https://www.cnews.ru/news/line/2026-09-03_ii_budet_rezyumirovat_telefonnye_1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-14eb349ad1",
+    "date": "2026-09-03",
+    "title": "OK launches AI for photo processing and virtual gifts",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "odnoklassniki",
+    "version": null,
+    "tags": [
+      "Odnoklassniki",
+      "family:odnoklassniki",
+      "misc",
+      "odnoklassniki",
+      "odnoklassniki_toxicity_ai"
+    ],
+    "primary_link": "https://www.ixbt.com/news/2026/09/03/432203-odnoklassniki-zapustili-ii-dlia-raboty-s-foto.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-10a2de18b3",
+    "date": "2026-09-03",
+    "title": "OpenAI GPT-6 Astra Release Announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0fe927a2ab",
+    "date": "2026-09-03",
+    "title": "Nvidia releases utility to turn idle home PCs into micro-cluster for AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://3dnews.ru/1147943/nvidia-vipustila-utilitu-kotoraya-prevrashchaet-prostaivayushchie-pk-v-domashney-seti-v-mikrotsod-dlya-ii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0912d0b95f",
+    "date": "2026-09-03",
+    "title": "OpenAI's Jalapenio AI Chip Announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://zartbot.github.io/blog/arch/jalapeno/en.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fff3fde533",
+    "date": "2026-09-02",
+    "title": "Ubisoft explains why Heroes of Might & Magic III Remake won't disappoint longtime fans",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "heroes-of-might-and-magic-iii-remake",
+    "version": null,
+    "tags": [
+      "Heroes Of Might And Magic Iii Remake",
+      "family:heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake-development",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147822/ubisoft-obyasnila-pochemu-heroes-of-might-magic-iii-remake-ne-razocharuet-davnih-fanatov-geroev-mecha-i-magii-iii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fd987fdb9f",
+    "date": "2026-09-02",
+    "title": "Silicon Data video card rental index",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "silicon-data",
+    "version": null,
+    "tags": [
+      "Silicon Data",
+      "family:silicon-data",
+      "misc",
+      "silicon-data",
+      "silicon-data-index-proposal"
+    ],
+    "primary_link": "https://startupoftheday.ru/blog/indeks-videokart/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fcdc3a6a2a",
+    "date": "2026-09-02",
+    "title": "Extended GTA VI screening on Netflix surpasses 31 million views across 87 countries in four days",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gta-vi",
+    "version": null,
+    "tags": [
+      "GTA VI",
+      "family:gta-vi",
+      "gta-vi",
+      "gta-vi-pc-delay",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147834/rasshirenniy-pokaz-gta-vi-pokoril-podpischikov-netflix-v-87-stranah-bolee-31-milliona-prosmotrov-za-chetire-dnya",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fba5843ad1",
+    "date": "2026-09-02",
+    "title": "Extended GTA VI showcase on Netflix",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gta-vi",
+    "version": null,
+    "tags": [
+      "GTA VI",
+      "family:gta-vi",
+      "gta-vi",
+      "gta-vi-pc-delay",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147834/rasshirenniy-pokaz-gta-vi-pokoril-podpischikov-netflix-v-87-stranah-bolee-31-milliona-prosmotrov-za-chetire-dnya",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-fad5ffb118",
+    "date": "2026-09-02",
+    "title": "OpenAI: upcoming AI model Astra assigned capability level exceeding 'critical' internal classification",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://3dnews.ru/1147832/openai-gryadushchaya-iimodel-astra-stanet-pervoy-s-kriticheskim-urovnem-vozmognostey-v-sfere-kiberbezopasnosti",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f92b03afaf",
+    "date": "2026-09-02",
+    "title": "Google releases Gemini 3.8 Flash and Gemini 3.8 Flash Cyber",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f4b192cf6a",
+    "date": "2026-09-02",
+    "title": "Russian ministry proposes extended privileges for Yandex's Alice AI on mobile devices",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "alice-ai",
+    "version": null,
+    "tags": [
+      "Alice Ai",
+      "alice-ai",
+      "alice-ai-mobile-privileges",
+      "family:alice-ai",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147818/mintsifri-rf-potrebuet-osobih-privilegiy-dlya-alisi-ai-na-mobilnih-ustroystvah",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e70c7b51e7",
+    "date": "2026-09-02",
+    "title": "Google evades court-ordered division in antitrust case",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://3dnews.ru/1147875/v-grozu-megdu-struykami-google-uvernulas-ot-ocherednoy-popitki-prinudit-eyo-k-razdeleniyu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-dcaef8fe29",
+    "date": "2026-09-02",
+    "title": "GigaChat faces administrative pressure and Alice AI replacement via Yandex",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gigachat",
+    "version": null,
+    "tags": [
+      "GigaChat",
+      "family:gigachat",
+      "gigachat",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147818/mintsifri-rf-potrebuet-osobih-privilegiy-dlya-alisi-ai-na-mobilnih-ustroystvah",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d78e3bd31b",
+    "date": "2026-09-02",
+    "title": "Gemini 3.8 Flash release announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d0ecd51ed2",
+    "date": "2026-09-02",
+    "title": "a16z increases AI Growth Fund to $8.5B and launches $1.1B Machine Age Fund",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "a16z",
+    "version": null,
+    "tags": [
+      "A16Z",
+      "a16z",
+      "ai-fund-increase",
+      "family:a16z",
+      "misc"
+    ],
+    "primary_link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c5914f9e91",
+    "date": "2026-09-02",
+    "title": "Silicon Data launches GPU rental pricing index with Chicago Board of Trade integration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "silicon-data",
+    "version": null,
+    "tags": [
+      "Silicon Data",
+      "family:silicon-data",
+      "misc",
+      "silicon-data",
+      "silicon-data-index-proposal"
+    ],
+    "primary_link": "https://www.silicondata.com",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c24c255e0f",
+    "date": "2026-09-02",
+    "title": "Anthropic Claude Fable 5.1 breaks 17th-century cipher",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147869/model-claude-fable-51-za-44-minuti-vzlomala-shifr-nad-kotorim-kriptografi-bilis-s-1653-goda",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c05075157e",
+    "date": "2026-09-02",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bf905575bc",
+    "date": "2026-09-02",
+    "title": "Samsung unexpectedly blocks Galaxy owner accounts citing security reasons",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "samsung",
+    "version": null,
+    "tags": [
+      "Samsung",
+      "family:samsung",
+      "misc",
+      "samsung",
+      "samsung-accounts-deactivation"
+    ],
+    "primary_link": "https://3dnews.ru/1147844/samsung-vnezapno-stala-blokirovat-akkaunti-vladeltsev-galaxy-prichina-massovoy-deaktivatsii-poka-neizvestna",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ba304b8f26",
+    "date": "2026-09-02",
+    "title": "Yandex Alice AI extended rights discussion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "yandex",
+    "version": null,
+    "tags": [
+      "Yandex",
+      "family:yandex",
+      "misc",
+      "shedevrum",
+      "yandex",
+      "yandex_browser_translation",
+      "yandex_neuromusic",
+      "yandex_source_code_leak"
+    ],
+    "primary_link": "https://www.kommersant.ru/doc/8923559",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b5eea1671f",
+    "date": "2026-09-02",
+    "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ae304e6401",
+    "date": "2026-09-02",
+    "title": "SteamDB creator Pavel Djundik sells Nexus Mods service after 13 years, citing internet AI fatigue",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "steamdb",
+    "version": null,
+    "tags": [
+      "Steamdb",
+      "family:steamdb",
+      "misc",
+      "steamdb",
+      "steamdb-nexus-mods-sale"
+    ],
+    "primary_link": "https://3dnews.ru/1147865/sozdatel-steamdb-prodal-servis-ploshchadke-nexus-mods-potomu-chto-ustal-ot-ii-v-internete",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ac5a060bb8",
+    "date": "2026-09-02",
+    "title": "Ozon, Wildberries and Yandex Market began accepting digital rubles following the Bank of Russia's widespread circulation of the digital ruble on 2026-09-02.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "ozon",
+    "version": null,
+    "tags": [
+      "Ozon",
+      "digital-ruble-adoption",
+      "family:ozon",
+      "misc",
+      "ozon"
+    ],
+    "primary_link": "https://3dnews.ru/1147838/ozon-wildberries-i-yandeks-market-nachali-prinimat-tsifrovie-rubli",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a98d10bce2",
+    "date": "2026-09-02",
+    "title": "WorldLabs Blog: Atlas",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "atlas",
+    "version": null,
+    "tags": [
+      "ATLAS",
+      "atlas",
+      "family:atlas",
+      "meta_atlas",
+      "misc"
+    ],
+    "primary_link": "https://www.worldlabs.ai/blog/atlas",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a1d8877283",
+    "date": "2026-09-02",
+    "title": "SteamDB founder sells service to Nexus Mods",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "steamdb",
+    "version": null,
+    "tags": [
+      "Steamdb",
+      "family:steamdb",
+      "misc",
+      "steamdb",
+      "steamdb-nexus-mods-sale"
+    ],
+    "primary_link": "https://3dnews.ru/1147865/sozdatel-steamdb-prodal-servis-ploshchadke-nexus-mods-potomu-chto-ustal-ot-ii-v-internete",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a0f5a3ad6d",
+    "date": "2026-09-02",
+    "title": "Google releases Gemini 3.8 Flash with improved coding ability",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a03310d0d3",
+    "date": "2026-09-02",
+    "title": "Apple allows macOS app developers to drop Intel processor support",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://3dnews.ru/1147825/apple-razreshila-razrabotchikam-prilogeniy-dlya-macos-otkazatsya-ot-poddergki-protsessorov-intel",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-97ef1ba967",
+    "date": "2026-09-02",
+    "title": "Ubisoft explains why Heroes of Might & Magic III Remake won't disappoint fans",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "heroes-of-might-and-magic-iii-remake",
+    "version": null,
+    "tags": [
+      "Heroes Of Might And Magic Iii Remake",
+      "family:heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake-development",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147822/ubisoft-obyasnila-pochemu-heroes-of-might-magic-iii-remake-ne-razocharuet-davnih-fanatov-geroev-mecha-i-magii-iii",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-931c589133",
+    "date": "2026-09-02",
+    "title": "Google DeepMind introduces agentic video understanding for Gemini models",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8ee81c1a41",
+    "date": "2026-09-02",
+    "title": "Samsung unexpectedly blocks Galaxy user accounts citing security reasons",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "samsung",
+    "version": null,
+    "tags": [
+      "Samsung",
+      "family:samsung",
+      "misc",
+      "samsung",
+      "samsung-accounts-deactivation"
+    ],
+    "primary_link": "https://3dnews.ru/1147844/samsung-vnezapno-stala-blokirovat-akkaunti-vladeltsev-galaxy-prichina-massovoy-deaktivatsii-poka-neizvestna",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8705af97a2",
+    "date": "2026-09-02",
+    "title": "Microsoft raises Windows 11 security at the cost of gaming performance",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "windows-11",
+    "version": null,
+    "tags": [
+      "Windows 11",
+      "family:windows-11",
+      "misc",
+      "windows-11",
+      "windows_11"
+    ],
+    "primary_link": "https://3dnews.ru/1147856/microsoft-povisit-bezopasnost-windows-11-tsenoy-proizvoditelnosti-v-igrah",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-85cc4045ea",
+    "date": "2026-09-02",
+    "title": "Microsoft top manager complains about AI hype even Copilot couldn't find anything new in it",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "microsoft",
+    "version": null,
+    "tags": [
+      "Microsoft",
+      "family:microsoft",
+      "microsoft",
+      "microsoft-build-2024",
+      "microsoft_image_creator",
+      "microsoft_word_gpt_integration",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147845/topmenedger-microsoft-pogalovalsya-na-iiburdu-dage-copilot-ne-smog-nayti-v-ney-nichego-novogo",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8410b784f7",
+    "date": "2026-09-02",
+    "title": "M**a presented Muse Voice Transcribe AI model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "muse",
+    "version": null,
+    "tags": [
+      "Muse",
+      "family:muse",
+      "misc",
+      "muse"
+    ],
+    "primary_link": "https://3dnews.ru/1147839/predstavlena-iimodel-meta-muse-voice-transcribe-dlya-rasshifrovki-rechi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-81be95e5c2",
+    "date": "2026-09-02",
+    "title": "Google released Gemini 3.8 Flash, the third Flash model in six weeks, with improvements in programming, AI agents, and multi-step tasks.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147873/google-vipustila-iimodel-gemini-38-flash-i-eyo-spetsversiyu-cyber-vsego-cherez-tri-nedeli-posle-predshestvennits",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7f3add209c",
+    "date": "2026-09-02",
+    "title": "2026-09-02 Moscow court imposes administrative fines on The source, Pinterest, and Google for failing to remove banned content in Russia.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "telegram",
+    "version": null,
+    "tags": [
+      "Telegram",
+      "family:telegram",
+      "misc",
+      "telegram",
+      "telegram_product_updates"
+    ],
+    "primary_link": "https://3dnews.ru/1147852/sud-v-moskve-oshtrafoval-telegram-pinterest-i-google-na-neskolko-millionov-rubley",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-772d5d789c",
+    "date": "2026-09-02",
+    "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-744a693cde",
+    "date": "2026-09-02",
+    "title": "Perplexity announces Hybrid Compute feature distributing tasks between cloud and local AI to keep personal data secure.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "perplexity",
+    "version": null,
+    "tags": [
+      "Perplexity",
+      "family:perplexity",
+      "misc",
+      "perplexity"
+    ],
+    "primary_link": "https://3dnews.ru/1147830/perplexity-povtorila-za-apple-teper-chast-zadach-budet-vipolnyatsya-v-oblake-a-chast-lokalno-na-pk",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-71b296f814",
+    "date": "2026-09-02",
+    "title": "Google Gemini 3.8 Flash imminent release with agentic coding focus",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:google-gemini",
+      "gemini",
+      "gemini-app",
+      "gemini-gems",
+      "google-gemini",
+      "misc"
+    ],
+    "primary_link": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6737ab6e47",
+    "date": "2026-09-02",
+    "title": "Silicon Data AI token expense index dropped to $0.97 on 2026-09-02, the lowest level since the index launched at the end of the previous year and fell to half the summer maximum.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "silicon-data",
+    "version": null,
+    "tags": [
+      "Silicon Data",
+      "family:silicon-data",
+      "misc",
+      "silicon-data",
+      "silicon-data-index-proposal"
+    ],
+    "primary_link": "https://3dnews.ru/1147833/tseni-na-iitokeni-rekordno-upali",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-52d4f13a45",
+    "date": "2026-09-02",
+    "title": "AIMalysheva exits stealth mode",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aimalysheva",
+    "version": null,
+    "tags": [
+      "Aimalysheva",
+      "aimalysheva",
+      "family:aimalysheva",
+      "misc",
+      "stealth-exit"
+    ],
+    "primary_link": "https://x.com/aimalysheva/status/2095232794792255848",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4dc746ab28",
+    "date": "2026-09-02",
+    "title": "OpenAI Astra model development milestone, September 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://habr.com/ru/articles/1077868/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4736879b93",
+    "date": "2026-09-02",
+    "title": "Proactive cyber defense for governments and enterprises",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepmind",
+    "version": null,
+    "tags": [
+      "DeepMind",
+      "deepmind",
+      "deepmind_research",
+      "family:deepmind",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-44977a0067",
+    "date": "2026-09-02",
+    "title": "Project exits stealth mode, publishes technology blog post, and secures Wired coverage",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "aimalysheva",
+    "version": null,
+    "tags": [
+      "Aimalysheva",
+      "aimalysheva",
+      "family:aimalysheva",
+      "misc",
+      "stealth-exit"
+    ],
+    "primary_link": "https://x.com/aimalysheva/status/2095232794792255848",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-40e0965591",
+    "date": "2026-09-02",
+    "title": "Apple appoints John Ternus as new CEO; Tim Cook transitions to executive chairman of the board; compensation packages for the next fiscal year defined for both.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://3dnews.ru/1147812/noviy-generalniy-direktor-apple-za-sleduyushchiy-god-zarabotaet-58-mln-na-11-mln-bolshe-tima-kuka",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3c2855adb1",
+    "date": "2026-09-02",
+    "title": "Launch of ComfyUI H3VAE TensorRT integration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI",
+      "comfy-cloud-pricing",
+      "comfyui",
+      "comfyui_core_updates",
+      "comfyui_desktop",
+      "ecosystem_grants",
+      "family:comfyui",
+      "misc"
+    ],
+    "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-32b4cbd13b",
+    "date": "2026-09-02",
+    "title": "Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen",
+    "version": null,
+    "tags": [
+      "Qwen",
+      "family:qwen",
+      "misc",
+      "qwen",
+      "qwen-video",
+      "qwen_model_updates"
+    ],
+    "primary_link": "https://arxiv.org/abs/2609.00111",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2edb033ba1",
+    "date": "2026-09-02",
+    "title": "Claude Fable 5.1 cracks 17th-century cipher since 1653",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147869/model-claude-fable-51-za-44-minuti-vzlomala-shifr-nad-kotorim-kriptografi-bilis-s-1653-goda",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2d6b42b1d8",
+    "date": "2026-09-02",
+    "title": "ComfyUI-Aetherscale visual improvements with DLSS",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI",
+      "comfy-cloud-pricing",
+      "comfyui",
+      "comfyui_core_updates",
+      "comfyui_desktop",
+      "ecosystem_grants",
+      "family:comfyui",
+      "misc"
+    ],
+    "primary_link": "https://github.com/vizart-vj/ComfyUI-AetherScale",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2b9c0735ec",
+    "date": "2026-09-02",
+    "title": "Google launches Guided Vision in Gemini Live",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://3dnews.ru/1147816/google-predstavila-guided-vision-funktsiyu-vizualnogo-poiska-veshchey-v-regime-gemini-live",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-22a438ef88",
+    "date": "2026-09-02",
+    "title": "Google Gemini 3.8 Flash released, preferred in internal coding tests over Opus",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://www.wsj.com/tech/ai/new-google-ai-model-said-to-narrow-gap-on-coding-ability-264c6052",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-15b1d1786a",
+    "date": "2026-09-02",
+    "title": "Anthropic file content check feature announced",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://claude.com/check-content",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-05bc5c6e9c",
+    "date": "2026-09-02",
+    "title": "World Labs Announces Atlas Multimodal World Model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "world-labs-atlas",
+    "version": null,
+    "tags": [
+      "World Labs Atlas",
+      "family:world-labs-atlas",
+      "misc",
+      "world-labs-atlas"
+    ],
+    "primary_link": "https://www.worldlabs.ai/blog/atlas",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-050665d505",
+    "date": "2026-09-02",
+    "title": "Anthropic releases Fable 5.1 and Mythos 5.1 model updates",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0423f2e93d",
+    "date": "2026-09-02",
+    "title": "Google is negotiating with Hollywood studios to license content for training AI models on copyrighted films and series.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://3dnews.ru/1147835/google-hochet-obuchat-iimodeli-na-gollivudskih-filmah-i-serialah",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-00f4cb72d6",
+    "date": "2026-09-02",
+    "title": "a16z increases AI Growth Fund to $8.5 billion and launches Machine Age Fund",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "a16z",
+    "version": null,
+    "tags": [
+      "A16Z",
+      "a16z",
+      "ai-fund-increase",
+      "family:a16z",
+      "misc"
+    ],
+    "primary_link": "https://techcrunch.com/2026/08/31/a16z-brings-growth-fund-to-8-5b-days-after-launching-new-1-1b-fund/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-eefafa6ead",
+    "date": "2026-09-01",
+    "title": "Anthropic releases Claude Fable 5.1 and Mythos 5.1",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e94bd15184",
+    "date": "2026-09-01",
+    "title": "Anthropic released Claude Fable 5.1 and Mythos 5.1, new AI models oriented toward programming, large information handling, and multi-step tasks, surpassing predecessors in tests.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://3dnews.ru/1147811/anthropic-predstavila-claude-fable-51-i-mythos-51-flagmanskie-ii-stali-umnee-deshevle-i-chut-raskovannee",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e6dc6cad59",
+    "date": "2026-09-01",
+    "title": "80% of Star Wars Zero Company developers remain unpaid, EA uninvolved",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "star-wars-zero-company",
+    "version": null,
+    "tags": [
+      "Star Wars Zero Company",
+      "family:star-wars-zero-company",
+      "misc",
+      "star-wars-zero-company"
+    ],
+    "primary_link": "https://3dnews.ru/1147795/80-razrabotchikov-star-wars-zero-company-ostalis-bez-zarplati-i-electronic-arts-tut-ni-pri-chyom",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-dee637a9a1",
+    "date": "2026-09-01",
+    "title": "ComfyUI-H3VAE_TRT and ComfyUI-H3VideoOutpaint",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI",
+      "comfy-cloud-pricing",
+      "comfyui",
+      "comfyui_core_updates",
+      "comfyui_desktop",
+      "ecosystem_grants",
+      "family:comfyui",
+      "misc"
+    ],
+    "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d6f8f63a6e",
+    "date": "2026-09-01",
+    "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia-nemotron",
+    "version": null,
+    "tags": [
+      "Nemotron 3.5 Lightning",
+      "family:nvidia-nemotron",
+      "misc",
+      "nvidia-nemotron",
+      "nvidia_nemotron"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d471b3d097",
+    "date": "2026-09-01",
+    "title": "John Ternus appointed Apple CEO; priorities include reliability and durability, and innovations in materials and design",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "apple",
+    "version": null,
+    "tags": [
+      "Apple",
+      "apple",
+      "apple_gaudi",
+      "apple_intelligence",
+      "family:apple",
+      "misc",
+      "open_source_release"
+    ],
+    "primary_link": "https://3dnews.ru/1147801/nadyognost-i-dolgovechnost-dgon-ternus-vozglavil-apple-i-raskril-svoi-prioriteti-na-postu-gendira",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-cd139a80e3",
+    "date": "2026-09-01",
+    "title": "Nvidia DLSS 5 launch announcement for GeForce RTX 50 series and GeForce NOW",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://3dnews.ru/1147794/nvidia-dlss-5-zarabotaet-3-sentyabrya-na-videokartah-geforce-rtx-50-i-v-geforce-now-pervoy-igroy-stanet-nba-2k27",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c2ad0b7fcb",
+    "date": "2026-09-01",
+    "title": "GoPro acquisition and strategic shift",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gopro",
+    "version": null,
+    "tags": [
+      "Gopro",
+      "family:gopro",
+      "gopro",
+      "gopro-acquisition-2026",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147807/gopro-vnezapno-pererodilas-proizvoditel-ekshnkamer-prodan-za-285-mln-i-teper-zaymyotsya-ii-optikoy-i-oboronkoy",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c1cdd7886b",
+    "date": "2026-09-01",
+    "title": "Google launches Google Pics AI graphic editor",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://3dnews.ru/1147810/zapushchen-google-pics-graficheskiy-iiredaktor-kotoriy-brosaet-vizov-canva",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bae5434740",
+    "date": "2026-09-01",
+    "title": "Google Pics: Easy image creation and editing in Google Workspace",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ae728364c0",
+    "date": "2026-09-01",
+    "title": "Fable 5.1 release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://platform.claude.com/docs/en/models/fable-5-1/whats-new-fable-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9c89b68271",
+    "date": "2026-09-01",
+    "title": "GoPro acquisition by Starman Optical",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gopro",
+    "version": null,
+    "tags": [
+      "Gopro",
+      "family:gopro",
+      "gopro",
+      "gopro-acquisition-2026",
+      "misc"
+    ],
+    "primary_link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9768b9afc1",
+    "date": "2026-09-01",
+    "title": "Fable 5.1 Release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8b6446fbc3",
+    "date": "2026-09-01",
+    "title": "Hugging Face Nvidia deal and robot drop discussion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "hugging-face",
+    "version": null,
+    "tags": [
+      "Hugging Face",
+      "dreambooth-hackathon",
+      "family:hugging-face",
+      "hf-inference-providers",
+      "hugging-face",
+      "hugging-face-mcp",
+      "huggingface-local-apps",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-89debba9cc",
+    "date": "2026-09-01",
+    "title": "OpenAI path-to-astra announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://openai.com/index/path-to-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-846ca0188f",
+    "date": "2026-09-01",
+    "title": "ByteDance shows Lucida: video turns into editable 3D scene",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "lucida",
+    "version": null,
+    "tags": [
+      "Lucida",
+      "family:lucida",
+      "lucida",
+      "misc"
+    ],
+    "primary_link": "https://lucida-r2s.github.io/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-738dba3c5e",
+    "date": "2026-09-01",
+    "title": "NVIDIA DLSS 5 DLL leaked via NBA 2K27 early access build",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://www.techpowerup.com/352033/nvidia-dlss-5-dll-leaked-by-nba-2k27-early-access-build-heres-our-analysis",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-626229fd6d",
+    "date": "2026-09-01",
+    "title": "Introducing agentic video understanding with Gemini",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5c24a1064b",
+    "date": "2026-09-01",
+    "title": "Claude Code default mode change: session URL insertion in commits",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://github.com/anthropics/claude-code/issues/66504",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-56fe61ff2b",
+    "date": "2026-09-01",
+    "title": "Gemini learns to remember where users place items – Find Hub expansion announced",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://3dnews.ru/1147808/gemini-nauchilsya-zapominat-kuda-polzovatel-pologil-veshchi-iskat-klyuchi-i-dokumenti-teper-mogno-bez-trekerov",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-48450782e9",
+    "date": "2026-09-01",
+    "title": "Anthropic releases Claude Fable 5.1 and Mythos 5.1",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://3dnews.ru/1147811/anthropic-predstavila-claude-fable-51-i-mythos-51-flagmanskie-ii-stali-umnee-deshevle-i-chut-raskovannee",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-40ba6298c3",
+    "date": "2026-09-01",
+    "title": "Moon Studios delays No Rest for the Wicked early access release from 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "no-rest-for-the-wicked",
+    "version": null,
+    "tags": [
+      "No Rest For The Wicked",
+      "family:no-rest-for-the-wicked",
+      "misc",
+      "no-rest-for-the-wicked",
+      "no-rest-for-the-wicked-early-access-plan"
+    ],
+    "primary_link": "https://3dnews.ru/1147799/rolevoy-boevik-no-rest-for-the-wicked-ot-avtorov-ori-ne-viydet-iz-rannego-dostupa-steam-v-2026-godu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3e5ddc4905",
+    "date": "2026-09-01",
+    "title": "Anthropic Claude 5.1 fable and mythos announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2195d267bc",
+    "date": "2026-09-01",
+    "title": "No Rest for the Wicked early access delay announced",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "no-rest-for-the-wicked",
+    "version": null,
+    "tags": [
+      "No Rest For The Wicked",
+      "family:no-rest-for-the-wicked",
+      "misc",
+      "no-rest-for-the-wicked",
+      "no-rest-for-the-wicked-early-access-plan"
+    ],
+    "primary_link": "https://3dnews.ru/1147799/rolevoy-boevik-no-rest-for-the-wicked-ot-avtorov-ori-ne-viydet-iz-rannego-dostupa-steam-v-2026-godu",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1bad458b2a",
+    "date": "2026-09-01",
+    "title": "Fable 5.1 Release Announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1320f519a1",
+    "date": "2026-09-01",
+    "title": "Path to Astra: critical capabilities and frontier safeguards",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://openai.com/index/path-to-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-109c869863",
+    "date": "2026-09-01",
+    "title": "ChatGPT healthcare data integration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0f91f1563c",
+    "date": "2026-09-01",
+    "title": "Google's latest AI updates from August 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a712649e55",
+    "date": "2026-08-31",
+    "title": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "chatgpt",
+    "version": null,
+    "tags": [
+      "ChatGPT",
+      "chatgpt",
+      "chatgpt-phone-access",
+      "chatgpt_features",
+      "chatgpt_image_editing",
+      "family:chatgpt",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-90bd6c1615",
+    "date": "2026-08-31",
+    "title": "Scale AV Perception Across Vehicle Platforms with NVIDIA Omniverse NuRec",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0dd4de1b97",
+    "date": "2026-08-31",
+    "title": "OpenAI supports California’s bill to advance youth AI safety",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ff09e5b9b1",
+    "date": "2026-08-28",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f82288c739",
+    "date": "2026-08-28",
+    "title": "Sepia portable Agent Skill announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nanako0129-sepia",
+    "version": null,
+    "tags": [
+      "Nanako0129 Sepia",
+      "family:nanako0129-sepia",
+      "misc",
+      "nanako0129-sepia",
+      "nanako0129-sepia-proposal"
+    ],
+    "primary_link": "https://github.com/Nanako0129/sepia",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f345858e23",
+    "date": "2026-08-28",
+    "title": "Deploy an Open Model from Checkpoint to Inference in Two Commands with NVIDIA TensorRT Model Connect",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a020ad2fa0",
+    "date": "2026-08-28",
+    "title": "HotA on Steam and HoMM III Remake announced at Gamescom",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "heroes-of-might-and-magic-iii-remake",
+    "version": null,
+    "tags": [
+      "Heroes Of Might And Magic Iii Remake",
+      "family:heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake",
+      "heroes-of-might-and-magic-iii-remake-development",
+      "misc"
+    ],
+    "primary_link": "https://www.gamescom.global/en/product/heroes-of-might-and-magic-iii-remake",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7ffd4ec0b4",
+    "date": "2026-08-28",
+    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-716d01b17c",
+    "date": "2026-08-28",
+    "title": "OpenAI Offers Straight-Laced Postmortem Of The HuggingFace Hack",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.lesswrong.com/posts/Khmh3ghqaGEpmpC9r/openai-offers-straight-laced-postmortem-of-the-huggingface",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6f7f066ffe",
+    "date": "2026-08-28",
+    "title": "GitHub project Nanako0129/sepia announced with 1,904 stars on 2026-08-28",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nanako0129-sepia",
+    "version": null,
+    "tags": [
+      "Nanako0129 Sepia",
+      "family:nanako0129-sepia",
+      "misc",
+      "nanako0129-sepia",
+      "nanako0129-sepia-proposal"
+    ],
+    "primary_link": "https://github.com/Nanako0129/sepia",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-57fc3619fc",
+    "date": "2026-08-28",
+    "title": "OpenAI winds down OpenAI models contract with Cursor after SpaceX acquisition",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4be5fa54fd",
+    "date": "2026-08-28",
+    "title": "Google Calendar app lacks calendar subscription via URL feature",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0c8443f593",
+    "date": "2026-08-28",
+    "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-ddcde11c22",
+    "date": "2026-08-27",
+    "title": "Nvidia agrees to acquire Hugging Face for $13B",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bf091ee63b",
+    "date": "2026-08-27",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b0a84b3dca",
+    "date": "2026-08-27",
+    "title": "Fastpotify native Spotify client in Rust",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "crmne-fastpotify",
+    "version": null,
+    "tags": [
+      "Crmne Fastpotify",
+      "crmne-fastpotify",
+      "family:crmne-fastpotify",
+      "misc"
+    ],
+    "primary_link": "https://github.com/crmne/fastpotify",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-98dd5dab2b",
+    "date": "2026-08-27",
+    "title": "Gemini Omni 1.1 Flash release dated 2026-08-27 enabling more control for building",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-868e947d58",
+    "date": "2026-08-27",
+    "title": "3 new ways to plan and book travel in Search",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7ad749d3fe",
+    "date": "2026-08-27",
+    "title": "Fastpotify native Spotify client in Rust released on 2026-08-27; supports Spotify Connect, requires Premium, uses 100-250 MB RAM.",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "crmne-fastpotify",
+    "version": null,
+    "tags": [
+      "Crmne Fastpotify",
+      "crmne-fastpotify",
+      "family:crmne-fastpotify",
+      "misc"
+    ],
+    "primary_link": "https://github.com/crmne/fastpotify",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6469337d3d",
+    "date": "2026-08-27",
+    "title": "AI #183: Pre Post Mortem",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://www.lesswrong.com/posts/JaGWyjnqJzvSAuojc/ai-183-pre-post-mortem",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-de6aad8413",
+    "date": "2026-08-26",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "chatgpt",
+    "version": null,
+    "tags": [
+      "ChatGPT",
+      "chatgpt",
+      "chatgpt-phone-access",
+      "chatgpt_features",
+      "chatgpt_image_editing",
+      "family:chatgpt",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-d99912828e",
     "date": "2026-08-26",
     "title": "Breeze TTS 2 was presented through official project links",
@@ -34,6 +5142,65 @@
       "qwen3-8-flash-next"
     ],
     "primary_link": "https://github.com/QwenLM/Qwen3.8-Flash-Next",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a41f024b8b",
+    "date": "2026-08-26",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://openai.com/index/learning-never-stops",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-955e8f8621",
+    "date": "2026-08-26",
+    "title": "NVIDIA NVLink Fusion Brings NVHBM to Next-Generation AI Infrastructure",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8d34f26cae",
+    "date": "2026-08-26",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "has_image": false,
     "has_video": false
   },
@@ -94,6 +5261,47 @@
     "has_video": false
   },
   {
+    "id": "n-17aa49afc9",
+    "date": "2026-08-26",
+    "title": "The Hugging Face incident and the road ahead",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1704c7c952",
+    "date": "2026-08-26",
+    "title": "Alibaba releases Qwen3.8-Flash-Next model weights as Qwen4 preview",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen3-8-flash-next",
+    "version": null,
+    "tags": [
+      "Qwen3.8-Flash-Next",
+      "family:qwen3-8-flash-next",
+      "misc",
+      "qwen",
+      "qwen3-8-flash-next"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-on-nvidia-gb300-nvl72-for-agentic-coding/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-001a2f8ef9",
     "date": "2026-08-26",
     "title": "diffusion.love publishes explicit project and company development graph contract",
@@ -132,6 +5340,50 @@
     "has_video": false
   },
   {
+    "id": "n-e1bdce68e2",
+    "date": "2026-08-25",
+    "title": "Restore LLM Inference Capacity in Seconds with Shadow Engine Recovery in NVIDIA Dynamo",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-cd41494b6d",
+    "date": "2026-08-25",
+    "title": "5 ways to upgrade your home decor with Google Search",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-97c92d3269",
     "date": "2026-08-25",
     "title": "FireRedTTS3 public project update",
@@ -151,6 +5403,25 @@
     "has_video": false
   },
   {
+    "id": "n-91acd5d17b",
+    "date": "2026-08-25",
+    "title": "Ozon warehouse fires and market reaction (2026-08-24)",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "ozon",
+    "version": null,
+    "tags": [
+      "Ozon",
+      "digital-ruble-adoption",
+      "family:ozon",
+      "misc",
+      "ozon"
+    ],
+    "primary_link": "https://startupoftheday.ru/blog/o-mudrosti-tolpy/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-70863553de",
     "date": "2026-08-25",
     "title": "Unsloth release line reaches v0.1.803-beta",
@@ -166,6 +5437,25 @@
       "organization:unsloth"
     ],
     "primary_link": "https://github.com/unslothai/unsloth/releases",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6c24c5b7d1",
+    "date": "2026-08-25",
+    "title": "The full stack behind abundant intelligence",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "has_image": false,
     "has_video": false
   },
@@ -202,6 +5492,25 @@
       "misc"
     ],
     "primary_link": "https://yunzetong.github.io/InfinityEdit/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-118fe57886",
+    "date": "2026-08-25",
+    "title": "OpenAI disrupts Russia-origin AI influence campaign",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "open-ai",
+    "version": null,
+    "tags": [
+      "Open Ai",
+      "family:open-ai",
+      "misc",
+      "open-ai",
+      "unknown"
+    ],
+    "primary_link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "has_image": false,
     "has_video": false
   },
@@ -244,6 +5553,28 @@
     "has_video": false
   },
   {
+    "id": "n-cefb12024f",
+    "date": "2026-08-24",
+    "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-ccb51d2a95",
     "date": "2026-08-24",
     "title": "MiniMax H3 Fun ControlNet Union linked with a VideoX-Fun example",
@@ -259,6 +5590,28 @@
       "misc"
     ],
     "primary_link": "https://github.com/aigc-apps/VideoX-Fun/tree/main/examples/minimax_h3_fun",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-7f4cc3dc77",
+    "date": "2026-08-24",
+    "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
     "has_image": false,
     "has_video": false
   },
@@ -281,6 +5634,28 @@
     "has_video": false
   },
   {
+    "id": "n-57cc3853e4",
+    "date": "2026-08-24",
+    "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-4177cab2fa",
     "date": "2026-08-24",
     "title": "V-RAE project resources were linked",
@@ -296,6 +5671,50 @@
       "v_rae"
     ],
     "primary_link": "https://v-rae.github.io/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1b98c991bd",
+    "date": "2026-08-24",
+    "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0785ddb34a",
+    "date": "2026-08-24",
+    "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
     "has_image": false,
     "has_video": false
   },
@@ -373,6 +5792,28 @@
       "misc"
     ],
     "primary_link": "https://huggingface.co/papers/2608.16887",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f64d313e07",
+    "date": "2026-08-22",
+    "title": "When would you leave Anthropic? Notes from a chat with a capabilities researcher",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.lesswrong.com/posts/ga8c5MWynhLuDm4mD/when-would-you-leave-anthropic-notes-from-a-chat-with-a",
     "has_image": false,
     "has_video": false
   },
@@ -528,6 +5969,47 @@
     "has_video": false
   },
   {
+    "id": "n-78534dcbd0",
+    "date": "2026-08-21",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-deepmind",
+    "version": null,
+    "tags": [
+      "Google Deepmind",
+      "family:google-deepmind",
+      "google-deepmind",
+      "leadership",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-369aa09a66",
+    "date": "2026-08-21",
+    "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-1a1b209e8f",
     "date": "2026-08-21",
     "title": "Black Forest Labs introduced FLUX Video Upscale",
@@ -543,6 +6025,28 @@
       "misc"
     ],
     "primary_link": "https://bfl.ai/blog/flux-video-upscale",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-14085b1b0f",
+    "date": "2026-08-21",
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "hugging-face",
+    "version": null,
+    "tags": [
+      "Hugging Face",
+      "dreambooth-hackathon",
+      "family:hugging-face",
+      "hf-inference-providers",
+      "hugging-face",
+      "hugging-face-mcp",
+      "huggingface-local-apps",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/blog/pwc-search",
     "has_image": false,
     "has_video": false
   },
@@ -639,6 +6143,28 @@
     "has_video": false
   },
   {
+    "id": "n-25ebe7235f",
+    "date": "2026-08-20",
+    "title": "Making sense of the misalignment risk model in the Anthropic Risk Report (August 2026)",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.lesswrong.com/posts/P6gLGnjjzZMPyvJGa/making-sense-of-the-misalignment-risk-model-in-the-anthropic",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-11ae14ece9",
     "date": "2026-08-20",
     "title": "Muse’s ComfyUI repository was linked",
@@ -653,6 +6179,28 @@
       "misc"
     ],
     "primary_link": "https://github.com/RudySen/comfyui-muse",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-db2ba24b08",
+    "date": "2026-08-19",
+    "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
     "has_image": false,
     "has_video": false
   },
@@ -676,6 +6224,28 @@
     "has_video": false
   },
   {
+    "id": "n-c0f459a01f",
+    "date": "2026-08-19",
+    "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-a78b2b7401",
     "date": "2026-08-19",
     "title": "SANA-Video2 5B code and checkpoint are released",
@@ -691,6 +6261,128 @@
       "organization:nvidia"
     ],
     "primary_link": "https://github.com/NVlabs/Sana",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9f7f321a65",
+    "date": "2026-08-19",
+    "title": "Developing NVIDIA Holoscan Applications with CLI, Skills, and AI Coding Agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia",
+    "version": null,
+    "tags": [
+      "NVIDIA",
+      "drivers",
+      "family:nvidia",
+      "misc",
+      "nvidia",
+      "nvidia-ace",
+      "nvidia_3d_photo_reconstruction",
+      "nvidia_drivers"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-949d991556",
+    "date": "2026-08-19",
+    "title": "Offering Zero Data Retention for frontier models",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3a37efa7b1",
+    "date": "2026-08-19",
+    "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "nvidia-cosmos-3-edge",
+    "version": null,
+    "tags": [
+      "Cosmos 3 Edge",
+      "cosmos-3-edge",
+      "family:nvidia-cosmos-3-edge",
+      "misc",
+      "nvidia-cosmos-3-edge"
+    ],
+    "primary_link": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2677c972d7",
+    "date": "2026-08-19",
+    "title": "5 new ways to level up your learning with Search",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-15dd2a021a",
+    "date": "2026-08-19",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "replit",
+    "version": null,
+    "tags": [
+      "Replit",
+      "family:replit",
+      "misc",
+      "replit"
+    ],
+    "primary_link": "https://openai.com/index/replit",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-dedad85a4a",
+    "date": "2026-08-18",
+    "title": "Muse-Glimmer-30B-GGUF model release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "muse-glimmer",
+    "version": null,
+    "tags": [
+      "Muse Glimmer",
+      "family:muse-glimmer",
+      "misc",
+      "muse",
+      "muse-glimmer"
+    ],
+    "primary_link": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
     "has_image": false,
     "has_video": false
   },
@@ -958,6 +6650,24 @@
     "has_video": false
   },
   {
+    "id": "n-2a88c3c86a",
+    "date": "2026-08-17",
+    "title": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-f1f27d1e3a",
     "date": "2026-08-16",
     "title": "Spatial Memory Agent project page was linked",
@@ -992,6 +6702,25 @@
       "tritant/comfyui_minimax_h3_extender"
     ],
     "primary_link": "https://github.com/tritant/ComfyUI_MiniMax_H3_Extender",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1d2e9c62f3",
+    "date": "2026-08-16",
+    "title": "Qwen3.8-27B-Uncensored-GGUF",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen3-8-27b-uncensored",
+    "version": null,
+    "tags": [
+      "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "family:qwen3-8-27b-uncensored",
+      "misc",
+      "qwen3-8-27b-uncensored",
+      "qwen3_8_uncensored_hauhaucs"
+    ],
+    "primary_link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
     "has_image": false,
     "has_video": false
   },
@@ -1128,6 +6857,25 @@
     "has_video": false
   },
   {
+    "id": "n-4340409e0e",
+    "date": "2026-08-14",
+    "title": "Qwen 3.8 27B model announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen-3-8-27b",
+    "version": null,
+    "tags": [
+      "Qwen3.8-27B",
+      "family:qwen-3-8-27b",
+      "misc",
+      "qwen",
+      "qwen-3-8-27b"
+    ],
+    "primary_link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-412ff5547f",
     "date": "2026-08-14",
     "title": "Google introduces Gemini 3.7 Flash for AI Studio",
@@ -1180,6 +6928,42 @@
       "misc"
     ],
     "primary_link": "https://hayd-zju.github.io/Beyond-Pixels/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9f709ff01d",
+    "date": "2026-08-13",
+    "title": "Introducing Gemini 3.7 Flash",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-80ba885660",
+    "date": "2026-08-13",
+    "title": "Gemini 3.7 Flash announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "has_image": false,
     "has_video": false
   },
@@ -1310,6 +7094,24 @@
       "vocalrender"
     ],
     "primary_link": "https://pymaster17.github.io/VocalRender/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-43a9873e24",
+    "date": "2026-08-12",
+    "title": "DeepSeek V4 Pro 0813 release announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepseek",
+    "version": null,
+    "tags": [
+      "DeepSeek",
+      "deepseek",
+      "family:deepseek",
+      "misc"
+    ],
+    "primary_link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "has_image": false,
     "has_video": false
   },
@@ -1519,6 +7321,28 @@
     "has_video": false
   },
   {
+    "id": "n-afd37d916b",
+    "date": "2026-08-10",
+    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "meta",
+    "version": null,
+    "tags": [
+      "Meta",
+      "family:meta",
+      "meta",
+      "meta-ai",
+      "meta-ai-avatars",
+      "meta_ai_video_ads",
+      "misc",
+      "streamdit"
+    ],
+    "primary_link": "https://huggingface.co/blog/muse-glimmer",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-721afd6a19",
     "date": "2026-08-10",
     "title": "Public reference to the Anydoc repository",
@@ -1594,6 +7418,25 @@
     "has_video": false
   },
   {
+    "id": "n-2ebc155125",
+    "date": "2026-08-09",
+    "title": "MiniMax-H3 release announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3",
+      "family:minimax-h3",
+      "minimax",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-4fb87f050c",
     "date": "2026-08-08",
     "title": "Wan-Animate-2 resources were recorded across project, model, and ComfyUI channels",
@@ -1650,6 +7493,24 @@
     "has_video": false
   },
   {
+    "id": "n-be6aa335c7",
+    "date": "2026-08-07",
+    "title": "Kimi K3 2.8T MoE model release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "kimi-k3",
+    "version": null,
+    "tags": [
+      "Kimi K3",
+      "family:kimi-k3",
+      "kimi-k3",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-a85f96599d",
     "date": "2026-08-07",
     "title": "ComfyUI-Latent-Tiled-PiD received a dated public repository reference",
@@ -1682,6 +7543,25 @@
       "misc"
     ],
     "primary_link": "https://github.com/KingGore/ComfyUI_sol-attn_Blackwell",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-e0d8a02be3",
+    "date": "2026-08-06",
+    "title": "GitHub Actions and Pages degraded availability incident",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "github",
+    "version": null,
+    "tags": [
+      "GitHub",
+      "family:github",
+      "github",
+      "github-connectivity",
+      "misc"
+    ],
+    "primary_link": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
     "has_image": false,
     "has_video": false
   },
@@ -1719,6 +7599,45 @@
       "misc"
     ],
     "primary_link": "https://github.com/WilliamLiu-1997/3DGS-PLY-3DTiles-Converter",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6d4f5a4c09",
+    "date": "2026-08-06",
+    "title": "AMD acquires Taalaas to boost inference performance by etching models in silicon",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "amd",
+    "version": null,
+    "tags": [
+      "AMD",
+      "amd",
+      "amd_mi300x",
+      "family:amd",
+      "instinct-mi300x",
+      "misc"
+    ],
+    "primary_link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5a0726226f",
+    "date": "2026-08-06",
+    "title": "GLM-5.2-Vision-NVFP4 model release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "glm-5-2-vision",
+    "version": null,
+    "tags": [
+      "GLM-5.2-Vision-NVFP4",
+      "family:glm-5-2-vision",
+      "glm-5-2-vision",
+      "glm_5_2_vision",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
     "has_image": false,
     "has_video": false
   },
@@ -1776,6 +7695,25 @@
       "misc"
     ],
     "primary_link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f43fd5b3c3",
+    "date": "2026-08-05",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-deepmind",
+    "version": null,
+    "tags": [
+      "Google Deepmind",
+      "family:google-deepmind",
+      "google-deepmind",
+      "leadership",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
     "has_image": false,
     "has_video": false
   },
@@ -1854,6 +7792,24 @@
     "has_video": false
   },
   {
+    "id": "n-2d8439d05b",
+    "date": "2026-08-05",
+    "title": "rust-lang/rust is adopting an LLM policy",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "rust-lang-rust",
+    "version": null,
+    "tags": [
+      "Rust Lang Rust",
+      "family:rust-lang-rust",
+      "misc",
+      "rust-lang-rust"
+    ],
+    "primary_link": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-f8b2802977",
     "date": "2026-08-04",
     "title": "ComfyUI Spectrum MiniMax H3 repository was linked",
@@ -1869,6 +7825,28 @@
       "misc"
     ],
     "primary_link": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d1157aecd1",
+    "date": "2026-08-04",
+    "title": "Google AI updates July 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
     "has_image": false,
     "has_video": false
   },
@@ -2373,6 +8351,24 @@
     "has_video": false
   },
   {
+    "id": "n-a4cfb13cba",
+    "date": "2026-07-30",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-98db5e9f27",
     "date": "2026-07-30",
     "title": "SeedVR2-1.4B ComfyUI package was linked",
@@ -2500,6 +8496,43 @@
     "has_video": false
   },
   {
+    "id": "n-1d3b3a61f8",
+    "date": "2026-07-29",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "lyria",
+    "version": null,
+    "tags": [
+      "Google DeepMind Lyria",
+      "deepmind_lyria",
+      "family:lyria",
+      "lyria",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d224767d18",
+    "date": "2026-07-28",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-cf0d503ef2",
     "date": "2026-07-28",
     "title": "ComfyUI-OpenPose-Studio repository referenced",
@@ -2533,6 +8566,46 @@
       "obsidian-mind"
     ],
     "primary_link": "https://github.com/breferrari/obsidian-mind",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-b278b5f533",
+    "date": "2026-07-28",
+    "title": "5 ways to host the ultimate dinner party with Google Search",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-af36768073",
+    "date": "2026-07-28",
+    "title": "Gemini API Managed Agents 3.6 Flash and hooks announcement enabling developers to build production-ready agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
     "has_image": false,
     "has_video": false
   },
@@ -3302,6 +9375,24 @@
     "has_video": false
   },
   {
+    "id": "n-c2788af394",
+    "date": "2026-07-21",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-8a9fb1a4b9",
     "date": "2026-07-21",
     "title": "Lucida development resources were linked",
@@ -3614,6 +9705,43 @@
     "has_video": false
   },
   {
+    "id": "n-cf50e79500",
+    "date": "2026-07-17",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-da095b401f",
+    "date": "2026-07-16",
+    "title": "Google Vids updates with Gemini Omni and personal avatars",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-vids",
+    "version": null,
+    "tags": [
+      "Google Vids",
+      "family:google-vids",
+      "google-vids",
+      "google_vids_veo_integration",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-9478ff9243",
     "date": "2026-07-16",
     "title": "Grok Build public repository reference",
@@ -3628,6 +9756,25 @@
       "misc"
     ],
     "primary_link": "https://github.com/xai-org/grok-build",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8b0a2d6a37",
+    "date": "2026-07-16",
+    "title": "Google DeepMind and Isomorphic Labs share joint approach to bioresilience and AI models",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepmind",
+    "version": null,
+    "tags": [
+      "DeepMind",
+      "deepmind",
+      "deepmind_research",
+      "family:deepmind",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
     "has_image": false,
     "has_video": false
   },
@@ -3812,6 +9959,28 @@
       "misc"
     ],
     "primary_link": "https://huggingface.co/fal/ideogram-v4-instant",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-64df2fb455",
+    "date": "2026-07-14",
+    "title": "Google Images 25th anniversary celebration",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google",
+    "version": null,
+    "tags": [
+      "Google",
+      "family:google",
+      "gemini",
+      "google",
+      "google-assistant",
+      "google-io-2023",
+      "google-io-2026",
+      "google-producer-ai-acquisition"
+    ],
+    "primary_link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
     "has_image": false,
     "has_video": false
   },
@@ -4255,6 +10424,24 @@
     "has_video": false
   },
   {
+    "id": "n-465fc7b56c",
+    "date": "2026-07-07",
+    "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-cb62ae01fa",
     "date": "2026-07-06",
     "title": "PhotoQuilt project resources were made available",
@@ -4455,6 +10642,25 @@
       "pocket"
     ],
     "primary_link": "https://gizmo.party/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0a08d218d1",
+    "date": "2026-07-03",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "google-deepmind",
+    "version": null,
+    "tags": [
+      "Google Deepmind",
+      "family:google-deepmind",
+      "google-deepmind",
+      "leadership",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
     "has_image": false,
     "has_video": false
   },
@@ -5290,6 +11496,24 @@
       "qwythos-9b-claude-mythos-5"
     ],
     "primary_link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-81a20b1e3d",
+    "date": "2026-06-24",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "has_image": false,
     "has_video": false
   },
@@ -6460,6 +12684,25 @@
     "has_video": false
   },
   {
+    "id": "n-454ed35c93",
+    "date": "2026-06-10",
+    "title": "Investing in multi-agent AI safety research",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepmind",
+    "version": null,
+    "tags": [
+      "DeepMind",
+      "deepmind",
+      "deepmind_research",
+      "family:deepmind",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-3bacf0e143",
     "date": "2026-06-10",
     "title": "Apple presents the third generation of its Foundation Models",
@@ -6554,6 +12797,25 @@
     "has_video": false
   },
   {
+    "id": "n-818c5aa2cb",
+    "date": "2026-06-09",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemma-4-12b",
+    "version": null,
+    "tags": [
+      "Gemma 4 12B",
+      "family:gemma-4-12b",
+      "gemma",
+      "gemma-4-12b",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-7e81500f3d",
     "date": "2026-06-09",
     "title": "SCAIL-2 linked to public project, source, and model resources",
@@ -6569,6 +12831,25 @@
       "scail-2"
     ],
     "primary_link": "http://teal024.github.io/SCAIL-2/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6fd15dc934",
+    "date": "2026-06-09",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini-3-5-live-translate",
+    "version": null,
+    "tags": [
+      "Gemini 3.5 Live Translate",
+      "family:gemini-3-5-live-translate",
+      "gemini-3-5-live-translate",
+      "gemini_models",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
     "has_image": false,
     "has_video": false
   },
@@ -6682,6 +12963,24 @@
       "misc"
     ],
     "primary_link": "https://github.com/Mozer/ComfyUI-PixelDriftFix",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4e1f3e0723",
+    "date": "2026-06-08",
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gemini",
+    "version": null,
+    "tags": [
+      "Gemini",
+      "family:gemini",
+      "gemini",
+      "misc"
+    ],
+    "primary_link": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
     "has_image": false,
     "has_video": false
   },

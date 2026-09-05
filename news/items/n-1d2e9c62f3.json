@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-1d2e9c62f3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen3.8-27B-Uncensored-GGUF",
+ "summary": "Uncensored Qwen3.8-27B GGUF with verified MTP head, using Heretic to reduce refusal, offering IQ4_XS to Q8_0 quantizations and separate draft files.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "family_slug": "qwen3-8-27b-uncensored",
+  "family_display": "Qwen3.8-27B-Uncensored",
+  "model_slug": "qwen3-8-27b-uncensored",
+  "model_display": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+  "family:qwen3-8-27b-uncensored",
+  "misc",
+  "qwen3-8-27b-uncensored",
+  "qwen3_8_uncensored_hauhaucs"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen3-8-27b-uncensored"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-16",
+  "excerpt": "Uncensored Qwen3.8-27B GGUF with verified MTP head, using Heretic to reduce refusal, offering IQ4_XS to Q8_0 quantizations and separate draft files."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

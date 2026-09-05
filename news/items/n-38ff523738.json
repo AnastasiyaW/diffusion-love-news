@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-38ff523738",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Windows 11 reaches ~71% among Steam users in August 2026",
+ "summary": "Valve published August 2026 Steam hardware/software survey results showing Windows 11 at 70.97% usage, continuing to close in on Windows 10. Overall indicators remained stable month-over-month.",
+ "research_notes": "",
+ "project": {
+  "name": "Windows 11",
+  "family_slug": "windows-11",
+  "family_display": "Windows 11",
+  "model_slug": "windows-11",
+  "model_display": "Windows 11",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Windows 11",
+  "family:windows-11",
+  "misc",
+  "windows-11",
+  "windows_11"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "windows-11"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1147890/windows-11-nabrala-pochti-71-sredi-polzovateley-steam-i-prodolgila-tesnit-windows-10",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-03",
+  "excerpt": "Valve published August 2026 Steam hardware/software survey results showing Windows 11 at 70.97% usage, continuing to close in on Windows 10. Overall indicators remained stable month-over-month."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

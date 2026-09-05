@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.3",
+ "id": "n-050665d505",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Anthropic releases Fable 5.1 and Mythos 5.1 model updates",
+ "summary": "Anthropic updated its models, reduced cache read costs by ~25%, temporarily increased Fable limits by 50% until August 31, added mid-conversation reasoning level switching, and reported mixed safety changes including reduced false refusals on biological/medical queries but claims of increased cyber capabilities in Mythos.",
+ "research_notes": "",
+ "project": {
+  "name": "Anthropic",
+  "family_slug": "anthropic",
+  "family_display": "Anthropic",
+  "model_slug": "anthropic",
+  "model_display": "Anthropic",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Anthropic",
+  "anthropic",
+  "anthropic_450m_funding",
+  "anthropic_claude_connections",
+  "anthropic_sleeper_agents",
+  "blender-development-fund",
+  "claude",
+  "family:anthropic",
+  "misc",
+  "regulatory_actions"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "anthropic"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+   "host": "anthropic.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "Anthropic updated its models, reduced cache read costs by ~25%, temporarily increased Fable limits by 50% until August 31, added mid-conversation reasoning level switching, and reported mixed safety changes including reduced false refusals on biological/medical queries but claims of increased cyber capabilities in Mythos."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

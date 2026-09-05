@@ -1,0 +1,98 @@
+{
+ "schema_version": "1.3",
+ "id": "n-bae5434740",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Google Pics: Easy image creation and editing in Google Workspace",
+ "summary": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
+ "research_notes": "",
+ "project": {
+  "name": "Google",
+  "family_slug": "google",
+  "family_display": "Google",
+  "model_slug": "google",
+  "model_display": "Google",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Google",
+  "family:google",
+  "gemini",
+  "google",
+  "google-assistant",
+  "google-io-2023",
+  "google-io-2026",
+  "google-producer-ai-acquisition",
+  "google-sge-updates",
+  "google-veo",
+  "google_ai",
+  "google_digital_olfaction",
+  "google_gemini_releases",
+  "google_immersive_view",
+  "google_io_2025",
+  "google_workspace_ai",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "google"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+   "host": "blog.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-01",
+  "excerpt": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

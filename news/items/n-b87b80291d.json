@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b87b80291d",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "CD Projekt RED announces The Witcher 4 will differ from other Unreal Engine 5 projects and collaborate with Epic Games",
+ "summary": "According to fresh studio statements, the upcoming game will significantly differ from other Unreal Engine 5 projects and will work with Epic Games due to the engine not fully fitting the creators' needs.",
+ "research_notes": "",
+ "project": {
+  "name": "The Witcher 4",
+  "family_slug": "the-witcher-4",
+  "family_display": "The Witcher 4",
+  "model_slug": "the-witcher-4",
+  "model_display": "The Witcher 4",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "The Witcher 4",
+  "family:the-witcher-4",
+  "misc",
+  "the-witcher-4",
+  "the-witcher-4-engine-transition"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "the-witcher-4"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.ixbt.com/news/2026/09/04/432567-dvizok-unreal-engine-5-ne-polnostiu-podxodil-sozdateliam-the-witcher-4-poetomu-oni-rabotaiut-vmeste-s-epic-games.html",
+   "host": "ixbt.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "According to fresh studio statements, the upcoming game will significantly differ from other Unreal Engine 5 projects and will work with Epic Games due to the engine not fully fitting the creators' needs."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

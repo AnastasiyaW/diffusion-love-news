@@ -1,0 +1,89 @@
+{
+ "schema_version": "1.3",
+ "id": "n-afd37d916b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+ "summary": "Meta announced Muse Glimmer as a local, agentic, multimodal, and open-source project on 2026-08-10.",
+ "research_notes": "",
+ "project": {
+  "name": "Meta",
+  "family_slug": "meta",
+  "family_display": "Meta",
+  "model_slug": "meta",
+  "model_display": "Meta",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Meta",
+  "family:meta",
+  "meta",
+  "meta-ai",
+  "meta-ai-avatars",
+  "meta_ai_video_ads",
+  "misc",
+  "streamdit"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "meta"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/blog/muse-glimmer",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-10",
+  "excerpt": "Meta announced Muse Glimmer as a local, agentic, multimodal, and open-source project on 2026-08-10."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

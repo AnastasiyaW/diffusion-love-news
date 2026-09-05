@@ -1,0 +1,95 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b5eea1671f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+ "summary": "This post is the third in a series on AI model co-design. It explores how to accelerate LLM inference while maintaining accuracy using speculative decoding and related techniques.",
+ "research_notes": "",
+ "project": {
+  "name": "NVIDIA",
+  "family_slug": "nvidia",
+  "family_display": "NVIDIA",
+  "model_slug": "nvidia",
+  "model_display": "NVIDIA",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "NVIDIA",
+  "drivers",
+  "family:nvidia",
+  "misc",
+  "nvidia",
+  "nvidia-ace",
+  "nvidia_3d_photo_reconstruction",
+  "nvidia_drivers",
+  "nvidia_ediffi",
+  "nvidia_neuralangelo_launch",
+  "nvidia_open_source_drivers",
+  "nvidia_rtx_40_super",
+  "nvidia_streaming_sortformer",
+  "unirelight"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvidia"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+   "host": "developer.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "This post is the third in a series on AI model co-design. It explores how to accelerate LLM inference while maintaining accuracy using speculative decoding and related techniques."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

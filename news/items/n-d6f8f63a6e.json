@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-d6f8f63a6e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Building an Adaptive Agentic Cybersecurity System with NVIDIA Nemotron",
+ "summary": "NVIDIA announces an adaptive agentic cybersecurity system using Nemotron, highlighting agentic systems coordinating work over long horizons for security teams.",
+ "research_notes": "",
+ "project": {
+  "name": "Nemotron 3.5 Lightning",
+  "family_slug": "nvidia-nemotron",
+  "family_display": "Nvidia Nemotron",
+  "model_slug": "nvidia-nemotron",
+  "model_display": "Nemotron 3.5 Lightning",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Nemotron 3.5 Lightning",
+  "family:nvidia-nemotron",
+  "misc",
+  "nvidia-nemotron",
+  "nvidia_nemotron"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "nvidia-nemotron"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron/",
+   "host": "developer.nvidia.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-01",
+  "excerpt": "NVIDIA announces an adaptive agentic cybersecurity system using Nemotron, highlighting agentic systems coordinating work over long horizons for security teams."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

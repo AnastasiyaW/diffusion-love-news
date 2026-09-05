@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b0a84b3dca",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Fastpotify native Spotify client in Rust",
+ "summary": "Fastpotify is a fast, native Spotify client in Rust that uses 100-250 MB RAM, supports Spotify Connect, and requires Premium for playback.",
+ "research_notes": "",
+ "project": {
+  "name": "Crmne Fastpotify",
+  "family_slug": "crmne-fastpotify",
+  "family_display": "Crmne Fastpotify",
+  "model_slug": "crmne-fastpotify",
+  "model_display": "Crmne Fastpotify",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Crmne Fastpotify",
+  "crmne-fastpotify",
+  "family:crmne-fastpotify",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "crmne-fastpotify"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/crmne/fastpotify",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-27",
+  "excerpt": "Fastpotify is a fast, native Spotify client in Rust that uses 100-250 MB RAM, supports Spotify Connect, and requires Premium for playback."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

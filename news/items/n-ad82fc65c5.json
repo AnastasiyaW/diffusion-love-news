@@ -1,0 +1,87 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ad82fc65c5",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Qwen releases open AI model Qwen-Drive-1.0 for autonomous driving",
+ "summary": "Qwen released Qwen-Drive-1.0, an open multimodal AI model (Qwen3.5-4B) for autonomous vehicles. It processes multi-camera images, builds 3D environment understanding, detects objects, and generates 5-second trajectories. Weights and code released under Apache 2.0.",
+ "research_notes": "",
+ "project": {
+  "name": "Qwen",
+  "family_slug": "qwen",
+  "family_display": "Qwen",
+  "model_slug": "qwen",
+  "model_display": "Qwen",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Qwen",
+  "family:qwen",
+  "misc",
+  "qwen",
+  "qwen-video",
+  "qwen_model_updates"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "qwen"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://modelscope.ai/models/Qwen/Qwen-Drive-1.0-4B",
+   "host": "modelscope.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-03",
+  "excerpt": "Qwen released Qwen-Drive-1.0, an open multimodal AI model (Qwen3.5-4B) for autonomous vehicles. It processes multi-camera images, builds 3D environment understanding, detects objects, and generates 5-second trajectories. Weights and code released under Apache 2.0."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

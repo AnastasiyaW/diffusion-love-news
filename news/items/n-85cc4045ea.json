@@ -1,0 +1,88 @@
+{
+ "schema_version": "1.3",
+ "id": "n-85cc4045ea",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Microsoft top manager complains about AI hype even Copilot couldn't find anything new in it",
+ "summary": "Ryan Roslansky, executive vice president Microsoft overseeing LinkedIn Microsoft Office Outlook and Teams, complained on social media that he was sent a document clearly created by artificial intelligence for work.",
+ "research_notes": "",
+ "project": {
+  "name": "Microsoft",
+  "family_slug": "microsoft",
+  "family_display": "Microsoft",
+  "model_slug": "microsoft",
+  "model_display": "Microsoft",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Microsoft",
+  "family:microsoft",
+  "microsoft",
+  "microsoft-build-2024",
+  "microsoft_image_creator",
+  "microsoft_word_gpt_integration",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "microsoft"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1147845/topmenedger-microsoft-pogalovalsya-na-iiburdu-dage-copilot-ne-smog-nayti-v-ney-nichego-novogo",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "Ryan Roslansky, executive vice president Microsoft overseeing LinkedIn Microsoft Office Outlook and Teams, complained on social media that he was sent a document clearly created by artificial intelligence for work."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

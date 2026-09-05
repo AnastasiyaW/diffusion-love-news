@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-fcdc3a6a2a",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Extended GTA VI screening on Netflix surpasses 31 million views across 87 countries in four days",
+ "summary": "The extended showcase of GTA VI on Netflix engaged subscribers globally, reflecting strong preliminary interest in the Rockstar title prior to full release.",
+ "research_notes": "",
+ "project": {
+  "name": "GTA VI",
+  "family_slug": "gta-vi",
+  "family_display": "GTA VI",
+  "model_slug": "gta-vi",
+  "model_display": "GTA VI",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GTA VI",
+  "family:gta-vi",
+  "gta-vi",
+  "gta-vi-pc-delay",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gta-vi"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1147834/rasshirenniy-pokaz-gta-vi-pokoril-podpischikov-netflix-v-87-stranah-bolee-31-milliona-prosmotrov-za-chetire-dnya",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "The extended showcase of GTA VI on Netflix engaged subscribers globally, reflecting strong preliminary interest in the Rockstar title prior to full release."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

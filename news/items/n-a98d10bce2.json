@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a98d10bce2",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "WorldLabs Blog: Atlas",
+ "summary": "Announcement of Atlas, a platform combining Gaussian splats and GenAI for multi-view capture.",
+ "research_notes": "",
+ "project": {
+  "name": "ATLAS",
+  "family_slug": "atlas",
+  "family_display": "ATLAS",
+  "model_slug": "atlas",
+  "model_display": "ATLAS",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ATLAS",
+  "atlas",
+  "family:atlas",
+  "meta_atlas",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "atlas"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.worldlabs.ai/blog/atlas",
+   "host": "worldlabs.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "Announcement of Atlas, a platform combining Gaussian splats and GenAI for multi-view capture."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

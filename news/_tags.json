@@ -72,6 +72,10 @@
   "4danyone": [
     "n-0778115bb1"
   ],
+  "A16Z": [
+    "n-d0ecd51ed2",
+    "n-00f4cb72d6"
+  ],
   "ABot-Earth 0.5": [
     "n-ad9c9181f8"
   ],
@@ -105,6 +109,9 @@
   "AI4AnimationPy": [
     "n-535631e71f"
   ],
+  "AMD": [
+    "n-6d4f5a4c09"
+  ],
   "AP Netflix VOID": [
     "n-08ae804484"
   ],
@@ -113,6 +120,9 @@
   ],
   "ASASR": [
     "n-80bd00594d"
+  ],
+  "ATLAS": [
+    "n-a98d10bce2"
   ],
   "AURA": [
     "n-5e356466d0"
@@ -136,10 +146,15 @@
     "n-ccb2a502fb"
   ],
   "Adobe": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "Adonis": [
     "n-19402c57d8"
+  ],
+  "Aeroflot": [
+    "n-727699d4d4",
+    "n-54471cb33e"
   ],
   "Agent Orchestrator": [
     "n-f7bf45f8a9"
@@ -150,16 +165,42 @@
   "Agents-A1": [
     "n-6cdd78c533"
   ],
+  "Aimalysheva": [
+    "n-ad5b56d35e",
+    "n-9ea95995b9",
+    "n-5d8b6008cd",
+    "n-52d4f13a45",
+    "n-44977a0067"
+  ],
   "Aleph 2.0": [
     "n-f52983ecb7"
   ],
   "Alibaba": [
     "n-1e37f80b3f"
   ],
+  "Alice Ai": [
+    "n-f4b192cf6a",
+    "n-c0cb01a268",
+    "n-b88d648185",
+    "n-a89ec476bc"
+  ],
   "Anthropic": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "Anti-Vocale": [
     "n-02ff6518d6"
@@ -180,6 +221,17 @@
     "n-721afd6a19"
   ],
   "Apple": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "Apple Foundation Models 3": [
@@ -339,6 +391,8 @@
     "n-840bb8c6c7"
   ],
   "ChatGPT": [
+    "n-de6aad8413",
+    "n-a712649e55",
     "n-0646f210ee"
   ],
   "Chronosplat": [
@@ -358,11 +412,24 @@
   ],
   "Claude": [
     "n-ec5428386a",
-    "n-a81182e9ac"
+    "n-c24c255e0f",
+    "n-ae728364c0",
+    "n-a81182e9ac",
+    "n-9768b9afc1",
+    "n-951dfe6af3",
+    "n-8de9a1da59",
+    "n-3e5ddc4905",
+    "n-3bd2e116af",
+    "n-2edb033ba1",
+    "n-1bad458b2a",
+    "n-15b1d1786a"
   ],
   "Claude Code": [
     "n-f861f085b8",
-    "n-55b05978df"
+    "n-98fc3b041f",
+    "n-859bd10c2e",
+    "n-55b05978df",
+    "n-144b867bda"
   ],
   "Claude Design": [
     "n-ec5428386a"
@@ -431,7 +498,10 @@
     "n-18e6b47885"
   ],
   "ComfyUI": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "ComfyUI 6DOF": [
     "n-f6c6cdf729"
@@ -554,6 +624,7 @@
     "n-169e12a080"
   ],
   "Cosmos 3 Edge": [
+    "n-3a37efa7b1",
     "n-1a1adbb4f3"
   ],
   "CosyVoice": [
@@ -568,6 +639,10 @@
   "Cream Typer": [
     "n-b8abd7e35e"
   ],
+  "Crmne Fastpotify": [
+    "n-b0a84b3dca",
+    "n-7ad749d3fe"
+  ],
   "Cursor": [
     "n-d182530af4",
     "n-a6a4ba2d0f"
@@ -580,6 +655,11 @@
   ],
   "CutClaw": [
     "n-0948d8e4a5"
+  ],
+  "Cxmt": [
+    "n-fdf3f32bde",
+    "n-85798f1b9f",
+    "n-1fea1f5007"
   ],
   "D-OPSD": [
     "n-637b9d18ed"
@@ -599,6 +679,9 @@
   "DLSS 4.5": [
     "n-6d500875d2"
   ],
+  "DLSS 5": [
+    "n-73472136b4"
+  ],
   "DMX": [
     "n-676d66ea41"
   ],
@@ -616,6 +699,16 @@
   ],
   "Daybreak": [
     "n-e92b026fad"
+  ],
+  "DeepMind": [
+    "n-bdbdf285d7",
+    "n-8b0a2d6a37",
+    "n-4736879b93",
+    "n-454ed35c93"
+  ],
+  "DeepSeek": [
+    "n-81d37c3b10",
+    "n-43a9873e24"
   ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
@@ -853,7 +946,8 @@
     "n-5efefc3953"
   ],
   "GLM-5.2-Vision-NVFP4": [
-    "n-7bf964cae8"
+    "n-7bf964cae8",
+    "n-5a0726226f"
   ],
   "GLM-5.3-Flash": [
     "n-4148509833"
@@ -890,6 +984,26 @@
   "GPT-5.6 Sol": [
     "n-d76b3cf6c5"
   ],
+  "GPT-6 Astra": [
+    "n-fc68e15c9f",
+    "n-ee48fb244e",
+    "n-e1e87a02d0",
+    "n-cd78f14199",
+    "n-c134d8a6e7",
+    "n-bb598fd9c3",
+    "n-acdfd269fb",
+    "n-852459a55a",
+    "n-7ba6fa4dc2",
+    "n-79e9a144bf",
+    "n-766104cff6",
+    "n-69a1028e31",
+    "n-65c122249f",
+    "n-46615c386e",
+    "n-3c01f41e22",
+    "n-2bc5f2ff74",
+    "n-298102ba73",
+    "n-10a2de18b3"
+  ],
   "GPT-Image": [
     "n-ca390bf3b3"
   ],
@@ -901,6 +1015,11 @@
   ],
   "GSD 2": [
     "n-ee8bd2e38f"
+  ],
+  "GTA VI": [
+    "n-fcdc3a6a2a",
+    "n-fba5843ad1",
+    "n-aee7864293"
   ],
   "GUSH3R": [
     "n-b10bd633b8"
@@ -915,10 +1034,36 @@
     "n-f306331601"
   ],
   "Gemini": [
+    "n-f92b03afaf",
+    "n-e665d8a84f",
+    "n-d78e3bd31b",
+    "n-d224767d18",
+    "n-cf50e79500",
+    "n-c2788af394",
+    "n-c05075157e",
+    "n-af36768073",
+    "n-ae7377cb14",
+    "n-a4cfb13cba",
+    "n-a0f5a3ad6d",
+    "n-9f709ff01d",
+    "n-98dd5dab2b",
+    "n-931c589133",
+    "n-8d34f26cae",
+    "n-81be95e5c2",
+    "n-81a20b1e3d",
+    "n-80ba885660",
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-6f089116cf",
+    "n-626229fd6d",
+    "n-56fe61ff2b",
     "n-55b3aea30b",
+    "n-4e1f3e0723",
+    "n-465fc7b56c",
     "n-412ff5547f",
-    "n-288cee31b2"
+    "n-2a88c3c86a",
+    "n-288cee31b2",
+    "n-22a438ef88"
   ],
   "Gemini 3.1": [
     "n-d5e685b3b1"
@@ -927,6 +1072,7 @@
     "n-d5e685b3b1"
   ],
   "Gemini 3.5 Live Translate": [
+    "n-6fd15dc934",
     "n-599684b34f"
   ],
   "Gemini Embedding 2": [
@@ -944,6 +1090,7 @@
     "n-c7bfff5d31"
   ],
   "Gemma 4 12B": [
+    "n-818c5aa2cb",
     "n-2e0520da75"
   ],
   "Gemma 4 31B-it": [
@@ -985,14 +1132,55 @@
   "Geometric Latent Diffusion": [
     "n-0c368b4c16"
   ],
+  "GigaChat": [
+    "n-dcaef8fe29"
+  ],
+  "GitHub": [
+    "n-e0d8a02be3",
+    "n-23a0a70ed1"
+  ],
   "GlyphPrinter": [
     "n-d6f1ea9ec7"
+  ],
+  "Google": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
   ],
   "Google AI Studio": [
     "n-38217f32a6"
   ],
+  "Google DeepMind Lyria": [
+    "n-1d3b3a61f8"
+  ],
+  "Google Deepmind": [
+    "n-f43fd5b3c3",
+    "n-78534dcbd0",
+    "n-0a08d218d1"
+  ],
   "Google Veo": [
     "n-ca4cb3b16f"
+  ],
+  "Google Vids": [
+    "n-da095b401f"
+  ],
+  "Gopro": [
+    "n-c2ad0b7fcb",
+    "n-9c89b68271"
   ],
   "Griptape": [
     "n-ebeab9837a"
@@ -1068,6 +1256,11 @@
     "n-95d245f3eb",
     "n-367db0be8e"
   ],
+  "Heroes Of Might And Magic Iii Remake": [
+    "n-fff3fde533",
+    "n-a020ad2fa0",
+    "n-97ef1ba967"
+  ],
   "HiAR": [
     "n-e304c780ea"
   ],
@@ -1088,6 +1281,11 @@
   ],
   "Hotgen Video V5": [
     "n-7970b35444"
+  ],
+  "Hugging Face": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
   ],
   "HuggingFace Kernels": [
     "n-545c4e25d2"
@@ -1166,6 +1364,11 @@
   "Inline Studio": [
     "n-196adf34af"
   ],
+  "Intel": [
+    "n-b0dccdddd4",
+    "n-ad4e330e2d",
+    "n-2650590a79"
+  ],
   "Interaction Models": [
     "n-972d1e2832"
   ],
@@ -1210,6 +1413,7 @@
     "n-2aa536ccdc"
   ],
   "Kimi K3": [
+    "n-be6aa335c7",
     "n-033632d8e0"
   ],
   "Kimodo": [
@@ -1380,6 +1584,10 @@
   "Lava Genie": [
     "n-ea4c5d4dff"
   ],
+  "Left 4 Dead 2": [
+    "n-b34a1cc907",
+    "n-96e16d530e"
+  ],
   "LiTo": [
     "n-1a26ffa75d"
   ],
@@ -1394,6 +1602,10 @@
   ],
   "LingBot-World 2.0": [
     "n-de20defbe8"
+  ],
+  "Linux Kernel": [
+    "n-70d2f4246e",
+    "n-2727edefeb"
   ],
   "LiveActionAOV": [
     "n-23270485c3"
@@ -1430,7 +1642,8 @@
     "n-4bbad7fe81"
   ],
   "Lucida": [
-    "n-8a9fb1a4b9"
+    "n-8a9fb1a4b9",
+    "n-846ca0188f"
   ],
   "Lucy 2.5": [
     "n-8cc344a285"
@@ -1560,6 +1773,10 @@
   "MaskVidExperiments": [
     "n-f8b15964ba"
   ],
+  "Mass Effect": [
+    "n-b9eaae071a",
+    "n-9a04c1514f"
+  ],
   "MatrAIx": [
     "n-75510d5219"
   ],
@@ -1594,6 +1811,9 @@
   "MeshCap": [
     "n-160cda1ba7"
   ],
+  "Meta": [
+    "n-afd37d916b"
+  ],
   "Meta-CoT": [
     "n-2c91e42c2d"
   ],
@@ -1612,6 +1832,12 @@
   "MicroZoom": [
     "n-6e6ec9ab6b"
   ],
+  "Microsoft": [
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-85cc4045ea",
+    "n-3707e4d723"
+  ],
   "Microsoft 365 Copilot Researcher": [
     "n-e859acd94e"
   ],
@@ -1625,7 +1851,11 @@
     "n-36e9bae8ed"
   ],
   "MiniMax H3": [
+    "n-bff87036e2",
+    "n-b3d9b93688",
+    "n-9d4d7bfa04",
     "n-7127c15c53",
+    "n-2ebc155125",
     "n-160efa0fdb"
   ],
   "MiniMax H3 Extender": [
@@ -1712,6 +1942,19 @@
   "Motif-Video 2B": [
     "n-c56aa9fa27"
   ],
+  "Mts": [
+    "n-e7e321661e",
+    "n-c0576f6021",
+    "n-a7fa18854f",
+    "n-84d82fe796",
+    "n-76e1f2dd29",
+    "n-679298d271",
+    "n-5cdf4c9389",
+    "n-490017770d",
+    "n-34d354db43",
+    "n-2ac73fcd27",
+    "n-1ba828a121"
+  ],
   "MuScriptor": [
     "n-ea52f36353"
   ],
@@ -1729,9 +1972,12 @@
   ],
   "Muse": [
     "n-d1aace8b4a",
+    "n-a03a0cfd4b",
+    "n-8410b784f7",
     "n-11ae14ece9"
   ],
   "Muse Glimmer": [
+    "n-dedad85a4a",
     "n-3b15326fe8"
   ],
   "NAVA": [
@@ -1739,6 +1985,38 @@
   ],
   "NUMINA": [
     "n-e3abad048f"
+  ],
+  "NVIDIA": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
   ],
   "NVIDIA Synthetic Video Detector": [
     "n-0abfd5c1ff"
@@ -1748,6 +2026,10 @@
   ],
   "NVPanoptix-3D": [
     "n-49188c7915"
+  ],
+  "Nanako0129 Sepia": [
+    "n-f82288c739",
+    "n-6f7f066ffe"
   ],
   "Nanbeige4.2-3B": [
     "n-b3f3b611a3"
@@ -1765,6 +2047,7 @@
     "n-549e91e1c0"
   ],
   "Nemotron 3.5 Lightning": [
+    "n-d6f8f63a6e",
     "n-0ad60b8778"
   ],
   "Nemotron OCR": [
@@ -1797,6 +2080,10 @@
   "NexVid": [
     "n-20c0bd9616"
   ],
+  "No Rest For The Wicked": [
+    "n-40ba6298c3",
+    "n-2195d267bc"
+  ],
   "North": [
     "n-eac94cf783"
   ],
@@ -1823,6 +2110,9 @@
   ],
   "OccAny": [
     "n-334d920a5d"
+  ],
+  "Odnoklassniki": [
+    "n-14eb349ad1"
   ],
   "Odysseus": [
     "n-c3f798c77b"
@@ -1883,6 +2173,15 @@
   "Onklaud 5": [
     "n-63310818df"
   ],
+  "Open Ai": [
+    "n-a41f024b8b",
+    "n-89debba9cc",
+    "n-6c24c5b7d1",
+    "n-6469337d3d",
+    "n-18f20d98fa",
+    "n-118fe57886",
+    "n-0dd4de1b97"
+  ],
   "Open Design": [
     "n-ff21b44ef5"
   ],
@@ -1893,7 +2192,39 @@
     "n-662ab03ff4"
   ],
   "OpenAI": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "OpenBot": [
     "n-7a6049c680"
@@ -1949,11 +2280,19 @@
   "Ornith-1.5": [
     "n-ad1e6a3d0c"
   ],
+  "Otus": [
+    "n-2980d7228f",
+    "n-23c78ae54f"
+  ],
   "Ouroboros": [
     "n-d7ef7b4828"
   ],
   "OvisOCR2": [
     "n-78395026cf"
+  ],
+  "Ozon": [
+    "n-ac5a060bb8",
+    "n-91acd5d17b"
   ],
   "P-Video-Avatar": [
     "n-d4d07dd0bf"
@@ -1962,6 +2301,7 @@
     "n-adee3ca551"
   ],
   "PEARL": [
+    "n-d7bdadd681",
     "n-701c94a6a1"
   ],
   "POCKET-35B-GGUF": [
@@ -1995,7 +2335,8 @@
     "n-f3982b18eb"
   ],
   "Perplexity": [
-    "n-a56b9d31b6"
+    "n-a56b9d31b6",
+    "n-744a693cde"
   ],
   "Perplexity Personal Computer": [
     "n-a56b9d31b6"
@@ -2084,9 +2425,13 @@
   ],
   "Qwen": [
     "n-b1f4237092",
+    "n-ad82fc65c5",
     "n-a7efec38e4",
     "n-86ce44c208",
-    "n-7e83db4168"
+    "n-7e83db4168",
+    "n-7a7a8a1d7b",
+    "n-4ee5222a3f",
+    "n-32b4cbd13b"
   ],
   "Qwen 3.6": [
     "n-6a60e32785"
@@ -2169,22 +2514,26 @@
     "n-129b6b09c0"
   ],
   "Qwen3.8-27B": [
-    "n-5d775dee1a"
+    "n-5d775dee1a",
+    "n-4340409e0e"
   ],
   "Qwen3.8-27B-Cold-Fusion": [
     "n-29022e4fd2"
   ],
   "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF": [
-    "n-32a7d157bd"
+    "n-32a7d157bd",
+    "n-1d2e9c62f3"
   ],
   "Qwen3.8-27B-Uncensored-MLX": [
     "n-49a53e09e5"
   ],
   "Qwen3.8-Flash-Next": [
-    "n-a99ab8a6eb"
+    "n-a99ab8a6eb",
+    "n-1704c7c952"
   ],
   "Qwen3.8-Max": [
-    "n-b63f0f79e7"
+    "n-b63f0f79e7",
+    "n-41990b4747"
   ],
   "Qwopus3.5-9B-Coder": [
     "n-2540f877eb"
@@ -2249,6 +2598,9 @@
   "ReplaceMe": [
     "n-18cb9608e2"
   ],
+  "Replit": [
+    "n-15dd2a021a"
+  ],
   "ResearchStudio": [
     "n-cf19d00e70"
   ],
@@ -2281,6 +2633,13 @@
   ],
   "Rowboat": [
     "n-11e8a99b4c"
+  ],
+  "Runway": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "Rust Lang Rust": [
+    "n-2d8439d05b"
   ],
   "RvR": [
     "n-b6c1907179"
@@ -2322,6 +2681,12 @@
   ],
   "SVGS": [
     "n-f735b8e846"
+  ],
+  "Samsung": [
+    "n-de6b1dfd1a",
+    "n-d226a9b24c",
+    "n-bf905575bc",
+    "n-8ee81c1a41"
   ],
   "Sapiens2": [
     "n-aa28911ec6"
@@ -2404,6 +2769,11 @@
   "ShutterMuse": [
     "n-eaa0dc5be8"
   ],
+  "Silicon Data": [
+    "n-fd987fdb9f",
+    "n-c5914f9e91",
+    "n-6737ab6e47"
+  ],
   "SillyTavern": [
     "n-fa9c04297f"
   ],
@@ -2422,6 +2792,9 @@
   "Sonilo": [
     "n-694e3b1cf5",
     "n-386f8faa44"
+  ],
+  "Sony": [
+    "n-7190f7ebcd"
   ],
   "Spark": [
     "n-110bebc860"
@@ -2462,8 +2835,16 @@
   "Stable Layers": [
     "n-a5a478ec38"
   ],
+  "Star Wars Zero Company": [
+    "n-e6dc6cad59",
+    "n-24ca0116e9"
+  ],
   "Starchild-1": [
     "n-b636bdc989"
+  ],
+  "Steamdb": [
+    "n-ae304e6401",
+    "n-a1d8877283"
   ],
   "StorySplat": [
     "n-e4fab55e05"
@@ -2541,13 +2922,23 @@
     "n-44592b77d5"
   ],
   "Telegram": [
-    "n-c32e26254c"
+    "n-c32e26254c",
+    "n-7f3add209c"
   ],
   "TencentDB Agent Memory": [
     "n-1402aca572"
   ],
   "TeraTTSv2": [
     "n-32e036715e"
+  ],
+  "The Blood of Dawnwalker": [
+    "n-f46c2afd73",
+    "n-e20727af2b"
+  ],
+  "The Witcher 4": [
+    "n-d2d3810c3f",
+    "n-b87b80291d",
+    "n-b204b30f3a"
   ],
   "Thinking with Visual Primitives (TVP)": [
     "n-2244c25f96"
@@ -2566,6 +2957,11 @@
   ],
   "Token Warping": [
     "n-4697df47f5"
+  ],
+  "Topaz Labs Astra": [
+    "n-45553d91f2",
+    "n-1de340950e",
+    "n-1320f519a1"
   ],
   "Topaz Starlight Precise": [
     "n-d22e265efd"
@@ -2776,11 +3172,19 @@
   "Wan2.7-Video": [
     "n-d745776a36"
   ],
+  "Warhammer 40000 Space Marine 3": [
+    "n-492c7c838f",
+    "n-462c2a6c9a"
+  ],
   "WavTTS": [
     "n-75eec0b102"
   ],
   "Waypoint-1.5": [
     "n-2090ac5f1b"
+  ],
+  "WeatherNext 3": [
+    "n-d4832f37b0",
+    "n-6ee5d062c1"
   ],
   "What to Edit Next": [
     "n-c4e41aef2b"
@@ -2794,11 +3198,18 @@
   "WildDet3D": [
     "n-c5207bfa4a"
   ],
+  "Windows 11": [
+    "n-8705af97a2",
+    "n-38ff523738"
+  ],
   "Windows-Copilot-API": [
     "n-25eed24e0d"
   ],
   "WithEveryone": [
     "n-f57cbf8f0c"
+  ],
+  "World Labs Atlas": [
+    "n-05bc5c6e9c"
   ],
   "World-R1": [
     "n-5db7fa704b"
@@ -2820,6 +3231,14 @@
   ],
   "YaGS": [
     "n-82f8f06562"
+  ],
+  "Yandex": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
   ],
   "Yedp": [
     "n-501487aec4"
@@ -2845,6 +3264,10 @@
   ],
   "Zeta-Chroma": [
     "n-b977739627"
+  ],
+  "a16z": [
+    "n-d0ecd51ed2",
+    "n-00f4cb72d6"
   ],
   "abot-earth": [
     "n-ad9c9181f8"
@@ -2921,25 +3344,34 @@
     "n-ccb2a502fb"
   ],
   "adobe": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "adobe-ai-tools": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "adobe-firefly": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "adobe-firefly-graph": [
     "n-625a62d5de"
   ],
   "adobe-sneaks": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "adobe_illustrator_features": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "adonis-flux2klein": [
     "n-19402c57d8"
+  ],
+  "aeroflot": [
+    "n-727699d4d4",
+    "n-54471cb33e"
   ],
   "afm-3": [
     "n-3bacf0e143"
@@ -2965,6 +3397,10 @@
   "agora": [
     "n-27957b3eee"
   ],
+  "ai-fund-increase": [
+    "n-d0ecd51ed2",
+    "n-00f4cb72d6"
+  ],
   "ai-metadata-inspector": [
     "n-02e0b8ae6c"
   ],
@@ -2976,6 +3412,13 @@
   ],
   "aim-uofa/sma": [
     "n-f1f27d1e3a"
+  ],
+  "aimalysheva": [
+    "n-ad5b56d35e",
+    "n-9ea95995b9",
+    "n-5d8b6008cd",
+    "n-52d4f13a45",
+    "n-44977a0067"
   ],
   "alaya": [
     "n-01b786ce9f"
@@ -2997,6 +3440,24 @@
   ],
   "alibaba_latent_to_pixel": [
     "n-1e37f80b3f"
+  ],
+  "alice-ai": [
+    "n-f4b192cf6a",
+    "n-c0cb01a268",
+    "n-b88d648185",
+    "n-a89ec476bc"
+  ],
+  "alice-ai-mobile-privileges": [
+    "n-f4b192cf6a",
+    "n-c0cb01a268",
+    "n-b88d648185",
+    "n-a89ec476bc"
+  ],
+  "amd": [
+    "n-6d4f5a4c09"
+  ],
+  "amd_mi300x": [
+    "n-6d4f5a4c09"
   ],
   "animation": [
     "n-f1139f1ee9",
@@ -3033,26 +3494,78 @@
     "n-03e4a812c8"
   ],
   "anthropic": [
+    "n-f64d313e07",
     "n-f5abb4cf9b",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-cfd3254184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "anthropic_450m_funding": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "anthropic_claude_connections": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "anthropic_sleeper_agents": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "anti-vocale": [
     "n-02ff6518d6"
@@ -3079,15 +3592,48 @@
     "n-cfec66a95b"
   ],
   "apple": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "apple-foundation-models": [
     "n-3bacf0e143"
   ],
   "apple_gaudi": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "apple_intelligence": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "arcflow": [
@@ -3123,12 +3669,20 @@
   "assistant-pepe-32b": [
     "n-73e8b27cb3"
   ],
+  "astra": [
+    "n-45553d91f2",
+    "n-1de340950e",
+    "n-1320f519a1"
+  ],
   "astrolabe": [
     "n-b438d99dc2"
   ],
   "asymflow": [
     "n-b3aa6851b7",
     "n-0b1d3c8a99"
+  ],
+  "atlas": [
+    "n-a98d10bce2"
   ],
   "audex": [
     "n-c5e93c1d3a"
@@ -3247,9 +3801,22 @@
     "n-1a1b209e8f"
   ],
   "blender-development-fund": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "bodycount-detector": [
     "n-3df0e38055"
@@ -3392,14 +3959,124 @@
     "n-019c913613"
   ],
   "chatgpt": [
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-de6aad8413",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a712649e55",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
     "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f",
     "n-0646f210ee"
   ],
+  "chatgpt-phone-access": [
+    "n-de6aad8413",
+    "n-a712649e55"
+  ],
   "chatgpt-plugins": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
+  ],
+  "chatgpt_features": [
+    "n-de6aad8413",
+    "n-a712649e55"
+  ],
+  "chatgpt_image_editing": [
+    "n-de6aad8413",
+    "n-a712649e55"
   ],
   "chatgpt_monetization": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "china": [
     "n-fe9036dfac",
@@ -3488,19 +4165,45 @@
     "n-b347948b96"
   ],
   "claude": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
     "n-ec5428386a",
+    "n-e94bd15184",
+    "n-c24c255e0f",
     "n-b7c4d9268f",
     "n-b4bbea9668",
+    "n-ae728364c0",
     "n-a81182e9ac",
+    "n-9768b9afc1",
+    "n-951dfe6af3",
+    "n-8de9a1da59",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-3e5ddc4905",
+    "n-3bd2e116af",
+    "n-2edb033ba1",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-1bad458b2a",
+    "n-15b1d1786a",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "claude-4-7": [
     "n-a81182e9ac"
   ],
   "claude-code": [
     "n-f861f085b8",
-    "n-55b05978df"
+    "n-98fc3b041f",
+    "n-859bd10c2e",
+    "n-55b05978df",
+    "n-144b867bda"
   ],
   "claude-code-billing": [
     "n-55b05978df"
@@ -3519,6 +4222,11 @@
   ],
   "claude-video (watch)": [
     "n-238cbd39cb"
+  ],
+  "claude_code": [
+    "n-98fc3b041f",
+    "n-859bd10c2e",
+    "n-144b867bda"
   ],
   "claude_opus_5": [
     "n-4ea5eb69ba"
@@ -3539,7 +4247,39 @@
     "n-a2b2f064d2"
   ],
   "clip": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "closed": [
     "n-f0cec18709",
@@ -3596,7 +4336,10 @@
     "n-250fdb3b1b"
   ],
   "comfy-cloud-pricing": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "comfystudio": [
     "n-18e6b47885"
@@ -3607,6 +4350,7 @@
     "n-edad1a10a0",
     "n-e4d5ff5436",
     "n-df8413780a",
+    "n-dee637a9a1",
     "n-d967265835",
     "n-c724eb9e4c",
     "n-c66b8c38b0",
@@ -3629,10 +4373,12 @@
     "n-511353336a",
     "n-501487aec4",
     "n-41c999d507",
+    "n-3c2855adb1",
     "n-39f773b51f",
     "n-3354f12396",
     "n-332335c756",
     "n-2ff0f435cc",
+    "n-2d6b42b1d8",
     "n-2d6650cee4",
     "n-2915ceca6f",
     "n-23270485c3",
@@ -3748,10 +4494,16 @@
     "n-332335c756"
   ],
   "comfyui_core_updates": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "comfyui_desktop": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "comfyui_ksampler_matrix_lab": [
     "n-e431684c08"
@@ -3824,6 +4576,7 @@
     "n-048b3192a0"
   ],
   "content-credentials": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "content-index": [
@@ -3851,6 +4604,7 @@
     "n-169e12a080"
   ],
   "cosmos-3-edge": [
+    "n-3a37efa7b1",
     "n-1a1adbb4f3"
   ],
   "cosyvoice": [
@@ -3868,6 +4622,10 @@
   "cream-typer": [
     "n-b8abd7e35e"
   ],
+  "crmne-fastpotify": [
+    "n-b0a84b3dca",
+    "n-7ad749d3fe"
+  ],
   "cursor": [
     "n-f241b400a1",
     "n-d9748d5e13",
@@ -3879,6 +4637,16 @@
   ],
   "cutclaw": [
     "n-0948d8e4a5"
+  ],
+  "cxmt": [
+    "n-fdf3f32bde",
+    "n-85798f1b9f",
+    "n-1fea1f5007"
+  ],
+  "cxmt-project-hefei": [
+    "n-fdf3f32bde",
+    "n-85798f1b9f",
+    "n-1fea1f5007"
   ],
   "d-OPSD": [
     "n-5d526ba827"
@@ -3897,13 +4665,77 @@
     "n-14c8e61352"
   ],
   "dall_e_2": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "dalle": [
     "n-0646f210ee"
   ],
   "dalle_2_public_access": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "danceopd": [
     "n-292e34fcb3"
@@ -3923,9 +4755,26 @@
   "daybreak": [
     "n-e92b026fad"
   ],
+  "deepmind": [
+    "n-bdbdf285d7",
+    "n-8b0a2d6a37",
+    "n-4736879b93",
+    "n-454ed35c93"
+  ],
+  "deepmind_lyria": [
+    "n-1d3b3a61f8"
+  ],
+  "deepmind_research": [
+    "n-bdbdf285d7",
+    "n-8b0a2d6a37",
+    "n-4736879b93",
+    "n-454ed35c93"
+  ],
   "deepseek": [
     "n-bc5c88f85f",
-    "n-abed76ad0f"
+    "n-abed76ad0f",
+    "n-81d37c3b10",
+    "n-43a9873e24"
   ],
   "deepseek-tvp": [
     "n-2244c25f96"
@@ -4078,6 +4927,10 @@
   "diffusiongemma-26b-a4b-it-nvfp4": [
     "n-b2222dab41"
   ],
+  "digital-ruble-adoption": [
+    "n-ac5a060bb8",
+    "n-91acd5d17b"
+  ],
   "direct": [
     "n-1957e34ea5"
   ],
@@ -4097,7 +4950,11 @@
     "n-77f1dd74e4"
   ],
   "dlss": [
+    "n-73472136b4",
     "n-6d500875d2"
+  ],
+  "dlss-5": [
+    "n-73472136b4"
   ],
   "dmx": [
     "n-676d66ea41"
@@ -4132,6 +4989,11 @@
   "dramabox": [
     "n-145acbde64"
   ],
+  "dreambooth-hackathon": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
+  ],
   "dreamlite": [
     "n-c56d07046e"
   ],
@@ -4146,6 +5008,38 @@
   ],
   "drift": [
     "n-648054221f"
+  ],
+  "drivers": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
   ],
   "dvd": [
     "n-ecb3a7060c"
@@ -4163,7 +5057,10 @@
     "n-982b169c3b"
   ],
   "ecosystem_grants": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "edit": [
     "n-f9bd7f602b",
@@ -4313,6 +5210,10 @@
   "family:4danyone": [
     "n-0778115bb1"
   ],
+  "family:a16z": [
+    "n-d0ecd51ed2",
+    "n-00f4cb72d6"
+  ],
   "family:abot-earth-0-5": [
     "n-ad9c9181f8"
   ],
@@ -4339,6 +5240,7 @@
     "n-b6851c60f8"
   ],
   "family:adobe": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "family:adobe-firefly-graph": [
@@ -4346,6 +5248,10 @@
   ],
   "family:adonis-flux2klein": [
     "n-19402c57d8"
+  ],
+  "family:aeroflot": [
+    "n-727699d4d4",
+    "n-54471cb33e"
   ],
   "family:afm-3": [
     "n-3bacf0e143"
@@ -4362,16 +5268,45 @@
   "family:ai4animation": [
     "n-535631e71f"
   ],
+  "family:aimalysheva": [
+    "n-ad5b56d35e",
+    "n-9ea95995b9",
+    "n-5d8b6008cd",
+    "n-52d4f13a45",
+    "n-44977a0067"
+  ],
   "family:alaya": [
     "n-01b786ce9f"
   ],
   "family:alibaba": [
     "n-1e37f80b3f"
   ],
+  "family:alice-ai": [
+    "n-f4b192cf6a",
+    "n-c0cb01a268",
+    "n-b88d648185",
+    "n-a89ec476bc"
+  ],
+  "family:amd": [
+    "n-6d4f5a4c09"
+  ],
   "family:anthropic": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "family:anti-vocale": [
     "n-02ff6518d6"
@@ -4395,6 +5330,17 @@
     "n-cfec66a95b"
   ],
   "family:apple": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "family:arcflow": [
@@ -4418,11 +5364,19 @@
   "family:assistant-pepe": [
     "n-73e8b27cb3"
   ],
+  "family:astra": [
+    "n-45553d91f2",
+    "n-1de340950e",
+    "n-1320f519a1"
+  ],
   "family:astrolabe": [
     "n-b438d99dc2"
   ],
   "family:asymflow": [
     "n-0b1d3c8a99"
+  ],
+  "family:atlas": [
+    "n-a98d10bce2"
   ],
   "family:audex": [
     "n-c5e93c1d3a"
@@ -4561,6 +5515,10 @@
   "family:chandra": [
     "n-840bb8c6c7"
   ],
+  "family:chatgpt": [
+    "n-de6aad8413",
+    "n-a712649e55"
+  ],
   "family:chronosplat": [
     "n-8e75dd0767"
   ],
@@ -4575,12 +5533,25 @@
   ],
   "family:claude": [
     "n-ec5428386a",
+    "n-c24c255e0f",
     "n-b4bbea9668",
-    "n-a81182e9ac"
+    "n-ae728364c0",
+    "n-a81182e9ac",
+    "n-9768b9afc1",
+    "n-951dfe6af3",
+    "n-8de9a1da59",
+    "n-3e5ddc4905",
+    "n-3bd2e116af",
+    "n-2edb033ba1",
+    "n-1bad458b2a",
+    "n-15b1d1786a"
   ],
   "family:claude-code": [
     "n-f861f085b8",
-    "n-55b05978df"
+    "n-98fc3b041f",
+    "n-859bd10c2e",
+    "n-55b05978df",
+    "n-144b867bda"
   ],
   "family:claude-fable-5": [
     "n-f5abb4cf9b"
@@ -4631,7 +5602,10 @@
     "n-18e6b47885"
   ],
   "family:comfyui": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "family:comfyui-6dof": [
     "n-f6c6cdf729"
@@ -4763,12 +5737,21 @@
   "family:cream-typer": [
     "n-b8abd7e35e"
   ],
+  "family:crmne-fastpotify": [
+    "n-b0a84b3dca",
+    "n-7ad749d3fe"
+  ],
   "family:cursor": [
     "n-d182530af4",
     "n-a6a4ba2d0f"
   ],
   "family:cutclaw": [
     "n-0948d8e4a5"
+  ],
+  "family:cxmt": [
+    "n-fdf3f32bde",
+    "n-85798f1b9f",
+    "n-1fea1f5007"
   ],
   "family:d-opsd": [
     "n-637b9d18ed",
@@ -4795,8 +5778,16 @@
   "family:daybreak": [
     "n-e92b026fad"
   ],
+  "family:deepmind": [
+    "n-bdbdf285d7",
+    "n-8b0a2d6a37",
+    "n-4736879b93",
+    "n-454ed35c93"
+  ],
   "family:deepseek": [
-    "n-bc5c88f85f"
+    "n-bc5c88f85f",
+    "n-81d37c3b10",
+    "n-43a9873e24"
   ],
   "family:deepseek-tvp": [
     "n-2244c25f96"
@@ -4839,6 +5830,9 @@
   ],
   "family:dlss": [
     "n-6d500875d2"
+  ],
+  "family:dlss-5": [
+    "n-73472136b4"
   ],
   "family:dmx": [
     "n-676d66ea41"
@@ -5030,12 +6024,37 @@
     "n-97e1334295"
   ],
   "family:gemini": [
+    "n-f92b03afaf",
+    "n-e665d8a84f",
+    "n-d78e3bd31b",
     "n-d5e685b3b1",
+    "n-d224767d18",
+    "n-cf50e79500",
+    "n-c2788af394",
+    "n-c05075157e",
+    "n-af36768073",
+    "n-ae7377cb14",
+    "n-a4cfb13cba",
+    "n-a0f5a3ad6d",
+    "n-9f709ff01d",
+    "n-98dd5dab2b",
+    "n-931c589133",
+    "n-8d34f26cae",
+    "n-81be95e5c2",
+    "n-81a20b1e3d",
+    "n-80ba885660",
     "n-6f089116cf",
+    "n-626229fd6d",
+    "n-56fe61ff2b",
     "n-55b3aea30b",
-    "n-412ff5547f"
+    "n-4e1f3e0723",
+    "n-465fc7b56c",
+    "n-412ff5547f",
+    "n-2a88c3c86a",
+    "n-22a438ef88"
   ],
   "family:gemini-3-5-live-translate": [
+    "n-6fd15dc934",
     "n-599684b34f"
   ],
   "family:gemini-embedding-2": [
@@ -5052,6 +6071,7 @@
     "n-5ac53c2267"
   ],
   "family:gemma-4-12b": [
+    "n-818c5aa2cb",
     "n-2e0520da75"
   ],
   "family:gemopus": [
@@ -5075,8 +6095,15 @@
   "family:gguf-models": [
     "n-16ee77b7eb"
   ],
+  "family:gigachat": [
+    "n-dcaef8fe29"
+  ],
   "family:girl-agent": [
     "n-db7fee9bb2"
+  ],
+  "family:github": [
+    "n-e0d8a02be3",
+    "n-23a0a70ed1"
   ],
   "family:gliguard": [
     "n-3ef8391496"
@@ -5095,7 +6122,8 @@
     "n-5efefc3953"
   ],
   "family:glm-5-2-vision": [
-    "n-7bf964cae8"
+    "n-7bf964cae8",
+    "n-5a0726226f"
   ],
   "family:glm-5-3-flash": [
     "n-4148509833"
@@ -5106,14 +6134,47 @@
   "family:glyphprinter": [
     "n-d6f1ea9ec7"
   ],
+  "family:google": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
   "family:google-ai-studio": [
     "n-38217f32a6"
   ],
+  "family:google-deepmind": [
+    "n-f43fd5b3c3",
+    "n-78534dcbd0",
+    "n-0a08d218d1"
+  ],
   "family:google-gemini": [
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-288cee31b2"
   ],
   "family:google-veo": [
     "n-ca4cb3b16f"
+  ],
+  "family:google-vids": [
+    "n-da095b401f"
+  ],
+  "family:gopro": [
+    "n-c2ad0b7fcb",
+    "n-9c89b68271"
   ],
   "family:gpt": [
     "n-2405c2d2f2"
@@ -5126,6 +6187,26 @@
   ],
   "family:gpt-5-6-sol": [
     "n-d76b3cf6c5"
+  ],
+  "family:gpt-6-astra": [
+    "n-fc68e15c9f",
+    "n-ee48fb244e",
+    "n-e1e87a02d0",
+    "n-cd78f14199",
+    "n-c134d8a6e7",
+    "n-bb598fd9c3",
+    "n-acdfd269fb",
+    "n-852459a55a",
+    "n-7ba6fa4dc2",
+    "n-79e9a144bf",
+    "n-766104cff6",
+    "n-69a1028e31",
+    "n-65c122249f",
+    "n-46615c386e",
+    "n-3c01f41e22",
+    "n-2bc5f2ff74",
+    "n-298102ba73",
+    "n-10a2de18b3"
   ],
   "family:gpt-image": [
     "n-df001e7bab",
@@ -5153,6 +6234,11 @@
   ],
   "family:gsd": [
     "n-ee8bd2e38f"
+  ],
+  "family:gta-vi": [
+    "n-fcdc3a6a2a",
+    "n-fba5843ad1",
+    "n-aee7864293"
   ],
   "family:gush3r": [
     "n-b10bd633b8"
@@ -5196,6 +6282,11 @@
   "family:hermes-agent": [
     "n-95d245f3eb"
   ],
+  "family:heroes-of-might-and-magic-iii-remake": [
+    "n-fff3fde533",
+    "n-a020ad2fa0",
+    "n-97ef1ba967"
+  ],
   "family:heygen-hyperframes": [
     "n-076b3f0be6"
   ],
@@ -5222,6 +6313,11 @@
   ],
   "family:hotgen-video-v5": [
     "n-7970b35444"
+  ],
+  "family:hugging-face": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
   ],
   "family:huggingface-wfx": [
     "n-5319c89cd3"
@@ -5310,6 +6406,11 @@
   "family:insid3": [
     "n-a8a043a8fd"
   ],
+  "family:intel": [
+    "n-b0dccdddd4",
+    "n-ad4e330e2d",
+    "n-2650590a79"
+  ],
   "family:javisverse": [
     "n-18331ebc79"
   ],
@@ -5341,6 +6442,7 @@
     "n-ced28f0724"
   ],
   "family:kimi-k3": [
+    "n-be6aa335c7",
     "n-033632d8e0"
   ],
   "family:kimodo": [
@@ -5403,6 +6505,10 @@
   "family:ldf-vfi": [
     "n-88b74a7e58"
   ],
+  "family:left-4-dead-2": [
+    "n-b34a1cc907",
+    "n-96e16d530e"
+  ],
   "family:lemas": [
     "n-8d546ea894"
   ],
@@ -5429,6 +6535,10 @@
   ],
   "family:lingbot-world-2": [
     "n-de20defbe8"
+  ],
+  "family:linux-kernel": [
+    "n-70d2f4246e",
+    "n-2727edefeb"
   ],
   "family:lito": [
     "n-1a26ffa75d"
@@ -5519,7 +6629,8 @@
     "n-9d1d38dd75"
   ],
   "family:lucida": [
-    "n-8a9fb1a4b9"
+    "n-8a9fb1a4b9",
+    "n-846ca0188f"
   ],
   "family:lucy": [
     "n-8cc344a285"
@@ -5536,6 +6647,9 @@
   ],
   "family:lyra": [
     "n-a549ac3575"
+  ],
+  "family:lyria": [
+    "n-1d3b3a61f8"
   ],
   "family:lyria-3-pro": [
     "n-3faf75a3a8"
@@ -5589,6 +6703,10 @@
   "family:maskvidexperiments": [
     "n-f8b15964ba"
   ],
+  "family:mass-effect": [
+    "n-b9eaae071a",
+    "n-9a04c1514f"
+  ],
   "family:match": [
     "n-8e078019f4"
   ],
@@ -5614,6 +6732,9 @@
   "family:mesh2motion": [
     "n-2ff0f435cc"
   ],
+  "family:meta": [
+    "n-afd37d916b"
+  ],
   "family:meta-cot": [
     "n-2c91e42c2d"
   ],
@@ -5628,6 +6749,12 @@
   ],
   "family:mia": [
     "n-221dea80c4"
+  ],
+  "family:microsoft": [
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-85cc4045ea",
+    "n-3707e4d723"
   ],
   "family:microsoft-copilot-researcher": [
     "n-e859acd94e"
@@ -5651,7 +6778,11 @@
     "n-36e9bae8ed"
   ],
   "family:minimax-h3": [
+    "n-bff87036e2",
+    "n-b3d9b93688",
+    "n-9d4d7bfa04",
     "n-7127c15c53",
+    "n-2ebc155125",
     "n-160efa0fdb"
   ],
   "family:minimax-h3-fl2va-ref2va-hybrid-models": [
@@ -5739,6 +6870,19 @@
   "family:motif-video": [
     "n-c56aa9fa27"
   ],
+  "family:mts": [
+    "n-e7e321661e",
+    "n-c0576f6021",
+    "n-a7fa18854f",
+    "n-84d82fe796",
+    "n-76e1f2dd29",
+    "n-679298d271",
+    "n-5cdf4c9389",
+    "n-490017770d",
+    "n-34d354db43",
+    "n-2ac73fcd27",
+    "n-1ba828a121"
+  ],
   "family:muffins-vr": [
     "n-af1e479850"
   ],
@@ -5755,13 +6899,20 @@
     "n-ea52f36353"
   ],
   "family:muse": [
-    "n-d1aace8b4a"
+    "n-d1aace8b4a",
+    "n-a03a0cfd4b",
+    "n-8410b784f7"
   ],
   "family:muse-glimmer": [
+    "n-dedad85a4a",
     "n-3b15326fe8"
   ],
   "family:mvtrack4gen": [
     "n-eca931f946"
+  ],
+  "family:nanako0129-sepia": [
+    "n-f82288c739",
+    "n-6f7f066ffe"
   ],
   "family:nanbeige-4-2-3b": [
     "n-b3f3b611a3"
@@ -5794,6 +6945,13 @@
   "family:nexvid": [
     "n-20c0bd9616"
   ],
+  "family:nm-tech": [
+    "n-39de1510e9"
+  ],
+  "family:no-rest-for-the-wicked": [
+    "n-40ba6298c3",
+    "n-2195d267bc"
+  ],
   "family:nucleus": [
     "n-af83147e90",
     "n-98474cc274"
@@ -5801,13 +6959,47 @@
   "family:numina": [
     "n-e3abad048f"
   ],
+  "family:nvidia": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
   "family:nvidia-cmd": [
     "n-831457a1a0"
   ],
   "family:nvidia-cosmos-3-edge": [
+    "n-3a37efa7b1",
     "n-1a1adbb4f3"
   ],
   "family:nvidia-nemotron": [
+    "n-d6f8f63a6e",
     "n-0ad60b8778"
   ],
   "family:nvidia-ntc": [
@@ -5827,6 +7019,9 @@
   ],
   "family:occany": [
     "n-334d920a5d"
+  ],
+  "family:odnoklassniki": [
+    "n-14eb349ad1"
   ],
   "family:odysseus": [
     "n-c3f798c77b"
@@ -5875,6 +7070,15 @@
   "family:onyx-ai-matte": [
     "n-6504693e58"
   ],
+  "family:open-ai": [
+    "n-a41f024b8b",
+    "n-89debba9cc",
+    "n-6c24c5b7d1",
+    "n-6469337d3d",
+    "n-18f20d98fa",
+    "n-118fe57886",
+    "n-0dd4de1b97"
+  ],
   "family:open-design": [
     "n-ff21b44ef5"
   ],
@@ -5885,7 +7089,39 @@
     "n-662ab03ff4"
   ],
   "family:openai": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "family:openbot": [
     "n-7a6049c680"
@@ -5935,11 +7171,19 @@
   "family:ornith-1-5": [
     "n-ad1e6a3d0c"
   ],
+  "family:otus": [
+    "n-2980d7228f",
+    "n-23c78ae54f"
+  ],
   "family:ouroboros": [
     "n-d7ef7b4828"
   ],
   "family:ovisocr2": [
     "n-78395026cf"
+  ],
+  "family:ozon": [
+    "n-ac5a060bb8",
+    "n-91acd5d17b"
   ],
   "family:packforcing": [
     "n-5dc5be210a"
@@ -5957,6 +7201,7 @@
     "n-4514941672"
   ],
   "family:pearl": [
+    "n-d7bdadd681",
     "n-701c94a6a1"
   ],
   "family:penguin-vl": [
@@ -5969,7 +7214,8 @@
     "n-f3982b18eb"
   ],
   "family:perplexity": [
-    "n-a56b9d31b6"
+    "n-a56b9d31b6",
+    "n-744a693cde"
   ],
   "family:personavlm": [
     "n-78a59b56b6"
@@ -6073,10 +7319,14 @@
     "n-dc7072d90a",
     "n-d755c8bc8a",
     "n-b1f4237092",
+    "n-ad82fc65c5",
     "n-a7efec38e4",
     "n-97c6278d46",
     "n-8a620616a1",
+    "n-7a7a8a1d7b",
     "n-6a60e32785",
+    "n-4ee5222a3f",
+    "n-32b4cbd13b",
     "n-129b6b09c0",
     "n-04529e7d46",
     "n-019c913613"
@@ -6085,7 +7335,8 @@
     "n-3f35c2ca4e"
   ],
   "family:qwen-3-8-27b": [
-    "n-5d775dee1a"
+    "n-5d775dee1a",
+    "n-4340409e0e"
   ],
   "family:qwen-audio": [
     "n-af926b6d88"
@@ -6139,16 +7390,19 @@
     "n-29022e4fd2"
   ],
   "family:qwen3-8-27b-uncensored": [
-    "n-32a7d157bd"
+    "n-32a7d157bd",
+    "n-1d2e9c62f3"
   ],
   "family:qwen3-8-27b-uncensored-mlx": [
     "n-49a53e09e5"
   ],
   "family:qwen3-8-flash-next": [
-    "n-a99ab8a6eb"
+    "n-a99ab8a6eb",
+    "n-1704c7c952"
   ],
   "family:qwen3-8-max": [
-    "n-b63f0f79e7"
+    "n-b63f0f79e7",
+    "n-41990b4747"
   ],
   "family:qwen3-forcedaligner-0-6b-hf": [
     "n-0e3939a347"
@@ -6216,6 +7470,9 @@
   "family:replaceme": [
     "n-18cb9608e2"
   ],
+  "family:replit": [
+    "n-15dd2a021a"
+  ],
   "family:researchstudio": [
     "n-cf19d00e70"
   ],
@@ -6249,8 +7506,15 @@
   "family:rs-nodes": [
     "n-c66b8c38b0"
   ],
+  "family:runway": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
   "family:runway-aleph-2": [
     "n-f52983ecb7"
+  ],
+  "family:rust-lang-rust": [
+    "n-2d8439d05b"
   ],
   "family:rvr": [
     "n-b6c1907179"
@@ -6266,6 +7530,12 @@
   ],
   "family:sama": [
     "n-6e1bdb74a2"
+  ],
+  "family:samsung": [
+    "n-de6b1dfd1a",
+    "n-d226a9b24c",
+    "n-bf905575bc",
+    "n-8ee81c1a41"
   ],
   "family:sana": [
     "n-f8cc9060c3",
@@ -6361,6 +7631,11 @@
   "family:shuttermuse": [
     "n-eaa0dc5be8"
   ],
+  "family:silicon-data": [
+    "n-fd987fdb9f",
+    "n-c5914f9e91",
+    "n-6737ab6e47"
+  ],
   "family:sillytavern": [
     "n-fa9c04297f"
   ],
@@ -6389,6 +7664,9 @@
   "family:sonilo": [
     "n-694e3b1cf5",
     "n-386f8faa44"
+  ],
+  "family:sony": [
+    "n-7190f7ebcd"
   ],
   "family:spark": [
     "n-110bebc860"
@@ -6426,8 +7704,16 @@
   "family:stable-layers": [
     "n-a5a478ec38"
   ],
+  "family:star-wars-zero-company": [
+    "n-e6dc6cad59",
+    "n-24ca0116e9"
+  ],
   "family:starchild-1": [
     "n-b636bdc989"
+  ],
+  "family:steamdb": [
+    "n-ae304e6401",
+    "n-a1d8877283"
   ],
   "family:storysplat": [
     "n-e4fab55e05"
@@ -6487,13 +7773,23 @@
     "n-63fc70b541"
   ],
   "family:telegram": [
-    "n-c32e26254c"
+    "n-c32e26254c",
+    "n-7f3add209c"
   ],
   "family:tencentdb-agent-memory": [
     "n-1402aca572"
   ],
   "family:terattsv2": [
     "n-32e036715e"
+  ],
+  "family:the-blood-of-dawnwalker": [
+    "n-f46c2afd73",
+    "n-e20727af2b"
+  ],
+  "family:the-witcher-4": [
+    "n-d2d3810c3f",
+    "n-b87b80291d",
+    "n-b204b30f3a"
   ],
   "family:thestageai-elastic-wan22-i2v": [
     "n-253f50a66d"
@@ -6738,11 +8034,19 @@
   "family:wanvideo": [
     "n-332335c756"
   ],
+  "family:warhammer-40000-space-marine-3": [
+    "n-492c7c838f",
+    "n-462c2a6c9a"
+  ],
   "family:wavtts": [
     "n-75eec0b102"
   ],
   "family:waypoint": [
     "n-2090ac5f1b"
+  ],
+  "family:weathernext-3": [
+    "n-d4832f37b0",
+    "n-6ee5d062c1"
   ],
   "family:what-to-edit-next": [
     "n-c4e41aef2b"
@@ -6756,11 +8060,18 @@
   "family:wilddet3d": [
     "n-c5207bfa4a"
   ],
+  "family:windows-11": [
+    "n-8705af97a2",
+    "n-38ff523738"
+  ],
   "family:windows-copilot-api": [
     "n-25eed24e0d"
   ],
   "family:witheveryone": [
     "n-f57cbf8f0c"
+  ],
+  "family:world-labs-atlas": [
+    "n-05bc5c6e9c"
   ],
   "family:world-r1": [
     "n-5db7fa704b"
@@ -6782,6 +8093,14 @@
   ],
   "family:yags": [
     "n-82f8f06562"
+  ],
+  "family:yandex": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
   ],
   "family:yedp": [
     "n-501487aec4"
@@ -6856,6 +8175,7 @@
     "n-625a62d5de"
   ],
   "firefly-illustrator-integration": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "firered": [
@@ -7045,25 +8365,73 @@
     "n-97e1334295"
   ],
   "gemini": [
+    "n-f92b03afaf",
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-e665d8a84f",
+    "n-d78e3bd31b",
     "n-d5e685b3b1",
+    "n-d224767d18",
+    "n-d1157aecd1",
+    "n-cf50e79500",
+    "n-cd41494b6d",
+    "n-c2788af394",
+    "n-c1cdd7886b",
+    "n-c05075157e",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-af36768073",
+    "n-ae7377cb14",
+    "n-a4cfb13cba",
+    "n-a0f5a3ad6d",
+    "n-9f709ff01d",
+    "n-98dd5dab2b",
+    "n-931c589133",
+    "n-8d34f26cae",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-81be95e5c2",
+    "n-81a20b1e3d",
+    "n-80ba885660",
+    "n-781f7e2e75",
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-6f089116cf",
+    "n-64df2fb455",
+    "n-626229fd6d",
+    "n-56fe61ff2b",
     "n-55b3aea30b",
+    "n-4e1f3e0723",
+    "n-4be5fa54fd",
+    "n-465fc7b56c",
     "n-412ff5547f",
-    "n-288cee31b2"
+    "n-2b9c0735ec",
+    "n-2a88c3c86a",
+    "n-288cee31b2",
+    "n-2677c972d7",
+    "n-22a438ef88",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
   ],
   "gemini-3-1": [
     "n-d5e685b3b1"
   ],
   "gemini-3-5-live-translate": [
+    "n-6fd15dc934",
     "n-599684b34f"
   ],
   "gemini-app": [
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-288cee31b2"
   ],
   "gemini-embedding-2": [
     "n-1ee49081d2"
   ],
   "gemini-gems": [
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-288cee31b2"
   ],
   "gemini-intelligence-android": [
@@ -7073,6 +8441,7 @@
     "n-97cedb7ec2"
   ],
   "gemini_models": [
+    "n-6fd15dc934",
     "n-599684b34f"
   ],
   "gemma": [
@@ -7081,6 +8450,7 @@
     "n-c7bfff5d31",
     "n-ae3f3a3876",
     "n-9139899069",
+    "n-818c5aa2cb",
     "n-5ac53c2267",
     "n-2e0520da75"
   ],
@@ -7088,6 +8458,7 @@
     "n-c7bfff5d31"
   ],
   "gemma-4-12b": [
+    "n-818c5aa2cb",
     "n-2e0520da75"
   ],
   "gemma-4-31b": [
@@ -7107,6 +8478,10 @@
   ],
   "gems": [
     "n-d111345e9c"
+  ],
+  "gen-2": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
   ],
   "gen-searcher": [
     "n-eaa27c5213"
@@ -7132,6 +8507,9 @@
   ],
   "gguf-models": [
     "n-16ee77b7eb"
+  ],
+  "gigachat": [
+    "n-dcaef8fe29"
   ],
   "girl-agent": [
     "n-db7fee9bb2"
@@ -7170,6 +8548,7 @@
     "n-e3fe618151",
     "n-e3abad048f",
     "n-e33dfb0bdb",
+    "n-e0d8a02be3",
     "n-df8413780a",
     "n-df001e7bab",
     "n-dd8d68b69f",
@@ -7295,6 +8674,7 @@
     "n-2bdd41c2da",
     "n-2938402642",
     "n-2915ceca6f",
+    "n-23a0a70ed1",
     "n-23309eb954",
     "n-23270485c3",
     "n-2244c25f96",
@@ -7331,6 +8711,10 @@
     "n-01b786ce9f",
     "n-0124eabefd"
   ],
+  "github-connectivity": [
+    "n-e0d8a02be3",
+    "n-23a0a70ed1"
+  ],
   "gliguard": [
     "n-3ef8391496"
   ],
@@ -7352,7 +8736,8 @@
     "n-5efefc3953"
   ],
   "glm-5-2-vision": [
-    "n-7bf964cae8"
+    "n-7bf964cae8",
+    "n-5a0726226f"
   ],
   "glm-5-3-flash": [
     "n-4148509833"
@@ -7367,7 +8752,8 @@
     "n-a1265a873f"
   ],
   "glm_5_2_vision": [
-    "n-7bf964cae8"
+    "n-7bf964cae8",
+    "n-5a0726226f"
   ],
   "glm_models": [
     "n-0b4ad29b73"
@@ -7375,20 +8761,286 @@
   "glyphprinter": [
     "n-d6f1ea9ec7"
   ],
+  "google": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
   "google-ai-studio": [
     "n-38217f32a6"
   ],
+  "google-assistant": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google-deepmind": [
+    "n-f43fd5b3c3",
+    "n-78534dcbd0",
+    "n-0a08d218d1"
+  ],
   "google-gemini": [
+    "n-77adb2265c",
+    "n-71b296f814",
     "n-288cee31b2"
   ],
+  "google-io-2023": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google-io-2026": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google-producer-ai-acquisition": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google-sge-updates": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
   "google-veo": [
-    "n-ca4cb3b16f"
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-ca4cb3b16f",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google-vids": [
+    "n-da095b401f"
+  ],
+  "google_ai": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google_digital_olfaction": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google_gemini_releases": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google_immersive_view": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "google_io_2025": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
   ],
   "google_veo": [
     "n-ca4cb3b16f"
   ],
   "google_veo_access": [
     "n-ca4cb3b16f"
+  ],
+  "google_vids_veo_integration": [
+    "n-da095b401f"
+  ],
+  "google_workspace_ai": [
+    "n-ed77fa3211",
+    "n-e70c7b51e7",
+    "n-d1157aecd1",
+    "n-cd41494b6d",
+    "n-c1cdd7886b",
+    "n-bae5434740",
+    "n-b8ef8a36c7",
+    "n-b278b5f533",
+    "n-89f3d4c67f",
+    "n-868e947d58",
+    "n-781f7e2e75",
+    "n-64df2fb455",
+    "n-4be5fa54fd",
+    "n-2b9c0735ec",
+    "n-2677c972d7",
+    "n-0f91f1563c",
+    "n-0423f2e93d"
+  ],
+  "gopro": [
+    "n-c2ad0b7fcb",
+    "n-9c89b68271"
+  ],
+  "gopro-acquisition-2026": [
+    "n-c2ad0b7fcb",
+    "n-9c89b68271"
   ],
   "gpt": [
     "n-2405c2d2f2"
@@ -7404,8 +9056,60 @@
     "n-22b4ad25f5"
   ],
   "gpt-5-6-sol": [
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
     "n-d76b3cf6c5",
-    "n-303168f615"
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
+  ],
+  "gpt-6-astra": [
+    "n-fc68e15c9f",
+    "n-ee48fb244e",
+    "n-e1e87a02d0",
+    "n-cd78f14199",
+    "n-c134d8a6e7",
+    "n-bb598fd9c3",
+    "n-acdfd269fb",
+    "n-852459a55a",
+    "n-7ba6fa4dc2",
+    "n-79e9a144bf",
+    "n-766104cff6",
+    "n-69a1028e31",
+    "n-65c122249f",
+    "n-46615c386e",
+    "n-3c01f41e22",
+    "n-2bc5f2ff74",
+    "n-298102ba73",
+    "n-10a2de18b3"
   ],
   "gpt-image": [
     "n-df001e7bab",
@@ -7418,7 +9122,39 @@
     "n-af7e0341d4"
   ],
   "gpt_4": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "graphics_tech": [
     "n-6d500875d2"
@@ -7456,6 +9192,16 @@
   ],
   "gsd-2": [
     "n-ee8bd2e38f"
+  ],
+  "gta-vi": [
+    "n-fcdc3a6a2a",
+    "n-fba5843ad1",
+    "n-aee7864293"
+  ],
+  "gta-vi-pc-delay": [
+    "n-fcdc3a6a2a",
+    "n-fba5843ad1",
+    "n-aee7864293"
   ],
   "gush3r": [
     "n-b10bd633b8"
@@ -7515,6 +9261,16 @@
   "hermes-agent": [
     "n-95d245f3eb"
   ],
+  "heroes-of-might-and-magic-iii-remake": [
+    "n-fff3fde533",
+    "n-a020ad2fa0",
+    "n-97ef1ba967"
+  ],
+  "heroes-of-might-and-magic-iii-remake-development": [
+    "n-fff3fde533",
+    "n-a020ad2fa0",
+    "n-97ef1ba967"
+  ],
   "heydoughogan ComfyUI VFX Workflow": [
     "n-4941701283"
   ],
@@ -7526,6 +9282,11 @@
   ],
   "hf-cerebras-voice": [
     "n-54505b5f46"
+  ],
+  "hf-inference-providers": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
   ],
   "hf-mount": [
     "n-c8fa19868e"
@@ -7559,6 +9320,16 @@
   ],
   "hotgen-video-v5": [
     "n-7970b35444"
+  ],
+  "hugging-face": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
+  ],
+  "hugging-face-mcp": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
   ],
   "huggingface": [
     "n-fb32c38877",
@@ -7691,6 +9462,11 @@
   ],
   "huggingface-kernels": [
     "n-545c4e25d2"
+  ],
+  "huggingface-local-apps": [
+    "n-eaca645aaa",
+    "n-8b6446fbc3",
+    "n-14085b1b0f"
   ],
   "huggingface-wfx": [
     "n-5319c89cd3"
@@ -7881,6 +9657,19 @@
   "insid3": [
     "n-a8a043a8fd"
   ],
+  "instinct-mi300x": [
+    "n-6d4f5a4c09"
+  ],
+  "intel": [
+    "n-b0dccdddd4",
+    "n-ad4e330e2d",
+    "n-2650590a79"
+  ],
+  "intel_neural_rendering": [
+    "n-b0dccdddd4",
+    "n-ad4e330e2d",
+    "n-2650590a79"
+  ],
   "interaction-models": [
     "n-972d1e2832"
   ],
@@ -7930,6 +9719,7 @@
     "n-ced28f0724"
   ],
   "kimi-k3": [
+    "n-be6aa335c7",
     "n-033632d8e0"
   ],
   "kimi_code": [
@@ -8040,6 +9830,19 @@
   "ldf-vfi": [
     "n-88b74a7e58"
   ],
+  "leadership": [
+    "n-f43fd5b3c3",
+    "n-78534dcbd0",
+    "n-0a08d218d1"
+  ],
+  "left-4-dead-2": [
+    "n-b34a1cc907",
+    "n-96e16d530e"
+  ],
+  "left-4-dead-2-trailer-marketing": [
+    "n-b34a1cc907",
+    "n-96e16d530e"
+  ],
   "lemas": [
     "n-8d546ea894"
   ],
@@ -8075,6 +9878,14 @@
   ],
   "lingbot-world-2": [
     "n-de20defbe8"
+  ],
+  "linux-kernel": [
+    "n-70d2f4246e",
+    "n-2727edefeb"
+  ],
+  "linux-kernel-cve-history": [
+    "n-70d2f4246e",
+    "n-2727edefeb"
   ],
   "lip-sync": [
     "n-d883c4c40c",
@@ -8198,6 +10009,10 @@
   ],
   "llm-agents": [
     "n-2f94cbb043"
+  ],
+  "llm-loop-diagnosis": [
+    "n-2980d7228f",
+    "n-23c78ae54f"
   ],
   "llm_releases": [
     "n-c0d09bda8b"
@@ -8401,7 +10216,8 @@
     "n-9d1d38dd75"
   ],
   "lucida": [
-    "n-8a9fb1a4b9"
+    "n-8a9fb1a4b9",
+    "n-846ca0188f"
   ],
   "lucy": [
     "n-8cc344a285"
@@ -8433,6 +10249,9 @@
   ],
   "lyra-2-0": [
     "n-a549ac3575"
+  ],
+  "lyria": [
+    "n-1d3b3a61f8"
   ],
   "lyria-3-pro": [
     "n-3faf75a3a8"
@@ -8511,6 +10330,14 @@
   "maskvidexperiments": [
     "n-f8b15964ba"
   ],
+  "mass-effect": [
+    "n-b9eaae071a",
+    "n-9a04c1514f"
+  ],
+  "mass-effect-development": [
+    "n-b9eaae071a",
+    "n-9a04c1514f"
+  ],
   "match": [
     "n-8e078019f4"
   ],
@@ -8542,11 +10369,26 @@
   "mesh2motion": [
     "n-2ff0f435cc"
   ],
+  "meta": [
+    "n-afd37d916b"
+  ],
+  "meta-ai": [
+    "n-afd37d916b"
+  ],
+  "meta-ai-avatars": [
+    "n-afd37d916b"
+  ],
   "meta-cot": [
     "n-2c91e42c2d"
   ],
   "meta-pocket": [
     "n-17e916004b"
+  ],
+  "meta_ai_video_ads": [
+    "n-afd37d916b"
+  ],
+  "meta_atlas": [
+    "n-a98d10bce2"
   ],
   "metaclaw": [
     "n-81ebf14eea"
@@ -8564,7 +10406,17 @@
     "n-221dea80c4"
   ],
   "microsoft": [
-    "n-97e1334295"
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-97e1334295",
+    "n-85cc4045ea",
+    "n-3707e4d723"
+  ],
+  "microsoft-build-2024": [
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-85cc4045ea",
+    "n-3707e4d723"
   ],
   "microsoft-copilot-researcher": [
     "n-e859acd94e"
@@ -8577,6 +10429,18 @@
   ],
   "microsoft_copilot": [
     "n-e859acd94e"
+  ],
+  "microsoft_image_creator": [
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-85cc4045ea",
+    "n-3707e4d723"
+  ],
+  "microsoft_word_gpt_integration": [
+    "n-f9d761462d",
+    "n-eeb814358e",
+    "n-85cc4045ea",
+    "n-3707e4d723"
   ],
   "microzoom": [
     "n-6e6ec9ab6b"
@@ -8609,11 +10473,19 @@
     "n-36e9bae8ed"
   ],
   "minimax": [
+    "n-bff87036e2",
+    "n-b3d9b93688",
+    "n-9d4d7bfa04",
     "n-7127c15c53",
+    "n-2ebc155125",
     "n-160efa0fdb"
   ],
   "minimax-h3": [
+    "n-bff87036e2",
+    "n-b3d9b93688",
+    "n-9d4d7bfa04",
     "n-7127c15c53",
+    "n-2ebc155125",
     "n-160efa0fdb"
   ],
   "minimax-h3-fl2va-ref2va-hybrid-models": [
@@ -8668,30 +10540,50 @@
     "n-e4b7a4de7b"
   ],
   "misc": [
+    "n-fff3fde533",
     "n-ffa7213d37",
     "n-ffa010ab28",
+    "n-ff09e5b9b1",
     "n-fec11a299f",
     "n-fe5aa54dca",
     "n-fe49770141",
     "n-fe403ecd72",
+    "n-fdf3f32bde",
     "n-fdae3b02e0",
     "n-fdaa3b9adb",
+    "n-fd987fdb9f",
+    "n-fcf3936b14",
+    "n-fcdc3a6a2a",
     "n-fcae5fc646",
+    "n-fc68e15c9f",
+    "n-fba5843ad1",
+    "n-fb8dcca8e5",
     "n-fb888fd82d",
     "n-fb33cdc42d",
+    "n-fad5ffb118",
     "n-faa53b79d3",
+    "n-f9d761462d",
+    "n-f92b03afaf",
     "n-f8b2802977",
     "n-f8b15964ba",
+    "n-f82288c739",
+    "n-f8203a5996",
     "n-f80e0da140",
     "n-f7bf45f8a9",
     "n-f77e6ada52",
+    "n-f775fb7fe3",
+    "n-f64d313e07",
     "n-f5abb4cf9b",
     "n-f5a3ca876d",
     "n-f57cbf8f0c",
     "n-f52983ecb7",
+    "n-f4b192cf6a",
     "n-f49e4ee649",
+    "n-f46c2afd73",
+    "n-f43fd5b3c3",
     "n-f43e44e73f",
     "n-f3982b18eb",
+    "n-f345858e23",
     "n-f2b3361da7",
     "n-f241b400a1",
     "n-f2122c676b",
@@ -8701,75 +10593,117 @@
     "n-f0c1036242",
     "n-f09f1875bc",
     "n-ef5357108f",
+    "n-eefafa6ead",
+    "n-eeb814358e",
     "n-eea14f2dcf",
+    "n-ee48fb244e",
     "n-ee301ec91c",
+    "n-ed77fa3211",
     "n-ecb3a7060c",
     "n-eca931f946",
     "n-ec4e396a59",
     "n-ec3dda9c78",
     "n-ec159def6b",
     "n-eb68bcfc57",
+    "n-eaca645aaa",
     "n-eac94cf783",
     "n-eab857eece",
     "n-eaa0dc5be8",
     "n-ea52f36353",
     "n-ea26f61d82",
     "n-e9d344fa77",
+    "n-e94bd15184",
     "n-e8fb056748",
     "n-e8b9f004d7",
     "n-e859acd94e",
+    "n-e7e321661e",
     "n-e7545aced1",
+    "n-e717e8ed06",
+    "n-e70c7b51e7",
+    "n-e6dc6cad59",
     "n-e6ade9848e",
+    "n-e665d8a84f",
     "n-e6413c0a2c",
     "n-e613f26dc4",
     "n-e5c07a6c4b",
     "n-e584d1d2e9",
     "n-e55f67c729",
     "n-e55e56223b",
+    "n-e54716a5dd",
     "n-e48a82e567",
     "n-e431684c08",
     "n-e3f801a8ba",
     "n-e3f07cf60d",
     "n-e3b0bbbd83",
+    "n-e334230f47",
     "n-e304c780ea",
     "n-e2e11bcd53",
     "n-e2832a6cb2",
+    "n-e20727af2b",
+    "n-e1e87a02d0",
     "n-e1ca928d8e",
+    "n-e1bdce68e2",
+    "n-e0d8a02be3",
+    "n-df07c15060",
+    "n-dee637a9a1",
+    "n-dedad85a4a",
     "n-ded5155805",
+    "n-de6b1dfd1a",
+    "n-de6aad8413",
     "n-de20defbe8",
     "n-de14e3f121",
+    "n-ddcde11c22",
     "n-dd9a3a9b07",
     "n-dd68bf49b2",
     "n-dd148acbc4",
+    "n-dcaef8fe29",
+    "n-dc9b4fa667",
     "n-dbba09c3a2",
+    "n-db2ba24b08",
     "n-daa3090ac6",
     "n-da87b7d4da",
+    "n-da095b401f",
     "n-d99912828e",
     "n-d9748d5e13",
     "n-d83223a468",
     "n-d7ef7b4828",
+    "n-d7bdadd681",
     "n-d791bdd250",
+    "n-d78e3bd31b",
+    "n-d7846f150b",
     "n-d76b3cf6c5",
+    "n-d6f8f63a6e",
     "n-d6f1ea9ec7",
     "n-d6ed6958b0",
+    "n-d69c5de4e7",
     "n-d5e082f834",
     "n-d4f7f53653",
     "n-d497328784",
+    "n-d4832f37b0",
+    "n-d471b3d097",
     "n-d3641add96",
+    "n-d2d3810c3f",
     "n-d2bc181ad0",
     "n-d22e265efd",
+    "n-d226a9b24c",
+    "n-d224767d18",
+    "n-d217501a0c",
     "n-d1c36e4341",
     "n-d1aace8b4a",
     "n-d182530af4",
     "n-d140f3d07f",
+    "n-d1157aecd1",
+    "n-d0ecd51ed2",
     "n-d0e1053814",
     "n-d0102378c0",
     "n-cfd3254184",
     "n-cf8c575ede",
     "n-cf72a26f02",
+    "n-cf50e79500",
     "n-cf19d00e70",
     "n-cf0d503ef2",
     "n-cf04305133",
+    "n-cefb12024f",
     "n-ced28f0724",
     "n-ced223aa89",
     "n-ce71bb02ce",
@@ -8777,9 +10711,13 @@
     "n-ce536a0efc",
     "n-cdfe0e2f1c",
     "n-cddebb8e59",
+    "n-cd78f14199",
+    "n-cd41494b6d",
+    "n-cd139a80e3",
     "n-ccb51d2a95",
     "n-cc2ada061c",
     "n-cb62ae01fa",
+    "n-cac6f1a139",
     "n-ca4cb3b16f",
     "n-ca13b9fa04",
     "n-c969bb3002",
@@ -8788,126 +10726,224 @@
     "n-c724eb9e4c",
     "n-c6ff419784",
     "n-c5e93c1d3a",
+    "n-c5914f9e91",
     "n-c4e41aef2b",
     "n-c4a0d1a186",
     "n-c46744cf6a",
     "n-c4546aea9c",
     "n-c41ee335f6",
     "n-c3f798c77b",
+    "n-c3f456557a",
     "n-c3d4c31323",
     "n-c32e26254c",
     "n-c2e38d5935",
     "n-c2c4915336",
+    "n-c2ad0b7fcb",
+    "n-c2788af394",
+    "n-c24c255e0f",
+    "n-c20e4c38be",
+    "n-c1cdd7886b",
     "n-c16d03e2b0",
+    "n-c134d8a6e7",
+    "n-c0f459a01f",
     "n-c0d09bda8b",
+    "n-c0cb01a268",
+    "n-c0576f6021",
+    "n-c05075157e",
+    "n-bff87036e2",
+    "n-bf905575bc",
+    "n-bf091ee63b",
+    "n-be6aa335c7",
+    "n-bdbdf285d7",
     "n-bd49bc44b7",
     "n-bbc670c0e1",
+    "n-bb598fd9c3",
     "n-bb326c9fdf",
+    "n-bae5434740",
     "n-ba790c8631",
     "n-ba6ade4c05",
+    "n-ba304b8f26",
     "n-ba02def424",
+    "n-b9eaae071a",
     "n-b977739627",
+    "n-b8ef8a36c7",
     "n-b8d5334397",
     "n-b8afea4624",
     "n-b8abd7e35e",
+    "n-b88d648185",
+    "n-b87b80291d",
     "n-b7c4d9268f",
     "n-b79dee5163",
     "n-b6851c60f8",
     "n-b66c6b5fe8",
     "n-b63f0f79e7",
     "n-b636bdc989",
+    "n-b5eea1671f",
     "n-b495739d31",
     "n-b48ae23ef5",
     "n-b438d99dc2",
+    "n-b41490e70f",
     "n-b3f3b611a3",
+    "n-b3d9b93688",
     "n-b3aa6851b7",
     "n-b3548b068b",
+    "n-b34a1cc907",
     "n-b347948b96",
+    "n-b278b5f533",
     "n-b2222dab41",
+    "n-b204b30f3a",
     "n-b1bee57937",
     "n-b10bd633b8",
+    "n-b0dccdddd4",
+    "n-b0a84b3dca",
     "n-b02f3b33b7",
+    "n-afd37d916b",
     "n-afce40f186",
     "n-af926b6d88",
+    "n-af36768073",
     "n-af01bc34de",
     "n-aefede82fd",
+    "n-aee7864293",
+    "n-ae7377cb14",
+    "n-ae728364c0",
+    "n-ae304e6401",
     "n-adee3ca551",
     "n-ad9c9181f8",
+    "n-ad82fc65c5",
+    "n-ad5b56d35e",
+    "n-ad4e330e2d",
     "n-ad1e6a3d0c",
+    "n-acdfd269fb",
+    "n-ac5a060bb8",
     "n-abed76ad0f",
     "n-ab593e345a",
     "n-ab3713a0b5",
     "n-a99ab8a6eb",
+    "n-a98d10bce2",
+    "n-a94fda4e13",
+    "n-a89ec476bc",
     "n-a85f96599d",
+    "n-a85b4938a4",
+    "n-a7fa18854f",
     "n-a7efec38e4",
     "n-a78c964be6",
+    "n-a712649e55",
     "n-a61b804416",
     "n-a60b24ebb5",
+    "n-a5f7f9ac49",
     "n-a5bfdf92c1",
     "n-a5a6f42edd",
     "n-a5a478ec38",
     "n-a54747f312",
+    "n-a4cfb13cba",
+    "n-a41f024b8b",
     "n-a316da2631",
     "n-a2c367a2ab",
     "n-a2b2f064d2",
+    "n-a294f4df98",
     "n-a1dfc77c2c",
+    "n-a1d8877283",
     "n-a1c9a6a103",
+    "n-a16f7e4950",
     "n-a14c05d0aa",
     "n-a1265a873f",
     "n-a11d97b87b",
     "n-a11009c2dc",
+    "n-a0f5a3ad6d",
     "n-a0e40ff5d8",
     "n-a0d5299653",
+    "n-a03a0cfd4b",
+    "n-a03310d0d3",
     "n-a02ba7b073",
+    "n-a020ad2fa0",
     "n-9fe0054e15",
     "n-9fd4c4bd6f",
     "n-9fce4f9cd3",
+    "n-9f7f321a65",
+    "n-9f709ff01d",
+    "n-9ea95995b9",
     "n-9e6857e8a9",
     "n-9e65c4419e",
+    "n-9d4d7bfa04",
     "n-9d1d38dd75",
     "n-9ce590f831",
+    "n-9c89b68271",
+    "n-9bf2b1d940",
     "n-9bab984caa",
+    "n-9a04c1514f",
     "n-99ff299eee",
     "n-99dadfd9bc",
     "n-992fb237e4",
+    "n-98fc3b041f",
+    "n-98dd5dab2b",
     "n-98db5e9f27",
     "n-984ac0ee00",
     "n-982b169c3b",
     "n-97fff052b7",
+    "n-97ef1ba967",
     "n-97e1334295",
     "n-97cedb7ec2",
     "n-97c92d3269",
+    "n-9768b9afc1",
     "n-9760d7add3",
+    "n-96e16d530e",
     "n-969e5271ff",
     "n-960836273b",
+    "n-955e8f8621",
+    "n-951dfe6af3",
+    "n-949d991556",
     "n-9478ff9243",
     "n-944c22a8fe",
     "n-93c82cced4",
     "n-9371b417f8",
     "n-9358043c25",
+    "n-931c589133",
+    "n-92d11a1f17",
     "n-920abfb1e3",
+    "n-91acd5d17b",
+    "n-90de9801d2",
+    "n-90bd6c1615",
     "n-901220b5b4",
     "n-8f2e77690e",
     "n-8ef1289f87",
+    "n-8ee81c1a41",
     "n-8ec65997d5",
     "n-8e75dd0767",
     "n-8e1566e0c7",
     "n-8e078019f4",
+    "n-8de9a1da59",
     "n-8d546ea894",
+    "n-8d34f26cae",
     "n-8cc344a285",
     "n-8c14423e0d",
     "n-8b8615589c",
+    "n-8b6446fbc3",
     "n-8b5f11bc11",
+    "n-8b0a2d6a37",
     "n-8ae442bb62",
     "n-8a9fb1a4b9",
     "n-8a4dfeeb5d",
+    "n-89f3d4c67f",
+    "n-89debba9cc",
+    "n-885cf3ac54",
+    "n-872d02a919",
     "n-8719519a69",
+    "n-8705af97a2",
+    "n-86f4530ff3",
+    "n-868e947d58",
     "n-868a3aaeef",
     "n-86875b15aa",
     "n-86748f8e9e",
     "n-86023c7979",
+    "n-85cc4045ea",
+    "n-859bd10c2e",
+    "n-85798f1b9f",
+    "n-852459a55a",
+    "n-84d82fe796",
+    "n-846ca0188f",
     "n-84568364fd",
     "n-841bc05497",
+    "n-8410b784f7",
     "n-837f41c777",
     "n-833da82530",
     "n-831457a1a0",
@@ -8915,12 +10951,22 @@
     "n-82a94d3961",
     "n-825557a5f2",
     "n-81ebf14eea",
+    "n-81d37c3b10",
+    "n-81be95e5c2",
+    "n-81a20b1e3d",
     "n-819e122ccd",
     "n-819b4129d7",
+    "n-818c5aa2cb",
     "n-80bd00594d",
+    "n-80ba885660",
+    "n-8078ff76ff",
+    "n-7ffd4ec0b4",
     "n-7f6dd4a0bc",
     "n-7f5e1b5d5a",
+    "n-7f4cc3dc77",
     "n-7f424895fc",
+    "n-7f3add209c",
+    "n-7ed9466d5b",
     "n-7e81500f3d",
     "n-7e2c33bcb6",
     "n-7e0c4cc870",
@@ -8932,49 +10978,78 @@
     "n-7c1c23a9d1",
     "n-7bf964cae8",
     "n-7bd01d988c",
+    "n-7ba6fa4dc2",
+    "n-7ad749d3fe",
     "n-7ac4fa4583",
     "n-7abe53781e",
     "n-7aa1f96c36",
+    "n-7a8c071595",
+    "n-7a7a8a1d7b",
     "n-7a6049c680",
+    "n-79e9a144bf",
+    "n-7981872a4c",
     "n-7970b35444",
     "n-79465fc2da",
     "n-78d5e0b6be",
+    "n-78a8997971",
+    "n-78534dcbd0",
     "n-78395026cf",
     "n-782f0991a7",
+    "n-781f7e2e75",
     "n-77f1dd74e4",
     "n-77aec57904",
+    "n-77adb2265c",
+    "n-772d5d789c",
+    "n-76e1f2dd29",
+    "n-766104cff6",
     "n-75eec0b102",
     "n-756794e690",
     "n-75651b6d80",
+    "n-755eae7a60",
     "n-75510d5219",
     "n-75473141c2",
     "n-75171cd2c8",
+    "n-744a693cde",
     "n-740438cbeb",
+    "n-738dba3c5e",
+    "n-73472136b4",
     "n-7340bf1aad",
     "n-7328495c92",
     "n-7322929b10",
     "n-7314a6bcc8",
     "n-7290230618",
+    "n-727699d4d4",
     "n-7254e49ce8",
     "n-721afd6a19",
+    "n-71b296f814",
+    "n-7190f7ebcd",
+    "n-716d01b17c",
     "n-715fbe9451",
     "n-7150bbd771",
     "n-7127c15c53",
+    "n-70d2f4246e",
     "n-70c95e5ecb",
     "n-7071875109",
     "n-701c94a6a1",
+    "n-6fd15dc934",
+    "n-6f7f066ffe",
     "n-6f089116cf",
     "n-6f05bdf264",
+    "n-6ee5d062c1",
     "n-6edfc59eed",
     "n-6e6ec9ab6b",
     "n-6e1bdb74a2",
     "n-6de0fad44f",
     "n-6d8dc4435a",
     "n-6d500875d2",
+    "n-6d4f5a4c09",
+    "n-6d3a1b72b3",
     "n-6d1e8777ce",
     "n-6cdd78c533",
+    "n-6c86825761",
     "n-6c5e22fee1",
     "n-6c34648459",
+    "n-6c24c5b7d1",
     "n-6bd85df8ed",
     "n-6b8983b2a2",
     "n-6ae44b1607",
@@ -8983,25 +11058,34 @@
     "n-6a470bac38",
     "n-6a43f5da48",
     "n-69ec3b0aaa",
+    "n-69a1028e31",
     "n-68b3b1fae6",
     "n-68299e89f1",
     "n-67e41ba5ae",
+    "n-679298d271",
     "n-676d66ea41",
     "n-675f824e2a",
+    "n-6737ab6e47",
     "n-6705e4929b",
     "n-66b11f2c1c",
     "n-66988bb8af",
     "n-6624131df0",
     "n-6607af2693",
     "n-65c8f1b873",
+    "n-65c122249f",
+    "n-657c8562df",
     "n-6504693e58",
+    "n-64df2fb455",
     "n-64db3725b4",
     "n-64c52eaf4d",
     "n-648054221f",
+    "n-6469337d3d",
+    "n-640cea79c5",
     "n-63fc70b541",
     "n-6398af54be",
     "n-63310818df",
     "n-632e606b02",
+    "n-626229fd6d",
     "n-625a62d5de",
     "n-61e3cf03ac",
     "n-61589d5fc9",
@@ -9012,32 +11096,50 @@
     "n-5efefc3953",
     "n-5ee5b179bf",
     "n-5dc5be210a",
+    "n-5d8b6008cd",
     "n-5d775dee1a",
     "n-5d5fa885b6",
     "n-5d526ba827",
+    "n-5cdf4c9389",
     "n-5cd28a2bd1",
     "n-5cbb79d999",
+    "n-5c24a1064b",
     "n-5b5558fedd",
+    "n-5a0726226f",
     "n-599684b34f",
     "n-594cd03215",
+    "n-57fc3619fc",
+    "n-57cc3853e4",
+    "n-5723fbc5ab",
+    "n-572023644f",
+    "n-56fe61ff2b",
     "n-55b3aea30b",
     "n-55b05978df",
     "n-5540a93cb5",
     "n-551508ee8c",
     "n-549e91e1c0",
     "n-54505b5f46",
+    "n-54471cb33e",
     "n-5353f88f44",
     "n-5319c89cd3",
+    "n-52d4f13a45",
+    "n-52bee6c102",
     "n-520de897dc",
     "n-51a9d6c3d6",
+    "n-50bad9fef4",
     "n-4fb87f050c",
+    "n-4f12619e78",
     "n-4f107b5ebf",
     "n-4ef65aa7f6",
+    "n-4ee5222a3f",
     "n-4ed3ebfa1c",
     "n-4eb63d4caf",
     "n-4ea5eb69ba",
     "n-4e2f708bcc",
+    "n-4e1f3e0723",
+    "n-4dc746ab28",
     "n-4cb69e9202",
+    "n-4be5fa54fd",
     "n-4bbbd17d1b",
     "n-4b652bcc77",
     "n-4b181dadc0",
@@ -9049,18 +11151,35 @@
     "n-497d40e909",
     "n-4947cd82cc",
     "n-4941701283",
+    "n-492c7c838f",
     "n-49188c7915",
+    "n-490017770d",
+    "n-48450782e9",
+    "n-47ee3461a5",
     "n-477068c864",
+    "n-4736879b93",
+    "n-46615c386e",
+    "n-465fc7b56c",
+    "n-4653c2726a",
+    "n-462c2a6c9a",
     "n-4621bd0727",
     "n-45b7bbd16b",
+    "n-45553d91f2",
+    "n-454ed35c93",
     "n-4514941672",
+    "n-44977a0067",
     "n-443c254b7f",
+    "n-43a9873e24",
+    "n-4340409e0e",
     "n-43108a28d7",
     "n-42aacd4f9b",
+    "n-41990b4747",
     "n-4177cab2fa",
     "n-4176893fdd",
     "n-4148509833",
     "n-412ff5547f",
+    "n-40e0965591",
+    "n-40ba6298c3",
     "n-4082277aeb",
     "n-40028a6fe7",
     "n-3faf75a3a8",
@@ -9069,16 +11188,23 @@
     "n-3f0a9c0170",
     "n-3efc7bc4ce",
     "n-3ec7e1a063",
+    "n-3e5ddc4905",
     "n-3df0e38055",
     "n-3d51708a52",
+    "n-3c2855adb1",
+    "n-3c01f41e22",
     "n-3bd8a5bf17",
+    "n-3bd2e116af",
     "n-3bacf0e143",
     "n-3b15326fe8",
     "n-3a9d69d7e9",
+    "n-3a37efa7b1",
     "n-3a170e8f1b",
+    "n-39de1510e9",
     "n-396702cfe2",
     "n-390aed02e2",
     "n-3905bae486",
+    "n-38ff523738",
     "n-38e5bcdce7",
     "n-38e1500c66",
     "n-3870f53415",
@@ -9086,19 +11212,24 @@
     "n-38217f32a6",
     "n-38018d5d2d",
     "n-37729ce27a",
+    "n-3707e4d723",
     "n-36fa065b79",
     "n-369b74ea1a",
+    "n-369aa09a66",
     "n-364be607ee",
     "n-363a1b03bb",
     "n-3600f1f8ab",
     "n-3554d5183b",
     "n-353bab66f8",
+    "n-34d354db43",
+    "n-34a6b19951",
     "n-347308d9b6",
     "n-3450949e78",
     "n-334d920a5d",
     "n-3347fb1328",
     "n-32fda16502",
     "n-32e036715e",
+    "n-32b4cbd13b",
     "n-32a7d157bd",
     "n-3297691b6f",
     "n-31cb32c83a",
@@ -9108,19 +11239,32 @@
     "n-2fb0f885be",
     "n-2facb069d0",
     "n-2f045eb33c",
+    "n-2edb033ba1",
+    "n-2ebc155125",
     "n-2e867da591",
     "n-2e764207bd",
     "n-2e0520da75",
+    "n-2dfec1e43f",
+    "n-2d8439d05b",
     "n-2d7b3093fd",
+    "n-2d6b42b1d8",
     "n-2d08c11049",
     "n-2c76b163d3",
+    "n-2c68f8f825",
+    "n-2bc5f2ff74",
+    "n-2b9c0735ec",
     "n-2b7ba5c775",
     "n-2b71540823",
     "n-2b3ced63f1",
     "n-2af9b3efb0",
+    "n-2ac73fcd27",
+    "n-2a88c3c86a",
     "n-29eb1f831e",
     "n-29d4083d61",
+    "n-298102ba73",
+    "n-2980d7228f",
     "n-292e34fcb3",
+    "n-2905950c01",
     "n-29022e4fd2",
     "n-28ff35cede",
     "n-289ba243a5",
@@ -9130,30 +11274,49 @@
     "n-27ad5cb7b0",
     "n-27957b3eee",
     "n-277ef3d868",
+    "n-2727edefeb",
     "n-26bc0bd267",
     "n-269c40ddd3",
+    "n-2677c972d7",
+    "n-2650590a79",
     "n-264e8c1717",
+    "n-262b40b9f0",
     "n-25eed24e0d",
+    "n-25ebe7235f",
     "n-2591c503ad",
     "n-2540f877eb",
     "n-253f50a66d",
+    "n-24ca0116e9",
     "n-240baee803",
+    "n-23c78ae54f",
+    "n-23a0a70ed1",
     "n-2393a845fa",
     "n-238cbd39cb",
     "n-2340faee72",
     "n-22b4ad25f5",
+    "n-22a438ef88",
     "n-22448a4fd0",
     "n-2242c477fb",
     "n-222b01635c",
+    "n-2228ec8088",
     "n-2222547f97",
     "n-22001436c1",
+    "n-2195d267bc",
     "n-20c0bd9616",
     "n-1fff983f43",
+    "n-1fea1f5007",
     "n-1ee49081d2",
     "n-1e7e01ddd7",
+    "n-1e58435de2",
     "n-1e37f80b3f",
+    "n-1de340950e",
     "n-1d8711ddfd",
+    "n-1d3b3a61f8",
+    "n-1d2e9c62f3",
     "n-1c57725150",
+    "n-1bad458b2a",
+    "n-1ba828a121",
+    "n-1b98c991bd",
     "n-1b82c038ef",
     "n-1a5ac07fef",
     "n-1a301e2ceb",
@@ -9164,34 +11327,51 @@
     "n-1957e34ea5",
     "n-19402c57d8",
     "n-192b3cf75c",
+    "n-18f20d98fa",
     "n-18aead67ea",
     "n-1857cf1c7a",
     "n-181f36a473",
     "n-17e916004b",
     "n-17be84d500",
     "n-17b312d487",
+    "n-17aa49afc9",
     "n-171634870a",
+    "n-1704c7c952",
     "n-16c3e34986",
     "n-1651c3d215",
     "n-160efa0fdb",
     "n-160cda1ba7",
+    "n-15dd2a021a",
+    "n-15b1d1786a",
     "n-15581903e4",
+    "n-14eb349ad1",
     "n-14c8e61352",
     "n-14a863c9d3",
     "n-145acbde64",
+    "n-144b867bda",
+    "n-14085b1b0f",
     "n-1402aca572",
     "n-13a562a609",
     "n-13290b7929",
+    "n-1320f519a1",
     "n-11ae14ece9",
+    "n-118fe57886",
+    "n-10a2de18b3",
+    "n-109c869863",
     "n-1059ecec13",
     "n-1027303bd3",
+    "n-0fe927a2ab",
+    "n-0f91f1563c",
     "n-0f55e4f6a1",
     "n-0f298b0d41",
     "n-0ebdd3ab44",
     "n-0e3939a347",
     "n-0dea9b891a",
+    "n-0dd4de1b97",
+    "n-0dc009d4d0",
     "n-0d7aed5e86",
     "n-0cf91afec3",
+    "n-0c8443f593",
     "n-0c7b2e5273",
     "n-0c368b4c16",
     "n-0b4ad29b73",
@@ -9202,22 +11382,30 @@
     "n-0a5ac285d9",
     "n-0a40fd014f",
     "n-0a1838ff3d",
+    "n-0a08d218d1",
+    "n-0912d0b95f",
     "n-0852dc1008",
     "n-07db2c49c3",
+    "n-0785ddb34a",
     "n-0778115bb1",
     "n-076b3f0be6",
     "n-0663ce9db2",
     "n-0627ff22c0",
+    "n-060cf06f53",
     "n-05fe00f082",
     "n-05ec9a95a1",
+    "n-05bc5c6e9c",
     "n-052770a8bf",
+    "n-050665d505",
     "n-04a79175d6",
     "n-0481856e9f",
     "n-044c492370",
+    "n-0423f2e93d",
     "n-038f2eebc4",
     "n-033632d8e0",
     "n-02ff6518d6",
     "n-02cbd28ee8",
+    "n-00f4cb72d6",
     "n-00c9c3996b",
     "n-006a78034f",
     "n-000fcd918f"
@@ -9600,7 +11788,39 @@
     "n-bcef63351f"
   ],
   "model_releases": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "modly": [
     "n-d497328784"
@@ -9651,6 +11871,36 @@
   "motif-video-2b": [
     "n-c56aa9fa27"
   ],
+  "ms-21-aeroflot-production-load": [
+    "n-727699d4d4",
+    "n-54471cb33e"
+  ],
+  "mts": [
+    "n-e7e321661e",
+    "n-c0576f6021",
+    "n-a7fa18854f",
+    "n-84d82fe796",
+    "n-76e1f2dd29",
+    "n-679298d271",
+    "n-5cdf4c9389",
+    "n-490017770d",
+    "n-34d354db43",
+    "n-2ac73fcd27",
+    "n-1ba828a121"
+  ],
+  "mts-youth-programs": [
+    "n-e7e321661e",
+    "n-c0576f6021",
+    "n-a7fa18854f",
+    "n-84d82fe796",
+    "n-76e1f2dd29",
+    "n-679298d271",
+    "n-5cdf4c9389",
+    "n-490017770d",
+    "n-34d354db43",
+    "n-2ac73fcd27",
+    "n-1ba828a121"
+  ],
   "muffins-flat-2-panoramic-node": [
     "n-af1e479850"
   ],
@@ -9679,14 +11929,26 @@
     "n-ea52f36353"
   ],
   "muse": [
+    "n-dedad85a4a",
     "n-d1aace8b4a",
+    "n-a03a0cfd4b",
+    "n-8410b784f7",
     "n-3b15326fe8"
   ],
   "muse-glimmer": [
+    "n-dedad85a4a",
     "n-3b15326fe8"
   ],
   "mvtrack4gen": [
     "n-eca931f946"
+  ],
+  "nanako0129-sepia": [
+    "n-f82288c739",
+    "n-6f7f066ffe"
+  ],
+  "nanako0129-sepia-proposal": [
+    "n-f82288c739",
+    "n-6f7f066ffe"
   ],
   "nanbeige": [
     "n-b3f3b611a3"
@@ -9734,10 +11996,25 @@
     "n-551508ee8c"
   ],
   "neural_neighbor_style_transfer": [
+    "n-872d02a919",
     "n-0d7aed5e86"
   ],
   "nexvid": [
     "n-20c0bd9616"
+  ],
+  "nm-tech": [
+    "n-39de1510e9"
+  ],
+  "nm-tech-equipment-pledge-2026": [
+    "n-39de1510e9"
+  ],
+  "no-rest-for-the-wicked": [
+    "n-40ba6298c3",
+    "n-2195d267bc"
+  ],
+  "no-rest-for-the-wicked-early-access-plan": [
+    "n-40ba6298c3",
+    "n-2195d267bc"
   ],
   "normal-map": [
     "n-de24cf852f",
@@ -9757,7 +12034,69 @@
     "n-c4a452f85d"
   ],
   "nvidia": [
-    "n-3905bae486"
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-3905bae486",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
+  "nvidia-ace": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
   ],
   "nvidia-cmd": [
     "n-831457a1a0"
@@ -9766,19 +12105,246 @@
     "n-831457a1a0"
   ],
   "nvidia-cosmos-3-edge": [
+    "n-3a37efa7b1",
     "n-1a1adbb4f3"
   ],
   "nvidia-nemotron": [
+    "n-d6f8f63a6e",
     "n-0ad60b8778"
   ],
   "nvidia-ntc": [
     "n-ce536a0efc"
   ],
+  "nvidia_3d_photo_reconstruction": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
   "nvidia_dlss_technologies": [
     "n-ce536a0efc"
   ],
+  "nvidia_drivers": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
+  "nvidia_ediffi": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
   "nvidia_nemotron": [
+    "n-d6f8f63a6e",
     "n-0ad60b8778"
+  ],
+  "nvidia_neuralangelo_launch": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
+  "nvidia_open_source_drivers": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
+  "nvidia_rtx_40_super": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
+  ],
+  "nvidia_streaming_sortformer": [
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
   ],
   "nvidia_synthetic_video_detector": [
     "n-0abfd5c1ff"
@@ -9803,6 +12369,12 @@
   ],
   "occany": [
     "n-334d920a5d"
+  ],
+  "odnoklassniki": [
+    "n-14eb349ad1"
+  ],
+  "odnoklassniki_toxicity_ai": [
+    "n-14eb349ad1"
   ],
   "odysseus": [
     "n-c3f798c77b"
@@ -10010,6 +12582,15 @@
     "n-019c913613",
     "n-0124eabefd"
   ],
+  "open-ai": [
+    "n-a41f024b8b",
+    "n-89debba9cc",
+    "n-6c24c5b7d1",
+    "n-6469337d3d",
+    "n-18f20d98fa",
+    "n-118fe57886",
+    "n-0dd4de1b97"
+  ],
   "open-design": [
     "n-ff21b44ef5"
   ],
@@ -10023,41 +12604,404 @@
     "n-662ab03ff4"
   ],
   "open_source_release": [
+    "n-f8203a5996",
+    "n-e54716a5dd",
+    "n-d471b3d097",
+    "n-d217501a0c",
+    "n-a5f7f9ac49",
+    "n-a03310d0d3",
+    "n-7a8c071595",
+    "n-640cea79c5",
+    "n-4f12619e78",
+    "n-4653c2726a",
+    "n-40e0965591",
     "n-353bab66f8"
   ],
   "openai": [
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
     "n-d76b3cf6c5",
-    "n-303168f615"
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai-gpt-5-erdos-math-controversy": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai-safety-testing": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai:chatgpt": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_bug_bounty": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_chatgpt_agent": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_devday_2024": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_disney": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_gpt_next": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_gpt_store_and_updates": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openai_reasoning": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "openbot": [
     "n-7a6049c680"
@@ -10152,11 +13096,19 @@
   "ornith-1-5": [
     "n-ad1e6a3d0c"
   ],
+  "otus": [
+    "n-2980d7228f",
+    "n-23c78ae54f"
+  ],
   "ouroboros": [
     "n-d7ef7b4828"
   ],
   "ovisocr2": [
     "n-78395026cf"
+  ],
+  "ozon": [
+    "n-ac5a060bb8",
+    "n-91acd5d17b"
   ],
   "p-video-avatar": [
     "n-d4d07dd0bf"
@@ -10264,6 +13216,7 @@
     "n-4514941672"
   ],
   "pearl": [
+    "n-d7bdadd681",
     "n-701c94a6a1"
   ],
   "penguin-vl": [
@@ -10279,7 +13232,8 @@
     "n-f3982b18eb"
   ],
   "perplexity": [
-    "n-a56b9d31b6"
+    "n-a56b9d31b6",
+    "n-744a693cde"
   ],
   "personavlm": [
     "n-78a59b56b6"
@@ -10362,7 +13316,10 @@
     "n-1985ad3cff"
   ],
   "product_updates": [
-    "n-c724eb9e4c"
+    "n-dee637a9a1",
+    "n-c724eb9e4c",
+    "n-3c2855adb1",
+    "n-2d6b42b1d8"
   ],
   "project-history": [
     "n-fe2f35c14b",
@@ -10446,17 +13403,24 @@
     "n-d755c8bc8a",
     "n-b63f0f79e7",
     "n-b1f4237092",
+    "n-ad82fc65c5",
     "n-a99ab8a6eb",
     "n-a7efec38e4",
     "n-97c6278d46",
     "n-8a620616a1",
     "n-86ce44c208",
     "n-7e83db4168",
+    "n-7a7a8a1d7b",
     "n-6a60e32785",
     "n-5d775dee1a",
+    "n-4ee5222a3f",
+    "n-4340409e0e",
     "n-43108a28d7",
+    "n-41990b4747",
     "n-3f35c2ca4e",
     "n-32fda16502",
+    "n-32b4cbd13b",
+    "n-1704c7c952",
     "n-129b6b09c0",
     "n-04529e7d46",
     "n-019c913613"
@@ -10472,7 +13436,8 @@
     "n-3f35c2ca4e"
   ],
   "qwen-3-8-27b": [
-    "n-5d775dee1a"
+    "n-5d775dee1a",
+    "n-4340409e0e"
   ],
   "qwen-audio": [
     "n-af926b6d88"
@@ -10510,7 +13475,11 @@
     "n-32fda16502"
   ],
   "qwen-video": [
-    "n-a7efec38e4"
+    "n-ad82fc65c5",
+    "n-a7efec38e4",
+    "n-7a7a8a1d7b",
+    "n-4ee5222a3f",
+    "n-32b4cbd13b"
   ],
   "qwen-video-edit": [
     "n-9e65c4419e"
@@ -10546,16 +13515,19 @@
     "n-29022e4fd2"
   ],
   "qwen3-8-27b-uncensored": [
-    "n-32a7d157bd"
+    "n-32a7d157bd",
+    "n-1d2e9c62f3"
   ],
   "qwen3-8-27b-uncensored-mlx": [
     "n-49a53e09e5"
   ],
   "qwen3-8-flash-next": [
-    "n-a99ab8a6eb"
+    "n-a99ab8a6eb",
+    "n-1704c7c952"
   ],
   "qwen3-8-max": [
-    "n-b63f0f79e7"
+    "n-b63f0f79e7",
+    "n-41990b4747"
   ],
   "qwen3-asr": [
     "n-0e3939a347"
@@ -10574,7 +13546,8 @@
     "n-4f107b5ebf"
   ],
   "qwen3_8_uncensored_hauhaucs": [
-    "n-32a7d157bd"
+    "n-32a7d157bd",
+    "n-1d2e9c62f3"
   ],
   "qwen3_8_uncensored_mlx": [
     "n-49a53e09e5"
@@ -10589,7 +13562,11 @@
     "n-fec11a299f"
   ],
   "qwen_model_updates": [
-    "n-a7efec38e4"
+    "n-ad82fc65c5",
+    "n-a7efec38e4",
+    "n-7a7a8a1d7b",
+    "n-4ee5222a3f",
+    "n-32b4cbd13b"
   ],
   "qwopus": [
     "n-d4f7f53653"
@@ -10691,9 +13668,22 @@
     "n-10b1471000"
   ],
   "regulatory_actions": [
+    "n-f64d313e07",
+    "n-eefafa6ead",
+    "n-e94bd15184",
     "n-b7c4d9268f",
+    "n-7ffd4ec0b4",
+    "n-7981872a4c",
     "n-66988bb8af",
-    "n-14a863c9d3"
+    "n-5c24a1064b",
+    "n-48450782e9",
+    "n-2dfec1e43f",
+    "n-25ebe7235f",
+    "n-2228ec8088",
+    "n-14a863c9d3",
+    "n-0c8443f593",
+    "n-060cf06f53",
+    "n-050665d505"
   ],
   "reka": [
     "n-f49e4ee649"
@@ -10701,8 +13691,15 @@
   "reka_edge": [
     "n-f49e4ee649"
   ],
+  "release-the-blood-of-dawnwalker": [
+    "n-f46c2afd73",
+    "n-e20727af2b"
+  ],
   "replaceme": [
     "n-18cb9608e2"
+  ],
+  "replit": [
+    "n-15dd2a021a"
   ],
   "research-intake": [
     "n-8a14fda3a6"
@@ -10749,11 +13746,38 @@
   "rs-nodes": [
     "n-c66b8c38b0"
   ],
+  "runway": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
   "runway-aleph": [
     "n-f52983ecb7"
   ],
   "runway-aleph-2": [
     "n-f52983ecb7"
+  ],
+  "runway_3d_video": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "runway_act_two": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "runway_ai_training": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "runway_gen2_camera_control": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "runway_video_tools": [
+    "n-9bf2b1d940",
+    "n-262b40b9f0"
+  ],
+  "rust-lang-rust": [
+    "n-2d8439d05b"
   ],
   "rvr": [
     "n-b6c1907179"
@@ -10772,6 +13796,18 @@
   ],
   "sama": [
     "n-6e1bdb74a2"
+  ],
+  "samsung": [
+    "n-de6b1dfd1a",
+    "n-d226a9b24c",
+    "n-bf905575bc",
+    "n-8ee81c1a41"
+  ],
+  "samsung-accounts-deactivation": [
+    "n-de6b1dfd1a",
+    "n-d226a9b24c",
+    "n-bf905575bc",
+    "n-8ee81c1a41"
   ],
   "sana": [
     "n-f8cc9060c3",
@@ -10937,6 +13973,14 @@
   "seoul-world-model": [
     "n-3a170e8f1b"
   ],
+  "shedevrum": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
+  ],
   "shotstream": [
     "n-dbba09c3a2"
   ],
@@ -10945,6 +13989,16 @@
   ],
   "shuttermuse": [
     "n-eaa0dc5be8"
+  ],
+  "silicon-data": [
+    "n-fd987fdb9f",
+    "n-c5914f9e91",
+    "n-6737ab6e47"
+  ],
+  "silicon-data-index-proposal": [
+    "n-fd987fdb9f",
+    "n-c5914f9e91",
+    "n-6737ab6e47"
   ],
   "sillytavern": [
     "n-fa9c04297f"
@@ -10989,6 +14043,12 @@
   ],
   "sonilo-v1-1": [
     "n-386f8faa44"
+  ],
+  "sony": [
+    "n-7190f7ebcd"
+  ],
+  "sony_mocopi": [
+    "n-7190f7ebcd"
   ],
   "spark": [
     "n-110bebc860"
@@ -11038,6 +14098,10 @@
   "stable-layers": [
     "n-a5a478ec38"
   ],
+  "star-wars-zero-company": [
+    "n-e6dc6cad59",
+    "n-24ca0116e9"
+  ],
   "starchild-1": [
     "n-b636bdc989"
   ],
@@ -11046,6 +14110,21 @@
   ],
   "statistics": [
     "n-690d423e11"
+  ],
+  "stealth-exit": [
+    "n-ad5b56d35e",
+    "n-9ea95995b9",
+    "n-5d8b6008cd",
+    "n-52d4f13a45",
+    "n-44977a0067"
+  ],
+  "steamdb": [
+    "n-ae304e6401",
+    "n-a1d8877283"
+  ],
+  "steamdb-nexus-mods-sale": [
+    "n-ae304e6401",
+    "n-a1d8877283"
   ],
   "storysplat": [
     "n-e4fab55e05"
@@ -11058,6 +14137,9 @@
   ],
   "stream_fm": [
     "n-51a9d6c3d6"
+  ],
+  "streamdit": [
+    "n-afd37d916b"
   ],
   "stripe": [
     "n-4b652bcc77"
@@ -11102,7 +14184,39 @@
     "n-f735b8e846"
   ],
   "swe_bench_verified": [
-    "n-303168f615"
+    "n-ff09e5b9b1",
+    "n-fcf3936b14",
+    "n-fb8dcca8e5",
+    "n-fad5ffb118",
+    "n-f775fb7fe3",
+    "n-df07c15060",
+    "n-dc9b4fa667",
+    "n-d7846f150b",
+    "n-d69c5de4e7",
+    "n-c20e4c38be",
+    "n-bf091ee63b",
+    "n-a94fda4e13",
+    "n-a16f7e4950",
+    "n-949d991556",
+    "n-90de9801d2",
+    "n-885cf3ac54",
+    "n-8078ff76ff",
+    "n-7ed9466d5b",
+    "n-755eae7a60",
+    "n-716d01b17c",
+    "n-6d3a1b72b3",
+    "n-657c8562df",
+    "n-57fc3619fc",
+    "n-5723fbc5ab",
+    "n-50bad9fef4",
+    "n-4dc746ab28",
+    "n-303168f615",
+    "n-2c68f8f825",
+    "n-1e58435de2",
+    "n-17aa49afc9",
+    "n-109c869863",
+    "n-0dc009d4d0",
+    "n-0912d0b95f"
   ],
   "swiftvr": [
     "n-e3f801a8ba"
@@ -11142,6 +14256,7 @@
     "n-9bf7eec688",
     "n-95cbbfe193",
     "n-87c78ee187",
+    "n-7f3add209c",
     "n-6eab718771",
     "n-69431eb7bc",
     "n-5f314f696f",
@@ -11155,7 +14270,8 @@
     "n-04bc8d2a40"
   ],
   "telegram_product_updates": [
-    "n-c32e26254c"
+    "n-c32e26254c",
+    "n-7f3add209c"
   ],
   "tencent-ailab": [
     "n-77aec57904"
@@ -11227,6 +14343,20 @@
     "n-09f901429d",
     "n-09ee25f7d5",
     "n-0588f1e672"
+  ],
+  "the-blood-of-dawnwalker": [
+    "n-f46c2afd73",
+    "n-e20727af2b"
+  ],
+  "the-witcher-4": [
+    "n-d2d3810c3f",
+    "n-b87b80291d",
+    "n-b204b30f3a"
+  ],
+  "the-witcher-4-engine-transition": [
+    "n-d2d3810c3f",
+    "n-b87b80291d",
+    "n-b204b30f3a"
   ],
   "thestageai-elastic-wan22-i2v": [
     "n-253f50a66d"
@@ -11310,6 +14440,11 @@
     "n-08ae804484",
     "n-0739891476",
     "n-02e0b8ae6c"
+  ],
+  "topaz-labs:astra": [
+    "n-45553d91f2",
+    "n-1de340950e",
+    "n-1320f519a1"
   ],
   "topaz-starlight-precise": [
     "n-d22e265efd"
@@ -11413,7 +14548,37 @@
     "n-7c1f689c14"
   ],
   "unirelight": [
-    "n-49b64d4933"
+    "n-f345858e23",
+    "n-e334230f47",
+    "n-e1bdce68e2",
+    "n-ddcde11c22",
+    "n-db2ba24b08",
+    "n-cefb12024f",
+    "n-cd139a80e3",
+    "n-c0f459a01f",
+    "n-b5eea1671f",
+    "n-b41490e70f",
+    "n-a85b4938a4",
+    "n-a294f4df98",
+    "n-9f7f321a65",
+    "n-955e8f8621",
+    "n-92d11a1f17",
+    "n-90bd6c1615",
+    "n-86f4530ff3",
+    "n-7f4cc3dc77",
+    "n-78a8997971",
+    "n-772d5d789c",
+    "n-738dba3c5e",
+    "n-57cc3853e4",
+    "n-572023644f",
+    "n-49b64d4933",
+    "n-47ee3461a5",
+    "n-369aa09a66",
+    "n-34a6b19951",
+    "n-2905950c01",
+    "n-1b98c991bd",
+    "n-0fe927a2ab",
+    "n-0785ddb34a"
   ],
   "unitree": [
     "n-e584d1d2e9"
@@ -11441,6 +14606,15 @@
   ],
   "univr": [
     "n-cc2ada061c"
+  ],
+  "unknown": [
+    "n-a41f024b8b",
+    "n-89debba9cc",
+    "n-6c24c5b7d1",
+    "n-6469337d3d",
+    "n-18f20d98fa",
+    "n-118fe57886",
+    "n-0dd4de1b97"
   ],
   "unlimited-ocr": [
     "n-86875b15aa"
@@ -11669,6 +14843,10 @@
   "wanvideo": [
     "n-332335c756"
   ],
+  "warhammer-40000-space-marine-3": [
+    "n-492c7c838f",
+    "n-462c2a6c9a"
+  ],
   "wavtts": [
     "n-75eec0b102"
   ],
@@ -11677,6 +14855,10 @@
   ],
   "waypoint-1-5": [
     "n-2090ac5f1b"
+  ],
+  "weathernext-3": [
+    "n-d4832f37b0",
+    "n-6ee5d062c1"
   ],
   "web-demo": [
     "n-f24b5871aa",
@@ -11729,11 +14911,22 @@
   "wilddet3d": [
     "n-c5207bfa4a"
   ],
+  "windows-11": [
+    "n-8705af97a2",
+    "n-38ff523738"
+  ],
   "windows-copilot-api": [
     "n-25eed24e0d"
   ],
+  "windows_11": [
+    "n-8705af97a2",
+    "n-38ff523738"
+  ],
   "witheveryone": [
     "n-f57cbf8f0c"
+  ],
+  "world-labs-atlas": [
+    "n-05bc5c6e9c"
   ],
   "world-r1": [
     "n-5db7fa704b"
@@ -11761,6 +14954,38 @@
   ],
   "yags": [
     "n-82f8f06562"
+  ],
+  "yandex": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
+  ],
+  "yandex_browser_translation": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
+  ],
+  "yandex_neuromusic": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
+  ],
+  "yandex_source_code_leak": [
+    "n-e717e8ed06",
+    "n-cac6f1a139",
+    "n-c3f456557a",
+    "n-ba304b8f26",
+    "n-6c86825761",
+    "n-52bee6c102"
   ],
   "yedp": [
     "n-501487aec4"
@@ -11802,5 +15027,8 @@
   ],
   "δ-mem": [
     "n-ca13b9fa04"
+  ],
+  "НМ-Тех": [
+    "n-39de1510e9"
   ]
 }

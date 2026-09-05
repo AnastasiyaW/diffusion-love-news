@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-e20727af2b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "The Blood of Dawnwalker release and Steam criticism",
+ "summary": "The Blood of Dawnwalker released on 2026-09-03; Steam users criticized the game for lack of optimization and missing Russian translation.",
+ "research_notes": "",
+ "project": {
+  "name": "The Blood of Dawnwalker",
+  "family_slug": "the-blood-of-dawnwalker",
+  "family_display": "The Blood of Dawnwalker",
+  "model_slug": "the-blood-of-dawnwalker",
+  "model_display": "The Blood of Dawnwalker",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "The Blood of Dawnwalker",
+  "family:the-blood-of-dawnwalker",
+  "misc",
+  "release-the-blood-of-dawnwalker",
+  "the-blood-of-dawnwalker"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "the-blood-of-dawnwalker"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1147886/eto-neigrabelno-polzovateli-steam-raskritikovali-vampirskuyu-rolevuyu-igru-the-blood-of-dawnwalker-za-otsutstvie-optimizatsii-i-perevoda-na-russkiy",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-03",
+  "excerpt": "The Blood of Dawnwalker released on 2026-09-03; Steam users criticized the game for lack of optimization and missing Russian translation."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

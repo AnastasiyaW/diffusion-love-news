@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-818c5aa2cb",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+ "summary": "DeepMind blog announced Gemma 4 12B, a unified encoder-free multimodal model, on 2026-06-09.",
+ "research_notes": "",
+ "project": {
+  "name": "Gemma 4 12B",
+  "family_slug": "gemma-4-12b",
+  "family_display": "Gemma 4 12B",
+  "model_slug": "gemma-4-12b",
+  "model_display": "Gemma 4 12B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Gemma 4 12B",
+  "family:gemma-4-12b",
+  "gemma",
+  "gemma-4-12b",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gemma-4-12b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+   "host": "deepmind.google",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-06-09",
+  "excerpt": "DeepMind blog announced Gemma 4 12B, a unified encoder-free multimodal model, on 2026-06-09."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-ac5a060bb8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Ozon, Wildberries and Yandex Market began accepting digital rubles following the Bank of Russia's widespread circulation of the digital ruble on 2026-09-02.",
+ "summary": "Ozon, Wildberries and Yandex Market began accepting digital rubles following the Bank of Russia's widespread circulation of the digital ruble on 2026-09-02.",
+ "research_notes": "",
+ "project": {
+  "name": "Ozon",
+  "family_slug": "ozon",
+  "family_display": "Ozon",
+  "model_slug": "ozon",
+  "model_display": "Ozon",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Ozon",
+  "digital-ruble-adoption",
+  "family:ozon",
+  "misc",
+  "ozon"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ozon"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://3dnews.ru/1147838/ozon-wildberries-i-yandeks-market-nachali-prinimat-tsifrovie-rubli",
+   "host": "3dnews.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T21:06:08Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-02",
+  "excerpt": "Ozon, Wildberries and Yandex Market began accepting digital rubles following the Bank of Russia's widespread circulation of the digital ruble on 2026-09-02."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T21:06:08Z",
+  "classified_at": "2026-09-05T21:06:08Z",
+  "enriched_at": "2026-09-05T21:06:08Z",
+  "verified_at": "2026-09-05T21:06:08Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}
