@@ -10,7 +10,7 @@
  "project": {
   "name": "Krea2 TextFusion Refusal-Reduction LoRA",
   "family_slug": "krea2-textfusion-refusal-reduction-lora",
-  "family_display": "Krea2 TextFusion Refusal Reduction LoRA",
+  "family_display": "Krea2 TextFusion Refusal-Reduction LoRA",
   "model_slug": "krea2-textfusion-refusal-reduction-lora",
   "model_display": "Krea2 TextFusion Refusal-Reduction LoRA",
   "version": null,

@@ -10,7 +10,7 @@
  "project": {
   "name": "Omni-Diffusion",
   "family_slug": "omni-diffusion",
-  "family_display": "Omni Diffusion",
+  "family_display": "Omni-Diffusion",
   "model_slug": "omni-diffusion",
   "model_display": "Omni-Diffusion",
   "version": null,

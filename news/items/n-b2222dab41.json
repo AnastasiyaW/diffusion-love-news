@@ -10,7 +10,7 @@
  "project": {
   "name": "diffusiongemma-26B-A4B-it-NVFP4",
   "family_slug": "diffusiongemma-26b-a4b-it-nvfp4",
-  "family_display": "diffusiongemma 26B A4B it NVFP4",
+  "family_display": "diffusiongemma-26B-A4B-it-NVFP4",
   "model_slug": "diffusiongemma-26b-a4b-it-nvfp4",
   "model_display": "diffusiongemma-26B-A4B-it-NVFP4",
   "version": null,

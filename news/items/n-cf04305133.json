@@ -10,7 +10,7 @@
  "project": {
   "name": "Boogu-Image-Edit GGUF",
   "family_slug": "boogu-image-edit-gguf",
-  "family_display": "Boogu Image Edit GGUF",
+  "family_display": "Boogu-Image-Edit GGUF",
   "model_slug": "boogu-image-edit-gguf",
   "model_display": "Boogu-Image-Edit GGUF",
   "version": null,

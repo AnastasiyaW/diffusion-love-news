@@ -10,7 +10,7 @@
  "project": {
   "name": "LFM2.5-VL-3B",
   "family_slug": "lfm2-5-vl-3b",
-  "family_display": "LFM2.5 VL 3B",
+  "family_display": "LFM2.5-VL-3B",
   "model_slug": "lfm2-5-vl-3b",
   "model_display": "LFM2.5-VL-3B",
   "version": null,

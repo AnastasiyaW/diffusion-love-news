@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwythos-27B-v1",
   "family_slug": "qwythos-27b-v1",
-  "family_display": "Qwythos 27B v1",
+  "family_display": "Qwythos-27B-v1",
   "model_slug": "qwythos-27b-v1",
   "model_display": "Qwythos-27B-v1",
   "version": null,

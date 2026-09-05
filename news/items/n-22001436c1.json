@@ -10,7 +10,7 @@
  "project": {
   "name": "Image-to-LoRA",
   "family_slug": "image-to-lora",
-  "family_display": "Image to LoRA",
+  "family_display": "Image-to-LoRA",
   "model_slug": "image-to-lora",
   "model_display": "Image-to-LoRA",
   "version": null,

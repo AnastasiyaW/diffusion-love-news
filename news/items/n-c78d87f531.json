@@ -10,7 +10,7 @@
  "project": {
   "name": "Z-Image-SAM-ControlNet",
   "family_slug": "z-image",
-  "family_display": "Z Image",
+  "family_display": "Z-Image",
   "model_slug": "z-image",
   "model_display": "Z-Image",
   "version": null,

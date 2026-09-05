@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
   "family_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
-  "family_display": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+  "family_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
   "model_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
   "model_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
   "version": null,

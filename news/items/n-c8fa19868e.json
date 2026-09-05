@@ -10,7 +10,7 @@
  "project": {
   "name": "hf-mount",
   "family_slug": "hf-mount",
-  "family_display": "hf mount",
+  "family_display": "hf-mount",
   "model_slug": "hf-mount",
   "model_display": "hf-mount",
   "version": null,

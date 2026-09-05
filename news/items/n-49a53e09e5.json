@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.8-27B-Uncensored-MLX",
   "family_slug": "qwen3-8-27b-uncensored-mlx",
-  "family_display": "Qwen3.8 27B Uncensored MLX",
+  "family_display": "Qwen3.8-27B-Uncensored-MLX",
   "model_slug": "qwen3-8-27b-uncensored-mlx",
   "model_display": "Qwen3.8-27B-Uncensored-MLX",
   "version": null,

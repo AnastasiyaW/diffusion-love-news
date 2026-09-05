@@ -10,7 +10,7 @@
  "project": {
   "name": "Latent-to-4D",
   "family_slug": "latent-to-4d",
-  "family_display": "Latent to 4D",
+  "family_display": "Latent-to-4D",
   "model_slug": "latent-to-4d",
   "model_display": "Latent-to-4D",
   "version": null,

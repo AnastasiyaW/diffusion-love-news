@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-Krea2TextEncoder",
   "family_slug": "comfyui-krea2textencoder",
-  "family_display": "ComfyUI Krea2TextEncoder",
+  "family_display": "ComfyUI-Krea2TextEncoder",
   "model_slug": "comfyui-krea2textencoder",
   "model_display": "ComfyUI-Krea2TextEncoder",
   "version": null,

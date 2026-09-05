@@ -10,7 +10,7 @@
  "project": {
   "name": "FlashMemory-Deepseek-V4",
   "family_slug": "flashmemory-deepseek-v4",
-  "family_display": "FlashMemory Deepseek V4",
+  "family_display": "FlashMemory-Deepseek-V4",
   "model_slug": "flashmemory-deepseek-v4",
   "model_display": "FlashMemory-Deepseek-V4",
   "version": null,

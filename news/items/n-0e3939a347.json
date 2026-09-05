@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3-ForcedAligner-0.6B-hf",
   "family_slug": "qwen3-forcedaligner-0-6b-hf",
-  "family_display": "Qwen3 ForcedAligner 0.6B hf",
+  "family_display": "Qwen3-ForcedAligner-0.6B-hf",
   "model_slug": "qwen3-forcedaligner-0-6b-hf",
   "model_display": "Qwen3-ForcedAligner-0.6B-hf",
   "version": null,

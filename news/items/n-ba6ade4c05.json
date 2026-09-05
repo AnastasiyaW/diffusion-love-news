@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
   "family_slug": "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf",
-  "family_display": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled GGUF",
+  "family_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
   "model_slug": "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf",
   "model_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
   "version": null,

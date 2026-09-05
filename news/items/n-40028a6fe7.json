@@ -10,7 +10,7 @@
  "project": {
   "name": "Raon-OpenTTS",
   "family_slug": "raon-opentts",
-  "family_display": "Raon OpenTTS",
+  "family_display": "Raon-OpenTTS",
   "model_slug": "raon-opentts",
   "model_display": "Raon-OpenTTS",
   "version": null,

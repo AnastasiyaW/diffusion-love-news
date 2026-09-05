@@ -10,7 +10,7 @@
  "project": {
   "name": "GPT-5.5",
   "family_slug": "gpt-5-5",
-  "family_display": "GPT 5.5",
+  "family_display": "GPT-5.5",
   "model_slug": "gpt-5-5",
   "model_display": "GPT-5.5",
   "version": null,

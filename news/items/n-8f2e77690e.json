@@ -10,7 +10,7 @@
  "project": {
   "name": "AVA-Encoder",
   "family_slug": "ava-encoder",
-  "family_display": "AVA Encoder",
+  "family_display": "AVA-Encoder",
   "model_slug": "ava-encoder",
   "model_display": "AVA-Encoder",
   "version": null,

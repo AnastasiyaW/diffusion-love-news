@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen-Image-Flash",
   "family_slug": "qwen-image-flash",
-  "family_display": "Qwen Image Flash",
+  "family_display": "Qwen-Image-Flash",
   "model_slug": "qwen-image-flash",
   "model_display": "Qwen-Image-Flash",
   "version": null,

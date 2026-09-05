@@ -10,7 +10,7 @@
  "project": {
   "name": "girl-agent",
   "family_slug": "girl-agent",
-  "family_display": "girl agent",
+  "family_display": "girl-agent",
   "model_slug": "girl-agent",
   "model_display": "girl-agent",
   "version": null,

@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwythos-9B-Claude-Mythos-5",
   "family_slug": "qwythos-9b-claude-mythos-5",
-  "family_display": "Qwythos 9B Claude Mythos 5",
+  "family_display": "Qwythos-9B-Claude-Mythos-5",
   "model_slug": "qwythos-9b-claude-mythos-5",
   "model_display": "Qwythos-9B-Claude-Mythos-5",
   "version": null,

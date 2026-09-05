@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.6-34B-80L-Fable-5-Heretic",
   "family_slug": "qwen3-6-34b-80l-fable-5-heretic",
-  "family_display": "Qwen3.6 34B 80L Fable 5 Heretic",
+  "family_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
   "model_slug": "qwen3-6-34b-80l-fable-5-heretic",
   "model_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
   "version": null,

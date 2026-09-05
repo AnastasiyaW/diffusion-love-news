@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
   "family_slug": "qwen3-8-27b-uncensored",
-  "family_display": "Qwen3.8 27B Uncensored",
+  "family_display": "Qwen3.8-27B-Uncensored",
   "model_slug": "qwen3-8-27b-uncensored",
   "model_display": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
   "version": null,

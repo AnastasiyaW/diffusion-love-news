@@ -10,7 +10,7 @@
  "project": {
   "name": "CARLA-Air",
   "family_slug": "carla-air",
-  "family_display": "CARLA Air",
+  "family_display": "CARLA-Air",
   "model_slug": "carla-air",
   "model_display": "CARLA-Air",
   "version": null,

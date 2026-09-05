@@ -10,7 +10,7 @@
  "project": {
   "name": "video_to_world",
   "family_slug": "video-to-world",
-  "family_display": "video to world",
+  "family_display": "video_to_world",
   "model_slug": "video-to-world",
   "model_display": "video_to_world",
   "version": null,

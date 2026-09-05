@@ -10,7 +10,7 @@
  "project": {
   "name": "image_caption_utility",
   "family_slug": "image-caption-utility",
-  "family_display": "image caption utility",
+  "family_display": "image_caption_utility",
   "model_slug": "image-caption-utility",
   "model_display": "image_caption_utility",
   "version": null,

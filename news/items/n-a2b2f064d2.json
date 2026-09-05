@@ -10,7 +10,7 @@
  "project": {
   "name": "CLI-Anything",
   "family_slug": "cli-anything",
-  "family_display": "CLI Anything",
+  "family_display": "CLI-Anything",
   "model_slug": "cli-anything",
   "model_display": "CLI-Anything",
   "version": null,

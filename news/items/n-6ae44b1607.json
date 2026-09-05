@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-PuLID-Flux2",
   "family_slug": "comfyui-pulid-flux2",
-  "family_display": "ComfyUI PuLID Flux2",
+  "family_display": "ComfyUI-PuLID-Flux2",
   "model_slug": "comfyui-pulid-flux2",
   "model_display": "ComfyUI-PuLID-Flux2",
   "version": null,

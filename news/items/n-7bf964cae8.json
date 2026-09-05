@@ -10,7 +10,7 @@
  "project": {
   "name": "GLM-5.2-Vision-NVFP4",
   "family_slug": "glm-5-2-vision",
-  "family_display": "GLM 5.2 Vision",
+  "family_display": "GLM-5.2-Vision",
   "model_slug": "glm-5-2-vision",
   "model_display": "GLM-5.2-Vision-NVFP4",
   "version": null,

@@ -10,7 +10,7 @@
  "project": {
   "name": "GLM-5.2-GGUF",
   "family_slug": "glm-5-2-gguf",
-  "family_display": "GLM 5.2 GGUF",
+  "family_display": "GLM-5.2-GGUF",
   "model_slug": "glm-5-2-gguf",
   "model_display": "GLM-5.2-GGUF",
   "version": null,

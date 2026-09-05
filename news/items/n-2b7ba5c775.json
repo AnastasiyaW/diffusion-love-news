@@ -10,7 +10,7 @@
  "project": {
   "name": "OmniVideo-7B_Qwen2.5-Omni",
   "family_slug": "omnivideo-7b-qwen2-5-omni",
-  "family_display": "OmniVideo 7B Qwen2.5 Omni",
+  "family_display": "OmniVideo-7B_Qwen2.5-Omni",
   "model_slug": "omnivideo-7b-qwen2-5-omni",
   "model_display": "OmniVideo-7B_Qwen2.5-Omni",
   "version": null,

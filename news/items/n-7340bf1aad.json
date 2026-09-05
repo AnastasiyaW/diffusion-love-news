@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-PixelDriftFix",
   "family_slug": "comfyui-pixeldriftfix",
-  "family_display": "ComfyUI PixelDriftFix",
+  "family_display": "ComfyUI-PixelDriftFix",
   "model_slug": "comfyui-pixeldriftfix",
   "model_display": "ComfyUI-PixelDriftFix",
   "version": null,

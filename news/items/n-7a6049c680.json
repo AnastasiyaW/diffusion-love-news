@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-7a6049c680",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+ "summary": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference.",
+ "research_notes": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference.",
+ "project": {
+  "name": "OpenBot",
+  "family_slug": "openbot",
+  "family_display": "OpenBot",
+  "model_slug": "openbot",
+  "model_display": "OpenBot",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenBot",
+  "family:openbot",
+  "misc",
+  "openbot"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "openbot"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/CopilotKit/openbot",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T11:37:43Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-08-22",
+  "excerpt": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T11:37:43Z",
+  "classified_at": "2026-09-05T11:37:43Z",
+  "enriched_at": "2026-09-05T11:37:43Z",
+  "verified_at": "2026-09-05T11:37:43Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

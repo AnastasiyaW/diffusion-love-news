@@ -10,7 +10,7 @@
  "project": {
   "name": "comfyui-skill-public",
   "family_slug": "comfyui-skill-public",
-  "family_display": "comfyui skill public",
+  "family_display": "comfyui-skill-public",
   "model_slug": "comfyui-skill-public",
   "model_display": "comfyui-skill-public",
   "version": null,

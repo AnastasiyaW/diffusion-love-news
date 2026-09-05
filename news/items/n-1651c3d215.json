@@ -10,7 +10,7 @@
  "project": {
   "name": "jina-embeddings-v5-omni",
   "family_slug": "jina-embeddings-v5-omni",
-  "family_display": "jina embeddings v5 omni",
+  "family_display": "jina-embeddings-v5-omni",
   "model_slug": "jina-embeddings-v5-omni",
   "model_display": "jina-embeddings-v5-omni",
   "version": null,

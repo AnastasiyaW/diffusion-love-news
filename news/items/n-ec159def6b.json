@@ -10,7 +10,7 @@
  "project": {
   "name": "ID-LoRA",
   "family_slug": "id-lora",
-  "family_display": "ID LoRA",
+  "family_display": "ID-LoRA",
   "model_slug": "id-lora",
   "model_display": "ID-LoRA",
   "version": null,

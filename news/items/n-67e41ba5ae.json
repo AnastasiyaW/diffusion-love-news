@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI StreetView-Loader",
   "family_slug": "comfyui-streetview-loader",
-  "family_display": "ComfyUI StreetView Loader",
+  "family_display": "ComfyUI StreetView-Loader",
   "model_slug": "comfyui-streetview-loader",
   "model_display": "ComfyUI StreetView-Loader",
   "version": null,

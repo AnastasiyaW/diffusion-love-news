@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-DaVinci-MagiHuman",
   "family_slug": "comfyui-davinci-magihuman",
-  "family_display": "ComfyUI DaVinci MagiHuman",
+  "family_display": "ComfyUI-DaVinci-MagiHuman",
   "model_slug": "comfyui-davinci-magihuman",
   "model_display": "ComfyUI-DaVinci-MagiHuman",
   "version": null,

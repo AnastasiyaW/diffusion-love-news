@@ -395,6 +395,24 @@
     "has_video": false
   },
   {
+    "id": "n-7a6049c680",
+    "date": "2026-08-22",
+    "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openbot",
+    "version": null,
+    "tags": [
+      "OpenBot",
+      "family:openbot",
+      "misc",
+      "openbot"
+    ],
+    "primary_link": "https://github.com/CopilotKit/openbot",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-32a7d157bd",
     "date": "2026-08-22",
     "title": "Hugging Face repository linked for Qwen3.8-27B-Uncensored HauhauCS Aggressive MTP GGUF",
@@ -15698,6 +15716,24 @@
       "realrestorer"
     ],
     "primary_link": "https://yfyang007.github.io/RealRestorer",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8ef1289f87",
+    "date": "2026-03-27",
+    "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "ace-studio",
+    "version": null,
+    "tags": [
+      "ACE Studio Video Composer",
+      "ace-studio",
+      "family:ace-studio",
+      "misc"
+    ],
+    "primary_link": "https://acestudio.ai/",
     "has_image": false,
     "has_video": false
   },

@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwopus3.6-27B-Coder-MTP",
   "family_slug": "qwopus3-6-27b-coder-mtp",
-  "family_display": "Qwopus3.6 27B Coder MTP",
+  "family_display": "Qwopus3.6-27B-Coder-MTP",
   "model_slug": "qwopus3-6-27b-coder-mtp",
   "model_display": "Qwopus3.6-27B-Coder-MTP",
   "version": null,

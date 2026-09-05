@@ -10,7 +10,7 @@
  "project": {
   "name": "MiniMax-H3 Turbo LoRA",
   "family_slug": "minimax-h3-turbo-lora",
-  "family_display": "MiniMax H3 Turbo LoRA",
+  "family_display": "MiniMax-H3 Turbo LoRA",
   "model_slug": "minimax-h3-turbo-lora",
   "model_display": "MiniMax-H3 Turbo LoRA",
   "version": null,

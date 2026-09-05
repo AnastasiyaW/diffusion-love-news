@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.8-Max",
   "family_slug": "qwen3-8-max",
-  "family_display": "Qwen3.8 Max",
+  "family_display": "Qwen3.8-Max",
   "model_slug": "qwen3-8-max",
   "model_display": "Qwen3.8-Max",
   "version": null,

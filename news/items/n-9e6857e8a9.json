@@ -10,7 +10,7 @@
  "project": {
   "name": "ideogram-4-GGUF",
   "family_slug": "ideogram-4-gguf",
-  "family_display": "ideogram 4 GGUF",
+  "family_display": "ideogram-4-GGUF",
   "model_slug": "ideogram-4-gguf",
   "model_display": "ideogram-4-GGUF",
   "version": null,

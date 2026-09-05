@@ -10,7 +10,7 @@
  "project": {
   "name": "Flux2-Klein-9B-Consistency",
   "family_slug": "flux2-klein-9b-consistency",
-  "family_display": "Flux2 Klein 9B Consistency",
+  "family_display": "Flux2-Klein-9B-Consistency",
   "model_slug": "flux2-klein-9b-consistency",
   "model_display": "Flux2-Klein-9B-Consistency",
   "version": null,

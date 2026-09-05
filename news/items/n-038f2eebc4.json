@@ -10,7 +10,7 @@
  "project": {
   "name": "Video-DeepResearch",
   "family_slug": "video-deepresearch",
-  "family_display": "Video DeepResearch",
+  "family_display": "Video-DeepResearch",
   "model_slug": "video-deepresearch",
   "model_display": "Video-DeepResearch",
   "version": null,

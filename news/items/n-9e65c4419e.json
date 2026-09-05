@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen-Video-Edit",
   "family_slug": "qwen-video-edit",
-  "family_display": "Qwen Video Edit",
+  "family_display": "Qwen-Video-Edit",
   "model_slug": "qwen-video-edit",
   "model_display": "Qwen-Video-Edit",
   "version": null,

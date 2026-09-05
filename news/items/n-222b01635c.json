@@ -10,7 +10,7 @@
  "project": {
   "name": "LTX-2.3-GGUF",
   "family_slug": "ltx-2-3-gguf",
-  "family_display": "LTX 2.3 GGUF",
+  "family_display": "LTX-2.3-GGUF",
   "model_slug": "ltx-2-3-gguf",
   "model_display": "LTX-2.3-GGUF",
   "version": null,

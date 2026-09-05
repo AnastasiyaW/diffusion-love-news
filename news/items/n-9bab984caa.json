@@ -10,7 +10,7 @@
  "project": {
   "name": "SANA-Streaming",
   "family_slug": "sana-streaming",
-  "family_display": "SANA Streaming",
+  "family_display": "SANA-Streaming",
   "model_slug": "sana-streaming",
   "model_display": "SANA-Streaming",
   "version": null,

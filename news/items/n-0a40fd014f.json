@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-MiniMaxH3_LatentUpscaler",
   "family_slug": "comfyui-minimaxh3-latentupscaler",
-  "family_display": "ComfyUI MiniMaxH3 LatentUpscaler",
+  "family_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
   "model_slug": "comfyui-minimaxh3-latentupscaler",
   "model_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
   "version": null,

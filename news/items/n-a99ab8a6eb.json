@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.8-Flash-Next",
   "family_slug": "qwen3-8-flash-next",
-  "family_display": "Qwen3.8 Flash Next",
+  "family_display": "Qwen3.8-Flash-Next",
   "model_slug": "qwen3-8-flash-next",
   "model_display": "Qwen3.8-Flash-Next",
   "version": null,

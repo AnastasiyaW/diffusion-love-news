@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3-TTS",
   "family_slug": "qwen3-tts",
-  "family_display": "Qwen3 TTS",
+  "family_display": "Qwen3-TTS",
   "model_slug": "qwen3-tts",
   "model_display": "Qwen3-TTS",
   "version": null,

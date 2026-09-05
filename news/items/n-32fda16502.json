@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen-MM-Plugins",
   "family_slug": "qwen-mm-plugins",
-  "family_display": "Qwen MM Plugins",
+  "family_display": "Qwen-MM-Plugins",
   "model_slug": "qwen-mm-plugins",
   "model_display": "Qwen-MM-Plugins",
   "version": null,

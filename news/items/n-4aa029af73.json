@@ -10,7 +10,7 @@
  "project": {
   "name": "LMX-Omni-52B-Halo",
   "family_slug": "lmx-omni-52b-halo",
-  "family_display": "LMX Omni 52B Halo",
+  "family_display": "LMX-Omni-52B-Halo",
   "model_slug": "lmx-omni-52b-halo",
   "model_display": "LMX-Omni-52B-Halo",
   "version": null,

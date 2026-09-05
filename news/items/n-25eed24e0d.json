@@ -10,7 +10,7 @@
  "project": {
   "name": "Windows-Copilot-API",
   "family_slug": "windows-copilot-api",
-  "family_display": "Windows Copilot API",
+  "family_display": "Windows-Copilot-API",
   "model_slug": "windows-copilot-api",
   "model_display": "Windows-Copilot-API",
   "version": null,

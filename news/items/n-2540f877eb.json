@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwopus3.5-9B-Coder",
   "family_slug": "qwopus3-5-9b-coder",
-  "family_display": "Qwopus3.5 9B Coder",
+  "family_display": "Qwopus3.5-9B-Coder",
   "model_slug": "qwopus3-5-9b-coder",
   "model_display": "Qwopus3.5-9B-Coder",
   "version": null,

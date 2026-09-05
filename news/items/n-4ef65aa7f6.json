@@ -10,7 +10,7 @@
  "project": {
   "name": "POCKET-35B-GGUF",
   "family_slug": "pocket-35b-gguf",
-  "family_display": "POCKET 35B GGUF",
+  "family_display": "POCKET-35B-GGUF",
   "model_slug": "pocket-35b-gguf",
   "model_display": "POCKET-35B-GGUF",
   "version": null,

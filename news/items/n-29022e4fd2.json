@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.8-27B-Cold-Fusion",
   "family_slug": "qwen3-8-27b-cold-fusion",
-  "family_display": "Qwen3.8 27B Cold Fusion",
+  "family_display": "Qwen3.8-27B-Cold-Fusion",
   "model_slug": "qwen3-8-27b-cold-fusion",
   "model_display": "Qwen3.8-27B-Cold-Fusion",
   "version": null,

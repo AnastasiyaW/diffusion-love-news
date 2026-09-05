@@ -10,7 +10,7 @@
  "project": {
   "name": "JoyAI-VL-Interaction",
   "family_slug": "joyai-vl-interaction",
-  "family_display": "JoyAI VL Interaction",
+  "family_display": "JoyAI-VL-Interaction",
   "model_slug": "joyai-vl-interaction",
   "model_display": "JoyAI-VL-Interaction",
   "version": null,

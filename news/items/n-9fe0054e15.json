@@ -10,7 +10,7 @@
  "project": {
   "name": "VibeVoice-ASR-BitNet",
   "family_slug": "vibevoice-asr-bitnet",
-  "family_display": "VibeVoice ASR BitNet",
+  "family_display": "VibeVoice-ASR-BitNet",
   "model_slug": "vibevoice-asr-bitnet",
   "model_display": "VibeVoice-ASR-BitNet",
   "version": null,

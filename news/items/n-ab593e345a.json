@@ -10,7 +10,7 @@
  "project": {
   "name": "comfyui-lrw-nodes",
   "family_slug": "comfyui-lrw-nodes",
-  "family_display": "comfyui lrw nodes",
+  "family_display": "comfyui-lrw-nodes",
   "model_slug": "comfyui-lrw-nodes",
   "model_display": "comfyui-lrw-nodes",
   "version": null,

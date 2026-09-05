@@ -10,7 +10,7 @@
  "project": {
   "name": "GLM-OCR",
   "family_slug": "glm-ocr",
-  "family_display": "GLM OCR",
+  "family_display": "GLM-OCR",
   "model_slug": "glm-ocr",
   "model_display": "GLM-OCR",
   "version": null,

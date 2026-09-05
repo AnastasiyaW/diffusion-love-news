@@ -10,7 +10,7 @@
  "project": {
   "name": "ThinkingCap-Qwen3.6-27B",
   "family_slug": "thinkingcap-qwen3-6-27b",
-  "family_display": "ThinkingCap Qwen3.6 27B",
+  "family_display": "ThinkingCap-Qwen3.6-27B",
   "model_slug": "thinkingcap-qwen3-6-27b",
   "model_display": "ThinkingCap-Qwen3.6-27B",
   "version": null,

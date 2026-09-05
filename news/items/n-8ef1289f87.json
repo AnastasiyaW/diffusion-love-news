@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-8ef1289f87",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+ "summary": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material.",
+ "research_notes": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material.",
+ "project": {
+  "name": "ACE Studio Video Composer",
+  "family_slug": "ace-studio",
+  "family_display": "ACE Studio",
+  "model_slug": "ace-studio",
+  "model_display": "ACE Studio Video Composer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "ACE Studio Video Composer",
+  "ace-studio",
+  "family:ace-studio",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "ace-studio"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://acestudio.ai/",
+   "host": "acestudio.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-05T11:37:43Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-03-27",
+  "excerpt": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-05T11:37:43Z",
+  "classified_at": "2026-09-05T11:37:43Z",
+  "enriched_at": "2026-09-05T11:37:43Z",
+  "verified_at": "2026-09-05T11:37:43Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -10,7 +10,7 @@
  "project": {
   "name": "Assistant_Pepe_32B",
   "family_slug": "assistant-pepe",
-  "family_display": "Assistant Pepe",
+  "family_display": "Assistant_Pepe",
   "model_slug": "assistant-pepe-32b",
   "model_display": "Assistant_Pepe_32B",
   "version": null,

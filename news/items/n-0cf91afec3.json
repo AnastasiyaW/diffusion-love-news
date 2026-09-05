@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen-Image 3.0",
   "family_slug": "qwen-image-3-0",
-  "family_display": "Qwen Image 3.0",
+  "family_display": "Qwen-Image 3.0",
   "model_slug": "qwen-image-3-0",
   "model_display": "Qwen-Image 3.0",
   "version": null,

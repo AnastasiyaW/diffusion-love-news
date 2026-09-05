@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI Sol-Attn",
   "family_slug": "comfyui-sol-attn",
-  "family_display": "ComfyUI Sol Attn",
+  "family_display": "ComfyUI Sol-Attn",
   "model_slug": "comfyui-sol-attn",
   "model_display": "ComfyUI Sol-Attn",
   "version": null,

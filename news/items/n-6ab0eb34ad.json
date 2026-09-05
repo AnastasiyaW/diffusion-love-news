@@ -10,7 +10,7 @@
  "project": {
   "name": "S3T-Former",
   "family_slug": "s3t-former",
-  "family_display": "S3T Former",
+  "family_display": "S3T-Former",
   "model_slug": "s3t-former",
   "model_display": "S3T-Former",
   "version": null,

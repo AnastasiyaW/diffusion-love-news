@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-MiniMax-H3-LongMedia",
   "family_slug": "comfyui-minimax-h3-longmedia",
-  "family_display": "ComfyUI MiniMax H3 LongMedia",
+  "family_display": "ComfyUI-MiniMax-H3-LongMedia",
   "model_slug": "comfyui-minimax-h3-longmedia",
   "model_display": "ComfyUI-MiniMax-H3-LongMedia",
   "version": null,

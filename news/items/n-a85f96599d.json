@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-Latent-Tiled-PiD",
   "family_slug": "comfyui-latent-tiled-pid",
-  "family_display": "ComfyUI Latent Tiled PiD",
+  "family_display": "ComfyUI-Latent-Tiled-PiD",
   "model_slug": "comfyui-latent-tiled-pid",
   "model_display": "ComfyUI-Latent-Tiled-PiD",
   "version": null,

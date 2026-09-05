@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
   "family_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
-  "family_display": "Qwen3.5 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking GGUF",
+  "family_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
   "model_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
   "model_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
   "version": null,

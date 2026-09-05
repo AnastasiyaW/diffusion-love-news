@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI-AsymFlow",
   "family_slug": "comfyui-asymflow",
-  "family_display": "ComfyUI AsymFlow",
+  "family_display": "ComfyUI-AsymFlow",
   "model_slug": "comfyui-asymflow",
   "model_display": "ComfyUI-AsymFlow",
   "version": null,

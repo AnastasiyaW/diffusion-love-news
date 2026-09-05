@@ -10,7 +10,7 @@
  "project": {
   "name": "MOSS-Transcribe-Diarize-0.9B",
   "family_slug": "moss-transcribe-diarize",
-  "family_display": "MOSS Transcribe Diarize",
+  "family_display": "MOSS-Transcribe-Diarize",
   "model_slug": "moss-transcribe-diarize",
   "model_display": "MOSS-Transcribe-Diarize-0.9B",
   "version": null,

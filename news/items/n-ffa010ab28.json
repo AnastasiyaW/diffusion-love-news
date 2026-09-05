@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI_StarNodes",
   "family_slug": "comfyui-starnodes",
-  "family_display": "ComfyUI StarNodes",
+  "family_display": "ComfyUI_StarNodes",
   "model_slug": "comfyui-starnodes",
   "model_display": "ComfyUI_StarNodes",
   "version": null,

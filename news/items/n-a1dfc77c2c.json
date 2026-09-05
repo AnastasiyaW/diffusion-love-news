@@ -10,7 +10,7 @@
  "project": {
   "name": "Qwen-Audio-3.0-TTS",
   "family_slug": "qwen-audio-3-0-tts",
-  "family_display": "Qwen Audio 3.0 TTS",
+  "family_display": "Qwen-Audio-3.0-TTS",
   "model_slug": "qwen-audio-3-0-tts",
   "model_display": "Qwen-Audio-3.0-TTS",
   "version": null,

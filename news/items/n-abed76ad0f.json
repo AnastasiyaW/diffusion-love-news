@@ -10,7 +10,7 @@
  "project": {
   "name": "DeepSeek-V4-Flash-Vision-Exp",
   "family_slug": "deepseek-v4-flash-vision-exp",
-  "family_display": "DeepSeek V4 Flash Vision Exp",
+  "family_display": "DeepSeek-V4-Flash-Vision-Exp",
   "model_slug": "deepseek-v4-flash-vision-exp",
   "model_display": "DeepSeek-V4-Flash-Vision-Exp",
   "version": null,

@@ -10,7 +10,7 @@
  "project": {
   "name": "SAM-MT",
   "family_slug": "sam-mt",
-  "family_display": "SAM MT",
+  "family_display": "SAM-MT",
   "model_slug": "sam-mt",
   "model_display": "SAM-MT",
   "version": null,

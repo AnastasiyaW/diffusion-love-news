@@ -10,7 +10,7 @@
  "project": {
   "name": "claude-video (watch)",
   "family_slug": "claude-video",
-  "family_display": "claude video",
+  "family_display": "claude-video",
   "model_slug": "claude-video",
   "model_display": "claude-video (watch)",
   "version": null,

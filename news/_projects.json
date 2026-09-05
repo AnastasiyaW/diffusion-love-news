@@ -98,10 +98,10 @@
   },
   "3dgs-ply-3dtiles-converter": {
     "family_slug": "3dgs-ply-3dtiles-converter",
-    "family_display": "3DGS PLY 3DTiles Converter",
+    "family_display": "3DGS-PLY-3DTiles-Converter",
     "family_display_variants": [
       {
-        "family_display": "3DGS PLY 3DTiles Converter",
+        "family_display": "3DGS-PLY-3DTiles-Converter",
         "first_seen": "2026-08-06",
         "last_seen": "2026-08-06",
         "news_ids": [
@@ -537,10 +537,10 @@
   },
   "abot-earth-0-5": {
     "family_slug": "abot-earth-0-5",
-    "family_display": "ABot Earth 0.5",
+    "family_display": "ABot-Earth 0.5",
     "family_display_variants": [
       {
-        "family_display": "ABot Earth 0.5",
+        "family_display": "ABot-Earth 0.5",
         "first_seen": "2026-06-10",
         "last_seen": "2026-06-10",
         "news_ids": [
@@ -658,10 +658,10 @@
   },
   "abot-world": {
     "family_slug": "abot-world",
-    "family_display": "ABot World",
+    "family_display": "ABot-World",
     "family_display_variants": [
       {
-        "family_display": "ABot World",
+        "family_display": "ABot-World",
         "first_seen": "2026-07-13",
         "last_seen": "2026-07-13",
         "news_ids": [
@@ -1251,6 +1251,102 @@
           "misc"
         ],
         "primary_link": "https://civitai.com/models/2453916",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": []
+  },
+  "ace-studio": {
+    "family_slug": "ace-studio",
+    "family_display": "ACE Studio",
+    "family_display_variants": [
+      {
+        "family_display": "ACE Studio",
+        "first_seen": "2026-03-27",
+        "last_seen": "2026-03-27",
+        "news_ids": [
+          "n-8ef1289f87"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-03-27",
+    "last_seen": "2026-03-27",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-8ef1289f87"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-03-27",
+        "news_id": "n-8ef1289f87",
+        "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+        "primary_link": "https://acestudio.ai/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "acestudio.ai",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://acestudio.ai/",
+        "is_primary": true,
+        "verified_at": "2026-09-05T11:37:43Z",
+        "news_ids": [
+          "n-8ef1289f87"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "news",
+        "date": "2026-03-27",
+        "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+        "summary": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material.",
+        "version": null,
+        "news_id": "n-8ef1289f87",
+        "primary_link": "https://acestudio.ai/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-8ef1289f87",
+        "date": "2026-03-27",
+        "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "ace-studio",
+        "version": null,
+        "tags": [
+          "ACE Studio Video Composer",
+          "ace-studio",
+          "family:ace-studio",
+          "misc"
+        ],
+        "primary_link": "https://acestudio.ai/",
         "has_image": false,
         "has_video": false
       }
@@ -1983,10 +2079,10 @@
   },
   "agents-a1": {
     "family_slug": "agents-a1",
-    "family_display": "Agents A1",
+    "family_display": "Agents-A1",
     "family_display_variants": [
       {
-        "family_display": "Agents A1",
+        "family_display": "Agents-A1",
         "first_seen": "2026-06-30",
         "last_seen": "2026-06-30",
         "news_ids": [
@@ -2877,10 +2973,10 @@
   },
   "anti-vocale": {
     "family_slug": "anti-vocale",
-    "family_display": "Anti Vocale",
+    "family_display": "Anti-Vocale",
     "family_display_variants": [
       {
-        "family_display": "Anti Vocale",
+        "family_display": "Anti-Vocale",
         "first_seen": "2026-06-29",
         "last_seen": "2026-06-29",
         "news_ids": [
@@ -4476,10 +4572,10 @@
   },
   "assistant-pepe": {
     "family_slug": "assistant-pepe",
-    "family_display": "Assistant Pepe",
+    "family_display": "Assistant_Pepe",
     "family_display_variants": [
       {
-        "family_display": "Assistant Pepe",
+        "family_display": "Assistant_Pepe",
         "first_seen": "2026-05-06",
         "last_seen": "2026-05-06",
         "news_ids": [
@@ -5214,10 +5310,10 @@
   },
   "audio-interaction": {
     "family_slug": "audio-interaction",
-    "family_display": "Audio Interaction",
+    "family_display": "Audio-Interaction",
     "family_display_variants": [
       {
-        "family_display": "Audio Interaction",
+        "family_display": "Audio-Interaction",
         "first_seen": "2026-06-05",
         "last_seen": "2026-06-05",
         "news_ids": [
@@ -5323,10 +5419,10 @@
   },
   "audio-omni": {
     "family_slug": "audio-omni",
-    "family_display": "Audio Omni",
+    "family_display": "Audio-Omni",
     "family_display_variants": [
       {
-        "family_display": "Audio Omni",
+        "family_display": "Audio-Omni",
         "first_seen": "2026-04-18",
         "last_seen": "2026-04-18",
         "news_ids": [
@@ -5464,10 +5560,10 @@
   },
   "audiox-turbo": {
     "family_slug": "audiox-turbo",
-    "family_display": "AudioX Turbo",
+    "family_display": "AudioX-Turbo",
     "family_display_variants": [
       {
-        "family_display": "AudioX Turbo",
+        "family_display": "AudioX-Turbo",
         "first_seen": "2026-06-19",
         "last_seen": "2026-06-19",
         "news_ids": [
@@ -5822,10 +5918,10 @@
   },
   "ava-encoder": {
     "family_slug": "ava-encoder",
-    "family_display": "AVA Encoder",
+    "family_display": "AVA-Encoder",
     "family_display_variants": [
       {
-        "family_display": "AVA Encoder",
+        "family_display": "AVA-Encoder",
         "first_seen": "2026-08-20",
         "last_seen": "2026-08-20",
         "news_ids": [
@@ -6250,10 +6346,10 @@
   },
   "awesome-russian-speech": {
     "family_slug": "awesome-russian-speech",
-    "family_display": "awesome russian speech",
+    "family_display": "awesome-russian-speech",
     "family_display_variants": [
       {
-        "family_display": "awesome russian speech",
+        "family_display": "awesome-russian-speech",
         "first_seen": "2026-04-30",
         "last_seen": "2026-04-30",
         "news_ids": [
@@ -7135,10 +7231,10 @@
   },
   "boogu-image": {
     "family_slug": "boogu-image",
-    "family_display": "Boogu Image",
+    "family_display": "Boogu-Image",
     "family_display_variants": [
       {
-        "family_display": "Boogu Image",
+        "family_display": "Boogu-Image",
         "first_seen": "2026-06-18",
         "last_seen": "2026-06-18",
         "news_ids": [
@@ -7292,10 +7388,10 @@
   },
   "boogu-image-edit-gguf": {
     "family_slug": "boogu-image-edit-gguf",
-    "family_display": "Boogu Image Edit GGUF",
+    "family_display": "Boogu-Image-Edit GGUF",
     "family_display_variants": [
       {
-        "family_display": "Boogu Image Edit GGUF",
+        "family_display": "Boogu-Image-Edit GGUF",
         "first_seen": "2026-06-19",
         "last_seen": "2026-06-19",
         "news_ids": [
@@ -8424,10 +8520,10 @@
   },
   "c-met": {
     "family_slug": "c-met",
-    "family_display": "C MET",
+    "family_display": "C-MET",
     "family_display_variants": [
       {
-        "family_display": "C MET",
+        "family_display": "C-MET",
         "first_seen": "2026-04-21",
         "last_seen": "2026-04-21",
         "news_ids": [
@@ -8814,10 +8910,10 @@
   },
   "camera-comfyui": {
     "family_slug": "camera-comfyui",
-    "family_display": "camera comfyUI",
+    "family_display": "camera-comfyUI",
     "family_display_variants": [
       {
-        "family_display": "camera comfyUI",
+        "family_display": "camera-comfyUI",
         "first_seen": "2026-04-12",
         "last_seen": "2026-04-12",
         "news_ids": [
@@ -9379,10 +9475,10 @@
   },
   "care-edit": {
     "family_slug": "care-edit",
-    "family_display": "CARE Edit",
+    "family_display": "CARE-Edit",
     "family_display_variants": [
       {
-        "family_display": "CARE Edit",
+        "family_display": "CARE-Edit",
         "first_seen": "2026-03-11",
         "last_seen": "2026-03-11",
         "news_ids": [
@@ -9488,10 +9584,10 @@
   },
   "carla-air": {
     "family_slug": "carla-air",
-    "family_display": "CARLA Air",
+    "family_display": "CARLA-Air",
     "family_display_variants": [
       {
-        "family_display": "CARLA Air",
+        "family_display": "CARLA-Air",
         "first_seen": "2026-04-03",
         "last_seen": "2026-04-03",
         "news_ids": [
@@ -10559,10 +10655,10 @@
   },
   "clarity-omr": {
     "family_slug": "clarity-omr",
-    "family_display": "Clarity OMR",
+    "family_display": "Clarity-OMR",
     "family_display_variants": [
       {
-        "family_display": "Clarity OMR",
+        "family_display": "Clarity-OMR",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -11409,10 +11505,10 @@
   },
   "claude-video": {
     "family_slug": "claude-video",
-    "family_display": "claude video",
+    "family_display": "claude-video",
     "family_display_variants": [
       {
-        "family_display": "claude video",
+        "family_display": "claude-video",
         "first_seen": "2026-07-27",
         "last_seen": "2026-07-27",
         "news_ids": [
@@ -11735,10 +11831,10 @@
   },
   "cli-anything": {
     "family_slug": "cli-anything",
-    "family_display": "CLI Anything",
+    "family_display": "CLI-Anything",
     "family_display_variants": [
       {
-        "family_display": "CLI Anything",
+        "family_display": "CLI-Anything",
         "first_seen": "2026-03-11",
         "last_seen": "2026-03-11",
         "news_ids": [
@@ -12958,10 +13054,10 @@
   },
   "comfyui-asymflow": {
     "family_slug": "comfyui-asymflow",
-    "family_display": "ComfyUI AsymFlow",
+    "family_display": "ComfyUI-AsymFlow",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI AsymFlow",
+        "family_display": "ComfyUI-AsymFlow",
         "first_seen": "2026-05-15",
         "last_seen": "2026-05-15",
         "news_ids": [
@@ -13158,10 +13254,10 @@
   },
   "comfyui-davinci-magihuman": {
     "family_slug": "comfyui-davinci-magihuman",
-    "family_display": "ComfyUI DaVinci MagiHuman",
+    "family_display": "ComfyUI-DaVinci-MagiHuman",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI DaVinci MagiHuman",
+        "family_display": "ComfyUI-DaVinci-MagiHuman",
         "first_seen": "2026-03-27",
         "last_seen": "2026-03-27",
         "news_ids": [
@@ -13613,10 +13709,10 @@
   },
   "comfyui-krea2textencoder": {
     "family_slug": "comfyui-krea2textencoder",
-    "family_display": "ComfyUI Krea2TextEncoder",
+    "family_display": "ComfyUI-Krea2TextEncoder",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI Krea2TextEncoder",
+        "family_display": "ComfyUI-Krea2TextEncoder",
         "first_seen": "2026-06-27",
         "last_seen": "2026-06-27",
         "news_ids": [
@@ -13806,10 +13902,10 @@
   },
   "comfyui-latent-tiled-pid": {
     "family_slug": "comfyui-latent-tiled-pid",
-    "family_display": "ComfyUI Latent Tiled PiD",
+    "family_display": "ComfyUI-Latent-Tiled-PiD",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI Latent Tiled PiD",
+        "family_display": "ComfyUI-Latent-Tiled-PiD",
         "first_seen": "2026-08-07",
         "last_seen": "2026-08-07",
         "news_ids": [
@@ -13902,10 +13998,10 @@
   },
   "comfyui-lrw-nodes": {
     "family_slug": "comfyui-lrw-nodes",
-    "family_display": "comfyui lrw nodes",
+    "family_display": "comfyui-lrw-nodes",
     "family_display_variants": [
       {
-        "family_display": "comfyui lrw nodes",
+        "family_display": "comfyui-lrw-nodes",
         "first_seen": "2026-06-09",
         "last_seen": "2026-06-09",
         "news_ids": [
@@ -14107,10 +14203,10 @@
   },
   "comfyui-minimax-h3-longmedia": {
     "family_slug": "comfyui-minimax-h3-longmedia",
-    "family_display": "ComfyUI MiniMax H3 LongMedia",
+    "family_display": "ComfyUI-MiniMax-H3-LongMedia",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI MiniMax H3 LongMedia",
+        "family_display": "ComfyUI-MiniMax-H3-LongMedia",
         "first_seen": "2026-08-14",
         "last_seen": "2026-08-14",
         "news_ids": [
@@ -14204,10 +14300,10 @@
   },
   "comfyui-minimaxh3-latentupscaler": {
     "family_slug": "comfyui-minimaxh3-latentupscaler",
-    "family_display": "ComfyUI MiniMaxH3 LatentUpscaler",
+    "family_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI MiniMaxH3 LatentUpscaler",
+        "family_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
         "first_seen": "2026-08-04",
         "last_seen": "2026-08-04",
         "news_ids": [
@@ -14999,10 +15095,10 @@
   },
   "comfyui-pixeldriftfix": {
     "family_slug": "comfyui-pixeldriftfix",
-    "family_display": "ComfyUI PixelDriftFix",
+    "family_display": "ComfyUI-PixelDriftFix",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI PixelDriftFix",
+        "family_display": "ComfyUI-PixelDriftFix",
         "first_seen": "2026-06-08",
         "last_seen": "2026-06-08",
         "news_ids": [
@@ -15096,10 +15192,10 @@
   },
   "comfyui-pulid-flux2": {
     "family_slug": "comfyui-pulid-flux2",
-    "family_display": "ComfyUI PuLID Flux2",
+    "family_display": "ComfyUI-PuLID-Flux2",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI PuLID Flux2",
+        "family_display": "ComfyUI-PuLID-Flux2",
         "first_seen": "2026-03-16",
         "last_seen": "2026-03-16",
         "news_ids": [
@@ -15570,10 +15666,10 @@
   },
   "comfyui-skill-public": {
     "family_slug": "comfyui-skill-public",
-    "family_display": "comfyui skill public",
+    "family_display": "comfyui-skill-public",
     "family_display_variants": [
       {
-        "family_display": "comfyui skill public",
+        "family_display": "comfyui-skill-public",
         "first_seen": "2026-05-14",
         "last_seen": "2026-05-14",
         "news_ids": [
@@ -15666,10 +15762,10 @@
   },
   "comfyui-sol-attn": {
     "family_slug": "comfyui-sol-attn",
-    "family_display": "ComfyUI Sol Attn",
+    "family_display": "ComfyUI Sol-Attn",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI Sol Attn",
+        "family_display": "ComfyUI Sol-Attn",
         "first_seen": "2026-08-07",
         "last_seen": "2026-08-07",
         "news_ids": [
@@ -15871,10 +15967,10 @@
   },
   "comfyui-starnodes": {
     "family_slug": "comfyui-starnodes",
-    "family_display": "ComfyUI StarNodes",
+    "family_display": "ComfyUI_StarNodes",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI StarNodes",
+        "family_display": "ComfyUI_StarNodes",
         "first_seen": "2026-07-18",
         "last_seen": "2026-07-18",
         "news_ids": [
@@ -15967,10 +16063,10 @@
   },
   "comfyui-streetview-loader": {
     "family_slug": "comfyui-streetview-loader",
-    "family_display": "ComfyUI StreetView Loader",
+    "family_display": "ComfyUI StreetView-Loader",
     "family_display_variants": [
       {
-        "family_display": "ComfyUI StreetView Loader",
+        "family_display": "ComfyUI StreetView-Loader",
         "first_seen": "2026-07-27",
         "last_seen": "2026-07-27",
         "news_ids": [
@@ -17307,10 +17403,10 @@
   },
   "covo-audio": {
     "family_slug": "covo-audio",
-    "family_display": "Covo Audio",
+    "family_display": "Covo-Audio",
     "family_display_variants": [
       {
-        "family_display": "Covo Audio",
+        "family_display": "Covo-Audio",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -17788,10 +17884,10 @@
   },
   "d-opsd": {
     "family_slug": "d-opsd",
-    "family_display": "d OPSD",
+    "family_display": "d-OPSD",
     "family_display_variants": [
       {
-        "family_display": "d OPSD",
+        "family_display": "d-OPSD",
         "first_seen": "2026-06-21",
         "last_seen": "2026-06-21",
         "news_ids": [
@@ -17896,10 +17992,10 @@
   },
   "da-flow": {
     "family_slug": "da-flow",
-    "family_display": "DA Flow",
+    "family_display": "DA-Flow",
     "family_display_variants": [
       {
-        "family_display": "DA Flow",
+        "family_display": "DA-Flow",
         "first_seen": "2026-03-26",
         "last_seen": "2026-03-26",
         "news_ids": [
@@ -18411,10 +18507,10 @@
   },
   "davinci-magihuman": {
     "family_slug": "davinci-magihuman",
-    "family_display": "daVinci MagiHuman",
+    "family_display": "daVinci-MagiHuman",
     "family_display_variants": [
       {
-        "family_display": "daVinci MagiHuman",
+        "family_display": "daVinci-MagiHuman",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -18846,10 +18942,10 @@
   },
   "deepseek-v4-flash-vision-exp": {
     "family_slug": "deepseek-v4-flash-vision-exp",
-    "family_display": "DeepSeek V4 Flash Vision Exp",
+    "family_display": "DeepSeek-V4-Flash-Vision-Exp",
     "family_display_variants": [
       {
-        "family_display": "DeepSeek V4 Flash Vision Exp",
+        "family_display": "DeepSeek-V4-Flash-Vision-Exp",
         "first_seen": "2026-08-21",
         "last_seen": "2026-08-21",
         "news_ids": [
@@ -19823,10 +19919,10 @@
   },
   "diffusiongemma-26b-a4b-it-nvfp4": {
     "family_slug": "diffusiongemma-26b-a4b-it-nvfp4",
-    "family_display": "diffusiongemma 26B A4B it NVFP4",
+    "family_display": "diffusiongemma-26B-A4B-it-NVFP4",
     "family_display_variants": [
       {
-        "family_display": "diffusiongemma 26B A4B it NVFP4",
+        "family_display": "diffusiongemma-26B-A4B-it-NVFP4",
         "first_seen": "2026-06-12",
         "last_seen": "2026-06-12",
         "news_ids": [
@@ -21323,10 +21419,10 @@
   },
   "dreamvideo-omni": {
     "family_slug": "dreamvideo-omni",
-    "family_display": "DreamVideo Omni",
+    "family_display": "DreamVideo-Omni",
     "family_display_variants": [
       {
-        "family_display": "DreamVideo Omni",
+        "family_display": "DreamVideo-Omni",
         "first_seen": "2026-03-15",
         "last_seen": "2026-03-15",
         "news_ids": [
@@ -22476,10 +22572,10 @@
   },
   "ernie-image": {
     "family_slug": "ernie-image",
-    "family_display": "ERNIE Image",
+    "family_display": "ERNIE-Image",
     "family_display_variants": [
       {
-        "family_display": "ERNIE Image",
+        "family_display": "ERNIE-Image",
         "first_seen": "2026-04-15",
         "last_seen": "2026-04-17",
         "news_ids": [
@@ -22971,10 +23067,10 @@
   },
   "evie-preview-4-5b": {
     "family_slug": "evie-preview-4-5b",
-    "family_display": "EVIE Preview 4.5B",
+    "family_display": "EVIE-Preview-4.5B",
     "family_display_variants": [
       {
-        "family_display": "EVIE Preview 4.5B",
+        "family_display": "EVIE-Preview-4.5B",
         "first_seen": "2026-08-18",
         "last_seen": "2026-08-18",
         "news_ids": [
@@ -23763,10 +23859,10 @@
   },
   "fast-foundationstereo": {
     "family_slug": "fast-foundationstereo",
-    "family_display": "Fast FoundationStereo",
+    "family_display": "Fast-FoundationStereo",
     "family_display_variants": [
       {
-        "family_display": "Fast FoundationStereo",
+        "family_display": "Fast-FoundationStereo",
         "first_seen": "2026-06-29",
         "last_seen": "2026-06-29",
         "news_ids": [
@@ -24668,10 +24764,10 @@
   },
   "flashmemory-deepseek-v4": {
     "family_slug": "flashmemory-deepseek-v4",
-    "family_display": "FlashMemory Deepseek V4",
+    "family_display": "FlashMemory-Deepseek-V4",
     "family_display_variants": [
       {
-        "family_display": "FlashMemory Deepseek V4",
+        "family_display": "FlashMemory-Deepseek-V4",
         "first_seen": "2026-06-15",
         "last_seen": "2026-06-15",
         "news_ids": [
@@ -26229,10 +26325,10 @@
   },
   "flux2-klein": {
     "family_slug": "flux2-klein",
-    "family_display": "Flux2 Klein",
+    "family_display": "Flux2-Klein",
     "family_display_variants": [
       {
-        "family_display": "Flux2 Klein",
+        "family_display": "Flux2-Klein",
         "first_seen": "2026-07-01",
         "last_seen": "2026-07-01",
         "news_ids": [
@@ -26350,10 +26446,10 @@
   },
   "flux2-klein-9b-consistency": {
     "family_slug": "flux2-klein-9b-consistency",
-    "family_display": "Flux2 Klein 9B Consistency",
+    "family_display": "Flux2-Klein-9B-Consistency",
     "family_display_variants": [
       {
-        "family_display": "Flux2 Klein 9B Consistency",
+        "family_display": "Flux2-Klein-9B-Consistency",
         "first_seen": "2026-03-13",
         "last_seen": "2026-03-13",
         "news_ids": [
@@ -26459,10 +26555,10 @@
   },
   "flux2-klein-9b-enhanced-details": {
     "family_slug": "flux2-klein-9b-enhanced-details",
-    "family_display": "Flux2 Klein 9B Enhanced Details",
+    "family_display": "Flux2-Klein-9B-Enhanced-Details",
     "family_display_variants": [
       {
-        "family_display": "Flux2 Klein 9B Enhanced Details",
+        "family_display": "Flux2-Klein-9B-Enhanced-Details",
         "first_seen": "2026-03-09",
         "last_seen": "2026-03-09",
         "news_ids": [
@@ -26911,10 +27007,10 @@
   },
   "fugu-ultra": {
     "family_slug": "fugu-ultra",
-    "family_display": "Fugu Ultra",
+    "family_display": "Fugu-Ultra",
     "family_display_variants": [
       {
-        "family_display": "Fugu Ultra",
+        "family_display": "Fugu-Ultra",
         "first_seen": "2026-07-24",
         "last_seen": "2026-07-24",
         "news_ids": [
@@ -27677,10 +27773,10 @@
   },
   "gelab-zero": {
     "family_slug": "gelab-zero",
-    "family_display": "GELab Zero",
+    "family_display": "GELab-Zero",
     "family_display_variants": [
       {
-        "family_display": "GELab Zero",
+        "family_display": "GELab-Zero",
         "first_seen": "2026-07-01",
         "last_seen": "2026-07-01",
         "news_ids": [
@@ -29158,10 +29254,10 @@
   },
   "gen-searcher": {
     "family_slug": "gen-searcher",
-    "family_display": "Gen Searcher",
+    "family_display": "Gen-Searcher",
     "family_display_variants": [
       {
-        "family_display": "Gen Searcher",
+        "family_display": "Gen-Searcher",
         "first_seen": "2026-04-18",
         "last_seen": "2026-04-18",
         "news_ids": [
@@ -29784,10 +29880,10 @@
   },
   "girl-agent": {
     "family_slug": "girl-agent",
-    "family_display": "girl agent",
+    "family_display": "girl-agent",
     "family_display_variants": [
       {
-        "family_display": "girl agent",
+        "family_display": "girl-agent",
         "first_seen": "2026-05-05",
         "last_seen": "2026-05-05",
         "news_ids": [
@@ -30287,10 +30383,10 @@
   },
   "glm-5-2": {
     "family_slug": "glm-5-2",
-    "family_display": "GLM 5.2",
+    "family_display": "GLM-5.2",
     "family_display_variants": [
       {
-        "family_display": "GLM 5.2",
+        "family_display": "GLM-5.2",
         "first_seen": "2026-06-14",
         "last_seen": "2026-06-14",
         "news_ids": [
@@ -30384,10 +30480,10 @@
   },
   "glm-5-2-gguf": {
     "family_slug": "glm-5-2-gguf",
-    "family_display": "GLM 5.2 GGUF",
+    "family_display": "GLM-5.2-GGUF",
     "family_display_variants": [
       {
-        "family_display": "GLM 5.2 GGUF",
+        "family_display": "GLM-5.2-GGUF",
         "first_seen": "2026-06-18",
         "last_seen": "2026-06-18",
         "news_ids": [
@@ -30481,10 +30577,10 @@
   },
   "glm-5-2-nvfp4": {
     "family_slug": "glm-5-2-nvfp4",
-    "family_display": "GLM 5.2 NVFP4",
+    "family_display": "GLM-5.2-NVFP4",
     "family_display_variants": [
       {
-        "family_display": "GLM 5.2 NVFP4",
+        "family_display": "GLM-5.2-NVFP4",
         "first_seen": "2026-06-26",
         "last_seen": "2026-06-26",
         "news_ids": [
@@ -30577,10 +30673,10 @@
   },
   "glm-5-2-vision": {
     "family_slug": "glm-5-2-vision",
-    "family_display": "GLM 5.2 Vision",
+    "family_display": "GLM-5.2-Vision",
     "family_display_variants": [
       {
-        "family_display": "GLM 5.2 Vision",
+        "family_display": "GLM-5.2-Vision",
         "first_seen": "2026-07-23",
         "last_seen": "2026-07-23",
         "news_ids": [
@@ -30674,10 +30770,10 @@
   },
   "glm-5-3-flash": {
     "family_slug": "glm-5-3-flash",
-    "family_display": "GLM 5.3 Flash",
+    "family_display": "GLM-5.3-Flash",
     "family_display_variants": [
       {
-        "family_display": "GLM 5.3 Flash",
+        "family_display": "GLM-5.3-Flash",
         "first_seen": "2026-08-26",
         "last_seen": "2026-08-26",
         "news_ids": [
@@ -30807,10 +30903,10 @@
   },
   "glm-ocr": {
     "family_slug": "glm-ocr",
-    "family_display": "GLM OCR",
+    "family_display": "GLM-OCR",
     "family_display_variants": [
       {
-        "family_display": "GLM OCR",
+        "family_display": "GLM-OCR",
         "first_seen": "2026-03-15",
         "last_seen": "2026-03-15",
         "news_ids": [
@@ -31488,10 +31584,10 @@
   },
   "gpt-5-5": {
     "family_slug": "gpt-5-5",
-    "family_display": "GPT 5.5",
+    "family_display": "GPT-5.5",
     "family_display_variants": [
       {
-        "family_display": "GPT 5.5",
+        "family_display": "GPT-5.5",
         "first_seen": "2026-04-23",
         "last_seen": "2026-04-23",
         "news_ids": [
@@ -31585,10 +31681,10 @@
   },
   "gpt-5-5-cyber": {
     "family_slug": "gpt-5-5-cyber",
-    "family_display": "GPT 5.5 Cyber",
+    "family_display": "GPT-5.5-Cyber",
     "family_display_variants": [
       {
-        "family_display": "GPT 5.5 Cyber",
+        "family_display": "GPT-5.5-Cyber",
         "first_seen": "2026-06-23",
         "last_seen": "2026-06-23",
         "news_ids": [
@@ -31681,10 +31777,10 @@
   },
   "gpt-5-6-sol": {
     "family_slug": "gpt-5-6-sol",
-    "family_display": "GPT 5.6 Sol",
+    "family_display": "GPT-5.6 Sol",
     "family_display_variants": [
       {
-        "family_display": "GPT 5.6 Sol",
+        "family_display": "GPT-5.6 Sol",
         "first_seen": "2026-06-30",
         "last_seen": "2026-06-30",
         "news_ids": [
@@ -33203,10 +33299,10 @@
   },
   "habitat-gs": {
     "family_slug": "habitat-gs",
-    "family_display": "Habitat GS",
+    "family_display": "Habitat-GS",
     "family_display_variants": [
       {
-        "family_display": "Habitat GS",
+        "family_display": "Habitat-GS",
         "first_seen": "2026-04-16",
         "last_seen": "2026-04-16",
         "news_ids": [
@@ -34981,10 +35077,10 @@
   },
   "hf-mount": {
     "family_slug": "hf-mount",
-    "family_display": "hf mount",
+    "family_display": "hf-mount",
     "family_display_variants": [
       {
-        "family_display": "hf mount",
+        "family_display": "hf-mount",
         "first_seen": "2026-03-25",
         "last_seen": "2026-03-25",
         "news_ids": [
@@ -35460,10 +35556,10 @@
   },
   "holi-spatial": {
     "family_slug": "holi-spatial",
-    "family_display": "Holi Spatial",
+    "family_display": "Holi-Spatial",
     "family_display_variants": [
       {
-        "family_display": "Holi Spatial",
+        "family_display": "Holi-Spatial",
         "first_seen": "2026-03-10",
         "last_seen": "2026-03-10",
         "news_ids": [
@@ -35894,10 +35990,10 @@
   },
   "huihui-gemma-4-12b-it-abliterated": {
     "family_slug": "huihui-gemma-4-12b-it-abliterated",
-    "family_display": "Huihui gemma 4 12B it abliterated",
+    "family_display": "Huihui-gemma-4-12B-it-abliterated",
     "family_display_variants": [
       {
-        "family_display": "Huihui gemma 4 12B it abliterated",
+        "family_display": "Huihui-gemma-4-12B-it-abliterated",
         "first_seen": "2026-06-07",
         "last_seen": "2026-06-07",
         "news_ids": [
@@ -35991,10 +36087,10 @@
   },
   "huihui-qwen3-8-27b-abliterated": {
     "family_slug": "huihui-qwen3-8-27b-abliterated",
-    "family_display": "Huihui Qwen3.8 27B abliterated",
+    "family_display": "Huihui-Qwen3.8-27B-abliterated",
     "family_display_variants": [
       {
-        "family_display": "Huihui Qwen3.8 27B abliterated",
+        "family_display": "Huihui-Qwen3.8-27B-abliterated",
         "first_seen": "2026-08-17",
         "last_seen": "2026-08-17",
         "news_ids": [
@@ -36563,10 +36659,10 @@
   },
   "hunyuan3d-buffalo-1-0": {
     "family_slug": "hunyuan3d-buffalo-1-0",
-    "family_display": "Hunyuan3D Buffalo 1.0",
+    "family_display": "Hunyuan3D-Buffalo 1.0",
     "family_display_variants": [
       {
-        "family_display": "Hunyuan3D Buffalo 1.0",
+        "family_display": "Hunyuan3D-Buffalo 1.0",
         "first_seen": "2026-08-10",
         "last_seen": "2026-08-10",
         "news_ids": [
@@ -36672,10 +36768,10 @@
   },
   "hunyuan3d-worldclaw": {
     "family_slug": "hunyuan3d-worldclaw",
-    "family_display": "Hunyuan3D WorldClaw",
+    "family_display": "Hunyuan3D-WorldClaw",
     "family_display_variants": [
       {
-        "family_display": "Hunyuan3D WorldClaw",
+        "family_display": "Hunyuan3D-WorldClaw",
         "first_seen": "2026-08-10",
         "last_seen": "2026-08-10",
         "news_ids": [
@@ -36881,10 +36977,10 @@
   },
   "hy-world": {
     "family_slug": "hy-world",
-    "family_display": "HY World",
+    "family_display": "HY-World",
     "family_display_variants": [
       {
-        "family_display": "HY World",
+        "family_display": "HY-World",
         "first_seen": "2026-04-16",
         "last_seen": "2026-04-16",
         "news_ids": [
@@ -37023,10 +37119,10 @@
   },
   "hy-wu": {
     "family_slug": "hy-wu",
-    "family_display": "HY WU",
+    "family_display": "HY-WU",
     "family_display_variants": [
       {
-        "family_display": "HY WU",
+        "family_display": "HY-WU",
         "first_seen": "2026-03-06",
         "last_seen": "2026-03-06",
         "news_ids": [
@@ -37695,10 +37791,10 @@
   },
   "id-lora": {
     "family_slug": "id-lora",
-    "family_display": "ID LoRA",
+    "family_display": "ID-LoRA",
     "family_display_variants": [
       {
-        "family_display": "ID LoRA",
+        "family_display": "ID-LoRA",
         "first_seen": "2026-03-15",
         "last_seen": "2026-03-15",
         "news_ids": [
@@ -37816,10 +37912,10 @@
   },
   "id-v2v": {
     "family_slug": "id-v2v",
-    "family_display": "ID V2V",
+    "family_display": "ID-V2V",
     "family_display_variants": [
       {
-        "family_display": "ID V2V",
+        "family_display": "ID-V2V",
         "first_seen": "2026-07-30",
         "last_seen": "2026-07-30",
         "news_ids": [
@@ -38156,10 +38252,10 @@
   },
   "ideogram-4-gguf": {
     "family_slug": "ideogram-4-gguf",
-    "family_display": "ideogram 4 GGUF",
+    "family_display": "ideogram-4-GGUF",
     "family_display_variants": [
       {
-        "family_display": "ideogram 4 GGUF",
+        "family_display": "ideogram-4-GGUF",
         "first_seen": "2026-06-11",
         "last_seen": "2026-06-11",
         "news_ids": [
@@ -38349,10 +38445,10 @@
   },
   "image-caption-utility": {
     "family_slug": "image-caption-utility",
-    "family_display": "image caption utility",
+    "family_display": "image_caption_utility",
     "family_display_variants": [
       {
-        "family_display": "image caption utility",
+        "family_display": "image_caption_utility",
         "first_seen": "2026-06-22",
         "last_seen": "2026-06-22",
         "news_ids": [
@@ -38445,10 +38541,10 @@
   },
   "image-to-lora": {
     "family_slug": "image-to-lora",
-    "family_display": "Image to LoRA",
+    "family_display": "Image-to-LoRA",
     "family_display_variants": [
       {
-        "family_display": "Image to LoRA",
+        "family_display": "Image-to-LoRA",
         "first_seen": "2026-06-17",
         "last_seen": "2026-06-17",
         "news_ids": [
@@ -39406,10 +39502,10 @@
   },
   "jina-embeddings-v5-omni": {
     "family_slug": "jina-embeddings-v5-omni",
-    "family_display": "jina embeddings v5 omni",
+    "family_display": "jina-embeddings-v5-omni",
     "family_display_variants": [
       {
-        "family_display": "jina embeddings v5 omni",
+        "family_display": "jina-embeddings-v5-omni",
         "first_seen": "2026-05-13",
         "last_seen": "2026-05-13",
         "news_ids": [
@@ -39537,10 +39633,10 @@
   },
   "joy-ltx-2-5-x-z-image": {
     "family_slug": "joy-ltx-2-5-x-z-image",
-    "family_display": "Joy LTX 2.5 x Z Image",
+    "family_display": "Joy-LTX 2.5 x Z-Image",
     "family_display_variants": [
       {
-        "family_display": "Joy LTX 2.5 x Z Image",
+        "family_display": "Joy-LTX 2.5 x Z-Image",
         "first_seen": "2026-08-25",
         "last_seen": "2026-08-25",
         "news_ids": [
@@ -39752,10 +39848,10 @@
   },
   "joyai-image": {
     "family_slug": "joyai-image",
-    "family_display": "JoyAI Image",
+    "family_display": "JoyAI-Image",
     "family_display_variants": [
       {
-        "family_display": "JoyAI Image",
+        "family_display": "JoyAI-Image",
         "first_seen": "2026-04-03",
         "last_seen": "2026-04-03",
         "news_ids": [
@@ -39871,10 +39967,10 @@
   },
   "joyai-video-edit": {
     "family_slug": "joyai-video-edit",
-    "family_display": "JoyAI Video Edit",
+    "family_display": "JoyAI-Video-Edit",
     "family_display_variants": [
       {
-        "family_display": "JoyAI Video Edit",
+        "family_display": "JoyAI-Video-Edit",
         "first_seen": "2026-08-06",
         "last_seen": "2026-08-06",
         "news_ids": [
@@ -39992,10 +40088,10 @@
   },
   "joyai-vl-interaction": {
     "family_slug": "joyai-vl-interaction",
-    "family_display": "JoyAI VL Interaction",
+    "family_display": "JoyAI-VL-Interaction",
     "family_display_variants": [
       {
-        "family_display": "JoyAI VL Interaction",
+        "family_display": "JoyAI-VL-Interaction",
         "first_seen": "2026-06-16",
         "last_seen": "2026-06-16",
         "news_ids": [
@@ -40961,10 +41057,10 @@
   },
   "knowact-guiclaw": {
     "family_slug": "knowact-guiclaw",
-    "family_display": "KnowAct GUIClaw",
+    "family_display": "KnowAct-GUIClaw",
     "family_display_variants": [
       {
-        "family_display": "KnowAct GUIClaw",
+        "family_display": "KnowAct-GUIClaw",
         "first_seen": "2026-07-18",
         "last_seen": "2026-07-18",
         "news_ids": [
@@ -41707,10 +41803,10 @@
   },
   "krea2-realism": {
     "family_slug": "krea2-realism",
-    "family_display": "Krea2 realism",
+    "family_display": "Krea2-realism",
     "family_display_variants": [
       {
-        "family_display": "Krea2 realism",
+        "family_display": "Krea2-realism",
         "first_seen": "2026-07-04",
         "last_seen": "2026-07-04",
         "news_ids": [
@@ -41816,10 +41912,10 @@
   },
   "krea2-textfusion-refusal-reduction-lora": {
     "family_slug": "krea2-textfusion-refusal-reduction-lora",
-    "family_display": "Krea2 TextFusion Refusal Reduction LoRA",
+    "family_display": "Krea2 TextFusion Refusal-Reduction LoRA",
     "family_display_variants": [
       {
-        "family_display": "Krea2 TextFusion Refusal Reduction LoRA",
+        "family_display": "Krea2 TextFusion Refusal-Reduction LoRA",
         "first_seen": "2026-07-15",
         "last_seen": "2026-07-15",
         "news_ids": [
@@ -42499,10 +42595,10 @@
   },
   "latent-to-4d": {
     "family_slug": "latent-to-4d",
-    "family_display": "Latent to 4D",
+    "family_display": "Latent-to-4D",
     "family_display_variants": [
       {
-        "family_display": "Latent to 4D",
+        "family_display": "Latent-to-4D",
         "first_seen": "2026-08-13",
         "last_seen": "2026-08-13",
         "news_ids": [
@@ -42960,10 +43056,10 @@
   },
   "ldf-vfi": {
     "family_slug": "ldf-vfi",
-    "family_display": "LDF VFI",
+    "family_display": "LDF-VFI",
     "family_display_variants": [
       {
-        "family_display": "LDF VFI",
+        "family_display": "LDF-VFI",
         "first_seen": "2026-05-10",
         "last_seen": "2026-05-10",
         "news_ids": [
@@ -43232,10 +43328,10 @@
   },
   "lfm2-5-2-6b": {
     "family_slug": "lfm2-5-2-6b",
-    "family_display": "LFM2.5 2.6B",
+    "family_display": "LFM2.5-2.6B",
     "family_display_variants": [
       {
-        "family_display": "LFM2.5 2.6B",
+        "family_display": "LFM2.5-2.6B",
         "first_seen": "2026-08-04",
         "last_seen": "2026-08-04",
         "news_ids": [
@@ -43377,10 +43473,10 @@
   },
   "lfm2-5-vl-3b": {
     "family_slug": "lfm2-5-vl-3b",
-    "family_display": "LFM2.5 VL 3B",
+    "family_display": "LFM2.5-VL-3B",
     "family_display_variants": [
       {
-        "family_display": "LFM2.5 VL 3B",
+        "family_display": "LFM2.5-VL-3B",
         "first_seen": "2026-08-15",
         "last_seen": "2026-08-15",
         "news_ids": [
@@ -43721,10 +43817,10 @@
   },
   "ling-3-0-flash": {
     "family_slug": "ling-3-0-flash",
-    "family_display": "Ling 3.0 flash",
+    "family_display": "Ling-3.0-flash",
     "family_display_variants": [
       {
-        "family_display": "Ling 3.0 flash",
+        "family_display": "Ling-3.0-flash",
         "first_seen": "2026-07-27",
         "last_seen": "2026-07-27",
         "news_ids": [
@@ -43818,10 +43914,10 @@
   },
   "lingbot-map": {
     "family_slug": "lingbot-map",
-    "family_display": "LingBot Map",
+    "family_display": "LingBot-Map",
     "family_display_variants": [
       {
-        "family_display": "LingBot Map",
+        "family_display": "LingBot-Map",
         "first_seen": "2026-04-17",
         "last_seen": "2026-04-17",
         "news_ids": [
@@ -43948,10 +44044,10 @@
   },
   "lingbot-video": {
     "family_slug": "lingbot-video",
-    "family_display": "LingBot Video",
+    "family_display": "LingBot-Video",
     "family_display_variants": [
       {
-        "family_display": "LingBot Video",
+        "family_display": "LingBot-Video",
         "first_seen": "2026-07-09",
         "last_seen": "2026-07-09",
         "news_ids": [
@@ -44761,10 +44857,10 @@
   },
   "lmx-omni-52b-halo": {
     "family_slug": "lmx-omni-52b-halo",
-    "family_display": "LMX Omni 52B Halo",
+    "family_display": "LMX-Omni-52B-Halo",
     "family_display_variants": [
       {
-        "family_display": "LMX Omni 52B Halo",
+        "family_display": "LMX-Omni-52B-Halo",
         "first_seen": "2026-06-12",
         "last_seen": "2026-06-12",
         "news_ids": [
@@ -45324,10 +45420,10 @@
   },
   "longcat-audiodit": {
     "family_slug": "longcat-audiodit",
-    "family_display": "LongCat AudioDiT",
+    "family_display": "LongCat-AudioDiT",
     "family_display_variants": [
       {
-        "family_display": "LongCat AudioDiT",
+        "family_display": "LongCat-AudioDiT",
         "first_seen": "2026-04-09",
         "last_seen": "2026-04-09",
         "news_ids": [
@@ -46818,10 +46914,10 @@
   },
   "ltx-2-3-black-magic-lora": {
     "family_slug": "ltx-2-3-black-magic-lora",
-    "family_display": "LTX 2.3 Black Magic LoRA",
+    "family_display": "LTX-2.3 Black Magic LoRA",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.3 Black Magic LoRA",
+        "family_display": "LTX-2.3 Black Magic LoRA",
         "first_seen": "2026-07-31",
         "last_seen": "2026-07-31",
         "news_ids": [
@@ -46915,10 +47011,10 @@
   },
   "ltx-2-3-gguf": {
     "family_slug": "ltx-2-3-gguf",
-    "family_display": "LTX 2.3 GGUF",
+    "family_display": "LTX-2.3-GGUF",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.3 GGUF",
+        "family_display": "LTX-2.3-GGUF",
         "first_seen": "2026-03-16",
         "last_seen": "2026-03-16",
         "news_ids": [
@@ -47024,10 +47120,10 @@
   },
   "ltx-2-3-ic-lora-cross-eyed": {
     "family_slug": "ltx-2-3-ic-lora-cross-eyed",
-    "family_display": "LTX 2.3 IC LoRA Cross Eyed",
+    "family_display": "LTX-2.3 IC-LoRA Cross-Eyed",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.3 IC LoRA Cross Eyed",
+        "family_display": "LTX-2.3 IC-LoRA Cross-Eyed",
         "first_seen": "2026-06-20",
         "last_seen": "2026-06-20",
         "news_ids": [
@@ -47121,10 +47217,10 @@
   },
   "ltx-2-3-ic-lora-ingredients": {
     "family_slug": "ltx-2-3-ic-lora-ingredients",
-    "family_display": "LTX 2.3 IC LoRA Ingredients",
+    "family_display": "LTX-2.3 IC-LoRA Ingredients",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.3 IC LoRA Ingredients",
+        "family_display": "LTX-2.3 IC-LoRA Ingredients",
         "first_seen": "2026-06-19",
         "last_seen": "2026-06-19",
         "news_ids": [
@@ -47218,10 +47314,10 @@
   },
   "ltx-2-3-inpaint-lora": {
     "family_slug": "ltx-2-3-inpaint-lora",
-    "family_display": "LTX 2.3 inpaint LoRA",
+    "family_display": "LTX-2.3 inpaint LoRA",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.3 inpaint LoRA",
+        "family_display": "LTX-2.3 inpaint LoRA",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -47327,10 +47423,10 @@
   },
   "ltx-2-5": {
     "family_slug": "ltx-2-5",
-    "family_display": "LTX 2.5",
+    "family_display": "LTX-2.5",
     "family_display_variants": [
       {
-        "family_display": "LTX 2.5",
+        "family_display": "LTX-2.5",
         "first_seen": "2026-08-11",
         "last_seen": "2026-08-11",
         "news_ids": [
@@ -47436,10 +47532,10 @@
   },
   "ltx-2-caption-tool": {
     "family_slug": "ltx-2-caption-tool",
-    "family_display": "LTX 2 Caption tool",
+    "family_display": "LTX-2 Caption tool",
     "family_display_variants": [
       {
-        "family_display": "LTX 2 Caption tool",
+        "family_display": "LTX-2 Caption tool",
         "first_seen": "2026-03-22",
         "last_seen": "2026-03-22",
         "news_ids": [
@@ -49137,10 +49233,10 @@
   },
   "mace-dance": {
     "family_slug": "mace-dance",
-    "family_display": "MACE Dance",
+    "family_display": "MACE-Dance",
     "family_display_variants": [
       {
-        "family_display": "MACE Dance",
+        "family_display": "MACE-Dance",
         "first_seen": "2026-05-12",
         "last_seen": "2026-05-12",
         "news_ids": [
@@ -49351,10 +49447,10 @@
   },
   "mage-flow": {
     "family_slug": "mage-flow",
-    "family_display": "Mage Flow",
+    "family_display": "Mage-Flow",
     "family_display_variants": [
       {
-        "family_display": "Mage Flow",
+        "family_display": "Mage-Flow",
         "first_seen": "2026-07-26",
         "last_seen": "2026-07-26",
         "news_ids": [
@@ -49460,10 +49556,10 @@
   },
   "magi-2": {
     "family_slug": "magi-2",
-    "family_display": "MAGI 2",
+    "family_display": "MAGI-2",
     "family_display_variants": [
       {
-        "family_display": "MAGI 2",
+        "family_display": "MAGI-2",
         "first_seen": "2026-08-07",
         "last_seen": "2026-08-07",
         "news_ids": [
@@ -50302,10 +50398,10 @@
   },
   "marco-moe": {
     "family_slug": "marco-moe",
-    "family_display": "Marco MoE",
+    "family_display": "Marco-MoE",
     "family_display_variants": [
       {
-        "family_display": "Marco MoE",
+        "family_display": "Marco-MoE",
         "first_seen": "2026-04-09",
         "last_seen": "2026-04-09",
         "news_ids": [
@@ -50548,10 +50644,10 @@
   },
   "marlin-2b": {
     "family_slug": "marlin-2b",
-    "family_display": "Marlin 2B",
+    "family_display": "Marlin-2B",
     "family_display_variants": [
       {
-        "family_display": "Marlin 2B",
+        "family_display": "Marlin-2B",
         "first_seen": "2026-05-21",
         "last_seen": "2026-05-21",
         "news_ids": [
@@ -50968,10 +51064,10 @@
   },
   "matrix-game": {
     "family_slug": "matrix-game",
-    "family_display": "Matrix Game",
+    "family_display": "Matrix-Game",
     "family_display_variants": [
       {
-        "family_display": "Matrix Game",
+        "family_display": "Matrix-Game",
         "first_seen": "2026-04-03",
         "last_seen": "2026-04-03",
         "news_ids": [
@@ -51671,10 +51767,10 @@
   },
   "meta-cot": {
     "family_slug": "meta-cot",
-    "family_display": "Meta CoT",
+    "family_display": "Meta-CoT",
     "family_display_variants": [
       {
-        "family_display": "Meta CoT",
+        "family_display": "Meta-CoT",
         "first_seen": "2026-04-30",
         "last_seen": "2026-04-30",
         "news_ids": [
@@ -52029,10 +52125,10 @@
   },
   "mf0-1984": {
     "family_slug": "mf0-1984",
-    "family_display": "MF0 1984",
+    "family_display": "MF0-1984",
     "family_display_variants": [
       {
-        "family_display": "MF0 1984",
+        "family_display": "MF0-1984",
         "first_seen": "2026-04-20",
         "last_seen": "2026-04-20",
         "news_ids": [
@@ -52940,10 +53036,10 @@
   },
   "minicpm-v": {
     "family_slug": "minicpm-v",
-    "family_display": "MiniCPM V",
+    "family_display": "MiniCPM-V",
     "family_display_variants": [
       {
-        "family_display": "MiniCPM V",
+        "family_display": "MiniCPM-V",
         "first_seen": "2026-05-12",
         "last_seen": "2026-05-12",
         "news_ids": [
@@ -53334,10 +53430,10 @@
   },
   "minimax-h3-fun-controlnet-union": {
     "family_slug": "minimax-h3-fun-controlnet-union",
-    "family_display": "MiniMax H3 Fun Controlnet Union",
+    "family_display": "MiniMax-H3-Fun-Controlnet-Union",
     "family_display_variants": [
       {
-        "family_display": "MiniMax H3 Fun Controlnet Union",
+        "family_display": "MiniMax-H3-Fun-Controlnet-Union",
         "first_seen": "2026-08-24",
         "last_seen": "2026-08-24",
         "news_ids": [
@@ -53443,10 +53539,10 @@
   },
   "minimax-h3-turbo-lora": {
     "family_slug": "minimax-h3-turbo-lora",
-    "family_display": "MiniMax H3 Turbo LoRA",
+    "family_display": "MiniMax-H3 Turbo LoRA",
     "family_display_variants": [
       {
-        "family_display": "MiniMax H3 Turbo LoRA",
+        "family_display": "MiniMax-H3 Turbo LoRA",
         "first_seen": "2026-08-06",
         "last_seen": "2026-08-06",
         "news_ids": [
@@ -53576,10 +53672,10 @@
   },
   "minimax-h3-x-z-image": {
     "family_slug": "minimax-h3-x-z-image",
-    "family_display": "MiniMax H3 x Z Image",
+    "family_display": "MiniMax-H3 x Z-Image",
     "family_display_variants": [
       {
-        "family_display": "MiniMax H3 x Z Image",
+        "family_display": "MiniMax-H3 x Z-Image",
         "first_seen": "2026-08-24",
         "last_seen": "2026-08-24",
         "news_ids": [
@@ -54777,10 +54873,10 @@
   },
   "mlslabsrenderer-lite": {
     "family_slug": "mlslabsrenderer-lite",
-    "family_display": "MLSLabsRenderer Lite",
+    "family_display": "MLSLabsRenderer-Lite",
     "family_display_variants": [
       {
-        "family_display": "MLSLabsRenderer Lite",
+        "family_display": "MLSLabsRenderer-Lite",
         "first_seen": "2026-07-29",
         "last_seen": "2026-07-29",
         "news_ids": [
@@ -54885,10 +54981,10 @@
   },
   "mm-ctx": {
     "family_slug": "mm-ctx",
-    "family_display": "mm ctx",
+    "family_display": "mm-ctx",
     "family_display_variants": [
       {
-        "family_display": "mm ctx",
+        "family_display": "mm-ctx",
         "first_seen": "2026-05-19",
         "last_seen": "2026-05-19",
         "news_ids": [
@@ -55765,10 +55861,10 @@
   },
   "moss-audio": {
     "family_slug": "moss-audio",
-    "family_display": "MOSS Audio",
+    "family_display": "MOSS-Audio",
     "family_display_variants": [
       {
-        "family_display": "MOSS Audio",
+        "family_display": "MOSS-Audio",
         "first_seen": "2026-05-05",
         "last_seen": "2026-05-05",
         "news_ids": [
@@ -55946,10 +56042,10 @@
   },
   "moss-soundeffect": {
     "family_slug": "moss-soundeffect",
-    "family_display": "MOSS SoundEffect",
+    "family_display": "MOSS-SoundEffect",
     "family_display_variants": [
       {
-        "family_display": "MOSS SoundEffect",
+        "family_display": "MOSS-SoundEffect",
         "first_seen": "2026-07-14",
         "last_seen": "2026-07-14",
         "news_ids": [
@@ -56091,10 +56187,10 @@
   },
   "moss-transcribe-diarize": {
     "family_slug": "moss-transcribe-diarize",
-    "family_display": "MOSS Transcribe Diarize",
+    "family_display": "MOSS-Transcribe-Diarize",
     "family_display_variants": [
       {
-        "family_display": "MOSS Transcribe Diarize",
+        "family_display": "MOSS-Transcribe-Diarize",
         "first_seen": "2026-07-14",
         "last_seen": "2026-07-14",
         "news_ids": [
@@ -56212,10 +56308,10 @@
   },
   "moss-tts": {
     "family_slug": "moss-tts",
-    "family_display": "MOSS TTS",
+    "family_display": "MOSS-TTS",
     "family_display_variants": [
       {
-        "family_display": "MOSS TTS",
+        "family_display": "MOSS-TTS",
         "first_seen": "2026-04-14",
         "last_seen": "2026-04-14",
         "news_ids": [
@@ -56354,10 +56450,10 @@
   },
   "moss-video-preview": {
     "family_slug": "moss-video-preview",
-    "family_display": "MOSS Video Preview",
+    "family_display": "MOSS-Video-Preview",
     "family_display_variants": [
       {
-        "family_display": "MOSS Video Preview",
+        "family_display": "MOSS-Video-Preview",
         "first_seen": "2026-06-10",
         "last_seen": "2026-06-10",
         "news_ids": [
@@ -56462,10 +56558,10 @@
   },
   "motif-video": {
     "family_slug": "motif-video",
-    "family_display": "Motif Video",
+    "family_display": "Motif-Video",
     "family_display_variants": [
       {
-        "family_display": "Motif Video",
+        "family_display": "Motif-Video",
         "first_seen": "2026-04-16",
         "last_seen": "2026-04-16",
         "news_ids": [
@@ -59511,10 +59607,10 @@
   },
   "nvila-hd-video": {
     "family_slug": "nvila-hd-video",
-    "family_display": "NVILA HD Video",
+    "family_display": "NVILA-HD-Video",
     "family_display_variants": [
       {
-        "family_display": "NVILA HD Video",
+        "family_display": "NVILA-HD-Video",
         "first_seen": "2026-03-13",
         "last_seen": "2026-03-13",
         "news_ids": [
@@ -59644,10 +59740,10 @@
   },
   "nvpanoptix-3d": {
     "family_slug": "nvpanoptix-3d",
-    "family_display": "NVPanoptix 3D",
+    "family_display": "NVPanoptix-3D",
     "family_display_variants": [
       {
-        "family_display": "NVPanoptix 3D",
+        "family_display": "NVPanoptix-3D",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -60400,10 +60496,10 @@
   },
   "omni-diffusion": {
     "family_slug": "omni-diffusion",
-    "family_display": "Omni Diffusion",
+    "family_display": "Omni-Diffusion",
     "family_display_variants": [
       {
-        "family_display": "Omni Diffusion",
+        "family_display": "Omni-Diffusion",
         "first_seen": "2026-03-11",
         "last_seen": "2026-03-11",
         "news_ids": [
@@ -61227,10 +61323,10 @@
   },
   "omnivideo-7b-qwen2-5-omni": {
     "family_slug": "omnivideo-7b-qwen2-5-omni",
-    "family_display": "OmniVideo 7B Qwen2.5 Omni",
+    "family_display": "OmniVideo-7B_Qwen2.5-Omni",
     "family_display_variants": [
       {
-        "family_display": "OmniVideo 7B Qwen2.5 Omni",
+        "family_display": "OmniVideo-7B_Qwen2.5-Omni",
         "first_seen": "2026-06-21",
         "last_seen": "2026-06-21",
         "news_ids": [
@@ -62146,10 +62242,10 @@
   },
   "open-multi-agent": {
     "family_slug": "open-multi-agent",
-    "family_display": "Open Multi Agent",
+    "family_display": "Open Multi-Agent",
     "family_display_variants": [
       {
-        "family_display": "Open Multi Agent",
+        "family_display": "Open Multi-Agent",
         "first_seen": "2026-04-03",
         "last_seen": "2026-04-03",
         "news_ids": [
@@ -62338,6 +62434,102 @@
           "family:openai"
         ],
         "primary_link": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": []
+  },
+  "openbot": {
+    "family_slug": "openbot",
+    "family_display": "OpenBot",
+    "family_display_variants": [
+      {
+        "family_display": "OpenBot",
+        "first_seen": "2026-08-22",
+        "last_seen": "2026-08-22",
+        "news_ids": [
+          "n-7a6049c680"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-08-22",
+    "last_seen": "2026-08-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-7a6049c680"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-08-22",
+        "news_id": "n-7a6049c680",
+        "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+        "primary_link": "https://github.com/CopilotKit/openbot"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/CopilotKit/openbot",
+        "is_primary": true,
+        "verified_at": "2026-09-05T11:37:43Z",
+        "news_ids": [
+          "n-7a6049c680"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "news",
+        "date": "2026-08-22",
+        "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+        "summary": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference.",
+        "version": null,
+        "news_id": "n-7a6049c680",
+        "primary_link": "https://github.com/CopilotKit/openbot"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-7a6049c680",
+        "date": "2026-08-22",
+        "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "openbot",
+        "version": null,
+        "tags": [
+          "OpenBot",
+          "family:openbot",
+          "misc",
+          "openbot"
+        ],
+        "primary_link": "https://github.com/CopilotKit/openbot",
         "has_image": false,
         "has_video": false
       }
@@ -63654,10 +63846,10 @@
   },
   "orchestra-o1": {
     "family_slug": "orchestra-o1",
-    "family_display": "Orchestra o1",
+    "family_display": "Orchestra-o1",
     "family_display_variants": [
       {
-        "family_display": "Orchestra o1",
+        "family_display": "Orchestra-o1",
         "first_seen": "2026-06-16",
         "last_seen": "2026-06-16",
         "news_ids": [
@@ -63872,10 +64064,10 @@
   },
   "ornith-1-5": {
     "family_slug": "ornith-1-5",
-    "family_display": "Ornith 1.5",
+    "family_display": "Ornith-1.5",
     "family_display_variants": [
       {
-        "family_display": "Ornith 1.5",
+        "family_display": "Ornith-1.5",
         "first_seen": "2026-08-20",
         "last_seen": "2026-08-20",
         "news_ids": [
@@ -64625,10 +64817,10 @@
   },
   "pdf-inspector": {
     "family_slug": "pdf-inspector",
-    "family_display": "pdf inspector",
+    "family_display": "pdf-inspector",
     "family_display_variants": [
       {
-        "family_display": "pdf inspector",
+        "family_display": "pdf-inspector",
         "first_seen": "2026-08-03",
         "last_seen": "2026-08-03",
         "news_ids": [
@@ -64817,10 +65009,10 @@
   },
   "penguin-vl": {
     "family_slug": "penguin-vl",
-    "family_display": "Penguin VL",
+    "family_display": "Penguin-VL",
     "family_display_variants": [
       {
-        "family_display": "Penguin VL",
+        "family_display": "Penguin-VL",
         "first_seen": "2026-03-09",
         "last_seen": "2026-03-09",
         "news_ids": [
@@ -66037,10 +66229,10 @@
   },
   "pi-hoc": {
     "family_slug": "pi-hoc",
-    "family_display": "Pi HOC",
+    "family_display": "Pi-HOC",
     "family_display_variants": [
       {
-        "family_display": "Pi HOC",
+        "family_display": "Pi-HOC",
         "first_seen": "2026-04-17",
         "last_seen": "2026-04-17",
         "news_ids": [
@@ -67225,10 +67417,10 @@
   },
   "pocket-35b-gguf": {
     "family_slug": "pocket-35b-gguf",
-    "family_display": "POCKET 35B GGUF",
+    "family_display": "POCKET-35B-GGUF",
     "family_display_variants": [
       {
-        "family_display": "POCKET 35B GGUF",
+        "family_display": "POCKET-35B-GGUF",
         "first_seen": "2026-07-27",
         "last_seen": "2026-07-27",
         "news_ids": [
@@ -67599,10 +67791,10 @@
   },
   "privacy-filter": {
     "family_slug": "privacy-filter",
-    "family_display": "privacy filter",
+    "family_display": "privacy-filter",
     "family_display_variants": [
       {
-        "family_display": "privacy filter",
+        "family_display": "privacy-filter",
         "first_seen": "2026-04-23",
         "last_seen": "2026-04-23",
         "news_ids": [
@@ -68740,10 +68932,10 @@
   },
   "qclaw-4b": {
     "family_slug": "qclaw-4b",
-    "family_display": "QClaw 4B",
+    "family_display": "QClaw-4B",
     "family_display_variants": [
       {
-        "family_display": "QClaw 4B",
+        "family_display": "QClaw-4B",
         "first_seen": "2026-04-28",
         "last_seen": "2026-04-28",
         "news_ids": [
@@ -70386,10 +70578,10 @@
   },
   "qwen-audio-3-0-tts": {
     "family_slug": "qwen-audio-3-0-tts",
-    "family_display": "Qwen Audio 3.0 TTS",
+    "family_display": "Qwen-Audio-3.0-TTS",
     "family_display_variants": [
       {
-        "family_display": "Qwen Audio 3.0 TTS",
+        "family_display": "Qwen-Audio-3.0-TTS",
         "first_seen": "2026-07-24",
         "last_seen": "2026-07-24",
         "news_ids": [
@@ -71229,10 +71421,10 @@
   },
   "qwen-image-3-0": {
     "family_slug": "qwen-image-3-0",
-    "family_display": "Qwen Image 3.0",
+    "family_display": "Qwen-Image 3.0",
     "family_display_variants": [
       {
-        "family_display": "Qwen Image 3.0",
+        "family_display": "Qwen-Image 3.0",
         "first_seen": "2026-07-21",
         "last_seen": "2026-07-21",
         "news_ids": [
@@ -71454,10 +71646,10 @@
   },
   "qwen-image-flash": {
     "family_slug": "qwen-image-flash",
-    "family_display": "Qwen Image Flash",
+    "family_display": "Qwen-Image-Flash",
     "family_display_variants": [
       {
-        "family_display": "Qwen Image Flash",
+        "family_display": "Qwen-Image-Flash",
         "first_seen": "2026-06-05",
         "last_seen": "2026-06-05",
         "news_ids": [
@@ -71551,10 +71743,10 @@
   },
   "qwen-mm-plugins": {
     "family_slug": "qwen-mm-plugins",
-    "family_display": "Qwen MM Plugins",
+    "family_display": "Qwen-MM-Plugins",
     "family_display_variants": [
       {
-        "family_display": "Qwen MM Plugins",
+        "family_display": "Qwen-MM-Plugins",
         "first_seen": "2026-08-10",
         "last_seen": "2026-08-10",
         "news_ids": [
@@ -71648,10 +71840,10 @@
   },
   "qwen-video-edit": {
     "family_slug": "qwen-video-edit",
-    "family_display": "Qwen Video Edit",
+    "family_display": "Qwen-Video-Edit",
     "family_display_variants": [
       {
-        "family_display": "Qwen Video Edit",
+        "family_display": "Qwen-Video-Edit",
         "first_seen": "2026-08-18",
         "last_seen": "2026-08-18",
         "news_ids": [
@@ -71768,10 +71960,10 @@
   },
   "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf": {
     "family_slug": "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf",
-    "family_display": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled GGUF",
+    "family_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled GGUF",
+        "family_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
         "first_seen": "2026-03-24",
         "last_seen": "2026-03-24",
         "news_ids": [
@@ -71865,10 +72057,10 @@
   },
   "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf": {
     "family_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
-    "family_display": "Qwen3.5 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking GGUF",
+    "family_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.5 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking GGUF",
+        "family_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
         "first_seen": "2026-03-25",
         "last_seen": "2026-03-25",
         "news_ids": [
@@ -71962,10 +72154,10 @@
   },
   "qwen3-5-9b-uncensored-hauhaucs-aggressive": {
     "family_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
-    "family_display": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+    "family_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+        "family_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
         "first_seen": "2026-03-30",
         "last_seen": "2026-03-30",
         "news_ids": [
@@ -72071,10 +72263,10 @@
   },
   "qwen3-6-34b-80l-fable-5-heretic": {
     "family_slug": "qwen3-6-34b-80l-fable-5-heretic",
-    "family_display": "Qwen3.6 34B 80L Fable 5 Heretic",
+    "family_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.6 34B 80L Fable 5 Heretic",
+        "family_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
         "first_seen": "2026-06-29",
         "last_seen": "2026-06-29",
         "news_ids": [
@@ -72179,10 +72371,10 @@
   },
   "qwen3-8-27b-cold-fusion": {
     "family_slug": "qwen3-8-27b-cold-fusion",
-    "family_display": "Qwen3.8 27B Cold Fusion",
+    "family_display": "Qwen3.8-27B-Cold-Fusion",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.8 27B Cold Fusion",
+        "family_display": "Qwen3.8-27B-Cold-Fusion",
         "first_seen": "2026-08-20",
         "last_seen": "2026-08-20",
         "news_ids": [
@@ -72276,10 +72468,10 @@
   },
   "qwen3-8-27b-uncensored": {
     "family_slug": "qwen3-8-27b-uncensored",
-    "family_display": "Qwen3.8 27B Uncensored",
+    "family_display": "Qwen3.8-27B-Uncensored",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.8 27B Uncensored",
+        "family_display": "Qwen3.8-27B-Uncensored",
         "first_seen": "2026-08-22",
         "last_seen": "2026-08-22",
         "news_ids": [
@@ -72373,10 +72565,10 @@
   },
   "qwen3-8-27b-uncensored-mlx": {
     "family_slug": "qwen3-8-27b-uncensored-mlx",
-    "family_display": "Qwen3.8 27B Uncensored MLX",
+    "family_display": "Qwen3.8-27B-Uncensored-MLX",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.8 27B Uncensored MLX",
+        "family_display": "Qwen3.8-27B-Uncensored-MLX",
         "first_seen": "2026-08-23",
         "last_seen": "2026-08-23",
         "news_ids": [
@@ -72470,10 +72662,10 @@
   },
   "qwen3-8-flash-next": {
     "family_slug": "qwen3-8-flash-next",
-    "family_display": "Qwen3.8 Flash Next",
+    "family_display": "Qwen3.8-Flash-Next",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.8 Flash Next",
+        "family_display": "Qwen3.8-Flash-Next",
         "first_seen": "2026-08-26",
         "last_seen": "2026-08-26",
         "news_ids": [
@@ -72615,10 +72807,10 @@
   },
   "qwen3-8-max": {
     "family_slug": "qwen3-8-max",
-    "family_display": "Qwen3.8 Max",
+    "family_display": "Qwen3.8-Max",
     "family_display_variants": [
       {
-        "family_display": "Qwen3.8 Max",
+        "family_display": "Qwen3.8-Max",
         "first_seen": "2026-08-03",
         "last_seen": "2026-08-03",
         "news_ids": [
@@ -72712,10 +72904,10 @@
   },
   "qwen3-forcedaligner-0-6b-hf": {
     "family_slug": "qwen3-forcedaligner-0-6b-hf",
-    "family_display": "Qwen3 ForcedAligner 0.6B hf",
+    "family_display": "Qwen3-ForcedAligner-0.6B-hf",
     "family_display_variants": [
       {
-        "family_display": "Qwen3 ForcedAligner 0.6B hf",
+        "family_display": "Qwen3-ForcedAligner-0.6B-hf",
         "first_seen": "2026-06-26",
         "last_seen": "2026-06-26",
         "news_ids": [
@@ -72809,10 +73001,10 @@
   },
   "qwen3-tts": {
     "family_slug": "qwen3-tts",
-    "family_display": "Qwen3 TTS",
+    "family_display": "Qwen3-TTS",
     "family_display_variants": [
       {
-        "family_display": "Qwen3 TTS",
+        "family_display": "Qwen3-TTS",
         "first_seen": "2026-08-06",
         "last_seen": "2026-08-06",
         "news_ids": [
@@ -72906,10 +73098,10 @@
   },
   "qwopus3-5-9b-coder": {
     "family_slug": "qwopus3-5-9b-coder",
-    "family_display": "Qwopus3.5 9B Coder",
+    "family_display": "Qwopus3.5-9B-Coder",
     "family_display_variants": [
       {
-        "family_display": "Qwopus3.5 9B Coder",
+        "family_display": "Qwopus3.5-9B-Coder",
         "first_seen": "2026-05-18",
         "last_seen": "2026-05-18",
         "news_ids": [
@@ -73003,10 +73195,10 @@
   },
   "qwopus3-6-27b-coder-mtp": {
     "family_slug": "qwopus3-6-27b-coder-mtp",
-    "family_display": "Qwopus3.6 27B Coder MTP",
+    "family_display": "Qwopus3.6-27B-Coder-MTP",
     "family_display_variants": [
       {
-        "family_display": "Qwopus3.6 27B Coder MTP",
+        "family_display": "Qwopus3.6-27B-Coder-MTP",
         "first_seen": "2026-06-18",
         "last_seen": "2026-06-18",
         "news_ids": [
@@ -73124,10 +73316,10 @@
   },
   "qwopus3-6-27b-v2": {
     "family_slug": "qwopus3-6-27b-v2",
-    "family_display": "Qwopus3.6 27B v2",
+    "family_display": "Qwopus3.6-27B-v2",
     "family_display_variants": [
       {
-        "family_display": "Qwopus3.6 27B v2",
+        "family_display": "Qwopus3.6-27B-v2",
         "first_seen": "2026-06-24",
         "last_seen": "2026-06-24",
         "news_ids": [
@@ -73233,10 +73425,10 @@
   },
   "qwythos-27b-v1": {
     "family_slug": "qwythos-27b-v1",
-    "family_display": "Qwythos 27B v1",
+    "family_display": "Qwythos-27B-v1",
     "family_display_variants": [
       {
-        "family_display": "Qwythos 27B v1",
+        "family_display": "Qwythos-27B-v1",
         "first_seen": "2026-08-03",
         "last_seen": "2026-08-03",
         "news_ids": [
@@ -73342,10 +73534,10 @@
   },
   "qwythos-9b-claude-mythos-5": {
     "family_slug": "qwythos-9b-claude-mythos-5",
-    "family_display": "Qwythos 9B Claude Mythos 5",
+    "family_display": "Qwythos-9B-Claude-Mythos-5",
     "family_display_variants": [
       {
-        "family_display": "Qwythos 9B Claude Mythos 5",
+        "family_display": "Qwythos-9B-Claude-Mythos-5",
         "first_seen": "2026-06-24",
         "last_seen": "2026-06-24",
         "news_ids": [
@@ -73546,10 +73738,10 @@
   },
   "raon-opentts": {
     "family_slug": "raon-opentts",
-    "family_display": "Raon OpenTTS",
+    "family_display": "Raon-OpenTTS",
     "family_display_variants": [
       {
-        "family_display": "Raon OpenTTS",
+        "family_display": "Raon-OpenTTS",
         "first_seen": "2026-08-20",
         "last_seen": "2026-08-20",
         "news_ids": [
@@ -73869,10 +74061,10 @@
   },
   "realism-engine-ideogram-4": {
     "family_slug": "realism-engine-ideogram-4",
-    "family_display": "Realism Engine Ideogram 4",
+    "family_display": "Realism_Engine_Ideogram_4",
     "family_display_variants": [
       {
-        "family_display": "Realism Engine Ideogram 4",
+        "family_display": "Realism_Engine_Ideogram_4",
         "first_seen": "2026-06-11",
         "last_seen": "2026-06-11",
         "news_ids": [
@@ -75235,10 +75427,10 @@
   },
   "reshoot-anything": {
     "family_slug": "reshoot-anything",
-    "family_display": "Reshoot Anything",
+    "family_display": "Reshoot-Anything",
     "family_display_variants": [
       {
-        "family_display": "Reshoot Anything",
+        "family_display": "Reshoot-Anything",
         "first_seen": "2026-04-27",
         "last_seen": "2026-04-27",
         "news_ids": [
@@ -76514,10 +76706,10 @@
   },
   "s3t-former": {
     "family_slug": "s3t-former",
-    "family_display": "S3T Former",
+    "family_display": "S3T-Former",
     "family_display_variants": [
       {
-        "family_display": "S3T Former",
+        "family_display": "S3T-Former",
         "first_seen": "2026-03-20",
         "last_seen": "2026-03-20",
         "news_ids": [
@@ -76610,10 +76802,10 @@
   },
   "sam-mt": {
     "family_slug": "sam-mt",
-    "family_display": "SAM MT",
+    "family_display": "SAM-MT",
     "family_display_variants": [
       {
-        "family_display": "SAM MT",
+        "family_display": "SAM-MT",
         "first_seen": "2026-07-13",
         "last_seen": "2026-07-13",
         "news_ids": [
@@ -77485,10 +77677,10 @@
   },
   "sana-streaming": {
     "family_slug": "sana-streaming",
-    "family_display": "SANA Streaming",
+    "family_display": "SANA-Streaming",
     "family_display_variants": [
       {
-        "family_display": "SANA Streaming",
+        "family_display": "SANA-Streaming",
         "first_seen": "2026-06-03",
         "last_seen": "2026-06-03",
         "news_ids": [
@@ -77833,10 +78025,10 @@
   },
   "scail-2": {
     "family_slug": "scail-2",
-    "family_display": "SCAIL 2",
+    "family_display": "SCAIL-2",
     "family_display_variants": [
       {
-        "family_display": "SCAIL 2",
+        "family_display": "SCAIL-2",
         "first_seen": "2026-06-09",
         "last_seen": "2026-06-09",
         "news_ids": [
@@ -78299,10 +78491,10 @@
   },
   "see-through": {
     "family_slug": "see-through",
-    "family_display": "See through",
+    "family_display": "See-through",
     "family_display_variants": [
       {
-        "family_display": "See through",
+        "family_display": "See-through",
         "first_seen": "2026-04-01",
         "last_seen": "2026-04-01",
         "news_ids": [
@@ -79653,10 +79845,10 @@
   },
   "sefi-image": {
     "family_slug": "sefi-image",
-    "family_display": "SeFi Image",
+    "family_display": "SeFi-Image",
     "family_display_variants": [
       {
-        "family_display": "SeFi Image",
+        "family_display": "SeFi-Image",
         "first_seen": "2026-06-26",
         "last_seen": "2026-06-26",
         "news_ids": [
@@ -80240,10 +80432,10 @@
   },
   "sensenova-vision": {
     "family_slug": "sensenova-vision",
-    "family_display": "SenseNova Vision",
+    "family_display": "SenseNova-Vision",
     "family_display_variants": [
       {
-        "family_display": "SenseNova Vision",
+        "family_display": "SenseNova-Vision",
         "first_seen": "2026-07-08",
         "last_seen": "2026-07-08",
         "news_ids": [
@@ -81076,10 +81268,10 @@
   },
   "siq-1-35b": {
     "family_slug": "siq-1-35b",
-    "family_display": "SIQ 1 35B",
+    "family_display": "SIQ-1-35B",
     "family_display_variants": [
       {
-        "family_display": "SIQ 1 35B",
+        "family_display": "SIQ-1-35B",
         "first_seen": "2026-06-17",
         "last_seen": "2026-06-17",
         "news_ids": [
@@ -81421,10 +81613,10 @@
   },
   "sol-attn": {
     "family_slug": "sol-attn",
-    "family_display": "Sol Attn",
+    "family_display": "Sol-Attn",
     "family_display_variants": [
       {
-        "family_display": "Sol Attn",
+        "family_display": "Sol-Attn",
         "first_seen": "2026-08-03",
         "last_seen": "2026-08-03",
         "news_ids": [
@@ -82349,10 +82541,10 @@
   },
   "spatial-ttt": {
     "family_slug": "spatial-ttt",
-    "family_display": "Spatial TTT",
+    "family_display": "Spatial-TTT",
     "family_display_variants": [
       {
-        "family_display": "Spatial TTT",
+        "family_display": "Spatial-TTT",
         "first_seen": "2026-03-13",
         "last_seen": "2026-03-13",
         "news_ids": [
@@ -83446,10 +83638,10 @@
   },
   "starchild-1": {
     "family_slug": "starchild-1",
-    "family_display": "Starchild 1",
+    "family_display": "Starchild-1",
     "family_display_variants": [
       {
-        "family_display": "Starchild 1",
+        "family_display": "Starchild-1",
         "first_seen": "2026-05-19",
         "last_seen": "2026-05-19",
         "news_ids": [
@@ -85575,10 +85767,10 @@
   },
   "synthid-bypass": {
     "family_slug": "synthid-bypass",
-    "family_display": "SynthID Bypass",
+    "family_display": "SynthID-Bypass",
     "family_display_variants": [
       {
-        "family_display": "SynthID Bypass",
+        "family_display": "SynthID-Bypass",
         "first_seen": "2026-03-13",
         "last_seen": "2026-03-13",
         "news_ids": [
@@ -86233,10 +86425,10 @@
   },
   "thinkingcap-qwen3-6-27b": {
     "family_slug": "thinkingcap-qwen3-6-27b",
-    "family_display": "ThinkingCap Qwen3.6 27B",
+    "family_display": "ThinkingCap-Qwen3.6-27B",
     "family_display_variants": [
       {
-        "family_display": "ThinkingCap Qwen3.6 27B",
+        "family_display": "ThinkingCap-Qwen3.6-27B",
         "first_seen": "2026-07-08",
         "last_seen": "2026-07-08",
         "news_ids": [
@@ -88530,10 +88722,10 @@
   },
   "ui-mate": {
     "family_slug": "ui-mate",
-    "family_display": "UI Mate",
+    "family_display": "UI-Mate",
     "family_display_variants": [
       {
-        "family_display": "UI Mate",
+        "family_display": "UI-Mate",
         "first_seen": "2026-08-18",
         "last_seen": "2026-08-18",
         "news_ids": [
@@ -88663,10 +88855,10 @@
   },
   "ultra-real-klein-9b": {
     "family_slug": "ultra-real-klein-9b",
-    "family_display": "Ultra Real Klein 9b",
+    "family_display": "Ultra Real - Klein 9b",
     "family_display_variants": [
       {
-        "family_display": "Ultra Real Klein 9b",
+        "family_display": "Ultra Real - Klein 9b",
         "first_seen": "2026-03-23",
         "last_seen": "2026-03-23",
         "news_ids": [
@@ -88772,10 +88964,10 @@
   },
   "ultrareal-krea2": {
     "family_slug": "ultrareal-krea2",
-    "family_display": "UltraReal KREA2",
+    "family_display": "UltraReal - KREA2",
     "family_display_variants": [
       {
-        "family_display": "UltraReal KREA2",
+        "family_display": "UltraReal - KREA2",
         "first_seen": "2026-07-04",
         "last_seen": "2026-07-04",
         "news_ids": [
@@ -89093,10 +89285,10 @@
   },
   "uni-1": {
     "family_slug": "uni-1",
-    "family_display": "UNI 1",
+    "family_display": "UNI-1",
     "family_display_variants": [
       {
-        "family_display": "UNI 1",
+        "family_display": "UNI-1",
         "first_seen": "2026-03-23",
         "last_seen": "2026-03-23",
         "news_ids": [
@@ -89201,10 +89393,10 @@
   },
   "uni-vigu": {
     "family_slug": "uni-vigu",
-    "family_display": "Uni ViGU",
+    "family_display": "Uni-ViGU",
     "family_display_variants": [
       {
-        "family_display": "Uni ViGU",
+        "family_display": "Uni-ViGU",
         "first_seen": "2026-04-15",
         "last_seen": "2026-04-15",
         "news_ids": [
@@ -89552,10 +89744,10 @@
   },
   "unify-agent": {
     "family_slug": "unify-agent",
-    "family_display": "Unify Agent",
+    "family_display": "Unify-Agent",
     "family_display_variants": [
       {
-        "family_display": "Unify Agent",
+        "family_display": "Unify-Agent",
         "first_seen": "2026-04-04",
         "last_seen": "2026-04-04",
         "news_ids": [
@@ -90805,10 +90997,10 @@
   },
   "unlimited-ocr": {
     "family_slug": "unlimited-ocr",
-    "family_display": "Unlimited OCR",
+    "family_display": "Unlimited-OCR",
     "family_display_variants": [
       {
-        "family_display": "Unlimited OCR",
+        "family_display": "Unlimited-OCR",
         "first_seen": "2026-06-22",
         "last_seen": "2026-06-22",
         "news_ids": [
@@ -91363,10 +91555,10 @@
   },
   "v-jepa": {
     "family_slug": "v-jepa",
-    "family_display": "V JEPA",
+    "family_display": "V-JEPA",
     "family_display_variants": [
       {
-        "family_display": "V JEPA",
+        "family_display": "V-JEPA",
         "first_seen": "2026-03-20",
         "last_seen": "2026-03-20",
         "news_ids": [
@@ -91459,10 +91651,10 @@
   },
   "v-rae": {
     "family_slug": "v-rae",
-    "family_display": "V RAE",
+    "family_display": "V-RAE",
     "family_display_variants": [
       {
-        "family_display": "V RAE",
+        "family_display": "V-RAE",
         "first_seen": "2026-08-24",
         "last_seen": "2026-08-24",
         "news_ids": [
@@ -92138,10 +92330,10 @@
   },
   "vibevoice-asr-bitnet": {
     "family_slug": "vibevoice-asr-bitnet",
-    "family_display": "VibeVoice ASR BitNet",
+    "family_display": "VibeVoice-ASR-BitNet",
     "family_display_variants": [
       {
-        "family_display": "VibeVoice ASR BitNet",
+        "family_display": "VibeVoice-ASR-BitNet",
         "first_seen": "2026-08-02",
         "last_seen": "2026-08-02",
         "news_ids": [
@@ -92367,10 +92559,10 @@
   },
   "video-deepresearch": {
     "family_slug": "video-deepresearch",
-    "family_display": "Video DeepResearch",
+    "family_display": "Video-DeepResearch",
     "family_display_variants": [
       {
-        "family_display": "Video DeepResearch",
+        "family_display": "Video-DeepResearch",
         "first_seen": "2026-08-10",
         "last_seen": "2026-08-10",
         "news_ids": [
@@ -92475,10 +92667,10 @@
   },
   "video-production-skills": {
     "family_slug": "video-production-skills",
-    "family_display": "video production skills",
+    "family_display": "video-production-skills",
     "family_display_variants": [
       {
-        "family_display": "video production skills",
+        "family_display": "video-production-skills",
         "first_seen": "2026-06-28",
         "last_seen": "2026-06-28",
         "news_ids": [
@@ -92570,10 +92762,10 @@
   },
   "video-to-world": {
     "family_slug": "video-to-world",
-    "family_display": "video to world",
+    "family_display": "video_to_world",
     "family_display_variants": [
       {
-        "family_display": "video to world",
+        "family_display": "video_to_world",
         "first_seen": "2026-03-23",
         "last_seen": "2026-03-23",
         "news_ids": [
@@ -92678,10 +92870,10 @@
   },
   "video-use": {
     "family_slug": "video-use",
-    "family_display": "video use",
+    "family_display": "video-use",
     "family_display_variants": [
       {
-        "family_display": "video use",
+        "family_display": "video-use",
         "first_seen": "2026-05-06",
         "last_seen": "2026-05-06",
         "news_ids": [
@@ -94575,10 +94767,10 @@
   },
   "wan-animate-2": {
     "family_slug": "wan-animate-2",
-    "family_display": "Wan Animate 2",
+    "family_display": "Wan-Animate-2",
     "family_display_variants": [
       {
-        "family_display": "Wan Animate 2",
+        "family_display": "Wan-Animate-2",
         "first_seen": "2026-08-08",
         "last_seen": "2026-08-08",
         "news_ids": [
@@ -94720,10 +94912,10 @@
   },
   "wan-dancer": {
     "family_slug": "wan-dancer",
-    "family_display": "Wan Dancer",
+    "family_display": "Wan-Dancer",
     "family_display_variants": [
       {
-        "family_display": "Wan Dancer",
+        "family_display": "Wan-Dancer",
         "first_seen": "2026-07-14",
         "last_seen": "2026-07-14",
         "news_ids": [
@@ -94853,10 +95045,10 @@
   },
   "wan-streamer": {
     "family_slug": "wan-streamer",
-    "family_display": "Wan Streamer",
+    "family_display": "Wan-Streamer",
     "family_display_variants": [
       {
-        "family_display": "Wan Streamer",
+        "family_display": "Wan-Streamer",
         "first_seen": "2026-07-08",
         "last_seen": "2026-07-20",
         "news_ids": [
@@ -95106,10 +95298,10 @@
   },
   "wan2-2-nvfp4-sparse": {
     "family_slug": "wan2-2-nvfp4-sparse",
-    "family_display": "Wan2.2 NVFP4 Sparse",
+    "family_display": "Wan2.2-NVFP4-Sparse",
     "family_display_variants": [
       {
-        "family_display": "Wan2.2 NVFP4 Sparse",
+        "family_display": "Wan2.2-NVFP4-Sparse",
         "first_seen": "2026-06-05",
         "last_seen": "2026-06-05",
         "news_ids": [
@@ -95812,10 +96004,10 @@
   },
   "whisper-podlodka-turbo": {
     "family_slug": "whisper-podlodka-turbo",
-    "family_display": "Whisper Podlodka Turbo",
+    "family_display": "Whisper-Podlodka-Turbo",
     "family_display_variants": [
       {
-        "family_display": "Whisper Podlodka Turbo",
+        "family_display": "Whisper-Podlodka-Turbo",
         "first_seen": "2026-06-25",
         "last_seen": "2026-06-25",
         "news_ids": [
@@ -96063,10 +96255,10 @@
   },
   "windows-copilot-api": {
     "family_slug": "windows-copilot-api",
-    "family_display": "Windows Copilot API",
+    "family_display": "Windows-Copilot-API",
     "family_display_variants": [
       {
-        "family_display": "Windows Copilot API",
+        "family_display": "Windows-Copilot-API",
         "first_seen": "2026-06-22",
         "last_seen": "2026-06-22",
         "news_ids": [
@@ -96267,10 +96459,10 @@
   },
   "world-r1": {
     "family_slug": "world-r1",
-    "family_display": "World R1",
+    "family_display": "World-R1",
     "family_display_variants": [
       {
-        "family_display": "World R1",
+        "family_display": "World-R1",
         "first_seen": "2026-04-28",
         "last_seen": "2026-04-28",
         "news_ids": [
@@ -96491,10 +96683,10 @@
   },
   "x-dub": {
     "family_slug": "x-dub",
-    "family_display": "X Dub",
+    "family_display": "X-Dub",
     "family_display_variants": [
       {
-        "family_display": "X Dub",
+        "family_display": "X-Dub",
         "first_seen": "2026-03-28",
         "last_seen": "2026-03-28",
         "news_ids": [
@@ -96753,10 +96945,10 @@
   },
   "x-voice": {
     "family_slug": "x-voice",
-    "family_display": "X Voice",
+    "family_display": "X-Voice",
     "family_display_variants": [
       {
-        "family_display": "X Voice",
+        "family_display": "X-Voice",
         "first_seen": "2026-05-28",
         "last_seen": "2026-05-28",
         "news_ids": [
@@ -97161,10 +97353,10 @@
   },
   "z-image": {
     "family_slug": "z-image",
-    "family_display": "Z Image",
+    "family_display": "Z-Image",
     "family_display_variants": [
       {
-        "family_display": "Z Image",
+        "family_display": "Z-Image",
         "first_seen": "2026-05-05",
         "last_seen": "2026-05-07",
         "news_ids": [
@@ -97511,10 +97703,10 @@
   },
   "z-image-turbo-sda": {
     "family_slug": "z-image-turbo-sda",
-    "family_display": "z image turbo sda",
+    "family_display": "z-image-turbo-sda",
     "family_display_variants": [
       {
-        "family_display": "z image turbo sda",
+        "family_display": "z-image-turbo-sda",
         "first_seen": "2026-03-26",
         "last_seen": "2026-03-26",
         "news_ids": [
@@ -97704,10 +97896,10 @@
   },
   "zeta-chroma": {
     "family_slug": "zeta-chroma",
-    "family_display": "Zeta Chroma",
+    "family_display": "Zeta-Chroma",
     "family_display_variants": [
       {
-        "family_display": "Zeta Chroma",
+        "family_display": "Zeta-Chroma",
         "first_seen": "2026-03-18",
         "last_seen": "2026-03-18",
         "news_ids": [
@@ -97824,10 +98016,10 @@
   },
   "zveroboy-photo": {
     "family_slug": "zveroboy-photo",
-    "family_display": "zveroboy photo",
+    "family_display": "zveroboy-photo",
     "family_display_variants": [
       {
-        "family_display": "zveroboy photo",
+        "family_display": "zveroboy-photo",
         "first_seen": "2026-04-13",
         "last_seen": "2026-04-13",
         "news_ids": [

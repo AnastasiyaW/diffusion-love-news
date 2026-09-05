@@ -10,7 +10,7 @@
  "project": {
   "name": "camera-comfyUI",
   "family_slug": "camera-comfyui",
-  "family_display": "camera comfyUI",
+  "family_display": "camera-comfyUI",
   "model_slug": "camera-comfyui",
   "model_display": "camera-comfyUI",
   "version": null,

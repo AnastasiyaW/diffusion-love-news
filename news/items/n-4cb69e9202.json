@@ -10,7 +10,7 @@
  "project": {
   "name": "JoyAI-Video-Edit",
   "family_slug": "joyai-video-edit",
-  "family_display": "JoyAI Video Edit",
+  "family_display": "JoyAI-Video-Edit",
   "model_slug": "joyai-video-edit",
   "model_display": "JoyAI-Video-Edit",
   "version": null,

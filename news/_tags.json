@@ -78,6 +78,9 @@
   "ABot-World": [
     "n-269c40ddd3"
   ],
+  "ACE Studio Video Composer": [
+    "n-8ef1289f87"
+  ],
   "ACE-Step 1.5": [
     "n-b9e02bd01a"
   ],
@@ -1892,6 +1895,9 @@
   "OpenAI": [
     "n-303168f615"
   ],
+  "OpenBot": [
+    "n-7a6049c680"
+  ],
   "OpenCut": [
     "n-fe5aa54dca"
   ],
@@ -2863,6 +2869,9 @@
   ],
   "ace-step-node-suite": [
     "n-64db3725b4"
+  ],
+  "ace-studio": [
+    "n-8ef1289f87"
   ],
   "acestep": [
     "n-b9e02bd01a",
@@ -4318,6 +4327,9 @@
   ],
   "family:ace-step-node-suite": [
     "n-64db3725b4"
+  ],
+  "family:ace-studio": [
+    "n-8ef1289f87"
   ],
   "family:acestep": [
     "n-a236c67d82",
@@ -5874,6 +5886,9 @@
   ],
   "family:openai": [
     "n-303168f615"
+  ],
+  "family:openbot": [
+    "n-7a6049c680"
   ],
   "family:opencut": [
     "n-fe5aa54dca"
@@ -8873,6 +8888,7 @@
     "n-920abfb1e3",
     "n-901220b5b4",
     "n-8f2e77690e",
+    "n-8ef1289f87",
     "n-8ec65997d5",
     "n-8e75dd0767",
     "n-8e1566e0c7",
@@ -8919,6 +8935,7 @@
     "n-7ac4fa4583",
     "n-7abe53781e",
     "n-7aa1f96c36",
+    "n-7a6049c680",
     "n-7970b35444",
     "n-79465fc2da",
     "n-78d5e0b6be",
@@ -10041,6 +10058,9 @@
   ],
   "openai_reasoning": [
     "n-303168f615"
+  ],
+  "openbot": [
+    "n-7a6049c680"
   ],
   "opencut": [
     "n-fe5aa54dca"

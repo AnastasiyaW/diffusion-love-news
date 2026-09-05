@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-04T22:06:20Z",
+  "generated_at": "2026-09-05T11:37:43Z",
   "site": "diffusion.love",
-  "total": 910,
+  "total": 912,
   "records": [
     {
       "schema_version": "1.3",
@@ -138,7 +138,7 @@
       "project": {
         "name": "Qwen3.8-Flash-Next",
         "family_slug": "qwen3-8-flash-next",
-        "family_display": "Qwen3.8 Flash Next",
+        "family_display": "Qwen3.8-Flash-Next",
         "model_slug": "qwen3-8-flash-next",
         "model_display": "Qwen3.8-Flash-Next",
         "version": null,
@@ -523,7 +523,7 @@
       "project": {
         "name": "GLM-5.3-Flash",
         "family_slug": "glm-5-3-flash",
-        "family_display": "GLM 5.3 Flash",
+        "family_display": "GLM-5.3-Flash",
         "model_slug": "glm-5-3-flash",
         "model_display": "GLM-5.3-Flash",
         "version": null,
@@ -803,7 +803,7 @@
       "project": {
         "name": "Joy-LTX 2.5 x Z-Image",
         "family_slug": "joy-ltx-2-5-x-z-image",
-        "family_display": "Joy LTX 2.5 x Z Image",
+        "family_display": "Joy-LTX 2.5 x Z-Image",
         "model_slug": "joy-ltx-2-5-x-z-image",
         "model_display": "Joy-LTX 2.5 x Z-Image",
         "version": null,
@@ -1402,7 +1402,7 @@
       "project": {
         "name": "MiniMax-H3 x Z-Image",
         "family_slug": "minimax-h3-x-z-image",
-        "family_display": "MiniMax H3 x Z Image",
+        "family_display": "MiniMax-H3 x Z-Image",
         "model_slug": "minimax-h3-x-z-image",
         "model_display": "MiniMax-H3 x Z-Image",
         "version": null,
@@ -1497,7 +1497,7 @@
       "project": {
         "name": "MiniMax-H3-Fun-Controlnet-Union",
         "family_slug": "minimax-h3-fun-controlnet-union",
-        "family_display": "MiniMax H3 Fun Controlnet Union",
+        "family_display": "MiniMax-H3-Fun-Controlnet-Union",
         "model_slug": "minimax-h3-fun-controlnet-union",
         "model_display": "MiniMax-H3-Fun-Controlnet-Union",
         "version": null,
@@ -1677,7 +1677,7 @@
       "project": {
         "name": "V-RAE",
         "family_slug": "v-rae",
-        "family_display": "V RAE",
+        "family_display": "V-RAE",
         "model_slug": "v-rae",
         "model_display": "V-RAE",
         "version": null,
@@ -1866,7 +1866,7 @@
       "project": {
         "name": "Qwen3.8-27B-Uncensored-MLX",
         "family_slug": "qwen3-8-27b-uncensored-mlx",
-        "family_display": "Qwen3.8 27B Uncensored MLX",
+        "family_display": "Qwen3.8-27B-Uncensored-MLX",
         "model_slug": "qwen3-8-27b-uncensored-mlx",
         "model_display": "Qwen3.8-27B-Uncensored-MLX",
         "version": null,
@@ -2201,6 +2201,91 @@
     },
     {
       "schema_version": "1.3",
+      "id": "n-7a6049c680",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "OpenBot: Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fix",
+      "summary": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference.",
+      "research_notes": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference.",
+      "project": {
+        "name": "OpenBot",
+        "family_slug": "openbot",
+        "family_display": "OpenBot",
+        "model_slug": "openbot",
+        "model_display": "OpenBot",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "tags": [
+        "OpenBot",
+        "family:openbot",
+        "misc",
+        "openbot"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "openbot"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/CopilotKit/openbot",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-05T11:37:43Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-08-22",
+        "excerpt": "Automatic local AGENT_TOOL_TOKEN generation, skill-based tool selection above 12 grants, audit visibility, fixed OpenAI-compatible routing, packaged skills and refusal of an unresolvable page reference."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-05T11:37:43Z",
+        "classified_at": "2026-09-05T11:37:43Z",
+        "enriched_at": "2026-09-05T11:37:43Z",
+        "verified_at": "2026-09-05T11:37:43Z",
+        "models_used": {
+          "classifier": "nemotron-3.5-lightning",
+          "research": "codex"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.3",
       "id": "n-32a7d157bd",
       "entry_type": "news",
       "category": "misc",
@@ -2211,7 +2296,7 @@
       "project": {
         "name": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
         "family_slug": "qwen3-8-27b-uncensored",
-        "family_display": "Qwen3.8 27B Uncensored",
+        "family_display": "Qwen3.8-27B-Uncensored",
         "model_slug": "qwen3-8-27b-uncensored",
         "model_display": "Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
         "version": null,
@@ -2567,7 +2652,7 @@
       "project": {
         "name": "DeepSeek-V4-Flash-Vision-Exp",
         "family_slug": "deepseek-v4-flash-vision-exp",
-        "family_display": "DeepSeek V4 Flash Vision Exp",
+        "family_display": "DeepSeek-V4-Flash-Vision-Exp",
         "model_slug": "deepseek-v4-flash-vision-exp",
         "model_display": "DeepSeek-V4-Flash-Vision-Exp",
         "version": null,
@@ -2879,7 +2964,7 @@
       "project": {
         "name": "Ornith-1.5",
         "family_slug": "ornith-1-5",
-        "family_display": "Ornith 1.5",
+        "family_display": "Ornith-1.5",
         "model_slug": "ornith-1-5",
         "model_display": "Ornith-1.5",
         "version": null,
@@ -2974,7 +3059,7 @@
       "project": {
         "name": "AVA-Encoder",
         "family_slug": "ava-encoder",
-        "family_display": "AVA Encoder",
+        "family_display": "AVA-Encoder",
         "model_slug": "ava-encoder",
         "model_display": "AVA-Encoder",
         "version": null,
@@ -3068,7 +3153,7 @@
       "project": {
         "name": "Raon-OpenTTS",
         "family_slug": "raon-opentts",
-        "family_display": "Raon OpenTTS",
+        "family_display": "Raon-OpenTTS",
         "model_slug": "raon-opentts",
         "model_display": "Raon-OpenTTS",
         "version": null,
@@ -3265,7 +3350,7 @@
       "project": {
         "name": "Qwen3.8-27B-Cold-Fusion",
         "family_slug": "qwen3-8-27b-cold-fusion",
-        "family_display": "Qwen3.8 27B Cold Fusion",
+        "family_display": "Qwen3.8-27B-Cold-Fusion",
         "model_slug": "qwen3-8-27b-cold-fusion",
         "model_display": "Qwen3.8-27B-Cold-Fusion",
         "version": null,
@@ -3856,7 +3941,7 @@
       "project": {
         "name": "Qwen-Video-Edit",
         "family_slug": "qwen-video-edit",
-        "family_display": "Qwen Video Edit",
+        "family_display": "Qwen-Video-Edit",
         "model_slug": "qwen-video-edit",
         "model_display": "Qwen-Video-Edit",
         "version": null,
@@ -4053,7 +4138,7 @@
       "project": {
         "name": "UI-Mate-27B",
         "family_slug": "ui-mate",
-        "family_display": "UI Mate",
+        "family_display": "UI-Mate",
         "model_slug": "ui-mate",
         "model_display": "UI-Mate-27B",
         "version": null,
@@ -4166,7 +4251,7 @@
       "project": {
         "name": "EVIE-Preview-4.5B",
         "family_slug": "evie-preview-4-5b",
-        "family_display": "EVIE Preview 4.5B",
+        "family_display": "EVIE-Preview-4.5B",
         "model_slug": "evie-preview-4-5b",
         "model_display": "EVIE-Preview-4.5B",
         "version": null,
@@ -4347,7 +4432,7 @@
       "project": {
         "name": "Huihui-Qwen3.8-27B-abliterated",
         "family_slug": "huihui-qwen3-8-27b-abliterated",
-        "family_display": "Huihui Qwen3.8 27B abliterated",
+        "family_display": "Huihui-Qwen3.8-27B-abliterated",
         "model_slug": "huihui-qwen3-8-27b-abliterated",
         "model_display": "Huihui-Qwen3.8-27B-abliterated",
         "version": null,
@@ -5486,7 +5571,7 @@
       "project": {
         "name": "LFM2.5-VL-3B",
         "family_slug": "lfm2-5-vl-3b",
-        "family_display": "LFM2.5 VL 3B",
+        "family_display": "LFM2.5-VL-3B",
         "model_slug": "lfm2-5-vl-3b",
         "model_display": "LFM2.5-VL-3B",
         "version": null,
@@ -5590,7 +5675,7 @@
       "project": {
         "name": "ComfyUI-MiniMax-H3-LongMedia",
         "family_slug": "comfyui-minimax-h3-longmedia",
-        "family_display": "ComfyUI MiniMax H3 LongMedia",
+        "family_display": "ComfyUI-MiniMax-H3-LongMedia",
         "model_slug": "comfyui-minimax-h3-longmedia",
         "model_display": "ComfyUI-MiniMax-H3-LongMedia",
         "version": null,
@@ -6117,7 +6202,7 @@
       "project": {
         "name": "Latent-to-4D",
         "family_slug": "latent-to-4d",
-        "family_display": "Latent to 4D",
+        "family_display": "Latent-to-4D",
         "model_slug": "latent-to-4d",
         "model_display": "Latent-to-4D",
         "version": null,
@@ -7427,7 +7512,7 @@
       "project": {
         "name": "LTX-2.5",
         "family_slug": "ltx-2-5",
-        "family_display": "LTX 2.5",
+        "family_display": "LTX-2.5",
         "model_slug": "ltx-2-5",
         "model_display": "LTX-2.5",
         "version": null,
@@ -7815,7 +7900,7 @@
       "project": {
         "name": "Hunyuan3D-Buffalo 1.0",
         "family_slug": "hunyuan3d-buffalo-1-0",
-        "family_display": "Hunyuan3D Buffalo 1.0",
+        "family_display": "Hunyuan3D-Buffalo 1.0",
         "model_slug": "hunyuan3d-buffalo-1-0",
         "model_display": "Hunyuan3D-Buffalo 1.0",
         "version": null,
@@ -7910,7 +7995,7 @@
       "project": {
         "name": "Hunyuan3D-WorldClaw",
         "family_slug": "hunyuan3d-worldclaw",
-        "family_display": "Hunyuan3D WorldClaw",
+        "family_display": "Hunyuan3D-WorldClaw",
         "model_slug": "hunyuan3d-worldclaw",
         "model_display": "Hunyuan3D-WorldClaw",
         "version": null,
@@ -8082,7 +8167,7 @@
       "project": {
         "name": "Qwen-MM-Plugins",
         "family_slug": "qwen-mm-plugins",
-        "family_display": "Qwen MM Plugins",
+        "family_display": "Qwen-MM-Plugins",
         "model_slug": "qwen-mm-plugins",
         "model_display": "Qwen-MM-Plugins",
         "version": null,
@@ -8254,7 +8339,7 @@
       "project": {
         "name": "Video-DeepResearch",
         "family_slug": "video-deepresearch",
-        "family_display": "Video DeepResearch",
+        "family_display": "Video-DeepResearch",
         "model_slug": "video-deepresearch",
         "model_display": "Video-DeepResearch",
         "version": null,
@@ -8348,7 +8433,7 @@
       "project": {
         "name": "Wan-Animate-2",
         "family_slug": "wan-animate-2",
-        "family_display": "Wan Animate 2",
+        "family_display": "Wan-Animate-2",
         "model_slug": "wan-animate-2",
         "model_display": "Wan-Animate-2",
         "version": null,
@@ -8470,7 +8555,7 @@
       "project": {
         "name": "MAGI-2",
         "family_slug": "magi-2",
-        "family_display": "MAGI 2",
+        "family_display": "MAGI-2",
         "model_slug": "magi-2",
         "model_display": "MAGI-2",
         "version": null,
@@ -8686,7 +8771,7 @@
       "project": {
         "name": "ComfyUI-Latent-Tiled-PiD",
         "family_slug": "comfyui-latent-tiled-pid",
-        "family_display": "ComfyUI Latent Tiled PiD",
+        "family_display": "ComfyUI-Latent-Tiled-PiD",
         "model_slug": "comfyui-latent-tiled-pid",
         "model_display": "ComfyUI-Latent-Tiled-PiD",
         "version": null,
@@ -8771,7 +8856,7 @@
       "project": {
         "name": "ComfyUI Sol-Attn",
         "family_slug": "comfyui-sol-attn",
-        "family_display": "ComfyUI Sol Attn",
+        "family_display": "ComfyUI Sol-Attn",
         "model_slug": "comfyui-sol-attn",
         "model_display": "ComfyUI Sol-Attn",
         "version": null,
@@ -8950,7 +9035,7 @@
       "project": {
         "name": "3DGS-PLY-3DTiles-Converter",
         "family_slug": "3dgs-ply-3dtiles-converter",
-        "family_display": "3DGS PLY 3DTiles Converter",
+        "family_display": "3DGS-PLY-3DTiles-Converter",
         "model_slug": "3dgs-ply-3dtiles-converter",
         "model_display": "3DGS-PLY-3DTiles-Converter",
         "version": null,
@@ -9045,7 +9130,7 @@
       "project": {
         "name": "Qwen3-TTS",
         "family_slug": "qwen3-tts",
-        "family_display": "Qwen3 TTS",
+        "family_display": "Qwen3-TTS",
         "model_slug": "qwen3-tts",
         "model_display": "Qwen3-TTS",
         "version": null,
@@ -9131,7 +9216,7 @@
       "project": {
         "name": "JoyAI-Video-Edit",
         "family_slug": "joyai-video-edit",
-        "family_display": "JoyAI Video Edit",
+        "family_display": "JoyAI-Video-Edit",
         "model_slug": "joyai-video-edit",
         "model_display": "JoyAI-Video-Edit",
         "version": null,
@@ -9235,7 +9320,7 @@
       "project": {
         "name": "MiniMax-H3 Turbo LoRA",
         "family_slug": "minimax-h3-turbo-lora",
-        "family_display": "MiniMax H3 Turbo LoRA",
+        "family_display": "MiniMax-H3 Turbo LoRA",
         "model_slug": "minimax-h3-turbo-lora",
         "model_display": "MiniMax-H3 Turbo LoRA",
         "version": null,
@@ -9821,7 +9906,7 @@
       "project": {
         "name": "LFM2.5-2.6B",
         "family_slug": "lfm2-5-2-6b",
-        "family_display": "LFM2.5 2.6B",
+        "family_display": "LFM2.5-2.6B",
         "model_slug": "lfm2-5-2-6b",
         "model_display": "LFM2.5-2.6B",
         "version": null,
@@ -10340,7 +10425,7 @@
       "project": {
         "name": "ComfyUI-MiniMaxH3_LatentUpscaler",
         "family_slug": "comfyui-minimaxh3-latentupscaler",
-        "family_display": "ComfyUI MiniMaxH3 LatentUpscaler",
+        "family_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
         "model_slug": "comfyui-minimaxh3-latentupscaler",
         "model_display": "ComfyUI-MiniMaxH3_LatentUpscaler",
         "version": null,
@@ -10426,7 +10511,7 @@
       "project": {
         "name": "Qwen3.8-Max",
         "family_slug": "qwen3-8-max",
-        "family_display": "Qwen3.8 Max",
+        "family_display": "Qwen3.8-Max",
         "model_slug": "qwen3-8-max",
         "model_display": "Qwen3.8-Max",
         "version": null,
@@ -10512,7 +10597,7 @@
       "project": {
         "name": "Sol-Attn",
         "family_slug": "sol-attn",
-        "family_display": "Sol Attn",
+        "family_display": "Sol-Attn",
         "model_slug": "sol-attn",
         "model_display": "Sol-Attn",
         "version": null,
@@ -10607,7 +10692,7 @@
       "project": {
         "name": "Qwythos-27B-v1",
         "family_slug": "qwythos-27b-v1",
-        "family_display": "Qwythos 27B v1",
+        "family_display": "Qwythos-27B-v1",
         "model_slug": "qwythos-27b-v1",
         "model_display": "Qwythos-27B-v1",
         "version": null,
@@ -10702,7 +10787,7 @@
       "project": {
         "name": "pdf-inspector",
         "family_slug": "pdf-inspector",
-        "family_display": "pdf inspector",
+        "family_display": "pdf-inspector",
         "model_slug": "pdf-inspector",
         "model_display": "pdf-inspector",
         "version": null,
@@ -10985,7 +11070,7 @@
       "project": {
         "name": "VibeVoice-ASR-BitNet",
         "family_slug": "vibevoice-asr-bitnet",
-        "family_display": "VibeVoice ASR BitNet",
+        "family_display": "VibeVoice-ASR-BitNet",
         "model_slug": "vibevoice-asr-bitnet",
         "model_display": "VibeVoice-ASR-BitNet",
         "version": null,
@@ -11579,7 +11664,7 @@
       "project": {
         "name": "LTX-2.3 Black Magic LoRA",
         "family_slug": "ltx-2-3-black-magic-lora",
-        "family_display": "LTX 2.3 Black Magic LoRA",
+        "family_display": "LTX-2.3 Black Magic LoRA",
         "model_slug": "ltx-2-3-black-magic-lora",
         "model_display": "LTX-2.3 Black Magic LoRA",
         "version": null,
@@ -12212,7 +12297,7 @@
       "project": {
         "name": "ID-V2V",
         "family_slug": "id-v2v",
-        "family_display": "ID V2V",
+        "family_display": "ID-V2V",
         "model_slug": "id-v2v",
         "model_display": "ID-V2V",
         "version": null,
@@ -12795,7 +12880,7 @@
       "project": {
         "name": "MLSLabsRenderer-Lite",
         "family_slug": "mlslabsrenderer-lite",
-        "family_display": "MLSLabsRenderer Lite",
+        "family_display": "MLSLabsRenderer-Lite",
         "model_slug": "mlslabsrenderer-lite",
         "model_display": "MLSLabsRenderer-Lite",
         "version": null,
@@ -13636,7 +13721,7 @@
       "project": {
         "name": "ComfyUI StreetView-Loader",
         "family_slug": "comfyui-streetview-loader",
-        "family_display": "ComfyUI StreetView Loader",
+        "family_display": "ComfyUI StreetView-Loader",
         "model_slug": "comfyui-streetview-loader",
         "model_display": "ComfyUI StreetView-Loader",
         "version": null,
@@ -13722,7 +13807,7 @@
       "project": {
         "name": "POCKET-35B-GGUF",
         "family_slug": "pocket-35b-gguf",
-        "family_display": "POCKET 35B GGUF",
+        "family_display": "POCKET-35B-GGUF",
         "model_slug": "pocket-35b-gguf",
         "model_display": "POCKET-35B-GGUF",
         "version": null,
@@ -13920,7 +14005,7 @@
       "project": {
         "name": "claude-video (watch)",
         "family_slug": "claude-video",
-        "family_display": "claude video",
+        "family_display": "claude-video",
         "model_slug": "claude-video",
         "model_display": "claude-video (watch)",
         "version": null,
@@ -14006,7 +14091,7 @@
       "project": {
         "name": "Ling-3.0-flash",
         "family_slug": "ling-3-0-flash",
-        "family_display": "Ling 3.0 flash",
+        "family_display": "Ling-3.0-flash",
         "model_slug": "ling-3-0-flash",
         "model_display": "Ling-3.0-flash",
         "version": null,
@@ -14470,7 +14555,7 @@
       "project": {
         "name": "Mage-Flow",
         "family_slug": "mage-flow",
-        "family_display": "Mage Flow",
+        "family_display": "Mage-Flow",
         "model_slug": "mage-flow",
         "model_display": "Mage-Flow",
         "version": null,
@@ -15114,7 +15199,7 @@
       "project": {
         "name": "Qwen-Audio-3.0-TTS",
         "family_slug": "qwen-audio-3-0-tts",
-        "family_display": "Qwen Audio 3.0 TTS",
+        "family_display": "Qwen-Audio-3.0-TTS",
         "model_slug": "qwen-audio-3-0-tts",
         "model_display": "Qwen-Audio-3.0-TTS",
         "version": null,
@@ -15559,7 +15644,7 @@
       "project": {
         "name": "Fugu-Ultra 1.1",
         "family_slug": "fugu-ultra",
-        "family_display": "Fugu Ultra",
+        "family_display": "Fugu-Ultra",
         "model_slug": "fugu-ultra",
         "model_display": "Fugu-Ultra 1.1",
         "version": null,
@@ -15645,7 +15730,7 @@
       "project": {
         "name": "GLM-5.2-Vision-NVFP4",
         "family_slug": "glm-5-2-vision",
-        "family_display": "GLM 5.2 Vision",
+        "family_display": "GLM-5.2-Vision",
         "model_slug": "glm-5-2-vision",
         "model_display": "GLM-5.2-Vision-NVFP4",
         "version": null,
@@ -17561,7 +17646,7 @@
       "project": {
         "name": "Qwen-Image 3.0",
         "family_slug": "qwen-image-3-0",
-        "family_display": "Qwen Image 3.0",
+        "family_display": "Qwen-Image 3.0",
         "model_slug": "qwen-image-3-0",
         "model_display": "Qwen-Image 3.0",
         "version": null,
@@ -17863,7 +17948,7 @@
       "project": {
         "name": "Wan-Streamer",
         "family_slug": "wan-streamer",
-        "family_display": "Wan Streamer",
+        "family_display": "Wan-Streamer",
         "model_slug": "wan-streamer",
         "model_display": "Wan-Streamer",
         "version": null,
@@ -18248,7 +18333,7 @@
       "project": {
         "name": "ComfyUI_StarNodes",
         "family_slug": "comfyui-starnodes",
-        "family_display": "ComfyUI StarNodes",
+        "family_display": "ComfyUI_StarNodes",
         "model_slug": "comfyui-starnodes",
         "model_display": "ComfyUI_StarNodes",
         "version": null,
@@ -18427,7 +18512,7 @@
       "project": {
         "name": "KnowAct-GUIClaw",
         "family_slug": "knowact-guiclaw",
-        "family_display": "KnowAct GUIClaw",
+        "family_display": "KnowAct-GUIClaw",
         "model_slug": "knowact-guiclaw",
         "model_display": "KnowAct-GUIClaw",
         "version": null,
@@ -19517,7 +19602,7 @@
       "project": {
         "name": "Krea2 TextFusion Refusal-Reduction LoRA",
         "family_slug": "krea2-textfusion-refusal-reduction-lora",
-        "family_display": "Krea2 TextFusion Refusal Reduction LoRA",
+        "family_display": "Krea2 TextFusion Refusal-Reduction LoRA",
         "model_slug": "krea2-textfusion-refusal-reduction-lora",
         "model_display": "Krea2 TextFusion Refusal-Reduction LoRA",
         "version": null,
@@ -19603,7 +19688,7 @@
       "project": {
         "name": "MOSS-SoundEffect",
         "family_slug": "moss-soundeffect",
-        "family_display": "MOSS SoundEffect",
+        "family_display": "MOSS-SoundEffect",
         "model_slug": "moss-soundeffect",
         "model_display": "MOSS-SoundEffect",
         "version": null,
@@ -20027,7 +20112,7 @@
       "project": {
         "name": "Wan-Dancer",
         "family_slug": "wan-dancer",
-        "family_display": "Wan Dancer",
+        "family_display": "Wan-Dancer",
         "model_slug": "wan-dancer",
         "model_display": "Wan-Dancer",
         "version": null,
@@ -20140,7 +20225,7 @@
       "project": {
         "name": "MOSS-Transcribe-Diarize-0.9B",
         "family_slug": "moss-transcribe-diarize",
-        "family_display": "MOSS Transcribe Diarize",
+        "family_display": "MOSS-Transcribe-Diarize",
         "model_slug": "moss-transcribe-diarize",
         "model_display": "MOSS-Transcribe-Diarize-0.9B",
         "version": null,
@@ -20517,7 +20602,7 @@
       "project": {
         "name": "ABot-World",
         "family_slug": "abot-world",
-        "family_display": "ABot World",
+        "family_display": "ABot-World",
         "model_slug": "abot-world",
         "model_display": "ABot-World",
         "version": null,
@@ -20639,7 +20724,7 @@
       "project": {
         "name": "SAM-MT",
         "family_slug": "sam-mt",
-        "family_display": "SAM MT",
+        "family_display": "SAM-MT",
         "model_slug": "sam-mt",
         "model_display": "SAM-MT",
         "version": null,
@@ -21504,7 +21589,7 @@
       "project": {
         "name": "LingBot-Video",
         "family_slug": "lingbot-video",
-        "family_display": "LingBot Video",
+        "family_display": "LingBot-Video",
         "model_slug": "lingbot-video",
         "model_display": "LingBot-Video",
         "version": null,
@@ -21804,7 +21889,7 @@
       "project": {
         "name": "SenseNova-Vision",
         "family_slug": "sensenova-vision",
-        "family_display": "SenseNova Vision",
+        "family_display": "SenseNova-Vision",
         "model_slug": "sensenova-vision",
         "model_display": "SenseNova-Vision",
         "version": null,
@@ -21907,7 +21992,7 @@
       "project": {
         "name": "ThinkingCap-Qwen3.6-27B",
         "family_slug": "thinkingcap-qwen3-6-27b",
-        "family_display": "ThinkingCap Qwen3.6 27B",
+        "family_display": "ThinkingCap-Qwen3.6-27B",
         "model_slug": "thinkingcap-qwen3-6-27b",
         "model_display": "ThinkingCap-Qwen3.6-27B",
         "version": null,
@@ -22019,7 +22104,7 @@
       "project": {
         "name": "Wan-Streamer",
         "family_slug": "wan-streamer",
-        "family_display": "Wan Streamer",
+        "family_display": "Wan-Streamer",
         "model_slug": "wan-streamer",
         "model_display": "Wan-Streamer",
         "version": null,
@@ -22762,7 +22847,7 @@
       "project": {
         "name": "UltraReal - KREA2 LoRA",
         "family_slug": "ultrareal-krea2",
-        "family_display": "UltraReal KREA2",
+        "family_display": "UltraReal - KREA2",
         "model_slug": "ultrareal-krea2",
         "model_display": "UltraReal - KREA2 LoRA",
         "version": null,
@@ -22848,7 +22933,7 @@
       "project": {
         "name": "Krea2-realism",
         "family_slug": "krea2-realism",
-        "family_display": "Krea2 realism",
+        "family_display": "Krea2-realism",
         "model_slug": "krea2-realism",
         "model_display": "Krea2-realism",
         "version": null,
@@ -24060,7 +24145,7 @@
       "project": {
         "name": "GELab-Zero",
         "family_slug": "gelab-zero",
-        "family_display": "GELab Zero",
+        "family_display": "GELab-Zero",
         "model_slug": "gelab-zero",
         "model_display": "GELab-Zero",
         "version": null,
@@ -24250,7 +24335,7 @@
       "project": {
         "name": "Flux2-Klein",
         "family_slug": "flux2-klein",
-        "family_display": "Flux2 Klein",
+        "family_display": "Flux2-Klein",
         "model_slug": "flux2-klein",
         "model_display": "Flux2-Klein",
         "version": null,
@@ -24630,7 +24715,7 @@
       "project": {
         "name": "GPT-5.6 Sol",
         "family_slug": "gpt-5-6-sol",
-        "family_display": "GPT 5.6 Sol",
+        "family_display": "GPT-5.6 Sol",
         "model_slug": "gpt-5-6-sol",
         "model_display": "GPT-5.6 Sol",
         "version": null,
@@ -24924,7 +25009,7 @@
       "project": {
         "name": "Agents-A1",
         "family_slug": "agents-a1",
-        "family_display": "Agents A1",
+        "family_display": "Agents-A1",
         "model_slug": "agents-a1",
         "model_display": "Agents-A1",
         "version": null,
@@ -25226,7 +25311,7 @@
       "project": {
         "name": "Qwen3.6-34B-80L-Fable-5-Heretic",
         "family_slug": "qwen3-6-34b-80l-fable-5-heretic",
-        "family_display": "Qwen3.6 34B 80L Fable 5 Heretic",
+        "family_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
         "model_slug": "qwen3-6-34b-80l-fable-5-heretic",
         "model_display": "Qwen3.6-34B-80L-Fable-5-Heretic",
         "version": null,
@@ -25593,7 +25678,7 @@
       "project": {
         "name": "Fast-FoundationStereo",
         "family_slug": "fast-foundationstereo",
-        "family_display": "Fast FoundationStereo",
+        "family_display": "Fast-FoundationStereo",
         "model_slug": "fast-foundationstereo",
         "model_display": "Fast-FoundationStereo",
         "version": null,
@@ -25791,7 +25876,7 @@
       "project": {
         "name": "Anti-Vocale",
         "family_slug": "anti-vocale",
-        "family_display": "Anti Vocale",
+        "family_display": "Anti-Vocale",
         "model_slug": "anti-vocale",
         "model_display": "Anti-Vocale",
         "version": null,
@@ -25876,7 +25961,7 @@
       "project": {
         "name": "video-production-skills",
         "family_slug": "video-production-skills",
-        "family_display": "video production skills",
+        "family_display": "video-production-skills",
         "model_slug": "video-production-skills",
         "model_display": "video-production-skills",
         "version": null,
@@ -26045,7 +26130,7 @@
       "project": {
         "name": "ComfyUI-Krea2TextEncoder",
         "family_slug": "comfyui-krea2textencoder",
-        "family_display": "ComfyUI Krea2TextEncoder",
+        "family_display": "ComfyUI-Krea2TextEncoder",
         "model_slug": "comfyui-krea2textencoder",
         "model_display": "ComfyUI-Krea2TextEncoder",
         "version": null,
@@ -26489,7 +26574,7 @@
       "project": {
         "name": "GLM-5.2-NVFP4",
         "family_slug": "glm-5-2-nvfp4",
-        "family_display": "GLM 5.2 NVFP4",
+        "family_display": "GLM-5.2-NVFP4",
         "model_slug": "glm-5-2-nvfp4",
         "model_display": "GLM-5.2-NVFP4",
         "version": null,
@@ -26849,7 +26934,7 @@
       "project": {
         "name": "SeFi-Image",
         "family_slug": "sefi-image",
-        "family_display": "SeFi Image",
+        "family_display": "SeFi-Image",
         "model_slug": "sefi-image",
         "model_display": "SeFi-Image",
         "version": null,
@@ -26952,7 +27037,7 @@
       "project": {
         "name": "Qwen3-ForcedAligner-0.6B-hf",
         "family_slug": "qwen3-forcedaligner-0-6b-hf",
-        "family_display": "Qwen3 ForcedAligner 0.6B hf",
+        "family_display": "Qwen3-ForcedAligner-0.6B-hf",
         "model_slug": "qwen3-forcedaligner-0-6b-hf",
         "model_display": "Qwen3-ForcedAligner-0.6B-hf",
         "version": null,
@@ -27130,7 +27215,7 @@
       "project": {
         "name": "Whisper-Podlodka-Turbo",
         "family_slug": "whisper-podlodka-turbo",
-        "family_display": "Whisper Podlodka Turbo",
+        "family_display": "Whisper-Podlodka-Turbo",
         "model_slug": "whisper-podlodka-turbo",
         "model_display": "Whisper-Podlodka-Turbo",
         "version": null,
@@ -27363,7 +27448,7 @@
       "project": {
         "name": "Qwopus3.6-27B-v2",
         "family_slug": "qwopus3-6-27b-v2",
-        "family_display": "Qwopus3.6 27B v2",
+        "family_display": "Qwopus3.6-27B-v2",
         "model_slug": "qwopus3-6-27b-v2",
         "model_display": "Qwopus3.6-27B-v2",
         "version": null,
@@ -27564,7 +27649,7 @@
       "project": {
         "name": "Qwythos-9B-Claude-Mythos-5",
         "family_slug": "qwythos-9b-claude-mythos-5",
-        "family_display": "Qwythos 9B Claude Mythos 5",
+        "family_display": "Qwythos-9B-Claude-Mythos-5",
         "model_slug": "qwythos-9b-claude-mythos-5",
         "model_display": "Qwythos-9B-Claude-Mythos-5",
         "version": null,
@@ -27874,7 +27959,7 @@
       "project": {
         "name": "GPT-5.5-Cyber",
         "family_slug": "gpt-5-5-cyber",
-        "family_display": "GPT 5.5 Cyber",
+        "family_display": "GPT-5.5-Cyber",
         "model_slug": "gpt-5-5-cyber",
         "model_display": "GPT-5.5-Cyber",
         "version": null,
@@ -28044,7 +28129,7 @@
       "project": {
         "name": "Unlimited-OCR",
         "family_slug": "unlimited-ocr",
-        "family_display": "Unlimited OCR",
+        "family_display": "Unlimited-OCR",
         "model_slug": "unlimited-ocr",
         "model_display": "Unlimited-OCR",
         "version": null,
@@ -28242,7 +28327,7 @@
       "project": {
         "name": "image_caption_utility",
         "family_slug": "image-caption-utility",
-        "family_display": "image caption utility",
+        "family_display": "image_caption_utility",
         "model_slug": "image-caption-utility",
         "model_display": "image_caption_utility",
         "version": null,
@@ -28430,7 +28515,7 @@
       "project": {
         "name": "Windows-Copilot-API",
         "family_slug": "windows-copilot-api",
-        "family_display": "Windows Copilot API",
+        "family_display": "Windows-Copilot-API",
         "model_slug": "windows-copilot-api",
         "model_display": "Windows-Copilot-API",
         "version": null,
@@ -28610,7 +28695,7 @@
       "project": {
         "name": "d-OPSD",
         "family_slug": "d-opsd",
-        "family_display": "d OPSD",
+        "family_display": "d-OPSD",
         "model_slug": "d-opsd",
         "model_display": "d-OPSD",
         "version": null,
@@ -28704,7 +28789,7 @@
       "project": {
         "name": "OmniVideo-7B_Qwen2.5-Omni",
         "family_slug": "omnivideo-7b-qwen2-5-omni",
-        "family_display": "OmniVideo 7B Qwen2.5 Omni",
+        "family_display": "OmniVideo-7B_Qwen2.5-Omni",
         "model_slug": "omnivideo-7b-qwen2-5-omni",
         "model_display": "OmniVideo-7B_Qwen2.5-Omni",
         "version": null,
@@ -28902,7 +28987,7 @@
       "project": {
         "name": "LTX-2.3 IC-LoRA Cross-Eyed",
         "family_slug": "ltx-2-3-ic-lora-cross-eyed",
-        "family_display": "LTX 2.3 IC LoRA Cross Eyed",
+        "family_display": "LTX-2.3 IC-LoRA Cross-Eyed",
         "model_slug": "ltx-2-3-ic-lora-cross-eyed",
         "model_display": "LTX-2.3 IC-LoRA Cross-Eyed",
         "version": null,
@@ -29189,7 +29274,7 @@
       "project": {
         "name": "Boogu-Image-Edit GGUF",
         "family_slug": "boogu-image-edit-gguf",
-        "family_display": "Boogu Image Edit GGUF",
+        "family_display": "Boogu-Image-Edit GGUF",
         "model_slug": "boogu-image-edit-gguf",
         "model_display": "Boogu-Image-Edit GGUF",
         "version": null,
@@ -29275,7 +29360,7 @@
       "project": {
         "name": "AudioX-Turbo",
         "family_slug": "audiox-turbo",
-        "family_display": "AudioX Turbo",
+        "family_display": "AudioX-Turbo",
         "model_slug": "audiox-turbo",
         "model_display": "AudioX-Turbo",
         "version": null,
@@ -29388,7 +29473,7 @@
       "project": {
         "name": "LTX-2.3 IC-LoRA Ingredients",
         "family_slug": "ltx-2-3-ic-lora-ingredients",
-        "family_display": "LTX 2.3 IC LoRA Ingredients",
+        "family_display": "LTX-2.3 IC-LoRA Ingredients",
         "model_slug": "ltx-2-3-ic-lora-ingredients",
         "model_display": "LTX-2.3 IC-LoRA Ingredients",
         "version": null,
@@ -29787,7 +29872,7 @@
       "project": {
         "name": "GLM-5.2-GGUF",
         "family_slug": "glm-5-2-gguf",
-        "family_display": "GLM 5.2 GGUF",
+        "family_display": "GLM-5.2-GGUF",
         "model_slug": "glm-5-2-gguf",
         "model_display": "GLM-5.2-GGUF",
         "version": null,
@@ -29873,7 +29958,7 @@
       "project": {
         "name": "Qwopus3.6-27B-Coder-MTP",
         "family_slug": "qwopus3-6-27b-coder-mtp",
-        "family_display": "Qwopus3.6 27B Coder MTP",
+        "family_display": "Qwopus3.6-27B-Coder-MTP",
         "model_slug": "qwopus3-6-27b-coder-mtp",
         "model_display": "Qwopus3.6-27B-Coder-MTP",
         "version": null,
@@ -29977,7 +30062,7 @@
       "project": {
         "name": "Boogu-Image",
         "family_slug": "boogu-image",
-        "family_display": "Boogu Image",
+        "family_display": "Boogu-Image",
         "model_slug": "boogu-image",
         "model_display": "Boogu-Image",
         "version": null,
@@ -30366,7 +30451,7 @@
       "project": {
         "name": "SIQ-1-35B",
         "family_slug": "siq-1-35b",
-        "family_display": "SIQ 1 35B",
+        "family_display": "SIQ-1-35B",
         "model_slug": "siq-1-35b",
         "model_display": "SIQ-1-35B",
         "version": null,
@@ -30592,7 +30677,7 @@
       "project": {
         "name": "Image-to-LoRA",
         "family_slug": "image-to-lora",
-        "family_display": "Image to LoRA",
+        "family_display": "Image-to-LoRA",
         "model_slug": "image-to-lora",
         "model_display": "Image-to-LoRA",
         "version": null,
@@ -30868,7 +30953,7 @@
       "project": {
         "name": "Orchestra-o1",
         "family_slug": "orchestra-o1",
-        "family_display": "Orchestra o1",
+        "family_display": "Orchestra-o1",
         "model_slug": "orchestra-o1",
         "model_display": "Orchestra-o1",
         "version": null,
@@ -30972,7 +31057,7 @@
       "project": {
         "name": "JoyAI-VL-Interaction",
         "family_slug": "joyai-vl-interaction",
-        "family_display": "JoyAI VL Interaction",
+        "family_display": "JoyAI-VL-Interaction",
         "model_slug": "joyai-vl-interaction",
         "model_display": "JoyAI-VL-Interaction",
         "version": null,
@@ -31153,7 +31238,7 @@
       "project": {
         "name": "FlashMemory-Deepseek-V4",
         "family_slug": "flashmemory-deepseek-v4",
-        "family_display": "FlashMemory Deepseek V4",
+        "family_display": "FlashMemory-Deepseek-V4",
         "model_slug": "flashmemory-deepseek-v4",
         "model_display": "FlashMemory-Deepseek-V4",
         "version": null,
@@ -31827,7 +31912,7 @@
       "project": {
         "name": "GLM-5.2",
         "family_slug": "glm-5-2",
-        "family_display": "GLM 5.2",
+        "family_display": "GLM-5.2",
         "model_slug": "glm-5-2",
         "model_display": "GLM-5.2",
         "version": null,
@@ -32410,7 +32495,7 @@
       "project": {
         "name": "diffusiongemma-26B-A4B-it-NVFP4",
         "family_slug": "diffusiongemma-26b-a4b-it-nvfp4",
-        "family_display": "diffusiongemma 26B A4B it NVFP4",
+        "family_display": "diffusiongemma-26B-A4B-it-NVFP4",
         "model_slug": "diffusiongemma-26b-a4b-it-nvfp4",
         "model_display": "diffusiongemma-26B-A4B-it-NVFP4",
         "version": null,
@@ -32704,7 +32789,7 @@
       "project": {
         "name": "LMX-Omni-52B-Halo",
         "family_slug": "lmx-omni-52b-halo",
-        "family_display": "LMX Omni 52B Halo",
+        "family_display": "LMX-Omni-52B-Halo",
         "model_slug": "lmx-omni-52b-halo",
         "model_display": "LMX-Omni-52B-Halo",
         "version": null,
@@ -32884,7 +32969,7 @@
       "project": {
         "name": "Realism_Engine_Ideogram_4",
         "family_slug": "realism-engine-ideogram-4",
-        "family_display": "Realism Engine Ideogram 4",
+        "family_display": "Realism_Engine_Ideogram_4",
         "model_slug": "realism-engine-ideogram-4",
         "model_display": "Realism_Engine_Ideogram_4",
         "version": null,
@@ -33194,7 +33279,7 @@
       "project": {
         "name": "ideogram-4-GGUF",
         "family_slug": "ideogram-4-gguf",
-        "family_display": "ideogram 4 GGUF",
+        "family_display": "ideogram-4-GGUF",
         "model_slug": "ideogram-4-gguf",
         "model_display": "ideogram-4-GGUF",
         "version": null,
@@ -33366,7 +33451,7 @@
       "project": {
         "name": "ABot-Earth 0.5",
         "family_slug": "abot-earth-0-5",
-        "family_display": "ABot Earth 0.5",
+        "family_display": "ABot-Earth 0.5",
         "model_slug": "abot-earth-0-5",
         "model_display": "ABot-Earth 0.5",
         "version": null,
@@ -33470,7 +33555,7 @@
       "project": {
         "name": "MOSS-Video-Preview",
         "family_slug": "moss-video-preview",
-        "family_display": "MOSS Video Preview",
+        "family_display": "MOSS-Video-Preview",
         "model_slug": "moss-video-preview",
         "model_display": "MOSS-Video-Preview",
         "version": null,
@@ -34012,7 +34097,7 @@
       "project": {
         "name": "comfyui-lrw-nodes",
         "family_slug": "comfyui-lrw-nodes",
-        "family_display": "comfyui lrw nodes",
+        "family_display": "comfyui-lrw-nodes",
         "model_slug": "comfyui-lrw-nodes",
         "model_display": "comfyui-lrw-nodes",
         "version": null,
@@ -34106,7 +34191,7 @@
       "project": {
         "name": "SCAIL-2",
         "family_slug": "scail-2",
-        "family_display": "SCAIL 2",
+        "family_display": "SCAIL-2",
         "model_slug": "scail-2",
         "model_display": "SCAIL-2",
         "version": null,
@@ -34765,7 +34850,7 @@
       "project": {
         "name": "ComfyUI-PixelDriftFix",
         "family_slug": "comfyui-pixeldriftfix",
-        "family_display": "ComfyUI PixelDriftFix",
+        "family_display": "ComfyUI-PixelDriftFix",
         "model_slug": "comfyui-pixeldriftfix",
         "model_display": "ComfyUI-PixelDriftFix",
         "version": null,
@@ -34851,7 +34936,7 @@
       "project": {
         "name": "Huihui-gemma-4-12B-it-abliterated",
         "family_slug": "huihui-gemma-4-12b-it-abliterated",
-        "family_display": "Huihui gemma 4 12B it abliterated",
+        "family_display": "Huihui-gemma-4-12B-it-abliterated",
         "model_slug": "huihui-gemma-4-12b-it-abliterated",
         "model_display": "Huihui-gemma-4-12B-it-abliterated",
         "version": null,
@@ -35341,7 +35426,7 @@
       "project": {
         "name": "Audio-Interaction",
         "family_slug": "audio-interaction",
-        "family_display": "Audio Interaction",
+        "family_display": "Audio-Interaction",
         "model_slug": "audio-interaction",
         "model_display": "Audio-Interaction",
         "version": null,
@@ -35522,7 +35607,7 @@
       "project": {
         "name": "Qwen-Image-Flash",
         "family_slug": "qwen-image-flash",
-        "family_display": "Qwen Image Flash",
+        "family_display": "Qwen-Image-Flash",
         "model_slug": "qwen-image-flash",
         "model_display": "Qwen-Image-Flash",
         "version": null,
@@ -35712,7 +35797,7 @@
       "project": {
         "name": "Wan2.2-NVFP4-Sparse",
         "family_slug": "wan2-2-nvfp4-sparse",
-        "family_display": "Wan2.2 NVFP4 Sparse",
+        "family_display": "Wan2.2-NVFP4-Sparse",
         "model_slug": "wan2-2-nvfp4-sparse",
         "model_display": "Wan2.2-NVFP4-Sparse",
         "version": null,
@@ -36657,7 +36742,7 @@
       "project": {
         "name": "SANA-Streaming",
         "family_slug": "sana-streaming",
-        "family_display": "SANA Streaming",
+        "family_display": "SANA-Streaming",
         "model_slug": "sana-streaming",
         "model_display": "SANA-Streaming",
         "version": null,
@@ -37521,7 +37606,7 @@
       "project": {
         "name": "X-Voice",
         "family_slug": "x-voice",
-        "family_display": "X Voice",
+        "family_display": "X-Voice",
         "model_slug": "x-voice",
         "model_display": "X-Voice",
         "version": null,
@@ -38408,7 +38493,7 @@
       "project": {
         "name": "Marlin-2B",
         "family_slug": "marlin-2b",
-        "family_display": "Marlin 2B",
+        "family_display": "Marlin-2B",
         "model_slug": "marlin-2b",
         "model_display": "Marlin-2B",
         "version": null,
@@ -38502,7 +38587,7 @@
       "project": {
         "name": "Starchild-1",
         "family_slug": "starchild-1",
-        "family_display": "Starchild 1",
+        "family_display": "Starchild-1",
         "model_slug": "starchild-1",
         "model_display": "Starchild-1",
         "version": null,
@@ -38588,7 +38673,7 @@
       "project": {
         "name": "mm-ctx",
         "family_slug": "mm-ctx",
-        "family_display": "mm ctx",
+        "family_display": "mm-ctx",
         "model_slug": "mm-ctx",
         "model_display": "mm-ctx",
         "version": null,
@@ -39198,7 +39283,7 @@
       "project": {
         "name": "Qwopus3.5-9B-Coder",
         "family_slug": "qwopus3-5-9b-coder",
-        "family_display": "Qwopus3.5 9B Coder",
+        "family_display": "Qwopus3.5-9B-Coder",
         "model_slug": "qwopus3-5-9b-coder",
         "model_display": "Qwopus3.5-9B-Coder",
         "version": null,
@@ -39688,7 +39773,7 @@
       "project": {
         "name": "ComfyUI-AsymFlow",
         "family_slug": "comfyui-asymflow",
-        "family_display": "ComfyUI AsymFlow",
+        "family_display": "ComfyUI-AsymFlow",
         "model_slug": "comfyui-asymflow",
         "model_display": "ComfyUI-AsymFlow",
         "version": null,
@@ -40283,7 +40368,7 @@
       "project": {
         "name": "comfyui-skill-public",
         "family_slug": "comfyui-skill-public",
-        "family_display": "comfyui skill public",
+        "family_display": "comfyui-skill-public",
         "model_slug": "comfyui-skill-public",
         "model_display": "comfyui-skill-public",
         "version": null,
@@ -41367,7 +41452,7 @@
       "project": {
         "name": "jina-embeddings-v5-omni",
         "family_slug": "jina-embeddings-v5-omni",
-        "family_display": "jina embeddings v5 omni",
+        "family_display": "jina-embeddings-v5-omni",
         "model_slug": "jina-embeddings-v5-omni",
         "model_display": "jina-embeddings-v5-omni",
         "version": null,
@@ -42187,7 +42272,7 @@
       "project": {
         "name": "MACE-Dance",
         "family_slug": "mace-dance",
-        "family_display": "MACE Dance",
+        "family_display": "MACE-Dance",
         "model_slug": "mace-dance",
         "model_display": "MACE-Dance",
         "version": null,
@@ -42292,7 +42377,7 @@
       "project": {
         "name": "MiniCPM-V 4.6",
         "family_slug": "minicpm-v",
-        "family_display": "MiniCPM V",
+        "family_display": "MiniCPM-V",
         "model_slug": "minicpm-v-4-6",
         "model_display": "MiniCPM-V 4.6",
         "version": "4.6",
@@ -43148,7 +43233,7 @@
       "project": {
         "name": "LDF-VFI",
         "family_slug": "ldf-vfi",
-        "family_display": "LDF VFI",
+        "family_display": "LDF-VFI",
         "model_slug": "ldf-vfi",
         "model_display": "LDF-VFI",
         "version": null,
@@ -45018,7 +45103,7 @@
       "project": {
         "name": "Z-Image-SAM-ControlNet",
         "family_slug": "z-image",
-        "family_display": "Z Image",
+        "family_display": "Z-Image",
         "model_slug": "z-image",
         "model_display": "Z-Image",
         "version": null,
@@ -45757,7 +45842,7 @@
       "project": {
         "name": "Z-Anime",
         "family_slug": "z-image",
-        "family_display": "Z Image",
+        "family_display": "Z-Image",
         "model_slug": "z-anime",
         "model_display": "Z-Anime",
         "version": null,
@@ -45961,7 +46046,7 @@
       "project": {
         "name": "Assistant_Pepe_32B",
         "family_slug": "assistant-pepe",
-        "family_display": "Assistant Pepe",
+        "family_display": "Assistant_Pepe",
         "model_slug": "assistant-pepe-32b",
         "model_display": "Assistant_Pepe_32B",
         "version": null,
@@ -46164,7 +46249,7 @@
       "project": {
         "name": "video-use",
         "family_slug": "video-use",
-        "family_display": "video use",
+        "family_display": "video-use",
         "model_slug": "video-use",
         "model_display": "video-use",
         "version": null,
@@ -46348,7 +46433,7 @@
       "project": {
         "name": "girl-agent",
         "family_slug": "girl-agent",
-        "family_display": "girl agent",
+        "family_display": "girl-agent",
         "model_slug": "girl-agent",
         "model_display": "girl-agent",
         "version": null,
@@ -46447,7 +46532,7 @@
       "project": {
         "name": "Z-Image Turbo workflow",
         "family_slug": "z-image",
-        "family_display": "Z Image",
+        "family_display": "Z-Image",
         "model_slug": "z-image",
         "model_display": "Z-Image",
         "version": null,
@@ -46563,7 +46648,7 @@
       "project": {
         "name": "MOSS-Audio",
         "family_slug": "moss-audio",
-        "family_display": "MOSS Audio",
+        "family_display": "MOSS-Audio",
         "model_slug": null,
         "model_display": null,
         "version": null,
@@ -47157,7 +47242,7 @@
       "project": {
         "name": "MOSS-Audio-8B-Thinking",
         "family_slug": "moss-audio",
-        "family_display": "MOSS Audio",
+        "family_display": "MOSS-Audio",
         "model_slug": "moss-audio-8b-thinking",
         "model_display": "MOSS-Audio-8B-Thinking",
         "version": null,
@@ -49622,7 +49707,7 @@
       "project": {
         "name": "awesome-russian-speech",
         "family_slug": "awesome-russian-speech",
-        "family_display": "awesome russian speech",
+        "family_display": "awesome-russian-speech",
         "model_slug": "awesome-russian-speech",
         "model_display": "awesome-russian-speech",
         "version": null,
@@ -49932,7 +50017,7 @@
       "project": {
         "name": "Meta-CoT",
         "family_slug": "meta-cot",
-        "family_display": "Meta CoT",
+        "family_display": "Meta-CoT",
         "model_slug": "meta-cot",
         "model_display": "Meta-CoT",
         "version": null,
@@ -51692,7 +51777,7 @@
       "project": {
         "name": "QClaw-4B",
         "family_slug": "qclaw-4b",
-        "family_display": "QClaw 4B",
+        "family_display": "QClaw-4B",
         "model_slug": "qclaw-4b",
         "model_display": "QClaw-4B",
         "version": "4B",
@@ -52031,7 +52116,7 @@
       "project": {
         "name": "World-R1",
         "family_slug": "world-r1",
-        "family_display": "World R1",
+        "family_display": "World-R1",
         "model_slug": "world-r1",
         "model_display": "World-R1",
         "version": null,
@@ -52695,7 +52780,7 @@
       "project": {
         "name": "Reshoot-Anything",
         "family_slug": "reshoot-anything",
-        "family_display": "Reshoot Anything",
+        "family_display": "Reshoot-Anything",
         "model_slug": "reshoot-anything",
         "model_display": "Reshoot-Anything",
         "version": null,
@@ -55124,7 +55209,7 @@
       "project": {
         "name": "GPT-5.5",
         "family_slug": "gpt-5-5",
-        "family_display": "GPT 5.5",
+        "family_display": "GPT-5.5",
         "model_slug": "gpt-5-5",
         "model_display": "GPT-5.5",
         "version": null,
@@ -55210,7 +55295,7 @@
       "project": {
         "name": "privacy-filter",
         "family_slug": "privacy-filter",
-        "family_display": "privacy filter",
+        "family_display": "privacy-filter",
         "model_slug": "privacy-filter",
         "model_display": "privacy-filter",
         "version": null,
@@ -56896,7 +56981,7 @@
       "project": {
         "name": "C-MET",
         "family_slug": "c-met",
-        "family_display": "C MET",
+        "family_display": "C-MET",
         "model_slug": "c-met",
         "model_display": "C-MET",
         "version": null,
@@ -57571,7 +57656,7 @@
       "project": {
         "name": "MF0-1984",
         "family_slug": "mf0-1984",
-        "family_display": "MF0 1984",
+        "family_display": "MF0-1984",
         "model_slug": "mf0-1984",
         "model_display": "MF0-1984",
         "version": "1984",
@@ -59536,7 +59621,7 @@
       "project": {
         "name": "Gen-Searcher",
         "family_slug": "gen-searcher",
-        "family_display": "Gen Searcher",
+        "family_display": "Gen-Searcher",
         "model_slug": "gen-searcher",
         "model_display": "Gen-Searcher",
         "version": null,
@@ -59648,7 +59733,7 @@
       "project": {
         "name": "Audio-Omni",
         "family_slug": "audio-omni",
-        "family_display": "Audio Omni",
+        "family_display": "Audio-Omni",
         "model_slug": "audio-omni",
         "model_display": "Audio-Omni",
         "version": null,
@@ -59872,7 +59957,7 @@
       "project": {
         "name": "LingBot-Map",
         "family_slug": "lingbot-map",
-        "family_display": "LingBot Map",
+        "family_display": "LingBot-Map",
         "model_slug": "lingbot-map",
         "model_display": "LingBot-Map",
         "version": null,
@@ -60312,7 +60397,7 @@
       "project": {
         "name": "Ernie Image Turbo",
         "family_slug": "ernie-image",
-        "family_display": "ERNIE Image",
+        "family_display": "ERNIE-Image",
         "model_slug": "ernie-image",
         "model_display": "Ernie Image",
         "version": null,
@@ -60846,7 +60931,7 @@
       "project": {
         "name": "Pi-HOC",
         "family_slug": "pi-hoc",
-        "family_display": "Pi HOC",
+        "family_display": "Pi-HOC",
         "model_slug": "pi-hoc",
         "model_display": "Pi-HOC",
         "version": null,
@@ -61381,7 +61466,7 @@
       "project": {
         "name": "Habitat-GS",
         "family_slug": "habitat-gs",
-        "family_display": "Habitat GS",
+        "family_display": "Habitat-GS",
         "model_slug": "habitat-gs",
         "model_display": "Habitat-GS",
         "version": null,
@@ -61496,7 +61581,7 @@
       "project": {
         "name": "Motif-Video 2B",
         "family_slug": "motif-video",
-        "family_display": "Motif Video",
+        "family_display": "Motif-Video",
         "model_slug": "motif-video-2b",
         "model_display": "Motif-Video 2B",
         "version": "2B",
@@ -62262,7 +62347,7 @@
       "project": {
         "name": "HY-World 2.0",
         "family_slug": "hy-world",
-        "family_display": "HY World",
+        "family_display": "HY-World",
         "model_slug": "hy-world-2-0",
         "model_display": "HY-World 2.0",
         "version": "2.0",
@@ -62755,7 +62840,7 @@
       "project": {
         "name": "Uni-ViGU",
         "family_slug": "uni-vigu",
-        "family_display": "Uni ViGU",
+        "family_display": "Uni-ViGU",
         "model_slug": "uni-vigu",
         "model_display": "Uni-ViGU",
         "version": null,
@@ -63042,7 +63127,7 @@
       "project": {
         "name": "ERNIE-Image",
         "family_slug": "ernie-image",
-        "family_display": "ERNIE Image",
+        "family_display": "ERNIE-Image",
         "model_slug": "ernie-image",
         "model_display": "ERNIE-Image",
         "version": null,
@@ -63640,7 +63725,7 @@
       "project": {
         "name": "MOSS-TTS-Nano",
         "family_slug": "moss-tts",
-        "family_display": "MOSS TTS",
+        "family_display": "MOSS-TTS",
         "model_slug": "moss-tts",
         "model_display": "MOSS-TTS",
         "version": null,
@@ -64956,7 +65041,7 @@
       "project": {
         "name": "ComfyUI-zveroboy-photo",
         "family_slug": "zveroboy-photo",
-        "family_display": "zveroboy photo",
+        "family_display": "zveroboy-photo",
         "model_slug": "zveroboy-photo",
         "model_display": "zveroboy-photo",
         "version": null,
@@ -66756,7 +66841,7 @@
       "project": {
         "name": "camera-comfyUI",
         "family_slug": "camera-comfyui",
-        "family_display": "camera comfyUI",
+        "family_display": "camera-comfyUI",
         "model_slug": "camera-comfyui",
         "model_display": "camera-comfyUI",
         "version": null,
@@ -69391,7 +69476,7 @@
       "project": {
         "name": "LongCat-AudioDiT",
         "family_slug": "longcat-audiodit",
-        "family_display": "LongCat AudioDiT",
+        "family_display": "LongCat-AudioDiT",
         "model_slug": "longcat-audiodit",
         "model_display": "LongCat-AudioDiT",
         "version": null,
@@ -70456,7 +70541,7 @@
       "project": {
         "name": "Marco-MoE",
         "family_slug": "marco-moe",
-        "family_display": "Marco MoE",
+        "family_display": "Marco-MoE",
         "model_slug": "marco-moe",
         "model_display": "Marco-MoE",
         "version": null,
@@ -75808,7 +75893,7 @@
       "project": {
         "name": "Unify-Agent",
         "family_slug": "unify-agent",
-        "family_display": "Unify Agent",
+        "family_display": "Unify-Agent",
         "model_slug": "unify-agent",
         "model_display": "Unify-Agent",
         "version": null,
@@ -76346,7 +76431,7 @@
       "project": {
         "name": "JoyAI-Image",
         "family_slug": "joyai-image",
-        "family_display": "JoyAI Image",
+        "family_display": "JoyAI-Image",
         "model_slug": "joyai-image",
         "model_display": "JoyAI-Image",
         "version": null,
@@ -76558,7 +76643,7 @@
       "project": {
         "name": "CARLA-Air",
         "family_slug": "carla-air",
-        "family_display": "CARLA Air",
+        "family_display": "CARLA-Air",
         "model_slug": "carla-air",
         "model_display": "CARLA-Air",
         "version": null,
@@ -77142,7 +77227,7 @@
       "project": {
         "name": "Open Multi-Agent",
         "family_slug": "open-multi-agent",
-        "family_display": "Open Multi Agent",
+        "family_display": "Open Multi-Agent",
         "model_slug": "open-multi-agent",
         "model_display": "Open Multi-Agent",
         "version": null,
@@ -77348,7 +77433,7 @@
       "project": {
         "name": "Matrix-Game 3.0",
         "family_slug": "matrix-game",
-        "family_display": "Matrix Game",
+        "family_display": "Matrix-Game",
         "model_slug": "matrix-game-3-0",
         "model_display": "Matrix-Game 3.0",
         "version": "3.0",
@@ -79446,7 +79531,7 @@
       "project": {
         "name": "See-through",
         "family_slug": "see-through",
-        "family_display": "See through",
+        "family_display": "See-through",
         "model_slug": "see-through",
         "model_display": "See-through",
         "version": null,
@@ -80716,7 +80801,7 @@
       "project": {
         "name": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
         "family_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
-        "family_display": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+        "family_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
         "model_slug": "qwen3-5-9b-uncensored-hauhaucs-aggressive",
         "model_display": "Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
         "version": null,
@@ -81430,7 +81515,7 @@
       "project": {
         "name": "X-Dub",
         "family_slug": "x-dub",
-        "family_display": "X Dub",
+        "family_display": "X-Dub",
         "model_slug": "x-dub",
         "model_display": "X-Dub",
         "version": null,
@@ -81626,6 +81711,91 @@
     },
     {
       "schema_version": "1.3",
+      "id": "n-8ef1289f87",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "ACE Studio Video Composer: It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material",
+      "summary": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material.",
+      "research_notes": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material.",
+      "project": {
+        "name": "ACE Studio Video Composer",
+        "family_slug": "ace-studio",
+        "family_display": "ACE Studio",
+        "model_slug": "ace-studio",
+        "model_display": "ACE Studio Video Composer",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "tags": [
+        "ACE Studio Video Composer",
+        "ace-studio",
+        "family:ace-studio",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "ace-studio"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://acestudio.ai/",
+          "host": "acestudio.ai",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-05T11:37:43Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-03-27",
+        "excerpt": "It analyzes scenes, cuts, and motion, then lays generated music and SFX onto the timeline as editable material."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-05T11:37:43Z",
+        "classified_at": "2026-09-05T11:37:43Z",
+        "enriched_at": "2026-09-05T11:37:43Z",
+        "verified_at": "2026-09-05T11:37:43Z",
+        "models_used": {
+          "classifier": "nemotron-3.5-lightning",
+          "research": "codex"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.3",
       "id": "n-8e078019f4",
       "entry_type": "news",
       "category": "misc",
@@ -81721,7 +81891,7 @@
       "project": {
         "name": "ComfyUI-DaVinci-MagiHuman",
         "family_slug": "comfyui-davinci-magihuman",
-        "family_display": "ComfyUI DaVinci MagiHuman",
+        "family_display": "ComfyUI-DaVinci-MagiHuman",
         "model_slug": "comfyui-davinci-magihuman",
         "model_display": "ComfyUI-DaVinci-MagiHuman",
         "version": null,
@@ -82497,7 +82667,7 @@
       "project": {
         "name": "z-image-turbo-sda",
         "family_slug": "z-image-turbo-sda",
-        "family_display": "z image turbo sda",
+        "family_display": "z-image-turbo-sda",
         "model_slug": "z-image-turbo-sda",
         "model_display": "z-image-turbo-sda",
         "version": null,
@@ -82770,7 +82940,7 @@
       "project": {
         "name": "DA-Flow",
         "family_slug": "da-flow",
-        "family_display": "DA Flow",
+        "family_display": "DA-Flow",
         "model_slug": "da-flow",
         "model_display": "DA-Flow",
         "version": null,
@@ -82959,7 +83129,7 @@
       "project": {
         "name": "hf-mount",
         "family_slug": "hf-mount",
-        "family_display": "hf mount",
+        "family_display": "hf-mount",
         "model_slug": "hf-mount",
         "model_display": "hf-mount",
         "version": null,
@@ -83317,7 +83487,7 @@
       "project": {
         "name": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
         "family_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
-        "family_display": "Qwen3.5 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking GGUF",
+        "family_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
         "model_slug": "qwen3-5-40b-claude-4-6-opus-deckard-heretic-uncensored-thinking-gguf",
         "model_display": "Qwen3.5-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-GGUF",
         "version": null,
@@ -83695,7 +83865,7 @@
       "project": {
         "name": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
         "family_slug": "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf",
-        "family_display": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled GGUF",
+        "family_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
         "model_slug": "qwen3-5-27b-claude-4-6-opus-reasoning-distilled-gguf",
         "model_display": "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
         "version": null,
@@ -83875,7 +84045,7 @@
       "project": {
         "name": "Clarity-OMR",
         "family_slug": "clarity-omr",
-        "family_display": "Clarity OMR",
+        "family_display": "Clarity-OMR",
         "model_slug": "clarity-omr",
         "model_display": "Clarity-OMR",
         "version": null,
@@ -83979,7 +84149,7 @@
       "project": {
         "name": "daVinci-MagiHuman",
         "family_slug": "davinci-magihuman",
-        "family_display": "daVinci MagiHuman",
+        "family_display": "daVinci-MagiHuman",
         "model_slug": "davinci-magihuman",
         "model_display": "daVinci-MagiHuman",
         "version": null,
@@ -84083,7 +84253,7 @@
       "project": {
         "name": "NVPanoptix-3D",
         "family_slug": "nvpanoptix-3d",
-        "family_display": "NVPanoptix 3D",
+        "family_display": "NVPanoptix-3D",
         "model_slug": "nvpanoptix-3d",
         "model_display": "NVPanoptix-3D",
         "version": null,
@@ -84169,7 +84339,7 @@
       "project": {
         "name": "LTX-2.3 inpaint LoRA",
         "family_slug": "ltx-2-3-inpaint-lora",
-        "family_display": "LTX 2.3 inpaint LoRA",
+        "family_display": "LTX-2.3 inpaint LoRA",
         "model_slug": "ltx-2-3-inpaint-lora",
         "model_display": "LTX-2.3 inpaint LoRA",
         "version": null,
@@ -84264,7 +84434,7 @@
       "project": {
         "name": "Covo-Audio",
         "family_slug": "covo-audio",
-        "family_display": "Covo Audio",
+        "family_display": "Covo-Audio",
         "model_slug": "covo-audio",
         "model_display": "Covo-Audio",
         "version": null,
@@ -84529,7 +84699,7 @@
       "project": {
         "name": "video_to_world",
         "family_slug": "video-to-world",
-        "family_display": "video to world",
+        "family_display": "video_to_world",
         "model_slug": "video-to-world",
         "model_display": "video_to_world",
         "version": null,
@@ -84623,7 +84793,7 @@
       "project": {
         "name": "Ultra Real - Klein 9b",
         "family_slug": "ultra-real-klein-9b",
-        "family_display": "Ultra Real Klein 9b",
+        "family_display": "Ultra Real - Klein 9b",
         "model_slug": "ultra-real-klein-9b",
         "model_display": "Ultra Real - Klein 9b",
         "version": null,
@@ -84821,7 +84991,7 @@
       "project": {
         "name": "UNI-1",
         "family_slug": "uni-1",
-        "family_display": "UNI 1",
+        "family_display": "UNI-1",
         "model_slug": "uni-1",
         "model_display": "UNI-1",
         "version": null,
@@ -85027,7 +85197,7 @@
       "project": {
         "name": "LTX-2 Caption tool",
         "family_slug": "ltx-2-caption-tool",
-        "family_display": "LTX 2 Caption tool",
+        "family_display": "LTX-2 Caption tool",
         "model_slug": "ltx-2-caption-tool",
         "model_display": "LTX-2 Caption tool",
         "version": null,
@@ -85480,7 +85650,7 @@
       "project": {
         "name": "S3T-Former",
         "family_slug": "s3t-former",
-        "family_display": "S3T Former",
+        "family_display": "S3T-Former",
         "model_slug": "s3t-former",
         "model_display": "S3T-Former",
         "version": null,
@@ -85753,7 +85923,7 @@
       "project": {
         "name": "V-JEPA",
         "family_slug": "v-jepa",
-        "family_display": "V JEPA",
+        "family_display": "V-JEPA",
         "model_slug": "v-jepa",
         "model_display": "V-JEPA",
         "version": null,
@@ -86299,7 +86469,7 @@
       "project": {
         "name": "Zeta-Chroma",
         "family_slug": "zeta-chroma",
-        "family_display": "Zeta Chroma",
+        "family_display": "Zeta-Chroma",
         "model_slug": "zeta-chroma",
         "model_display": "Zeta-Chroma",
         "version": null,
@@ -87450,7 +87620,7 @@
       "project": {
         "name": "ComfyUI-PuLID-Flux2",
         "family_slug": "comfyui-pulid-flux2",
-        "family_display": "ComfyUI PuLID Flux2",
+        "family_display": "ComfyUI-PuLID-Flux2",
         "model_slug": "comfyui-pulid-flux2",
         "model_display": "ComfyUI-PuLID-Flux2",
         "version": null,
@@ -87657,7 +87827,7 @@
       "project": {
         "name": "LTX-2.3-GGUF",
         "family_slug": "ltx-2-3-gguf",
-        "family_display": "LTX 2.3 GGUF",
+        "family_display": "LTX-2.3-GGUF",
         "model_slug": "ltx-2-3-gguf",
         "model_display": "LTX-2.3-GGUF",
         "version": null,
@@ -87847,7 +88017,7 @@
       "project": {
         "name": "ID-LoRA",
         "family_slug": "id-lora",
-        "family_display": "ID LoRA",
+        "family_display": "ID-LoRA",
         "model_slug": "id-lora",
         "model_display": "ID-LoRA",
         "version": null,
@@ -88148,7 +88318,7 @@
       "project": {
         "name": "GLM-OCR",
         "family_slug": "glm-ocr",
-        "family_display": "GLM OCR",
+        "family_display": "GLM-OCR",
         "model_slug": "glm-ocr",
         "model_display": "GLM-OCR",
         "version": null,
@@ -88354,7 +88524,7 @@
       "project": {
         "name": "DreamVideo-Omni",
         "family_slug": "dreamvideo-omni",
-        "family_display": "DreamVideo Omni",
+        "family_display": "DreamVideo-Omni",
         "model_slug": "dreamvideo-omni",
         "model_display": "DreamVideo-Omni",
         "version": null,
@@ -88826,7 +88996,7 @@
       "project": {
         "name": "Flux2-Klein-9B-Consistency",
         "family_slug": "flux2-klein-9b-consistency",
-        "family_display": "Flux2 Klein 9B Consistency",
+        "family_display": "Flux2-Klein-9B-Consistency",
         "model_slug": "flux2-klein-9b-consistency",
         "model_display": "Flux2-Klein-9B-Consistency",
         "version": null,
@@ -89156,7 +89326,7 @@
       "project": {
         "name": "NVILA-HD-Video",
         "family_slug": "nvila-hd-video",
-        "family_display": "NVILA HD Video",
+        "family_display": "NVILA-HD-Video",
         "model_slug": "nvila-hd-video",
         "model_display": "NVILA-HD-Video",
         "version": null,
@@ -89269,7 +89439,7 @@
       "project": {
         "name": "SynthID-Bypass",
         "family_slug": "synthid-bypass",
-        "family_display": "SynthID Bypass",
+        "family_display": "SynthID-Bypass",
         "model_slug": "synthid-bypass",
         "model_display": "SynthID-Bypass",
         "version": null,
@@ -89364,7 +89534,7 @@
       "project": {
         "name": "Spatial-TTT",
         "family_slug": "spatial-ttt",
-        "family_display": "Spatial TTT",
+        "family_display": "Spatial-TTT",
         "model_slug": "spatial-ttt",
         "model_display": "Spatial-TTT",
         "version": null,
@@ -89875,7 +90045,7 @@
       "project": {
         "name": "CLI-Anything",
         "family_slug": "cli-anything",
-        "family_display": "CLI Anything",
+        "family_display": "CLI-Anything",
         "model_slug": "cli-anything",
         "model_display": "CLI-Anything",
         "version": null,
@@ -90160,7 +90330,7 @@
       "project": {
         "name": "CARE-Edit",
         "family_slug": "care-edit",
-        "family_display": "CARE Edit",
+        "family_display": "CARE-Edit",
         "model_slug": "care-edit",
         "model_display": "CARE-Edit",
         "version": null,
@@ -90255,7 +90425,7 @@
       "project": {
         "name": "Omni-Diffusion",
         "family_slug": "omni-diffusion",
-        "family_display": "Omni Diffusion",
+        "family_display": "Omni-Diffusion",
         "model_slug": "omni-diffusion",
         "model_display": "Omni-Diffusion",
         "version": null,
@@ -90359,7 +90529,7 @@
       "project": {
         "name": "Holi-Spatial",
         "family_slug": "holi-spatial",
-        "family_display": "Holi Spatial",
+        "family_display": "Holi-Spatial",
         "model_slug": "holi-spatial",
         "model_display": "Holi-Spatial",
         "version": null,
@@ -90728,7 +90898,7 @@
       "project": {
         "name": "Penguin-VL",
         "family_slug": "penguin-vl",
-        "family_display": "Penguin VL",
+        "family_display": "Penguin-VL",
         "model_slug": "penguin-vl",
         "model_display": "Penguin-VL",
         "version": null,
@@ -90841,7 +91011,7 @@
       "project": {
         "name": "Flux2-Klein-9B-Enhanced-Details",
         "family_slug": "flux2-klein-9b-enhanced-details",
-        "family_display": "Flux2 Klein 9B Enhanced Details",
+        "family_display": "Flux2-Klein-9B-Enhanced-Details",
         "model_slug": "flux2-klein-9b-enhanced-details",
         "model_display": "Flux2-Klein-9B-Enhanced-Details",
         "version": null,
@@ -90945,7 +91115,7 @@
       "project": {
         "name": "HY-WU",
         "family_slug": "hy-wu",
-        "family_display": "HY WU",
+        "family_display": "HY-WU",
         "model_slug": "hy-wu",
         "model_display": "HY-WU",
         "version": null,
