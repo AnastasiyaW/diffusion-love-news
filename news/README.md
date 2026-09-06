@@ -16,10 +16,13 @@ news/
 ├── _years.json           # year → [news_id, ...]
 ├── _projects.json        # family_slug → project history + explicit development threads
 ├── _organizations.json   # organization_slug → company news + owned projects
+├── _subjects.json        # optional approved generic-subject reverse index
 ├── _aliases.json         # canonical_family ← [slug_aliases, ...]
 ├── all.json              # full bundle: { schema_version, total, records: [...] }
-└── items/
+├── items/
     └── n-{10-char-hex}.json   # one file per news, schema v1.2-v1.4
+└── subject-links/
+    └── n-{10-char-hex}.json   # optional approved subject-links-v1 packet
 ```
 
 ## Item schema (v1.4)
@@ -112,6 +115,21 @@ Each item exposes four orthogonal ways to find related items:
 
 A consumer can build a project page by joining `_projects.json[family_slug]`
 with each `items/{id}.json` in the `news_ids` array — no extra parsing needed.
+
+## Optional generic subject links
+
+`subject-links/<news_id>.json` is an additive, approved-export packet for one
+existing public item. It is not embedded in or inferred from legacy item
+schemas. `news/_subjects.json` indexes packet subjects, packet paths, ordered
+about/mention histories, and outgoing typed relations. With no packets it is
+the empty index, leaving existing item and discovery JSON byte-compatible.
+
+The producer validates exact `sgs-*` identities derived from HTTPS identity
+URLs, public HTTPS relation evidence, listed endpoints, and acyclic
+`version_of`/`derived_from` ancestry. It never derives subjects or relations
+from titles, tags, slugs, raw sources, private provenance, or Telegram links.
+See [`subject-links/README.md`](./subject-links/README.md) and
+[`schema-subject-links-v1.json`](./schema-subject-links-v1.json).
 
 ## Namespaced tags
 

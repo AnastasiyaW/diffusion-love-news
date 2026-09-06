@@ -23,12 +23,15 @@ CRITICAL_PATHS = (
     "news/_meta.json",
     "news/_organizations.json",
     "news/_projects.json",
+    "news/_subjects.json",
     "news/_tags.json",
     "news/_years.json",
     "news/all.json",
 )
 ITEM_NAME = re.compile(r"n-[0-9a-f]{10}\.json\Z")
 SCHEMA_NAME = re.compile(r"schema-v[0-9]+\.[0-9]+\.json\Z")
+SUBJECT_PACKET_NAME = re.compile(r"n-[0-9a-f]{10}\.json\Z")
+SUBJECT_SCHEMA_NAME = "schema-subject-links-v1.json"
 
 
 class PurgeError(RuntimeError):
@@ -46,11 +49,15 @@ def select_purge_paths(changed_paths: Iterable[str]) -> list[str]:
             value in CRITICAL_PATHS
             or (
                 path.parent == PurePosixPath("news")
-                and SCHEMA_NAME.fullmatch(path.name) is not None
+                and (SCHEMA_NAME.fullmatch(path.name) is not None or path.name == SUBJECT_SCHEMA_NAME)
             )
             or (
                 path.parent == PurePosixPath("news/items")
                 and ITEM_NAME.fullmatch(path.name) is not None
+            )
+            or (
+                path.parent == PurePosixPath("news/subject-links")
+                and SUBJECT_PACKET_NAME.fullmatch(path.name) is not None
             )
         )
         if path.is_absolute() or ".." in path.parts or not allowed:

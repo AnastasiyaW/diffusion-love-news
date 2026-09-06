@@ -24,6 +24,7 @@ scripts/*
 tests/*
 !tests/test_news_contract.py
 !tests/test_jsdelivr_purge.py
+!tests/test_subject_links.py
 .github/*
 !.github/workflows/
 .github/workflows/*

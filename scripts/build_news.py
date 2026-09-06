@@ -4,6 +4,8 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
+import ipaddress
 import json
 import os
 import re
@@ -29,11 +31,13 @@ GENERATED_FILES = (
     "_years.json",
     "_projects.json",
     "_organizations.json",
+    "_subjects.json",
     "_aliases.json",
     "all.json",
 )
 
 ID_RE = re.compile(r"^n-[0-9a-f]{10}$")
+SUBJECT_ID_RE = re.compile(r"^sgs-[0-9a-f]{32}$")
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 TIMESTAMP_RE = re.compile(r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
 FULL_GIT_SHA_RE = re.compile(r"^[0-9a-f]{40}$")
@@ -151,6 +155,15 @@ KNOWLEDGE_FIELDS = (
     "source_url",
     "agent_context_url",
 )
+SUBJECT_KINDS = {
+    "company", "project", "model", "version", "tool", "service", "dataset", "method", "technology",
+}
+SUBJECT_RELATIONS = {
+    "version_of", "derived_from", "compatible_with", "uses", "requires", "owned_by",
+}
+SUBJECT_PACKET_FIELDS = ("schema_version", "news_id", "subjects", "about", "mentions", "relations")
+SUBJECT_FIELDS = ("subject_id", "subject_kind", "canonical_name", "identity_url")
+SUBJECT_RELATION_FIELDS = ("from_subject_id", "relation", "to_subject_id", "evidence_urls")
 
 
 class ContractError(ValueError):
@@ -184,6 +197,23 @@ def is_http_url(value: Any, *, https_only: bool = False) -> bool:
     parsed = urlparse(value)
     schemes = {"https"} if https_only else {"http", "https"}
     return parsed.scheme in schemes and bool(parsed.netloc)
+
+
+def is_public_https_url(value: Any) -> bool:
+    if not is_http_url(value, https_only=True):
+        return False
+    parsed = urlparse(value)
+    host = parsed.hostname
+    if not host or host.lower() == "localhost" or host.lower().endswith(".local"):
+        return False
+    if parsed.username is not None or parsed.password is not None:
+        return False
+    if host.lower() in {"t.me", "telegram.me", "telegram.org"} or host.lower().endswith((".telegram.me", ".telegram.org")):
+        return False
+    try:
+        return ipaddress.ip_address(host).is_global
+    except ValueError:
+        return True
 
 
 def is_date(value: Any) -> bool:
@@ -895,6 +925,213 @@ def load_items(news_dir: Path) -> list[dict[str, Any]]:
     return records
 
 
+def _subject_id(identity_url: str) -> str:
+    return "sgs-" + hashlib.sha256(identity_url.encode("utf-8")).hexdigest()[:32]
+
+
+def _subject_text(errors: list[str], path: str, value: Any, maximum: int = 2_000) -> bool:
+    if not isinstance(value, str) or not value.strip() or value != value.strip() or len(value) > maximum:
+        errors.append(f"{path}: expected trimmed non-empty string")
+        return False
+    return True
+
+
+def validate_subject_packet(packet: Any, filename: str, item_ids: set[str]) -> list[str]:
+    errors: list[str] = []
+    if not isinstance(packet, dict):
+        return ["packet: expected object"]
+    validate_exact_keys(errors, "$", packet, SUBJECT_PACKET_FIELDS)
+    if packet.get("schema_version") != "subject-links-v1":
+        errors.append("schema_version: expected 'subject-links-v1'")
+    news_id = packet.get("news_id")
+    if not isinstance(news_id, str) or not ID_RE.fullmatch(news_id):
+        errors.append("news_id: expected existing n-{10 lowercase hex characters}")
+    elif Path(filename).stem != news_id:
+        errors.append(f"news_id: {news_id!r} does not match filename {filename!r}")
+    elif news_id not in item_ids:
+        errors.append(f"news_id: references missing canonical item {news_id}")
+
+    subjects = packet.get("subjects")
+    subjects_by_id: dict[str, dict[str, Any]] = {}
+    if not isinstance(subjects, list) or not subjects:
+        errors.append("subjects: expected non-empty array")
+    elif any(not isinstance(subject, dict) for subject in subjects):
+        errors.append("subjects: every entry must be an object")
+    else:
+        for index, subject in enumerate(subjects):
+            assert isinstance(subject, dict)
+            prefix = f"subjects[{index}]"
+            validate_exact_keys(errors, prefix, subject, SUBJECT_FIELDS)
+            subject_id = subject.get("subject_id")
+            identity_url = subject.get("identity_url")
+            if not isinstance(subject_id, str) or not SUBJECT_ID_RE.fullmatch(subject_id):
+                errors.append(f"{prefix}.subject_id: expected sgs-{{32 lowercase hex characters}}")
+            if subject.get("subject_kind") not in SUBJECT_KINDS:
+                errors.append(f"{prefix}.subject_kind: unsupported subject kind")
+            _subject_text(errors, f"{prefix}.canonical_name", subject.get("canonical_name"), 500)
+            if not is_public_https_url(identity_url):
+                errors.append(f"{prefix}.identity_url: expected public HTTPS URL")
+            elif subject_id != _subject_id(identity_url):
+                errors.append(f"{prefix}.subject_id: must derive from exact identity_url")
+            if isinstance(subject_id, str):
+                if subject_id in subjects_by_id:
+                    errors.append(f"{prefix}.subject_id: duplicate subject")
+                subjects_by_id[subject_id] = subject
+
+    about = packet.get("about")
+    if not isinstance(about, str) or about not in subjects_by_id:
+        errors.append("about: must name exactly one packet subject")
+    mentions = packet.get("mentions")
+    if not isinstance(mentions, list) or any(not isinstance(value, str) for value in mentions):
+        errors.append("mentions: expected array of subject IDs")
+    elif len(mentions) != len(set(mentions)) or any(value not in subjects_by_id for value in mentions):
+        errors.append("mentions: must be unique packet subjects")
+    elif about in mentions:
+        errors.append("mentions: primary about subject cannot be a secondary mention")
+
+    relations = packet.get("relations")
+    seen_relations: set[tuple[str, str, str, tuple[str, ...]]] = set()
+    if not isinstance(relations, list) or any(not isinstance(value, dict) for value in relations):
+        errors.append("relations: expected array of relation objects")
+    else:
+        for index, relation in enumerate(relations):
+            assert isinstance(relation, dict)
+            prefix = f"relations[{index}]"
+            validate_exact_keys(errors, prefix, relation, SUBJECT_RELATION_FIELDS)
+            source = relation.get("from_subject_id")
+            target = relation.get("to_subject_id")
+            if not isinstance(source, str) or source not in subjects_by_id:
+                errors.append(f"{prefix}.from_subject_id: must name a packet subject")
+            if not isinstance(target, str) or target not in subjects_by_id:
+                errors.append(f"{prefix}.to_subject_id: must name a packet subject")
+            if source == target and isinstance(source, str):
+                errors.append(f"{prefix}: self relations are forbidden")
+            if relation.get("relation") not in SUBJECT_RELATIONS:
+                errors.append(f"{prefix}.relation: unsupported relation")
+            urls = relation.get("evidence_urls")
+            if not isinstance(urls, list) or not urls or any(not is_public_https_url(url) for url in urls):
+                errors.append(f"{prefix}.evidence_urls: expected non-empty public HTTPS URLs")
+                continue
+            if len(urls) != len(set(urls)):
+                errors.append(f"{prefix}.evidence_urls: duplicate URLs are forbidden")
+            key = (source, str(relation.get("relation")), target, tuple(sorted(urls)))
+            if key in seen_relations:
+                errors.append(f"{prefix}: duplicate relation")
+            seen_relations.add(key)
+    for private_path in find_private_keys(packet):
+        errors.append(f"{private_path}: private/raw field is forbidden in the public feed")
+    return errors
+
+
+def _acyclic_subject_relations(packets: list[dict[str, Any]]) -> list[str]:
+    edges: dict[str, set[str]] = defaultdict(set)
+    for packet in packets:
+        for relation in packet["relations"]:
+            if relation["relation"] in {"version_of", "derived_from"}:
+                edges[relation["from_subject_id"]].add(relation["to_subject_id"])
+    visiting: set[str] = set()
+    visited: set[str] = set()
+
+    def visit(subject_id: str) -> bool:
+        if subject_id in visiting:
+            return True
+        if subject_id in visited:
+            return False
+        visiting.add(subject_id)
+        if any(visit(target) for target in edges[subject_id]):
+            return True
+        visiting.remove(subject_id)
+        visited.add(subject_id)
+        return False
+
+    return ["subject links: version_of/derived_from cycle"] if any(visit(subject_id) for subject_id in edges) else []
+
+
+def load_subject_packets(news_dir: Path, records: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    packet_dir = news_dir / "subject-links"
+    if not packet_dir.exists():
+        return []
+    if not packet_dir.is_dir():
+        raise ContractError(f"subject-links is not a directory: {packet_dir}")
+    item_ids = {record["id"] for record in records}
+    packets: list[dict[str, Any]] = []
+    errors: list[str] = []
+    identity_by_subject: dict[str, tuple[str, str]] = {}
+    for path in sorted(packet_dir.glob("*.json"), key=lambda candidate: candidate.name):
+        try:
+            packet = load_json_text(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError, DuplicateKeyError) as exc:
+            errors.append(f"{path.name}: invalid JSON: {exc}")
+            continue
+        packet_errors = validate_subject_packet(packet, path.name, item_ids)
+        for error in packet_errors:
+            errors.append(f"{path.name}: {error}")
+        if packet_errors or not isinstance(packet, dict):
+            continue
+        for subject in packet.get("subjects", []):
+            if not isinstance(subject, dict):
+                continue
+            subject_id = subject.get("subject_id")
+            identity = (subject.get("identity_url"), subject.get("subject_kind"))
+            if isinstance(subject_id, str) and all(isinstance(value, str) for value in identity):
+                prior = identity_by_subject.setdefault(subject_id, identity)
+                if prior != identity:
+                    errors.append(f"{path.name}: {subject_id} conflicts with prior identity URL or kind")
+        packets.append(packet)
+    errors.extend(_acyclic_subject_relations(packets))
+    if errors:
+        raise ContractError("\n".join(errors))
+    return packets
+
+
+def build_subject_index(records: list[dict[str, Any]], packets: list[dict[str, Any]]) -> dict[str, Any]:
+    by_id = {record["id"]: record for record in records}
+    packets_by_id = {packet["news_id"]: packet for packet in packets}
+    subjects: dict[str, dict[str, Any]] = {}
+    names: dict[str, tuple[str, str, str]] = {}
+    for news_id, packet in sorted(packets_by_id.items()):
+        event_at = posted_at(by_id[news_id])
+        for subject in packet["subjects"]:
+            subject_id = subject["subject_id"]
+            entry = subjects.setdefault(subject_id, {
+                "subject_kind": subject["subject_kind"], "canonical_name": subject["canonical_name"],
+                "identity_url": subject["identity_url"], "first_known_event_at": event_at,
+                "about_news_ids": [], "mentioned_news_ids": [], "relations": [],
+            })
+            if (entry["subject_kind"], entry["identity_url"]) != (subject["subject_kind"], subject["identity_url"]):
+                raise ContractError(f"{subject_id}: conflicting subject identity")
+            candidate = (event_at, news_id, subject["canonical_name"])
+            if candidate >= names.get(subject_id, ("", "", "")):
+                names[subject_id] = candidate
+                entry["canonical_name"] = subject["canonical_name"]
+            entry["first_known_event_at"] = min(entry["first_known_event_at"], event_at)
+        subjects[packet["about"]]["about_news_ids"].append(news_id)
+        for subject_id in packet["mentions"]:
+            subjects[subject_id]["mentioned_news_ids"].append(news_id)
+        for relation in packet["relations"]:
+            subjects[relation["from_subject_id"]]["relations"].append({
+                "from_subject_id": relation["from_subject_id"], "relation": relation["relation"],
+                "to_subject_id": relation["to_subject_id"], "evidence_urls": sorted(relation["evidence_urls"]), "news_id": news_id,
+            })
+    for subject_id, entry in subjects.items():
+        key = lambda news_id: (posted_at(by_id[news_id]), news_id)
+        entry["about_news_ids"] = sorted(entry["about_news_ids"], key=key)
+        entry["mentioned_news_ids"] = sorted(entry["mentioned_news_ids"], key=key)
+        seen: set[tuple[str, str, str, tuple[str, ...], str]] = set()
+        unique = []
+        for relation in sorted(entry["relations"], key=lambda value: (posted_at(by_id[value["news_id"]]), value["news_id"], value["from_subject_id"], value["relation"], value["to_subject_id"], value["evidence_urls"])):
+            marker = (relation["from_subject_id"], relation["relation"], relation["to_subject_id"], tuple(relation["evidence_urls"]), relation["news_id"])
+            if marker not in seen:
+                seen.add(marker)
+                unique.append(relation)
+        entry["relations"] = unique
+    return {
+        "schema_version": "subjects-index-v1",
+        "packets": {news_id: f"subject-links/{news_id}.json" for news_id in sorted(packets_by_id)},
+        "subjects": {subject_id: subjects[subject_id] for subject_id in sorted(subjects)},
+    }
+
+
 def posted_at(item: dict[str, Any]) -> str:
     return item["source"]["posted_at"]
 
@@ -1285,7 +1522,7 @@ def deterministic_timestamp(records: list[dict[str, Any]]) -> str:
     return max(posted_at(item) for item in records) + "T00:00:00Z"
 
 
-def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
+def build_outputs(records: list[dict[str, Any]], packets: list[dict[str, Any]] | None = None) -> dict[str, bytes]:
     ordered = sorted(records, key=chronological_key, reverse=True)
     generated_at = deterministic_timestamp(records)
     projections = [projection(item) for item in ordered]
@@ -1310,6 +1547,7 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
         for slug in sorted(grouped_projects)
     }
     organizations = aggregate_organizations(records)
+    subject_index = build_subject_index(records, [] if packets is None else packets)
 
     aliases: dict[str, list[str]] = {}
     alias_owners: dict[str, str] = {}
@@ -1349,6 +1587,7 @@ def build_outputs(records: list[dict[str, Any]]) -> dict[str, bytes]:
         "_years.json": {key: years[key] for key in sorted(years, reverse=True)},
         "_projects.json": projects,
         "_organizations.json": organizations,
+        "_subjects.json": subject_index,
         "_aliases.json": aliases,
         "all.json": {
             "schema_version": CURRENT_SCHEMA_VERSION,
@@ -1371,6 +1610,15 @@ def check_schema_document(news_dir: Path) -> None:
         raise ContractError("schema-v1.4.json must declare JSON Schema draft 2020-12")
     if schema.get("$id") != "https://diffusion.love/news/schema-v1.4.json":
         raise ContractError("schema-v1.4.json has an unexpected canonical $id")
+    subject_schema_path = news_dir / "schema-subject-links-v1.json"
+    try:
+        subject_schema = load_json_text(subject_schema_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError, DuplicateKeyError) as exc:
+        raise ContractError(f"subject link schema is unreadable: {subject_schema_path}: {exc}") from exc
+    if subject_schema.get("$schema") != "https://json-schema.org/draft/2020-12/schema":
+        raise ContractError("schema-subject-links-v1.json must declare JSON Schema draft 2020-12")
+    if subject_schema.get("$id") != "https://diffusion.love/news/schema-subject-links-v1.json":
+        raise ContractError("schema-subject-links-v1.json has an unexpected canonical $id")
 
 
 def atomic_write(path: Path, content: bytes) -> None:
@@ -1392,10 +1640,11 @@ def atomic_write(path: Path, content: bytes) -> None:
 def run(news_dir: Path, check: bool, validate_only: bool) -> int:
     check_schema_document(news_dir)
     records = load_items(news_dir)
+    packets = load_subject_packets(news_dir, records)
     if validate_only:
         print(f"validated {len(records)} canonical items")
         return 0
-    outputs = build_outputs(records)
+    outputs = build_outputs(records, packets)
     if check:
         mismatches = [
             name

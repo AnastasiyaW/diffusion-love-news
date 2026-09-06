@@ -23,16 +23,17 @@ class JsDelivrPurgeTest(unittest.TestCase):
             "news/_meta.json",
             "news/_organizations.json",
             "news/_projects.json",
+            "news/_subjects.json",
             "news/_tags.json",
             "news/_years.json",
             "news/all.json",
         }
         paths = purge_jsdelivr.select_purge_paths(
-            ["news/items/n-3904aeff63.json", "news/items/n-3904aeff63.json"]
+            ["news/items/n-3904aeff63.json", "news/items/n-3904aeff63.json", "news/subject-links/n-3904aeff63.json", "news/schema-subject-links-v1.json"]
         )
 
         self.assertEqual(set(purge_jsdelivr.CRITICAL_PATHS), expected_critical)
-        self.assertEqual(set(paths), expected_critical | {"news/items/n-3904aeff63.json"})
+        self.assertEqual(set(paths), expected_critical | {"news/items/n-3904aeff63.json", "news/subject-links/n-3904aeff63.json", "news/schema-subject-links-v1.json"})
 
     def test_selection_rejects_non_public_or_traversal_paths(self):
         for value in (
@@ -43,6 +44,8 @@ class JsDelivrPurgeTest(unittest.TestCase):
             "news/private/secret.json",
             "news/items/not-an-item.json",
             "news/items/n-123.json",
+            "news/subject-links/not-a-packet.json",
+            "news/subject-links/n-123.json",
         ):
             with self.subTest(value=value):
                 with self.assertRaises(ValueError):
