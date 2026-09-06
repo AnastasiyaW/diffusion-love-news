@@ -1,0 +1,121 @@
+{
+ "schema_version": "1.3",
+ "id": "n-9bfa3923dd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LLaDA-Image unified 6B image/edit model released on 2026-09-04",
+ "summary": "Reddit announcement in r/StableDiffusion; GitHub repo inclusionAI/LLaDA-Image; arXiv paper 2609.03796; HuggingFace models inclusionAI/LLaDA-Image and inclusionAI/LLaDA-Image-Turbo.",
+ "research_notes": "",
+ "project": {
+  "name": "Llada Image",
+  "family_slug": "llada-image",
+  "family_display": "Llada Image",
+  "model_slug": "llada-image",
+  "model_display": "Llada Image",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Llada Image",
+  "family:llada-image",
+  "llada-image",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "llada-image"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1w6u2hb/lladaimage_a_unified_6b_imageedit_model_has_been/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/inclusionAI/LLaDA-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "paper",
+   "url": "https://arxiv.org/abs/2609.03796",
+   "host": "arxiv.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/inclusionAI/LLaDA-Image",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/inclusionAI/LLaDA-Image-Turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "Reddit announcement in r/StableDiffusion; GitHub repo inclusionAI/LLaDA-Image; arXiv paper 2609.03796; HuggingFace models inclusionAI/LLaDA-Image and inclusionAI/LLaDA-Image-Turbo."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

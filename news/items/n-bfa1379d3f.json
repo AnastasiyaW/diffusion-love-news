@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-bfa1379d3f",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Release of K2-Horizon-MoVA-36B-A4B open-source model family",
+ "summary": "IFM released the K2-Horizon MoVA 36B A4B model, a Mixture-of-Experts + MoVA-attention hybrid architecture. It activates 4B parameters per token, supports up to 512K context, and competes with closed frontier models at 4B active parameters. The model is fully open, with training recipes and intermediate checkpoints to be published. Validated on 2x H200 in BF16 with Tensor Parallel 2.",
+ "research_notes": "",
+ "project": {
+  "name": "K2 Horizon Mova 36B A4B",
+  "family_slug": "k2-horizon-mova-36b-a4b",
+  "family_display": "K2 Horizon Mova 36B A4B",
+  "model_slug": "k2-horizon-mova-36b-a4b",
+  "model_display": "K2 Horizon Mova 36B A4B",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "K2 Horizon Mova 36B A4B",
+  "family:k2-horizon-mova-36b-a4b",
+  "k2-horizon-mova-36b-a4b",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "k2-horizon-mova-36b-a4b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "IFM released the K2-Horizon MoVA 36B A4B model, a Mixture-of-Experts + MoVA-attention hybrid architecture. It activates 4B parameters per token, supports up to 512K context, and competes with closed frontier models at 4B active parameters. The model is fully open, with training recipes and intermediate checkpoints to be published. Validated on 2x H200 in BF16 with Tensor Parallel 2."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

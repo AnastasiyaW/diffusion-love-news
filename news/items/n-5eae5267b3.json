@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-5eae5267b3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Fable 5.1: 3277 elo UCI NNUE Engine in 24 hrs",
+ "summary": "Announcement of Fable 5.1 reaching 3277 elo UCI NNUE within 24 hours of development.",
+ "research_notes": "",
+ "project": {
+  "name": "Claude",
+  "family_slug": "claude",
+  "family_display": "Claude",
+  "model_slug": "claude",
+  "model_display": "Claude",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Claude",
+  "claude",
+  "family:claude",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "claude"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://talkchess.com/viewtopic.php?t=86707",
+   "host": "talkchess.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-05",
+  "excerpt": "Announcement of Fable 5.1 reaching 3277 elo UCI NNUE within 24 hours of development."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

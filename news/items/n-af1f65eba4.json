@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-af1f65eba4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax H3 lip synchronization experiment",
+ "summary": "An experiment with MiniMax H3 featuring lip synchronization.",
+ "research_notes": "",
+ "project": {
+  "name": "MiniMax H3",
+  "family_slug": "minimax-h3",
+  "family_display": "MiniMax H3",
+  "model_slug": "minimax-h3",
+  "model_display": "MiniMax H3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "MiniMax H3",
+  "family:minimax-h3",
+  "minimax",
+  "minimax-h3",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimax-h3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1w8j71b/an_experiment_i_made_with_minimax_h3_featuring/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-06",
+  "excerpt": "An experiment with MiniMax H3 featuring lip synchronization."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

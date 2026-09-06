@@ -1,0 +1,131 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a822d26600",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "MiniMax H3 GitHub Repositories and Hugging Face Leaderboard Announced",
+ "summary": "Announcement of new tools for MiniMax H3 video generation: TimelineDirector splits long chronometers into chunks for single-pass rendering, H3-ExactAudioLock ensures precise audio-video sync for multi-speaker scenes, Motion Director provides clip management with Mixed Mode (T2V/I2V/R2V), and FlowDirector offers a visual timeline manager for long videos. A Hugging Face leaderboard compares models, variants, and LoRas.",
+ "research_notes": "",
+ "project": {
+  "name": "Minimaxh3",
+  "family_slug": "minimaxh3",
+  "family_display": "Minimaxh3",
+  "model_slug": "minimaxh3",
+  "model_display": "Minimaxh3",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Minimaxh3",
+  "family:minimaxh3",
+  "minimaxh3",
+  "minimaxh3-timelinedirector",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "minimaxh3"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/badgids/ComfyUI-H3-ExactAudioLock",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://reddit.com/r/MiniMax_AI/comments/1w5wdjs/how_to_made_minimax_h3_video_edits_way_easier_to/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/spaces/multimodalart/h3-acceleration-arena",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/j955229/ComfyUI-MiniMax-H3-Motion-Director",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/AlonAshken/ComfyUI-MiniMaxH3-FlowDirector",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-05",
+  "excerpt": "Announcement of new tools for MiniMax H3 video generation: TimelineDirector splits long chronometers into chunks for single-pass rendering, H3-ExactAudioLock ensures precise audio-video sync for multi-speaker scenes, Motion Director provides clip management with Mixed Mode (T2V/I2V/R2V), and FlowDirector offers a visual timeline manager for long videos. A Hugging Face leaderboard compares models, variants, and LoRas."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

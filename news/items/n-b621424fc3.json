@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b621424fc3",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Viggle-Animate model release with performance claims",
+ "summary": "- Preserves motion, camera, synchronization; passes models for pose/segments/faces/text; fine-tuning H3 ref2va with DMD up to 3 passes; 6x faster than Wan2.2-Animate; tracks fast movement, animals, non-humanoid creatures.",
+ "research_notes": "",
+ "project": {
+  "name": "Viggle Animate",
+  "family_slug": "viggle-animate",
+  "family_display": "Viggle Animate",
+  "model_slug": "viggle-animate",
+  "model_display": "Viggle Animate",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Viggle Animate",
+  "family:viggle-animate",
+  "misc",
+  "viggle-animate"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "viggle-animate"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Viggle/Viggle-Animate",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "- Preserves motion, camera, synchronization; passes models for pose/segments/faces/text; fine-tuning H3 ref2va with DMD up to 3 passes; 6x faster than Wan2.2-Animate; tracks fast movement, animals, non-humanoid creatures."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

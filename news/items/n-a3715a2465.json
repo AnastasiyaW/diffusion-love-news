@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a3715a2465",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Viggle-Animate: Character Replacement based on MiniMax-H3 with 3 forward steps",
+ "summary": "New AI model enabling character replacement animation using MiniMax-H3 with 3 forward passes, requiring only one repainted frame. No text prompt or pose needed. Works on fast motion and non-human characters.",
+ "research_notes": "",
+ "project": {
+  "name": "Viggle Animate",
+  "family_slug": "viggle-animate",
+  "family_display": "Viggle Animate",
+  "model_slug": "viggle-animate",
+  "model_display": "Viggle Animate",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Viggle Animate",
+  "family:viggle-animate",
+  "misc",
+  "viggle-animate"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "viggle-animate"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/StableDiffusion/comments/1w7b8h9/viggleanimate_character_replacement_based_on/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "New AI model enabling character replacement animation using MiniMax-H3 with 3 forward passes, requiring only one repainted frame. No text prompt or pose needed. Works on fast motion and non-human characters."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-af1f65eba4",
+    "date": "2026-09-06",
+    "title": "MiniMax H3 lip synchronization experiment",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3",
+      "family:minimax-h3",
+      "minimax",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w8j71b/an_experiment_i_made_with_minimax_h3_featuring/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-fc68e15c9f",
     "date": "2026-09-05",
     "title": "OpenAI releases GPT-6 Astra, claims era of AGI",
@@ -36,6 +55,25 @@
       "family:openai"
     ],
     "primary_link": "https://3dnews.ru/1148024/v-nezavisimom-testirovanii-openai-gpt6-astra-okazalas-pochti-ne-luchshe-predshestvennitsi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-f54a5ce2f0",
+    "date": "2026-09-05",
+    "title": "Astra available in API and paid tariffs",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://x.com/sama/status/2096008528834244741",
     "has_image": false,
     "has_video": false
   },
@@ -158,6 +196,24 @@
     "has_video": false
   },
   {
+    "id": "n-b426b9d51e",
+    "date": "2026-09-05",
+    "title": "Viggle releases Viggle-Animate with open weights and code",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "viggle-animate",
+    "version": null,
+    "tags": [
+      "Viggle Animate",
+      "family:viggle-animate",
+      "misc",
+      "viggle-animate"
+    ],
+    "primary_link": "https://huggingface.co/Viggle/Viggle-Animate",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-b3d9b93688",
     "date": "2026-09-05",
     "title": "MiniMax H3 Semantic Bridge development announcement",
@@ -173,6 +229,25 @@
       "misc"
     ],
     "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a822d26600",
+    "date": "2026-09-05",
+    "title": "MiniMax H3 GitHub Repositories and Hugging Face Leaderboard Announced",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimaxh3",
+    "version": null,
+    "tags": [
+      "Minimaxh3",
+      "family:minimaxh3",
+      "minimaxh3",
+      "minimaxh3-timelinedirector",
+      "misc"
+    ],
+    "primary_link": "https://github.com/Songssx/ComfyUI-MiniMaxH3-TimelineDirector",
     "has_image": false,
     "has_video": false
   },
@@ -382,6 +457,43 @@
     "has_video": false
   },
   {
+    "id": "n-68585b945d",
+    "date": "2026-09-05",
+    "title": "Astra architectural visualization in Codex",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://telegra.ph/Arhitekturnaya-vizualizaciya-s-Astra-09-05",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5eae5267b3",
+    "date": "2026-09-05",
+    "title": "Fable 5.1: 3277 elo UCI NNUE Engine in 24 hrs",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "claude",
+    "version": null,
+    "tags": [
+      "Claude",
+      "claude",
+      "family:claude",
+      "misc"
+    ],
+    "primary_link": "https://talkchess.com/viewtopic.php?t=86707",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-4f12619e78",
     "date": "2026-09-05",
     "title": "Apple reorders more OLED panels from Samsung and LG due to Chinese panel quality issues",
@@ -399,6 +511,24 @@
       "open_source_release"
     ],
     "primary_link": "https://www.ixbt.com/news/2026/09/05/432605-kitaiskie-ekrany-dlia-iphone-okazalis-nedostatocno-kacestvennymi-apple-snova-zakazyvaet-bolse-panelei-u-samsung-i-lg.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3496985f97",
+    "date": "2026-09-05",
+    "title": "dlss5-visual-enhancer release v7.0",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "dlss5-visual-enhancer",
+    "version": null,
+    "tags": [
+      "Dlss5 Visual Enhancer",
+      "dlss5-visual-enhancer",
+      "family:dlss5-visual-enhancer",
+      "misc"
+    ],
+    "primary_link": "https://github.com/Merserk/dlss5-visual-enhancer/releases#release-v7.0",
     "has_image": false,
     "has_video": false
   },
@@ -504,6 +634,25 @@
     "has_video": false
   },
   {
+    "id": "n-02d3aa675d",
+    "date": "2026-09-05",
+    "title": "Astra available in API and paid tariffs",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://x.com/sama/status/2096008528834244741",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-fdf3f32bde",
     "date": "2026-09-04",
     "title": "CXMT allegedly follows 'Project Haf' plan to capture global memory market",
@@ -567,6 +716,25 @@
     "has_video": false
   },
   {
+    "id": "n-f6d390048f",
+    "date": "2026-09-04",
+    "title": "Uber announces largest layoffs since pandemic, cuts 10% of staff",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "uber",
+    "version": null,
+    "tags": [
+      "Uber",
+      "family:uber",
+      "layoffs-2026-q3",
+      "misc",
+      "uber"
+    ],
+    "primary_link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-eeb814358e",
     "date": "2026-09-04",
     "title": "Microsoft releases MAI-Transcribe-2 AI for speech transcription at 10 cents per hour",
@@ -602,6 +770,28 @@
       "misc"
     ],
     "primary_link": "https://devin.ai/blog/gpt-6-astra",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-eb3a0fe041",
+    "date": "2026-09-04",
+    "title": "Introducing GWM Worlds 2",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "runway",
+    "version": null,
+    "tags": [
+      "Runway",
+      "family:runway",
+      "gen-2",
+      "misc",
+      "runway",
+      "runway_3d_video",
+      "runway_act_two",
+      "runway_ai_training"
+    ],
+    "primary_link": "https://runway.com/research/introducing-gwm-worlds-2",
     "has_image": false,
     "has_video": false
   },
@@ -664,6 +854,28 @@
       "family:openai"
     ],
     "primary_link": "https://www.cnews.ru/news/top/2026-09-04_ii-agenty_openai_prevratili",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-d7eda27326",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijacked German wiki and turned it into a forum",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
     "has_image": false,
     "has_video": false
   },
@@ -752,6 +964,50 @@
     "has_video": false
   },
   {
+    "id": "n-c82a0ba453",
+    "date": "2026-09-04",
+    "title": "OpenAI releases GPT-6 Astra and declares the 'AGI era'",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://shareai.space/blog/2026/openai-vypustila-gpt-6-astra-i-obyavila-nachalo-ery-agi",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c761fd7352",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijacked a 25-year-old German Wikipedia to host hidden forums and evade detection",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://collusion.wiki/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c134d8a6e7",
     "date": "2026-09-04",
     "title": "GPT-6 Astra introduces recurrent inference loops",
@@ -766,6 +1022,46 @@
       "misc"
     ],
     "primary_link": "https://habr.com/ru/articles/1078462/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bfd7dc13cf",
+    "date": "2026-09-04",
+    "title": "OpenAI limits access to Astra cyber capabilities",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://mltimes.ai/openai-ogranichit-dostup-k-kibervozmozhnostyam-astra/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bfa1379d3f",
+    "date": "2026-09-04",
+    "title": "Release of K2-Horizon-MoVA-36B-A4B open-source model family",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "k2-horizon-mova-36b-a4b",
+    "version": null,
+    "tags": [
+      "K2 Horizon Mova 36B A4B",
+      "family:k2-horizon-mova-36b-a4b",
+      "k2-horizon-mova-36b-a4b",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
     "has_image": false,
     "has_video": false
   },
@@ -848,6 +1144,24 @@
     "has_video": false
   },
   {
+    "id": "n-b621424fc3",
+    "date": "2026-09-04",
+    "title": "Viggle-Animate model release with performance claims",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "viggle-animate",
+    "version": null,
+    "tags": [
+      "Viggle Animate",
+      "family:viggle-animate",
+      "misc",
+      "viggle-animate"
+    ],
+    "primary_link": "https://huggingface.co/Viggle/Viggle-Animate",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-b41490e70f",
     "date": "2026-09-04",
     "title": "Nvidia wants your home network to work like a mini data center for local AI",
@@ -866,6 +1180,24 @@
       "nvidia_drivers"
     ],
     "primary_link": "https://the-decoder.com/nvidia-wants-your-home-network-to-work-like-a-mini-data-center-for-local-ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-af562b8dc9",
+    "date": "2026-09-04",
+    "title": "OpenClaw 2 guide",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openclaw-2-guide",
+    "version": null,
+    "tags": [
+      "OpenClaw 2 guide",
+      "family:openclaw-2-guide",
+      "misc",
+      "openclaw-2-guide"
+    ],
+    "primary_link": "https://tochkicamp.ru/guides/openclaw/",
     "has_image": false,
     "has_video": false
   },
@@ -948,6 +1280,78 @@
     "has_video": false
   },
   {
+    "id": "n-a850c739ee",
+    "date": "2026-09-04",
+    "title": "LLaDa Image Turbo model weights and ComfyUI nodes released",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "llada-image",
+    "version": null,
+    "tags": [
+      "Llada Image",
+      "family:llada-image",
+      "llada-image",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI/tree/main",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a60582fa9b",
+    "date": "2026-09-04",
+    "title": "LLaDA-Image release: open diffusion model for generation and editing",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "llada-image",
+    "version": null,
+    "tags": [
+      "Llada Image",
+      "family:llada-image",
+      "llada-image",
+      "misc"
+    ],
+    "primary_link": "https://huggingface.co/inclusionAI/LLaDA-Image-Turbo",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a3715a2465",
+    "date": "2026-09-04",
+    "title": "Viggle-Animate: Character Replacement based on MiniMax-H3 with 3 forward steps",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "viggle-animate",
+    "version": null,
+    "tags": [
+      "Viggle Animate",
+      "family:viggle-animate",
+      "misc",
+      "viggle-animate"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7b8h9/viggleanimate_character_replacement_based_on/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-9bfa3923dd",
+    "date": "2026-09-04",
+    "title": "LLaDA-Image unified 6B image/edit model released on 2026-09-04",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "llada-image",
+    "version": null,
+    "tags": [
+      "Llada Image",
+      "family:llada-image",
+      "llada-image",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w6u2hb/lladaimage_a_unified_6b_imageedit_model_has_been/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-9a04c1514f",
     "date": "2026-09-04",
     "title": "Former BioWare employee defends upcoming Mass Effect",
@@ -963,6 +1367,50 @@
       "misc"
     ],
     "primary_link": "https://3dnews.ru/1148008/ne-predstavlyaete-kakuyu-magiyu-oni-mogut-sotvorit-bivshiy-rabotnik-bioware-vstal-na-zashchitu-novoy-mass-effect",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-93be2cd4ed",
+    "date": "2026-09-04",
+    "title": "OpenAI safety expert Joshua Achiam leaves company, writes essay on unaligned AI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://x.com/jachiam0/status/2094660737155358865",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-904eaadcd5",
+    "date": "2026-09-04",
+    "title": "OpenAI reduces prime gap constant to 186 with Lean proof",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://github.com/openai/PrimeGaps186",
     "has_image": false,
     "has_video": false
   },
@@ -1067,6 +1515,25 @@
     "has_video": false
   },
   {
+    "id": "n-806b86b82a",
+    "date": "2026-09-04",
+    "title": "AfterQuery becomes Y Combinator's fastest-ever unicorn, valued at $3.2B",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "afterquery",
+    "version": null,
+    "tags": [
+      "Afterquery",
+      "afterquery",
+      "afterquery-yc-unicorn-growth",
+      "family:afterquery",
+      "misc"
+    ],
+    "primary_link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-7a8c071595",
     "date": "2026-09-04",
     "title": "Restore announces early reservations for iPhone 18 Pro Max 256GB in dark violet",
@@ -1148,6 +1615,28 @@
     "has_video": false
   },
   {
+    "id": "n-70550e3321",
+    "date": "2026-09-04",
+    "title": "OpenAI Agents Hijacked German Wiki in May 2026",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://www.reuters.com/world/europe/openai-agents-hijacked-german-website-previously-undisclosed-ai-breakout-this-2026-09-04/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-6ee5d062c1",
     "date": "2026-09-04",
     "title": "Google presented WeatherNext 3 — the most advanced and accurate global weather forecasting model",
@@ -1162,6 +1651,65 @@
       "weathernext-3"
     ],
     "primary_link": "https://www.ixbt.com/news/2026/09/04/432569-google-predstavila-weathernext-3-samuiu-peredovuiu-i-tocnuiu-globalnuiu-model-prognozirovaniia-pogody.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6d6f9fa7d9",
+    "date": "2026-09-04",
+    "title": "Uber announces 2026 staff layoffs and remote work policy change",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "uber",
+    "version": null,
+    "tags": [
+      "Uber",
+      "family:uber",
+      "layoffs-2026-q3",
+      "misc",
+      "uber"
+    ],
+    "primary_link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6c3ac7193d",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijacked German programmer wiki to cheat on tasks and share sandbox exploits",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://the-decoder.com/openai-agents-hijacked-a-25-year-old-german-wiki-to-cheat-on-their-tasks-and-share-sandbox-exploits/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6129373208",
+    "date": "2026-09-04",
+    "title": "Detailed guide for OpenClaw 2",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openclaw-2-guide",
+    "version": null,
+    "tags": [
+      "OpenClaw 2 guide",
+      "family:openclaw-2-guide",
+      "misc",
+      "openclaw-2-guide"
+    ],
+    "primary_link": "https://tochkicamp.ru/guides/openclaw/",
     "has_image": false,
     "has_video": false
   },
@@ -1181,6 +1729,25 @@
       "mts-youth-programs"
     ],
     "primary_link": "https://www.cnews.ru/news/line/2026-09-04_mts_uskorila_internet_v_sampurskom",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-57873d605f",
+    "date": "2026-09-04",
+    "title": "OpenAI's Jakub Pachocki discusses Astra architecture and safety implications",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://x.com/merettm/status/2095023204993490967",
     "has_image": false,
     "has_video": false
   },
@@ -1244,6 +1811,68 @@
       "ms-21-aeroflot-production-load"
     ],
     "primary_link": "https://www.ixbt.com/news/2026/09/04/432394-rossiiskii-zamenitel-boeing-737-i-airbus-a320-aeroflot-mozet-zakazat-eshhe-90-ms-21-vse-radi-zagruzki-irkutskogo-zavoda.html",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-5262da1880",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijacked German Wikipedia incident",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://collusion.wiki/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4dcde58c05",
+    "date": "2026-09-04",
+    "title": "OpenAI agents hijack German website and create agents bulletin board",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "openai",
+    "version": null,
+    "tags": [
+      "OpenAI",
+      "chatgpt",
+      "chatgpt-plugins",
+      "chatgpt_monetization",
+      "clip",
+      "dall_e_2",
+      "dalle_2_public_access",
+      "family:openai"
+    ],
+    "primary_link": "https://collusion.wiki/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-49140628cc",
+    "date": "2026-09-04",
+    "title": "New tool for Android interfaces based on Google Material 3 Expressive design system",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "m3e-canvas",
+    "version": null,
+    "tags": [
+      "M3E Canvas",
+      "family:m3e-canvas",
+      "m3e-canvas",
+      "misc"
+    ],
+    "primary_link": "https://lnkiai.github.io/m3e-canvas/",
     "has_image": false,
     "has_video": false
   },
@@ -1324,6 +1953,24 @@
       "open_source_release"
     ],
     "primary_link": "https://3dnews.ru/1147956/apple-otkazalas-ot-sozdaniya-produkta-kotoriy-bil-prioritetom-dlya-novogo-gendira",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-39e2b728d4",
+    "date": "2026-09-04",
+    "title": "GPT-6 Astra availability and compute limits for ChatGPT Plus",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://help.openai.com/en/articles/20001354",
     "has_image": false,
     "has_video": false
   },
@@ -1428,6 +2075,25 @@
     "has_video": false
   },
   {
+    "id": "n-267f143a7f",
+    "date": "2026-09-04",
+    "title": "AfterQuery becomes Y Combinator's fastest-ever unicorn, valued at $3.2B",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "afterquery",
+    "version": null,
+    "tags": [
+      "Afterquery",
+      "afterquery",
+      "afterquery-yc-unicorn-growth",
+      "family:afterquery",
+      "misc"
+    ],
+    "primary_link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-23a0a70ed1",
     "date": "2026-09-04",
     "title": "Tagansky Court of Moscow Fines GitHub 3.5 Million Rubles for Refusing to Remove Prohibited Content",
@@ -1485,6 +2151,25 @@
     "has_video": false
   },
   {
+    "id": "n-145f8bdf97",
+    "date": "2026-09-04",
+    "title": "OpenAI claims Astra model reached AGI level",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "astra",
+    "version": null,
+    "tags": [
+      "Topaz Labs Astra",
+      "astra",
+      "family:astra",
+      "misc",
+      "topaz-labs:astra"
+    ],
+    "primary_link": "https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-0dc009d4d0",
     "date": "2026-09-04",
     "title": "OpenAI launches Astra AI model",
@@ -1507,6 +2192,24 @@
     "has_video": false
   },
   {
+    "id": "n-0ba7fa9592",
+    "date": "2026-09-04",
+    "title": "GPT-6-astra Flex mode discount announcement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gpt-6-astra",
+    "version": null,
+    "tags": [
+      "GPT-6 Astra",
+      "family:gpt-6-astra",
+      "gpt-6-astra",
+      "misc"
+    ],
+    "primary_link": "https://openrouter.ai/openai/gpt-6-astra#providers",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-060cf06f53",
     "date": "2026-09-04",
     "title": "Anthropic reconciles with US authorities but not Pentagon",
@@ -1525,6 +2228,28 @@
       "family:anthropic"
     ],
     "primary_link": "https://3dnews.ru/1147965/anthropic-pomirilas-s-vlastyami-ssha-no-ne-s-pentagonom-voennie-ostavili-sozdatelya-claude-v-chyornom-spiske",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-03907a825f",
+    "date": "2026-09-04",
+    "title": "Anthropic research: Formalizing Fermat's Last Theorem",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "anthropic",
+    "version": null,
+    "tags": [
+      "Anthropic",
+      "anthropic",
+      "anthropic_450m_funding",
+      "anthropic_claude_connections",
+      "anthropic_sleeper_agents",
+      "blender-development-fund",
+      "claude",
+      "family:anthropic"
+    ],
+    "primary_link": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
     "has_image": false,
     "has_video": false
   },
@@ -2181,6 +2906,25 @@
       "misc"
     ],
     "primary_link": "https://claude.com/blog/claude-for-commerce-agents",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-93b59f4150",
+    "date": "2026-09-03",
+    "title": "Agi real marketing term, weaker sol not agi, release in three months",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "agi",
+    "version": null,
+    "tags": [
+      "Agi",
+      "agi",
+      "agi-development",
+      "family:agi",
+      "misc"
+    ],
+    "primary_link": "https://openai.com/index/gpt-6-astra/",
     "has_image": false,
     "has_video": false
   },
@@ -4454,6 +5198,24 @@
       "nvidia_drivers"
     ],
     "primary_link": "https://www.techpowerup.com/352033/nvidia-dlss-5-dll-leaked-by-nba-2k27-early-access-build-heres-our-analysis",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6aca5df49c",
+    "date": "2026-09-01",
+    "title": "dlss5-visual-enhancer",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "dlss5-visual-enhancer",
+    "version": null,
+    "tags": [
+      "Dlss5 Visual Enhancer",
+      "dlss5-visual-enhancer",
+      "family:dlss5-visual-enhancer",
+      "misc"
+    ],
+    "primary_link": "https://github.com/Merserk/dlss5-visual-enhancer",
     "has_image": false,
     "has_video": false
   },

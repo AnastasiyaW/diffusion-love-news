@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-39e2b728d4",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GPT-6 Astra availability and compute limits for ChatGPT Plus",
+ "summary": "OpenAI announced that GPT-6 Astra is available to ChatGPT Plus users but not as a standard chat model. It is accessible via ChatGPT Work and Codex with limited compute budgets. Users have approximately 3-30 local messages per 5-hour window, with a weekly undisclosed limit. After exhaustion, credits can be purchased without upgrading to Pro.",
+ "research_notes": "",
+ "project": {
+  "name": "GPT-6 Astra",
+  "family_slug": "gpt-6-astra",
+  "family_display": "GPT-6 Astra",
+  "model_slug": "gpt-6-astra",
+  "model_display": "GPT-6 Astra",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "GPT-6 Astra",
+  "family:gpt-6-astra",
+  "gpt-6-astra",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gpt-6-astra"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://help.openai.com/en/articles/20001354",
+   "host": "help.openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://help.openai.com/en/articles/20001275",
+   "host": "help.openai.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "OpenAI announced that GPT-6 Astra is available to ChatGPT Plus users but not as a standard chat model. It is accessible via ChatGPT Work and Codex with limited compute budgets. Users have approximately 3-30 local messages per 5-hour window, with a weekly undisclosed limit. After exhaustion, credits can be purchased without upgrading to Pro."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

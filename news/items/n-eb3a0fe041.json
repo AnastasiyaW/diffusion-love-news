@@ -1,0 +1,91 @@
+{
+ "schema_version": "1.3",
+ "id": "n-eb3a0fe041",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Introducing GWM Worlds 2",
+ "summary": "Runway research announcement for GWM Worlds 2",
+ "research_notes": "",
+ "project": {
+  "name": "Runway",
+  "family_slug": "runway",
+  "family_display": "Runway",
+  "model_slug": "runway",
+  "model_display": "Runway",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Runway",
+  "family:runway",
+  "gen-2",
+  "misc",
+  "runway",
+  "runway_3d_video",
+  "runway_act_two",
+  "runway_ai_training",
+  "runway_gen2_camera_control",
+  "runway_video_tools"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "runway"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://runway.com/research/introducing-gwm-worlds-2",
+   "host": "runway.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "Runway research announcement for GWM Worlds 2"
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

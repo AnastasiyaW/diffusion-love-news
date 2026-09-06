@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-145f8bdf97",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "OpenAI claims Astra model reached AGI level",
+ "summary": "OpenAI President Greg Brockman announced that Astra reached AGI level, claiming it can replace humans in many professions. The announcement sparked discussion about the validity of AGI claims based on mathematical abilities and transfer learning limitations.",
+ "research_notes": "",
+ "project": {
+  "name": "Topaz Labs Astra",
+  "family_slug": "astra",
+  "family_display": "Astra",
+  "model_slug": "astra",
+  "model_display": "Topaz Labs Astra",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Topaz Labs Astra",
+  "astra",
+  "family:astra",
+  "misc",
+  "topaz-labs:astra"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "astra"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.washingtonpost.com/technology/2026/09/03/openai-greg-brockman-says-its-new-model-astra-is-agi/",
+   "host": "washingtonpost.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "OpenAI President Greg Brockman announced that Astra reached AGI level, claiming it can replace humans in many professions. The announcement sparked discussion about the validity of AGI claims based on mathematical abilities and transfer learning limitations."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

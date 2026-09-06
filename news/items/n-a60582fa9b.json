@@ -1,0 +1,94 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a60582fa9b",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LLaDA-Image release: open diffusion model for generation and editing",
+ "summary": "inclusionAI released LLaDA-Image, a 6B Diffusion Transformer with a unified checkpoint for generation and editing. Two versions are offered: LLaDA-Image (50 steps for max quality) and LLaDA-Image-Turbo (distilled, 2-4 steps). The model supports text-to-image and native image editing via a new ComfyUI integration by RealRebelAI.",
+ "research_notes": "",
+ "project": {
+  "name": "Llada Image",
+  "family_slug": "llada-image",
+  "family_display": "Llada Image",
+  "model_slug": "llada-image",
+  "model_display": "Llada Image",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Llada Image",
+  "family:llada-image",
+  "llada-image",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "llada-image"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/inclusionAI/LLaDA-Image-Turbo",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/inclusionAI/LLaDA-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "inclusionAI released LLaDA-Image, a 6B Diffusion Transformer with a unified checkpoint for generation and editing. Two versions are offered: LLaDA-Image (50 steps for max quality) and LLaDA-Image-Turbo (distilled, 2-4 steps). The model supports text-to-image and native image editing via a new ComfyUI integration by RealRebelAI."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

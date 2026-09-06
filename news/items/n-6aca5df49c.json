@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6aca5df49c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "dlss5-visual-enhancer",
+ "summary": "GitHub repository dlss5-visual-enhancer by Merserk, dated 2026-09-01",
+ "research_notes": "",
+ "project": {
+  "name": "Dlss5 Visual Enhancer",
+  "family_slug": "dlss5-visual-enhancer",
+  "family_display": "Dlss5 Visual Enhancer",
+  "model_slug": "dlss5-visual-enhancer",
+  "model_display": "Dlss5 Visual Enhancer",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Dlss5 Visual Enhancer",
+  "dlss5-visual-enhancer",
+  "family:dlss5-visual-enhancer",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "dlss5-visual-enhancer"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/Merserk/dlss5-visual-enhancer",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-01",
+  "excerpt": "GitHub repository dlss5-visual-enhancer by Merserk, dated 2026-09-01"
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "schema_version": "1.3",
+ "id": "n-a850c739ee",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "LLaDa Image Turbo model weights and ComfyUI nodes released",
+ "summary": "Release of LLaDa Image Turbo model weights and ComfyUI nodes for image generation.",
+ "research_notes": "",
+ "project": {
+  "name": "Llada Image",
+  "family_slug": "llada-image",
+  "family_display": "Llada Image",
+  "model_slug": "llada-image",
+  "model_display": "Llada Image",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Llada Image",
+  "family:llada-image",
+  "llada-image",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "llada-image"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/realrebelai/LLaDa-Image-Turbo_ComfyUI/tree/main",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/RealRebelAI/LLaDa-Image_ComfyUI",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/inclusionAI/LLaDA-Image",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "Release of LLaDa Image Turbo model weights and ComfyUI nodes for image generation."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

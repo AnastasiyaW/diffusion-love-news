@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-49140628cc",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "New tool for Android interfaces based on Google Material 3 Expressive design system",
+ "summary": "A tool has appeared that allows creating Android interfaces based on Google's Material 3 Expressive design system directly in the browser, automatically generating prompts for AI agents.",
+ "research_notes": "",
+ "project": {
+  "name": "M3E Canvas",
+  "family_slug": "m3e-canvas",
+  "family_display": "M3E Canvas",
+  "model_slug": "m3e-canvas",
+  "model_display": "M3E Canvas",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "M3E Canvas",
+  "family:m3e-canvas",
+  "m3e-canvas",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "m3e-canvas"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://lnkiai.github.io/m3e-canvas/",
+   "host": "lnkiai.github.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "A tool has appeared that allows creating Android interfaces based on Google's Material 3 Expressive design system directly in the browser, automatically generating prompts for AI agents."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

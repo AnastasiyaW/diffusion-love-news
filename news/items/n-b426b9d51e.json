@@ -1,0 +1,112 @@
+{
+ "schema_version": "1.3",
+ "id": "n-b426b9d51e",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Viggle releases Viggle-Animate with open weights and code",
+ "summary": "Viggle released Viggle-Animate, an open-weight video animation model based on MiniMax H3, enabling character replacement from a repainted frame while preserving original motion and camera timing. The model uses a 33.1B ref2va transformer with DMD2 LoRA and achieves 6x faster inference than Wan2.2-Animate-14B.",
+ "research_notes": "",
+ "project": {
+  "name": "Viggle Animate",
+  "family_slug": "viggle-animate",
+  "family_display": "Viggle Animate",
+  "model_slug": "viggle-animate",
+  "model_display": "Viggle Animate",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Viggle Animate",
+  "family:viggle-animate",
+  "misc",
+  "viggle-animate"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "viggle-animate"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/Viggle/Viggle-Animate",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://viggle.ai/blog/viggle-animate-character-replacement-from-a-repainted-frame",
+   "host": "viggle.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://viggle.ai/h3",
+   "host": "viggle.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://viggle.ai/blog/everything-you-need-is-in-viggle-v4",
+   "host": "viggle.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-05",
+  "excerpt": "Viggle released Viggle-Animate, an open-weight video animation model based on MiniMax H3, enabling character replacement from a repainted frame while preserving original motion and camera timing. The model uses a 33.1B ref2va transformer with DMD2 LoRA and achieves 6x faster inference than Wan2.2-Animate-14B."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

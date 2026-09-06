@@ -1,0 +1,85 @@
+{
+ "schema_version": "1.3",
+ "id": "n-6129373208",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Detailed guide for OpenClaw 2",
+ "summary": "A comprehensive guide covering techniques, setup, and pricing for launching a personal AI assistant. Published on 2026-09-04.",
+ "research_notes": "",
+ "project": {
+  "name": "OpenClaw 2 guide",
+  "family_slug": "openclaw-2-guide",
+  "family_display": "OpenClaw 2 guide",
+  "model_slug": "openclaw-2-guide",
+  "model_display": "OpenClaw 2 guide",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "OpenClaw 2 guide",
+  "family:openclaw-2-guide",
+  "misc",
+  "openclaw-2-guide"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "openclaw-2-guide"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://tochkicamp.ru/guides/openclaw/",
+   "host": "tochkicamp.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-04",
+  "excerpt": "A comprehensive guide covering techniques, setup, and pricing for launching a personal AI assistant. Published on 2026-09-04."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}

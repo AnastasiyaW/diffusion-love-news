@@ -1,0 +1,86 @@
+{
+ "schema_version": "1.3",
+ "id": "n-93b59f4150",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Agi real marketing term, weaker sol not agi, release in three months",
+ "summary": "Agi is described as a real marketing term; weaker sol is not agi; release scheduled in approximately three months. The post awaits the asi release.",
+ "research_notes": "",
+ "project": {
+  "name": "Agi",
+  "family_slug": "agi",
+  "family_display": "Agi",
+  "model_slug": "agi",
+  "model_display": "Agi",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "tags": [
+  "Agi",
+  "agi",
+  "agi-development",
+  "family:agi",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "agi"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://openai.com/index/gpt-6-astra/",
+   "host": "openai.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-06T03:06:58Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-03",
+  "excerpt": "Agi is described as a real marketing term; weaker sol is not agi; release scheduled in approximately three months. The post awaits the asi release."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-06T03:06:58Z",
+  "classified_at": "2026-09-06T03:06:58Z",
+  "enriched_at": "2026-09-06T03:06:58Z",
+  "verified_at": "2026-09-06T03:06:58Z",
+  "models_used": {
+   "classifier": "nemotron-3.5-lightning",
+   "research": "codex"
+  },
+  "schema_validated": true
+ }
+}
