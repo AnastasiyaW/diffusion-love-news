@@ -18,6 +18,25 @@
     "has_video": false
   },
   {
+    "id": "n-8df2384b93",
+    "date": "2026-09-03",
+    "title": "MCNL v1 is a community adapter for Qwen-Image-Edit-2511",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen-image-edit",
+    "version": null,
+    "tags": [
+      "Qwen-Image-Edit development",
+      "family:qwen-image-edit",
+      "misc",
+      "qwen-image-edit",
+      "qwen-image-edit-development"
+    ],
+    "primary_link": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-cce36dc967",
     "date": "2026-09-02",
     "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
