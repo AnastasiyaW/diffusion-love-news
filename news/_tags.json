@@ -521,6 +521,9 @@
   "ComfyUI Command Palette": [
     "n-133a0bfd18"
   ],
+  "ComfyUI Development": [
+    "n-046d02af9f"
+  ],
   "ComfyUI Hires Fix": [
     "n-1b11977658"
   ],
@@ -1891,6 +1894,9 @@
   "MiniMax H3 Hybrid": [
     "n-faa53b79d3"
   ],
+  "MiniMax H3 development": [
+    "n-0ecaaac1b0"
+  ],
   "MiniMax M3": [
     "n-d2bc181ad0"
   ],
@@ -2221,6 +2227,9 @@
   "Open Multi-Agent": [
     "n-662ab03ff4"
   ],
+  "Open-source release and ecosystem": [
+    "n-cce36dc967"
+  ],
   "OpenAI": [
     "n-ff09e5b9b1",
     "n-fcf3936b14",
@@ -2504,6 +2513,9 @@
   "Qwen-Image-2.0-Pro": [
     "n-86ce44c208"
   ],
+  "Qwen-Image-Edit development": [
+    "n-8df2384b93"
+  ],
   "Qwen-Image-Flash": [
     "n-d791bdd250"
   ],
@@ -2765,6 +2777,9 @@
   ],
   "SeedVR2": [
     "n-98db5e9f27"
+  ],
+  "SeedVR2 development and distribution": [
+    "n-92aedf6bb2"
   ],
   "Seedance": [
     "n-e4d5ff5436",
@@ -4513,7 +4528,8 @@
     "n-0cf9d026b8",
     "n-08fceb7eae",
     "n-08ae804484",
-    "n-0739891476"
+    "n-0739891476",
+    "n-046d02af9f"
   ],
   "comfyui-6dof": [
     "n-f6c6cdf729"
@@ -4526,6 +4542,9 @@
   ],
   "comfyui-davinci-magihuman": [
     "n-8c14423e0d"
+  ],
+  "comfyui-development": [
+    "n-046d02af9f"
   ],
   "comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
@@ -5768,7 +5787,8 @@
     "n-dee637a9a1",
     "n-c724eb9e4c",
     "n-3c2855adb1",
-    "n-2d6b42b1d8"
+    "n-2d6b42b1d8",
+    "n-046d02af9f"
   ],
   "family:comfyui-6dof": [
     "n-f6c6cdf729"
@@ -6633,6 +6653,7 @@
   ],
   "family:krea-2": [
     "n-eb68bcfc57",
+    "n-cce36dc967",
     "n-45b7bbd16b"
   ],
   "family:krea-2-outpaint": [
@@ -6964,7 +6985,8 @@
     "n-9d4d7bfa04",
     "n-7127c15c53",
     "n-2ebc155125",
-    "n-160efa0fdb"
+    "n-160efa0fdb",
+    "n-0ecaaac1b0"
   ],
   "family:minimax-h3-fl2va-ref2va-hybrid-models": [
     "n-faa53b79d3"
@@ -7561,6 +7583,7 @@
     "n-0cf91afec3"
   ],
   "family:qwen-image-edit": [
+    "n-8df2384b93",
     "n-250fdb3b1b"
   ],
   "family:qwen-image-flash": [
@@ -7797,7 +7820,8 @@
     "n-740438cbeb"
   ],
   "family:seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
   ],
   "family:seeing-fast-and-slow": [
     "n-b1f200df41"
@@ -9998,6 +10022,7 @@
   ],
   "krea-2": [
     "n-eb68bcfc57",
+    "n-cce36dc967",
     "n-45b7bbd16b"
   ],
   "krea-2-outpaint": [
@@ -10734,7 +10759,8 @@
     "n-9d4d7bfa04",
     "n-7127c15c53",
     "n-2ebc155125",
-    "n-160efa0fdb"
+    "n-160efa0fdb",
+    "n-0ecaaac1b0"
   ],
   "minimax-h3-fl2va-ref2va-hybrid-models": [
     "n-faa53b79d3"
@@ -10972,6 +10998,7 @@
     "n-cd78f14199",
     "n-cd41494b6d",
     "n-cd139a80e3",
+    "n-cce36dc967",
     "n-ccb51d2a95",
     "n-cc2ada061c",
     "n-cb62ae01fa",
@@ -11172,6 +11199,7 @@
     "n-9358043c25",
     "n-931c589133",
     "n-92d11a1f17",
+    "n-92aedf6bb2",
     "n-920abfb1e3",
     "n-91acd5d17b",
     "n-90de9801d2",
@@ -11185,6 +11213,7 @@
     "n-8e75dd0767",
     "n-8e1566e0c7",
     "n-8e078019f4",
+    "n-8df2384b93",
     "n-8de9a1da59",
     "n-8d546ea894",
     "n-8d34f26cae",
@@ -11654,6 +11683,7 @@
     "n-0f91f1563c",
     "n-0f55e4f6a1",
     "n-0f298b0d41",
+    "n-0ecaaac1b0",
     "n-0ebdd3ab44",
     "n-0e3939a347",
     "n-0dea9b891a",
@@ -11690,6 +11720,7 @@
     "n-050665d505",
     "n-04a79175d6",
     "n-0481856e9f",
+    "n-046d02af9f",
     "n-044c492370",
     "n-0423f2e93d",
     "n-03907a825f",
@@ -12906,6 +12937,9 @@
   "open-multi-agent": [
     "n-662ab03ff4"
   ],
+  "open-source-release": [
+    "n-cce36dc967"
+  ],
   "open_source_release": [
     "n-f8203a5996",
     "n-e54716a5dd",
@@ -13883,7 +13917,11 @@
     "n-0cf91afec3"
   ],
   "qwen-image-edit": [
+    "n-8df2384b93",
     "n-250fdb3b1b"
+  ],
+  "qwen-image-edit-development": [
+    "n-8df2384b93"
   ],
   "qwen-image-flash": [
     "n-d791bdd250"
@@ -14357,7 +14395,11 @@
     "n-98db5e9f27"
   ],
   "seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
+  ],
+  "seedvr2-development-and-distribution": [
+    "n-92aedf6bb2"
   ],
   "seeing-fast-and-slow": [
     "n-b1f200df41"

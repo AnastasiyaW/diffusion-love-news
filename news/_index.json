@@ -634,6 +634,24 @@
     "has_video": false
   },
   {
+    "id": "n-0ecaaac1b0",
+    "date": "2026-09-05",
+    "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "minimax-h3",
+    "version": null,
+    "tags": [
+      "MiniMax H3 development",
+      "family:minimax-h3",
+      "minimax-h3",
+      "misc"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-02d3aa675d",
     "date": "2026-09-05",
     "title": "Astra available in API and paid tariffs",
@@ -2973,6 +2991,25 @@
     "has_video": false
   },
   {
+    "id": "n-8df2384b93",
+    "date": "2026-09-03",
+    "title": "MCNL v1 is a community adapter for Qwen-Image-Edit-2511",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "qwen-image-edit",
+    "version": null,
+    "tags": [
+      "Qwen-Image-Edit development",
+      "family:qwen-image-edit",
+      "misc",
+      "qwen-image-edit",
+      "qwen-image-edit-development"
+    ],
+    "primary_link": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-89f3d4c67f",
     "date": "2026-09-03",
     "title": "Google begins dismantling retired servers to recover DDR4 memory modules for reuse in new AI systems due to global memory shortage.",
@@ -4072,6 +4109,25 @@
     "has_video": false
   },
   {
+    "id": "n-cce36dc967",
+    "date": "2026-09-02",
+    "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "krea-2",
+    "version": null,
+    "tags": [
+      "Open-source release and ecosystem",
+      "family:krea-2",
+      "krea-2",
+      "misc",
+      "open-source-release"
+    ],
+    "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c5914f9e91",
     "date": "2026-09-02",
     "title": "Silicon Data launches GPU rental pricing index with Chicago Board of Trade integration",
@@ -4338,6 +4394,25 @@
       "misc"
     ],
     "primary_link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-92aedf6bb2",
+    "date": "2026-09-02",
+    "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "seedvr2",
+    "version": null,
+    "tags": [
+      "SeedVR2 development and distribution",
+      "family:seedvr2",
+      "misc",
+      "seedvr2",
+      "seedvr2-development-and-distribution"
+    ],
+    "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
     "has_image": false,
     "has_video": false
   },
@@ -4812,6 +4887,25 @@
       "family:anthropic"
     ],
     "primary_link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-046d02af9f",
+    "date": "2026-09-02",
+    "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI Development",
+      "comfyui",
+      "comfyui-development",
+      "family:comfyui",
+      "misc"
+    ],
+    "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
     "has_image": false,
     "has_video": false
   },

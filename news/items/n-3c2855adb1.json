@@ -10,7 +10,7 @@
  "project": {
   "name": "ComfyUI",
   "family_slug": "comfyui",
-  "family_display": "ComfyUI",
+  "family_display": "ComfyUI Development",
   "model_slug": "comfyui",
   "model_display": "ComfyUI",
   "version": null,

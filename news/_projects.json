@@ -16580,15 +16580,23 @@
   },
   "comfyui": {
     "family_slug": "comfyui",
-    "family_display": "ComfyUI",
+    "family_display": "ComfyUI Development",
     "family_display_variants": [
       {
         "family_display": "ComfyUI",
         "first_seen": "2026-03-26",
-        "last_seen": "2026-09-02",
+        "last_seen": "2026-09-01",
         "news_ids": [
           "n-c724eb9e4c",
-          "n-dee637a9a1",
+          "n-dee637a9a1"
+        ]
+      },
+      {
+        "family_display": "ComfyUI Development",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-046d02af9f",
           "n-2d6b42b1d8",
           "n-3c2855adb1"
         ]
@@ -16602,7 +16610,7 @@
     "categories": [
       "misc"
     ],
-    "post_count": 4,
+    "post_count": 5,
     "first_seen": "2026-03-26",
     "last_seen": "2026-09-02",
     "latest_version": null,
@@ -16610,6 +16618,7 @@
     "news_ids": [
       "n-c724eb9e4c",
       "n-dee637a9a1",
+      "n-046d02af9f",
       "n-2d6b42b1d8",
       "n-3c2855adb1"
     ],
@@ -16626,6 +16635,13 @@
         "date": "2026-09-01",
         "news_id": "n-dee637a9a1",
         "title": "ComfyUI-H3VAE_TRT and ComfyUI-H3VideoOutpaint",
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-046d02af9f",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
       },
       {
@@ -16665,7 +16681,25 @@
         "verified_at": "2026-09-05T21:06:08Z",
         "news_ids": [
           "n-dee637a9a1",
+          "n-046d02af9f",
           "n-3c2855adb1"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-dee637a9a1",
+            "is_primary": true,
+            "verified_at": "2026-09-05T21:06:08Z"
+          },
+          {
+            "news_id": "n-046d02af9f",
+            "is_primary": true,
+            "verified_at": "2026-09-05T19:43:23Z"
+          },
+          {
+            "news_id": "n-3c2855adb1",
+            "is_primary": true,
+            "verified_at": "2026-09-05T21:06:08Z"
+          }
         ]
       },
       {
@@ -16703,6 +16737,42 @@
         "news_ids": [
           "n-dee637a9a1"
         ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT/blob/1b72e7439e1fc306b9dfbfd3d485866553b5960e/README_zh.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "note.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://note.com/seal309midorin/n/nb75b14bbab4e",
+        "is_primary": false,
+        "verified_at": "2026-09-05T19:43:23Z",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
       }
     ],
     "timeline": [
@@ -16722,6 +16792,15 @@
         "summary": "GitHub repositories: ComfyUI-H3VAE_TRT and ComfyUI-H3VideoOutpaint",
         "version": null,
         "news_id": "n-dee637a9a1",
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model.",
+        "version": null,
+        "news_id": "n-046d02af9f",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
       },
       {
@@ -16789,6 +16868,25 @@
         "has_video": false
       },
       {
+        "id": "n-046d02af9f",
+        "date": "2026-09-02",
+        "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "comfyui",
+        "version": null,
+        "tags": [
+          "ComfyUI Development",
+          "comfyui",
+          "comfyui-development",
+          "family:comfyui",
+          "misc"
+        ],
+        "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
+        "has_image": false,
+        "has_video": false
+      },
+      {
         "id": "n-dee637a9a1",
         "date": "2026-09-01",
         "title": "ComfyUI-H3VAE_TRT and ComfyUI-H3VideoOutpaint",
@@ -16833,7 +16931,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "comfyui-development",
+        "display": "Comfyui Development",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-046d02af9f",
+        "news_ids": [
+          "n-046d02af9f"
+        ]
+      }
+    ]
   },
   "comfyui-6dof": {
     "family_slug": "comfyui-6dof",
@@ -50984,7 +51094,7 @@
   },
   "krea-2": {
     "family_slug": "krea-2",
-    "family_display": "Krea 2",
+    "family_display": "Open-source release and ecosystem",
     "family_display_variants": [
       {
         "family_display": "Krea 2",
@@ -50993,6 +51103,14 @@
         "news_ids": [
           "n-45b7bbd16b",
           "n-eb68bcfc57"
+        ]
+      },
+      {
+        "family_display": "Open-source release and ecosystem",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       }
     ],
@@ -51004,14 +51122,15 @@
     "categories": [
       "misc"
     ],
-    "post_count": 2,
+    "post_count": 3,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-24",
+    "last_seen": "2026-09-02",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
       "n-45b7bbd16b",
-      "n-eb68bcfc57"
+      "n-eb68bcfc57",
+      "n-cce36dc967"
     ],
     "versions_timeline": [
       {
@@ -51027,6 +51146,13 @@
         "news_id": "n-eb68bcfc57",
         "title": "Krea published Krea 2’s official open-source and deployment materials",
         "primary_link": "https://www.krea.ai/krea-2-open-source"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-cce36dc967",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda"
       }
     ],
     "features": [],
@@ -51063,6 +51189,18 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-45b7bbd16b"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/F16/krea2-turbo-sda",
+        "is_primary": true,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       },
       {
@@ -51178,6 +51316,18 @@
         "host": "huggingface.co",
         "lang": "en",
         "status": "unverified",
+        "url": "https://huggingface.co/F16/krea2-turbo-sda/blob/main/README.zh.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
         "url": "https://huggingface.co/Lumatrix/Krea-2/tree/main",
         "is_primary": false,
         "verified_at": "2026-09-04T22:01:31Z",
@@ -51195,6 +51345,18 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-45b7bbd16b"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/krea/Krea-2-Turbo",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       },
       {
@@ -51220,6 +51382,18 @@
         "news_ids": [
           "n-eb68bcfc57"
         ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/spaces/hugging-apps/krea2-turbo-sda-demo",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
       }
     ],
     "timeline": [
@@ -51240,9 +51414,37 @@
         "version": null,
         "news_id": "n-eb68bcfc57",
         "primary_link": "https://www.krea.ai/krea-2-open-source"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet.",
+        "version": null,
+        "news_id": "n-cce36dc967",
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda"
       }
     ],
     "related_news": [
+      {
+        "id": "n-cce36dc967",
+        "date": "2026-09-02",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "krea-2",
+        "version": null,
+        "tags": [
+          "Open-source release and ecosystem",
+          "family:krea-2",
+          "krea-2",
+          "misc",
+          "open-source-release"
+        ],
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-eb68bcfc57",
         "date": "2026-06-24",
@@ -51280,7 +51482,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "open-source-release",
+        "display": "Open Source Release",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-cce36dc967",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
+      }
+    ]
   },
   "krea-2-outpaint": {
     "family_slug": "krea-2-outpaint",
@@ -64218,10 +64432,18 @@
           "n-7127c15c53",
           "n-2ebc155125",
           "n-160efa0fdb",
+          "n-af1f65eba4"
+        ]
+      },
+      {
+        "family_display": "MiniMax H3 development",
+        "first_seen": "2026-09-05",
+        "last_seen": "2026-09-05",
+        "news_ids": [
+          "n-0ecaaac1b0",
           "n-9d4d7bfa04",
           "n-b3d9b93688",
-          "n-bff87036e2",
-          "n-af1f65eba4"
+          "n-bff87036e2"
         ]
       }
     ],
@@ -64233,7 +64455,7 @@
     "categories": [
       "misc"
     ],
-    "post_count": 7,
+    "post_count": 8,
     "first_seen": "2026-07-31",
     "last_seen": "2026-09-06",
     "latest_version": null,
@@ -64242,6 +64464,7 @@
       "n-7127c15c53",
       "n-2ebc155125",
       "n-160efa0fdb",
+      "n-0ecaaac1b0",
       "n-9d4d7bfa04",
       "n-b3d9b93688",
       "n-bff87036e2",
@@ -64268,6 +64491,13 @@
         "news_id": "n-160efa0fdb",
         "title": "MiniMax H3: A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned mod",
         "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/"
+      },
+      {
+        "version": null,
+        "date": "2026-09-05",
+        "news_id": "n-0ecaaac1b0",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/"
       },
       {
         "version": null,
@@ -64343,7 +64573,20 @@
         "is_primary": true,
         "verified_at": "2026-09-05T21:06:08Z",
         "news_ids": [
+          "n-0ecaaac1b0",
           "n-b3d9b93688"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-0ecaaac1b0",
+            "is_primary": true,
+            "verified_at": "2026-09-05T20:14:50Z"
+          },
+          {
+            "news_id": "n-b3d9b93688",
+            "is_primary": true,
+            "verified_at": "2026-09-05T21:06:08Z"
+          }
         ]
       },
       {
@@ -64393,6 +64636,42 @@
         "news_ids": [
           "n-2ebc155125"
         ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3/tree/42ed227ee7df40d41602854ae760620d6eb651fe",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/blob/8c2d9b0edb844d6002864a9addd61458dbe81c22/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/speach1sdef178/MiniMax-H3-Semantic-Bridge/tree/8c2d9b0edb844d6002864a9addd61458dbe81c22",
+        "is_primary": false,
+        "verified_at": "2026-09-05T20:14:50Z",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
       }
     ],
     "timeline": [
@@ -64422,6 +64701,15 @@
         "version": null,
         "news_id": "n-160efa0fdb",
         "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1vh9rtw/ama_minimax_h3_team_ask_us_anything_about_our/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-05",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync.",
+        "version": null,
+        "news_id": "n-0ecaaac1b0",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/"
       },
       {
         "kind": "news",
@@ -64538,6 +64826,24 @@
         "has_video": false
       },
       {
+        "id": "n-0ecaaac1b0",
+        "date": "2026-09-05",
+        "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "minimax-h3",
+        "version": null,
+        "tags": [
+          "MiniMax H3 development",
+          "family:minimax-h3",
+          "minimax-h3",
+          "misc"
+        ],
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
+        "has_image": false,
+        "has_video": false
+      },
+      {
         "id": "n-160efa0fdb",
         "date": "2026-08-10",
         "title": "MiniMax H3: A linked AMA clarified prompt/workflow guidance and future local-release plans; it was not a new versioned mod",
@@ -64595,7 +64901,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "minimax-h3",
+        "display": "Minimax H3",
+        "first_seen": "2026-09-05",
+        "last_seen": "2026-09-05",
+        "latest_news_id": "n-0ecaaac1b0",
+        "news_ids": [
+          "n-0ecaaac1b0"
+        ]
+      }
+    ]
   },
   "minimax-h3-fl2va-ref2va-hybrid-models": {
     "family_slug": "minimax-h3-fl2va-ref2va-hybrid-models",
@@ -89217,7 +89535,7 @@
   },
   "qwen-image-edit": {
     "family_slug": "qwen-image-edit",
-    "family_display": "Qwen Image Edit",
+    "family_display": "Qwen-Image-Edit development",
     "family_display_variants": [
       {
         "family_display": "Qwen Image Edit",
@@ -89225,6 +89543,14 @@
         "last_seen": "2026-04-29",
         "news_ids": [
           "n-250fdb3b1b"
+        ]
+      },
+      {
+        "family_display": "Qwen-Image-Edit development",
+        "first_seen": "2026-09-03",
+        "last_seen": "2026-09-03",
+        "news_ids": [
+          "n-8df2384b93"
         ]
       }
     ],
@@ -89234,15 +89560,17 @@
     "license": null,
     "base_model": null,
     "categories": [
-      "diffusion-image"
+      "diffusion-image",
+      "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-04-29",
-    "last_seen": "2026-04-29",
-    "latest_version": "QIE-2511 (May 2026)",
-    "latest_evolution": "The project was recognized as a winner of the ModelScope LoRA training contest and subsequently became a core component of the Qwen-Image-Edit (QIE-2511) ecosystem. It now supports local inference applications and receives regular compatibility updates.",
+    "last_seen": "2026-09-03",
+    "latest_version": null,
+    "latest_evolution": null,
     "news_ids": [
-      "n-250fdb3b1b"
+      "n-250fdb3b1b",
+      "n-8df2384b93"
     ],
     "versions_timeline": [
       {
@@ -89251,6 +89579,13 @@
         "news_id": "n-250fdb3b1b",
         "title": "Color-Grade-Transfer-LoRA for Precise Color Matching",
         "primary_link": "https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA"
+      },
+      {
+        "version": null,
+        "date": "2026-09-03",
+        "news_id": "n-8df2384b93",
+        "title": "MCNL v1 is a community adapter for Qwen-Image-Edit-2511",
+        "primary_link": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true"
       }
     ],
     "features": [
@@ -89269,6 +89604,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true",
+        "is_primary": true,
+        "verified_at": "2026-09-06T01:16:38Z",
+        "news_ids": [
+          "n-8df2384b93"
+        ]
+      },
       {
         "kind": "weights",
         "host": "huggingface.co",
@@ -89303,9 +89650,37 @@
         "version": null,
         "news_id": "n-250fdb3b1b",
         "primary_link": "https://huggingface.co/ovi054/QIE-2511-Color-Grade-Transfer-LoRA"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-03",
+        "title": "MCNL v1 is a community adapter for Qwen-Image-Edit-2511",
+        "summary": "The ScottzillaSystems card presents MCNL v1 as a community adapter for Qwen-Image-Edit-2511. Its approximately 563 MB download is an adapter, not a complete model installation; broader-content behavior remains a distributor claim, and no controlled operation test was established.",
+        "version": null,
+        "news_id": "n-8df2384b93",
+        "primary_link": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true"
       }
     ],
     "related_news": [
+      {
+        "id": "n-8df2384b93",
+        "date": "2026-09-03",
+        "title": "MCNL v1 is a community adapter for Qwen-Image-Edit-2511",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "qwen-image-edit",
+        "version": null,
+        "tags": [
+          "Qwen-Image-Edit development",
+          "family:qwen-image-edit",
+          "misc",
+          "qwen-image-edit",
+          "qwen-image-edit-development"
+        ],
+        "primary_link": "https://huggingface.co/ScottzillaSystems/qwen-image-edit-plus-nsfw-lora?not-for-all-audiences=true",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-250fdb3b1b",
         "date": "2026-04-29",
@@ -89329,7 +89704,19 @@
         "has_video": true
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "qwen-image-edit-development",
+        "display": "Qwen Image Edit Development",
+        "first_seen": "2026-09-03",
+        "last_seen": "2026-09-03",
+        "latest_news_id": "n-8df2384b93",
+        "news_ids": [
+          "n-8df2384b93"
+        ]
+      }
+    ]
   },
   "qwen-image-flash": {
     "family_slug": "qwen-image-flash",
@@ -98097,7 +98484,7 @@
   },
   "seedvr2": {
     "family_slug": "seedvr2",
-    "family_display": "SeedVR2",
+    "family_display": "SeedVR2 development and distribution",
     "family_display_variants": [
       {
         "family_display": "SeedVR2",
@@ -98105,6 +98492,14 @@
         "last_seen": "2026-07-30",
         "news_ids": [
           "n-98db5e9f27"
+        ]
+      },
+      {
+        "family_display": "SeedVR2 development and distribution",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-92aedf6bb2"
         ]
       }
     ],
@@ -98116,13 +98511,14 @@
     "categories": [
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
+    "last_seen": "2026-09-02",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-98db5e9f27"
+      "n-98db5e9f27",
+      "n-92aedf6bb2"
     ],
     "versions_timeline": [
       {
@@ -98131,6 +98527,13 @@
         "news_id": "n-98db5e9f27",
         "title": "SeedVR2-1.4B ComfyUI package was linked",
         "primary_link": "https://huggingface.co/lvladikov/SeedVR2-1.4B"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-92aedf6bb2",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio"
       }
     ],
     "features": [],
@@ -98146,6 +98549,18 @@
     "domains": [],
     "links": [
       {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
+        "is_primary": true,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
         "kind": "weights",
         "host": "huggingface.co",
         "lang": "en",
@@ -98155,6 +98570,102 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-98db5e9f27"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/THIRD_PARTY_NOTICES.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/docs/INSTALLATION.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues/26",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues/30",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/releases",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/comfyui_elite/comments/1w6muu7/seedvr2_video_upscaler_suite_github_linked_in_post/",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
         ]
       },
       {
@@ -98179,9 +98690,37 @@
         "version": null,
         "news_id": "n-98db5e9f27",
         "primary_link": "https://huggingface.co/lvladikov/SeedVR2-1.4B"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "summary": "The public Studio repository packages local preview, comparison, TensorRT VAE decoding and resumable long-video rendering around a compatible SeedVR2 integration. Its GitHub Releases page has no releases, multi-file batch processing is not verified, and early public issues include setup OOM and a reported chunk-assembly failure.",
+        "version": null,
+        "news_id": "n-92aedf6bb2",
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio"
       }
     ],
     "related_news": [
+      {
+        "id": "n-92aedf6bb2",
+        "date": "2026-09-02",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "seedvr2",
+        "version": null,
+        "tags": [
+          "SeedVR2 development and distribution",
+          "family:seedvr2",
+          "misc",
+          "seedvr2",
+          "seedvr2-development-and-distribution"
+        ],
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-98db5e9f27",
         "date": "2026-07-30",
@@ -98202,7 +98741,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "seedvr2-development-and-distribution",
+        "display": "Seedvr2 Development And Distribution",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-92aedf6bb2",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      }
+    ]
   },
   "seeing-fast-and-slow": {
     "family_slug": "seeing-fast-and-slow",
