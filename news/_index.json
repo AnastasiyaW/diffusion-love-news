@@ -18,6 +18,25 @@
     "has_video": false
   },
   {
+    "id": "n-cce36dc967",
+    "date": "2026-09-02",
+    "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "krea-2",
+    "version": null,
+    "tags": [
+      "Open-source release and ecosystem",
+      "family:krea-2",
+      "krea-2",
+      "misc",
+      "open-source-release"
+    ],
+    "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-046d02af9f",
     "date": "2026-09-02",
     "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",

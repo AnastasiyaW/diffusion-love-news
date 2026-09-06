@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-05T20:14:50Z",
+  "generated_at": "2026-09-06T00:01:18Z",
   "site": "diffusion.love",
-  "total": 912,
+  "total": 913,
   "records": [
     {
       "schema_version": "1.4",
@@ -129,6 +129,138 @@
         "classified_at": "2026-09-05T20:14:50Z",
         "enriched_at": "2026-09-05T20:14:50Z",
         "verified_at": "2026-09-05T20:14:50Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-cce36dc967",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+      "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet.",
+      "research_notes": "Use the exact base named by the artifact: krea/Krea-2-Turbo. Load the ComfyUI-formatted file in a compatible local workflow, or the Diffusers-formatted file in Krea2Pipeline. This packet has no compatibility evidence for Krea 2 Raw, FLUX.1 Krea, or another Turbo model.\n\nRun the stated eight-step Turbo regime and keep the adapter active only through the first two denoise steps (gate=2). The card says ordinary ComfyUI applies a LoRA at every step, so a per-step LoRA scheduling or hook node is required to switch it off after step 2; it does not name or ship one canonical custom node or workflow JSON.\n\nFor Diffusers, the author documents Krea2Pipeline from a build merged after 0.39.0.dev0, bf16, eight inference steps, guidance 1.0, and a callback that disables the LoRA after the second zero-based step. This is a creator-provided recipe, not an owned run.\n\nTreat the public Space as a demo surface only. Its listing confirms hugging-apps/krea2-turbo-sda-demo exists, but no reproducible workflow export, runtime version, hardware profile, or independent output receipt was obtained in this research pass.\n\nKeep the adapter gate at 2 unless you perform a new, versioned comparison. The author reports that leaving it on for all eight steps causes quality collapse or blur, with a 2.2x high-frequency-energy ratio and approximately 10% lower HPS in that fixed panel.\n\nDescribe all diversity numbers as creator-reported. The reported panel is 10 prompts by 16 seeds, at 1024x1024, eight steps, guidance 1.0, and shift mu 1.15; it is not an independent benchmark or a general Krea 2 guarantee.\n\nFor the exact creator-reported gate-2 panel, retain the complete metric context: 10 prompts by 16 seeds, pairwise CLIP cosine distance 0.0296 to 0.0548, and HPSv2.1 0.2990 to 0.2987. These values are not independently reproduced results.\n\nUse the correct weight format. The creator distinguishes krea2_turbo_sda_v1.0_comfy.safetensors from krea2_turbo_sda_v1.0_diffusers.safetensors; a format mismatch is a setup error, not evidence about the adapter's diversity effect.\n\nDo not frame the adapter as a universal defect repair. Its own limitation says recovering diversity lowers stability and can make anatomy problems such as limbs more likely.",
+      "project": {
+        "name": "Open-source release and ecosystem",
+        "family_slug": "krea-2",
+        "family_display": "Open-source release and ecosystem",
+        "model_slug": "krea-2",
+        "model_display": "Open-source release and ecosystem",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "open-source-release",
+        "thread_display": "Open Source Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Open-source release and ecosystem",
+        "article_url": "https://happyin.space/projects/krea-2/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/cc699e031ac889f583ad11816ba6f7bc55c60734/docs/projects/krea-2.md",
+        "agent_context_url": "https://happyin.space/projects/krea-2/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "version": null,
+        "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet."
+      },
+      "tags": [
+        "Open-source release and ecosystem",
+        "family:krea-2",
+        "krea-2",
+        "misc",
+        "open-source-release"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "krea-2"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/F16/krea2-turbo-sda",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-06T00:01:18Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/F16/krea2-turbo-sda/blob/main/README.zh.md",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-06T00:01:18Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/krea/Krea-2-Turbo",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-06T00:01:18Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/spaces/hugging-apps/krea2-turbo-sda-demo",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-06T00:01:18Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-02",
+        "excerpt": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-06T00:01:18Z",
+        "classified_at": "2026-09-06T00:01:18Z",
+        "enriched_at": "2026-09-06T00:01:18Z",
+        "verified_at": "2026-09-06T00:01:18Z",
         "models_used": {
           "research": "curated-live-material"
         },
