@@ -41367,7 +41367,7 @@
   },
   "krea-2": {
     "family_slug": "krea-2",
-    "family_display": "Krea 2",
+    "family_display": "Open-source release and ecosystem",
     "family_display_variants": [
       {
         "family_display": "Krea 2",
@@ -41376,6 +41376,14 @@
         "news_ids": [
           "n-45b7bbd16b",
           "n-eb68bcfc57"
+        ]
+      },
+      {
+        "family_display": "Open-source release and ecosystem",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       }
     ],
@@ -41387,14 +41395,15 @@
     "categories": [
       "misc"
     ],
-    "post_count": 2,
+    "post_count": 3,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-24",
+    "last_seen": "2026-09-02",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
       "n-45b7bbd16b",
-      "n-eb68bcfc57"
+      "n-eb68bcfc57",
+      "n-cce36dc967"
     ],
     "versions_timeline": [
       {
@@ -41410,6 +41419,13 @@
         "news_id": "n-eb68bcfc57",
         "title": "Krea published Krea 2’s official open-source and deployment materials",
         "primary_link": "https://www.krea.ai/krea-2-open-source"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-cce36dc967",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda"
       }
     ],
     "features": [],
@@ -41446,6 +41462,18 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-45b7bbd16b"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/F16/krea2-turbo-sda",
+        "is_primary": true,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       },
       {
@@ -41561,6 +41589,18 @@
         "host": "huggingface.co",
         "lang": "en",
         "status": "unverified",
+        "url": "https://huggingface.co/F16/krea2-turbo-sda/blob/main/README.zh.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
         "url": "https://huggingface.co/Lumatrix/Krea-2/tree/main",
         "is_primary": false,
         "verified_at": "2026-09-04T22:01:31Z",
@@ -41578,6 +41618,18 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-45b7bbd16b"
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/krea/Krea-2-Turbo",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
         ]
       },
       {
@@ -41603,6 +41655,18 @@
         "news_ids": [
           "n-eb68bcfc57"
         ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/spaces/hugging-apps/krea2-turbo-sda-demo",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:18Z",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
       }
     ],
     "timeline": [
@@ -41623,9 +41687,37 @@
         "version": null,
         "news_id": "n-eb68bcfc57",
         "primary_link": "https://www.krea.ai/krea-2-open-source"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet.",
+        "version": null,
+        "news_id": "n-cce36dc967",
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda"
       }
     ],
     "related_news": [
+      {
+        "id": "n-cce36dc967",
+        "date": "2026-09-02",
+        "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "krea-2",
+        "version": null,
+        "tags": [
+          "Open-source release and ecosystem",
+          "family:krea-2",
+          "krea-2",
+          "misc",
+          "open-source-release"
+        ],
+        "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-eb68bcfc57",
         "date": "2026-06-24",
@@ -41663,7 +41755,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "open-source-release",
+        "display": "Open Source Release",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-cce36dc967",
+        "news_ids": [
+          "n-cce36dc967"
+        ]
+      }
+    ]
   },
   "krea-2-outpaint": {
     "family_slug": "krea-2-outpaint",
@@ -79820,7 +79924,7 @@
   },
   "seedvr2": {
     "family_slug": "seedvr2",
-    "family_display": "SeedVR2",
+    "family_display": "SeedVR2 development and distribution",
     "family_display_variants": [
       {
         "family_display": "SeedVR2",
@@ -79828,6 +79932,14 @@
         "last_seen": "2026-07-30",
         "news_ids": [
           "n-98db5e9f27"
+        ]
+      },
+      {
+        "family_display": "SeedVR2 development and distribution",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "news_ids": [
+          "n-92aedf6bb2"
         ]
       }
     ],
@@ -79839,13 +79951,14 @@
     "categories": [
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-07-30",
-    "last_seen": "2026-07-30",
+    "last_seen": "2026-09-02",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-98db5e9f27"
+      "n-98db5e9f27",
+      "n-92aedf6bb2"
     ],
     "versions_timeline": [
       {
@@ -79854,6 +79967,13 @@
         "news_id": "n-98db5e9f27",
         "title": "SeedVR2-1.4B ComfyUI package was linked",
         "primary_link": "https://huggingface.co/lvladikov/SeedVR2-1.4B"
+      },
+      {
+        "version": null,
+        "date": "2026-09-02",
+        "news_id": "n-92aedf6bb2",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio"
       }
     ],
     "features": [],
@@ -79869,6 +79989,18 @@
     "domains": [],
     "links": [
       {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
+        "is_primary": true,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
         "kind": "weights",
         "host": "huggingface.co",
         "lang": "en",
@@ -79878,6 +80010,102 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-98db5e9f27"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/README.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/THIRD_PARTY_NOTICES.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/blob/main/docs/INSTALLATION.md",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues/26",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/issues/30",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio/releases",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/comfyui_elite/comments/1w6muu7/seedvr2_video_upscaler_suite_github_linked_in_post/",
+        "is_primary": false,
+        "verified_at": "2026-09-06T00:01:23Z",
+        "news_ids": [
+          "n-92aedf6bb2"
         ]
       },
       {
@@ -79902,9 +80130,37 @@
         "version": null,
         "news_id": "n-98db5e9f27",
         "primary_link": "https://huggingface.co/lvladikov/SeedVR2-1.4B"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-02",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "summary": "The public Studio repository packages local preview, comparison, TensorRT VAE decoding and resumable long-video rendering around a compatible SeedVR2 integration. Its GitHub Releases page has no releases, multi-file batch processing is not verified, and early public issues include setup OOM and a reported chunk-assembly failure.",
+        "version": null,
+        "news_id": "n-92aedf6bb2",
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio"
       }
     ],
     "related_news": [
+      {
+        "id": "n-92aedf6bb2",
+        "date": "2026-09-02",
+        "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "seedvr2",
+        "version": null,
+        "tags": [
+          "SeedVR2 development and distribution",
+          "family:seedvr2",
+          "misc",
+          "seedvr2",
+          "seedvr2-development-and-distribution"
+        ],
+        "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-98db5e9f27",
         "date": "2026-07-30",
@@ -79925,7 +80181,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "seedvr2-development-and-distribution",
+        "display": "Seedvr2 Development And Distribution",
+        "first_seen": "2026-09-02",
+        "last_seen": "2026-09-02",
+        "latest_news_id": "n-92aedf6bb2",
+        "news_ids": [
+          "n-92aedf6bb2"
+        ]
+      }
+    ]
   },
   "seeing-fast-and-slow": {
     "family_slug": "seeing-fast-and-slow",

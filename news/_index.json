@@ -18,6 +18,44 @@
     "has_video": false
   },
   {
+    "id": "n-cce36dc967",
+    "date": "2026-09-02",
+    "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "krea-2",
+    "version": null,
+    "tags": [
+      "Open-source release and ecosystem",
+      "family:krea-2",
+      "krea-2",
+      "misc",
+      "open-source-release"
+    ],
+    "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-92aedf6bb2",
+    "date": "2026-09-02",
+    "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "seedvr2",
+    "version": null,
+    "tags": [
+      "SeedVR2 development and distribution",
+      "family:seedvr2",
+      "misc",
+      "seedvr2",
+      "seedvr2-development-and-distribution"
+    ],
+    "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-046d02af9f",
     "date": "2026-09-02",
     "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",

@@ -1898,6 +1898,9 @@
   "Open Multi-Agent": [
     "n-662ab03ff4"
   ],
+  "Open-source release and ecosystem": [
+    "n-cce36dc967"
+  ],
   "OpenAI": [
     "n-303168f615"
   ],
@@ -2361,6 +2364,9 @@
   ],
   "SeedVR2": [
     "n-98db5e9f27"
+  ],
+  "SeedVR2 development and distribution": [
+    "n-92aedf6bb2"
   ],
   "Seedance": [
     "n-e4d5ff5436",
@@ -5370,6 +5376,7 @@
   ],
   "family:krea-2": [
     "n-eb68bcfc57",
+    "n-cce36dc967",
     "n-45b7bbd16b"
   ],
   "family:krea-2-outpaint": [
@@ -6340,7 +6347,8 @@
     "n-740438cbeb"
   ],
   "family:seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
   ],
   "family:seeing-fast-and-slow": [
     "n-b1f200df41"
@@ -7986,6 +7994,7 @@
   ],
   "krea-2": [
     "n-eb68bcfc57",
+    "n-cce36dc967",
     "n-45b7bbd16b"
   ],
   "krea-2-outpaint": [
@@ -8790,6 +8799,7 @@
     "n-ce536a0efc",
     "n-cdfe0e2f1c",
     "n-cddebb8e59",
+    "n-cce36dc967",
     "n-ccb51d2a95",
     "n-cc2ada061c",
     "n-cb62ae01fa",
@@ -8898,6 +8908,7 @@
     "n-93c82cced4",
     "n-9371b417f8",
     "n-9358043c25",
+    "n-92aedf6bb2",
     "n-920abfb1e3",
     "n-901220b5b4",
     "n-8f2e77690e",
@@ -10037,6 +10048,9 @@
   "open-multi-agent": [
     "n-662ab03ff4"
   ],
+  "open-source-release": [
+    "n-cce36dc967"
+  ],
   "open_source_release": [
     "n-353bab66f8"
   ],
@@ -10912,7 +10926,11 @@
     "n-98db5e9f27"
   ],
   "seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
+  ],
+  "seedvr2-development-and-distribution": [
+    "n-92aedf6bb2"
   ],
   "seeing-fast-and-slow": [
     "n-b1f200df41"
