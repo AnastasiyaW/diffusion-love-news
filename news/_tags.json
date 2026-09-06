@@ -2124,6 +2124,9 @@
   "Qwen-Image-2.0-Pro": [
     "n-86ce44c208"
   ],
+  "Qwen-Image-Edit development": [
+    "n-8df2384b93"
+  ],
   "Qwen-Image-Flash": [
     "n-d791bdd250"
   ],
@@ -6131,6 +6134,7 @@
     "n-0cf91afec3"
   ],
   "family:qwen-image-edit": [
+    "n-8df2384b93",
     "n-250fdb3b1b"
   ],
   "family:qwen-image-flash": [
@@ -8917,6 +8921,7 @@
     "n-8e75dd0767",
     "n-8e1566e0c7",
     "n-8e078019f4",
+    "n-8df2384b93",
     "n-8d546ea894",
     "n-8cc344a285",
     "n-8c14423e0d",
@@ -10530,7 +10535,11 @@
     "n-0cf91afec3"
   ],
   "qwen-image-edit": [
+    "n-8df2384b93",
     "n-250fdb3b1b"
+  ],
+  "qwen-image-edit-development": [
+    "n-8df2384b93"
   ],
   "qwen-image-flash": [
     "n-d791bdd250"
