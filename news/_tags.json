@@ -2359,6 +2359,9 @@
   "SeedVR2": [
     "n-98db5e9f27"
   ],
+  "SeedVR2 development and distribution": [
+    "n-92aedf6bb2"
+  ],
   "Seedance": [
     "n-e4d5ff5436",
     "n-7dc01702da"
@@ -6329,7 +6332,8 @@
     "n-740438cbeb"
   ],
   "family:seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
   ],
   "family:seeing-fast-and-slow": [
     "n-b1f200df41"
@@ -8889,6 +8893,7 @@
     "n-93c82cced4",
     "n-9371b417f8",
     "n-9358043c25",
+    "n-92aedf6bb2",
     "n-920abfb1e3",
     "n-901220b5b4",
     "n-8f2e77690e",
@@ -10901,7 +10906,11 @@
     "n-98db5e9f27"
   ],
   "seedvr2": [
-    "n-98db5e9f27"
+    "n-98db5e9f27",
+    "n-92aedf6bb2"
+  ],
+  "seedvr2-development-and-distribution": [
+    "n-92aedf6bb2"
   ],
   "seeing-fast-and-slow": [
     "n-b1f200df41"
