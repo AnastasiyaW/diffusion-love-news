@@ -2,7 +2,7 @@
  "schema_version": "1.4",
  "id": "n-0ecaaac1b0",
  "entry_type": "news",
- "category": "misc",
+ "category": "audio-music",
  "lang": "en",
  "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
  "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync.",
@@ -44,12 +44,12 @@
  },
  "tags": [
   "MiniMax H3 development",
+  "audio-music",
   "family:minimax-h3",
-  "minimax-h3",
-  "misc"
+  "minimax-h3"
  ],
  "facets": {
-  "category": "misc",
+  "category": "audio-music",
   "entry_type": "news",
   "projects": [
    "minimax-h3"

@@ -2965,7 +2965,7 @@
       "schema_version": "1.4",
       "id": "n-0ecaaac1b0",
       "entry_type": "news",
-      "category": "misc",
+      "category": "audio-music",
       "lang": "en",
       "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
       "summary": "MiniMax H3 Semantic Bridge provides a ComfyUI conditioning adapter for MiniMax H3's standard FL2VA text-conditioned workflow. It is a community project, not an official MiniMax or SenseNova release; Ref2VA support was not released after the author's tests degraded singing and lip-sync.",
@@ -3007,12 +3007,12 @@
       },
       "tags": [
         "MiniMax H3 development",
+        "audio-music",
         "family:minimax-h3",
-        "minimax-h3",
-        "misc"
+        "minimax-h3"
       ],
       "facets": {
-        "category": "misc",
+        "category": "audio-music",
         "entry_type": "news",
         "projects": [
           "minimax-h3"
@@ -19064,7 +19064,7 @@
       "schema_version": "1.4",
       "id": "n-cce36dc967",
       "entry_type": "news",
-      "category": "misc",
+      "category": "diffusion-image",
       "lang": "en",
       "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
       "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet.",
@@ -19106,13 +19106,13 @@
       },
       "tags": [
         "Open-source release and ecosystem",
+        "diffusion-image",
         "family:krea-2",
         "krea-2",
-        "misc",
         "open-source-release"
       ],
       "facets": {
-        "category": "misc",
+        "category": "diffusion-image",
         "entry_type": "news",
         "projects": [
           "krea-2"
@@ -20428,7 +20428,7 @@
       "schema_version": "1.4",
       "id": "n-92aedf6bb2",
       "entry_type": "news",
-      "category": "misc",
+      "category": "tools-frontend",
       "lang": "en",
       "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
       "summary": "The public Studio repository packages local preview, comparison, TensorRT VAE decoding and resumable long-video rendering around a compatible SeedVR2 integration. Its GitHub Releases page has no releases, multi-file batch processing is not verified, and early public issues include setup OOM and a reported chunk-assembly failure.",
@@ -20471,12 +20471,12 @@
       "tags": [
         "SeedVR2 development and distribution",
         "family:seedvr2",
-        "misc",
         "seedvr2",
-        "seedvr2-development-and-distribution"
+        "seedvr2-development-and-distribution",
+        "tools-frontend"
       ],
       "facets": {
-        "category": "misc",
+        "category": "tools-frontend",
         "entry_type": "news",
         "projects": [
           "seedvr2"
@@ -22758,7 +22758,7 @@
       "schema_version": "1.4",
       "id": "n-046d02af9f",
       "entry_type": "news",
-      "category": "misc",
+      "category": "diffusion-video",
       "lang": "en",
       "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
       "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model.",
@@ -22802,11 +22802,11 @@
         "ComfyUI Development",
         "comfyui",
         "comfyui-development",
-        "family:comfyui",
-        "misc"
+        "diffusion-video",
+        "family:comfyui"
       ],
       "facets": {
-        "category": "misc",
+        "category": "diffusion-video",
         "entry_type": "news",
         "projects": [
           "comfyui"

@@ -637,15 +637,15 @@
     "id": "n-0ecaaac1b0",
     "date": "2026-09-05",
     "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
-    "category": "misc",
+    "category": "audio-music",
     "entry_type": "news",
     "project": "minimax-h3",
     "version": null,
     "tags": [
       "MiniMax H3 development",
+      "audio-music",
       "family:minimax-h3",
-      "minimax-h3",
-      "misc"
+      "minimax-h3"
     ],
     "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
     "has_image": false,
@@ -4112,15 +4112,15 @@
     "id": "n-cce36dc967",
     "date": "2026-09-02",
     "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
-    "category": "misc",
+    "category": "diffusion-image",
     "entry_type": "news",
     "project": "krea-2",
     "version": null,
     "tags": [
       "Open-source release and ecosystem",
+      "diffusion-image",
       "family:krea-2",
       "krea-2",
-      "misc",
       "open-source-release"
     ],
     "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
@@ -4401,16 +4401,16 @@
     "id": "n-92aedf6bb2",
     "date": "2026-09-02",
     "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
-    "category": "misc",
+    "category": "tools-frontend",
     "entry_type": "news",
     "project": "seedvr2",
     "version": null,
     "tags": [
       "SeedVR2 development and distribution",
       "family:seedvr2",
-      "misc",
       "seedvr2",
-      "seedvr2-development-and-distribution"
+      "seedvr2-development-and-distribution",
+      "tools-frontend"
     ],
     "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
     "has_image": false,
@@ -4894,7 +4894,7 @@
     "id": "n-046d02af9f",
     "date": "2026-09-02",
     "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
-    "category": "misc",
+    "category": "diffusion-video",
     "entry_type": "news",
     "project": "comfyui",
     "version": null,
@@ -4902,8 +4902,8 @@
       "ComfyUI Development",
       "comfyui",
       "comfyui-development",
-      "family:comfyui",
-      "misc"
+      "diffusion-video",
+      "family:comfyui"
     ],
     "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
     "has_image": false,

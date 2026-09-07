@@ -2,7 +2,7 @@
  "schema_version": "1.4",
  "id": "n-cce36dc967",
  "entry_type": "news",
- "category": "misc",
+ "category": "diffusion-image",
  "lang": "en",
  "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
  "summary": "A community LoRA for Krea 2 Turbo reports more variation across random seeds for the same prompt. Its key constraint is operational: it must run only during the first two of Turbo's eight denoise steps, then switch off. The reported results are from the creator's fixed evaluation panel; no independent reproduction is available yet.",
@@ -44,13 +44,13 @@
  },
  "tags": [
   "Open-source release and ecosystem",
+  "diffusion-image",
   "family:krea-2",
   "krea-2",
-  "misc",
   "open-source-release"
  ],
  "facets": {
-  "category": "misc",
+  "category": "diffusion-image",
   "entry_type": "news",
   "projects": [
    "krea-2"

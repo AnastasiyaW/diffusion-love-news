@@ -2,7 +2,7 @@
  "schema_version": "1.4",
  "id": "n-046d02af9f",
  "entry_type": "news",
- "category": "misc",
+ "category": "diffusion-video",
  "lang": "en",
  "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
  "summary": "ComfyUI-H3VAE_TRT adds a third-party TensorRT route for MiniMax-H3 VAE encoding and decoding. Its maintainer reports speed gains of up to 1.7x for that stage, not for complete video generation. The node pack is separate from ComfyUI core and the MiniMax-H3 model.",
@@ -46,11 +46,11 @@
   "ComfyUI Development",
   "comfyui",
   "comfyui-development",
-  "family:comfyui",
-  "misc"
+  "diffusion-video",
+  "family:comfyui"
  ],
  "facets": {
-  "category": "misc",
+  "category": "diffusion-video",
   "entry_type": "news",
   "projects": [
    "comfyui"
