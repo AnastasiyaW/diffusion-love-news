@@ -46,7 +46,8 @@
   "MiniMax H3 development",
   "audio-music",
   "family:minimax-h3",
-  "minimax-h3"
+  "minimax-h3",
+  "tools-frontend"
  ],
  "facets": {
   "category": "audio-music",

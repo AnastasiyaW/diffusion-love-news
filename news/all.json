@@ -3009,7 +3009,8 @@
         "MiniMax H3 development",
         "audio-music",
         "family:minimax-h3",
-        "minimax-h3"
+        "minimax-h3",
+        "tools-frontend"
       ],
       "facets": {
         "category": "audio-music",
@@ -22803,7 +22804,8 @@
         "comfyui",
         "comfyui-development",
         "diffusion-video",
-        "family:comfyui"
+        "family:comfyui",
+        "tools-frontend"
       ],
       "facets": {
         "category": "diffusion-video",
