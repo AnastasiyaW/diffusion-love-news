@@ -78,7 +78,7 @@
     "id": "n-046d02af9f",
     "date": "2026-09-02",
     "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
-    "category": "misc",
+    "category": "diffusion-video",
     "entry_type": "news",
     "project": "comfyui",
     "version": null,
@@ -86,8 +86,8 @@
       "ComfyUI Development",
       "comfyui",
       "comfyui-development",
-      "family:comfyui",
-      "misc"
+      "diffusion-video",
+      "family:comfyui"
     ],
     "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
     "has_image": false,
