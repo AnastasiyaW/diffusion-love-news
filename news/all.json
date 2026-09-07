@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-06T03:06:58Z",
+  "generated_at": "2026-09-07T09:35:09Z",
   "site": "diffusion.love",
-  "total": 1272,
+  "total": 1273,
   "records": [
     {
       "schema_version": "1.3",
@@ -31564,6 +31564,100 @@
         "classified_at": "2026-09-04T22:01:31Z",
         "enriched_at": "2026-09-04T22:01:31Z",
         "verified_at": "2026-09-04T22:01:31Z",
+        "models_used": {
+          "classifier": "nemotron-3.5-lightning",
+          "research": "codex"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.3",
+      "id": "n-c856a8e809",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "OmniScientist: The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that po",
+      "summary": "The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that point.",
+      "research_notes": "The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that point.",
+      "project": {
+        "name": "OmniScientist",
+        "family_slug": "omniscientist",
+        "family_display": "OmniScientist",
+        "model_slug": "omniscientist",
+        "model_display": "OmniScientist",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "tags": [
+        "OmniScientist",
+        "family:omniscientist",
+        "misc",
+        "omniscientist"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "omniscientist"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://omni-scientist.github.io/",
+          "host": "omni-scientist.github.io",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-07T09:35:09Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Omni-Scientist/OmniScientist",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-07T09:35:09Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-08-21",
+        "excerpt": "The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that point."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-07T09:35:09Z",
+        "classified_at": "2026-09-07T09:35:09Z",
+        "enriched_at": "2026-09-07T09:35:09Z",
+        "verified_at": "2026-09-07T09:35:09Z",
         "models_used": {
           "classifier": "nemotron-3.5-lightning",
           "research": "codex"

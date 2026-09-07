@@ -6747,6 +6747,24 @@
     "has_video": false
   },
   {
+    "id": "n-c856a8e809",
+    "date": "2026-08-21",
+    "title": "OmniScientist: The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that po",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "omniscientist",
+    "version": null,
+    "tags": [
+      "OmniScientist",
+      "family:omniscientist",
+      "misc",
+      "omniscientist"
+    ],
+    "primary_link": "https://omni-scientist.github.io/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c3d4c31323",
     "date": "2026-08-21",
     "title": "Frame Extractor repository linked as a project development reference",

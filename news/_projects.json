@@ -75572,6 +75572,114 @@
     ],
     "claims": []
   },
+  "omniscientist": {
+    "family_slug": "omniscientist",
+    "family_display": "OmniScientist",
+    "family_display_variants": [
+      {
+        "family_display": "OmniScientist",
+        "first_seen": "2026-08-21",
+        "last_seen": "2026-08-21",
+        "news_ids": [
+          "n-c856a8e809"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-08-21",
+    "last_seen": "2026-08-21",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-c856a8e809"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-08-21",
+        "news_id": "n-c856a8e809",
+        "title": "OmniScientist: The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that po",
+        "primary_link": "https://omni-scientist.github.io/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "omni-scientist.github.io",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://omni-scientist.github.io/",
+        "is_primary": true,
+        "verified_at": "2026-09-07T09:35:09Z",
+        "news_ids": [
+          "n-c856a8e809"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Omni-Scientist/OmniScientist",
+        "is_primary": false,
+        "verified_at": "2026-09-07T09:35:09Z",
+        "news_ids": [
+          "n-c856a8e809"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "news",
+        "date": "2026-08-21",
+        "title": "OmniScientist: The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that po",
+        "summary": "The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that point.",
+        "version": null,
+        "news_id": "n-c856a8e809",
+        "primary_link": "https://omni-scientist.github.io/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c856a8e809",
+        "date": "2026-08-21",
+        "title": "OmniScientist: The official history jumps from 2026-08-20 to 2026-08-22; v0.1.1 was the most recent tagged release at that po",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "omniscientist",
+        "version": null,
+        "tags": [
+          "OmniScientist",
+          "family:omniscientist",
+          "misc",
+          "omniscientist"
+        ],
+        "primary_link": "https://omni-scientist.github.io/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": []
+  },
   "omnishotcut": {
     "family_slug": "omnishotcut",
     "family_display": "OmniShotCut",

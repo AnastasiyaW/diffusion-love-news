@@ -2177,6 +2177,9 @@
   "OmniRoute": [
     "n-3450949e78"
   ],
+  "OmniScientist": [
+    "n-c856a8e809"
+  ],
   "OmniShotCut": [
     "n-bb0f83ff09"
   ],
@@ -7250,6 +7253,9 @@
   "family:omniroute": [
     "n-3450949e78"
   ],
+  "family:omniscientist": [
+    "n-c856a8e809"
+  ],
   "family:omnishotcut": [
     "n-bb0f83ff09"
   ],
@@ -11007,6 +11013,7 @@
     "n-ca13b9fa04",
     "n-c969bb3002",
     "n-c8fa19868e",
+    "n-c856a8e809",
     "n-c82a0ba453",
     "n-c761fd7352",
     "n-c73bfca8d3",
@@ -12739,6 +12746,9 @@
   ],
   "omniroute": [
     "n-3450949e78"
+  ],
+  "omniscientist": [
+    "n-c856a8e809"
   ],
   "omnishotcut": [
     "n-bb0f83ff09"
