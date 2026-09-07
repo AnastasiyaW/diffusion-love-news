@@ -40,15 +40,15 @@
     "id": "n-cce36dc967",
     "date": "2026-09-02",
     "title": "Krea 2 Turbo SDA LoRA adds a two-step diversity gate",
-    "category": "misc",
+    "category": "diffusion-image",
     "entry_type": "news",
     "project": "krea-2",
     "version": null,
     "tags": [
       "Open-source release and ecosystem",
+      "diffusion-image",
       "family:krea-2",
       "krea-2",
-      "misc",
       "open-source-release"
     ],
     "primary_link": "https://huggingface.co/F16/krea2-turbo-sda",
