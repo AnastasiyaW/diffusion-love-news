@@ -79829,7 +79829,8 @@
     "license": null,
     "base_model": null,
     "categories": [
-      "misc"
+      "misc",
+      "tools-frontend"
     ],
     "post_count": 2,
     "first_seen": "2026-07-30",
@@ -80026,16 +80027,16 @@
         "id": "n-92aedf6bb2",
         "date": "2026-09-02",
         "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
-        "category": "misc",
+        "category": "tools-frontend",
         "entry_type": "news",
         "project": "seedvr2",
         "version": null,
         "tags": [
           "SeedVR2 development and distribution",
           "family:seedvr2",
-          "misc",
           "seedvr2",
-          "seedvr2-development-and-distribution"
+          "seedvr2-development-and-distribution",
+          "tools-frontend"
         ],
         "primary_link": "https://github.com/vrgamegirl19/VRGDG-SeedVR2-TensorRT-Studio",
         "has_image": false,

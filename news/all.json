@@ -376,7 +376,7 @@
       "schema_version": "1.4",
       "id": "n-92aedf6bb2",
       "entry_type": "news",
-      "category": "misc",
+      "category": "tools-frontend",
       "lang": "en",
       "title": "VRGDG SeedVR2 TensorRT Studio adds a local Windows workflow around SeedVR2",
       "summary": "The public Studio repository packages local preview, comparison, TensorRT VAE decoding and resumable long-video rendering around a compatible SeedVR2 integration. Its GitHub Releases page has no releases, multi-file batch processing is not verified, and early public issues include setup OOM and a reported chunk-assembly failure.",
@@ -419,12 +419,12 @@
       "tags": [
         "SeedVR2 development and distribution",
         "family:seedvr2",
-        "misc",
         "seedvr2",
-        "seedvr2-development-and-distribution"
+        "seedvr2-development-and-distribution",
+        "tools-frontend"
       ],
       "facets": {
-        "category": "misc",
+        "category": "tools-frontend",
         "entry_type": "news",
         "projects": [
           "seedvr2"
