@@ -53326,6 +53326,7 @@
     "license": null,
     "base_model": null,
     "categories": [
+      "audio-music",
       "misc"
     ],
     "post_count": 3,
@@ -53480,15 +53481,15 @@
         "id": "n-0ecaaac1b0",
         "date": "2026-09-05",
         "title": "MiniMax H3 Semantic Bridge adds an adapter for H3's FL2VA text path",
-        "category": "misc",
+        "category": "audio-music",
         "entry_type": "news",
         "project": "minimax-h3",
         "version": null,
         "tags": [
           "MiniMax H3 development",
+          "audio-music",
           "family:minimax-h3",
-          "minimax-h3",
-          "misc"
+          "minimax-h3"
         ],
         "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
         "has_image": false,
