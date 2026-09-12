@@ -1,5 +1,41 @@
 [
   {
+    "id": "n-e712086893",
+    "date": "2026-09-11",
+    "title": "Krea Agents opens application-based creative workflows",
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "project": "krea-agents",
+    "version": null,
+    "tags": [
+      "Krea Agents: krea-agents",
+      "family:krea-agents",
+      "krea-agents",
+      "tools-frontend"
+    ],
+    "primary_link": "https://links.krea.ai/krea29560951",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-a95c499131",
+    "date": "2026-09-11",
+    "title": "Krea Agents adds project context and Pinterest import",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "krea-agents",
+    "version": null,
+    "tags": [
+      "Krea Agents: krea-agents",
+      "family:krea-agents",
+      "krea-agents",
+      "misc"
+    ],
+    "primary_link": "https://links.krea.ai/krea29560951",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-af1f65eba4",
     "date": "2026-09-06",
     "title": "MiniMax H3 lip synchronization experiment",

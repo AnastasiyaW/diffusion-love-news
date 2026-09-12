@@ -1460,6 +1460,10 @@
   "Krea 2 Outpaint": [
     "n-a0d5299653"
   ],
+  "Krea Agents: krea-agents": [
+    "n-e712086893",
+    "n-a95c499131"
+  ],
   "Krea2 Filter Bypass": [
     "n-31cb32c83a"
   ],
@@ -6665,6 +6669,10 @@
   "family:krea-2-outpaint": [
     "n-a0d5299653"
   ],
+  "family:krea-agents": [
+    "n-e712086893",
+    "n-a95c499131"
+  ],
   "family:krea2-filter-bypass": [
     "n-31cb32c83a"
   ],
@@ -10040,6 +10048,10 @@
   "krea-2-release": [
     "n-390aed02e2"
   ],
+  "krea-agents": [
+    "n-e712086893",
+    "n-a95c499131"
+  ],
   "krea2-filter-bypass": [
     "n-31cb32c83a"
   ],
@@ -11122,6 +11134,7 @@
     "n-ab3713a0b5",
     "n-a99ab8a6eb",
     "n-a98d10bce2",
+    "n-a95c499131",
     "n-a94fda4e13",
     "n-a89ec476bc",
     "n-a85f96599d",
@@ -14890,6 +14903,7 @@
     "n-f6c6cdf729",
     "n-edad1a10a0",
     "n-ebeab9837a",
+    "n-e712086893",
     "n-e4d5ff5436",
     "n-df8413780a",
     "n-c66b8c38b0",
