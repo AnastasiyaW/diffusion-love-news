@@ -1,0 +1,140 @@
+{
+ "schema_version": "1.4",
+ "id": "n-e712086893",
+ "entry_type": "news",
+ "category": "tools-frontend",
+ "lang": "en",
+ "title": "Krea Agents opens application-based creative workflows",
+ "summary": "Krea Agents is reported to let applicants organize project files and references, import Pinterest moodboards, create reusable image-based skills and connect work tools for creative production.",
+ "research_notes": "Request access through the Agents beta flow; reporting describes access as application-based.\n\nUpload project files and references, then describe the intended result and choose the available language-model and effort settings.\n\nImport a Pinterest moodboard or other visual reference, and create an image-set skill when a recurring style needs to be invoked from prompts.\n\nConnect Slack, Figma or Google Drive when their project material is needed in the agent context; review generated media before using its reported social-publishing capability.\n\nKeep the brief, references and reusable style material together in the project context before asking for a multi-step result; Krea’s earlier Node Agent documentation shows the platform plans from existing canvas state and lets users review a plan before execution.\n\nReview the proposed workflow and model choices before running generation: Krea’s Node Agent documentation says it presents a plan and per-node compute cost before execution.",
+ "project": {
+  "name": "Krea Agents: krea-agents",
+  "family_slug": "krea-agents",
+  "family_display": "Krea Agents: krea-agents",
+  "model_slug": "krea-agents",
+  "model_display": "Krea Agents: krea-agents",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "krea-agents",
+  "thread_display": "Krea Agents",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Krea Agents: krea-agents",
+  "article_url": "https://happyin.space/projects/krea-agents/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/2d7357a2d5635da6bba69b40c0b05ee349f2a4ab/docs/projects/krea-agents.md",
+  "agent_context_url": "https://happyin.space/projects/krea-agents/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-09-11",
+  "title": "Krea Agents opens application-based creative workflows",
+  "version": null,
+  "summary": "Krea Agents is reported to let applicants organize project files and references, import Pinterest moodboards, create reusable image-based skills and connect work tools for creative production."
+ },
+ "tags": [
+  "Krea Agents: krea-agents",
+  "family:krea-agents",
+  "krea-agents",
+  "tools-frontend"
+ ],
+ "facets": {
+  "category": "tools-frontend",
+  "entry_type": "news",
+  "projects": [
+   "krea-agents"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://links.krea.ai/krea29560951",
+   "host": "links.krea.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-12T11:16:33Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://ai-daily-digest-3zi.pages.dev/2026-09-11",
+   "host": "ai-daily-digest-3zi.pages.dev",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-12T11:16:33Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://modelora.ru/news/krea-vypustila-ii-agentov-agents-dlya-2026-09-11",
+   "host": "modelora.ru",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-12T11:16:33Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://postium.ru/krea-pokazala-platformu-krea-agents/",
+   "host": "postium.ru",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-12T11:16:33Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.krea.ai/blog/ai-workflow-agent",
+   "host": "krea.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-12T11:16:33Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-11",
+  "excerpt": "Krea Agents is reported to let applicants organize project files and references, import Pinterest moodboards, create reusable image-based skills and connect work tools for creative production."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-12T11:16:33Z",
+  "classified_at": "2026-09-12T11:16:33Z",
+  "enriched_at": "2026-09-12T11:16:33Z",
+  "verified_at": "2026-09-12T11:16:33Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

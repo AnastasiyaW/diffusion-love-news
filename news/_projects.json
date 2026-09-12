@@ -41807,6 +41807,205 @@
     ],
     "claims": []
   },
+  "krea-agents": {
+    "family_slug": "krea-agents",
+    "family_display": "Krea Agents: krea-agents",
+    "family_display_variants": [
+      {
+        "family_display": "Krea Agents: krea-agents",
+        "first_seen": "2026-09-11",
+        "last_seen": "2026-09-11",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc",
+      "tools-frontend"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-09-11",
+    "last_seen": "2026-09-11",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-a95c499131",
+      "n-e712086893"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-09-11",
+        "news_id": "n-a95c499131",
+        "title": "Krea Agents adds project context and Pinterest import",
+        "primary_link": "https://links.krea.ai/krea29560951"
+      },
+      {
+        "version": null,
+        "date": "2026-09-11",
+        "news_id": "n-e712086893",
+        "title": "Krea Agents opens application-based creative workflows",
+        "primary_link": "https://links.krea.ai/krea29560951"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "links.krea.ai",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://links.krea.ai/krea29560951",
+        "is_primary": true,
+        "verified_at": "2026-09-12T11:16:33Z",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "ai-daily-digest-3zi.pages.dev",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://ai-daily-digest-3zi.pages.dev/2026-09-11",
+        "is_primary": false,
+        "verified_at": "2026-09-12T11:16:33Z",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "modelora.ru",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://modelora.ru/news/krea-vypustila-ii-agentov-agents-dlya-2026-09-11",
+        "is_primary": false,
+        "verified_at": "2026-09-12T11:16:33Z",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "postium.ru",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://postium.ru/krea-pokazala-platformu-krea-agents/",
+        "is_primary": false,
+        "verified_at": "2026-09-12T11:16:33Z",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "krea.ai",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.krea.ai/blog/ai-workflow-agent",
+        "is_primary": false,
+        "verified_at": "2026-09-12T11:16:33Z",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-09-11",
+        "title": "Krea Agents adds project context and Pinterest import",
+        "summary": "Krea Agents is reported to combine project-file context, Pinterest moodboards, reusable image-based skills and connected work tools in an application-based creative agent workspace.",
+        "version": null,
+        "news_id": "n-a95c499131",
+        "primary_link": "https://links.krea.ai/krea29560951"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-11",
+        "title": "Krea Agents opens application-based creative workflows",
+        "summary": "Krea Agents is reported to let applicants organize project files and references, import Pinterest moodboards, create reusable image-based skills and connect work tools for creative production.",
+        "version": null,
+        "news_id": "n-e712086893",
+        "primary_link": "https://links.krea.ai/krea29560951"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-e712086893",
+        "date": "2026-09-11",
+        "title": "Krea Agents opens application-based creative workflows",
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "project": "krea-agents",
+        "version": null,
+        "tags": [
+          "Krea Agents: krea-agents",
+          "family:krea-agents",
+          "krea-agents",
+          "tools-frontend"
+        ],
+        "primary_link": "https://links.krea.ai/krea29560951",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-a95c499131",
+        "date": "2026-09-11",
+        "title": "Krea Agents adds project context and Pinterest import",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "krea-agents",
+        "version": null,
+        "tags": [
+          "Krea Agents: krea-agents",
+          "family:krea-agents",
+          "krea-agents",
+          "misc"
+        ],
+        "primary_link": "https://links.krea.ai/krea29560951",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "krea-agents",
+        "display": "Krea Agents",
+        "first_seen": "2026-09-11",
+        "last_seen": "2026-09-11",
+        "latest_news_id": "n-e712086893",
+        "news_ids": [
+          "n-a95c499131",
+          "n-e712086893"
+        ]
+      }
+    ]
+  },
   "krea2-filter-bypass": {
     "family_slug": "krea2-filter-bypass",
     "family_display": "Krea2 Filter Bypass",
