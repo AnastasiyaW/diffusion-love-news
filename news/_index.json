@@ -47,7 +47,8 @@
       "MiniMax H3 development",
       "audio-music",
       "family:minimax-h3",
-      "minimax-h3"
+      "minimax-h3",
+      "tools-frontend"
     ],
     "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1w7wtco/i_tried_transferring_semantic_representations/",
     "has_image": false,
