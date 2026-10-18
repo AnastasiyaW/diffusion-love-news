@@ -149,6 +149,55 @@
       }
     ]
   },
+  "dodo-pizza": {
+    "slug": "dodo-pizza",
+    "display": "Dodo Pizza: revenue-dashboard",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "news_ids": [
+      "n-8dc4648cdc"
+    ],
+    "direct_news_ids": [
+      "n-8dc4648cdc"
+    ],
+    "development_threads": [
+      {
+        "slug": "revenue-dashboard",
+        "display": "Revenue Dashboard",
+        "first_seen": "2026-09-26",
+        "last_seen": "2026-09-26",
+        "latest_news_id": "n-8dc4648cdc",
+        "news_ids": [
+          "n-8dc4648cdc"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-8dc4648cdc",
+        "date": "2026-09-26",
+        "title": "Dodo Pizza: public store revenue dashboard",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Dodo Pizza: revenue-dashboard",
+          "dodo-pizza",
+          "misc",
+          "organization:dodo-pizza",
+          "revenue-dashboard"
+        ],
+        "primary_link": "https://dodostats.ru/ru/pizzerias/rus/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "happyin": {
     "slug": "happyin",
     "display": "Happyin",
