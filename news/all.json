@@ -1,9 +1,235 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-12T11:16:33Z",
+  "generated_at": "2026-09-12T22:30:02Z",
   "site": "diffusion.love",
-  "total": 917,
+  "total": 919,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-c42886783e",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "ItsGiving webcam meme overlay for meetings",
+      "summary": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector.",
+      "research_notes": "Create a Python 3.11 or 3.12 virtual environment and install the pinned requirements.\n\nRun `python its_giving_v2.py --calibrate`, remain neutral for the seven-second calibration, then run `python its_giving_v2.py`.\n\nInstall a virtual-camera backend for the operating system, start ItsGiving before the meeting application, then select the published virtual camera in that application's video settings.\n\nKeep the dependency pins unchanged: the documented MediaPipe, NumPy and OpenCV compatibility constraints are coupled.\n\nUse v2 and recalibrate when needed because its expression thresholds are based on the user's neutral-face baseline.\n\nWhen adding a pose, check pose order before lowering thresholds, because the first matching pose wins; use the HUD and an arm count to tune false triggers.\n\nTest reactions before using them in a meeting because the output can trigger automatically and is visible to all call participants.",
+      "project": {
+        "name": "Itsgiving: itsgiving",
+        "family_slug": "itsgiving",
+        "family_display": "Itsgiving: itsgiving",
+        "model_slug": "itsgiving",
+        "model_display": "Itsgiving: itsgiving",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "itsgiving",
+        "thread_display": "Itsgiving",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Itsgiving: itsgiving",
+        "article_url": "https://happyin.space/projects/itsgiving/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/752c8520ea18902773be3e2a59784d91e6821f36/docs/projects/itsgiving.md",
+        "agent_context_url": "https://happyin.space/projects/itsgiving/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay for meetings",
+        "version": null,
+        "summary": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector."
+      },
+      "tags": [
+        "Itsgiving: itsgiving",
+        "family:itsgiving",
+        "itsgiving",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "itsgiving"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/gazijarin/itsgiving",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://vk.ru/greenneuralrobots",
+          "host": "vk.ru",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-12",
+        "excerpt": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-12T22:30:02Z",
+        "classified_at": "2026-09-12T22:30:02Z",
+        "enriched_at": "2026-09-12T22:30:02Z",
+        "verified_at": "2026-09-12T22:30:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-4d771e5e60",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+      "summary": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline.",
+      "research_notes": "Create a Python 3.11 or 3.12 virtual environment and install the pinned requirements.\n\nRun `python its_giving_v2.py --calibrate`, remain neutral for the seven-second calibration, then run `python its_giving_v2.py`.\n\nInstall a virtual-camera backend for the operating system, start ItsGiving before the meeting application, then select the published virtual camera in that application's video settings.\n\nKeep the dependency pins unchanged: the documented MediaPipe, NumPy and OpenCV compatibility constraints are coupled.\n\nUse v2 and recalibrate when needed because its expression thresholds are based on the user's neutral-face baseline.\n\nWhen adding a pose, check pose order before lowering thresholds, because the first matching pose wins; use the HUD and an arm count to tune false triggers.\n\nTest reactions before using them in a meeting because the output can trigger automatically and is visible to all call participants.",
+      "project": {
+        "name": "Itsgiving: itsgiving",
+        "family_slug": "itsgiving",
+        "family_display": "Itsgiving: itsgiving",
+        "model_slug": "itsgiving",
+        "model_display": "Itsgiving: itsgiving",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "itsgiving",
+        "thread_display": "Itsgiving",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Itsgiving: itsgiving",
+        "article_url": "https://happyin.space/projects/itsgiving/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/752c8520ea18902773be3e2a59784d91e6821f36/docs/projects/itsgiving.md",
+        "agent_context_url": "https://happyin.space/projects/itsgiving/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+        "version": null,
+        "summary": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline."
+      },
+      "tags": [
+        "Itsgiving: itsgiving",
+        "family:itsgiving",
+        "itsgiving",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "itsgiving"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/gazijarin/itsgiving",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://vk.ru/greenneuralrobots",
+          "host": "vk.ru",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-12",
+        "excerpt": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-12T22:30:02Z",
+        "classified_at": "2026-09-12T22:30:02Z",
+        "enriched_at": "2026-09-12T22:30:02Z",
+        "verified_at": "2026-09-12T22:30:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-e712086893",

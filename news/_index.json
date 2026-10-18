@@ -1,5 +1,41 @@
 [
   {
+    "id": "n-c42886783e",
+    "date": "2026-09-12",
+    "title": "ItsGiving webcam meme overlay for meetings",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "itsgiving",
+    "version": null,
+    "tags": [
+      "Itsgiving: itsgiving",
+      "family:itsgiving",
+      "itsgiving",
+      "misc"
+    ],
+    "primary_link": "https://github.com/gazijarin/itsgiving",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4d771e5e60",
+    "date": "2026-09-12",
+    "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "itsgiving",
+    "version": null,
+    "tags": [
+      "Itsgiving: itsgiving",
+      "family:itsgiving",
+      "itsgiving",
+      "misc"
+    ],
+    "primary_link": "https://github.com/gazijarin/itsgiving",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-e712086893",
     "date": "2026-09-11",
     "title": "Krea Agents opens application-based creative workflows",
