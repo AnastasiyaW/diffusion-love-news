@@ -198,6 +198,55 @@
       }
     ]
   },
+  "elevenlabs": {
+    "slug": "elevenlabs",
+    "display": "Voice Platform Development",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "news_ids": [
+      "n-66869cc4a0"
+    ],
+    "direct_news_ids": [
+      "n-66869cc4a0"
+    ],
+    "development_threads": [
+      {
+        "slug": "voice-platform-development",
+        "display": "Voice Platform Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-66869cc4a0",
+        "news_ids": [
+          "n-66869cc4a0"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-66869cc4a0",
+        "date": "2026-10-17",
+        "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Voice Platform Development",
+          "audio-music",
+          "elevenlabs",
+          "organization:elevenlabs",
+          "voice-platform-development"
+        ],
+        "primary_link": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "happyin": {
     "slug": "happyin",
     "display": "Happyin",

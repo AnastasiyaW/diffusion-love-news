@@ -2753,6 +2753,9 @@
   "VocalRender": [
     "n-4621bd0727"
   ],
+  "Voice Platform Development": [
+    "n-66869cc4a0"
+  ],
   "Volumography": [
     "n-ef5357108f"
   ],
@@ -3191,6 +3194,7 @@
     "n-7de8349cd0",
     "n-78ccc63365",
     "n-694e3b1cf5",
+    "n-66869cc4a0",
     "n-665b60a4fc",
     "n-5b56fca93a",
     "n-596ffa06da",
@@ -4273,7 +4277,8 @@
     "n-253f50a66d"
   ],
   "elevenlabs": [
-    "n-f5dbfdb346"
+    "n-f5dbfdb346",
+    "n-66869cc4a0"
   ],
   "embeddings": [
     "n-1ee49081d2"
@@ -10178,6 +10183,9 @@
   "organization:dodo-pizza": [
     "n-8dc4648cdc"
   ],
+  "organization:elevenlabs": [
+    "n-66869cc4a0"
+  ],
   "organization:happyin": [
     "n-001a2f8ef9"
   ],
@@ -11687,6 +11695,9 @@
     "n-5d03d1bfa4",
     "n-2ffed2d338",
     "n-0124eabefd"
+  ],
+  "voice-platform-development": [
+    "n-66869cc4a0"
   ],
   "void": [
     "n-83af6888de",
