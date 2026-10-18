@@ -1,9 +1,923 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-12T11:16:33Z",
+  "generated_at": "2026-10-18T11:38:56Z",
   "site": "diffusion.love",
-  "total": 1275,
+  "total": 1282,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-66869cc4a0",
+      "entry_type": "news",
+      "category": "audio-music",
+      "lang": "en",
+      "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+      "summary": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API.",
+      "research_notes": "Open the ElevenCreative Music Video Editor, upload video, and generate a soundtrack with sound effects; optionally use the video’s existing audio as a reference for the score.\n\nReview sound effects as separate timeline layers, adjust timing or replace music, then export the result.\n\nFor music creation outside the video workflow, describe genre, mood, instrumentation, structure, and intended use in a natural-language prompt, then edit sections or regenerate.\n\nUse a detailed prompt that combines genre, mood, instrumentation, tempo, and use case rather than a broad genre label.\n\nFor longer compositions, generate and approve an intro first, then build successive sections and refine prompts rather than restarting the entire track.\n\nUse separate sound-effect layers to check cue timing and revise individual moments before export.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "elevenlabs",
+        "display": "Voice Platform Development",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "voice-platform-development",
+        "thread_display": "Voice Platform Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Voice Platform Development",
+        "article_url": "https://happyin.space/organizations/elevenlabs/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/97c066ebdc60b28cc4a066144d1c82f6c737c996/docs/organizations/elevenlabs.md",
+        "agent_context_url": "https://happyin.space/organizations/elevenlabs/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+        "version": null,
+        "summary": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API."
+      },
+      "tags": [
+        "Voice Platform Development",
+        "audio-music",
+        "elevenlabs",
+        "organization:elevenlabs",
+        "voice-platform-development"
+      ],
+      "facets": {
+        "category": "audio-music",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "elevenlabs"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+          "host": "elevenlabs.io",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-18T11:38:56Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://elevenlabs.io/music",
+          "host": "elevenlabs.io",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T11:38:56Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://elevenlabs.io/docs/eleven-creative/products/music",
+          "host": "elevenlabs.io",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T11:38:56Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-18T11:38:56Z",
+        "classified_at": "2026-10-18T11:38:56Z",
+        "enriched_at": "2026-10-18T11:38:56Z",
+        "verified_at": "2026-10-18T11:38:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-8dc4648cdc",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "Dodo Pizza: public store revenue dashboard",
+      "summary": "Dodo Pizza store statistics are publicly accessible by country and location, showing previous-month revenue and opening dates. The page says it refreshes from the public Dodo IS API every 30 minutes.",
+      "research_notes": "Open the country page, choose a country or a store, then use the store table to inspect opening date and previous-month revenue.\n\nFor a comparison, set the brand, country, currency and time-window filters; review sales, year-over-year change, orders and unit age together.\n\nCompare like-for-like locations and interpret a missing or zero year-over-year value for a newer store as the absence of a same-period baseline, not as evidence of no growth.\n\nRecord the country, currency, period and filters used before sharing a comparison, because the dashboard exposes different network slices and local currencies.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "dodo-pizza",
+        "display": "Dodo Pizza: revenue-dashboard",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "revenue-dashboard",
+        "thread_display": "Revenue Dashboard",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Dodo Pizza: revenue-dashboard",
+        "article_url": "https://happyin.space/organizations/dodo-pizza/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7176da9cedb9517688c147728c8b8a0677fa52f2/docs/organizations/dodo-pizza.md",
+        "agent_context_url": "https://happyin.space/organizations/dodo-pizza/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-26",
+        "title": "Dodo Pizza: public store revenue dashboard",
+        "version": null,
+        "summary": "Dodo Pizza store statistics are publicly accessible by country and location, showing previous-month revenue and opening dates. The page says it refreshes from the public Dodo IS API every 30 minutes."
+      },
+      "tags": [
+        "Dodo Pizza: revenue-dashboard",
+        "dodo-pizza",
+        "misc",
+        "organization:dodo-pizza",
+        "revenue-dashboard"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "dodo-pizza"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://dodostats.ru/ru/pizzerias/rus/",
+          "host": "dodostats.ru",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:28:34Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://dodobrands.io/blog/article/dodo-brands-15-years/",
+          "host": "dodobrands.io",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:28:34Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.linkedin.com/posts/dodobrands_most-franchise-systems-show-you-the-winners-activity-7464658865737957376-2nBe",
+          "host": "linkedin.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:28:34Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-26",
+        "excerpt": "Dodo Pizza store statistics are publicly accessible by country and location, showing previous-month revenue and opening dates. The page says it refreshes from the public Dodo IS API every 30 minutes."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-26T22:28:34Z",
+        "classified_at": "2026-09-26T22:28:34Z",
+        "enriched_at": "2026-09-26T22:28:34Z",
+        "verified_at": "2026-09-26T22:28:34Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-78f83be264",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "WAN Skills public details unavailable",
+      "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified.",
+      "research_notes": "Create an Alibaba Cloud account, activate ModelStudio, and create a DashScope API key.\n\nSet DASHSCOPE_API_KEY and select the DashScope base URL for the intended region.\n\nClone Wan-skills and install the required skill directory into the AI agent, such as skills/wan2.7-image-skill.\n\nFor image work, provide a text requirement and optional image URLs; the supplied script submits an asynchronous wan2.7-image task and checks its task status.\n\nChoose the DashScope regional endpoint explicitly instead of relying on an unstated deployment region.\n\nTreat image generation as asynchronous and retain the task ID until the status reaches a terminal result.",
+      "project": {
+        "name": "WAN skills: wan-skills",
+        "family_slug": "wan-skills",
+        "family_display": "WAN skills: wan-skills",
+        "model_slug": "wan-skills",
+        "model_display": "WAN skills: wan-skills",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "wan-skills",
+        "thread_display": "Wan Skills",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "WAN skills: wan-skills",
+        "article_url": "https://happyin.space/projects/wan-skills/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/2b79bee84fba534614dfc22da3dfaaa58d43bba6/docs/projects/wan-skills.md",
+        "agent_context_url": "https://happyin.space/projects/wan-skills/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "version": null,
+        "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+      },
+      "tags": [
+        "WAN skills: wan-skills",
+        "family:wan-skills",
+        "misc",
+        "wan-skills"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "wan-skills"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://create.wan.video/lab/skill",
+          "host": "create.wan.video",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Wan-Video/Wan-skills",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Wan-Video/Wan-skills/blob/main/skills/wan2.7-image-skill/scripts/image-generation-editing.py",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/wan-video",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-26",
+        "excerpt": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-26T22:34:02Z",
+        "classified_at": "2026-09-26T22:34:02Z",
+        "enriched_at": "2026-09-26T22:34:02Z",
+        "verified_at": "2026-09-26T22:34:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-29037afbf8",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "WAN Skills public details unavailable",
+      "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified.",
+      "research_notes": "Create an Alibaba Cloud account, activate ModelStudio, and create a DashScope API key.\n\nSet DASHSCOPE_API_KEY and select the DashScope base URL for the intended region.\n\nClone Wan-skills and install the required skill directory into the AI agent, such as skills/wan2.7-image-skill.\n\nFor image work, provide a text requirement and optional image URLs; the supplied script submits an asynchronous wan2.7-image task and checks its task status.\n\nChoose the DashScope regional endpoint explicitly instead of relying on an unstated deployment region.\n\nTreat image generation as asynchronous and retain the task ID until the status reaches a terminal result.",
+      "project": {
+        "name": "WAN skills: wan-skills",
+        "family_slug": "wan-skills",
+        "family_display": "WAN skills: wan-skills",
+        "model_slug": "wan-skills",
+        "model_display": "WAN skills: wan-skills",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "wan-skills",
+        "thread_display": "Wan Skills",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "WAN skills: wan-skills",
+        "article_url": "https://happyin.space/projects/wan-skills/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/2b79bee84fba534614dfc22da3dfaaa58d43bba6/docs/projects/wan-skills.md",
+        "agent_context_url": "https://happyin.space/projects/wan-skills/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "version": null,
+        "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+      },
+      "tags": [
+        "WAN skills: wan-skills",
+        "family:wan-skills",
+        "misc",
+        "wan-skills"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "wan-skills"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://create.wan.video/lab/skill",
+          "host": "create.wan.video",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Wan-Video/Wan-skills",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Wan-Video/Wan-skills/blob/main/skills/wan2.7-image-skill/scripts/image-generation-editing.py",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/wan-video",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:34:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-26",
+        "excerpt": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-26T22:34:02Z",
+        "classified_at": "2026-09-26T22:34:02Z",
+        "enriched_at": "2026-09-26T22:34:02Z",
+        "verified_at": "2026-09-26T22:34:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-15f28b9d26",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+      "summary": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work.",
+      "research_notes": "Choose a current Claude model for the workload, then use its documented model ID and supported platform to make an integration decision.\n\nCreate an API integration by making a first Messages API call, keeping credentials out of source control and client-side code.\n\nFor repository work, install Claude Code, authenticate with an eligible account or supported provider, start it from the project directory, and verify the installation with `claude --version`.\n\nWrite direct task instructions, state the required output format, and use examples where needed; apply the model-specific prompting guidance for the chosen model.\n\nSet an expiration for API keys, keep them out of source control, client-side code, and prompts, and consider workload identity federation instead of a static key.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "anthropic",
+        "display": "Anthropic Development",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "anthropic-development",
+        "thread_display": "Anthropic Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Anthropic Development",
+        "article_url": "https://happyin.space/organizations/anthropic/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/565c5d4df2a0b3e2472a161161627d2131b71c1d/docs/organizations/anthropic.md",
+        "agent_context_url": "https://happyin.space/organizations/anthropic/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-25",
+        "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+        "version": null,
+        "summary": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work."
+      },
+      "tags": [
+        "Anthropic Development",
+        "anthropic",
+        "anthropic-development",
+        "misc",
+        "organization:anthropic"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "anthropic"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.courthousenews.com/dc-circuit-finds-pentagon-justified-in-labeling-anthropic-supply-chain-risk/",
+          "host": "courthousenews.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://code.claude.com/docs/en/getting-started",
+          "host": "code.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://media.cadc.uscourts.gov/opinions/docs/2026/09/26-1049-2194984.pdf",
+          "host": "media.cadc.uscourts.gov",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/intro",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/models/overview",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "host": "anthropic.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.anthropic.com/company",
+          "host": "anthropic.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-25",
+        "excerpt": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-26T22:22:42Z",
+        "classified_at": "2026-09-26T22:22:42Z",
+        "enriched_at": "2026-09-26T22:22:42Z",
+        "verified_at": "2026-09-26T22:22:42Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-c42886783e",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "ItsGiving webcam meme overlay for meetings",
+      "summary": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector.",
+      "research_notes": "Create a Python 3.11 or 3.12 virtual environment and install the pinned requirements.\n\nRun `python its_giving_v2.py --calibrate`, remain neutral for the seven-second calibration, then run `python its_giving_v2.py`.\n\nInstall a virtual-camera backend for the operating system, start ItsGiving before the meeting application, then select the published virtual camera in that application's video settings.\n\nKeep the dependency pins unchanged: the documented MediaPipe, NumPy and OpenCV compatibility constraints are coupled.\n\nUse v2 and recalibrate when needed because its expression thresholds are based on the user's neutral-face baseline.\n\nWhen adding a pose, check pose order before lowering thresholds, because the first matching pose wins; use the HUD and an arm count to tune false triggers.\n\nTest reactions before using them in a meeting because the output can trigger automatically and is visible to all call participants.",
+      "project": {
+        "name": "Itsgiving: itsgiving",
+        "family_slug": "itsgiving",
+        "family_display": "Itsgiving: itsgiving",
+        "model_slug": "itsgiving",
+        "model_display": "Itsgiving: itsgiving",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "itsgiving",
+        "thread_display": "Itsgiving",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Itsgiving: itsgiving",
+        "article_url": "https://happyin.space/projects/itsgiving/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/752c8520ea18902773be3e2a59784d91e6821f36/docs/projects/itsgiving.md",
+        "agent_context_url": "https://happyin.space/projects/itsgiving/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay for meetings",
+        "version": null,
+        "summary": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector."
+      },
+      "tags": [
+        "Itsgiving: itsgiving",
+        "family:itsgiving",
+        "itsgiving",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "itsgiving"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/gazijarin/itsgiving",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://vk.ru/greenneuralrobots",
+          "host": "vk.ru",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-12",
+        "excerpt": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-12T22:30:02Z",
+        "classified_at": "2026-09-12T22:30:02Z",
+        "enriched_at": "2026-09-12T22:30:02Z",
+        "verified_at": "2026-09-12T22:30:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-4d771e5e60",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+      "summary": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline.",
+      "research_notes": "Create a Python 3.11 or 3.12 virtual environment and install the pinned requirements.\n\nRun `python its_giving_v2.py --calibrate`, remain neutral for the seven-second calibration, then run `python its_giving_v2.py`.\n\nInstall a virtual-camera backend for the operating system, start ItsGiving before the meeting application, then select the published virtual camera in that application's video settings.\n\nKeep the dependency pins unchanged: the documented MediaPipe, NumPy and OpenCV compatibility constraints are coupled.\n\nUse v2 and recalibrate when needed because its expression thresholds are based on the user's neutral-face baseline.\n\nWhen adding a pose, check pose order before lowering thresholds, because the first matching pose wins; use the HUD and an arm count to tune false triggers.\n\nTest reactions before using them in a meeting because the output can trigger automatically and is visible to all call participants.",
+      "project": {
+        "name": "Itsgiving: itsgiving",
+        "family_slug": "itsgiving",
+        "family_display": "Itsgiving: itsgiving",
+        "model_slug": "itsgiving",
+        "model_display": "Itsgiving: itsgiving",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "itsgiving",
+        "thread_display": "Itsgiving",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Itsgiving: itsgiving",
+        "article_url": "https://happyin.space/projects/itsgiving/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/752c8520ea18902773be3e2a59784d91e6821f36/docs/projects/itsgiving.md",
+        "agent_context_url": "https://happyin.space/projects/itsgiving/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+        "version": null,
+        "summary": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline."
+      },
+      "tags": [
+        "Itsgiving: itsgiving",
+        "family:itsgiving",
+        "itsgiving",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "itsgiving"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/gazijarin/itsgiving",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://vk.ru/greenneuralrobots",
+          "host": "vk.ru",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-12T22:30:02Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-12",
+        "excerpt": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-12T22:30:02Z",
+        "classified_at": "2026-09-12T22:30:02Z",
+        "enriched_at": "2026-09-12T22:30:02Z",
+        "verified_at": "2026-09-12T22:30:02Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-e712086893",

@@ -210,6 +210,9 @@
     "n-050665d505",
     "n-03907a825f"
   ],
+  "Anthropic Development": [
+    "n-15f28b9d26"
+  ],
   "Anti-Vocale": [
     "n-02ff6518d6"
   ],
@@ -755,6 +758,9 @@
   "Dlss5 Visual Enhancer": [
     "n-6aca5df49c",
     "n-3496985f97"
+  ],
+  "Dodo Pizza: revenue-dashboard": [
+    "n-8dc4648cdc"
   ],
   "DomainShuttle": [
     "n-6edfc59eed"
@@ -1389,6 +1395,10 @@
   ],
   "Interaction Models": [
     "n-972d1e2832"
+  ],
+  "Itsgiving: itsgiving": [
+    "n-c42886783e",
+    "n-4d771e5e60"
   ],
   "JavisVerse": [
     "n-18331ebc79"
@@ -3207,6 +3217,9 @@
   "VocalRender": [
     "n-4621bd0727"
   ],
+  "Voice Platform Development": [
+    "n-66869cc4a0"
+  ],
   "Volumography": [
     "n-ef5357108f"
   ],
@@ -3218,6 +3231,10 @@
   ],
   "WAN": [
     "n-2b71540823"
+  ],
+  "WAN skills: wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
   ],
   "Wan 2.7": [
     "n-d9eaebd61d"
@@ -3603,11 +3620,15 @@
     "n-2dfec1e43f",
     "n-25ebe7235f",
     "n-2228ec8088",
+    "n-15f28b9d26",
     "n-14a863c9d3",
     "n-0c8443f593",
     "n-060cf06f53",
     "n-050665d505",
     "n-03907a825f"
+  ],
+  "anthropic-development": [
+    "n-15f28b9d26"
   ],
   "anthropic_450m_funding": [
     "n-f64d313e07",
@@ -3821,6 +3842,7 @@
     "n-7de8349cd0",
     "n-78ccc63365",
     "n-694e3b1cf5",
+    "n-66869cc4a0",
     "n-665b60a4fc",
     "n-5b56fca93a",
     "n-596ffa06da",
@@ -5140,6 +5162,9 @@
   "dmx_format_release": [
     "n-676d66ea41"
   ],
+  "dodo-pizza": [
+    "n-8dc4648cdc"
+  ],
   "domainshuttle": [
     "n-6edfc59eed"
   ],
@@ -5310,7 +5335,8 @@
     "n-253f50a66d"
   ],
   "elevenlabs": [
-    "n-f5dbfdb346"
+    "n-f5dbfdb346",
+    "n-66869cc4a0"
   ],
   "embeddings": [
     "n-1ee49081d2"
@@ -6609,6 +6635,10 @@
     "n-b0dccdddd4",
     "n-ad4e330e2d",
     "n-2650590a79"
+  ],
+  "family:itsgiving": [
+    "n-c42886783e",
+    "n-4d771e5e60"
   ],
   "family:javisverse": [
     "n-18331ebc79"
@@ -8269,6 +8299,10 @@
   ],
   "family:wan-dancer": [
     "n-1b82c038ef"
+  ],
+  "family:wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
   ],
   "family:wan-streamer": [
     "n-a54747f312",
@@ -9948,6 +9982,10 @@
   "interactive_vlms": [
     "n-6c34648459"
   ],
+  "itsgiving": [
+    "n-c42886783e",
+    "n-4d771e5e60"
+  ],
   "javisverse": [
     "n-18331ebc79"
   ],
@@ -11039,6 +11077,7 @@
     "n-c4a0d1a186",
     "n-c46744cf6a",
     "n-c4546aea9c",
+    "n-c42886783e",
     "n-c41ee335f6",
     "n-c3f798c77b",
     "n-c3f456557a",
@@ -11236,6 +11275,7 @@
     "n-8e078019f4",
     "n-8df2384b93",
     "n-8de9a1da59",
+    "n-8dc4648cdc",
     "n-8d546ea894",
     "n-8d34f26cae",
     "n-8cc344a285",
@@ -11315,6 +11355,7 @@
     "n-7981872a4c",
     "n-7970b35444",
     "n-79465fc2da",
+    "n-78f83be264",
     "n-78d5e0b6be",
     "n-78a8997971",
     "n-78534dcbd0",
@@ -11473,6 +11514,7 @@
     "n-4e1f3e0723",
     "n-4dcde58c05",
     "n-4dc746ab28",
+    "n-4d771e5e60",
     "n-4cb69e9202",
     "n-4be5fa54fd",
     "n-4bbbd17d1b",
@@ -11603,6 +11645,7 @@
     "n-2980d7228f",
     "n-292e34fcb3",
     "n-2905950c01",
+    "n-29037afbf8",
     "n-29022e4fd2",
     "n-28ff35cede",
     "n-289ba243a5",
@@ -11680,6 +11723,7 @@
     "n-1651c3d215",
     "n-160efa0fdb",
     "n-160cda1ba7",
+    "n-15f28b9d26",
     "n-15dd2a021a",
     "n-15b1d1786a",
     "n-15581903e4",
@@ -13524,6 +13568,15 @@
     "n-4003adb534",
     "n-061c80a1dc"
   ],
+  "organization:anthropic": [
+    "n-15f28b9d26"
+  ],
+  "organization:dodo-pizza": [
+    "n-8dc4648cdc"
+  ],
+  "organization:elevenlabs": [
+    "n-66869cc4a0"
+  ],
   "organization:happyin": [
     "n-001a2f8ef9"
   ],
@@ -14193,6 +14246,9 @@
   ],
   "retimegs": [
     "n-7f5e1b5d5a"
+  ],
+  "revenue-dashboard": [
+    "n-8dc4648cdc"
   ],
   "rigs": [
     "n-240baee803"
@@ -15292,6 +15348,9 @@
     "n-2ffed2d338",
     "n-0124eabefd"
   ],
+  "voice-platform-development": [
+    "n-66869cc4a0"
+  ],
   "void": [
     "n-83af6888de",
     "n-08ae804484"
@@ -15335,6 +15394,10 @@
   ],
   "wan-dancer": [
     "n-1b82c038ef"
+  ],
+  "wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
   ],
   "wan-streamer": [
     "n-a54747f312",

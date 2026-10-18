@@ -48976,6 +48976,165 @@
     ],
     "claims": []
   },
+  "itsgiving": {
+    "family_slug": "itsgiving",
+    "family_display": "Itsgiving: itsgiving",
+    "family_display_variants": [
+      {
+        "family_display": "Itsgiving: itsgiving",
+        "first_seen": "2026-09-12",
+        "last_seen": "2026-09-12",
+        "news_ids": [
+          "n-4d771e5e60",
+          "n-c42886783e"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-09-12",
+    "last_seen": "2026-09-12",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-4d771e5e60",
+      "n-c42886783e"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-09-12",
+        "news_id": "n-4d771e5e60",
+        "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+        "primary_link": "https://github.com/gazijarin/itsgiving"
+      },
+      {
+        "version": null,
+        "date": "2026-09-12",
+        "news_id": "n-c42886783e",
+        "title": "ItsGiving webcam meme overlay for meetings",
+        "primary_link": "https://github.com/gazijarin/itsgiving"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/gazijarin/itsgiving",
+        "is_primary": true,
+        "verified_at": "2026-09-12T22:30:02Z",
+        "news_ids": [
+          "n-4d771e5e60",
+          "n-c42886783e"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "vk.ru",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://vk.ru/greenneuralrobots",
+        "is_primary": false,
+        "verified_at": "2026-09-12T22:30:02Z",
+        "news_ids": [
+          "n-4d771e5e60",
+          "n-c42886783e"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+        "summary": "ItsGiving provides a Python webcam overlay that can be selected as a virtual camera in meeting software; its recommended v2 script calibrates expression thresholds from a seven-second neutral-face baseline.",
+        "version": null,
+        "news_id": "n-4d771e5e60",
+        "primary_link": "https://github.com/gazijarin/itsgiving"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay for meetings",
+        "summary": "ItsGiving maps face expressions and hand/body poses to meme overlays and publishes the result as a virtual camera for meeting software; the repository documents 14 built-in reactions and a calibrated v2 detector.",
+        "version": null,
+        "news_id": "n-c42886783e",
+        "primary_link": "https://github.com/gazijarin/itsgiving"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c42886783e",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay for meetings",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "itsgiving",
+        "version": null,
+        "tags": [
+          "Itsgiving: itsgiving",
+          "family:itsgiving",
+          "itsgiving",
+          "misc"
+        ],
+        "primary_link": "https://github.com/gazijarin/itsgiving",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-4d771e5e60",
+        "date": "2026-09-12",
+        "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "itsgiving",
+        "version": null,
+        "tags": [
+          "Itsgiving: itsgiving",
+          "family:itsgiving",
+          "itsgiving",
+          "misc"
+        ],
+        "primary_link": "https://github.com/gazijarin/itsgiving",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "itsgiving",
+        "display": "Itsgiving",
+        "first_seen": "2026-09-12",
+        "last_seen": "2026-09-12",
+        "latest_news_id": "n-c42886783e",
+        "news_ids": [
+          "n-4d771e5e60",
+          "n-c42886783e"
+        ]
+      }
+    ]
+  },
   "javisverse": {
     "family_slug": "javisverse",
     "family_display": "JavisVerse",
@@ -115705,6 +115864,191 @@
       }
     ],
     "claims": []
+  },
+  "wan-skills": {
+    "family_slug": "wan-skills",
+    "family_display": "WAN skills: wan-skills",
+    "family_display_variants": [
+      {
+        "family_display": "WAN skills: wan-skills",
+        "first_seen": "2026-09-26",
+        "last_seen": "2026-09-26",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-29037afbf8",
+      "n-78f83be264"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-09-26",
+        "news_id": "n-29037afbf8",
+        "title": "WAN Skills public details unavailable",
+        "primary_link": "https://create.wan.video/lab/skill"
+      },
+      {
+        "version": null,
+        "date": "2026-09-26",
+        "news_id": "n-78f83be264",
+        "title": "WAN Skills public details unavailable",
+        "primary_link": "https://create.wan.video/lab/skill"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "create.wan.video",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://create.wan.video/lab/skill",
+        "is_primary": true,
+        "verified_at": "2026-09-26T22:34:02Z",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Wan-Video/Wan-skills",
+        "is_primary": false,
+        "verified_at": "2026-09-26T22:34:02Z",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Wan-Video/Wan-skills/blob/main/skills/wan2.7-image-skill/scripts/image-generation-editing.py",
+        "is_primary": false,
+        "verified_at": "2026-09-26T22:34:02Z",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/wan-video",
+        "is_primary": false,
+        "verified_at": "2026-09-26T22:34:02Z",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified.",
+        "version": null,
+        "news_id": "n-29037afbf8",
+        "primary_link": "https://create.wan.video/lab/skill"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified.",
+        "version": null,
+        "news_id": "n-78f83be264",
+        "primary_link": "https://create.wan.video/lab/skill"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-78f83be264",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "wan-skills",
+        "version": null,
+        "tags": [
+          "WAN skills: wan-skills",
+          "family:wan-skills",
+          "misc",
+          "wan-skills"
+        ],
+        "primary_link": "https://create.wan.video/lab/skill",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-29037afbf8",
+        "date": "2026-09-26",
+        "title": "WAN Skills public details unavailable",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "wan-skills",
+        "version": null,
+        "tags": [
+          "WAN skills: wan-skills",
+          "family:wan-skills",
+          "misc",
+          "wan-skills"
+        ],
+        "primary_link": "https://create.wan.video/lab/skill",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "wan-skills",
+        "display": "Wan Skills",
+        "first_seen": "2026-09-26",
+        "last_seen": "2026-09-26",
+        "latest_news_id": "n-78f83be264",
+        "news_ids": [
+          "n-29037afbf8",
+          "n-78f83be264"
+        ]
+      }
+    ]
   },
   "wan-streamer": {
     "family_slug": "wan-streamer",

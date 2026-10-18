@@ -1,5 +1,134 @@
 [
   {
+    "id": "n-66869cc4a0",
+    "date": "2026-10-17",
+    "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+    "category": "audio-music",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Voice Platform Development",
+      "audio-music",
+      "elevenlabs",
+      "organization:elevenlabs",
+      "voice-platform-development"
+    ],
+    "primary_link": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8dc4648cdc",
+    "date": "2026-09-26",
+    "title": "Dodo Pizza: public store revenue dashboard",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Dodo Pizza: revenue-dashboard",
+      "dodo-pizza",
+      "misc",
+      "organization:dodo-pizza",
+      "revenue-dashboard"
+    ],
+    "primary_link": "https://dodostats.ru/ru/pizzerias/rus/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-78f83be264",
+    "date": "2026-09-26",
+    "title": "WAN Skills public details unavailable",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "wan-skills",
+    "version": null,
+    "tags": [
+      "WAN skills: wan-skills",
+      "family:wan-skills",
+      "misc",
+      "wan-skills"
+    ],
+    "primary_link": "https://create.wan.video/lab/skill",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-29037afbf8",
+    "date": "2026-09-26",
+    "title": "WAN Skills public details unavailable",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "wan-skills",
+    "version": null,
+    "tags": [
+      "WAN skills: wan-skills",
+      "family:wan-skills",
+      "misc",
+      "wan-skills"
+    ],
+    "primary_link": "https://create.wan.video/lab/skill",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-15f28b9d26",
+    "date": "2026-09-25",
+    "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Anthropic Development",
+      "anthropic",
+      "anthropic-development",
+      "misc",
+      "organization:anthropic"
+    ],
+    "primary_link": "https://www.courthousenews.com/dc-circuit-finds-pentagon-justified-in-labeling-anthropic-supply-chain-risk/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-c42886783e",
+    "date": "2026-09-12",
+    "title": "ItsGiving webcam meme overlay for meetings",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "itsgiving",
+    "version": null,
+    "tags": [
+      "Itsgiving: itsgiving",
+      "family:itsgiving",
+      "itsgiving",
+      "misc"
+    ],
+    "primary_link": "https://github.com/gazijarin/itsgiving",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-4d771e5e60",
+    "date": "2026-09-12",
+    "title": "ItsGiving webcam meme overlay with calibrated v2 detection",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "itsgiving",
+    "version": null,
+    "tags": [
+      "Itsgiving: itsgiving",
+      "family:itsgiving",
+      "itsgiving",
+      "misc"
+    ],
+    "primary_link": "https://github.com/gazijarin/itsgiving",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-e712086893",
     "date": "2026-09-11",
     "title": "Krea Agents opens application-based creative workflows",

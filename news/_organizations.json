@@ -100,6 +100,153 @@
       }
     ]
   },
+  "anthropic": {
+    "slug": "anthropic",
+    "display": "Anthropic Development",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-09-25",
+    "last_seen": "2026-09-25",
+    "news_ids": [
+      "n-15f28b9d26"
+    ],
+    "direct_news_ids": [
+      "n-15f28b9d26"
+    ],
+    "development_threads": [
+      {
+        "slug": "anthropic-development",
+        "display": "Anthropic Development",
+        "first_seen": "2026-09-25",
+        "last_seen": "2026-09-25",
+        "latest_news_id": "n-15f28b9d26",
+        "news_ids": [
+          "n-15f28b9d26"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-15f28b9d26",
+        "date": "2026-09-25",
+        "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Anthropic Development",
+          "anthropic",
+          "anthropic-development",
+          "misc",
+          "organization:anthropic"
+        ],
+        "primary_link": "https://www.courthousenews.com/dc-circuit-finds-pentagon-justified-in-labeling-anthropic-supply-chain-risk/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
+  "dodo-pizza": {
+    "slug": "dodo-pizza",
+    "display": "Dodo Pizza: revenue-dashboard",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-09-26",
+    "last_seen": "2026-09-26",
+    "news_ids": [
+      "n-8dc4648cdc"
+    ],
+    "direct_news_ids": [
+      "n-8dc4648cdc"
+    ],
+    "development_threads": [
+      {
+        "slug": "revenue-dashboard",
+        "display": "Revenue Dashboard",
+        "first_seen": "2026-09-26",
+        "last_seen": "2026-09-26",
+        "latest_news_id": "n-8dc4648cdc",
+        "news_ids": [
+          "n-8dc4648cdc"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-8dc4648cdc",
+        "date": "2026-09-26",
+        "title": "Dodo Pizza: public store revenue dashboard",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Dodo Pizza: revenue-dashboard",
+          "dodo-pizza",
+          "misc",
+          "organization:dodo-pizza",
+          "revenue-dashboard"
+        ],
+        "primary_link": "https://dodostats.ru/ru/pizzerias/rus/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
+  "elevenlabs": {
+    "slug": "elevenlabs",
+    "display": "Voice Platform Development",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "news_ids": [
+      "n-66869cc4a0"
+    ],
+    "direct_news_ids": [
+      "n-66869cc4a0"
+    ],
+    "development_threads": [
+      {
+        "slug": "voice-platform-development",
+        "display": "Voice Platform Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-66869cc4a0",
+        "news_ids": [
+          "n-66869cc4a0"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-66869cc4a0",
+        "date": "2026-10-17",
+        "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+        "category": "audio-music",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Voice Platform Development",
+          "audio-music",
+          "elevenlabs",
+          "organization:elevenlabs",
+          "voice-platform-development"
+        ],
+        "primary_link": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "happyin": {
     "slug": "happyin",
     "display": "Happyin",

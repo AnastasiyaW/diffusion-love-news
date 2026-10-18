@@ -1,0 +1,127 @@
+{
+ "schema_version": "1.4",
+ "id": "n-66869cc4a0",
+ "entry_type": "news",
+ "category": "audio-music",
+ "lang": "en",
+ "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+ "summary": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API.",
+ "research_notes": "Open the ElevenCreative Music Video Editor, upload video, and generate a soundtrack with sound effects; optionally use the video’s existing audio as a reference for the score.\n\nReview sound effects as separate timeline layers, adjust timing or replace music, then export the result.\n\nFor music creation outside the video workflow, describe genre, mood, instrumentation, structure, and intended use in a natural-language prompt, then edit sections or regenerate.\n\nUse a detailed prompt that combines genre, mood, instrumentation, tempo, and use case rather than a broad genre label.\n\nFor longer compositions, generate and approve an intro first, then build successive sections and refine prompts rather than restarting the entire track.\n\nUse separate sound-effect layers to check cue timing and revise individual moments before export.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": {
+  "slug": "elevenlabs",
+  "display": "Voice Platform Development",
+  "homepage": null
+ },
+ "development": {
+  "scope": "organization",
+  "thread_slug": "voice-platform-development",
+  "thread_display": "Voice Platform Development",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Voice Platform Development",
+  "article_url": "https://happyin.space/organizations/elevenlabs/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/97c066ebdc60b28cc4a066144d1c82f6c737c996/docs/organizations/elevenlabs.md",
+  "agent_context_url": "https://happyin.space/organizations/elevenlabs/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-17",
+  "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
+  "version": null,
+  "summary": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API."
+ },
+ "tags": [
+  "Voice Platform Development",
+  "audio-music",
+  "elevenlabs",
+  "organization:elevenlabs",
+  "voice-platform-development"
+ ],
+ "facets": {
+  "category": "audio-music",
+  "entry_type": "news",
+  "projects": [],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [
+   "elevenlabs"
+  ],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+   "host": "elevenlabs.io",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-18T11:38:56Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://elevenlabs.io/music",
+   "host": "elevenlabs.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-18T11:38:56Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://elevenlabs.io/docs/eleven-creative/products/music",
+   "host": "elevenlabs.io",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-18T11:38:56Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-17",
+  "excerpt": "Instant Soundtracks generates a score and timestamped sound effects from uploaded video, exposes effects as editable layers, and can return separate music and sound-effect files through the API."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-18T11:38:56Z",
+  "classified_at": "2026-10-18T11:38:56Z",
+  "enriched_at": "2026-10-18T11:38:56Z",
+  "verified_at": "2026-10-18T11:38:56Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}
