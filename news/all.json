@@ -1,9 +1,168 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-18T11:38:56Z",
+  "generated_at": "2026-10-18T22:23:33Z",
   "site": "diffusion.love",
-  "total": 1282,
+  "total": 1283,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-5e96f46ead",
+      "entry_type": "news",
+      "category": "audio-music",
+      "lang": "en",
+      "title": "Dynamic Band Splitting releases adaptive audio-separation code and models",
+      "summary": "Dynamic Band Splitting provides code and pretrained DBS-BSRNN and DBS-TIGER models for estimating music, sound effects, and speech from 44.1 kHz monaural audio, with an interactive listening studio.",
+      "research_notes": "Clone the repository, install a machine-appropriate PyTorch build, then install the documented requirements and editable package.\n\nLoad DBS-BSRNN for the released 3-second, 1.5-second-hop recipe, or DBS-TIGER for the 6-second, 3-second-hop recipe.\n\nProvide 44.1 kHz audio, convert a multichannel input to mono if following the documented example, then call the separation API to obtain music, sound-effects, and speech estimates.\n\nMatch checkpoint architecture and chunking recipe: use 3-second windows with DBS-BSRNN and 6-second windows with DBS-TIGER.\n\nTreat demo and inferred stems as estimates rather than ground truth; inspect for source leakage and artifacts before downstream use.",
+      "project": {
+        "name": "Dynamic Band Splitting: dynamic-band-splitting-release",
+        "family_slug": "dynamic-band-splitting",
+        "family_display": "Dynamic Band Splitting: dynamic-band-splitting-release",
+        "model_slug": "dynamic-band-splitting",
+        "model_display": "Dynamic Band Splitting: dynamic-band-splitting-release",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "dynamic-band-splitting-release",
+        "thread_display": "Dynamic Band Splitting Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Dynamic Band Splitting: dynamic-band-splitting-release",
+        "article_url": "https://happyin.space/projects/dynamic-band-splitting/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/e2736edfc1e0cff3526afc2151ec4da429db0083/docs/projects/dynamic-band-splitting.md",
+        "agent_context_url": "https://happyin.space/projects/dynamic-band-splitting/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "Dynamic Band Splitting releases adaptive audio-separation code and models",
+        "version": null,
+        "summary": "Dynamic Band Splitting provides code and pretrained DBS-BSRNN and DBS-TIGER models for estimating music, sound effects, and speech from 44.1 kHz monaural audio, with an interactive listening studio."
+      },
+      "tags": [
+        "Dynamic Band Splitting: dynamic-band-splitting-release",
+        "audio-music",
+        "dynamic-band-splitting",
+        "dynamic-band-splitting-release",
+        "family:dynamic-band-splitting"
+      ],
+      "facets": {
+        "category": "audio-music",
+        "entry_type": "news",
+        "projects": [
+          "dynamic-band-splitting"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://cslikai.cn/Dynamic-Band-Splitting/",
+          "host": "cslikai.cn",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://hf.co/JusperLee/DBS-TIGER-DnR",
+          "host": "hf.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://hf.co/spaces/JusperLee/DBS-Demo",
+          "host": "hf.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/JusperLee/Dynamic-Band-Splitting",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "paper",
+          "url": "https://arxiv.org/abs/2610.14993",
+          "host": "arxiv.org",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://nanless.github.io/audio-paper-digest-blog/posts/2026-10-15/",
+          "host": "nanless.github.io",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.artofsm.art/t/1m-parameter-ai-pulls-speech-out-of-music-fan-noise/26189",
+          "host": "artofsm.art",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-18T22:23:33Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-18",
+        "excerpt": "Dynamic Band Splitting provides code and pretrained DBS-BSRNN and DBS-TIGER models for estimating music, sound effects, and speech from 44.1 kHz monaural audio, with an interactive listening studio."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-18T22:23:33Z",
+        "classified_at": "2026-10-18T22:23:33Z",
+        "enriched_at": "2026-10-18T22:23:33Z",
+        "verified_at": "2026-10-18T22:23:33Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-66869cc4a0",
