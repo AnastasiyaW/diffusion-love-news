@@ -1,0 +1,131 @@
+{
+ "schema_version": "1.4",
+ "id": "n-29037afbf8",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "WAN Skills public details unavailable",
+ "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified.",
+ "research_notes": "Create an Alibaba Cloud account, activate ModelStudio, and create a DashScope API key.\n\nSet DASHSCOPE_API_KEY and select the DashScope base URL for the intended region.\n\nClone Wan-skills and install the required skill directory into the AI agent, such as skills/wan2.7-image-skill.\n\nFor image work, provide a text requirement and optional image URLs; the supplied script submits an asynchronous wan2.7-image task and checks its task status.\n\nChoose the DashScope regional endpoint explicitly instead of relying on an unstated deployment region.\n\nTreat image generation as asynchronous and retain the task ID until the status reaches a terminal result.",
+ "project": {
+  "name": "WAN skills: wan-skills",
+  "family_slug": "wan-skills",
+  "family_display": "WAN skills: wan-skills",
+  "model_slug": "wan-skills",
+  "model_display": "WAN skills: wan-skills",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "wan-skills",
+  "thread_display": "Wan Skills",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "WAN skills: wan-skills",
+  "article_url": "https://happyin.space/projects/wan-skills/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/2b79bee84fba534614dfc22da3dfaaa58d43bba6/docs/projects/wan-skills.md",
+  "agent_context_url": "https://happyin.space/projects/wan-skills/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-09-26",
+  "title": "WAN Skills public details unavailable",
+  "version": null,
+  "summary": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+ },
+ "tags": [
+  "WAN skills: wan-skills",
+  "family:wan-skills",
+  "misc",
+  "wan-skills"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "wan-skills"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://create.wan.video/lab/skill",
+   "host": "create.wan.video",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-09-26T22:34:02Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Wan-Video/Wan-skills",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-26T22:34:02Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/Wan-Video/Wan-skills/blob/main/skills/wan2.7-image-skill/scripts/image-generation-editing.py",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-26T22:34:02Z"
+  },
+  {
+   "kind": "code",
+   "url": "https://github.com/wan-video",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-09-26T22:34:02Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-09-26",
+  "excerpt": "The cited WAN Skills page was not publicly accessible during review. Available official documentation instead describes a separate Wan-skills agent-integration repository, so the claimed video-preset release is unverified."
+ },
+ "_meta": {
+  "extracted_at": "2026-09-26T22:34:02Z",
+  "classified_at": "2026-09-26T22:34:02Z",
+  "enriched_at": "2026-09-26T22:34:02Z",
+  "verified_at": "2026-09-26T22:34:02Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

@@ -2765,6 +2765,10 @@
   "WAN": [
     "n-2b71540823"
   ],
+  "WAN skills: wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
+  ],
   "Wan 2.7": [
     "n-d9eaebd61d"
   ],
@@ -6766,6 +6770,10 @@
   "family:wan-dancer": [
     "n-1b82c038ef"
   ],
+  "family:wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
+  ],
   "family:wan-streamer": [
     "n-a54747f312",
     "n-15581903e4"
@@ -8991,6 +8999,7 @@
     "n-7aa1f96c36",
     "n-7970b35444",
     "n-79465fc2da",
+    "n-78f83be264",
     "n-78d5e0b6be",
     "n-78395026cf",
     "n-782f0991a7",
@@ -9175,6 +9184,7 @@
     "n-29eb1f831e",
     "n-29d4083d61",
     "n-292e34fcb3",
+    "n-29037afbf8",
     "n-29022e4fd2",
     "n-28ff35cede",
     "n-289ba243a5",
@@ -11721,6 +11731,10 @@
   ],
   "wan-dancer": [
     "n-1b82c038ef"
+  ],
+  "wan-skills": [
+    "n-78f83be264",
+    "n-29037afbf8"
   ],
   "wan-streamer": [
     "n-a54747f312",
