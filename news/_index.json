@@ -123,7 +123,8 @@
       "comfyui",
       "comfyui-development",
       "diffusion-video",
-      "family:comfyui"
+      "family:comfyui",
+      "tools-frontend"
     ],
     "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT",
     "has_image": false,

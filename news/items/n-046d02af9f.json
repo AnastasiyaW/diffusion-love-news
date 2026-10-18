@@ -47,7 +47,8 @@
   "comfyui",
   "comfyui-development",
   "diffusion-video",
-  "family:comfyui"
+  "family:comfyui",
+  "tools-frontend"
  ],
  "facets": {
   "category": "diffusion-video",
