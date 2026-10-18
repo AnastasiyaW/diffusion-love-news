@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-5e96f46ead",
+    "date": "2026-10-18",
+    "title": "Dynamic Band Splitting releases adaptive audio-separation code and models",
+    "category": "audio-music",
+    "entry_type": "news",
+    "project": "dynamic-band-splitting",
+    "version": null,
+    "tags": [
+      "Dynamic Band Splitting: dynamic-band-splitting-release",
+      "audio-music",
+      "dynamic-band-splitting",
+      "dynamic-band-splitting-release",
+      "family:dynamic-band-splitting"
+    ],
+    "primary_link": "https://cslikai.cn/Dynamic-Band-Splitting/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-66869cc4a0",
     "date": "2026-10-17",
     "title": "ElevenLabs adds Instant Soundtracks for uploaded video",

@@ -671,6 +671,9 @@
   "DreamVideo-Omni": [
     "n-5d5fa885b6"
   ],
+  "Dynamic Band Splitting: dynamic-band-splitting-release": [
+    "n-5e96f46ead"
+  ],
   "EMF": [
     "n-525a6be75a"
   ],
@@ -3196,6 +3199,7 @@
     "n-694e3b1cf5",
     "n-66869cc4a0",
     "n-665b60a4fc",
+    "n-5e96f46ead",
     "n-5b56fca93a",
     "n-596ffa06da",
     "n-33f31b6935",
@@ -4192,6 +4196,12 @@
   "dvd": [
     "n-ecb3a7060c"
   ],
+  "dynamic-band-splitting": [
+    "n-5e96f46ead"
+  ],
+  "dynamic-band-splitting-release": [
+    "n-5e96f46ead"
+  ],
   "echo": [
     "n-76eee2c69c"
   ],
@@ -4913,6 +4923,9 @@
   ],
   "family:dvd": [
     "n-ecb3a7060c"
+  ],
+  "family:dynamic-band-splitting": [
+    "n-5e96f46ead"
   ],
   "family:echo": [
     "n-76eee2c69c"
