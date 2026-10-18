@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-15f28b9d26",
+    "date": "2026-09-25",
+    "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Anthropic Development",
+      "anthropic",
+      "anthropic-development",
+      "misc",
+      "organization:anthropic"
+    ],
+    "primary_link": "https://www.courthousenews.com/dc-circuit-finds-pentagon-justified-in-labeling-anthropic-supply-chain-risk/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c42886783e",
     "date": "2026-09-12",
     "title": "ItsGiving webcam meme overlay for meetings",

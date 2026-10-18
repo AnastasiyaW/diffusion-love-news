@@ -1,9 +1,181 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-09-12T22:30:02Z",
+  "generated_at": "2026-09-26T22:22:42Z",
   "site": "diffusion.love",
-  "total": 919,
+  "total": 920,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-15f28b9d26",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+      "summary": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work.",
+      "research_notes": "Choose a current Claude model for the workload, then use its documented model ID and supported platform to make an integration decision.\n\nCreate an API integration by making a first Messages API call, keeping credentials out of source control and client-side code.\n\nFor repository work, install Claude Code, authenticate with an eligible account or supported provider, start it from the project directory, and verify the installation with `claude --version`.\n\nWrite direct task instructions, state the required output format, and use examples where needed; apply the model-specific prompting guidance for the chosen model.\n\nSet an expiration for API keys, keep them out of source control, client-side code, and prompts, and consider workload identity federation instead of a static key.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "anthropic",
+        "display": "Anthropic Development",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "anthropic-development",
+        "thread_display": "Anthropic Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Anthropic Development",
+        "article_url": "https://happyin.space/organizations/anthropic/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/565c5d4df2a0b3e2472a161161627d2131b71c1d/docs/organizations/anthropic.md",
+        "agent_context_url": "https://happyin.space/organizations/anthropic/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-09-25",
+        "title": "D.C. Circuit denies Anthropic petitions over Pentagon supply-chain exclusion",
+        "version": null,
+        "summary": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work."
+      },
+      "tags": [
+        "Anthropic Development",
+        "anthropic",
+        "anthropic-development",
+        "misc",
+        "organization:anthropic"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "anthropic"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.courthousenews.com/dc-circuit-finds-pentagon-justified-in-labeling-anthropic-supply-chain-risk/",
+          "host": "courthousenews.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://code.claude.com/docs/en/getting-started",
+          "host": "code.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://media.cadc.uscourts.gov/opinions/docs/2026/09/26-1049-2194984.pdf",
+          "host": "media.cadc.uscourts.gov",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/intro",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://platform.claude.com/docs/en/models/overview",
+          "host": "platform.claude.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "host": "anthropic.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.anthropic.com/company",
+          "host": "anthropic.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-09-26T22:22:42Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-09-25",
+        "excerpt": "The D.C. Circuit denied Anthropic’s petitions challenging the Department of War’s action removing Claude from its supply chain. The opinion records an order to remove Anthropic products from department systems and bar contractors from using them for department work."
+      },
+      "_meta": {
+        "extracted_at": "2026-09-26T22:22:42Z",
+        "classified_at": "2026-09-26T22:22:42Z",
+        "enriched_at": "2026-09-26T22:22:42Z",
+        "verified_at": "2026-09-26T22:22:42Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-c42886783e",
