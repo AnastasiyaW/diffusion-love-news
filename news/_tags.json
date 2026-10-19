@@ -1070,6 +1070,11 @@
     "n-2f94cbb043",
     "n-048b3192a0"
   ],
+  "Harness^2: harness2-open-source-release": [
+    "n-e69923fb8b",
+    "n-bb135c22d6",
+    "n-03fea21c65"
+  ],
   "Hermes": [
     "n-367db0be8e"
   ],
@@ -5241,6 +5246,11 @@
     "n-2f94cbb043",
     "n-048b3192a0"
   ],
+  "family:harness2": [
+    "n-e69923fb8b",
+    "n-bb135c22d6",
+    "n-03fea21c65"
+  ],
   "family:hatcha": [
     "n-00c9c3996b"
   ],
@@ -7573,6 +7583,16 @@
     "n-2f94cbb043",
     "n-048b3192a0"
   ],
+  "harness2": [
+    "n-e69923fb8b",
+    "n-bb135c22d6",
+    "n-03fea21c65"
+  ],
+  "harness2-open-source-release": [
+    "n-e69923fb8b",
+    "n-bb135c22d6",
+    "n-03fea21c65"
+  ],
   "hatcha": [
     "n-00c9c3996b"
   ],
@@ -8797,6 +8817,7 @@
     "n-e859acd94e",
     "n-e7545aced1",
     "n-e6ade9848e",
+    "n-e69923fb8b",
     "n-e6413c0a2c",
     "n-e613f26dc4",
     "n-e5c07a6c4b",
@@ -8881,6 +8902,7 @@
     "n-bd49bc44b7",
     "n-bbc670c0e1",
     "n-bb326c9fdf",
+    "n-bb135c22d6",
     "n-ba790c8631",
     "n-ba6ade4c05",
     "n-ba02def424",
@@ -9297,6 +9319,7 @@
     "n-04a79175d6",
     "n-0481856e9f",
     "n-044c492370",
+    "n-03fea21c65",
     "n-038f2eebc4",
     "n-033632d8e0",
     "n-02ff6518d6",
