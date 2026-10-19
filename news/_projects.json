@@ -24850,6 +24850,163 @@
     ],
     "claims": []
   },
+  "fizgig": {
+    "family_slug": "fizgig",
+    "family_display": "Fizgig: fizgig-v6-0-1-refmod-support",
+    "family_display_variants": [
+      {
+        "family_display": "Fizgig: fizgig-v6-0-1-refmod-support",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-image"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-c696325d3e"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-c696325d3e",
+        "title": "Fizgig releases LoRA Isolation for multi-identity training",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T16:43:36Z",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/shootthesound/Fizgig",
+        "is_primary": false,
+        "verified_at": "2026-10-19T16:43:36Z",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/shootthesound/Fizgig/releases/tag/v8.4.0",
+        "is_primary": false,
+        "verified_at": "2026-10-19T16:43:36Z",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      },
+      {
+        "kind": "video",
+        "host": "youtu.be",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://youtu.be/8uW5NdL5b20",
+        "is_primary": false,
+        "verified_at": "2026-10-19T16:43:36Z",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      },
+      {
+        "kind": "video",
+        "host": "youtu.be",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://youtu.be/CNh4sN5vN_8",
+        "is_primary": false,
+        "verified_at": "2026-10-19T16:43:36Z",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Fizgig releases LoRA Isolation for multi-identity training",
+        "summary": "Fizgig v8.4.0 introduced LoRA Isolation, combining differential output preservation, fused-token class decoupling, and negative-pair training to prevent face bleeding when generating scenes with multiple characters.",
+        "version": null,
+        "news_id": "n-c696325d3e",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c696325d3e",
+        "date": "2026-10-17",
+        "title": "Fizgig releases LoRA Isolation for multi-identity training",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "fizgig",
+        "version": null,
+        "tags": [
+          "Fizgig: fizgig-v6-0-1-refmod-support",
+          "diffusion-image",
+          "family:fizgig",
+          "fizgig",
+          "fizgig-v6-0-1-refmod-support"
+        ],
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "fizgig-v6-0-1-refmod-support",
+        "display": "Fizgig V6 0 1 Refmod Support",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-c696325d3e",
+        "news_ids": [
+          "n-c696325d3e"
+        ]
+      }
+    ]
+  },
   "flash-attention": {
     "family_slug": "flash-attention",
     "family_display": "Flash Attention",

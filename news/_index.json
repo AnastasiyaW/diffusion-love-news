@@ -76,6 +76,25 @@
     "has_video": false
   },
   {
+    "id": "n-c696325d3e",
+    "date": "2026-10-17",
+    "title": "Fizgig releases LoRA Isolation for multi-identity training",
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "project": "fizgig",
+    "version": null,
+    "tags": [
+      "Fizgig: fizgig-v6-0-1-refmod-support",
+      "diffusion-image",
+      "family:fizgig",
+      "fizgig",
+      "fizgig-v6-0-1-refmod-support"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-66869cc4a0",
     "date": "2026-10-17",
     "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
