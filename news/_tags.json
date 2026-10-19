@@ -897,6 +897,9 @@
   "Firefly Graph": [
     "n-625a62d5de"
   ],
+  "Fizgig: fizgig-v6-0-1-refmod-support": [
+    "n-c696325d3e"
+  ],
   "FlashMemory-Deepseek-V4": [
     "n-fe403ecd72"
   ],
@@ -5044,6 +5047,7 @@
     "n-ca390bf3b3",
     "n-c9e1e40a9c",
     "n-c78d87f531",
+    "n-c696325d3e",
     "n-c660c4f559",
     "n-c56d07046e",
     "n-c449ab03a6",
@@ -6181,6 +6185,9 @@
   ],
   "family:fireredtts3": [
     "n-97c92d3269"
+  ],
+  "family:fizgig": [
+    "n-c696325d3e"
   ],
   "family:flash-attention": [
     "n-545c4e25d2"
@@ -8503,6 +8510,12 @@
     "n-70863553de",
     "n-6b5646e730",
     "n-4541890dcb"
+  ],
+  "fizgig": [
+    "n-c696325d3e"
+  ],
+  "fizgig-v6-0-1-refmod-support": [
+    "n-c696325d3e"
   ],
   "flash-attention": [
     "n-545c4e25d2"

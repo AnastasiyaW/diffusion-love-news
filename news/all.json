@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-19T06:47:15Z",
+  "generated_at": "2026-10-19T16:43:36Z",
   "site": "diffusion.love",
-  "total": 1286,
+  "total": 1287,
   "records": [
     {
       "schema_version": "1.4",
@@ -508,6 +508,147 @@
         "classified_at": "2026-10-19T06:47:15Z",
         "enriched_at": "2026-10-19T06:47:15Z",
         "verified_at": "2026-10-19T06:47:15Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-c696325d3e",
+      "entry_type": "news",
+      "category": "diffusion-image",
+      "lang": "en",
+      "title": "Fizgig releases LoRA Isolation for multi-identity training",
+      "summary": "Fizgig v8.4.0 introduced LoRA Isolation, combining differential output preservation, fused-token class decoupling, and negative-pair training to prevent face bleeding when generating scenes with multiple characters.",
+      "research_notes": "Prepare training datasets for at least two distinct identities in separate folders on the Subjects card within the Fizgig Training tab.\n\nCaption each image starting with the unique trigger token followed by a comma and the class descriptor (e.g., 'zwxem, a woman smiling') to allow Fizgig to generate internal fused tokens.\n\nEnable LoRA Isolation in the training configuration, combining Differential Output Preservation with automated synthetic stranger image pairing.\n\nGenerate inference images using the fused trigger token alongside descriptions of other subjects in the scene to preserve identity boundaries without face bleeding.\n\nTrain with at least two distinct character identities concurrently, even when targeting a single primary character, to force the network to decouple identity tokens from base human class tokens.\n\nOmit the trigger token entirely when prompting for background characters or crowds to allow the base model to render default diverse faces without leakage.\n\nStructure captions in causal order with stranger descriptors placed first when pairing multi-person negative composites during training.",
+      "project": {
+        "name": "Fizgig: fizgig-v6-0-1-refmod-support",
+        "family_slug": "fizgig",
+        "family_display": "Fizgig: fizgig-v6-0-1-refmod-support",
+        "model_slug": "fizgig",
+        "model_display": "Fizgig: fizgig-v6-0-1-refmod-support",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "fizgig-v6-0-1-refmod-support",
+        "thread_display": "Fizgig V6 0 1 Refmod Support",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Fizgig: fizgig-v6-0-1-refmod-support",
+        "article_url": "https://happyin.space/projects/fizgig/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/29fb73a6bc536885e8296b0a1fb4704dc3254a6a/docs/projects/fizgig.md",
+        "agent_context_url": "https://happyin.space/projects/fizgig/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Fizgig releases LoRA Isolation for multi-identity training",
+        "version": null,
+        "summary": "Fizgig v8.4.0 introduced LoRA Isolation, combining differential output preservation, fused-token class decoupling, and negative-pair training to prevent face bleeding when generating scenes with multiple characters."
+      },
+      "tags": [
+        "Fizgig: fizgig-v6-0-1-refmod-support",
+        "diffusion-image",
+        "family:fizgig",
+        "fizgig",
+        "fizgig-v6-0-1-refmod-support"
+      ],
+      "facets": {
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "projects": [
+          "fizgig"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/",
+          "host": "reddit.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:43:36Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/shootthesound/Fizgig/releases/tag/v8.4.0",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:43:36Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/shootthesound/Fizgig",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:43:36Z"
+        },
+        {
+          "kind": "video",
+          "url": "https://youtu.be/CNh4sN5vN_8",
+          "host": "youtu.be",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:43:36Z"
+        },
+        {
+          "kind": "video",
+          "url": "https://youtu.be/8uW5NdL5b20",
+          "host": "youtu.be",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:43:36Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "Fizgig v8.4.0 introduced LoRA Isolation, combining differential output preservation, fused-token class decoupling, and negative-pair training to prevent face bleeding when generating scenes with multiple characters."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-19T16:43:36Z",
+        "classified_at": "2026-10-19T16:43:36Z",
+        "enriched_at": "2026-10-19T16:43:36Z",
+        "verified_at": "2026-10-19T16:43:36Z",
         "models_used": {
           "research": "curated-live-material"
         },
