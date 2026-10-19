@@ -1,5 +1,43 @@
 [
   {
+    "id": "n-e69923fb8b",
+    "date": "2026-10-18",
+    "title": "Harness² source code is available under Apache-2.0",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "harness2",
+    "version": null,
+    "tags": [
+      "Harness^2: harness2-open-source-release",
+      "family:harness2",
+      "harness2",
+      "harness2-open-source-release",
+      "misc"
+    ],
+    "primary_link": "https://github.com/google-research/harness2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-bb135c22d6",
+    "date": "2026-10-18",
+    "title": "Harness² supports OpenCode and Codex benchmark experiments",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "harness2",
+    "version": null,
+    "tags": [
+      "Harness^2: harness2-open-source-release",
+      "family:harness2",
+      "harness2",
+      "harness2-open-source-release",
+      "misc"
+    ],
+    "primary_link": "https://github.com/google-research/harness2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-5e96f46ead",
     "date": "2026-10-18",
     "title": "Dynamic Band Splitting releases adaptive audio-separation code and models",
@@ -15,6 +53,25 @@
       "family:dynamic-band-splitting"
     ],
     "primary_link": "https://cslikai.cn/Dynamic-Band-Splitting/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-03fea21c65",
+    "date": "2026-10-18",
+    "title": "Harness² paper details recursive frozen-model harness refinement",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "harness2",
+    "version": null,
+    "tags": [
+      "Harness^2: harness2-open-source-release",
+      "family:harness2",
+      "harness2",
+      "harness2-open-source-release",
+      "misc"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.14224",
     "has_image": false,
     "has_video": false
   },

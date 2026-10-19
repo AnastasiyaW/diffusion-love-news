@@ -43760,6 +43760,253 @@
       }
     ]
   },
+  "harness2": {
+    "family_slug": "harness2",
+    "family_display": "Harness^2: harness2-open-source-release",
+    "family_display_variants": [
+      {
+        "family_display": "Harness^2: harness2-open-source-release",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "news_ids": [
+          "n-03fea21c65",
+          "n-bb135c22d6",
+          "n-e69923fb8b"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 3,
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-03fea21c65",
+      "n-bb135c22d6",
+      "n-e69923fb8b"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-03fea21c65",
+        "title": "Harness² paper details recursive frozen-model harness refinement",
+        "primary_link": "https://arxiv.org/abs/2610.14224"
+      },
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-bb135c22d6",
+        "title": "Harness² supports OpenCode and Codex benchmark experiments",
+        "primary_link": "https://github.com/google-research/harness2"
+      },
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-e69923fb8b",
+        "title": "Harness² source code is available under Apache-2.0",
+        "primary_link": "https://github.com/google-research/harness2"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/google-research/harness2",
+        "is_primary": true,
+        "verified_at": "2026-10-19T06:47:15Z",
+        "news_ids": [
+          "n-03fea21c65",
+          "n-bb135c22d6",
+          "n-e69923fb8b"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-03fea21c65",
+            "is_primary": false,
+            "verified_at": "2026-10-19T06:47:15Z"
+          },
+          {
+            "news_id": "n-bb135c22d6",
+            "is_primary": true,
+            "verified_at": "2026-10-19T06:47:15Z"
+          },
+          {
+            "news_id": "n-e69923fb8b",
+            "is_primary": true,
+            "verified_at": "2026-10-19T06:47:15Z"
+          }
+        ]
+      },
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.14224",
+        "is_primary": true,
+        "verified_at": "2026-10-19T06:47:15Z",
+        "news_ids": [
+          "n-03fea21c65",
+          "n-bb135c22d6",
+          "n-e69923fb8b"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-03fea21c65",
+            "is_primary": true,
+            "verified_at": "2026-10-19T06:47:15Z"
+          },
+          {
+            "news_id": "n-bb135c22d6",
+            "is_primary": false,
+            "verified_at": "2026-10-19T06:47:15Z"
+          },
+          {
+            "news_id": "n-e69923fb8b",
+            "is_primary": false,
+            "verified_at": "2026-10-19T06:47:15Z"
+          }
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "arxiviq.substack.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiviq.substack.com/p/harness2-recursive-agent-harnessing",
+        "is_primary": false,
+        "verified_at": "2026-10-19T06:47:15Z",
+        "news_ids": [
+          "n-03fea21c65"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "Harness² paper details recursive frozen-model harness refinement",
+        "summary": "Harness² describes a two-level method that refines an agent harness for a task and retains evidence-supported lessons for later tasks without updating model weights.",
+        "version": null,
+        "news_id": "n-03fea21c65",
+        "primary_link": "https://arxiv.org/abs/2610.14224"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "Harness² supports OpenCode and Codex benchmark experiments",
+        "summary": "The implementation offers parallel and sequential recursion for JobBench, LAB, and WorkBuddy-Bench, with operators responsible for configuring evaluation network restrictions.",
+        "version": null,
+        "news_id": "n-bb135c22d6",
+        "primary_link": "https://github.com/google-research/harness2"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "Harness² source code is available under Apache-2.0",
+        "summary": "The public repository includes a local deterministic demo and documented setup for model-backed benchmark runs.",
+        "version": null,
+        "news_id": "n-e69923fb8b",
+        "primary_link": "https://github.com/google-research/harness2"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-e69923fb8b",
+        "date": "2026-10-18",
+        "title": "Harness² source code is available under Apache-2.0",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "harness2",
+        "version": null,
+        "tags": [
+          "Harness^2: harness2-open-source-release",
+          "family:harness2",
+          "harness2",
+          "harness2-open-source-release",
+          "misc"
+        ],
+        "primary_link": "https://github.com/google-research/harness2",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-bb135c22d6",
+        "date": "2026-10-18",
+        "title": "Harness² supports OpenCode and Codex benchmark experiments",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "harness2",
+        "version": null,
+        "tags": [
+          "Harness^2: harness2-open-source-release",
+          "family:harness2",
+          "harness2",
+          "harness2-open-source-release",
+          "misc"
+        ],
+        "primary_link": "https://github.com/google-research/harness2",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-03fea21c65",
+        "date": "2026-10-18",
+        "title": "Harness² paper details recursive frozen-model harness refinement",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "harness2",
+        "version": null,
+        "tags": [
+          "Harness^2: harness2-open-source-release",
+          "family:harness2",
+          "harness2",
+          "harness2-open-source-release",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.14224",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "harness2-open-source-release",
+        "display": "Harness2 Open Source Release",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "latest_news_id": "n-e69923fb8b",
+        "news_ids": [
+          "n-03fea21c65",
+          "n-bb135c22d6",
+          "n-e69923fb8b"
+        ]
+      }
+    ]
+  },
   "hatcha": {
     "family_slug": "hatcha",
     "family_display": "HATCHA",

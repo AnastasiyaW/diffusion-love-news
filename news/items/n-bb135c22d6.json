@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.4",
+ "id": "n-bb135c22d6",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Harness² supports OpenCode and Codex benchmark experiments",
+ "summary": "The implementation offers parallel and sequential recursion for JobBench, LAB, and WorkBuddy-Bench, with operators responsible for configuring evaluation network restrictions.",
+ "research_notes": "On Linux with Python 3.12 and uv, create the documented virtual environment, install the editable package, and run the credential-free demo before connecting a model.\n\nFor a model-backed run, install the listed runtime and benchmark dependencies, configure model settings and authentication, then start with one benchmark task and a small selection.\n\nRun checking, refinement, judging, and reporting with identical benchmark, executor, subset, recursion budget, mode, and seed; use dry-run to inspect task selection without model calls.\n\nChoose parallel recursion to explore candidate harnesses more widely, or sequential recursion to carry refinements through successive steps; retain adopted harnesses only with their supporting execution evidence.\n\nConfigure network restrictions before evaluation so public benchmark rubrics, answers, or grading criteria cannot leak into an executor with unrestricted web access.\n\nKeep the evaluation configuration identical to the refinement run when judging and reporting; changing the benchmark, executor, subset, recursion mode, budget, or seed invalidates a like-for-like result.\n\nTreat larger recursion budgets as an explicit compute–performance trade-off: the paper counts both execution and improvement tokens, and its gains were measured only in the evaluated benchmark configurations.",
+ "project": {
+  "name": "Harness^2: harness2-open-source-release",
+  "family_slug": "harness2",
+  "family_display": "Harness^2: harness2-open-source-release",
+  "model_slug": "harness2",
+  "model_display": "Harness^2: harness2-open-source-release",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "harness2-open-source-release",
+  "thread_display": "Harness2 Open Source Release",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Harness^2: harness2-open-source-release",
+  "article_url": "https://happyin.space/projects/harness2/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/a00bd0f70bef93bd7e07df13b04528fdc4d8fab9/docs/projects/harness2.md",
+  "agent_context_url": "https://happyin.space/projects/harness2/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-18",
+  "title": "Harness² supports OpenCode and Codex benchmark experiments",
+  "version": null,
+  "summary": "The implementation offers parallel and sequential recursion for JobBench, LAB, and WorkBuddy-Bench, with operators responsible for configuring evaluation network restrictions."
+ },
+ "tags": [
+  "Harness^2: harness2-open-source-release",
+  "family:harness2",
+  "harness2",
+  "harness2-open-source-release",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "harness2"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "code",
+   "url": "https://github.com/google-research/harness2",
+   "host": "github.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-19T06:47:15Z"
+  },
+  {
+   "kind": "paper",
+   "url": "https://arxiv.org/abs/2610.14224",
+   "host": "arxiv.org",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-19T06:47:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-18",
+  "excerpt": "The implementation offers parallel and sequential recursion for JobBench, LAB, and WorkBuddy-Bench, with operators responsible for configuring evaluation network restrictions."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-19T06:47:15Z",
+  "classified_at": "2026-10-19T06:47:15Z",
+  "enriched_at": "2026-10-19T06:47:15Z",
+  "verified_at": "2026-10-19T06:47:15Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}
