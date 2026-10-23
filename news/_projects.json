@@ -77936,6 +77936,154 @@
     ],
     "claims": []
   },
+  "sage-a1-5": {
+    "family_slug": "sage-a1-5",
+    "family_display": "Sage-A1.5: sage-a1-5-release",
+    "family_display_variants": [
+      {
+        "family_display": "Sage-A1.5: sage-a1-5-release",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "llm"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-12dc9deafa",
+      "n-adac82ad85"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-12dc9deafa",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-adac82ad85",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/InternScience/Sage-A1.5",
+        "is_primary": true,
+        "verified_at": "2026-10-23T08:10:23Z",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "summary": "Shanghai AI Lab released Sage-A1.5, an Apache 2.0-licensed 35B mixture-of-experts model activating 3B parameters per token, built on Qwen3.6-35B-A3B with native parallel subagent orchestration and serving support for SGLang and vLLM.",
+        "version": null,
+        "news_id": "n-12dc9deafa",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "summary": "The InternScience group published weights for Sage-A1.5 featuring a 256K context window expandable to 512K via YaRN, an embedded chain-of-thought self-correction mechanism, and OpenAI-compatible serving configurations.",
+        "version": null,
+        "news_id": "n-adac82ad85",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-adac82ad85",
+        "date": "2026-10-22",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "sage-a1-5",
+        "version": null,
+        "tags": [
+          "Sage-A1.5: sage-a1-5-release",
+          "family:sage-a1-5",
+          "llm",
+          "sage-a1-5",
+          "sage-a1-5-release"
+        ],
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-12dc9deafa",
+        "date": "2026-10-22",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "sage-a1-5",
+        "version": null,
+        "tags": [
+          "Sage-A1.5: sage-a1-5-release",
+          "family:sage-a1-5",
+          "llm",
+          "sage-a1-5",
+          "sage-a1-5-release"
+        ],
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "sage-a1-5-release",
+        "display": "Sage A1 5 Release",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-adac82ad85",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ]
+  },
   "sam-mt": {
     "family_slug": "sam-mt",
     "family_display": "SAM MT",

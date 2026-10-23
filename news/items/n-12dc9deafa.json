@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.4",
+ "id": "n-12dc9deafa",
+ "entry_type": "news",
+ "category": "llm",
+ "lang": "en",
+ "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+ "summary": "Shanghai AI Lab released Sage-A1.5, an Apache 2.0-licensed 35B mixture-of-experts model activating 3B parameters per token, built on Qwen3.6-35B-A3B with native parallel subagent orchestration and serving support for SGLang and vLLM.",
+ "research_notes": "Download model weights from the InternScience/Sage-A1.5 repository on Hugging Face or ModelScope.\n\nDeploy the model with vLLM or SGLang using the standard Qwen MoE architecture configuration to expose an OpenAI-compatible API endpoint.\n\nConfigure the agent execution runtime with subagent spawning enabled to allow the model to parallelize sub-tasks across isolated contexts.\n\nEnable native verification in the generation parameters or system prompt so the model performs self-review and error recovery during complex trajectories.\n\nUse isolated subagent contexts for parallel investigative branches to prevent distracting the root agent with intermediate noisy tool outputs.\n\nApply YaRN context scaling parameters when processing repositories or scientific literature collections exceeding the native 256K token context window.\n\nDeploy using SGLang or vLLM FP8/INT4 quantizations to reduce memory footprint while maintaining MoE routing efficiency.",
+ "project": {
+  "name": "Sage-A1.5: sage-a1-5-release",
+  "family_slug": "sage-a1-5",
+  "family_display": "Sage-A1.5: sage-a1-5-release",
+  "model_slug": "sage-a1-5",
+  "model_display": "Sage-A1.5: sage-a1-5-release",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "sage-a1-5-release",
+  "thread_display": "Sage A1 5 Release",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Sage-A1.5: sage-a1-5-release",
+  "article_url": "https://happyin.space/projects/sage-a1-5/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/61206b3007d257b0e1e69bfc0a9142f902afd872/docs/projects/sage-a1-5.md",
+  "agent_context_url": "https://happyin.space/projects/sage-a1-5/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-22",
+  "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+  "version": null,
+  "summary": "Shanghai AI Lab released Sage-A1.5, an Apache 2.0-licensed 35B mixture-of-experts model activating 3B parameters per token, built on Qwen3.6-35B-A3B with native parallel subagent orchestration and serving support for SGLang and vLLM."
+ },
+ "tags": [
+  "Sage-A1.5: sage-a1-5-release",
+  "family:sage-a1-5",
+  "llm",
+  "sage-a1-5",
+  "sage-a1-5-release"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "news",
+  "projects": [
+   "sage-a1-5"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/InternScience/Sage-A1.5",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-23T08:10:23Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-22",
+  "excerpt": "Shanghai AI Lab released Sage-A1.5, an Apache 2.0-licensed 35B mixture-of-experts model activating 3B parameters per token, built on Qwen3.6-35B-A3B with native parallel subagent orchestration and serving support for SGLang and vLLM."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-23T08:10:23Z",
+  "classified_at": "2026-10-23T08:10:23Z",
+  "enriched_at": "2026-10-23T08:10:23Z",
+  "verified_at": "2026-10-23T08:10:23Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

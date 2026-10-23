@@ -1,5 +1,43 @@
 [
   {
+    "id": "n-adac82ad85",
+    "date": "2026-10-22",
+    "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "sage-a1-5",
+    "version": null,
+    "tags": [
+      "Sage-A1.5: sage-a1-5-release",
+      "family:sage-a1-5",
+      "llm",
+      "sage-a1-5",
+      "sage-a1-5-release"
+    ],
+    "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-12dc9deafa",
+    "date": "2026-10-22",
+    "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "sage-a1-5",
+    "version": null,
+    "tags": [
+      "Sage-A1.5: sage-a1-5-release",
+      "family:sage-a1-5",
+      "llm",
+      "sage-a1-5",
+      "sage-a1-5-release"
+    ],
+    "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-e69923fb8b",
     "date": "2026-10-18",
     "title": "Harness² source code is available under Apache-2.0",

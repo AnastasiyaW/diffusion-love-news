@@ -2354,6 +2354,10 @@
   "SVGS": [
     "n-f735b8e846"
   ],
+  "Sage-A1.5: sage-a1-5-release": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
   "Sapiens2": [
     "n-aa28911ec6"
   ],
@@ -6337,6 +6341,10 @@
   "family:s3t-former": [
     "n-6ab0eb34ad"
   ],
+  "family:sage-a1-5": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
   "family:sam-mt": [
     "n-07db2c49c3"
   ],
@@ -8254,6 +8262,7 @@
     "n-b4bbea9668",
     "n-b1f4237092",
     "n-ae3f3a3876",
+    "n-adac82ad85",
     "n-ab5423ca1c",
     "n-a81182e9ac",
     "n-a6a4ba2d0f",
@@ -8296,6 +8305,7 @@
     "n-18cb9608e2",
     "n-16ee77b7eb",
     "n-15fd6206af",
+    "n-12dc9deafa",
     "n-129b6b09c0",
     "n-11e8a99b4c",
     "n-093c066bee",
@@ -10895,6 +10905,14 @@
   ],
   "s3t-former": [
     "n-6ab0eb34ad"
+  ],
+  "sage-a1-5": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
+  "sage-a1-5-release": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
   ],
   "sam-mt": [
     "n-07db2c49c3"
