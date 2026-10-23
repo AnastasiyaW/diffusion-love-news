@@ -95,6 +95,25 @@
     "has_video": false
   },
   {
+    "id": "n-687a924683",
+    "date": "2026-10-22",
+    "title": "GitLab releases security updates for critical remote code execution flaw",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gitlab",
+    "version": null,
+    "tags": [
+      "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+      "family:gitlab",
+      "gitlab",
+      "gitlab-critical-vulnerability-patch-19-5-1",
+      "misc"
+    ],
+    "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-447fbd2c0e",
     "date": "2026-10-22",
     "title": "arXiv preprint details WorldStream architecture and persistent world record",
@@ -168,6 +187,25 @@
       "organization:deepseek"
     ],
     "primary_link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1b28d58410",
+    "date": "2026-10-22",
+    "title": "GitLab patches critical unauthenticated RCE vulnerability across versions 7.0 through 19.5",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gitlab",
+    "version": null,
+    "tags": [
+      "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+      "family:gitlab",
+      "gitlab",
+      "gitlab-critical-vulnerability-patch-19-5-1",
+      "misc"
+    ],
+    "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "has_image": false,
     "has_video": false
   },

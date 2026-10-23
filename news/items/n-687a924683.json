@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.4",
+ "id": "n-687a924683",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GitLab releases security updates for critical remote code execution flaw",
+ "summary": "Self-managed GitLab instances dating back to version 7.0 were advised to upgrade immediately to patch 19.5.1 or designated backport releases after security researcher joaxcar disclosed an unauthenticated code execution vulnerability rated CVSS 10.0.",
+ "research_notes": "Identify the current self-managed GitLab instance version by checking the administration dashboard or running gitlab-rake gitlab:env:info on the host.\n\nSelect the corresponding patch target for the active version line: upgrade 19.5.x to 19.5.1, 19.4.x to 19.4.3, 19.3.x to 19.3.6, 19.2.x to 19.2.9, 19.1.x to 19.1.9, 19.0.x to 19.0.10, or legacy 7.0 through 18.11.x to 18.11.13.\n\nExecute the package manager update command or container image pull to apply the security patch, and restart GitLab services so updated binaries take effect.\n\nInspect Puma worker logs and application error logs for regular expression compiler errors or abnormal worker termination to detect past exploitation attempts.\n\nApply security releases immediately to internet-exposed self-managed GitLab instances because unauthenticated remote code execution requires no credentials or user interaction.\n\nUpgrade directly to the designated patch release within the active minor version branch to avoid unnecessary database migrations and reduce service downtime.\n\nDo not rely on perimeter web application firewall rules or configuration workarounds alone, as malicious regular expression patterns can be processed across various document rendering pathways.",
+ "project": {
+  "name": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+  "family_slug": "gitlab",
+  "family_display": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+  "model_slug": "gitlab",
+  "model_display": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "gitlab-critical-vulnerability-patch-19-5-1",
+  "thread_display": "Gitlab Critical Vulnerability Patch 19 5 1",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+  "article_url": "https://happyin.space/projects/gitlab/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/670ab951f85026369f2ac352a27ea4e573708bfd/docs/projects/gitlab.md",
+  "agent_context_url": "https://happyin.space/projects/gitlab/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-22",
+  "title": "GitLab releases security updates for critical remote code execution flaw",
+  "version": null,
+  "summary": "Self-managed GitLab instances dating back to version 7.0 were advised to upgrade immediately to patch 19.5.1 or designated backport releases after security researcher joaxcar disclosed an unauthenticated code execution vulnerability rated CVSS 10.0."
+ },
+ "tags": [
+  "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+  "family:gitlab",
+  "gitlab",
+  "gitlab-critical-vulnerability-patch-19-5-1",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "gitlab"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "host": "docs.gitlab.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-23T16:14:54Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-22",
+  "excerpt": "Self-managed GitLab instances dating back to version 7.0 were advised to upgrade immediately to patch 19.5.1 or designated backport releases after security researcher joaxcar disclosed an unauthenticated code execution vulnerability rated CVSS 10.0."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-23T16:14:54Z",
+  "classified_at": "2026-10-23T16:14:54Z",
+  "enriched_at": "2026-10-23T16:14:54Z",
+  "verified_at": "2026-10-23T16:14:54Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

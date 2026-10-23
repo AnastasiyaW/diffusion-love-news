@@ -1017,6 +1017,10 @@
   "Geometric Latent Diffusion": [
     "n-0c368b4c16"
   ],
+  "Gitlab: gitlab-critical-vulnerability-patch-19-5-1": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
   "GlyphPrinter": [
     "n-d6f1ea9ec7"
   ],
@@ -5223,6 +5227,10 @@
   "family:girl-agent": [
     "n-db7fee9bb2"
   ],
+  "family:gitlab": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
   "family:gliguard": [
     "n-3ef8391496"
   ],
@@ -7517,6 +7525,14 @@
     "n-01b786ce9f",
     "n-0124eabefd"
   ],
+  "gitlab": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
+  "gitlab-critical-vulnerability-patch-19-5-1": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
   "gliguard": [
     "n-3ef8391496"
   ],
@@ -9222,6 +9238,7 @@
     "n-6a43f5da48",
     "n-69ec3b0aaa",
     "n-68b3b1fae6",
+    "n-687a924683",
     "n-68299e89f1",
     "n-67e41ba5ae",
     "n-676d66ea41",
@@ -9397,6 +9414,7 @@
     "n-1d8711ddfd",
     "n-1c57725150",
     "n-1b82c038ef",
+    "n-1b28d58410",
     "n-1a5ac07fef",
     "n-1a301e2ceb",
     "n-1a26ffa75d",
