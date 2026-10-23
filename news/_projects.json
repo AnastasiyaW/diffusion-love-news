@@ -19071,6 +19071,117 @@
     ],
     "claims": []
   },
+  "deepseek-v4-1-flash-1017": {
+    "family_slug": "deepseek-v4-1-flash-1017",
+    "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+    "family_display_variants": [
+      {
+        "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-image"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-1b9a2f0f92"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-1b9a2f0f92",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "the-decoder.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:01:44Z",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "summary": "DeepSeek released the V4.1-Flash-1017 open-weight checkpoint under an MIT license, optimizing mixture-of-experts sparse routing for terminal tasks, coding workflows, and reduced output lengths.",
+        "version": null,
+        "news_id": "n-1b9a2f0f92",
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-1b9a2f0f92",
+        "date": "2026-10-17",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash-1017",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+          "deepseek-v4-1-flash-1017",
+          "deepseek-v4-1-flash-line",
+          "diffusion-image",
+          "family:deepseek-v4-1-flash-1017",
+          "llm",
+          "tools-frontend"
+        ],
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "deepseek-v4-1-flash-line",
+        "display": "Deepseek V4 1 Flash Line",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-1b9a2f0f92",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ]
+  },
   "deepseek-v4-flash-vision-exp": {
     "family_slug": "deepseek-v4-flash-vision-exp",
     "family_display": "DeepSeek V4 Flash Vision Exp",

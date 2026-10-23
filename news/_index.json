@@ -211,6 +211,27 @@
     "has_video": false
   },
   {
+    "id": "n-1b9a2f0f92",
+    "date": "2026-10-17",
+    "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash-1017",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+      "deepseek-v4-1-flash-1017",
+      "deepseek-v4-1-flash-line",
+      "diffusion-image",
+      "family:deepseek-v4-1-flash-1017",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-8dc4648cdc",
     "date": "2026-09-26",
     "title": "Dodo Pizza: public store revenue dashboard",

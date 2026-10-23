@@ -624,6 +624,9 @@
   "Daybreak": [
     "n-e92b026fad"
   ],
+  "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line": [
+    "n-1b9a2f0f92"
+  ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
   ],
@@ -4000,6 +4003,12 @@
   "deepseek-v4": [
     "n-bc5c88f85f"
   ],
+  "deepseek-v4-1-flash-1017": [
+    "n-1b9a2f0f92"
+  ],
+  "deepseek-v4-1-flash-line": [
+    "n-1b9a2f0f92"
+  ],
   "deepseek-v4-flash-vision-exp": [
     "n-abed76ad0f"
   ],
@@ -4085,6 +4094,7 @@
     "n-2c91e42c2d",
     "n-250fdb3b1b",
     "n-1fef5a401b",
+    "n-1b9a2f0f92",
     "n-10b1471000",
     "n-0646f210ee"
   ],
@@ -4881,6 +4891,9 @@
   ],
   "family:deepseek-tvp": [
     "n-2244c25f96"
+  ],
+  "family:deepseek-v4-1-flash-1017": [
+    "n-1b9a2f0f92"
   ],
   "family:deepseek-v4-flash-vision-exp": [
     "n-abed76ad0f"
@@ -8324,6 +8337,7 @@
     "n-269dacc1a7",
     "n-2405c2d2f2",
     "n-221dea80c4",
+    "n-1b9a2f0f92",
     "n-1b656b5ff8",
     "n-1985ad3cff",
     "n-18cb9608e2",
@@ -11487,6 +11501,7 @@
     "n-2d6650cee4",
     "n-269dacc1a7",
     "n-23270485c3",
+    "n-1b9a2f0f92",
     "n-1b11977658",
     "n-19adc0c7af",
     "n-18e6b47885",

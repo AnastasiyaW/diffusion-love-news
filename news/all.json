@@ -2,7 +2,7 @@
   "schema_version": "1.4",
   "generated_at": "2026-10-23T08:10:23Z",
   "site": "diffusion.love",
-  "total": 934,
+  "total": 935,
   "records": [
     {
       "schema_version": "1.4",
@@ -1312,6 +1312,113 @@
         "classified_at": "2026-10-19T17:06:06Z",
         "enriched_at": "2026-10-19T17:06:06Z",
         "verified_at": "2026-10-19T17:06:06Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-1b9a2f0f92",
+      "entry_type": "news",
+      "category": "diffusion-image",
+      "lang": "en",
+      "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+      "summary": "DeepSeek released the V4.1-Flash-1017 open-weight checkpoint under an MIT license, optimizing mixture-of-experts sparse routing for terminal tasks, coding workflows, and reduced output lengths.",
+      "research_notes": "Obtain open-weight model checkpoints and community quantization shards distributed under the MIT license.\n\nServe the model on MoE-compatible inference engines configured for sparse activation and compressed key-value caching over one-million-token context windows.\n\nConnect developer harnesses to the model endpoint, integrating first-party Search and Fetch APIs for web grounding.\n\nDeploy with serving harnesses that support compressed KV-cache management to maintain practical memory footprints across long-context sessions.\n\nPair the checkpoint with specialized developer harnesses such as DeepSeek Harness to take advantage of shortened output verbosity and faster terminal execution.",
+      "project": {
+        "name": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "family_slug": "deepseek-v4-1-flash-1017",
+        "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "model_slug": "deepseek-v4-1-flash-1017",
+        "model_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "deepseek-v4-1-flash-line",
+        "thread_display": "Deepseek V4 1 Flash Line",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "article_url": "https://happyin.space/projects/deepseek-v4-1-flash-1017/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7e48030b2937ac3284f77a009d1bdfada4044a68/docs/projects/deepseek-v4-1-flash-1017.md",
+        "agent_context_url": "https://happyin.space/projects/deepseek-v4-1-flash-1017/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "version": null,
+        "summary": "DeepSeek released the V4.1-Flash-1017 open-weight checkpoint under an MIT license, optimizing mixture-of-experts sparse routing for terminal tasks, coding workflows, and reduced output lengths."
+      },
+      "tags": [
+        "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "deepseek-v4-1-flash-1017",
+        "deepseek-v4-1-flash-line",
+        "diffusion-image",
+        "family:deepseek-v4-1-flash-1017",
+        "llm",
+        "tools-frontend"
+      ],
+      "facets": {
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "projects": [
+          "deepseek-v4-1-flash-1017"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+          "host": "the-decoder.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-19T19:01:44Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "DeepSeek released the V4.1-Flash-1017 open-weight checkpoint under an MIT license, optimizing mixture-of-experts sparse routing for terminal tasks, coding workflows, and reduced output lengths."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-19T19:01:44Z",
+        "classified_at": "2026-10-19T19:01:44Z",
+        "enriched_at": "2026-10-19T19:01:44Z",
+        "verified_at": "2026-10-19T19:01:44Z",
         "models_used": {
           "research": "curated-live-material"
         },
