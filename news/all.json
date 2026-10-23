@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T09:33:08Z",
+  "generated_at": "2026-10-23T14:21:16Z",
   "site": "diffusion.love",
-  "total": 942,
+  "total": 944,
   "records": [
     {
       "schema_version": "1.4",
@@ -216,6 +216,124 @@
     },
     {
       "schema_version": "1.4",
+      "id": "n-aa7ac5b27f",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+      "summary": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs.",
+      "research_notes": "Review regional regulatory boundaries and federal compliance directives before integrating DeepSeek API or model weights into institutional workflows.\n\nProvision commercial API access or private compute clusters backed by independent infrastructure to maintain operational continuity.\n\nIsolate deployment pipelines of Chinese-headquartered model providers from federal and regulated Western data environments to comply with public procurement restrictions.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "deepseek",
+        "display": "DeepSeek product and AI-content governance",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "deepseek-product-and-governance",
+        "thread_display": "Deepseek Product And Governance",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "DeepSeek product and AI-content governance",
+        "article_url": "https://happyin.space/organizations/deepseek/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/54da66f815e6f5066f0dbcd38c6888787ae3f39d/docs/organizations/deepseek.md",
+        "agent_context_url": "https://happyin.space/organizations/deepseek/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+        "version": null,
+        "summary": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs."
+      },
+      "tags": [
+        "DeepSeek product and AI-content governance",
+        "deepseek",
+        "deepseek-product-and-governance",
+        "misc",
+        "organization:deepseek"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "deepseek"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+          "host": "bloomberg.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "host": "techcrunch.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T14:21:16Z",
+        "classified_at": "2026-10-23T14:21:16Z",
+        "enriched_at": "2026-10-23T14:21:16Z",
+        "verified_at": "2026-10-23T14:21:16Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
       "id": "n-8f82aff737",
       "entry_type": "news",
       "category": "misc",
@@ -419,6 +537,124 @@
         "classified_at": "2026-10-23T09:20:56Z",
         "enriched_at": "2026-10-23T09:20:56Z",
         "verified_at": "2026-10-23T09:20:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-28ab3dac33",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+      "summary": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations.",
+      "research_notes": "Review regional regulatory boundaries and federal compliance directives before integrating DeepSeek API or model weights into institutional workflows.\n\nProvision commercial API access or private compute clusters backed by independent infrastructure to maintain operational continuity.\n\nIsolate deployment pipelines of Chinese-headquartered model providers from federal and regulated Western data environments to comply with public procurement restrictions.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "deepseek",
+        "display": "DeepSeek product and AI-content governance",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "deepseek-product-and-governance",
+        "thread_display": "Deepseek Product And Governance",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "DeepSeek product and AI-content governance",
+        "article_url": "https://happyin.space/organizations/deepseek/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/54da66f815e6f5066f0dbcd38c6888787ae3f39d/docs/organizations/deepseek.md",
+        "agent_context_url": "https://happyin.space/organizations/deepseek/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+        "version": null,
+        "summary": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations."
+      },
+      "tags": [
+        "DeepSeek product and AI-content governance",
+        "deepseek",
+        "deepseek-product-and-governance",
+        "misc",
+        "organization:deepseek"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "deepseek"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "host": "techcrunch.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+          "host": "bloomberg.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T14:21:16Z",
+        "classified_at": "2026-10-23T14:21:16Z",
+        "enriched_at": "2026-10-23T14:21:16Z",
+        "verified_at": "2026-10-23T14:21:16Z",
         "models_used": {
           "research": "curated-live-material"
         },

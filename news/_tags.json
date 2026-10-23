@@ -635,6 +635,10 @@
     "n-cca527d9ac",
     "n-93eeb937f1"
   ],
+  "DeepSeek product and AI-content governance": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
+  ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
   ],
@@ -4012,7 +4016,13 @@
   ],
   "deepseek": [
     "n-bc5c88f85f",
-    "n-abed76ad0f"
+    "n-abed76ad0f",
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
+  ],
+  "deepseek-product-and-governance": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
   ],
   "deepseek-tvp": [
     "n-2244c25f96"
@@ -9048,6 +9058,7 @@
     "n-abed76ad0f",
     "n-ab593e345a",
     "n-ab3713a0b5",
+    "n-aa7ac5b27f",
     "n-a99ab8a6eb",
     "n-a95c499131",
     "n-a85f96599d",
@@ -9340,6 +9351,7 @@
     "n-29037afbf8",
     "n-29022e4fd2",
     "n-28ff35cede",
+    "n-28ab3dac33",
     "n-289ba243a5",
     "n-288cee31b2",
     "n-286154962f",
@@ -10334,6 +10346,10 @@
   "organization:anthropic": [
     "n-15f28b9d26",
     "n-0fd23f1e2c"
+  ],
+  "organization:deepseek": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
   ],
   "organization:dodo-pizza": [
     "n-8dc4648cdc"
