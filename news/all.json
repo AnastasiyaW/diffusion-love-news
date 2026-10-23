@@ -1,9 +1,378 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T16:14:54Z",
+  "generated_at": "2026-10-23T23:16:23Z",
   "site": "diffusion.love",
-  "total": 950,
+  "total": 953,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-a3e4d25dc2",
+      "entry_type": "news",
+      "category": "diffusion-video",
+      "lang": "en",
+      "title": "CanAI released as open-source canvas for generative image and video",
+      "summary": "CanAI launched as open-source software on GitHub with an infinite canvas interface for neural image and video generation, offering a browser demo and Windows binaries backed by external fal.ai compute.",
+      "research_notes": "Test canvas interaction and node grouping in the web demonstration before installing desktop software.\n\nDownload the packaged Windows executable release or clone the repository to run the studio locally.\n\nConfigure a personal fal.ai API key in settings to enable neural image and video generation on canvas nodes.\n\nArrange reference images, connect macro nodes, and execute generations directly across the infinite canvas.\n\nUse macro nodes to bundle repetitive prompt assistance and reference transformations into reusable workflow blocks.\n\nVerify node connection logic in the browser demo before initiating billed generation runs through fal.ai.\n\nMonitor fal.ai account usage limits and API token balances directly when executing high-resolution image and video batches.",
+      "project": {
+        "name": "Canai: canai-public-release",
+        "family_slug": "canai",
+        "family_display": "Canai: canai-public-release",
+        "model_slug": "canai",
+        "model_display": "Canai: canai-public-release",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "canai-public-release",
+        "thread_display": "Canai Public Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Canai: canai-public-release",
+        "article_url": "https://happyin.space/projects/canai/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/3eb95155d160255c3b704d4c5c9cf9734b082041/docs/projects/canai.md",
+        "agent_context_url": "https://happyin.space/projects/canai/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CanAI released as open-source canvas for generative image and video",
+        "version": null,
+        "summary": "CanAI launched as open-source software on GitHub with an infinite canvas interface for neural image and video generation, offering a browser demo and Windows binaries backed by external fal.ai compute."
+      },
+      "tags": [
+        "Canai: canai-public-release",
+        "canai",
+        "canai-public-release",
+        "diffusion-video",
+        "family:canai"
+      ],
+      "facets": {
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "projects": [
+          "canai"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+          "host": "canai-demo.synthid-rich-report-worker.workers.dev",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public/issues",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "CanAI launched as open-source software on GitHub with an infinite canvas interface for neural image and video generation, offering a browser demo and Windows binaries backed by external fal.ai compute."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T23:16:23Z",
+        "classified_at": "2026-10-23T23:16:23Z",
+        "enriched_at": "2026-10-23T23:16:23Z",
+        "verified_at": "2026-10-23T23:16:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-595169f554",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "CanAI local AI canvas studio published on GitHub",
+      "summary": "CanAI published its codebase and Windows build as an open-source local generative studio with infinite canvas support for neural generation and macro nodes using personal fal.ai API credentials.",
+      "research_notes": "Test canvas interaction and node grouping in the web demonstration before installing desktop software.\n\nDownload the packaged Windows executable release or clone the repository to run the studio locally.\n\nConfigure a personal fal.ai API key in settings to enable neural image and video generation on canvas nodes.\n\nArrange reference images, connect macro nodes, and execute generations directly across the infinite canvas.\n\nUse macro nodes to bundle repetitive prompt assistance and reference transformations into reusable workflow blocks.\n\nVerify node connection logic in the browser demo before initiating billed generation runs through fal.ai.\n\nMonitor fal.ai account usage limits and API token balances directly when executing high-resolution image and video batches.",
+      "project": {
+        "name": "Canai: canai-public-release",
+        "family_slug": "canai",
+        "family_display": "Canai: canai-public-release",
+        "model_slug": "canai",
+        "model_display": "Canai: canai-public-release",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "canai-public-release",
+        "thread_display": "Canai Public Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Canai: canai-public-release",
+        "article_url": "https://happyin.space/projects/canai/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/3eb95155d160255c3b704d4c5c9cf9734b082041/docs/projects/canai.md",
+        "agent_context_url": "https://happyin.space/projects/canai/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CanAI local AI canvas studio published on GitHub",
+        "version": null,
+        "summary": "CanAI published its codebase and Windows build as an open-source local generative studio with infinite canvas support for neural generation and macro nodes using personal fal.ai API credentials."
+      },
+      "tags": [
+        "Canai: canai-public-release",
+        "canai",
+        "canai-public-release",
+        "family:canai",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "canai"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+          "host": "canai-demo.synthid-rich-report-worker.workers.dev",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public/issues",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "CanAI published its codebase and Windows build as an open-source local generative studio with infinite canvas support for neural generation and macro nodes using personal fal.ai API credentials."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T23:16:23Z",
+        "classified_at": "2026-10-23T23:16:23Z",
+        "enriched_at": "2026-10-23T23:16:23Z",
+        "verified_at": "2026-10-23T23:16:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-2171fbda3c",
+      "entry_type": "news",
+      "category": "tools-frontend",
+      "lang": "en",
+      "title": "CanAI open-source local canvas studio released with fal.ai integration",
+      "summary": "CanAI launched as an open-source local studio featuring an infinite canvas for image and video workflows, macro nodes, prompt assistance, a web demo, and Windows release binaries requiring a user-supplied fal.ai key.",
+      "research_notes": "Test canvas interaction and node grouping in the web demonstration before installing desktop software.\n\nDownload the packaged Windows executable release or clone the repository to run the studio locally.\n\nConfigure a personal fal.ai API key in settings to enable neural image and video generation on canvas nodes.\n\nArrange reference images, connect macro nodes, and execute generations directly across the infinite canvas.\n\nUse macro nodes to bundle repetitive prompt assistance and reference transformations into reusable workflow blocks.\n\nVerify node connection logic in the browser demo before initiating billed generation runs through fal.ai.\n\nMonitor fal.ai account usage limits and API token balances directly when executing high-resolution image and video batches.",
+      "project": {
+        "name": "Canai: canai-public-release",
+        "family_slug": "canai",
+        "family_display": "Canai: canai-public-release",
+        "model_slug": "canai",
+        "model_display": "Canai: canai-public-release",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "canai-public-release",
+        "thread_display": "Canai Public Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Canai: canai-public-release",
+        "article_url": "https://happyin.space/projects/canai/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/3eb95155d160255c3b704d4c5c9cf9734b082041/docs/projects/canai.md",
+        "agent_context_url": "https://happyin.space/projects/canai/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CanAI open-source local canvas studio released with fal.ai integration",
+        "version": null,
+        "summary": "CanAI launched as an open-source local studio featuring an infinite canvas for image and video workflows, macro nodes, prompt assistance, a web demo, and Windows release binaries requiring a user-supplied fal.ai key."
+      },
+      "tags": [
+        "Canai: canai-public-release",
+        "canai",
+        "canai-public-release",
+        "family:canai",
+        "tools-frontend"
+      ],
+      "facets": {
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "projects": [
+          "canai"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+          "host": "canai-demo.synthid-rich-report-worker.workers.dev",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/jimmorisedu-boop/CanAI-public/issues",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T23:16:23Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "CanAI launched as an open-source local studio featuring an infinite canvas for image and video workflows, macro nodes, prompt assistance, a web demo, and Windows release binaries requiring a user-supplied fal.ai key."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T23:16:23Z",
+        "classified_at": "2026-10-23T23:16:23Z",
+        "enriched_at": "2026-10-23T23:16:23Z",
+        "verified_at": "2026-10-23T23:16:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-c51396234c",

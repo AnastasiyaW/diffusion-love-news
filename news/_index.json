@@ -1,5 +1,62 @@
 [
   {
+    "id": "n-a3e4d25dc2",
+    "date": "2026-10-23",
+    "title": "CanAI released as open-source canvas for generative image and video",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": "canai",
+    "version": null,
+    "tags": [
+      "Canai: canai-public-release",
+      "canai",
+      "canai-public-release",
+      "diffusion-video",
+      "family:canai"
+    ],
+    "primary_link": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-595169f554",
+    "date": "2026-10-23",
+    "title": "CanAI local AI canvas studio published on GitHub",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "canai",
+    "version": null,
+    "tags": [
+      "Canai: canai-public-release",
+      "canai",
+      "canai-public-release",
+      "family:canai",
+      "misc"
+    ],
+    "primary_link": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-2171fbda3c",
+    "date": "2026-10-23",
+    "title": "CanAI open-source local canvas studio released with fal.ai integration",
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "project": "canai",
+    "version": null,
+    "tags": [
+      "Canai: canai-public-release",
+      "canai",
+      "canai-public-release",
+      "family:canai",
+      "tools-frontend"
+    ],
+    "primary_link": "https://canai-demo.synthid-rich-report-worker.workers.dev/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c51396234c",
     "date": "2026-10-22",
     "title": "NVIDIA expands Cosmos platform with training and deployment tools",
