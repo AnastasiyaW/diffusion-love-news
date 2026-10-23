@@ -133,6 +133,25 @@
     "has_video": false
   },
   {
+    "id": "n-bb76b83d43",
+    "date": "2026-10-17",
+    "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "project": "comfyui-drama3",
+    "version": null,
+    "tags": [
+      "Comfyui Drama3: comfyui-drama3-release",
+      "comfyui-drama3",
+      "comfyui-drama3-release",
+      "family:comfyui-drama3",
+      "tools-frontend"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-66869cc4a0",
     "date": "2026-10-17",
     "title": "ElevenLabs adds Instant Soundtracks for uploaded video",

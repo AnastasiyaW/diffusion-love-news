@@ -2,7 +2,7 @@
   "schema_version": "1.4",
   "generated_at": "2026-10-23T08:10:23Z",
   "site": "diffusion.love",
-  "total": 933,
+  "total": 934,
   "records": [
     {
       "schema_version": "1.4",
@@ -859,6 +859,120 @@
         "classified_at": "2026-10-19T16:43:36Z",
         "enriched_at": "2026-10-19T16:43:36Z",
         "verified_at": "2026-10-19T16:43:36Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-bb76b83d43",
+      "entry_type": "news",
+      "category": "tools-frontend",
+      "lang": "en",
+      "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+      "summary": "ComfyUI-Drama3 custom nodes were updated with optimized host-to-device expert caching, delivering reported 3x to 4x inference speedups for Fish Audio's 35B Drama 3 model on 8GB VRAM systems.",
+      "research_notes": "Clone the repository into the ComfyUI custom_nodes directory.\n\nDownload the Drama 3 model weights into models/diffusion_models and the codec weights into models/vae.\n\nLoad the provided voice clone or text-to-speech example workflow, attach reference audio for speaker cloning, and queue execution with emotion tags.\n\nConfigure system RAM offloading for routed experts while reserving GPU VRAM for the active expert cache on 8 GB graphics cards.\n\nUse clean, short reference speech recordings without background noise to ensure high-fidelity voice cloning.\n\nInsert directable bracketed performance cues such as [whispers] or [laughs] to modulate tone across multi-speaker dialogue scripts.",
+      "project": {
+        "name": "Comfyui Drama3: comfyui-drama3-release",
+        "family_slug": "comfyui-drama3",
+        "family_display": "Comfyui Drama3: comfyui-drama3-release",
+        "model_slug": "comfyui-drama3",
+        "model_display": "Comfyui Drama3: comfyui-drama3-release",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "comfyui-drama3-release",
+        "thread_display": "Comfyui Drama3 Release",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Comfyui Drama3: comfyui-drama3-release",
+        "article_url": "https://happyin.space/projects/comfyui-drama3/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/0713ccddbb5bbeecef4c6655d70ad5030f94a4ec/docs/projects/comfyui-drama3.md",
+        "agent_context_url": "https://happyin.space/projects/comfyui-drama3/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+        "version": null,
+        "summary": "ComfyUI-Drama3 custom nodes were updated with optimized host-to-device expert caching, delivering reported 3x to 4x inference speedups for Fish Audio's 35B Drama 3 model on 8GB VRAM systems."
+      },
+      "tags": [
+        "Comfyui Drama3: comfyui-drama3-release",
+        "comfyui-drama3",
+        "comfyui-drama3-release",
+        "family:comfyui-drama3",
+        "tools-frontend"
+      ],
+      "facets": {
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "projects": [
+          "comfyui-drama3"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/",
+          "host": "reddit.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-19T18:49:44Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/PedroMarinhoDev/ComfyUI-Drama3",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-19T18:49:44Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "ComfyUI-Drama3 custom nodes were updated with optimized host-to-device expert caching, delivering reported 3x to 4x inference speedups for Fish Audio's 35B Drama 3 model on 8GB VRAM systems."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-19T18:49:44Z",
+        "classified_at": "2026-10-19T18:49:44Z",
+        "enriched_at": "2026-10-19T18:49:44Z",
+        "verified_at": "2026-10-19T18:49:44Z",
         "models_used": {
           "research": "curated-live-material"
         },
