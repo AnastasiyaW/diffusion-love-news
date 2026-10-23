@@ -19,6 +19,25 @@
     "has_video": false
   },
   {
+    "id": "n-aec1b8ae4b",
+    "date": "2026-10-22",
+    "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": "worldstream",
+    "version": null,
+    "tags": [
+      "Worldstream: worldstream-3d-world-model",
+      "diffusion-video",
+      "family:worldstream",
+      "worldstream",
+      "worldstream-3d-world-model"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.28827",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-adac82ad85",
     "date": "2026-10-22",
     "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
@@ -72,6 +91,25 @@
       "misc"
     ],
     "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-447fbd2c0e",
+    "date": "2026-10-22",
+    "title": "arXiv preprint details WorldStream architecture and persistent world record",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "worldstream",
+    "version": null,
+    "tags": [
+      "Worldstream: worldstream-3d-world-model",
+      "family:worldstream",
+      "misc",
+      "worldstream",
+      "worldstream-3d-world-model"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.28827",
     "has_image": false,
     "has_video": false
   },

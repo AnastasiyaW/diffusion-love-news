@@ -2882,6 +2882,10 @@
   "WorldCam": [
     "n-8e1566e0c7"
   ],
+  "Worldstream: worldstream-3d-world-model": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
   "X-Dub": [
     "n-a5bfdf92c1"
   ],
@@ -4147,6 +4151,7 @@
     "n-c492e2a3e4",
     "n-b1f200df41",
     "n-b18df4c1c8",
+    "n-aec1b8ae4b",
     "n-ac33c5f998",
     "n-a7521b7b08",
     "n-a74ee42caa",
@@ -6939,6 +6944,10 @@
   "family:worldcam": [
     "n-8e1566e0c7"
   ],
+  "family:worldstream": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
   "family:x-dub": [
     "n-a5bfdf92c1"
   ],
@@ -9284,6 +9293,7 @@
     "n-4621bd0727",
     "n-45b7bbd16b",
     "n-4514941672",
+    "n-447fbd2c0e",
     "n-443c254b7f",
     "n-43108a28d7",
     "n-42aacd4f9b",
@@ -12037,6 +12047,14 @@
   ],
   "worldcam": [
     "n-8e1566e0c7"
+  ],
+  "worldstream": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
+  "worldstream-3d-world-model": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
   ],
   "x-dub": [
     "n-a5bfdf92c1"

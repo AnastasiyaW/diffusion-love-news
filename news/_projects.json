@@ -99169,6 +99169,155 @@
     ],
     "claims": []
   },
+  "worldstream": {
+    "family_slug": "worldstream",
+    "family_display": "Worldstream: worldstream-3d-world-model",
+    "family_display_variants": [
+      {
+        "family_display": "Worldstream: worldstream-3d-world-model",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-video",
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-447fbd2c0e",
+      "n-aec1b8ae4b"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-447fbd2c0e",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-aec1b8ae4b",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.28827",
+        "is_primary": true,
+        "verified_at": "2026-10-23T16:07:42Z",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "summary": "An arXiv preprint specifies WorldStream's typed decision model, which decouples ahead-of-time corridor planning from just-in-time compilation and stores per-tile seed, boundary, and NPC state in a persistent world record.",
+        "version": null,
+        "news_id": "n-447fbd2c0e",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "summary": "WorldStream introduces a streaming 3D world model architecture that combines macro and micro hierarchical planning with deterministic local compilation, maintaining infinite terrain and persistent edits along a player's movement corridor.",
+        "version": null,
+        "news_id": "n-aec1b8ae4b",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-aec1b8ae4b",
+        "date": "2026-10-22",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "worldstream",
+        "version": null,
+        "tags": [
+          "Worldstream: worldstream-3d-world-model",
+          "diffusion-video",
+          "family:worldstream",
+          "worldstream",
+          "worldstream-3d-world-model"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.28827",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-447fbd2c0e",
+        "date": "2026-10-22",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "worldstream",
+        "version": null,
+        "tags": [
+          "Worldstream: worldstream-3d-world-model",
+          "family:worldstream",
+          "misc",
+          "worldstream",
+          "worldstream-3d-world-model"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.28827",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "worldstream-3d-world-model",
+        "display": "Worldstream 3D World Model",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-aec1b8ae4b",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ]
+  },
   "x-dub": {
     "family_slug": "x-dub",
     "family_display": "X Dub",

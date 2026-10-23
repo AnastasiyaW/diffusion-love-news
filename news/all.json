@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T14:56:13Z",
+  "generated_at": "2026-10-23T16:07:42Z",
   "site": "diffusion.love",
-  "total": 945,
+  "total": 947,
   "records": [
     {
       "schema_version": "1.4",
@@ -103,6 +103,111 @@
         "classified_at": "2026-10-23T09:33:08Z",
         "enriched_at": "2026-10-23T09:33:08Z",
         "verified_at": "2026-10-23T09:33:08Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-aec1b8ae4b",
+      "entry_type": "news",
+      "category": "diffusion-video",
+      "lang": "en",
+      "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+      "summary": "WorldStream introduces a streaming 3D world model architecture that combines macro and micro hierarchical planning with deterministic local compilation, maintaining infinite terrain and persistent edits along a player's movement corridor.",
+      "research_notes": "Configure global generation seeds and environmental priors to initialize the Macro planning layer for regional ecology, hydrology, and transit networks.\n\nSupply agent position and heading vectors to project the movement corridor, triggering ahead-of-time Micro planning for imminent spatial tiles.\n\nInvoke local deterministic procedural compilation to translate approved Micro plan decisions into renderable 3D terrain, vegetation, and settlement assets.\n\nIssue natural language commands to update runtime entities or tile attributes, persisting modified states to the per-tile world record database.\n\nDecouple planning horizons from geometry compilation along predicted corridors to maintain stable frame rates and prevent compute spikes.\n\nEnforce strict tile-to-tile boundary commitments in the Micro planner to avoid visual and topological seams between independently compiled cells.\n\nRely on re-compilation from per-tile seed and mutation records rather than caching high-poly meshes in memory when the agent traverses large distances.",
+      "project": {
+        "name": "Worldstream: worldstream-3d-world-model",
+        "family_slug": "worldstream",
+        "family_display": "Worldstream: worldstream-3d-world-model",
+        "model_slug": "worldstream",
+        "model_display": "Worldstream: worldstream-3d-world-model",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "worldstream-3d-world-model",
+        "thread_display": "Worldstream 3D World Model",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Worldstream: worldstream-3d-world-model",
+        "article_url": "https://happyin.space/projects/worldstream/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/65e9e9d545ce41ff3576eaa1df275b8ec4d23e95/docs/projects/worldstream.md",
+        "agent_context_url": "https://happyin.space/projects/worldstream/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "version": null,
+        "summary": "WorldStream introduces a streaming 3D world model architecture that combines macro and micro hierarchical planning with deterministic local compilation, maintaining infinite terrain and persistent edits along a player's movement corridor."
+      },
+      "tags": [
+        "Worldstream: worldstream-3d-world-model",
+        "diffusion-video",
+        "family:worldstream",
+        "worldstream",
+        "worldstream-3d-world-model"
+      ],
+      "facets": {
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "projects": [
+          "worldstream"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "paper",
+          "url": "https://arxiv.org/abs/2610.28827",
+          "host": "arxiv.org",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T16:07:42Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "WorldStream introduces a streaming 3D world model architecture that combines macro and micro hierarchical planning with deterministic local compilation, maintaining infinite terrain and persistent edits along a player's movement corridor."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T16:07:42Z",
+        "classified_at": "2026-10-23T16:07:42Z",
+        "enriched_at": "2026-10-23T16:07:42Z",
+        "verified_at": "2026-10-23T16:07:42Z",
         "models_used": {
           "research": "curated-live-material"
         },
@@ -431,6 +536,111 @@
         "classified_at": "2026-10-23T09:20:56Z",
         "enriched_at": "2026-10-23T09:20:56Z",
         "verified_at": "2026-10-23T09:20:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-447fbd2c0e",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "arXiv preprint details WorldStream architecture and persistent world record",
+      "summary": "An arXiv preprint specifies WorldStream's typed decision model, which decouples ahead-of-time corridor planning from just-in-time compilation and stores per-tile seed, boundary, and NPC state in a persistent world record.",
+      "research_notes": "Configure global generation seeds and environmental priors to initialize the Macro planning layer for regional ecology, hydrology, and transit networks.\n\nSupply agent position and heading vectors to project the movement corridor, triggering ahead-of-time Micro planning for imminent spatial tiles.\n\nInvoke local deterministic procedural compilation to translate approved Micro plan decisions into renderable 3D terrain, vegetation, and settlement assets.\n\nIssue natural language commands to update runtime entities or tile attributes, persisting modified states to the per-tile world record database.\n\nDecouple planning horizons from geometry compilation along predicted corridors to maintain stable frame rates and prevent compute spikes.\n\nEnforce strict tile-to-tile boundary commitments in the Micro planner to avoid visual and topological seams between independently compiled cells.\n\nRely on re-compilation from per-tile seed and mutation records rather than caching high-poly meshes in memory when the agent traverses large distances.",
+      "project": {
+        "name": "Worldstream: worldstream-3d-world-model",
+        "family_slug": "worldstream",
+        "family_display": "Worldstream: worldstream-3d-world-model",
+        "model_slug": "worldstream",
+        "model_display": "Worldstream: worldstream-3d-world-model",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "worldstream-3d-world-model",
+        "thread_display": "Worldstream 3D World Model",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Worldstream: worldstream-3d-world-model",
+        "article_url": "https://happyin.space/projects/worldstream/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/65e9e9d545ce41ff3576eaa1df275b8ec4d23e95/docs/projects/worldstream.md",
+        "agent_context_url": "https://happyin.space/projects/worldstream/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "version": null,
+        "summary": "An arXiv preprint specifies WorldStream's typed decision model, which decouples ahead-of-time corridor planning from just-in-time compilation and stores per-tile seed, boundary, and NPC state in a persistent world record."
+      },
+      "tags": [
+        "Worldstream: worldstream-3d-world-model",
+        "family:worldstream",
+        "misc",
+        "worldstream",
+        "worldstream-3d-world-model"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "worldstream"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "paper",
+          "url": "https://arxiv.org/abs/2610.28827",
+          "host": "arxiv.org",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T16:07:42Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "An arXiv preprint specifies WorldStream's typed decision model, which decouples ahead-of-time corridor planning from just-in-time compilation and stores per-tile seed, boundary, and NPC state in a persistent world record."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T16:07:42Z",
+        "classified_at": "2026-10-23T16:07:42Z",
+        "enriched_at": "2026-10-23T16:07:42Z",
+        "verified_at": "2026-10-23T16:07:42Z",
         "models_used": {
           "research": "curated-live-material"
         },
