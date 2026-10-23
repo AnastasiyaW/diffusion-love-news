@@ -131,6 +131,25 @@
     "has_video": false
   },
   {
+    "id": "n-0fd23f1e2c",
+    "date": "2026-10-18",
+    "title": "Anthropic commits 5% equity stake to public benefit fund LLC",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Anthropic Development",
+      "anthropic",
+      "anthropic-development",
+      "misc",
+      "organization:anthropic"
+    ],
+    "primary_link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-03fea21c65",
     "date": "2026-10-18",
     "title": "Harness² paper details recursive frozen-model harness refinement",
