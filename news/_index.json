@@ -76,6 +76,25 @@
     "has_video": false
   },
   {
+    "id": "n-3efd45843c",
+    "date": "2026-10-22",
+    "title": "ElevenLabs integrates Chimera AI character system into ElevenCreative",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Voice Platform Development",
+      "diffusion-video",
+      "elevenlabs",
+      "organization:elevenlabs",
+      "voice-platform-development"
+    ],
+    "primary_link": "https://elevenlabs.io/creative",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-31b3b17c7b",
     "date": "2026-10-22",
     "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",

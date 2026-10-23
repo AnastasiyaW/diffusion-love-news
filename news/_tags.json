@@ -2799,7 +2799,8 @@
     "n-4621bd0727"
   ],
   "Voice Platform Development": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "Volumography": [
     "n-ef5357108f"
@@ -4169,6 +4170,7 @@
     "n-4bbad7fe81",
     "n-49e8a26e33",
     "n-492f7ebf1e",
+    "n-3efd45843c",
     "n-3ae3ddb34b",
     "n-396cd4f7c0",
     "n-3904aeff63",
@@ -4358,7 +4360,8 @@
   ],
   "elevenlabs": [
     "n-f5dbfdb346",
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "embeddings": [
     "n-1ee49081d2"
@@ -10355,7 +10358,8 @@
     "n-8dc4648cdc"
   ],
   "organization:elevenlabs": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "organization:happyin": [
     "n-001a2f8ef9"
@@ -11888,7 +11892,8 @@
     "n-0124eabefd"
   ],
   "voice-platform-development": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "void": [
     "n-83af6888de",
