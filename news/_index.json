@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-c51396234c",
+    "date": "2026-10-22",
+    "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": "nvidia-cosmos",
+    "version": null,
+    "tags": [
+      "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+      "diffusion-video",
+      "family:nvidia-cosmos",
+      "nvidia-cosmos",
+      "nvidia-cosmos-world-model-platform"
+    ],
+    "primary_link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-adac82ad85",
     "date": "2026-10-22",
     "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",

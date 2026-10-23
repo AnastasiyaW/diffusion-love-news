@@ -61092,6 +61092,115 @@
     ],
     "claims": []
   },
+  "nvidia-cosmos": {
+    "family_slug": "nvidia-cosmos",
+    "family_display": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+    "family_display_variants": [
+      {
+        "family_display": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-c51396234c"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-video"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-c51396234c"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-c51396234c",
+        "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+        "primary_link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "blogs.nvidia.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+        "is_primary": true,
+        "verified_at": "2026-10-23T09:33:08Z",
+        "news_ids": [
+          "n-c51396234c"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+        "summary": "NVIDIA expanded its Cosmos world model platform with Cosmos Data Factory synthetic data blueprints, Cosmos Curator filtering tools, NeMo post-training pipelines, and NIM microservice deployment containers for physical AI development.",
+        "version": null,
+        "news_id": "n-c51396234c",
+        "primary_link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c51396234c",
+        "date": "2026-10-22",
+        "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "nvidia-cosmos",
+        "version": null,
+        "tags": [
+          "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+          "diffusion-video",
+          "family:nvidia-cosmos",
+          "nvidia-cosmos",
+          "nvidia-cosmos-world-model-platform"
+        ],
+        "primary_link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "nvidia-cosmos-world-model-platform",
+        "display": "Nvidia Cosmos World Model Platform",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-c51396234c",
+        "news_ids": [
+          "n-c51396234c"
+        ]
+      }
+    ]
+  },
   "nvidia-cosmos-3-edge": {
     "family_slug": "nvidia-cosmos-3-edge",
     "family_display": "Nvidia Cosmos 3 Edge",

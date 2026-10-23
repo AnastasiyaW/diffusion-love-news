@@ -564,6 +564,9 @@
   "Cosmos 3 Edge": [
     "n-1a1adbb4f3"
   ],
+  "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform": [
+    "n-c51396234c"
+  ],
   "CosyVoice": [
     "n-7de8349cd0"
   ],
@@ -4129,6 +4132,7 @@
     "n-cf88820803",
     "n-ccdb07b0af",
     "n-c56aa9fa27",
+    "n-c51396234c",
     "n-c492e2a3e4",
     "n-b1f200df41",
     "n-b18df4c1c8",
@@ -5946,6 +5950,9 @@
   ],
   "family:nvidia-cmd": [
     "n-831457a1a0"
+  ],
+  "family:nvidia-cosmos": [
+    "n-c51396234c"
   ],
   "family:nvidia-cosmos-3-edge": [
     "n-1a1adbb4f3"
@@ -9976,10 +9983,14 @@
     "n-831457a1a0"
   ],
   "nvidia-cosmos": [
+    "n-c51396234c",
     "n-831457a1a0"
   ],
   "nvidia-cosmos-3-edge": [
     "n-1a1adbb4f3"
+  ],
+  "nvidia-cosmos-world-model-platform": [
+    "n-c51396234c"
   ],
   "nvidia-nemotron": [
     "n-0ad60b8778"

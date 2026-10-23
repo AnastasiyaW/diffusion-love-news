@@ -1,9 +1,114 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T09:20:56Z",
+  "generated_at": "2026-10-23T09:33:08Z",
   "site": "diffusion.love",
-  "total": 941,
+  "total": 942,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-c51396234c",
+      "entry_type": "news",
+      "category": "diffusion-video",
+      "lang": "en",
+      "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+      "summary": "NVIDIA expanded its Cosmos world model platform with Cosmos Data Factory synthetic data blueprints, Cosmos Curator filtering tools, NeMo post-training pipelines, and NIM microservice deployment containers for physical AI development.",
+      "research_notes": "Curate multimodal video and sensor datasets using Cosmos Curator to filter out corrupted or non-physical sequences.\n\nGenerate synthetic physical scenarios and edge-case clips using Cosmos Data Factory blueprints deployed on cloud GPU infrastructure.\n\nFine-tune foundation checkpoints on domain-specific robotic or vehicle sensor layouts using NVIDIA NeMo Framework.\n\nDeploy optimized world model checkpoints for high-throughput inference using containerized NVIDIA NIM microservices.\n\nEmploy Cosmos Curator before fine-tuning to eliminate corrupted or non-physical camera trajectories that degrade physical consistency.\n\nUse Cosmos Data Factory blueprints to synthesize rare hazard and edge-case scenarios that are unsafe or impractical to capture in physical testing.\n\nDeploy trained world models via containerized NVIDIA NIM microservices to leverage hardware-accelerated batching on enterprise GPUs.",
+      "project": {
+        "name": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "family_slug": "nvidia-cosmos",
+        "family_display": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "model_slug": "nvidia-cosmos",
+        "model_display": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "nvidia-cosmos-world-model-platform",
+        "thread_display": "Nvidia Cosmos World Model Platform",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "article_url": "https://happyin.space/projects/nvidia-cosmos/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/a013281d2f3c186823da6565f27c9f3ad97dcd54/docs/projects/nvidia-cosmos.md",
+        "agent_context_url": "https://happyin.space/projects/nvidia-cosmos/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+        "version": null,
+        "summary": "NVIDIA expanded its Cosmos world model platform with Cosmos Data Factory synthetic data blueprints, Cosmos Curator filtering tools, NeMo post-training pipelines, and NIM microservice deployment containers for physical AI development."
+      },
+      "tags": [
+        "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+        "diffusion-video",
+        "family:nvidia-cosmos",
+        "nvidia-cosmos",
+        "nvidia-cosmos-world-model-platform"
+      ],
+      "facets": {
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "projects": [
+          "nvidia-cosmos"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+          "host": "blogs.nvidia.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T09:33:08Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "NVIDIA expanded its Cosmos world model platform with Cosmos Data Factory synthetic data blueprints, Cosmos Curator filtering tools, NeMo post-training pipelines, and NIM microservice deployment containers for physical AI development."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T09:33:08Z",
+        "classified_at": "2026-10-23T09:33:08Z",
+        "enriched_at": "2026-10-23T09:33:08Z",
+        "verified_at": "2026-10-23T09:33:08Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-adac82ad85",
