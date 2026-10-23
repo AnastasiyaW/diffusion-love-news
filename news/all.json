@@ -2,7 +2,7 @@
   "schema_version": "1.4",
   "generated_at": "2026-10-23T08:10:23Z",
   "site": "diffusion.love",
-  "total": 935,
+  "total": 936,
   "records": [
     {
       "schema_version": "1.4",
@@ -718,6 +718,115 @@
         "classified_at": "2026-10-19T06:47:15Z",
         "enriched_at": "2026-10-19T06:47:15Z",
         "verified_at": "2026-10-19T06:47:15Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-d46d9eb28f",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "Meta removes AI training language from business terms",
+      "summary": "Meta revised its updated commercial terms of service to remove explicit references to training AI models on scraped business account web content and narrowed data use to advertising and business products.",
+      "research_notes": "Configure robots.txt on public web domains to define explicit crawl permissions for Meta web crawlers.\n\nReview commercial terms of service agreements within the Meta Business Manager before linking enterprise domains or publishing business assets.\n\nMaintain explicit crawler allowlists and disallow directives at the web server boundary rather than relying on default contractual terms for content protection.\n\nAudit commercial account permissions regularly to ensure business URLs are restricted to advertising operations without broad content extraction licenses.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "meta",
+        "display": "Meta AI",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "meta-ai",
+        "thread_display": "Meta Ai",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Meta AI",
+        "article_url": "https://happyin.space/organizations/meta/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/a3a4aff9fa0cc909927738347f16e45a5d610a43/docs/organizations/meta.md",
+        "agent_context_url": "https://happyin.space/organizations/meta/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Meta removes AI training language from business terms",
+        "version": null,
+        "summary": "Meta revised its updated commercial terms of service to remove explicit references to training AI models on scraped business account web content and narrowed data use to advertising and business products."
+      },
+      "tags": [
+        "Meta AI",
+        "meta",
+        "meta-ai",
+        "misc",
+        "organization:meta"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "meta"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "host": "techcrunch.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-19T19:03:50Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "Meta revised its updated commercial terms of service to remove explicit references to training AI models on scraped business account web content and narrowed data use to advertising and business products."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-19T19:03:50Z",
+        "classified_at": "2026-10-19T19:03:50Z",
+        "enriched_at": "2026-10-19T19:03:50Z",
+        "verified_at": "2026-10-19T19:03:50Z",
         "models_used": {
           "research": "curated-live-material"
         },

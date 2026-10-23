@@ -285,6 +285,55 @@
       }
     ]
   },
+  "meta": {
+    "slug": "meta",
+    "display": "Meta AI",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "news_ids": [
+      "n-d46d9eb28f"
+    ],
+    "direct_news_ids": [
+      "n-d46d9eb28f"
+    ],
+    "development_threads": [
+      {
+        "slug": "meta-ai",
+        "display": "Meta Ai",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-d46d9eb28f",
+        "news_ids": [
+          "n-d46d9eb28f"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-d46d9eb28f",
+        "date": "2026-10-17",
+        "title": "Meta removes AI training language from business terms",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Meta AI",
+          "meta",
+          "meta-ai",
+          "misc",
+          "organization:meta"
+        ],
+        "primary_link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "nvidia": {
     "slug": "nvidia",
     "display": "NVIDIA",

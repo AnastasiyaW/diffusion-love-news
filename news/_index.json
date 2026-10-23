@@ -114,6 +114,25 @@
     "has_video": false
   },
   {
+    "id": "n-d46d9eb28f",
+    "date": "2026-10-17",
+    "title": "Meta removes AI training language from business terms",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Meta AI",
+      "meta",
+      "meta-ai",
+      "misc",
+      "organization:meta"
+    ],
+    "primary_link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c696325d3e",
     "date": "2026-10-17",
     "title": "Fizgig releases LoRA Isolation for multi-identity training",
