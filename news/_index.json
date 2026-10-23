@@ -1,5 +1,24 @@
 [
   {
+    "id": "n-c51396234c",
+    "date": "2026-10-22",
+    "title": "NVIDIA expands Cosmos platform with training and deployment tools",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": "nvidia-cosmos",
+    "version": null,
+    "tags": [
+      "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform",
+      "diffusion-video",
+      "family:nvidia-cosmos",
+      "nvidia-cosmos",
+      "nvidia-cosmos-world-model-platform"
+    ],
+    "primary_link": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-adac82ad85",
     "date": "2026-10-22",
     "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
@@ -15,6 +34,45 @@
       "sage-a1-5-release"
     ],
     "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-8f82aff737",
+    "date": "2026-10-22",
+    "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "karpathy-output-style",
+    "version": null,
+    "tags": [
+      "Karpathy Output Style: karpathy-output-style-visual-explanations",
+      "family:karpathy-output-style",
+      "karpathy-output-style",
+      "karpathy-output-style-visual-explanations",
+      "misc"
+    ],
+    "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-31b3b17c7b",
+    "date": "2026-10-22",
+    "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "karpathy-output-style",
+    "version": null,
+    "tags": [
+      "Karpathy Output Style: karpathy-output-style-visual-explanations",
+      "family:karpathy-output-style",
+      "karpathy-output-style",
+      "karpathy-output-style-visual-explanations",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
     "has_image": false,
     "has_video": false
   },

@@ -647,6 +647,9 @@
     "n-3a37efa7b1",
     "n-1a1adbb4f3"
   ],
+  "Cosmos-1.0-Diffusion: nvidia-cosmos-world-model-platform": [
+    "n-c51396234c"
+  ],
   "CosyVoice": [
     "n-7de8349cd0"
   ],
@@ -1454,6 +1457,10 @@
   ],
   "KVarN": [
     "n-ec4e396a59"
+  ],
+  "Karpathy Output Style: karpathy-output-style-visual-explanations": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
   ],
   "KarpathyTalk": [
     "n-289ba243a5"
@@ -5131,6 +5138,7 @@
     "n-cf88820803",
     "n-ccdb07b0af",
     "n-c56aa9fa27",
+    "n-c51396234c",
     "n-c492e2a3e4",
     "n-b1f200df41",
     "n-b18df4c1c8",
@@ -6748,6 +6756,10 @@
   "family:k2-horizon-mova-36b-a4b": [
     "n-bfa1379d3f"
   ],
+  "family:karpathy-output-style": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
   "family:karpathytalk": [
     "n-289ba243a5"
   ],
@@ -7327,6 +7339,9 @@
   ],
   "family:nvidia-cmd": [
     "n-831457a1a0"
+  ],
+  "family:nvidia-cosmos": [
+    "n-c51396234c"
   ],
   "family:nvidia-cosmos-3-edge": [
     "n-3a37efa7b1",
@@ -10125,6 +10140,14 @@
   "k2-horizon-mova-36b-a4b": [
     "n-bfa1379d3f"
   ],
+  "karpathy-output-style": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
+  "karpathy-output-style-visual-explanations": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
   "karpathytalk": [
     "n-289ba243a5"
   ],
@@ -10423,6 +10446,7 @@
     "n-44c547a245",
     "n-3ef8391496",
     "n-367db0be8e",
+    "n-31b3b17c7b",
     "n-2f8c6f34f0",
     "n-2dbef67328",
     "n-2bdd41c2da",
@@ -11385,6 +11409,7 @@
     "n-90bd6c1615",
     "n-904eaadcd5",
     "n-901220b5b4",
+    "n-8f82aff737",
     "n-8f2e77690e",
     "n-8ef1289f87",
     "n-8ee81c1a41",
@@ -12620,11 +12645,15 @@
     "n-831457a1a0"
   ],
   "nvidia-cosmos": [
+    "n-c51396234c",
     "n-831457a1a0"
   ],
   "nvidia-cosmos-3-edge": [
     "n-3a37efa7b1",
     "n-1a1adbb4f3"
+  ],
+  "nvidia-cosmos-world-model-platform": [
+    "n-c51396234c"
   ],
   "nvidia-nemotron": [
     "n-d6f8f63a6e",
@@ -15119,6 +15148,7 @@
     "n-39f773b51f",
     "n-3354f12396",
     "n-332335c756",
+    "n-31b3b17c7b",
     "n-2ff0f435cc",
     "n-2d6650cee4",
     "n-269dacc1a7",
