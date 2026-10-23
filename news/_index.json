@@ -19,6 +19,25 @@
     "has_video": false
   },
   {
+    "id": "n-aec1b8ae4b",
+    "date": "2026-10-22",
+    "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": "worldstream",
+    "version": null,
+    "tags": [
+      "Worldstream: worldstream-3d-world-model",
+      "diffusion-video",
+      "family:worldstream",
+      "worldstream",
+      "worldstream-3d-world-model"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.28827",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-adac82ad85",
     "date": "2026-10-22",
     "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
@@ -72,6 +91,44 @@
       "misc"
     ],
     "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-687a924683",
+    "date": "2026-10-22",
+    "title": "GitLab releases security updates for critical remote code execution flaw",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gitlab",
+    "version": null,
+    "tags": [
+      "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+      "family:gitlab",
+      "gitlab",
+      "gitlab-critical-vulnerability-patch-19-5-1",
+      "misc"
+    ],
+    "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-447fbd2c0e",
+    "date": "2026-10-22",
+    "title": "arXiv preprint details WorldStream architecture and persistent world record",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "worldstream",
+    "version": null,
+    "tags": [
+      "Worldstream: worldstream-3d-world-model",
+      "family:worldstream",
+      "misc",
+      "worldstream",
+      "worldstream-3d-world-model"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.28827",
     "has_image": false,
     "has_video": false
   },
@@ -130,6 +187,25 @@
       "organization:deepseek"
     ],
     "primary_link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1b28d58410",
+    "date": "2026-10-22",
+    "title": "GitLab patches critical unauthenticated RCE vulnerability across versions 7.0 through 19.5",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "gitlab",
+    "version": null,
+    "tags": [
+      "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+      "family:gitlab",
+      "gitlab",
+      "gitlab-critical-vulnerability-patch-19-5-1",
+      "misc"
+    ],
+    "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
     "has_image": false,
     "has_video": false
   },

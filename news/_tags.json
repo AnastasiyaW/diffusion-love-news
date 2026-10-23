@@ -1189,6 +1189,10 @@
     "n-e0d8a02be3",
     "n-23a0a70ed1"
   ],
+  "Gitlab: gitlab-critical-vulnerability-patch-19-5-1": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
   "GlyphPrinter": [
     "n-d6f1ea9ec7"
   ],
@@ -3361,6 +3365,10 @@
   "WorldCam": [
     "n-8e1566e0c7"
   ],
+  "Worldstream: worldstream-3d-world-model": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
   "X-Dub": [
     "n-a5bfdf92c1"
   ],
@@ -5153,6 +5161,7 @@
     "n-c492e2a3e4",
     "n-b1f200df41",
     "n-b18df4c1c8",
+    "n-aec1b8ae4b",
     "n-ac33c5f998",
     "n-a7521b7b08",
     "n-a74ee42caa",
@@ -6426,6 +6435,10 @@
   "family:github": [
     "n-e0d8a02be3",
     "n-23a0a70ed1"
+  ],
+  "family:gitlab": [
+    "n-687a924683",
+    "n-1b28d58410"
   ],
   "family:gliguard": [
     "n-3ef8391496"
@@ -8479,6 +8492,10 @@
   "family:worldcam": [
     "n-8e1566e0c7"
   ],
+  "family:worldstream": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
   "family:x-dub": [
     "n-a5bfdf92c1"
   ],
@@ -9121,6 +9138,14 @@
   "github-connectivity": [
     "n-e0d8a02be3",
     "n-23a0a70ed1"
+  ],
+  "gitlab": [
+    "n-687a924683",
+    "n-1b28d58410"
+  ],
+  "gitlab-critical-vulnerability-patch-19-5-1": [
+    "n-687a924683",
+    "n-1b28d58410"
   ],
   "gliguard": [
     "n-3ef8391496"
@@ -11588,6 +11613,7 @@
     "n-69ec3b0aaa",
     "n-69a1028e31",
     "n-68b3b1fae6",
+    "n-687a924683",
     "n-68585b945d",
     "n-68299e89f1",
     "n-67e41ba5ae",
@@ -11704,6 +11730,7 @@
     "n-454ed35c93",
     "n-4514941672",
     "n-44977a0067",
+    "n-447fbd2c0e",
     "n-443c254b7f",
     "n-43a9873e24",
     "n-4340409e0e",
@@ -11859,6 +11886,7 @@
     "n-1ba828a121",
     "n-1b98c991bd",
     "n-1b82c038ef",
+    "n-1b28d58410",
     "n-1a5ac07fef",
     "n-1a301e2ceb",
     "n-1a26ffa75d",
@@ -15704,6 +15732,14 @@
   ],
   "worldcam": [
     "n-8e1566e0c7"
+  ],
+  "worldstream": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
+  ],
+  "worldstream-3d-world-model": [
+    "n-aec1b8ae4b",
+    "n-447fbd2c0e"
   ],
   "x-dub": [
     "n-a5bfdf92c1"

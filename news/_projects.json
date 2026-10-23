@@ -37224,6 +37224,154 @@
     ],
     "claims": []
   },
+  "gitlab": {
+    "family_slug": "gitlab",
+    "family_display": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+    "family_display_variants": [
+      {
+        "family_display": "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-1b28d58410",
+          "n-687a924683"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-1b28d58410",
+      "n-687a924683"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-1b28d58410",
+        "title": "GitLab patches critical unauthenticated RCE vulnerability across versions 7.0 through 19.5",
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-687a924683",
+        "title": "GitLab releases security updates for critical remote code execution flaw",
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "docs.gitlab.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "is_primary": true,
+        "verified_at": "2026-10-23T16:14:54Z",
+        "news_ids": [
+          "n-1b28d58410",
+          "n-687a924683"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "GitLab patches critical unauthenticated RCE vulnerability across versions 7.0 through 19.5",
+        "summary": "GitLab published emergency patch release 19.5.1 alongside backports down to version 18.11.13 to resolve CVE-2026-110264, a maximum-severity integer overflow in its regular expression compiler enabling unauthenticated remote code execution on self-managed servers.",
+        "version": null,
+        "news_id": "n-1b28d58410",
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "GitLab releases security updates for critical remote code execution flaw",
+        "summary": "Self-managed GitLab instances dating back to version 7.0 were advised to upgrade immediately to patch 19.5.1 or designated backport releases after security researcher joaxcar disclosed an unauthenticated code execution vulnerability rated CVSS 10.0.",
+        "version": null,
+        "news_id": "n-687a924683",
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-687a924683",
+        "date": "2026-10-22",
+        "title": "GitLab releases security updates for critical remote code execution flaw",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "gitlab",
+        "version": null,
+        "tags": [
+          "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+          "family:gitlab",
+          "gitlab",
+          "gitlab-critical-vulnerability-patch-19-5-1",
+          "misc"
+        ],
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-1b28d58410",
+        "date": "2026-10-22",
+        "title": "GitLab patches critical unauthenticated RCE vulnerability across versions 7.0 through 19.5",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "gitlab",
+        "version": null,
+        "tags": [
+          "Gitlab: gitlab-critical-vulnerability-patch-19-5-1",
+          "family:gitlab",
+          "gitlab",
+          "gitlab-critical-vulnerability-patch-19-5-1",
+          "misc"
+        ],
+        "primary_link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "gitlab-critical-vulnerability-patch-19-5-1",
+        "display": "Gitlab Critical Vulnerability Patch 19 5 1",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-687a924683",
+        "news_ids": [
+          "n-1b28d58410",
+          "n-687a924683"
+        ]
+      }
+    ]
+  },
   "gliguard": {
     "family_slug": "gliguard",
     "family_display": "GLiGuard",
@@ -119798,6 +119946,155 @@
       }
     ],
     "claims": []
+  },
+  "worldstream": {
+    "family_slug": "worldstream",
+    "family_display": "Worldstream: worldstream-3d-world-model",
+    "family_display_variants": [
+      {
+        "family_display": "Worldstream: worldstream-3d-world-model",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-video",
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-447fbd2c0e",
+      "n-aec1b8ae4b"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-447fbd2c0e",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-aec1b8ae4b",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.28827",
+        "is_primary": true,
+        "verified_at": "2026-10-23T16:07:42Z",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "summary": "An arXiv preprint specifies WorldStream's typed decision model, which decouples ahead-of-time corridor planning from just-in-time compilation and stores per-tile seed, boundary, and NPC state in a persistent world record.",
+        "version": null,
+        "news_id": "n-447fbd2c0e",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "summary": "WorldStream introduces a streaming 3D world model architecture that combines macro and micro hierarchical planning with deterministic local compilation, maintaining infinite terrain and persistent edits along a player's movement corridor.",
+        "version": null,
+        "news_id": "n-aec1b8ae4b",
+        "primary_link": "https://arxiv.org/abs/2610.28827"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-aec1b8ae4b",
+        "date": "2026-10-22",
+        "title": "WorldStream streams open-ended 3D worlds with hierarchical planning",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": "worldstream",
+        "version": null,
+        "tags": [
+          "Worldstream: worldstream-3d-world-model",
+          "diffusion-video",
+          "family:worldstream",
+          "worldstream",
+          "worldstream-3d-world-model"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.28827",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-447fbd2c0e",
+        "date": "2026-10-22",
+        "title": "arXiv preprint details WorldStream architecture and persistent world record",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "worldstream",
+        "version": null,
+        "tags": [
+          "Worldstream: worldstream-3d-world-model",
+          "family:worldstream",
+          "misc",
+          "worldstream",
+          "worldstream-3d-world-model"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.28827",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "worldstream-3d-world-model",
+        "display": "Worldstream 3D World Model",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-aec1b8ae4b",
+        "news_ids": [
+          "n-447fbd2c0e",
+          "n-aec1b8ae4b"
+        ]
+      }
+    ]
   },
   "x-dub": {
     "family_slug": "x-dub",
