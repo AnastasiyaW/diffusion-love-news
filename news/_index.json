@@ -172,6 +172,26 @@
     "has_video": false
   },
   {
+    "id": "n-269dacc1a7",
+    "date": "2026-10-17",
+    "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "glm-5-3-flash",
+    "version": null,
+    "tags": [
+      "GLM-5.3-Flash",
+      "family:glm-5-3-flash",
+      "glm-5-3-flash",
+      "glm-5-3-flash-development",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://dailyprompts.ru/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-8dc4648cdc",
     "date": "2026-09-26",
     "title": "Dodo Pizza: public store revenue dashboard",

@@ -31118,7 +31118,7 @@
   },
   "glm-5-3-flash": {
     "family_slug": "glm-5-3-flash",
-    "family_display": "GLM 5.3 Flash",
+    "family_display": "GLM-5.3-Flash",
     "family_display_variants": [
       {
         "family_display": "GLM 5.3 Flash",
@@ -31126,6 +31126,14 @@
         "last_seen": "2026-08-26",
         "news_ids": [
           "n-4148509833"
+        ]
+      },
+      {
+        "family_display": "GLM-5.3-Flash",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-269dacc1a7"
         ]
       }
     ],
@@ -31135,15 +31143,17 @@
     "license": null,
     "base_model": null,
     "categories": [
+      "llm",
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-10-17",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-4148509833"
+      "n-4148509833",
+      "n-269dacc1a7"
     ],
     "versions_timeline": [
       {
@@ -31152,6 +31162,13 @@
         "news_id": "n-4148509833",
         "title": "GLM-5.3-Flash was introduced with official model and documentation links",
         "primary_link": "https://z.ai/blog/glm-5.3-flash"
+      },
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-269dacc1a7",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "primary_link": "https://dailyprompts.ru/"
       }
     ],
     "features": [],
@@ -31166,6 +31183,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "reference",
+        "host": "dailyprompts.ru",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://dailyprompts.ru/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T17:06:06Z",
+        "news_ids": [
+          "n-269dacc1a7"
+        ]
+      },
       {
         "kind": "reference",
         "host": "z.ai",
@@ -31224,9 +31253,38 @@
         "version": null,
         "news_id": "n-4148509833",
         "primary_link": "https://z.ai/blog/glm-5.3-flash"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "summary": "OpenCode opened temporary access to Zhipu's GLM-5.3-Flash mixture-of-experts model for coding and agent workflows. The release provides 18B active parameters from a 320B parameter total, image and tool execution, a 200K token context window, and zero retention of request data.",
+        "version": null,
+        "news_id": "n-269dacc1a7",
+        "primary_link": "https://dailyprompts.ru/"
       }
     ],
     "related_news": [
+      {
+        "id": "n-269dacc1a7",
+        "date": "2026-10-17",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "glm-5-3-flash",
+        "version": null,
+        "tags": [
+          "GLM-5.3-Flash",
+          "family:glm-5-3-flash",
+          "glm-5-3-flash",
+          "glm-5-3-flash-development",
+          "llm",
+          "tools-frontend"
+        ],
+        "primary_link": "https://dailyprompts.ru/",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-4148509833",
         "date": "2026-08-26",
@@ -31247,7 +31305,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "glm-5-3-flash-development",
+        "display": "Glm 5 3 Flash Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-269dacc1a7",
+        "news_ids": [
+          "n-269dacc1a7"
+        ]
+      }
+    ]
   },
   "glm-ocr": {
     "family_slug": "glm-ocr",
