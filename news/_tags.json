@@ -34,6 +34,7 @@
     "n-4694b833dd",
     "n-461304d95b",
     "n-40f1573a5d",
+    "n-3e5c539778",
     "n-3b297c8441",
     "n-2938402642",
     "n-23309eb954",
@@ -211,7 +212,8 @@
     "n-03907a825f"
   ],
   "Anthropic Development": [
-    "n-15f28b9d26"
+    "n-15f28b9d26",
+    "n-0fd23f1e2c"
   ],
   "Anti-Vocale": [
     "n-02ff6518d6"
@@ -620,6 +622,9 @@
   "ComfyUI_StarNodes": [
     "n-ffa010ab28"
   ],
+  "Comfyui Drama3: comfyui-drama3-release": [
+    "n-bb76b83d43"
+  ],
   "Command A+": [
     "n-3bd8a5bf17"
   ],
@@ -724,6 +729,13 @@
   "DeepSeek": [
     "n-81d37c3b10",
     "n-43a9873e24"
+  ],
+  "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line": [
+    "n-1b9a2f0f92"
+  ],
+  "DeepSeek V4.1 Flash: deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
   ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
@@ -978,7 +990,8 @@
     "n-5a0726226f"
   ],
   "GLM-5.3-Flash": [
-    "n-4148509833"
+    "n-4148509833",
+    "n-269dacc1a7"
   ],
   "GLM-5V": [
     "n-b2b9ca697e"
@@ -1867,6 +1880,9 @@
   ],
   "Meta": [
     "n-afd37d916b"
+  ],
+  "Meta AI": [
+    "n-d46d9eb28f"
   ],
   "Meta-CoT": [
     "n-2c91e42c2d"
@@ -2767,6 +2783,10 @@
   "SVGS": [
     "n-f735b8e846"
   ],
+  "Sage-A1.5: sage-a1-5-release": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
   "Samsung": [
     "n-de6b1dfd1a",
     "n-d226a9b24c",
@@ -3070,6 +3090,9 @@
   ],
   "Tripo": [
     "n-f80e0da140"
+  ],
+  "Tripo development": [
+    "n-3e5c539778"
   ],
   "TripoSplat": [
     "n-38e1500c66"
@@ -3633,13 +3656,15 @@
     "n-2228ec8088",
     "n-15f28b9d26",
     "n-14a863c9d3",
+    "n-0fd23f1e2c",
     "n-0c8443f593",
     "n-060cf06f53",
     "n-050665d505",
     "n-03907a825f"
   ],
   "anthropic-development": [
-    "n-15f28b9d26"
+    "n-15f28b9d26",
+    "n-0fd23f1e2c"
   ],
   "anthropic_450m_funding": [
     "n-f64d313e07",
@@ -4588,6 +4613,12 @@
   "comfyui-development": [
     "n-046d02af9f"
   ],
+  "comfyui-drama3": [
+    "n-bb76b83d43"
+  ],
+  "comfyui-drama3-release": [
+    "n-bb76b83d43"
+  ],
   "comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
     "n-76a6e0d291",
@@ -4988,6 +5019,16 @@
   "deepseek-v4": [
     "n-bc5c88f85f"
   ],
+  "deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
+  ],
+  "deepseek-v4-1-flash-1017": [
+    "n-1b9a2f0f92"
+  ],
+  "deepseek-v4-1-flash-line": [
+    "n-1b9a2f0f92"
+  ],
   "deepseek-v4-flash-vision-exp": [
     "n-abed76ad0f"
   ],
@@ -5044,6 +5085,7 @@
     "n-e3fe618151",
     "n-d9eaebd61d",
     "n-cce36dc967",
+    "n-cca527d9ac",
     "n-ca390bf3b3",
     "n-c9e1e40a9c",
     "n-c78d87f531",
@@ -5073,6 +5115,7 @@
     "n-2c91e42c2d",
     "n-250fdb3b1b",
     "n-1fef5a401b",
+    "n-1b9a2f0f92",
     "n-10b1471000",
     "n-0646f210ee"
   ],
@@ -5857,6 +5900,9 @@
   "family:comfyui-davinci-magihuman": [
     "n-8c14423e0d"
   ],
+  "family:comfyui-drama3": [
+    "n-bb76b83d43"
+  ],
   "family:comfyui-flux2klein-enhancer": [
     "n-b65d8e8b42",
     "n-76a6e0d291",
@@ -6029,6 +6075,13 @@
   ],
   "family:deepseek-tvp": [
     "n-2244c25f96"
+  ],
+  "family:deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
+  ],
+  "family:deepseek-v4-1-flash-1017": [
+    "n-1b9a2f0f92"
   ],
   "family:deepseek-v4-flash-vision-exp": [
     "n-abed76ad0f"
@@ -6374,7 +6427,8 @@
     "n-5a0726226f"
   ],
   "family:glm-5-3-flash": [
-    "n-4148509833"
+    "n-4148509833",
+    "n-269dacc1a7"
   ],
   "family:glm-ocr": [
     "n-a5a6f42edd"
@@ -7821,6 +7875,10 @@
   "family:s3t-former": [
     "n-6ab0eb34ad"
   ],
+  "family:sage-a1-5": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
   "family:sam-mt": [
     "n-07db2c49c3"
   ],
@@ -8140,7 +8198,8 @@
     "n-f9bd7f602b"
   ],
   "family:tripo": [
-    "n-f80e0da140"
+    "n-f80e0da140",
+    "n-3e5c539778"
   ],
   "family:triposplat": [
     "n-38e1500c66"
@@ -9060,7 +9119,11 @@
     "n-5a0726226f"
   ],
   "glm-5-3-flash": [
-    "n-4148509833"
+    "n-4148509833",
+    "n-269dacc1a7"
+  ],
+  "glm-5-3-flash-development": [
+    "n-269dacc1a7"
   ],
   "glm-5v": [
     "n-b2b9ca697e"
@@ -10329,6 +10392,7 @@
     "n-b4bbea9668",
     "n-b1f4237092",
     "n-ae3f3a3876",
+    "n-adac82ad85",
     "n-ab5423ca1c",
     "n-a81182e9ac",
     "n-a6a4ba2d0f",
@@ -10364,13 +10428,16 @@
     "n-2bdd41c2da",
     "n-2aa536ccdc",
     "n-2a8f5beb6c",
+    "n-269dacc1a7",
     "n-2405c2d2f2",
     "n-221dea80c4",
+    "n-1b9a2f0f92",
     "n-1b656b5ff8",
     "n-1985ad3cff",
     "n-18cb9608e2",
     "n-16ee77b7eb",
     "n-15fd6206af",
+    "n-12dc9deafa",
     "n-129b6b09c0",
     "n-11e8a99b4c",
     "n-093c066bee",
@@ -10746,9 +10813,11 @@
     "n-2ff0f435cc"
   ],
   "meta": [
+    "n-d46d9eb28f",
     "n-afd37d916b"
   ],
   "meta-ai": [
+    "n-d46d9eb28f",
     "n-afd37d916b"
   ],
   "meta-ai-avatars": [
@@ -11071,6 +11140,7 @@
     "n-d497328784",
     "n-d4832f37b0",
     "n-d471b3d097",
+    "n-d46d9eb28f",
     "n-d3641add96",
     "n-d2d3810c3f",
     "n-d2bc181ad0",
@@ -11301,6 +11371,7 @@
     "n-949d991556",
     "n-9478ff9243",
     "n-944c22a8fe",
+    "n-93eeb937f1",
     "n-93c82cced4",
     "n-93be2cd4ed",
     "n-93b59f4150",
@@ -11793,6 +11864,7 @@
     "n-1059ecec13",
     "n-1027303bd3",
     "n-0fe927a2ab",
+    "n-0fd23f1e2c",
     "n-0f91f1563c",
     "n-0f55e4f6a1",
     "n-0f298b0d41",
@@ -13618,7 +13690,8 @@
     "n-061c80a1dc"
   ],
   "organization:anthropic": [
-    "n-15f28b9d26"
+    "n-15f28b9d26",
+    "n-0fd23f1e2c"
   ],
   "organization:dodo-pizza": [
     "n-8dc4648cdc"
@@ -13628,6 +13701,9 @@
   ],
   "organization:happyin": [
     "n-001a2f8ef9"
+  ],
+  "organization:meta": [
+    "n-d46d9eb28f"
   ],
   "organization:nvidia": [
     "n-f8cc9060c3",
@@ -14374,6 +14450,14 @@
   "s3t-former": [
     "n-6ab0eb34ad"
   ],
+  "sage-a1-5": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
+  "sage-a1-5-release": [
+    "n-adac82ad85",
+    "n-12dc9deafa"
+  ],
   "sam-mt": [
     "n-07db2c49c3"
   ],
@@ -15013,6 +15097,7 @@
     "n-df8413780a",
     "n-c66b8c38b0",
     "n-c2a141200b",
+    "n-bb76b83d43",
     "n-af1e479850",
     "n-a71a838b34",
     "n-9744e9b73c",
@@ -15030,12 +15115,15 @@
     "n-511353336a",
     "n-501487aec4",
     "n-41c999d507",
+    "n-3e5c539778",
     "n-39f773b51f",
     "n-3354f12396",
     "n-332335c756",
     "n-2ff0f435cc",
     "n-2d6650cee4",
+    "n-269dacc1a7",
     "n-23270485c3",
+    "n-1b9a2f0f92",
     "n-1b11977658",
     "n-19adc0c7af",
     "n-18e6b47885",
@@ -15085,7 +15173,11 @@
     "n-f9bd7f602b"
   ],
   "tripo": [
-    "n-f80e0da140"
+    "n-f80e0da140",
+    "n-3e5c539778"
+  ],
+  "tripo-development": [
+    "n-3e5c539778"
   ],
   "triposg_triposf": [
     "n-f80e0da140"

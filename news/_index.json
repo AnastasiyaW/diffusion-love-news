@@ -1,5 +1,43 @@
 [
   {
+    "id": "n-adac82ad85",
+    "date": "2026-10-22",
+    "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "sage-a1-5",
+    "version": null,
+    "tags": [
+      "Sage-A1.5: sage-a1-5-release",
+      "family:sage-a1-5",
+      "llm",
+      "sage-a1-5",
+      "sage-a1-5-release"
+    ],
+    "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-12dc9deafa",
+    "date": "2026-10-22",
+    "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "sage-a1-5",
+    "version": null,
+    "tags": [
+      "Sage-A1.5: sage-a1-5-release",
+      "family:sage-a1-5",
+      "llm",
+      "sage-a1-5",
+      "sage-a1-5-release"
+    ],
+    "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-e69923fb8b",
     "date": "2026-10-18",
     "title": "Harness² source code is available under Apache-2.0",
@@ -15,6 +53,24 @@
       "misc"
     ],
     "primary_link": "https://github.com/google-research/harness2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-cca527d9ac",
+    "date": "2026-10-18",
+    "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+      "deepseek-v4-1-flash",
+      "diffusion-image",
+      "family:deepseek-v4-1-flash"
+    ],
+    "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "has_image": false,
     "has_video": false
   },
@@ -38,6 +94,24 @@
     "has_video": false
   },
   {
+    "id": "n-93eeb937f1",
+    "date": "2026-10-18",
+    "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+      "deepseek-v4-1-flash",
+      "family:deepseek-v4-1-flash",
+      "misc"
+    ],
+    "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-5e96f46ead",
     "date": "2026-10-18",
     "title": "Dynamic Band Splitting releases adaptive audio-separation code and models",
@@ -53,6 +127,25 @@
       "family:dynamic-band-splitting"
     ],
     "primary_link": "https://cslikai.cn/Dynamic-Band-Splitting/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-0fd23f1e2c",
+    "date": "2026-10-18",
+    "title": "Anthropic commits 5% equity stake to public benefit fund LLC",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Anthropic Development",
+      "anthropic",
+      "anthropic-development",
+      "misc",
+      "organization:anthropic"
+    ],
+    "primary_link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
     "has_image": false,
     "has_video": false
   },
@@ -76,6 +169,25 @@
     "has_video": false
   },
   {
+    "id": "n-d46d9eb28f",
+    "date": "2026-10-17",
+    "title": "Meta removes AI training language from business terms",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Meta AI",
+      "meta",
+      "meta-ai",
+      "misc",
+      "organization:meta"
+    ],
+    "primary_link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-c696325d3e",
     "date": "2026-10-17",
     "title": "Fizgig releases LoRA Isolation for multi-identity training",
@@ -95,6 +207,25 @@
     "has_video": false
   },
   {
+    "id": "n-bb76b83d43",
+    "date": "2026-10-17",
+    "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "project": "comfyui-drama3",
+    "version": null,
+    "tags": [
+      "Comfyui Drama3: comfyui-drama3-release",
+      "comfyui-drama3",
+      "comfyui-drama3-release",
+      "family:comfyui-drama3",
+      "tools-frontend"
+    ],
+    "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-66869cc4a0",
     "date": "2026-10-17",
     "title": "ElevenLabs adds Instant Soundtracks for uploaded video",
@@ -110,6 +241,67 @@
       "voice-platform-development"
     ],
     "primary_link": "https://elevenlabs.io/blog/introducing-instant-soundtracks",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3e5c539778",
+    "date": "2026-10-17",
+    "title": "Tripo launches early access to UV unwrap and retopology",
+    "category": "3d",
+    "entry_type": "news",
+    "project": "tripo",
+    "version": null,
+    "tags": [
+      "3d",
+      "Tripo development",
+      "family:tripo",
+      "tools-frontend",
+      "tripo",
+      "tripo-development"
+    ],
+    "primary_link": "https://customuse.com/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-269dacc1a7",
+    "date": "2026-10-17",
+    "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "glm-5-3-flash",
+    "version": null,
+    "tags": [
+      "GLM-5.3-Flash",
+      "family:glm-5-3-flash",
+      "glm-5-3-flash",
+      "glm-5-3-flash-development",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://dailyprompts.ru/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-1b9a2f0f92",
+    "date": "2026-10-17",
+    "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash-1017",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+      "deepseek-v4-1-flash-1017",
+      "deepseek-v4-1-flash-line",
+      "diffusion-image",
+      "family:deepseek-v4-1-flash-1017",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
     "has_image": false,
     "has_video": false
   },

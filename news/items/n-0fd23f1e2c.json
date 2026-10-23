@@ -1,0 +1,109 @@
+{
+ "schema_version": "1.4",
+ "id": "n-0fd23f1e2c",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Anthropic commits 5% equity stake to public benefit fund LLC",
+ "summary": "Anthropic pledged 5% of company shares to create the Anthropic Public Benefit Fund LLC, pending stockholder approval, with dynamic board provisions to add 2% equity per 50% valuation gain for nonprofit support and labor mitigation.",
+ "research_notes": "Review Anthropic corporate filings and stockholder disclosures for ratification of the 5% equity allocation to the Public Benefit Fund.\n\nIdentify eligible programmatic areas including nonprofit research support and workforce displacement programs designated under the LLC operating guidelines.\n\nEvaluate public benefit governance frameworks independently from commercial AI product roadmaps when auditing corporate risk and safety compliance.\n\nVerify whether corporate equity grant pledges have received formal shareholder approval before relying on them for institutional funding commitments.",
+ "project": {
+  "name": null,
+  "family_slug": null,
+  "family_display": null,
+  "model_slug": null,
+  "model_display": null,
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": {
+  "slug": "anthropic",
+  "display": "Anthropic Development",
+  "homepage": null
+ },
+ "development": {
+  "scope": "organization",
+  "thread_slug": "anthropic-development",
+  "thread_display": "Anthropic Development",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Anthropic Development",
+  "article_url": "https://happyin.space/organizations/anthropic/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/14179b56ea671dfbe2e95faa25470564ad6323b4/docs/organizations/anthropic.md",
+  "agent_context_url": "https://happyin.space/organizations/anthropic/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-18",
+  "title": "Anthropic commits 5% equity stake to public benefit fund LLC",
+  "version": null,
+  "summary": "Anthropic pledged 5% of company shares to create the Anthropic Public Benefit Fund LLC, pending stockholder approval, with dynamic board provisions to add 2% equity per 50% valuation gain for nonprofit support and labor mitigation."
+ },
+ "tags": [
+  "Anthropic Development",
+  "anthropic",
+  "anthropic-development",
+  "misc",
+  "organization:anthropic"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [
+   "anthropic"
+  ],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "host": "techcrunch.com",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:34:13Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-18",
+  "excerpt": "Anthropic pledged 5% of company shares to create the Anthropic Public Benefit Fund LLC, pending stockholder approval, with dynamic board provisions to add 2% equity per 50% valuation gain for nonprofit support and labor mitigation."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-19T19:34:13Z",
+  "classified_at": "2026-10-19T19:34:13Z",
+  "enriched_at": "2026-10-19T19:34:13Z",
+  "verified_at": "2026-10-19T19:34:13Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

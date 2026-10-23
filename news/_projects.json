@@ -17350,6 +17350,127 @@
     ],
     "claims": []
   },
+  "comfyui-drama3": {
+    "family_slug": "comfyui-drama3",
+    "family_display": "Comfyui Drama3: comfyui-drama3-release",
+    "family_display_variants": [
+      {
+        "family_display": "Comfyui Drama3: comfyui-drama3-release",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-bb76b83d43"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "tools-frontend"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-bb76b83d43"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-bb76b83d43",
+        "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T18:49:44Z",
+        "news_ids": [
+          "n-bb76b83d43"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/PedroMarinhoDev/ComfyUI-Drama3",
+        "is_primary": false,
+        "verified_at": "2026-10-19T18:49:44Z",
+        "news_ids": [
+          "n-bb76b83d43"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+        "summary": "ComfyUI-Drama3 custom nodes were updated with optimized host-to-device expert caching, delivering reported 3x to 4x inference speedups for Fish Audio's 35B Drama 3 model on 8GB VRAM systems.",
+        "version": null,
+        "news_id": "n-bb76b83d43",
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-bb76b83d43",
+        "date": "2026-10-17",
+        "title": "ComfyUI-Drama3 updated with expert caching for 3x+ speedup on 8GB VRAM",
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "project": "comfyui-drama3",
+        "version": null,
+        "tags": [
+          "Comfyui Drama3: comfyui-drama3-release",
+          "comfyui-drama3",
+          "comfyui-drama3-release",
+          "family:comfyui-drama3",
+          "tools-frontend"
+        ],
+        "primary_link": "https://www.reddit.com/r/StableDiffusion/comments/1x8dj76/comfyuidrama3_is_34x_faster_now/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "comfyui-drama3-release",
+        "display": "Comfyui Drama3 Release",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-bb76b83d43",
+        "news_ids": [
+          "n-bb76b83d43"
+        ]
+      }
+    ]
+  },
   "comfyui-flux2klein-enhancer": {
     "family_slug": "comfyui-flux2klein-enhancer",
     "family_display": "ComfyUI Flux2Klein Enhancer",
@@ -23610,6 +23731,340 @@
       }
     ],
     "claims": []
+  },
+  "deepseek-v4-1-flash": {
+    "family_slug": "deepseek-v4-1-flash",
+    "family_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+    "family_display_variants": [
+      {
+        "family_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-image",
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-93eeb937f1",
+      "n-cca527d9ac"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-93eeb937f1",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      },
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-cca527d9ac",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "api-docs.deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-93eeb937f1",
+            "is_primary": true,
+            "verified_at": "2026-10-19T19:12:06Z"
+          },
+          {
+            "news_id": "n-cca527d9ac",
+            "is_primary": false,
+            "verified_at": "2026-10-19T19:12:06Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-93eeb937f1",
+            "is_primary": false,
+            "verified_at": "2026-10-19T19:12:06Z"
+          },
+          {
+            "news_id": "n-cca527d9ac",
+            "is_primary": true,
+            "verified_at": "2026-10-19T19:12:06Z"
+          }
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "api-docs.deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://api-docs.deepseek.com/zh-cn/news/news261017/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8mq6f/deepseek_v41_flash_1017_vs_v41_flash_pi_vs/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "summary": "DeepSeek documents V4.1-Flash-1017 as the current target behind `deepseek-flash`; the API calling method and pricing remain unchanged.",
+        "version": null,
+        "news_id": "n-93eeb937f1",
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "summary": "DeepSeek-V4.1-Flash-1017 is available as an MIT-licensed Hugging Face checkpoint, and DeepSeek says its web, app and API deployments now use the updated version.",
+        "version": null,
+        "news_id": "n-cca527d9ac",
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-cca527d9ac",
+        "date": "2026-10-18",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+          "deepseek-v4-1-flash",
+          "diffusion-image",
+          "family:deepseek-v4-1-flash"
+        ],
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-93eeb937f1",
+        "date": "2026-10-18",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+          "deepseek-v4-1-flash",
+          "family:deepseek-v4-1-flash",
+          "misc"
+        ],
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "deepseek-v4-1-flash",
+        "display": "Deepseek V4 1 Flash",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "latest_news_id": "n-cca527d9ac",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ]
+  },
+  "deepseek-v4-1-flash-1017": {
+    "family_slug": "deepseek-v4-1-flash-1017",
+    "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+    "family_display_variants": [
+      {
+        "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-image"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-17",
+    "last_seen": "2026-10-17",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-1b9a2f0f92"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-1b9a2f0f92",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "the-decoder.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:01:44Z",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "summary": "DeepSeek released the V4.1-Flash-1017 open-weight checkpoint under an MIT license, optimizing mixture-of-experts sparse routing for terminal tasks, coding workflows, and reduced output lengths.",
+        "version": null,
+        "news_id": "n-1b9a2f0f92",
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-1b9a2f0f92",
+        "date": "2026-10-17",
+        "title": "DeepSeek releases V4.1-Flash-1017 open-weight model with agentic tool optimizations",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash-1017",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
+          "deepseek-v4-1-flash-1017",
+          "deepseek-v4-1-flash-line",
+          "diffusion-image",
+          "family:deepseek-v4-1-flash-1017",
+          "llm",
+          "tools-frontend"
+        ],
+        "primary_link": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "deepseek-v4-1-flash-line",
+        "display": "Deepseek V4 1 Flash Line",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-1b9a2f0f92",
+        "news_ids": [
+          "n-1b9a2f0f92"
+        ]
+      }
+    ]
   },
   "deepseek-v4-flash-vision-exp": {
     "family_slug": "deepseek-v4-flash-vision-exp",
@@ -37605,9 +38060,10 @@
       {
         "family_display": "GLM-5.3-Flash",
         "first_seen": "2026-08-26",
-        "last_seen": "2026-08-26",
+        "last_seen": "2026-10-17",
         "news_ids": [
-          "n-4148509833"
+          "n-4148509833",
+          "n-269dacc1a7"
         ]
       }
     ],
@@ -37617,15 +38073,17 @@
     "license": null,
     "base_model": null,
     "categories": [
+      "llm",
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-08-26",
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-10-17",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-4148509833"
+      "n-4148509833",
+      "n-269dacc1a7"
     ],
     "versions_timeline": [
       {
@@ -37634,6 +38092,13 @@
         "news_id": "n-4148509833",
         "title": "GLM-5.3-Flash was introduced with official model and documentation links",
         "primary_link": "https://z.ai/blog/glm-5.3-flash"
+      },
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-269dacc1a7",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "primary_link": "https://dailyprompts.ru/"
       }
     ],
     "features": [],
@@ -37648,6 +38113,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "reference",
+        "host": "dailyprompts.ru",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://dailyprompts.ru/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T17:06:06Z",
+        "news_ids": [
+          "n-269dacc1a7"
+        ]
+      },
       {
         "kind": "reference",
         "host": "z.ai",
@@ -37706,9 +38183,38 @@
         "version": null,
         "news_id": "n-4148509833",
         "primary_link": "https://z.ai/blog/glm-5.3-flash"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "summary": "OpenCode opened temporary access to Zhipu's GLM-5.3-Flash mixture-of-experts model for coding and agent workflows. The release provides 18B active parameters from a 320B parameter total, image and tool execution, a 200K token context window, and zero retention of request data.",
+        "version": null,
+        "news_id": "n-269dacc1a7",
+        "primary_link": "https://dailyprompts.ru/"
       }
     ],
     "related_news": [
+      {
+        "id": "n-269dacc1a7",
+        "date": "2026-10-17",
+        "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "glm-5-3-flash",
+        "version": null,
+        "tags": [
+          "GLM-5.3-Flash",
+          "family:glm-5-3-flash",
+          "glm-5-3-flash",
+          "glm-5-3-flash-development",
+          "llm",
+          "tools-frontend"
+        ],
+        "primary_link": "https://dailyprompts.ru/",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-4148509833",
         "date": "2026-08-26",
@@ -37729,7 +38235,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "glm-5-3-flash-development",
+        "display": "Glm 5 3 Flash Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-269dacc1a7",
+        "news_ids": [
+          "n-269dacc1a7"
+        ]
+      }
+    ]
   },
   "glm-ocr": {
     "family_slug": "glm-ocr",
@@ -96481,6 +96999,154 @@
     ],
     "claims": []
   },
+  "sage-a1-5": {
+    "family_slug": "sage-a1-5",
+    "family_display": "Sage-A1.5: sage-a1-5-release",
+    "family_display_variants": [
+      {
+        "family_display": "Sage-A1.5: sage-a1-5-release",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "llm"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-12dc9deafa",
+      "n-adac82ad85"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-12dc9deafa",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-adac82ad85",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/InternScience/Sage-A1.5",
+        "is_primary": true,
+        "verified_at": "2026-10-23T08:10:23Z",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "summary": "Shanghai AI Lab released Sage-A1.5, an Apache 2.0-licensed 35B mixture-of-experts model activating 3B parameters per token, built on Qwen3.6-35B-A3B with native parallel subagent orchestration and serving support for SGLang and vLLM.",
+        "version": null,
+        "news_id": "n-12dc9deafa",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "summary": "The InternScience group published weights for Sage-A1.5 featuring a 256K context window expandable to 512K via YaRN, an embedded chain-of-thought self-correction mechanism, and OpenAI-compatible serving configurations.",
+        "version": null,
+        "news_id": "n-adac82ad85",
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-adac82ad85",
+        "date": "2026-10-22",
+        "title": "Sage-A1.5 published on Hugging Face with native agentic self-verification",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "sage-a1-5",
+        "version": null,
+        "tags": [
+          "Sage-A1.5: sage-a1-5-release",
+          "family:sage-a1-5",
+          "llm",
+          "sage-a1-5",
+          "sage-a1-5-release"
+        ],
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-12dc9deafa",
+        "date": "2026-10-22",
+        "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "sage-a1-5",
+        "version": null,
+        "tags": [
+          "Sage-A1.5: sage-a1-5-release",
+          "family:sage-a1-5",
+          "llm",
+          "sage-a1-5",
+          "sage-a1-5-release"
+        ],
+        "primary_link": "https://huggingface.co/InternScience/Sage-A1.5",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "sage-a1-5-release",
+        "display": "Sage A1 5 Release",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-adac82ad85",
+        "news_ids": [
+          "n-12dc9deafa",
+          "n-adac82ad85"
+        ]
+      }
+    ]
+  },
   "sam-mt": {
     "family_slug": "sam-mt",
     "family_display": "SAM-MT",
@@ -109008,7 +109674,7 @@
   },
   "tripo": {
     "family_slug": "tripo",
-    "family_display": "Tripo",
+    "family_display": "Tripo development",
     "family_display_variants": [
       {
         "family_display": "Tripo",
@@ -109016,6 +109682,14 @@
         "last_seen": "2026-06-23",
         "news_ids": [
           "n-f80e0da140"
+        ]
+      },
+      {
+        "family_display": "Tripo development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-3e5c539778"
         ]
       }
     ],
@@ -109025,15 +109699,17 @@
     "license": null,
     "base_model": null,
     "categories": [
+      "3d",
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-10-17",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-f80e0da140"
+      "n-f80e0da140",
+      "n-3e5c539778"
     ],
     "versions_timeline": [
       {
@@ -109042,6 +109718,13 @@
         "news_id": "n-f80e0da140",
         "title": "Tripo May product update",
         "primary_link": "https://www.tripo3d.ai/blog/may-update-on-tripo"
+      },
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-3e5c539778",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "primary_link": "https://customuse.com/"
       }
     ],
     "features": [],
@@ -109056,6 +109739,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "reference",
+        "host": "customuse.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://customuse.com/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T16:23:35Z",
+        "news_ids": [
+          "n-3e5c539778"
+        ]
+      },
       {
         "kind": "reference",
         "host": "tripo3d.ai",
@@ -109078,9 +109773,38 @@
         "version": null,
         "news_id": "n-f80e0da140",
         "primary_link": "https://www.tripo3d.ai/blog/may-update-on-tripo"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "summary": "Tripo opened early access to automated UV unwrapping and retopology tools, integrating low-poly mesh conversion and UV layout generation directly into its 3D modeling workflow.",
+        "version": null,
+        "news_id": "n-3e5c539778",
+        "primary_link": "https://customuse.com/"
       }
     ],
     "related_news": [
+      {
+        "id": "n-3e5c539778",
+        "date": "2026-10-17",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "category": "3d",
+        "entry_type": "news",
+        "project": "tripo",
+        "version": null,
+        "tags": [
+          "3d",
+          "Tripo development",
+          "family:tripo",
+          "tools-frontend",
+          "tripo",
+          "tripo-development"
+        ],
+        "primary_link": "https://customuse.com/",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-f80e0da140",
         "date": "2026-06-23",
@@ -109101,7 +109825,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "tripo-development",
+        "display": "Tripo Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-3e5c539778",
+        "news_ids": [
+          "n-3e5c539778"
+        ]
+      }
+    ]
   },
   "triposplat": {
     "family_slug": "triposplat",

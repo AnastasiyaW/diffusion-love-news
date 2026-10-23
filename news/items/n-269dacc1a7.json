@@ -1,0 +1,106 @@
+{
+ "schema_version": "1.4",
+ "id": "n-269dacc1a7",
+ "entry_type": "news",
+ "category": "llm",
+ "lang": "en",
+ "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+ "summary": "OpenCode opened temporary access to Zhipu's GLM-5.3-Flash mixture-of-experts model for coding and agent workflows. The release provides 18B active parameters from a 320B parameter total, image and tool execution, a 200K token context window, and zero retention of request data.",
+ "research_notes": "Install or open the OpenCode terminal developer environment.\n\nSelect GLM-5.3-Flash from the available programming model options.\n\nDispatch coding, tool-calling, or visual analysis tasks within the 200K-token context limit under the zero-retention privacy policy.\n\nBound agent working context within 200K tokens to stay within the free-tier limit and avoid context truncation during extended repository sessions.\n\nStructure agent workflows around native tool calling and multimodal inputs rather than text-only completion to utilize the model's specialized MoE activation routing.",
+ "project": {
+  "name": "GLM-5.3-Flash",
+  "family_slug": "glm-5-3-flash",
+  "family_display": "GLM-5.3-Flash",
+  "model_slug": "glm-5-3-flash",
+  "model_display": "GLM-5.3-Flash",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "glm-5-3-flash-development",
+  "thread_display": "Glm 5 3 Flash Development",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "GLM-5.3-Flash",
+  "article_url": "https://happyin.space/projects/glm-5-3-flash/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/51e696b98bf54842504c6a7e8af733b28643ee2c/docs/projects/glm-5-3-flash.md",
+  "agent_context_url": "https://happyin.space/projects/glm-5-3-flash/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-17",
+  "title": "OpenCode provides temporary free access to GLM-5.3-Flash",
+  "version": null,
+  "summary": "OpenCode opened temporary access to Zhipu's GLM-5.3-Flash mixture-of-experts model for coding and agent workflows. The release provides 18B active parameters from a 320B parameter total, image and tool execution, a 200K token context window, and zero retention of request data."
+ },
+ "tags": [
+  "GLM-5.3-Flash",
+  "family:glm-5-3-flash",
+  "glm-5-3-flash",
+  "glm-5-3-flash-development",
+  "llm",
+  "tools-frontend"
+ ],
+ "facets": {
+  "category": "llm",
+  "entry_type": "news",
+  "projects": [
+   "glm-5-3-flash"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://dailyprompts.ru/",
+   "host": "dailyprompts.ru",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-19T17:06:06Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-17",
+  "excerpt": "OpenCode opened temporary access to Zhipu's GLM-5.3-Flash mixture-of-experts model for coding and agent workflows. The release provides 18B active parameters from a 320B parameter total, image and tool execution, a 200K token context window, and zero retention of request data."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-19T17:06:06Z",
+  "classified_at": "2026-10-19T17:06:06Z",
+  "enriched_at": "2026-10-19T17:06:06Z",
+  "verified_at": "2026-10-19T17:06:06Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

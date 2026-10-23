@@ -1,0 +1,140 @@
+{
+ "schema_version": "1.4",
+ "id": "n-cca527d9ac",
+ "entry_type": "news",
+ "category": "diffusion-image",
+ "lang": "en",
+ "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+ "summary": "DeepSeek-V4.1-Flash-1017 is available as an MIT-licensed Hugging Face checkpoint, and DeepSeek says its web, app and API deployments now use the updated version.",
+ "research_notes": "For the hosted model, keep the existing API integration and set the model to `deepseek-flash`; it resolves to the current V4.1 Flash release.\n\nFor local experimentation, install updated Transformers and Accelerate, then load `deepseek-ai/DeepSeek-V4.1-Flash-1017` through the documented image-text-to-text pipeline or `AutoModelForCausalLM` path.\n\nUse the stable `deepseek-flash` API name instead of embedding the checkpoint name in hosted integrations, so the documented current version is selected without changing the call format.\n\nWhen self-hosting, start from an officially documented Transformers or vLLM loading path rather than assuming an older V4 Flash runtime configuration works unchanged.",
+ "project": {
+  "name": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+  "family_slug": "deepseek-v4-1-flash",
+  "family_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+  "model_slug": "deepseek-v4-1-flash",
+  "model_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "deepseek-v4-1-flash",
+  "thread_display": "Deepseek V4 1 Flash",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+  "article_url": "https://happyin.space/projects/deepseek-v4-1-flash/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/e4f5d6d1f7b2314a0ef279de9152d62ad444359c/docs/projects/deepseek-v4-1-flash.md",
+  "agent_context_url": "https://happyin.space/projects/deepseek-v4-1-flash/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-18",
+  "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+  "version": null,
+  "summary": "DeepSeek-V4.1-Flash-1017 is available as an MIT-licensed Hugging Face checkpoint, and DeepSeek says its web, app and API deployments now use the updated version."
+ },
+ "tags": [
+  "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+  "deepseek-v4-1-flash",
+  "diffusion-image",
+  "family:deepseek-v4-1-flash"
+ ],
+ "facets": {
+  "category": "diffusion-image",
+  "entry_type": "news",
+  "projects": [
+   "deepseek-v4-1-flash"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:12:06Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+   "host": "api-docs.deepseek.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:12:06Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://api-docs.deepseek.com/zh-cn/news/news261017/",
+   "host": "api-docs.deepseek.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:12:06Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+   "host": "deepseek.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:12:06Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8mq6f/deepseek_v41_flash_1017_vs_v41_flash_pi_vs/",
+   "host": "reddit.com",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-19T19:12:06Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-18",
+  "excerpt": "DeepSeek-V4.1-Flash-1017 is available as an MIT-licensed Hugging Face checkpoint, and DeepSeek says its web, app and API deployments now use the updated version."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-19T19:12:06Z",
+  "classified_at": "2026-10-19T19:12:06Z",
+  "enriched_at": "2026-10-19T19:12:06Z",
+  "verified_at": "2026-10-19T19:12:06Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}
