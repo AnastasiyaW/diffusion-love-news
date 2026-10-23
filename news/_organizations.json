@@ -171,6 +171,55 @@
       }
     ]
   },
+  "canva": {
+    "slug": "canva",
+    "display": "Canva",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 1,
+    "direct_post_count": 1,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "news_ids": [
+      "n-088aac8506"
+    ],
+    "direct_news_ids": [
+      "n-088aac8506"
+    ],
+    "development_threads": [
+      {
+        "slug": "canva-development",
+        "display": "Canva Development",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-088aac8506",
+        "news_ids": [
+          "n-088aac8506"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-088aac8506",
+        "date": "2026-10-22",
+        "title": "Canva releases Dream Lab and first in-house image generation model Craft",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Canva",
+          "canva",
+          "canva-development",
+          "diffusion-image",
+          "organization:canva"
+        ],
+        "primary_link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "deepseek": {
     "slug": "deepseek",
     "display": "DeepSeek product and AI-content governance",

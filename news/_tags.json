@@ -383,7 +383,8 @@
     "n-868a3aaeef"
   ],
   "Canva": [
-    "n-e1ca928d8e"
+    "n-e1ca928d8e",
+    "n-088aac8506"
   ],
   "CapCut Video Studio": [
     "n-28ff35cede"
@@ -4083,7 +4084,11 @@
     "n-868a3aaeef"
   ],
   "canva": [
-    "n-e1ca928d8e"
+    "n-e1ca928d8e",
+    "n-088aac8506"
+  ],
+  "canva-development": [
+    "n-088aac8506"
   ],
   "canva_magic_layers": [
     "n-e1ca928d8e"
@@ -5143,6 +5148,7 @@
     "n-1fef5a401b",
     "n-1b9a2f0f92",
     "n-10b1471000",
+    "n-088aac8506",
     "n-0646f210ee"
   ],
   "diffusion-video": [
@@ -13764,6 +13770,9 @@
   "organization:anthropic": [
     "n-15f28b9d26",
     "n-0fd23f1e2c"
+  ],
+  "organization:canva": [
+    "n-088aac8506"
   ],
   "organization:deepseek": [
     "n-aa7ac5b27f",
