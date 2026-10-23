@@ -627,6 +627,10 @@
   "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line": [
     "n-1b9a2f0f92"
   ],
+  "DeepSeek V4.1 Flash: deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
+  ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
   ],
@@ -4006,6 +4010,10 @@
   "deepseek-v4": [
     "n-bc5c88f85f"
   ],
+  "deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
+  ],
   "deepseek-v4-1-flash-1017": [
     "n-1b9a2f0f92"
   ],
@@ -4068,6 +4076,7 @@
     "n-e3fe618151",
     "n-d9eaebd61d",
     "n-cce36dc967",
+    "n-cca527d9ac",
     "n-ca390bf3b3",
     "n-c9e1e40a9c",
     "n-c78d87f531",
@@ -4894,6 +4903,10 @@
   ],
   "family:deepseek-tvp": [
     "n-2244c25f96"
+  ],
+  "family:deepseek-v4-1-flash": [
+    "n-cca527d9ac",
+    "n-93eeb937f1"
   ],
   "family:deepseek-v4-1-flash-1017": [
     "n-1b9a2f0f92"
@@ -9054,6 +9067,7 @@
     "n-960836273b",
     "n-9478ff9243",
     "n-944c22a8fe",
+    "n-93eeb937f1",
     "n-93c82cced4",
     "n-9371b417f8",
     "n-9358043c25",

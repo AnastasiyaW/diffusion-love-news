@@ -57,6 +57,24 @@
     "has_video": false
   },
   {
+    "id": "n-cca527d9ac",
+    "date": "2026-10-18",
+    "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+    "category": "diffusion-image",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+      "deepseek-v4-1-flash",
+      "diffusion-image",
+      "family:deepseek-v4-1-flash"
+    ],
+    "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-bb135c22d6",
     "date": "2026-10-18",
     "title": "Harness² supports OpenCode and Codex benchmark experiments",
@@ -72,6 +90,24 @@
       "misc"
     ],
     "primary_link": "https://github.com/google-research/harness2",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-93eeb937f1",
+    "date": "2026-10-18",
+    "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "deepseek-v4-1-flash",
+    "version": null,
+    "tags": [
+      "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+      "deepseek-v4-1-flash",
+      "family:deepseek-v4-1-flash",
+      "misc"
+    ],
+    "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
     "has_image": false,
     "has_video": false
   },

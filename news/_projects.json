@@ -19071,6 +19071,229 @@
     ],
     "claims": []
   },
+  "deepseek-v4-1-flash": {
+    "family_slug": "deepseek-v4-1-flash",
+    "family_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+    "family_display_variants": [
+      {
+        "family_display": "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "diffusion-image",
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-93eeb937f1",
+      "n-cca527d9ac"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-93eeb937f1",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      },
+      {
+        "version": null,
+        "date": "2026-10-18",
+        "news_id": "n-cca527d9ac",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "api-docs.deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-93eeb937f1",
+            "is_primary": true,
+            "verified_at": "2026-10-19T19:12:06Z"
+          },
+          {
+            "news_id": "n-cca527d9ac",
+            "is_primary": false,
+            "verified_at": "2026-10-19T19:12:06Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "is_primary": true,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-93eeb937f1",
+            "is_primary": false,
+            "verified_at": "2026-10-19T19:12:06Z"
+          },
+          {
+            "news_id": "n-cca527d9ac",
+            "is_primary": true,
+            "verified_at": "2026-10-19T19:12:06Z"
+          }
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "api-docs.deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://api-docs.deepseek.com/zh-cn/news/news261017/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "deepseek.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "reddit.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8mq6f/deepseek_v41_flash_1017_vs_v41_flash_pi_vs/",
+        "is_primary": false,
+        "verified_at": "2026-10-19T19:12:06Z",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "summary": "DeepSeek documents V4.1-Flash-1017 as the current target behind `deepseek-flash`; the API calling method and pricing remain unchanged.",
+        "version": null,
+        "news_id": "n-93eeb937f1",
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-18",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "summary": "DeepSeek-V4.1-Flash-1017 is available as an MIT-licensed Hugging Face checkpoint, and DeepSeek says its web, app and API deployments now use the updated version.",
+        "version": null,
+        "news_id": "n-cca527d9ac",
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-cca527d9ac",
+        "date": "2026-10-18",
+        "title": "DeepSeek publishes V4.1-Flash-1017 weights",
+        "category": "diffusion-image",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+          "deepseek-v4-1-flash",
+          "diffusion-image",
+          "family:deepseek-v4-1-flash"
+        ],
+        "primary_link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-93eeb937f1",
+        "date": "2026-10-18",
+        "title": "DeepSeek updates its Flash API model to V4.1-Flash-1017",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "deepseek-v4-1-flash",
+        "version": null,
+        "tags": [
+          "DeepSeek V4.1 Flash: deepseek-v4-1-flash",
+          "deepseek-v4-1-flash",
+          "family:deepseek-v4-1-flash",
+          "misc"
+        ],
+        "primary_link": "https://api-docs.deepseek.com/updates/?release=deepseek-coder",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "deepseek-v4-1-flash",
+        "display": "Deepseek V4 1 Flash",
+        "first_seen": "2026-10-18",
+        "last_seen": "2026-10-18",
+        "latest_news_id": "n-cca527d9ac",
+        "news_ids": [
+          "n-93eeb937f1",
+          "n-cca527d9ac"
+        ]
+      }
+    ]
+  },
   "deepseek-v4-1-flash-1017": {
     "family_slug": "deepseek-v4-1-flash-1017",
     "family_display": "DeepSeek V4.1 Flash 1017: deepseek-v4-1-flash-line",
