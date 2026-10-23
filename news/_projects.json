@@ -89402,7 +89402,7 @@
   },
   "tripo": {
     "family_slug": "tripo",
-    "family_display": "Tripo",
+    "family_display": "Tripo development",
     "family_display_variants": [
       {
         "family_display": "Tripo",
@@ -89410,6 +89410,14 @@
         "last_seen": "2026-06-23",
         "news_ids": [
           "n-f80e0da140"
+        ]
+      },
+      {
+        "family_display": "Tripo development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "news_ids": [
+          "n-3e5c539778"
         ]
       }
     ],
@@ -89419,15 +89427,17 @@
     "license": null,
     "base_model": null,
     "categories": [
+      "3d",
       "misc"
     ],
-    "post_count": 1,
+    "post_count": 2,
     "first_seen": "2026-06-23",
-    "last_seen": "2026-06-23",
+    "last_seen": "2026-10-17",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
-      "n-f80e0da140"
+      "n-f80e0da140",
+      "n-3e5c539778"
     ],
     "versions_timeline": [
       {
@@ -89436,6 +89446,13 @@
         "news_id": "n-f80e0da140",
         "title": "Tripo May product update",
         "primary_link": "https://www.tripo3d.ai/blog/may-update-on-tripo"
+      },
+      {
+        "version": null,
+        "date": "2026-10-17",
+        "news_id": "n-3e5c539778",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "primary_link": "https://customuse.com/"
       }
     ],
     "features": [],
@@ -89450,6 +89467,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "reference",
+        "host": "customuse.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://customuse.com/",
+        "is_primary": true,
+        "verified_at": "2026-10-19T16:23:35Z",
+        "news_ids": [
+          "n-3e5c539778"
+        ]
+      },
       {
         "kind": "reference",
         "host": "tripo3d.ai",
@@ -89472,9 +89501,38 @@
         "version": null,
         "news_id": "n-f80e0da140",
         "primary_link": "https://www.tripo3d.ai/blog/may-update-on-tripo"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "summary": "Tripo opened early access to automated UV unwrapping and retopology tools, integrating low-poly mesh conversion and UV layout generation directly into its 3D modeling workflow.",
+        "version": null,
+        "news_id": "n-3e5c539778",
+        "primary_link": "https://customuse.com/"
       }
     ],
     "related_news": [
+      {
+        "id": "n-3e5c539778",
+        "date": "2026-10-17",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "category": "3d",
+        "entry_type": "news",
+        "project": "tripo",
+        "version": null,
+        "tags": [
+          "3d",
+          "Tripo development",
+          "family:tripo",
+          "tools-frontend",
+          "tripo",
+          "tripo-development"
+        ],
+        "primary_link": "https://customuse.com/",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-f80e0da140",
         "date": "2026-06-23",
@@ -89495,7 +89553,19 @@
         "has_video": false
       }
     ],
-    "claims": []
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "tripo-development",
+        "display": "Tripo Development",
+        "first_seen": "2026-10-17",
+        "last_seen": "2026-10-17",
+        "latest_news_id": "n-3e5c539778",
+        "news_ids": [
+          "n-3e5c539778"
+        ]
+      }
+    ]
   },
   "triposplat": {
     "family_slug": "triposplat",

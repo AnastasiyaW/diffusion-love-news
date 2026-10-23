@@ -2,7 +2,7 @@
   "schema_version": "1.4",
   "generated_at": "2026-10-23T08:10:23Z",
   "site": "diffusion.love",
-  "total": 931,
+  "total": 932,
   "records": [
     {
       "schema_version": "1.4",
@@ -986,6 +986,112 @@
         "classified_at": "2026-10-18T11:38:56Z",
         "enriched_at": "2026-10-18T11:38:56Z",
         "verified_at": "2026-10-18T11:38:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-3e5c539778",
+      "entry_type": "news",
+      "category": "3d",
+      "lang": "en",
+      "title": "Tripo launches early access to UV unwrap and retopology",
+      "summary": "Tripo opened early access to automated UV unwrapping and retopology tools, integrating low-poly mesh conversion and UV layout generation directly into its 3D modeling workflow.",
+      "research_notes": "Generate a 3D asset from a text description or 2D image prompt within Tripo.\n\nExecute automated retopology to convert the dense generated mesh into an optimized quad or triangle structure with user-defined polygon limits.\n\nApply automated UV unwrapping to calculate seams, pack 2D UV islands, and rebake texture maps onto the unwrapped mesh.\n\nExport the optimized asset in FBX, OBJ, or USD format for integration into game engines or digital content creation tools.\n\nDefine target polygon count limits before triggering retopology to align asset density directly with engine performance budgets.\n\nInspect the generated 2D UV island layout and seam positions across high-curvature areas before baking final texture maps.",
+      "project": {
+        "name": "Tripo development",
+        "family_slug": "tripo",
+        "family_display": "Tripo development",
+        "model_slug": "tripo",
+        "model_display": "Tripo development",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "tripo-development",
+        "thread_display": "Tripo Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Tripo development",
+        "article_url": "https://happyin.space/projects/tripo/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/772b8b81971a9a4721c94f8925b9125c778111aa/docs/projects/tripo.md",
+        "agent_context_url": "https://happyin.space/projects/tripo/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-17",
+        "title": "Tripo launches early access to UV unwrap and retopology",
+        "version": null,
+        "summary": "Tripo opened early access to automated UV unwrapping and retopology tools, integrating low-poly mesh conversion and UV layout generation directly into its 3D modeling workflow."
+      },
+      "tags": [
+        "3d",
+        "Tripo development",
+        "family:tripo",
+        "tools-frontend",
+        "tripo",
+        "tripo-development"
+      ],
+      "facets": {
+        "category": "3d",
+        "entry_type": "news",
+        "projects": [
+          "tripo"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://customuse.com/",
+          "host": "customuse.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-19T16:23:35Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-17",
+        "excerpt": "Tripo opened early access to automated UV unwrapping and retopology tools, integrating low-poly mesh conversion and UV layout generation directly into its 3D modeling workflow."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-19T16:23:35Z",
+        "classified_at": "2026-10-19T16:23:35Z",
+        "enriched_at": "2026-10-19T16:23:35Z",
+        "verified_at": "2026-10-19T16:23:35Z",
         "models_used": {
           "research": "curated-live-material"
         },

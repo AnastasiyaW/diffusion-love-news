@@ -152,6 +152,26 @@
     "has_video": false
   },
   {
+    "id": "n-3e5c539778",
+    "date": "2026-10-17",
+    "title": "Tripo launches early access to UV unwrap and retopology",
+    "category": "3d",
+    "entry_type": "news",
+    "project": "tripo",
+    "version": null,
+    "tags": [
+      "3d",
+      "Tripo development",
+      "family:tripo",
+      "tools-frontend",
+      "tripo",
+      "tripo-development"
+    ],
+    "primary_link": "https://customuse.com/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-8dc4648cdc",
     "date": "2026-09-26",
     "title": "Dodo Pizza: public store revenue dashboard",
