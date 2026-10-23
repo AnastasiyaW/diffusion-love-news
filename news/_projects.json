@@ -41474,6 +41474,156 @@
     ],
     "claims": []
   },
+  "karpathy-output-style": {
+    "family_slug": "karpathy-output-style",
+    "family_display": "Karpathy Output Style: karpathy-output-style-visual-explanations",
+    "family_display_variants": [
+      {
+        "family_display": "Karpathy Output Style: karpathy-output-style-visual-explanations",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "news_ids": [
+          "n-31b3b17c7b",
+          "n-8f82aff737"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "llm",
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-31b3b17c7b",
+      "n-8f82aff737"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-31b3b17c7b",
+        "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style"
+      },
+      {
+        "version": null,
+        "date": "2026-10-22",
+        "news_id": "n-8f82aff737",
+        "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/ashryaagr/karpathy-output-style",
+        "is_primary": true,
+        "verified_at": "2026-10-23T09:20:56Z",
+        "news_ids": [
+          "n-31b3b17c7b",
+          "n-8f82aff737"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",
+        "summary": "The karpathy-output-style project defines an execution workflow that guides AI models to select simplified technical English, structural diagrams, interactive HTML, or code-driven explainer videos to clarify complex technical concepts.",
+        "version": null,
+        "news_id": "n-31b3b17c7b",
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
+        "summary": "The open-source karpathy-output-style repository packages Andrej Karpathy's visual explanation hierarchy into reusable agent skills, enabling coding assistants to produce Excalidraw diagrams, interactive single-file HTML pages, and narrated video animations instead of standard text.",
+        "version": null,
+        "news_id": "n-8f82aff737",
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-8f82aff737",
+        "date": "2026-10-22",
+        "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "karpathy-output-style",
+        "version": null,
+        "tags": [
+          "Karpathy Output Style: karpathy-output-style-visual-explanations",
+          "family:karpathy-output-style",
+          "karpathy-output-style",
+          "karpathy-output-style-visual-explanations",
+          "misc"
+        ],
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-31b3b17c7b",
+        "date": "2026-10-22",
+        "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",
+        "category": "llm",
+        "entry_type": "news",
+        "project": "karpathy-output-style",
+        "version": null,
+        "tags": [
+          "Karpathy Output Style: karpathy-output-style-visual-explanations",
+          "family:karpathy-output-style",
+          "karpathy-output-style",
+          "karpathy-output-style-visual-explanations",
+          "llm",
+          "tools-frontend"
+        ],
+        "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "karpathy-output-style-visual-explanations",
+        "display": "Karpathy Output Style Visual Explanations",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-8f82aff737",
+        "news_ids": [
+          "n-31b3b17c7b",
+          "n-8f82aff737"
+        ]
+      }
+    ]
+  },
   "karpathytalk": {
     "family_slug": "karpathytalk",
     "family_display": "KarpathyTalk",

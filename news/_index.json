@@ -19,6 +19,45 @@
     "has_video": false
   },
   {
+    "id": "n-8f82aff737",
+    "date": "2026-10-22",
+    "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "karpathy-output-style",
+    "version": null,
+    "tags": [
+      "Karpathy Output Style: karpathy-output-style-visual-explanations",
+      "family:karpathy-output-style",
+      "karpathy-output-style",
+      "karpathy-output-style-visual-explanations",
+      "misc"
+    ],
+    "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-31b3b17c7b",
+    "date": "2026-10-22",
+    "title": "karpathy-output-style structures multi-format LLM explanations for developer workflows",
+    "category": "llm",
+    "entry_type": "news",
+    "project": "karpathy-output-style",
+    "version": null,
+    "tags": [
+      "Karpathy Output Style: karpathy-output-style-visual-explanations",
+      "family:karpathy-output-style",
+      "karpathy-output-style",
+      "karpathy-output-style-visual-explanations",
+      "llm",
+      "tools-frontend"
+    ],
+    "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-12dc9deafa",
     "date": "2026-10-22",
     "title": "Shanghai AI Lab releases open-weight Sage-A1.5 agentic model",

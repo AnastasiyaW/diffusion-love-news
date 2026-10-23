@@ -1231,6 +1231,10 @@
   "KVarN": [
     "n-ec4e396a59"
   ],
+  "Karpathy Output Style: karpathy-output-style-visual-explanations": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
   "KarpathyTalk": [
     "n-289ba243a5"
   ],
@@ -5460,6 +5464,10 @@
   "family:joyai-vl-interaction": [
     "n-6c34648459"
   ],
+  "family:karpathy-output-style": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
   "family:karpathytalk": [
     "n-289ba243a5"
   ],
@@ -8081,6 +8089,14 @@
   "joyai_video_edit": [
     "n-4cb69e9202"
   ],
+  "karpathy-output-style": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
+  "karpathy-output-style-visual-explanations": [
+    "n-8f82aff737",
+    "n-31b3b17c7b"
+  ],
   "karpathytalk": [
     "n-289ba243a5"
   ],
@@ -8348,6 +8364,7 @@
     "n-44c547a245",
     "n-3ef8391496",
     "n-367db0be8e",
+    "n-31b3b17c7b",
     "n-2f8c6f34f0",
     "n-2dbef67328",
     "n-2bdd41c2da",
@@ -9076,6 +9093,7 @@
     "n-9358043c25",
     "n-920abfb1e3",
     "n-901220b5b4",
+    "n-8f82aff737",
     "n-8f2e77690e",
     "n-8ec65997d5",
     "n-8e75dd0767",
@@ -11529,6 +11547,7 @@
     "n-39f773b51f",
     "n-3354f12396",
     "n-332335c756",
+    "n-31b3b17c7b",
     "n-2ff0f435cc",
     "n-2d6650cee4",
     "n-269dacc1a7",
