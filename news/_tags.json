@@ -740,6 +740,10 @@
     "n-cca527d9ac",
     "n-93eeb937f1"
   ],
+  "DeepSeek product and AI-content governance": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
+  ],
   "DeepSeek-V4": [
     "n-bc5c88f85f"
   ],
@@ -3259,7 +3263,8 @@
     "n-4621bd0727"
   ],
   "Voice Platform Development": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "Volumography": [
     "n-ef5357108f"
@@ -5017,8 +5022,14 @@
   "deepseek": [
     "n-bc5c88f85f",
     "n-abed76ad0f",
+    "n-aa7ac5b27f",
     "n-81d37c3b10",
-    "n-43a9873e24"
+    "n-43a9873e24",
+    "n-28ab3dac33"
+  ],
+  "deepseek-product-and-governance": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
   ],
   "deepseek-tvp": [
     "n-2244c25f96"
@@ -5165,6 +5176,7 @@
     "n-4bbad7fe81",
     "n-49e8a26e33",
     "n-492f7ebf1e",
+    "n-3efd45843c",
     "n-3ae3ddb34b",
     "n-396cd4f7c0",
     "n-3904aeff63",
@@ -5406,7 +5418,8 @@
   ],
   "elevenlabs": [
     "n-f5dbfdb346",
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "embeddings": [
     "n-1ee49081d2"
@@ -11313,6 +11326,7 @@
     "n-abed76ad0f",
     "n-ab593e345a",
     "n-ab3713a0b5",
+    "n-aa7ac5b27f",
     "n-a99ab8a6eb",
     "n-a98d10bce2",
     "n-a95c499131",
@@ -11792,6 +11806,7 @@
     "n-29037afbf8",
     "n-29022e4fd2",
     "n-28ff35cede",
+    "n-28ab3dac33",
     "n-289ba243a5",
     "n-288cee31b2",
     "n-286154962f",
@@ -13722,11 +13737,16 @@
     "n-15f28b9d26",
     "n-0fd23f1e2c"
   ],
+  "organization:deepseek": [
+    "n-aa7ac5b27f",
+    "n-28ab3dac33"
+  ],
   "organization:dodo-pizza": [
     "n-8dc4648cdc"
   ],
   "organization:elevenlabs": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "organization:happyin": [
     "n-001a2f8ef9"
@@ -15520,7 +15540,8 @@
     "n-0124eabefd"
   ],
   "voice-platform-development": [
-    "n-66869cc4a0"
+    "n-66869cc4a0",
+    "n-3efd45843c"
   ],
   "void": [
     "n-83af6888de",

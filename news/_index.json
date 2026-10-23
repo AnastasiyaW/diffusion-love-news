@@ -38,6 +38,25 @@
     "has_video": false
   },
   {
+    "id": "n-aa7ac5b27f",
+    "date": "2026-10-22",
+    "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "DeepSeek product and AI-content governance",
+      "deepseek",
+      "deepseek-product-and-governance",
+      "misc",
+      "organization:deepseek"
+    ],
+    "primary_link": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-8f82aff737",
     "date": "2026-10-22",
     "title": "Open-source karpathy-output-style implements visual output ladder for AI agents",
@@ -53,6 +72,25 @@
       "misc"
     ],
     "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-3efd45843c",
+    "date": "2026-10-22",
+    "title": "ElevenLabs integrates Chimera AI character system into ElevenCreative",
+    "category": "diffusion-video",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "Voice Platform Development",
+      "diffusion-video",
+      "elevenlabs",
+      "organization:elevenlabs",
+      "voice-platform-development"
+    ],
+    "primary_link": "https://elevenlabs.io/creative",
     "has_image": false,
     "has_video": false
   },
@@ -73,6 +111,25 @@
       "tools-frontend"
     ],
     "primary_link": "https://github.com/ashryaagr/karpathy-output-style",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-28ab3dac33",
+    "date": "2026-10-22",
+    "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+    "category": "misc",
+    "entry_type": "news",
+    "project": null,
+    "version": null,
+    "tags": [
+      "DeepSeek product and AI-content governance",
+      "deepseek",
+      "deepseek-product-and-governance",
+      "misc",
+      "organization:deepseek"
+    ],
+    "primary_link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
     "has_image": false,
     "has_video": false
   },

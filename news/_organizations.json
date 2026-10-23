@@ -171,6 +171,77 @@
       }
     ]
   },
+  "deepseek": {
+    "slug": "deepseek",
+    "display": "DeepSeek product and AI-content governance",
+    "homepage": null,
+    "project_slugs": [],
+    "post_count": 2,
+    "direct_post_count": 2,
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "news_ids": [
+      "n-28ab3dac33",
+      "n-aa7ac5b27f"
+    ],
+    "direct_news_ids": [
+      "n-28ab3dac33",
+      "n-aa7ac5b27f"
+    ],
+    "development_threads": [
+      {
+        "slug": "deepseek-product-and-governance",
+        "display": "Deepseek Product And Governance",
+        "first_seen": "2026-10-22",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-aa7ac5b27f",
+        "news_ids": [
+          "n-28ab3dac33",
+          "n-aa7ac5b27f"
+        ]
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-aa7ac5b27f",
+        "date": "2026-10-22",
+        "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "DeepSeek product and AI-content governance",
+          "deepseek",
+          "deepseek-product-and-governance",
+          "misc",
+          "organization:deepseek"
+        ],
+        "primary_link": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-28ab3dac33",
+        "date": "2026-10-22",
+        "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+        "category": "misc",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "DeepSeek product and AI-content governance",
+          "deepseek",
+          "deepseek-product-and-governance",
+          "misc",
+          "organization:deepseek"
+        ],
+        "primary_link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+        "has_image": false,
+        "has_video": false
+      }
+    ]
+  },
   "dodo-pizza": {
     "slug": "dodo-pizza",
     "display": "Dodo Pizza: revenue-dashboard",
@@ -225,29 +296,51 @@
     "display": "Voice Platform Development",
     "homepage": null,
     "project_slugs": [],
-    "post_count": 1,
-    "direct_post_count": 1,
+    "post_count": 2,
+    "direct_post_count": 2,
     "first_seen": "2026-10-17",
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-22",
     "news_ids": [
-      "n-66869cc4a0"
+      "n-66869cc4a0",
+      "n-3efd45843c"
     ],
     "direct_news_ids": [
-      "n-66869cc4a0"
+      "n-66869cc4a0",
+      "n-3efd45843c"
     ],
     "development_threads": [
       {
         "slug": "voice-platform-development",
         "display": "Voice Platform Development",
         "first_seen": "2026-10-17",
-        "last_seen": "2026-10-17",
-        "latest_news_id": "n-66869cc4a0",
+        "last_seen": "2026-10-22",
+        "latest_news_id": "n-3efd45843c",
         "news_ids": [
-          "n-66869cc4a0"
+          "n-66869cc4a0",
+          "n-3efd45843c"
         ]
       }
     ],
     "related_news": [
+      {
+        "id": "n-3efd45843c",
+        "date": "2026-10-22",
+        "title": "ElevenLabs integrates Chimera AI character system into ElevenCreative",
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "project": null,
+        "version": null,
+        "tags": [
+          "Voice Platform Development",
+          "diffusion-video",
+          "elevenlabs",
+          "organization:elevenlabs",
+          "voice-platform-development"
+        ],
+        "primary_link": "https://elevenlabs.io/creative",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-66869cc4a0",
         "date": "2026-10-17",

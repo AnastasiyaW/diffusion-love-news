@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T09:33:08Z",
+  "generated_at": "2026-10-23T14:56:13Z",
   "site": "diffusion.love",
-  "total": 1300,
+  "total": 1303,
   "records": [
     {
       "schema_version": "1.4",
@@ -216,6 +216,124 @@
     },
     {
       "schema_version": "1.4",
+      "id": "n-aa7ac5b27f",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+      "summary": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs.",
+      "research_notes": "Review regional regulatory boundaries and federal compliance directives before integrating DeepSeek API or model weights into institutional workflows.\n\nProvision commercial API access or private compute clusters backed by independent infrastructure to maintain operational continuity.\n\nIsolate deployment pipelines of Chinese-headquartered model providers from federal and regulated Western data environments to comply with public procurement restrictions.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "deepseek",
+        "display": "DeepSeek product and AI-content governance",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "deepseek-product-and-governance",
+        "thread_display": "Deepseek Product And Governance",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "DeepSeek product and AI-content governance",
+        "article_url": "https://happyin.space/organizations/deepseek/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/54da66f815e6f5066f0dbcd38c6888787ae3f39d/docs/organizations/deepseek.md",
+        "agent_context_url": "https://happyin.space/organizations/deepseek/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "DeepSeek secures $15 billion round at $100 billion valuation",
+        "version": null,
+        "summary": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs."
+      },
+      "tags": [
+        "DeepSeek product and AI-content governance",
+        "deepseek",
+        "deepseek-product-and-governance",
+        "misc",
+        "organization:deepseek"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "deepseek"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+          "host": "bloomberg.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "host": "techcrunch.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "DeepSeek reportedly closed a $15 billion financing round at an estimated $100 billion valuation, allocating capital to compute expansion and next-generation model training to rival US frontier labs."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T14:21:16Z",
+        "classified_at": "2026-10-23T14:21:16Z",
+        "enriched_at": "2026-10-23T14:21:16Z",
+        "verified_at": "2026-10-23T14:21:16Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
       "id": "n-8f82aff737",
       "entry_type": "news",
       "category": "misc",
@@ -313,6 +431,124 @@
         "classified_at": "2026-10-23T09:20:56Z",
         "enriched_at": "2026-10-23T09:20:56Z",
         "verified_at": "2026-10-23T09:20:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-3efd45843c",
+      "entry_type": "news",
+      "category": "diffusion-video",
+      "lang": "en",
+      "title": "ElevenLabs integrates Chimera AI character system into ElevenCreative",
+      "summary": "ElevenLabs introduced Chimera, pairing its Eleven v4 emotive speech engine with the Seedance 2.5 video generation model to produce synchronized talking characters directly from text scripts, emotion tags, and reference images.",
+      "research_notes": "Open the ElevenCreative interface and select the character generation studio.\n\nUpload a character reference image or generate a visual subject using a text prompt.\n\nSelect an Eleven v4 voice or assign a cloned voice profile to the character.\n\nInput dialogue in the script editor and insert bracketed emotion tags such as [whispers] or [laughs] to guide vocal delivery and facial expression.\n\nRender the generation pass to export the lip-synced character video.\n\nPlace emotion tags immediately before the target sentence or word to ensure the speech model and video generator align the corresponding facial expression with the vocal tone.\n\nUse high-resolution, forward-facing reference portraits with clear facial features to avoid lip-sync distortion during complex emotional deliveries.\n\nKeep individual dialogue segments concise to maintain facial consistency and prevent drift across extended video rendering passes.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "elevenlabs",
+        "display": "Voice Platform Development",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "voice-platform-development",
+        "thread_display": "Voice Platform Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Voice Platform Development",
+        "article_url": "https://happyin.space/organizations/elevenlabs/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/39f63047354a0b5d9b198420ae09fbb01141c318/docs/organizations/elevenlabs.md",
+        "agent_context_url": "https://happyin.space/organizations/elevenlabs/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "ElevenLabs integrates Chimera AI character system into ElevenCreative",
+        "version": null,
+        "summary": "ElevenLabs introduced Chimera, pairing its Eleven v4 emotive speech engine with the Seedance 2.5 video generation model to produce synchronized talking characters directly from text scripts, emotion tags, and reference images."
+      },
+      "tags": [
+        "Voice Platform Development",
+        "diffusion-video",
+        "elevenlabs",
+        "organization:elevenlabs",
+        "voice-platform-development"
+      ],
+      "facets": {
+        "category": "diffusion-video",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "elevenlabs"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://elevenlabs.io/creative",
+          "host": "elevenlabs.io",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:56:13Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://dailyprompts.ru/",
+          "host": "dailyprompts.ru",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:56:13Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "ElevenLabs introduced Chimera, pairing its Eleven v4 emotive speech engine with the Seedance 2.5 video generation model to produce synchronized talking characters directly from text scripts, emotion tags, and reference images."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T14:56:13Z",
+        "classified_at": "2026-10-23T14:56:13Z",
+        "enriched_at": "2026-10-23T14:56:13Z",
+        "verified_at": "2026-10-23T14:56:13Z",
         "models_used": {
           "research": "curated-live-material"
         },
@@ -419,6 +655,124 @@
         "classified_at": "2026-10-23T09:20:56Z",
         "enriched_at": "2026-10-23T09:20:56Z",
         "verified_at": "2026-10-23T09:20:56Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-28ab3dac33",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+      "summary": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations.",
+      "research_notes": "Review regional regulatory boundaries and federal compliance directives before integrating DeepSeek API or model weights into institutional workflows.\n\nProvision commercial API access or private compute clusters backed by independent infrastructure to maintain operational continuity.\n\nIsolate deployment pipelines of Chinese-headquartered model providers from federal and regulated Western data environments to comply with public procurement restrictions.",
+      "project": {
+        "name": null,
+        "family_slug": null,
+        "family_display": null,
+        "model_slug": null,
+        "model_display": null,
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": {
+        "slug": "deepseek",
+        "display": "DeepSeek product and AI-content governance",
+        "homepage": null
+      },
+      "development": {
+        "scope": "organization",
+        "thread_slug": "deepseek-product-and-governance",
+        "thread_display": "Deepseek Product And Governance",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "DeepSeek product and AI-content governance",
+        "article_url": "https://happyin.space/organizations/deepseek/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/54da66f815e6f5066f0dbcd38c6888787ae3f39d/docs/organizations/deepseek.md",
+        "agent_context_url": "https://happyin.space/organizations/deepseek/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-22",
+        "title": "DeepSeek raises $15 billion following US federal deployment restrictions",
+        "version": null,
+        "summary": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations."
+      },
+      "tags": [
+        "DeepSeek product and AI-content governance",
+        "deepseek",
+        "deepseek-product-and-governance",
+        "misc",
+        "organization:deepseek"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [
+          "deepseek"
+        ],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "reference",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "host": "techcrunch.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        },
+        {
+          "kind": "reference",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+          "host": "bloomberg.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-23T14:21:16Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-22",
+        "excerpt": "DeepSeek raised $15 billion shortly after US federal civilian agencies were ordered to discontinue use of its models over national security considerations."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-23T14:21:16Z",
+        "classified_at": "2026-10-23T14:21:16Z",
+        "enriched_at": "2026-10-23T14:21:16Z",
+        "verified_at": "2026-10-23T14:21:16Z",
         "models_used": {
           "research": "curated-live-material"
         },
