@@ -1,0 +1,11 @@
+{
+ "id": "n-a3aa871dfa",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживает бесплатные GPU T4 в Google Colab для моделей Gemma 4 E2B и E4B.",
+ "source_sha256": "legacy",
+ "summary": "Сильно оптимизированный фреймворк для дообучения семейства Gemma 4 от Google на пользовательских GPU и в Google Colab. Обеспечивает в 2x более быстрое обучение и на 70% меньшее потребление VRAM за счёт специализированных ядер.",
+ "title": "Unsloth Studio для дообучения Gemma 4 в Colab",
+ "translated_at": null,
+ "translation": "machine"
+}

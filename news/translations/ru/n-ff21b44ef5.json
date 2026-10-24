@@ -1,0 +1,11 @@
+{
+ "id": "n-ff21b44ef5",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Двойное лицензирование под Apache-2.0 и MIT. Следует модели «Bring Your Own Key» и имеет уникальную систему «Skills are files» для расширения возможностей агента через Markdown.",
+ "source_sha256": "legacy",
+ "summary": "Open Design — local-first генератор дизайн-артефактов, интегрирующийся с несколькими CLI кодинг-агентов и предлагающий open-source альтернативу Claude Design. Использует архитектуру на основе скиллов и поддерживает офлайн-генерацию, сканируя систему пользователя на наличие доступных AI-агентов.",
+ "title": "Open Design: local-first open-source движок AI-дизайна",
+ "translated_at": null,
+ "translation": "machine"
+}

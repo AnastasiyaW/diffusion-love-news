@@ -1,0 +1,11 @@
+{
+ "id": "n-3ef8391496",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Дообучена из GLiNER2-base-v1; лицензия Apache 2.0; оптимизирована под CPU-first и edge-развёртывание; достигает 87.7 F1 на бенчмарках безопасности.",
+ "source_sha256": "legacy",
+ "summary": "GLiGuard — открытая энкодерная модель на 300M параметров для высокопроизводительной модерации безопасности LLM. Служит быстрой и эффективной альтернативой крупным decoder-only моделям-фильтрам вроде LlamaGuard.",
+ "title": "GLiGuard: компактная модель для модерации безопасности LLM",
+ "translated_at": null,
+ "translation": "machine"
+}

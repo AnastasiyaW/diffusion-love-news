@@ -1,0 +1,11 @@
+{
+ "id": "n-1cfc0e728d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует гибридный Mamba-Transformer backbone с 30B общих и 3B активных параметров на токен.",
+ "source_sha256": "legacy",
+ "summary": "Унифицированная мультимодальная Mixture-of-Experts модель, нативно обрабатывающая текст, изображения, видео и аудио в едином reasoning-цикле. Имеет контекстное окно 256k и оптимизирована под агентное управление компьютером и высокоэффективный анализ документов.",
+ "title": "NVIDIA Nemotron-3-Nano-Omni-30B-A3B",
+ "translated_at": null,
+ "translation": "machine"
+}

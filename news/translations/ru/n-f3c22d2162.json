@@ -1,0 +1,11 @@
+{
+ "id": "n-f3c22d2162",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Позиционируется как основной референс для Gemma 4 на iOS из-за задержки официальной поддержки платформы в Google AI Edge Gallery; для оптимальной производительности требуется iPhone 15 Pro или новее.",
+ "source_sha256": "legacy",
+ "summary": "Open-source приложение для iOS, запускающее модели Gemma 4 локально с помощью LiteRT-LM и Metal-ускорения для офлайн-инференса. Поддерживает мультимодальное зрение, агентное использование инструментов с нативными iOS-приложениями и оптимизированный speculative decoding.",
+ "title": "PhoneClaw: локальный on-device агент Gemma 4 для iOS",
+ "translated_at": null,
+ "translation": "machine"
+}

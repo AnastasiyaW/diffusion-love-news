@@ -1,0 +1,11 @@
+{
+ "id": "n-9e0a0fba7f",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Принято на SIGGRAPH 2026; для актуальных моделей инференса требуется окружение TRELLIS.2.",
+ "source_sha256": "legacy",
+ "summary": "Передовой фреймворк от Tencent ARC Lab, генерирующий высококачественные 3D-модели с PBR-текстурами из одиночных изображений с помощью схемы pixel-aligned обратного проецирования. Достигает качества, близкого к реконструкции, напрямую поднимая 2D-признаки в 3D-пространство.",
+ "title": "Pixal3D: pixel-aligned генерация 3D от Tencent",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-60f7bb3300",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Создана Николя Диолезом (Nicolas Diolez) из более чем 300 фотографий NASA, обработанных через RealityScan и LichtFeld Studio; размещена на PlayCanvas SuperSplat.",
+ "source_sha256": "legacy",
+ "summary": "Высококачественная реконструкция лунной поверхности методом 3D Gaussian Splatting на основе снимков миссии NASA Artemis II. Предоставляет интерактивную детальную 3D-визуализацию, демонстрирующую потенциал нейронного рендеринга для планетологии.",
+ "title": "Реконструкция поверхности Луны через 3DGS (NASA Artemis II)",
+ "translated_at": null,
+ "translation": "machine"
+}

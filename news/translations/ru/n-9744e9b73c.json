@@ -1,0 +1,11 @@
+{
+ "id": "n-9744e9b73c",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Для оптимальных результатов требует текстовый энкодер Qwen 2.5 VL и определённый VAE; по соотношению скорость/качество значительно превосходит традиционные детейлеры SDXL.",
+ "source_sha256": "legacy",
+ "summary": "Высокопроизводительный ComfyUI workflow, оптимизированный для улучшения лиц с помощью модели Z-Image Turbo 6B DiT от Alibaba. Использует точный пайплайн crop-and-inpainting с YOLOv8 и SAM, обеспечивая высокодетализированную текстуру кожи всего за 8-10 шагов.",
+ "title": "Workflow детейлинга лиц для Z-Image Turbo",
+ "translated_at": null,
+ "translation": "machine"
+}

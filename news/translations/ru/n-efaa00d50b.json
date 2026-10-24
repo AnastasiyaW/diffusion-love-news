@@ -1,0 +1,11 @@
+{
+ "id": "n-efaa00d50b",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует прогрессивную систему навыков, подгружая специализированные инструкции для конкретных фреймворков вроде Next.js только когда это уместно.",
+ "source_sha256": "legacy",
+ "summary": "Open-source самохостируемый AI-ассистент для код-ревью, выполняющий анализ pull request'ов по запросу и автоматические исправления. Использует Claude 3.5 Sonnet и Vercel Workflow для выполнения ревью в песочнице, что позволяет запускать линтеры и тесты.",
+ "title": "OpenReview: AI-бот для код-ревью от Vercel Labs",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-637b9d18ed",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Устраняет необходимость во внешних reward-моделях, используя собственные in-context способности диффузионной модели в роли её же учителя во время обучения.",
+ "source_sha256": "legacy",
+ "summary": "Парадигма обучения от Alibaba для непрерывного дообучения эффективных few-step диффузионных моделей вроде Z-Image-Turbo. Использует on-policy self-distillation для адаптации стиля и концептов без потери скорости и качества генерации.",
+ "title": "D-OPSD: непрерывное дообучение step-distilled диффузионных моделей",
+ "translated_at": null,
+ "translation": "machine"
+}

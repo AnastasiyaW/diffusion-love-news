@@ -1,0 +1,11 @@
+{
+ "id": "n-af1e479850",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает инсталлятор с учётом VRAM и специализированные ноды для генерации side-by-side (SBS) 3D-глубины.",
+ "source_sha256": "legacy",
+ "summary": "Набор нод ComfyUI для создания иммерсивных VR-панорам путём outpainting обычного видеоконтента. Использует LTX-Video 2.3 для панорамного расширения и поддерживает проекции VR180, 360 equirectangular и fisheye.",
+ "title": "Muffins Flat 2: ноды ComfyUI для VR-панорам",
+ "translated_at": null,
+ "translation": "machine"
+}

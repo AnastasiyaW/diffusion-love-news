@@ -1,0 +1,11 @@
+{
+ "id": "n-d7c3a5e60e",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Репозиторий shivampkumar/trellis-mac портирует модель на Apple Silicon с использованием бэкенда MPS, хотя некоторые CUDA-специфичные функции вроде запекания текстур ограничены.",
+ "source_sha256": "legacy",
+ "summary": "Foundation-модель на 4B параметров для генерации детализированных 3D-ассетов с PBR-материалами из изображений или текста. Использует представление Omni-Voxel для работы с произвольной топологией и сложной геометрией поверхностей.",
+ "title": "TRELLIS.2: высококачественная 3D-генерация на Mac",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-02e0b8ae6c",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает интеграцию с контекстным меню Проводника Windows и позволяет напрямую экспортировать JSON-воркфлоу ComfyUI.",
+ "source_sha256": "legacy",
+ "summary": "Портативная утилита для Windows, предназначенная для извлечения и просмотра метаданных генерации, включая промпты и сиды, из сгенерированных ИИ изображений и видео без открытия софта генерации.",
+ "title": "AI Metadata Inspector — просмотрщик метаданных для Windows",
+ "translated_at": null,
+ "translation": "machine"
+}

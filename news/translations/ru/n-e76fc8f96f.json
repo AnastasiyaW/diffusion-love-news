@@ -1,0 +1,11 @@
+{
+ "id": "n-e76fc8f96f",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует 32x DC-AE компрессию и Linear Attention для эффективности при малом VRAM; лицензирована под Apache 2.0 с января 2025 года.",
+ "source_sha256": "legacy",
+ "summary": "Высокоэффективная видеомодель от NVIDIA, использующая Linear Diffusion Transformers и Deep Compression Autoencoders. Она производит видео 720p со значительно сниженными требованиями к VRAM по сравнению с традиционными моделями с квадратичным attention.",
+ "title": "SANA-Video: эффективный синтез и апскейл видео 720p",
+ "translated_at": null,
+ "translation": "machine"
+}

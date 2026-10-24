@@ -1,0 +1,11 @@
+{
+ "id": "n-596ffa06da",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает гибридную архитектуру с LM-планировщиком для структуры песни и DiT-исполнителем для аудио. Поддерживает более 50 языков и коммерческое использование под Apache-2.0/MIT.",
+ "source_sha256": "legacy",
+ "summary": "Open-source музыкальная foundation-модель на 4B параметров (Diffusion Transformer, DiT), разработанная ACE Studio и StepFun. Она использует архитектуру planner-executor для генерации полноразмерных песен высокой точности из текста или текста песни.",
+ "title": "ACE-Step 1.5 XL",
+ "translated_at": null,
+ "translation": "machine"
+}

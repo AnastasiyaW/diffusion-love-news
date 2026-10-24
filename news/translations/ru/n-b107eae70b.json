@@ -1,0 +1,11 @@
+{
+ "id": "n-b107eae70b",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан KAIST AI и NAVER Cloud; использует ASR-ансамбль Mixture of Experts на основе моделей Whisper, Parakeet и Canary.",
+ "source_sha256": "legacy",
+ "summary": "Open-source модульный пайплайн, предназначенный для превращения сырого разговорного аудио в качественные обучающие данные для full-duplex речевых языковых моделей. Он объединяет диаризацию говорящих, ASR Mixture of Experts и удаление фонового шума, сохраняя естественную динамику диалога.",
+ "title": "Sommelier: open-source пайплайн обработки аудио",
+ "translated_at": null,
+ "translation": "machine"
+}

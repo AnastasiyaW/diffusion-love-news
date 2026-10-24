@@ -1,0 +1,11 @@
+{
+ "id": "n-edad1a10a0",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Совместная работа Tencent и Университета Тунцзи (Tongji University); включает уникальную систему подсчёта style-score для оценки художественной согласованности.",
+ "source_sha256": "legacy",
+ "summary": "Передовая система переноса стиля от Tencent на основе энкодера SigLIP и архитектуры FLUX.1-dev. Позволяет выполнять высококачественный перенос художественного стиля на text-to-image промпты, эффективно устраняя утечку контента из референсного изображения.",
+ "title": "MegaStyle: фреймворк переноса стиля и ноды для ComfyUI",
+ "translated_at": null,
+ "translation": "machine"
+}

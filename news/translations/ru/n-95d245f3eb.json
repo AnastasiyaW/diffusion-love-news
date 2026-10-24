@@ -1,0 +1,11 @@
+{
+ "id": "n-95d245f3eb",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Система включает автоматические проверки железа и самовосстанавливающееся управление зависимостями для сложных кастомных нод ComfyUI.",
+ "source_sha256": "legacy",
+ "summary": "Open-source фреймворк автономного агента от NousResearch для оркестрации сложных задач. Имеет глубокую интеграцию с ComfyUI, обеспечивая управление нодовыми workflow генерации изображений и видео на естественном языке.",
+ "title": "Hermes Agent: автономная система творческих workflow",
+ "translated_at": null,
+ "translation": "machine"
+}

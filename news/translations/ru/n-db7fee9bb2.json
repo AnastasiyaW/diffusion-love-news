@@ -1,0 +1,11 @@
+{
+ "id": "n-db7fee9bb2",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживает как MTProto-юзерботы, так и стандартный Telegram Bot API.",
+ "source_sha256": "legacy",
+ "summary": "girl-agent — open-source фреймворк для симуляции реалистичных AI-личностей в Telegram, с человекоподобным расписанием и развивающейся динамикой отношений. Он избавляется от стандартных шаблонов AI-ассистента в пользу автономного поведения персонажа, включая режимы сна и эмоциональные состояния.",
+ "title": "girl-agent: движок AI-персон для Telegram с упором на личность",
+ "translated_at": null,
+ "translation": "machine"
+}

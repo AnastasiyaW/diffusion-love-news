@@ -1,0 +1,11 @@
+{
+ "id": "n-8c91402db3",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан workers.io; устанавливается напрямую через 'npx skills add workersio/spec' и включает специализированные команды вроде /fuzzer и /solana-audit.",
+ "source_sha256": "legacy",
+ "summary": "Высокопроизводительный набор плагинов для безопасности и формальной верификации, расширяющий Claude Code CLI агентными воркфлоу. Он автоматизирует сложные задачи, включая coverage-guided фаззинг, изолированное пентестирование в Kali Linux и аудит смарт-контрактов для Solana.",
+ "title": "Плагины Spec Security для Claude Code",
+ "translated_at": null,
+ "translation": "machine"
+}

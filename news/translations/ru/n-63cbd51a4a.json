@@ -1,0 +1,11 @@
+{
+ "id": "n-63cbd51a4a",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Проект назван в честь операционной системы Multics и стремится работать как Human-AI Operating System для совместной разработки ПО.",
+ "source_sha256": "legacy",
+ "summary": "Open-source платформа управляемых агентов, которая встраивает автономных кодинг-агентов в человеческие рабочие процессы как полноценных участников команды. Она предоставляет вендор-независимый операционный слой, координирующий локальные демоны и облачные среды выполнения для агентов вроде Claude Code, Gemini и GitHub Copilot CLI.",
+ "title": "Multica: open-source платформа для управления AI-агентами",
+ "translated_at": null,
+ "translation": "machine"
+}

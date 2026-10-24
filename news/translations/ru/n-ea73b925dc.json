@@ -1,0 +1,11 @@
+{
+ "id": "n-ea73b925dc",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Заметно опередила Hunyuan3D и Tripo по геометрической точности; доступна через API Volcano Engine от ByteDance.",
+ "source_sha256": "legacy",
+ "summary": "Seed3D 2.0 — передовая генеративная модель для создания высокодетализированных 3D-ассетов с PBR-текстурами (физически корректный рендеринг). Использует DiT-архитектуру по принципу coarse-to-fine и масштабирование Mixture-of-Experts (MoE) для создания готовых к симуляции моделей, пригодных для робототехники и промышленных пайплайнов.",
+ "title": "Seed3D 2.0: готовая к продакшену 3D foundation-модель от ByteDance",
+ "translated_at": null,
+ "translation": "machine"
+}

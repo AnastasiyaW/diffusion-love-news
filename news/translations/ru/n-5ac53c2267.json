@@ -1,0 +1,11 @@
+{
+ "id": "n-5ac53c2267",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Нативная поддержка требует Tensor Cores NVIDIA Blackwell (серия RTX 5000) для fine-grained block scaling; более старые архитектуры, такие как Hopper, требуют программной эмуляции через vLLM.",
+ "source_sha256": "legacy",
+ "summary": "Официальная квантованная в 4-битный формат с плавающей точкой (NVFP4) версия Gemma-4-31B-IT от Google, оптимизированная NVIDIA под архитектуру Blackwell. Сохраняет почти полную точность, обеспечивая при этом высокоэффективную обработку контекста 256K на потребительском железе.",
+ "title": "Квантованная модель NVIDIA Gemma-4-31B-IT NVFP4",
+ "translated_at": null,
+ "translation": "machine"
+}

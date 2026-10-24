@@ -1,0 +1,11 @@
+{
+ "id": "n-f4c04ff479",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использовалась для крупных коммерческих показов, таких как Singapore Air Show 2026; поддерживает оптимизированные форматы сплатов, например .spz и .sogs.",
+ "source_sha256": "legacy",
+ "summary": "Spatial Studio — SaaS-платформа для создания иммерсивных 3D-визуализаций по технологии Gaussian Splatting. Специализируется на маркетинге недвижимости, объединяя сканы масштаба объекта с Google 3D Maps и панорамами 360° высокого разрешения.",
+ "title": "Spatial Studio: 3D Gaussian Splatting от Real Horizons",
+ "translated_at": null,
+ "translation": "machine"
+}

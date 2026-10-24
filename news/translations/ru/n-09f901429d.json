@@ -1,0 +1,11 @@
+{
+ "id": "n-09f901429d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигает 30-кратного ускорения относительно оригинального Wan2.1 при сохранении высоких оценок VBench; разработана FrameX-AI в сотрудничестве с USTC.",
+ "source_sha256": "legacy",
+ "summary": "Stream-R1 — ускоренная модель генерации видео, дистиллированная из Wan2.1, достигающая реального времени в 23.1 FPS. Использует Reward-Guided Distribution-Matching Distillation (DMD), чтобы превзойти модель-учитель и по визуальному качеству, и по соответствию тексту.",
+ "title": "Stream-R1: дистилляция видео в реальном времени под управлением reward",
+ "translated_at": null,
+ "translation": "machine"
+}

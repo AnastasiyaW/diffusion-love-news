@@ -18,9 +18,28 @@ news/
 ├── _organizations.json   # organization_slug → company news + owned projects
 ├── _aliases.json         # canonical_family ← [slug_aliases, ...]
 ├── all.json              # full bundle: { schema_version, total, records: [...] }
-└── items/
-    └── n-{10-char-hex}.json   # one file per news, schema v1.2-v1.4
+├── items/
+│   └── n-{10-char-hex}.json   # one file per news, schema v1.2-v1.4
+└── translations/              # machine translations of the English text (see below)
+    ├── {lang}.json            # derived bundle: id → {title, summary, research_notes, evolution_summary}
+    └── {lang}/
+        ├── _index.json        # derived: id → {title, translated_at, fresh}
+        └── n-{10-char-hex}.json   # one record per item and language
 ```
+
+### Translations
+
+The items are written in English. `translations/` holds machine translations into the site's
+other languages (`ru`, `zh-CN`, `es`, `de`, `fr`, `ko`), made by
+`scripts/translate_items.py` with the Anthropic Message Batches API. Only `title`, `summary`,
+`research_notes` and `evolution.summary` (stored as `evolution_summary`) are translated; every
+other field is read from the English item. Each record carries `translation: "machine"`, the
+`model`, `translated_at` and `source_sha256` — the SHA-256 of the English fields it was made
+from (`"legacy"` for the interim overlay the site used to keep). A record whose hash no longer
+matches the item is stale: it is still served, `_index.json` marks it `fresh: false`, and the
+next `submit` replaces it. A translation is written only if URLs, inline code and model/version
+names survived unchanged. `tests/test_translate_items.py` checks the records and that both
+derived files are current.
 
 ## Item schema (v1.4)
 

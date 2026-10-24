@@ -1,0 +1,11 @@
+{
+ "id": "n-367db0be8e",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует Markdown-файлы навыков (SKILL.md) для постоянного обучения; имеет Kanban-доску «Tenacity» для отслеживания долгосрочных целей.",
+ "source_sha256": "legacy",
+ "summary": "Open-source фреймворк автономных агентов для устойчивых самосовершенствующихся воркфлоу на основе замкнутого цикла обучения. Использует reasoning-модели MiMo от Xiaomi и оснащён интегрированным облачным браузингом для надёжного взаимодействия с вебом.",
+ "title": "Nous Hermes Agent: автономный самоэволюционирующий фреймворк",
+ "translated_at": null,
+ "translation": "machine"
+}

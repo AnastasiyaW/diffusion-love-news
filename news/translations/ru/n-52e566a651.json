@@ -1,0 +1,11 @@
+{
+ "id": "n-52e566a651",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Генерирует EXR-последовательности профессионального уровня в float16, совместимые с VFX-пайплайнами и инструментами цветокора вроде DaVinci Resolve и Nuke.",
+ "source_sha256": "legacy",
+ "summary": "Качественный фреймворк преобразования видео SDR-в-HDR, разработанный Lightricks. Использует специализированную In-Context LoRA на базе foundation-модели LTX-Video 2.3 (22B) для восстановления динамического диапазона и теней в 16-битном формате LogC3.",
+ "title": "LumiVid: генерация видео SDR-в-HDR через LTX-Video 2.3",
+ "translated_at": null,
+ "translation": "machine"
+}

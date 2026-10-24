@@ -1,0 +1,11 @@
+{
+ "id": "n-5d03d1bfa4",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует парадигму DiNA (Discrete Native Autoregression); технические детали описаны в отчёте arXiv 2603.27538.",
+ "source_sha256": "legacy",
+ "summary": "LongCat-Next — это нативная мультимодальная модель формата any-to-any, объединяющая текст, изображения и аудио в общий набор дискретных токенов. Разработанная Meituan, она использует архитектуру Mixture-of-Experts для бесшовного понимания и генерации различных типов данных.",
+ "title": "LongCat-Next: нативная мультимодальная MoE-модель",
+ "translated_at": null,
+ "translation": "machine"
+}

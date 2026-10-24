@@ -1,0 +1,11 @@
+{
+ "id": "n-f1ea79cf67",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает интеграции локального чтения, ориентированные на браузер, и специализированные ONNX-версии, которые убирают зависимость от PyTorch для инференса.",
+ "source_sha256": "legacy",
+ "summary": "Open-source многоязычная модель text-to-speech, рассчитанная на высокоэффективное развёртывание в реальном времени на потребительских CPU. Она умеет zero-shot клонирование голоса и поддерживает качественный стереозвук 48kHz.",
+ "title": "MOSS-TTS-Nano",
+ "translated_at": null,
+ "translation": "machine"
+}

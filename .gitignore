@@ -21,9 +21,11 @@
 scripts/*
 !scripts/build_news.py
 !scripts/purge_jsdelivr.py
+!scripts/translate_items.py
 tests/*
 !tests/test_news_contract.py
 !tests/test_jsdelivr_purge.py
+!tests/test_translate_items.py
 .github/*
 !.github/workflows/
 .github/workflows/*

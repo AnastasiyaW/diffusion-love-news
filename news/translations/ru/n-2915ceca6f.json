@@ -1,0 +1,11 @@
+{
+ "id": "n-2915ceca6f",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Требует полный CUDA Toolkit и C++ компиляцию при установке; для стабильной работы настоятельно рекомендуется 16GB+ VRAM (RTX 3090/4090).",
+ "source_sha256": "legacy",
+ "summary": "Специализированный набор нод для ComfyUI, реализующий исследование DreamScene360 для генерации глобально консистентных 3D Gaussian Splatting (3DGS) сцен из одиночных 360° панорамных изображений. Использует оценку глубины и панорамный сплаттинг для создания исследуемых 3D-окружений с единственной точки обзора.",
+ "title": "ComfyUI-DreamScene360 — панорамный Gaussian Splatting и 3D-сцены",
+ "translated_at": null,
+ "translation": "machine"
+}

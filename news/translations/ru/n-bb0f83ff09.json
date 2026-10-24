@@ -1,0 +1,11 @@
+{
+ "id": "n-bb0f83ff09",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан лабораторией UVA Computer Vision Lab; применяет новаторский реляционный подход вместо традиционной покадровой классификации.",
+ "source_sha256": "legacy",
+ "summary": "OmniShotCut — трансформерный фреймворк для высокоточного определения границ сцен (Shot Boundary Detection) в разнообразных типах видео. Использует архитектуру Shot-Query, чтобы целостно распознавать сложные переходы — наплывы, затухания и резкие склейки.",
+ "title": "OmniShotCut: целостное реляционное определение границ сцен",
+ "translated_at": null,
+ "translation": "machine"
+}

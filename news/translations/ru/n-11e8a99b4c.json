@@ -1,0 +1,11 @@
+{
+ "id": "n-11e8a99b4c",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддержан Y Combinator S24. Основан создателями Agara AI (приобретена Coinbase) и делает упор на полную приватность данных с поддержкой локальных LLM через Ollama.",
+ "source_sha256": "legacy",
+ "summary": "Rowboat — это local-first AI-ассистент, который обрабатывает цифровые данные вроде писем и заметок, выстраивая живой граф знаний. Он хранит информацию в человекочитаемых Markdown-файлах и работает приватно на машине пользователя.",
+ "title": "Rowboat: local-first AI-агент и персональный граф знаний",
+ "translated_at": null,
+ "translation": "machine"
+}

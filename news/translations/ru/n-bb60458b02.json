@@ -1,0 +1,11 @@
+{
+ "id": "n-bb60458b02",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Снижает пиковые требования к VRAM с 18.5GB до примерно 6.4GB, позволяя запускать модель на 9B параметров на GPU среднего класса вроде RTX 3060.",
+ "source_sha256": "legacy",
+ "summary": "4-битная квантованная версия модели FLUX.2 [klein] от Black Forest Labs, оптимизированная под генерацию изображений с низкой задержкой. Использует движок Nunchaku SVDQuant для достижения скорости инференса менее секунды на пользовательском железе.",
+ "title": "FLUX.2-klein-9B-Nunchaku",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-33f31b6935",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигает state-of-the-art результатов в бенчмарках аудио-рассуждений, превосходя гораздо более крупные модели вроде Step-Audio-R1 33B.",
+ "source_sha256": "legacy",
+ "summary": "Open-source аудио-foundation-модель для сложных рассуждений по аудио и транскрипции с временными метками с использованием возможностей Chain-of-Thought. Опирается на бэкбон Qwen3-8B и cross-layer feature injection для сохранения высокоточных акустических деталей.",
+ "title": "MOSS-Audio-8B-Thinking",
+ "translated_at": null,
+ "translation": "machine"
+}

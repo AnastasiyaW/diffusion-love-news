@@ -1,0 +1,11 @@
+{
+ "id": "n-c66b8c38b0",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает оптимизатор Rose — кастомный stateless PyTorch-оптимизатор, разработанный RichServo, который существенно снижает накладные расходы памяти по сравнению с 8-bit AdamW.",
+ "source_sha256": "legacy",
+ "summary": "Набор кастомных нод ComfyUI, оптимизированных под высокопроизводительную генерацию видео и обучение LoRA с эффективным расходом памяти, специально для моделей LTX-Video. Он включает фирменный оптимизатор Rose, позволяющий обучать на потребительских GPU всего с 11GB VRAM.",
+ "title": "RS Nodes: обучение LoRA для видео в ComfyUI",
+ "translated_at": null,
+ "translation": "machine"
+}

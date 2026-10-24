@@ -1,0 +1,11 @@
+{
+ "id": "n-16ee77b7eb",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Модели имеют нативную поддержку llama.cpp и Unsloth Studio; MoE-варианты на 35B особенно оптимизированы под локальную генерацию с низкой задержкой.",
+ "source_sha256": "legacy",
+ "summary": "Кураторская подборка GGUF-квантованных моделей для локального инференса, включающая MoE-модель Qwen 3.5 от Alibaba, серию Gemma 4 от Google и ориентированную на reasoning Qwopus. Эти модели оптимизированы под пользовательские GPU, предлагая высокую скорость и мультимодальные возможности.",
+ "title": "Новые GGUF-модели: Qwen 3.5, Gemma 4 и Qwopus",
+ "translated_at": null,
+ "translation": "machine"
+}

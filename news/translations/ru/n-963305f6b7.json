@@ -1,0 +1,11 @@
+{
+ "id": "n-963305f6b7",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Позиционируется как полностью open-source альтернатива Remotion под лицензией Apache 2.0 с первоклассной поддержкой AI-native workflow генерации видео.",
+ "source_sha256": "legacy",
+ "summary": "Open-source фреймворк под лицензией Apache 2.0 для создания качественных видео с помощью веб-технологий — HTML, CSS и React. Рассчитан на высокопроизводительный рендеринг и оптимизирован под программное управление AI-агентами.",
+ "title": "HyperFrames: программный видео-фреймворк от HeyGen",
+ "translated_at": null,
+ "translation": "machine"
+}

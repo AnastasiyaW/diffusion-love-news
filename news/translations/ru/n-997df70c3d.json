@@ -1,0 +1,11 @@
+{
+ "id": "n-997df70c3d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Выпущена под лицензией Apache 2.0; community-квантования GGUF и FP8 позволяют запускать её локально на потребительских GPU примерно с 20GB VRAM.",
+ "source_sha256": "legacy",
+ "summary": "Модель Diffusion Transformer на 22 миллиарда параметров от Lightricks, оптимизированная для качественной генерации text-to-video и audio-to-video. Она использует текстовый энкодер Gemma 3 12B и рассчитана на эффективный инференс за 8 шагов.",
+ "title": "LTX-2.3-22B-DISTILLED-1.1: видеомодель на базе DiT",
+ "translated_at": null,
+ "translation": "machine"
+}

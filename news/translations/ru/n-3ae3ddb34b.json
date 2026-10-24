@@ -1,0 +1,11 @@
+{
+ "id": "n-3ae3ddb34b",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Требует чисто чёрного (0,0,0) для маскирования; широко используется в ComfyUI с вариантами GGUF/FP8 для GPU с малым объёмом VRAM.",
+ "source_sha256": "legacy",
+ "summary": "Input-Conditioned LoRA для модели LTX-2.3 22B, позволяющая выполнять outpainting видео, используя чёрные пиксели как маркеры маски. Она генерирует временно стабильный контент для расширения размеров холста, сохраняя согласованность исходной сцены.",
+ "title": "LTX-2.3-22b-IC-LoRA-Outpaint: расширение кадра видео",
+ "translated_at": null,
+ "translation": "machine"
+}

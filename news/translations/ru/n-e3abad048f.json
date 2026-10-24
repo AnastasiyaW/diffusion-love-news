@@ -1,0 +1,11 @@
+{
+ "id": "n-e3abad048f",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан группой H-EmbodVis в Huazhong University of Science and Technology; даёт существенный прирост числовой точности без переобучения модели.",
+ "source_sha256": "legacy",
+ "summary": "Training-free фреймворк, повышающий точность подсчёта объектов в text-to-video диффузионных моделях. Он находит конкретные attention-головы, чтобы создавать счётные латентные раскладки, гарантируя, что сгенерированное видео содержит точное число экземпляров, указанное в промпте.",
+ "title": "NUMINA: числовое выравнивание для видеодиффузии",
+ "translated_at": null,
+ "translation": "machine"
+}
