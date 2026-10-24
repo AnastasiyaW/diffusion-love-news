@@ -1,0 +1,10 @@
+{
+ "id": "n-594cd03215",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2e36494a9bdeb49b8309cfa91170faec19fd22c3ebb1acfcc9e37d383ecfa4a6",
+ "summary": "2026년 7월 22일, Mage-Flow는 연결된 프로젝트 문서와 공개 소스 저장소를 통해 소개되었다. 같은 날짜의 링크 묶음에는 Hugging Face 탐색 페이지와 데모 페이지도 포함되어 있어, 이 프로젝트의 개발 및 평가에 접근할 수 있는 진입점이 열려 있음을 보여준다. 다만 제공된 링크만으로는 정확한 릴리스 버전, 기술적 주장, 벤치마크 결과를 확정할 수 없다.",
+ "title": "Mage-Flow 프로젝트 자료 공개됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

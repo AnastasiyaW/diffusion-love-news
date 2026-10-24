@@ -1,0 +1,11 @@
+{
+ "id": "n-c51396234c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Multimodale Video- und Sensordatensätze mit Cosmos Curator kuratieren, um beschädigte oder nicht-physikalische Sequenzen herauszufiltern.\n\nSynthetische physikalische Szenarien und Edge-Case-Clips mit Cosmos-Data-Factory-Blueprints erzeugen, die auf Cloud-GPU-Infrastruktur bereitgestellt werden.\n\nFoundation-Checkpoints mit dem NVIDIA NeMo Framework auf domänenspezifische Layouts von Roboter- oder Fahrzeugsensoren feinabstimmen.\n\nOptimierte World-Model-Checkpoints für Inferenz mit hohem Durchsatz über containerisierte NVIDIA-NIM-Microservices bereitstellen.\n\nCosmos Curator vor dem Fine-Tuning einsetzen, um beschädigte oder nicht-physikalische Kameratrajektorien zu eliminieren, die die physikalische Konsistenz beeinträchtigen.\n\nCosmos-Data-Factory-Blueprints nutzen, um seltene Gefahren- und Edge-Case-Szenarien zu synthetisieren, die im physischen Test unsicher oder nicht praktikabel zu erfassen sind.\n\nTrainierte World Models über containerisierte NVIDIA-NIM-Microservices bereitstellen, um hardwarebeschleunigtes Batching auf Enterprise-GPUs zu nutzen.",
+ "source_sha256": "2c517d7192fc653db7363620eb484ca3debc0607f159a153c0250044cf01fbb2",
+ "summary": "NVIDIA hat seine Cosmos-World-Model-Plattform um Cosmos-Data-Factory-Blueprints für synthetische Daten, Filterwerkzeuge von Cosmos Curator, NeMo-Post-Training-Pipelines und NIM-Microservice-Container für die Bereitstellung erweitert – alles für die Entwicklung physischer KI.",
+ "title": "NVIDIA erweitert Cosmos-Plattform um Werkzeuge für Training und Deployment",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-75eec0b102",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "54bc94f452e4a89bfffb6b4a898f5fd30f52b32a10f7083927df978fa6335a8b",
+ "summary": "2026年6月8日，WavTTS 的开发线被记录下来，并附有其项目网站、源代码仓库、模型页面、演示以及 ComfyUI 集成的链接。这为查找该项目及相关工具提供了一个带日期的公开参考点。现有证据无法确定这些链接所伴随的发布或代码变更（如有）具体是什么。",
+ "title": "WavTTS 公开项目资源已被记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-4ef65aa7f6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bdc8f01c918655c12d0209930352a51da28b53cd7b9a1d065f9fffcb183feea4",
+ "summary": "Le 2026-07-27, FINAL-Bench a rendu POCKET-35B-GGUF accessible au public via sa page de modèle. Les liens datés indiquent également un espace de démonstration orienté CPU et l'intégration dans la collection Pocket Models, ce qui constitue une étape concrète de diffusion pour le projet.",
+ "title": "FINAL-Bench a publié la gamme de modèles POCKET-35B-GGUF",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

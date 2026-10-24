@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月发布，是华为研究院与香港中文大学 MMLab 的联合项目。它在 StreamingBench 排行榜上创下新的最先进成绩，在实时视觉推理和主动告警方面超越了此前的闭源模型。",
+ "id": "n-5e356466d0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该系统基于 Qwen3-VL-8B-Instruct 骨干网络构建，并采用双滑动窗口上下文管理系统来处理无限视频流。",
+ "source_sha256": "a27c541dfd6e27428449a82269a078db7e4e8cc2ada1010df428ebd9dd1e5eb9",
+ "summary": "AURA 是一个端到端的流式视觉交互框架，面向连续视频理解与实时辅助。它将 ASR、VLM 和 TTS 集成到统一的异步流水线中，以 2 FPS 处理实时视频。该系统支持主动问答和多回复交互，延迟低于一秒。",
+ "title": "AURA——全天候理解与实时辅助",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

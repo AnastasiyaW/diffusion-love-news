@@ -1,0 +1,10 @@
+{
+ "id": "n-63fc70b541",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b49815145e60cd50f91909145aa78748e54cd79f1267bc6fb096354d8db6bcf3",
+ "summary": "Le 2026-03-13, des liens associés à SynthID-Bypass ont été recensés, parmi lesquels son dépôt public et un artefact de workflow JSON versionné nommé SynthID-Bypass-v2.0.json. Le même ensemble de liens daté comprenait également une référence à Hugging Face. Cela constitue une référence concrète à un artefact de projet, mais n'établit ni les notes de version, ni les capacités, ni la paternité, ni le statut de vérification.",
+ "title": "L'artefact de workflow SynthID-Bypass v2.0 a été lié",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

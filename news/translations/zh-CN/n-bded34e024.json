@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从初始版本演进为以“稳定性优先”为导向的变体，并采用了 APEX（Adaptive Precision for EXpert Models，面向专家模型的自适应精度）量化方法。尽管该模型仍作为工程参考保留维护，但开发者此后已将重心转向 Qwopus-3.5 系列，以获得面向生产环境的性能。",
+ "id": "n-bded34e024",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型采用混合专家（MoE）架构，总参数量为 26B，激活参数量为 4B（A4B）。支持 256K token 的上下文窗口，并内置由特定提示 token 触发的原生“思考模式”（Thinking Mode）。",
+ "source_sha256": "3c7255d5650aa9fbb334a2f11e8f2b81942cfa0929f081b3193f4c36c11a8a08",
+ "summary": "这是一个基于 Gemma 4 26B 的指令微调混合专家（Mixture-of-Experts）模型，针对稳定性和对话自然度进行了优化。该模型不采用激进的蒸馏方法，而是倾向于保守的微调策略，以保留基础模型的推理能力，同时提升语气表达和结构清晰度。",
+ "title": "Gemopus-4-26B 大语言模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

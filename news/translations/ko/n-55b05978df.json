@@ -1,0 +1,10 @@
+{
+ "id": "n-55b05978df",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "071a85fa80f933769ea279eb0783a2894778e9b3e6ba3f539d79da4cd1df5455",
+ "summary": "2026년 5월 13일, 연결된 보도들은 프로젝트 환경에서 예기치 않은 과금 및 Anthropic API 키와 관련된 Claude Code 관련 사고가 발생했다고 주장했다. 현재 확인 가능한 링크로는 원인, 영향 범위, 조치 내용을 확인할 수 없으므로, 이는 추가 조사를 거쳐야 할 사용자 피해 사건으로 보고 우선 기록해 둔다.",
+ "title": "Claude Code 관련 예기치 않은 과금 사고 보도",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issu de la lignée de recherche VLM-3R (mai 2025), il a évolué vers un cadre spécialisé dans le raisonnement spatial géométrique. En mars 2026, il a publié un code unifié et les poids des modèles, introduisant un masquage et une fusion adaptative pour atteindre des performances state-of-the-art sur les benchmarks spatiaux.",
+ "id": "n-1b0490d011",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend des branches spécialisées pour les scènes 3D statiques et les vidéos monoculaires dynamiques. Établit un nouveau SOTA sur VSI-Bench et DSR-Bench.",
+ "source_sha256": "598205f98406c31c1c2187021c4f588785bca964041eaec1713000b79953dc60",
+ "summary": "GeoSR est un cadre conçu pour renforcer le raisonnement spatial des modèles vision-langage en intégrant des indices géométriques 3D. Il combine un masquage de type « geometry-unleashing » et une fusion à portes (gated fusion) pour empêcher les modèles de s'appuyer sur des raccourcis visuels 2D, dans des environnements statiques comme dynamiques.",
+ "title": "GeoSR : raisonnement spatial géométrique pour les VLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

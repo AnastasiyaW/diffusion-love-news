@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目率先开展了大规模神经月球测绘，并启发了后续面向专业场景的框架，例如Moon-GS和AstroSplat，它们分别针对稀疏视角的月球车数据和行星反照率进行了优化。",
+ "id": "n-60f7bb3300",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由Nicolas Diolez利用300多张NASA照片制作，通过RealityScan和LichtFeld Studio处理，并托管于PlayCanvas SuperSplat。",
+ "source_sha256": "f082fe32a17ac0dc0195876a14fc737b2fd85877501d403db83e35ebe0d4da55",
+ "summary": "基于NASA阿尔忒弥斯二号任务影像生成的高保真三维高斯泼溅（3D Gaussian Splatting）月球表面重建。该成果提供可交互、细节丰富的三维可视化，展示了神经渲染在行星科学领域的应用潜力。",
+ "title": "3DGS月球表面重建（NASA阿尔忒弥斯二号）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-38e5bcdce7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "470a17fe6d77a199365f84d1354ab8483ff3125dd87140495408b3a378b3bd89",
+ "summary": "2026-06-15, OmniDirector가 공개 프로젝트 페이지 및 GitHub 소스 저장소 링크와 연결되었다. 프로젝트와 그 구현을 찾아볼 수 있게 되었다는 점에서 공개 개발의 중요한 이정표다. 다만 제공된 링크만으로는 버전, 기능 구성, 릴리스 상태, 저작자 정보를 확인할 수 없다.",
+ "title": "OmniDirector 프로젝트 페이지와 소스 저장소 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

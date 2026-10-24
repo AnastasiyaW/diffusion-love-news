@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "처음에는 소비자용 GPU를 위한 VRAM 최적화 포크로 출발했으나, 이후 무제한 영상 길이를 위한 다중 프레임 모드를 지원하는 파워 유저용 스위트로 발전했습니다. 최근 업데이트에서는 Gemma-3 텍스트 인코더 지원과 통합 음성 복제 파이프라인이 추가되었습니다.",
+ "id": "n-ac33c5f998",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "24GB VRAM 하드웨어에 맞춰 최적화되었으며, 공식 릴리스 대비 진입 장벽을 낮추기 위해 fp8 양자화와 GGUF 모델 전환을 지원합니다.",
+ "source_sha256": "df24642a2643126180382a7ae2fcc37d8c318b14d0b7a62d9543c269332448db",
+ "summary": "LTX-2.3 확산 모델을 활용해 고품질 비디오를 로컬에서 생성하는 종합 데스크톱 애플리케이션입니다. 하드웨어 최적화 성능, 통합 립싱크, 다중 GPU 작업 큐잉을 제공하여 전문적인 AI 워크플로에 적합합니다.",
+ "title": "LTX2.3-Multifunctional: 고급 로컬 AI 비디오 스위트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

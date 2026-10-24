@@ -1,0 +1,10 @@
+{
+ "id": "n-6bd85df8ed",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4f6ddb4dfd4ee92eeb3bd7b6cd090067f2187624a393499fc319b8dcc5af25dd",
+ "summary": "Le 2026-06-29, la ligne de développement de Fast-FoundationStereo a enregistré des liens vers un dépôt source de NVlabs et une page de modèle sur Hugging Face de NVIDIA. Cela établit un point de référence public daté pour le projet et sa ressource de modèle associée, sans affirmer de version de publication précise ni de modification technique.",
+ "title": "Références au code source et au modèle de Fast-FoundationStereo enregistrées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

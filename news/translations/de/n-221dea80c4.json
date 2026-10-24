@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 aktualisiert, mit Streaming-TTRL für die Anpassung der Strategie in Echtzeit, und als Skill auf Clawhub veröffentlicht. Der Codebestand bietet nun eine vollständige Trainingspipeline auf Basis von veRL sowie vortrainierte Modelle und Benchmarks.",
+ "id": "n-221dea80c4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gemeinsam entwickelt von ECNU und dem Shanghai Institute of Intelligence, um das Problem der aufgeblähten Kontexte (context bloat) in komplexen Rechercheworkflows zu adressieren.",
+ "source_sha256": "18f37a4bef89f1d707607e20deb50d92366df13a71bef7c8a161f2468458026a",
+ "summary": "Ein spezialisiertes Speichermanagementsystem für KI-Agenten zur tiefgehenden Recherche, das eine dreistufige Manager-Planer-Ausführer-Architektur nutzt. Es optimiert das Schlussfolgern über lange Kontexte, indem es von passivem Speichern zu aktiver strategischer Planung übergeht, und setzt dazu Continual Test-Time Learning ein.",
+ "title": "MIA: Memory In Intelligence Agent Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

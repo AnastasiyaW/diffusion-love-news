@@ -1,0 +1,11 @@
+{
+ "id": "n-c696325d3e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Préparez les jeux de données d'entraînement pour au moins deux identités distinctes, placées dans des dossiers séparés sur la carte Subjects de l'onglet Fizgig Training.\n\nLégendez chaque image en commençant par le jeton déclencheur unique, suivi d'une virgule et du descripteur de classe (par exemple, 'zwxem, a woman smiling') afin que Fizgig puisse générer les jetons fusionnés internes.\n\nActivez LoRA Isolation dans la configuration d'entraînement, en combinant Differential Output Preservation avec l'appariement automatique d'images synthétiques d'inconnus.\n\nGénérez les images d'inférence à l'aide du jeton déclencheur fusionné, accompagné de descriptions des autres sujets de la scène, afin de préserver les frontières entre identités sans contamination des visages.\n\nEntraînez-vous avec au moins deux identités de personnages distinctes simultanément, même lorsque vous ciblez un seul personnage principal, afin de contraindre le réseau à découpler les jetons d'identité des jetons de classe humaine de base.\n\nOmettez entièrement le jeton déclencheur lorsque vous demandez des personnages d'arrière-plan ou des foules, afin que le modèle de base puisse rendre des visages divers par défaut sans fuite d'identité.\n\nStructurez les légendes dans un ordre causal, en plaçant les descripteurs des inconnus en premier lorsque vous associez des composites négatifs multipersonnes pendant l'entraînement.",
+ "source_sha256": "fb1d0168a8af7673ae44ab665ecc4848e5885d004acacf25593c31ff82699576",
+ "summary": "Fizgig v8.4.0 introduit LoRA Isolation, qui combine la préservation différentielle des sorties (Differential Output Preservation), le découplage de classes par jetons fusionnés et l'entraînement sur paires négatives afin d'empêcher la contamination des visages lors de la génération de scènes avec plusieurs personnages.",
+ "title": "Fizgig publie LoRA Isolation pour l'entraînement multi-identités",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

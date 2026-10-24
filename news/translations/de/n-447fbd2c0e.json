@@ -1,0 +1,11 @@
+{
+ "id": "n-447fbd2c0e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Globale Generierungs-Seeds und Umweltprioritäten konfigurieren, um die Makro-Planungsschicht für regionale Ökologie, Hydrologie und Verkehrsnetze zu initialisieren.\n\nAgentenposition und Blickrichtungsvektoren bereitstellen, um den Bewegungskorridor zu projizieren und die vorausschauende Mikro-Planung für unmittelbar bevorstehende Raumkacheln auszulösen.\n\nLokale deterministische prozedurale Kompilierung aufrufen, um genehmigte Mikro-Planentscheidungen in renderbare 3D-Assets für Gelände, Vegetation und Siedlungen zu übersetzen.\n\nNatürlichsprachliche Befehle ausgeben, um Laufzeitentitäten oder Kachelattribute zu aktualisieren, und die geänderten Zustände in der kachelweisen Welt-Datenbank persistent speichern.\n\nPlanungshorizonte von der Geometriekompilierung entlang vorhergesagter Korridore entkoppeln, um stabile Bildraten zu erhalten und Rechenspitzen zu verhindern.\n\nStrikte Kachel-zu-Kachel-Randverpflichtungen im Mikro-Planer durchsetzen, um visuelle und topologische Nähte zwischen unabhängig kompilierten Zellen zu vermeiden.\n\nBei großen Wegstrecken des Agenten auf Neukompilierung aus Seed und Mutationsprotokoll pro Kachel setzen, statt hochpolygonale Meshes im Speicher zwischenzuspeichern.",
+ "source_sha256": "6050376c24394dfb6ad593f24bffeee199095466037377eabd50cfbd1ec985e3",
+ "summary": "Ein arXiv-Preprint spezifiziert das typisierte Entscheidungsmodell von WorldStream, das die vorausschauende Planung entlang von Korridoren von der bedarfsgesteuerten Kompilierung entkoppelt und pro Kachel Seed-, Rand- und NPC-Zustände in einem persistenten Welt-Datensatz speichert.",
+ "title": "arXiv-Preprint beschreibt die Architektur von WorldStream und den persistenten Welt-Datensatz",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

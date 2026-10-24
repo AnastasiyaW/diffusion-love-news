@@ -1,0 +1,10 @@
+{
+ "id": "n-549e91e1c0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a2cda1cd372b9daa2471bd6b741fe89868d73c7a0aaccd72b8d443a3510313da",
+ "summary": "2026년 6월 4일 기준으로 기록된 링크는 NVIDIA가 호스팅하는 Nemotron 3 Ultra 550B A55B의 BF16 및 NVFP4 저장소와 Unsloth의 GGUF 저장소를 가리키고 있었다. 동일한 모델 계열이 서로 다른 추론 및 배포 경로에 적합한 포맷으로 제공되었다는 점에서 의미 있는 공개 단계이다.",
+ "title": "Nemotron 3 Ultra 550B A55B 아티팩트, 여러 포맷으로 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

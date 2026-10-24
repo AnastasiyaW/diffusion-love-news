@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型于 2026 年 4 月 9 日正式发布，并已全面部署到豆包 App 中，服务数亿用户。目前的发展方向正转向多模态整合，使模型能够同时处理视觉和音频信号。",
+ "id": "n-5d75a2276e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "与此前的级联系统相比，响应延迟降低约 250ms，误打断次数减少 50%。",
+ "source_sha256": "90ed9cd8efb27f34016e6e915aec19f41fff289f81037f1c14a1c941b8582467",
+ "summary": "Seeduplex 是一款原生端到端的全双工语音模型，支持真实的“边听边说”交互，并能实时处理用户打断。该模型已全面集成到字节跳动的豆包 AI 助手中，提供接近人类的对话流畅度。",
+ "title": "字节跳动 Seeduplex 全双工语音模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

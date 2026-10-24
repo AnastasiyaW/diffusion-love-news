@@ -1,0 +1,10 @@
+{
+ "id": "n-49f80a3add",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1aa138c5fb1c18d43c99f1cfc51b396b7754a99ac7311391c66c326cd9a2fec7",
+ "summary": "El 2026-06-25, un mensaje fechado del proyecto enlazó el repositorio de Hugging Face de Whisper-Podlodka-Turbo. El enlace directo al artefacto del proyecto convierte esto en un registro relevante dentro de la línea de desarrollo, aunque las pruebas disponibles no establecen la versión del modelo, sus capacidades, el estado de publicación ni los cambios.",
+ "title": "Se enlazó el repositorio de Hugging Face de Whisper-Podlodka-Turbo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

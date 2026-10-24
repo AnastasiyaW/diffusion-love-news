@@ -1,0 +1,11 @@
+{
+ "id": "n-cca527d9ac",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "호스팅 모델의 경우 기존 API 연동을 그대로 유지하고 모델을 `deepseek-flash`로 설정하라. 이 이름은 현재 V4.1 Flash 릴리스로 연결된다.\n\n로컬 실험을 위해서는 최신 Transformers와 Accelerate를 설치한 뒤, 문서에 명시된 image-text-to-text 파이프라인 또는 `AutoModelForCausalLM` 경로를 통해 `deepseek-ai/DeepSeek-V4.1-Flash-1017`을 로드하라.\n\n호스팅 연동에서는 체크포인트 이름을 직접 넣는 대신 안정적인 `deepseek-flash` API 이름을 사용하라. 그렇게 하면 호출 형식을 바꾸지 않고도 문서화된 현재 버전이 선택된다.\n\n자체 호스팅 시에는 이전 V4 Flash 런타임 설정이 그대로 동작한다고 가정하지 말고, 공식 문서에 나온 Transformers 또는 vLLM 로딩 경로에서 시작하라.",
+ "source_sha256": "b51ed45801ff061b8a88221c7ff5f2e391feae5a9f8b6e4d2e70e49ea0899abf",
+ "summary": "DeepSeek-V4.1-Flash-1017은 MIT 라이선스의 Hugging Face 체크포인트로 제공되며, DeepSeek는 웹, 앱, API 배포에 이제 업데이트된 버전이 사용된다고 밝혔다.",
+ "title": "DeepSeek, V4.1-Flash-1017 가중치 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

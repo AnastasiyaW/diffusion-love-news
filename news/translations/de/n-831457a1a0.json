@@ -1,0 +1,10 @@
+{
+ "id": "n-831457a1a0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "354ffadc99bb32a03cc838b15a4374e487809769efc9c37c2dfaa2e4dd97857e",
+ "summary": "Am 21.08.2026 wurde Context-Matched Distillation (CMD) über verlinkte Projekt-, Code-, Modell- und Image-to-Video-Demo-Ressourcen vorgestellt. Die Links deuten auf einen konkreten öffentlichen Entwicklungsschritt hin: Das Projekt lässt sich über die Projektwebsite, das GitHub-Repository, die Hugging-Face-Modellseite und die Demo untersuchen.",
+ "title": "Context-Matched Distillation: Ressourcen veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

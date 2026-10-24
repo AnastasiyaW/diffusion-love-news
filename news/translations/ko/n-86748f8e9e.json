@@ -1,0 +1,10 @@
+{
+ "id": "n-86748f8e9e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8d72deaf901807a146ef2de351ca3c413ffb2e3fde405f0bac5e66fc0316ce1c",
+ "summary": "2026년 7월 12일, Colibri GitHub 저장소와 GLM-5.2 Colibri INT4 모델의 Hugging Face 페이지가 서로 연결되었다. 이는 해당 프로젝트의 소스 코드와 관련 양자화 모델 아티팩트가 공개 리소스로 제시되었음을 보여주는 날짜가 명시된 증거이다. 기록된 링크가 제공되지 않았으므로, 정확한 공개 상태, 저작자, 기능은 링크만으로는 확인할 수 없다.",
+ "title": "Colibri 소스 저장소와 INT4 모델이 공개적으로 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

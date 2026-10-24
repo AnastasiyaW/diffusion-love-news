@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzado en abril de 2026 junto con el artículo arXiv:2604.06870, el proyecto publicó scripts de inferencia, checkpoints de modelos y una demo en vivo en Hugging Face. Desde entonces se ha integrado en ComfyUI y recibió actualizaciones críticas de fijación del entorno para resolver problemas de desplazamiento de color.",
+ "id": "n-10b1471000",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construido sobre la arquitectura Qwen-Image-Edit-2511; incorpora una Boundary Consistency Loss única para garantizar una fusión sin costuras de los parches refinados con la imagen original.",
+ "source_sha256": "64b708af7f99e33a5df587dfeba2da437d9cfc0b18ec46df62981c3e1796d98a",
+ "summary": "Un marco basado en difusión diseñado para la edición y restauración locales de alta precisión de imágenes. Se especializa en corregir detalles de grano fino, como texto, logotipos y estructuras intrincadas, al tiempo que garantiza una consistencia perfecta del fondo mediante una estrategia de enfoque y refinamiento.",
+ "title": "RefineAnything: refinamiento de imágenes multimodal y específico por regiones",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

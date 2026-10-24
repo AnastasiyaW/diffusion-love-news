@@ -1,0 +1,10 @@
+{
+ "id": "n-b8d5334397",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "45bf09e9bb8d92fe865499bcfef5319a959c08da1ff889fab51b13a32c856eb1",
+ "summary": "Am 2026-08-15 verlinkte ein versiegeltes Mitglied der OpenVuln-Entwicklungslinie direkt auf den Hugging-Face-Space des Projekts. Dies dokumentiert einen Verweis auf den öffentlichen Projekt-Space an diesem Datum, doch allein der Link belegt weder den Veröffentlichungsstatus des Space, seine Funktionen noch eine Änderung am Projekt.",
+ "title": "Auf OpenVulns öffentlichen Hugging-Face-Space wurde verwiesen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

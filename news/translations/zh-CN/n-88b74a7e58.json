@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目在被 CVPR 2026 接收后，于 2026 年 4 月更新至 v2 版本。此版本引入了增强的条件 VAE 解码器、面向 4K 视频处理优化的稀疏注意力机制，以及分布式多 GPU 推理能力。",
+ "id": "n-88b74a7e58",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该工作由中国科学技术大学（USTC）与阿里巴巴的研究人员开发；框架以 Wan2.1-T2V-1.3B 作为骨干网络，并借助分块（tiled）VAE 编码成功泛化至 4K 分辨率。",
+ "source_sha256": "93d1cb5025a7d37b0d329fc040de48b0455f94b7281a37bf1b8433e39d48de76",
+ "summary": "一个先进的视频帧插值框架，将 Wan2.1 扩散 Transformer 架构改造用于整体序列建模。该框架采用自回归生成与 Skip-Concatenate 采样，以在长视频和高分辨率帧中保持时间一致性。",
+ "title": "LDF-VFI：面向视频帧插值的局部扩散强制方法",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

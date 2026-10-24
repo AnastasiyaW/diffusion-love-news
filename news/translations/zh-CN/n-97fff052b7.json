@@ -1,0 +1,10 @@
+{
+ "id": "n-97fff052b7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4bf2baa930bb274c138adc63be44d7746c584285ff75b3355aaa32111d89ef0a",
+ "summary": "2026 年 6 月 19 日，AudioX 相关帖文链接了 AudioX-Turbo 的项目主页、源代码仓库和 Hugging Face 模型页面，并附上相关的 AudioX 项目主页。这确立了一个带日期的公开参考，指向该项目的资源，但并未确认发布版本、技术结论或安装指南。",
+ "title": "AudioX-Turbo 公开项目与模型资源已发布链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

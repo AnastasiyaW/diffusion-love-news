@@ -1,0 +1,11 @@
+{
+ "id": "n-4d771e5e60",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erstelle eine virtuelle Python-3.11- oder 3.12-Umgebung und installiere die fixierten Abhängigkeiten.\n\nFühre `python its_giving_v2.py --calibrate` aus, bleibe während der siebensekündigen Kalibrierung neutral und starte danach `python its_giving_v2.py`.\n\nInstalliere ein Backend für virtuelle Kameras für das Betriebssystem, starte ItsGiving vor der Meeting-Anwendung und wähle dann die veröffentlichte virtuelle Kamera in den Videoeinstellungen dieser Anwendung aus.\n\nLass die Abhängigkeits-Pins unverändert: Die dokumentierten Kompatibilitätsvorgaben für MediaPipe, NumPy und OpenCV hängen voneinander ab.\n\nVerwende v2 und kalibriere bei Bedarf neu, da die Schwellenwerte für Mimik auf der neutralen Basislinie des Nutzers beruhen.\n\nBevor du eine Pose hinzufügst, prüfe die Reihenfolge der Posen, bevor du Schwellenwerte senkst, denn die erste passende Pose gewinnt; nutze das HUD und eine Armzählung, um Fehlauslösungen abzustimmen.\n\nTeste Reaktionen, bevor du sie in einem Meeting verwendest, denn die Ausgabe kann automatisch ausgelöst werden und ist für alle Teilnehmer des Anrufs sichtbar.",
+ "source_sha256": "608431980f7d92040c98ed6e4f36c96775cbfae3da73bbd882b61cfe711e85b7",
+ "summary": "ItsGiving stellt ein Python-Webcam-Overlay bereit, das in Meeting-Software als virtuelle Kamera ausgewählt werden kann; das empfohlene v2-Skript kalibriert die Schwellenwerte für Mimik anhand einer siebensekündigen Basislinie mit neutralem Gesichtsausdruck.",
+ "title": "ItsGiving-Webcam-Meme-Overlay mit kalibrierter v2-Erkennung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

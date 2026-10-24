@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从仅支持 CPU 的移植版发展为成熟的生态系统，现已支持 CUDA、Metal 和 Vulkan。近期更新新增了 GGUF 量化、面向 DAW 的 VST3 集成，以及用于音频到元数据分析的“理解模式”（Understand Mode）。",
+ "id": "n-a236c67d82",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用两阶段流程：ace-lm 负责作曲，ace-synth 负责基于扩散模型的音频渲染。",
+ "source_sha256": "8c6a6bf6c523f512bf0ba740975e0a3eb4530d2423f38756ee4281d53df0b266",
+ "summary": "这是基于 GGML 后端实现的轻量级、可移植 ACE-Step 1.5 音乐基础模型 C++ 版本。它可在消费级 CPU 和 GPU 上运行，无需任何 Python 依赖，即可生成高保真 48kHz 立体声音乐。",
+ "title": "ACE-Step 1.5 C++ 移植版（acestep.cpp）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

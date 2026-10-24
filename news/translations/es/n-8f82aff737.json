@@ -1,0 +1,11 @@
+{
+ "id": "n-8f82aff737",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Clone el repositorio karpathy-output-style o copie el archivo de definición del skill en el directorio de configuración del agente.\n\nConfigure el runtime del agente (como Claude Code o Codex) para que cargue las reglas del skill durante la ejecución de la consulta.\n\nIndique al agente una tarea de explicación de un concepto o de código, permitiendo que el skill elija entre texto técnico simplificado, diagramas de Excalidraw, HTML interactivo o formatos de vídeo explicativo.\n\nSiga estrictamente la escalera de cuatro niveles, usando por defecto el formato más sencillo antes de solicitar artefactos HTML interactivos o de vídeo más pesados.\n\nAsegúrese de que las salidas HTML interactivas sean completamente autocontenidas en un único archivo, con estilos y scripts incrustados, para permitir la inspección local inmediata en el navegador.",
+ "source_sha256": "5f3808f5e22da4a8dded3b29afaa58782a3cb1e1e3a6069e012c3b9ae00b8c05",
+ "summary": "El repositorio de código abierto karpathy-output-style empaqueta la jerarquía de explicaciones visuales de Andrej Karpathy en skills reutilizables para agentes, lo que permite a los asistentes de programación producir diagramas de Excalidraw, páginas HTML interactivas de un solo archivo y animaciones de vídeo narradas en lugar de texto estándar.",
+ "title": "karpathy-output-style, de código abierto, implementa una escalera de salida visual para agentes de IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

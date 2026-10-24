@@ -1,0 +1,11 @@
+{
+ "id": "n-7127c15c53",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "MiniMax는 H3를 멀티모달 컨텍스트와 네이티브 스테레오 비디오(최대 2K/15초) 기능과 함께 출시했으며, 가중치(weights)는 이후 릴리스에서 공개하겠다고 약속했다.",
+ "source_sha256": "fe0d0f98da0c015cbedfd852874a6d10d6153e844864f7f7e32952bf3852db06",
+ "summary": "2026년 7월 31일, MiniMax가 MiniMax H3와 관련된 공식 블로그 게시물을 발행했다. 날짜가 명시된 링크는 공개적인 프로젝트 커뮤니케이션이 이루어졌음을 보여주지만, 봉인된 증거만으로는 해당 게시물에 기술된 구체적인 제품 변경, 기능, 또는 제공 여부를 확인할 수 없다.",
+ "title": "MiniMax, 공식 MiniMax H3 블로그 게시물 발행",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwicklung von einfacher Autovervollständigung hin zu einer autonomen Plattform mit Background Agents und Composer 2.0. Eingeführt wurden proprietäre Coding-Modelle und automatisierte PR-Reviews über BugBot. Erreichte eine deutliche Marktdominanz mit einem jährlich wiederkehrenden Umsatz (ARR) von über 2 Milliarden US-Dollar bis Anfang 2026.",
+ "id": "n-a6a4ba2d0f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gilt als Urheber der Verbreitung des Begriffs „Vibe Coding“, bei dem Entwickler sich auf die architektonische Absicht konzentrieren, während autonome Agenten die End-to-End-Implementierung übernehmen.",
+ "source_sha256": "1fbb41c17566b029c99b2966611b0539c48adf7383ef6c00f0b50395ba2d3fee",
+ "summary": "Eine KI-gestützte integrierte Entwicklungsumgebung, die als Fork von VS Code entwickelt wurde, um tiefgehenden Kontext über die gesamte Codebasis bereitzustellen. Sie ermöglicht autonomes Software-Engineering durch cloudbasierte Agenten, Bearbeitung mehrerer Dateien und KI-Unterstützung in Echtzeit.",
+ "title": "Cursor: Der KI-native Code-Editor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

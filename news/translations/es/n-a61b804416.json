@@ -1,0 +1,10 @@
+{
+ "id": "n-a61b804416",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9fefbca25f7ec02931ee5f3115823d80c59f66fe8b59627de30224dc1ef912ba",
+ "summary": "El 2026-06-20, la línea de desarrollo de LTX-2.3 incorporó un enlace fechado al recurso de Hugging Face Lightricks/LTX-2.3-22b-IC-LoRA-Cross-Eyed. Es relevante como artefacto de proyecto con nombre propio y distinto, pero las pruebas disponibles no establecen sus capacidades, detalles de publicación ni flujo de trabajo previsto.",
+ "title": "Recurso LTX-2.3 IC-LoRA Cross-Eyed enlazado",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

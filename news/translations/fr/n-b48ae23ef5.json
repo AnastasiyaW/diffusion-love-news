@@ -1,0 +1,10 @@
+{
+ "id": "n-b48ae23ef5",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c37f8a2af049abcc31c948fb71bfaa1c4b05c8ad19a1389fe64a3e45cf3eb71a",
+ "summary": "Le 2026-07-30, un message daté du projet a relié LATO.2 à son site web, à son dépôt GitHub et à sa page Hugging Face. Ces liens établissent des points d'entrée publics pour le projet, mais ils ne permettent pas à eux seuls d'établir une version publiée, des capacités ou une modification précise du code source.",
+ "title": "Les ressources du projet LATO.2 ont été publiquement référencées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

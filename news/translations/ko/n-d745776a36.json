@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2025년 오픈소스 Wan2.1 시리즈에서 발전했으며, 네이티브 1080p 지원, 지시 기반 편집, 환각을 줄이기 위한 계획(planning) 계층을 추가했습니다. 단순한 생성에서 서사 전반에 대한 완전한 제어로 범위를 확장했습니다.",
+ "id": "n-d745776a36",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apache 2.0 라이선스의 오픈 웨이트로 공개되었습니다. 주요 혁신으로는 다중 참조 입력을 통한 캐릭터 일관성과, 정밀한 동작 전환을 위한 'First-and-Last-Frame' 모드가 있습니다.",
+ "source_sha256": "fc949f5835ffe41d253bdd21e82ac2e9e2cb8a5c05ac919828a212f3d9fa4eff",
+ "summary": "Alibaba Cloud가 선보인 포괄적인 영상 생성 프레임워크로, 1080p 텍스트-투-비디오, 전환 제어를 지원하는 이미지-투-비디오, 자연어 지시 기반 편집 기능을 갖추고 있습니다. 논리적 일관성과 물리적 정확성을 높이기 위해 'Thinking Mode'를 활용합니다.",
+ "title": "Wan2.7-Video — 감독 수준의 영상 생성 및 편집 스위트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

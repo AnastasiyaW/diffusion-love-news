@@ -1,0 +1,11 @@
+{
+ "id": "n-2222547f97",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast verarbeitete Text-zu-Video und Bild-zu-Video, während Pro Audio-zu-Video, Retake und Extend hinzufügte; 22B-dev- und distilled-Gewichte sowie Latent-Upscaler wurden ausgeliefert.",
+ "source_sha256": "0332afcf4f1322905920ce4cfb7fd721dd86b080ab6d6e73bf64be33d2f42540",
+ "summary": "Am 2026-03-05 wurde LTX-2.3 mit seiner Modellseite, einer Schnellstart-Dokumentation und einem Text-zu-Video-Playground verlinkt. Damit ist ein Schritt zur öffentlichen Verfügbarkeit und zum Onboarding für die LTX-2.3-Reihe markiert, der sowohl Referenzmaterial als auch einen interaktiven Einstiegspunkt umfasst.",
+ "title": "LTX-2.3 wurde mit Dokumentation und einem Text-zu-Video-Playground vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

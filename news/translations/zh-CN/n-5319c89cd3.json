@@ -1,0 +1,10 @@
+{
+ "id": "n-5319c89cd3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8ee9cb73adec4291934cd5e71ed63ff996ffbc34018f48ee22acac67cc681493",
+ "summary": "2026年6月14日，HuggingFace VFS 插件的开发分支中加入了指向该项目 GitHub 仓库的链接。这只是在历史记录中确立了仓库引用，所提供的证据并不能证明存在任何发布、实现变更或超出该链接之外的功能。",
+ "title": "HuggingFace VFS 插件源代码仓库已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

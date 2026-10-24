@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在早期 SeeClick 项目的定位（grounding）能力基础上，OpenMobile 发展为一个完整的任务执行流程。截至 2026 年，使用 Qwen3-VL 微调的版本已在 AndroidWorld 基准测试上达到了最先进的成功率。",
+ "id": "n-02d9e4ba24",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由南京大学与商汤科技（SenseTime）共同开发；此次发布包含 34K 个动作步骤，以及用于可视化智能体轨迹的工具。",
+ "source_sha256": "4a0a913af14e2cd2aecf80af7d155c493b316974de5662d634bb8873b619d03d",
+ "summary": "一个全面的框架与数据集，用于训练移动智能体，使其在 Android 环境中自主导航并执行多步骤任务。该工作提出了可扩展的任务合成流程以及策略切换式的 rollout 策略，以提升智能体性能和错误恢复能力。",
+ "title": "OpenMobile：开源移动智能体框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

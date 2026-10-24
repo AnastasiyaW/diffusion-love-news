@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó a partir de la línea de investigación de VLM-3R (mayo de 2025) hasta convertirse en un marco especializado en razonamiento espacial geométrico. En marzo de 2026 publicó código unificado y pesos de modelo, e introdujo enmascaramiento y fusión adaptativa para alcanzar un rendimiento de vanguardia en benchmarks espaciales.",
+ "id": "n-1b0490d011",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incorpora ramas especializadas para escenas 3D estáticas y para vídeo monocular dinámico. Estableció un nuevo SOTA en VSI-Bench y DSR-Bench.",
+ "source_sha256": "598205f98406c31c1c2187021c4f588785bca964041eaec1713000b79953dc60",
+ "summary": "GeoSR es un marco diseñado para mejorar el razonamiento espacial en modelos de visión y lenguaje (VLM) mediante la integración de señales geométricas 3D. Emplea enmascaramiento que libera la geometría y fusión con compuertas (gated fusion) para evitar que los modelos dependan de atajos visuales 2D tanto en entornos estáticos como dinámicos.",
+ "title": "GeoSR: razonamiento espacial geométrico para VLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

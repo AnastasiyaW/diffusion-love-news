@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "해당 뉴스 게시글은 Qwen Code 생태계와 맞닿아 있는, 성능이 향상된 멀티모달 Qwen3-Coder 모델을 보도했습니다. 이는 CLI 릴리스가 아니라 관련 모델 소식입니다.",
+ "id": "n-fe2f35c14b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d8d0bc794b7b55839b5306f3104b834c59256ebbc6f11ff9a7341904c0da4be",
+ "summary": "해당 뉴스 게시글은 Qwen Code 생태계와 맞닿아 있는, 성능이 향상된 멀티모달 Qwen3-Coder 모델을 보도했습니다. 이는 CLI 릴리스가 아니라 관련 모델 소식입니다.",
+ "title": "Qwen3-Coder, 멀티모달 기능 및 벤치마크 업데이트 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

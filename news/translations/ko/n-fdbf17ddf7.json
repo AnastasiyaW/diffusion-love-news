@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "최초 발표 이후, 공식 코드와 가중치가 2026년 초 Apple의 machine learning 저장소를 통해 공개되었다. 이후 NoPoSplat, DepthSplat과 같은 일반화 가능한 백본에 플러그앤플레이 방식의 고해상도 렌더링 모듈로 채택되고 있다.",
+ "id": "n-fdbf17ddf7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "홍콩대학교(The University of Hong Kong)와 Apple의 공동 연구이며, 네이티브 4K 피드포워드 Gaussian Splatting을 달성한 최초의 방법이라는 점에서 특히 주목할 만하다.",
+ "source_sha256": "0d1a2fcc293f1f76329a682e0e70fd7c96e0471f580a158be87ecf322a4b273f",
+ "summary": "컴팩트한 텍스처링된 가우시안 프리미티브를 활용하여 기하학적 복잡도를 렌더링 해상도로부터 분리하는 3D 재구성 프레임워크이다. 장면별 최적화 없이도 고충실도 4K 피드포워드 합성을 가능하게 한다.",
+ "title": "LGTM: Less Gaussians, Texture More for 3D Reconstruction",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

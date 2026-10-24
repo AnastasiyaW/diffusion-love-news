@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La plateforme est passée de modèles historiques basés sur des GAN à Lipsync-2, fondé sur la diffusion, puis au modèle phare actuel Sync-3. Sync-3 introduit le traitement natif en 4K, une détection avancée des obstructions et un doublage visuel sur plan complet qui préserve les textures de la peau et la cohérence de l'éclairage.",
+ "id": "n-d883c4c40c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Les fonctionnalités incluent la détection de locuteur actif (ASD-1) pour les scènes à plusieurs personnes, ainsi qu'une intégration aux workflows professionnels via un plugin Adobe Premiere Pro et une API robuste.",
+ "source_sha256": "f1f2dfe7b3b441b63dc37690cd85d49b68a326962a4fc993ffb309d2de37a8c8",
+ "summary": "Sync.so est une plateforme d'IA de niveau studio qui fournit un doublage visuel et une synchronisation labiale à haute fidélité pour la production vidéo professionnelle. Elle permet un clonage et un alignement vocaux sans couture, en préservant les mimiques et les nuances émotionnelles des acteurs dans plusieurs langues.",
+ "title": "Sync.so, studio de doublage visuel et de synchronisation labiale par IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

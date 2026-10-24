@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié par l'équipe Z-Image d'Alibaba comme alternative plus accessible à l'apprentissage par renforcement pour personnaliser les modèles à haute vitesse. Il est actuellement appliqué à Z-Image-Turbo ainsi qu'à des versions expérimentales de la famille FLUX.2.",
+ "id": "n-637b9d18ed",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Supprime le besoin de modèles de récompense externes en exploitant les capacités in-context du modèle de diffusion lui-même, qui joue le rôle de son propre enseignant pendant l'entraînement.",
+ "source_sha256": "b6409e2f583660aa1a8ea3ec063b416b87e3f808023119220cc8cc91ffa24931",
+ "summary": "Un paradigme d'entraînement développé par Alibaba pour l'affinage continu de modèles de diffusion efficaces à peu d'étapes, comme Z-Image-Turbo. Il repose sur une auto-distillation on-policy, qui permet d'adapter le style et les concepts sans perdre en vitesse ni en qualité de génération.",
+ "title": "D-OPSD : affinage continu pour les modèles de diffusion distillés en peu d'étapes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

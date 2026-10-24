@@ -1,0 +1,10 @@
+{
+ "id": "n-a2c367a2ab",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6e4cdcde89cd8b3dff4cf6a24ae5dc677ada0352ad61c20b8c28eb1ab374560c",
+ "summary": "El 18 de junio de 2026, la línea de desarrollo de MolmoMotion registró un recurso de Hugging Face para MolmoMotion-4B-H3-F30. El enlace fechado identifica una variante concreta del modelo, lo que lo convierte en un checkpoint relevante en el historial público de disponibilidad de modelos del proyecto. No se facilitó texto fuente ni documentación independiente sobre la publicación, por lo que este evento no afirma capacidades, licencias ni la relación de la variante con otras versiones.",
+ "title": "Registrado el recurso del modelo MolmoMotion-4B-H3-F30",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

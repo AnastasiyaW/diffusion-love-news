@@ -1,0 +1,10 @@
+{
+ "id": "n-ce536a0efc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6064614b928067e0d1fdfc66fdafd7da20bcd32f3b28656e29b3057ce0b65de",
+ "summary": "El 2026-04-06, NVIDIA demostró públicamente la compresión neuronal de texturas como técnica de reducción de la memoria destinada a texturas. El informe enlazado describió una comparación en la que el enfoque demostrado redujo el uso de VRAM de 6,5 GB a 970 MB, lo que constituye un avance público relevante para el proyecto.",
+ "title": "NVIDIA demostró la compresión neuronal de texturas con un uso de VRAM sustancialmente menor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

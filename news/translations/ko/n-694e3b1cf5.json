@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 서비스는 전용 ComfyUI 노드 통합과 Shutterstock과의 전략적 파트너십을 갖춘 상업용 플랫폼으로 성숙해졌습니다.",
+ "id": "n-694e3b1cf5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "기업 개발자를 위한 API 접근을 제공하며, 영상 업로드마다 여러 가지 스타일 변형을 생성합니다.",
+ "source_sha256": "cb7f1e099284417e4a0dc160060726008b39254fe34168b8b4d7883339583c4e",
+ "summary": "Sonilo는 영상의 움직임, 전개 속도, 장면 전환을 분석해 동기화된 사운드트랙을 만드는 생성형 AI 플랫폼입니다. 복잡한 텍스트 프롬프트 없이도 시각적 콘텐츠에 자동으로 맞춰지는 전문가 수준의 음악을 제공합니다.",
+ "title": "콘텐츠 크리에이터를 위한 Sonilo AI 비디오-투-뮤직 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3f0a9c0170",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b01da70fcc313be6aaeb2db0825b35be321b0ea7151335e958a6671a373ce859",
+ "summary": "2026 年 8 月 7 日，一则项目更新将两个独立的 ComfyUI Sol-Attn 代码库关联起来：一个标识为面向 Blackwell，另一个标识为面向 Triton。这是一个具有实质意义的进展，因为它表明针对不同执行环境的实现路径已可获取；但它并未证明这些实现的成熟度、兼容性或性能。",
+ "title": "ComfyUI 的 Sol-Attn 实现（面向 Blackwell 与 Triton）已建立关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

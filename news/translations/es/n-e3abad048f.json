@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado como marco de investigación en tendencia en ArXiv (ID: 2604.08546) en abril de 2026; actualmente se está integrando como módulo plug-and-play para modelos como OpenSora y Wan2.1.",
+ "id": "n-e3abad048f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el grupo H-EmbodVis de la Universidad de Ciencia y Tecnología de Huazhong; ofrece una mejora significativa en la precisión numérica sin necesidad de reentrenar el modelo.",
+ "source_sha256": "a12540d5c96851a2ee85169c291a6dd1701214608d7f5ca64d4a0f7ff61884e9",
+ "summary": "Un marco sin entrenamiento que mejora la precisión en el conteo de objetos en modelos de difusión de texto a vídeo. Identifica cabezas de atención específicas para crear disposiciones latentes contables, garantizando que el vídeo generado coincida con el número exacto de instancias indicado en el prompt.",
+ "title": "NUMINA: alineación numérica para modelos de difusión de vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

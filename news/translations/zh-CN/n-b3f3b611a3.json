@@ -1,0 +1,10 @@
+{
+ "id": "n-b3f3b611a3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "671d9822808e46f6b14c991442470d2177cd1f82990614002e06845ebee1fb0d",
+ "summary": "2026年7月26日，一条开发动态链接了 Nanbeige4.2-3B 的 Hugging Face 模型页面、一份相关量化基础模型条目的筛选列表，以及一个推理空间（inference space）。这为该模型及其相关部署选项确立了一个带日期的公开访问入口。",
+ "title": "Nanbeige4.2-3B 公开模型与推理资源已链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt von einem einfachen Automatisierungsskript zu einem spezialisierten Agenten-Skill mit lokal-first Rendering, automatischer Entfernung von Füllwörtern und Unterstützung für programmatische Overlays über HyperFrames und Remotion.",
+ "id": "n-047f61d312",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimiert für terminalbasierte Agenten; enthält '12 hard rules' für professionelle Schnitte und wurde kürzlich um UTF-8-Kodierung sowie die Erhaltung der Hochformat-Ausrichtung erweitert.",
+ "source_sha256": "60b6f9112b9eaa58b79539cca7b019e32d090513e3b38734f37170cd1a001224",
+ "summary": "Ein Open-Source-Framework, das KI-Agenten wie Claude Code ermöglicht, Videobearbeitung per natürlicher Sprache automatisiert durchzuführen. Es nutzt visuelle Composites und strukturierte Metadaten, um FFmpeg präzise und tokeneffizient zu steuern.",
+ "title": "video-use: KI-Agent-Toolkit für Videobearbeitung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目由一款私有的分镜工具发展为功能完备的 AI 视频工作站，支持多轨编辑、关键帧和用于结构化制作的“Director Mode”（导演模式）。近期更新新增了 Workflow Manager（工作流管理器），可自动发现并安装节点与模型。",
+ "id": "n-18e6b47885",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "具备用于显存感知生成的“Hardware Tiers”（硬件等级）功能，并集成了本地 LLM，可提供提示词辅助和分镜规划。",
+ "source_sha256": "c7b7f97971741a4b7da6608f0b0941d9b368bf033e2f10cb7ae40c26019d5a16",
+ "summary": "一款基于 ComfyUI 构建的开源非线性视频编辑器（NLE）。它将传统时间线与 AI 生成工作流相结合，支持迭代式视频创作、镜头规划和多轨剪辑。",
+ "title": "ComfyStudio：基于时间线的 ComfyUI AI 视频编辑器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

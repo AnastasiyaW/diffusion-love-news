@@ -1,0 +1,11 @@
+{
+ "id": "n-28ab3dac33",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Examinez les limites réglementaires régionales et les directives de conformité fédérales avant d'intégrer l'API DeepSeek ou les poids des modèles dans les flux de travail institutionnels.\n\nPrévoyez un accès commercial à l'API ou des grappes de calcul privées s'appuyant sur une infrastructure indépendante afin de préserver la continuité opérationnelle.\n\nIsolez les pipelines de déploiement des fournisseurs de modèles dont le siège est en Chine des environnements de données fédéraux et réglementés occidentaux, afin de respecter les restrictions en matière de marchés publics.",
+ "source_sha256": "452a0ed5f8ac7c4942c05ad024b3e3f8d4c0f8a58ab18bcba380ebc550e735d7",
+ "summary": "DeepSeek a levé 15 milliards de dollars peu après que les agences civiles fédérales américaines ont reçu l'ordre de cesser d'utiliser ses modèles, pour des motifs de sécurité nationale.",
+ "title": "DeepSeek lève 15 milliards de dollars malgré les restrictions de déploiement imposées par le gouvernement fédéral américain",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

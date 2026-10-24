@@ -1,0 +1,10 @@
+{
+ "id": "n-cf04305133",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4956ee8ba33621ccd5feccfe84ec1a718f4a5ca4d5a4a63aefa41684f480a332",
+ "summary": "2026-06-19，记录的链接指向了 realrebelai/Boogu-Image-Edit_GGUFs Hugging Face 仓库，以及一个相关的“The source reference”。这是一个重要的分发里程碑，因为它为 GGUF 格式的 Boogu-Image-Edit 系列确立了一个公开的参考点。",
+ "title": "Boogu-Image-Edit 的 GGUF 制品已被公开引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

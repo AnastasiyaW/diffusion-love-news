@@ -1,0 +1,11 @@
+{
+ "id": "n-e69923fb8b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Sous Linux avec Python 3.12 et uv, créez l'environnement virtuel documenté, installez le paquet en mode éditable et lancez la démo sans identifiants avant de connecter un modèle.\n\nPour une exécution reposant sur un modèle, installez les dépendances d'exécution et de benchmark listées, configurez les paramètres du modèle et l'authentification, puis commencez avec une seule tâche de benchmark et une sélection restreinte.\n\nLancez les étapes de vérification, d'affinement, d'évaluation et de génération de rapports avec un benchmark, un exécuteur, un sous-ensemble, un budget de récursion, un mode et une graine (seed) identiques ; utilisez le mode dry-run pour inspecter la sélection des tâches sans appel au modèle.\n\nChoisissez la récursion parallèle pour explorer plus largement les harnais candidats, ou la récursion séquentielle pour enchaîner les affinements sur plusieurs étapes successives ; ne conservez les harnais retenus qu'accompagnés des preuves d'exécution qui les étayent.\n\nConfigurez les restrictions réseau avant l'évaluation, afin que les grilles de notation, les réponses ou les critères de correction publics des benchmarks ne puissent pas fuiter vers un exécuteur disposant d'un accès web sans restriction.\n\nConservez la configuration d'évaluation identique à celle de l'exécution d'affinement lors de l'évaluation et de la génération des rapports ; modifier le benchmark, l'exécuteur, le sous-ensemble, le mode de récursion, le budget ou la graine invalide une comparaison à conditions identiques.\n\nConsidérez les budgets de récursion plus importants comme un compromis explicite entre calcul et performance : l'article comptabilise à la fois les jetons d'exécution et les jetons d'amélioration, et ses gains n'ont été mesurés que dans les configurations de benchmark évaluées.",
+ "source_sha256": "f2a2ba802e0e0519b32a6dc609b19e33ecc1ac21e3f4221c3b8b877bd09eaf80",
+ "summary": "Le dépôt public comprend une démo locale déterministe et une procédure d'installation documentée pour les exécutions de benchmark reposant sur un modèle.",
+ "title": "Le code source de Harness² est disponible sous licence Apache-2.0",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

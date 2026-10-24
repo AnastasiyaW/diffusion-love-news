@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 스테레오 유틸리티 노드에서 출발하여, 시야각 확장을 위해 LTX-Video 2.3과 통합된 포괄적인 파노라마 아웃페인팅 시스템으로 발전했습니다.",
+ "id": "n-af1e479850",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "VRAM을 고려한 설치 프로그램과 사이드-바이-사이드(SBS) 3D 깊이 생성을 위한 전용 노드를 포함합니다.",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "일반 영상 콘텐츠를 아웃페인팅하여 몰입형 VR 파노라마를 만들기 위한 ComfyUI 노드 모음입니다. 파노라마 확장에 LTX-Video 2.3을 활용하며 VR180, 360 equirectangular, fisheye 투영을 지원합니다.",
+ "title": "Muffins Flat 2: ComfyUI VR 파노라마 노드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

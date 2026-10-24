@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 연구용 프로토타입에서 3.5B 및 1B 변형을 포함한 프로덕션 준비형 모델 제품군으로 발전했습니다. Adaptive Projection Guidance(APG)를 도입했으며 ComfyUI 생태계와 완전히 통합되었습니다.",
+ "id": "n-d967265835",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "화자 유사도와 자연스러움 벤치마크에서 Seed-TTS를 능가하며, 폭넓은 접근성을 위해 MIT 라이선스로 공개되었습니다.",
+ "source_sha256": "40c885a19554cac8ac60145c957d1ba52ac67d924283ac13d3afedd83b7d268a",
+ "summary": "Wav-VAE를 사용해 파형 잠재 공간에서 직접 동작하는 최첨단 확산 기반 음성 합성 프레임워크입니다. 고충실도 제로샷 음성 복제와 자연스러운 음성 생성을 최적화된 추론과 함께 지원합니다.",
+ "title": "LongCat-AudioDiT: 고충실도 파형 잠재 확산 TTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

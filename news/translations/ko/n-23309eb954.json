@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026에 채택되었으며, 초기 ArXiv 공개 이후 전체 학습 코드와 Synth4K 벤치마크를 포함하도록 프로젝트가 확장되었습니다. 이후 DINOv3 백본 지원, 다중 뷰 깊이 추론, 3D Gaussian Splatting 형식으로의 직접 내보내기 기능이 추가되었습니다.",
+ "id": "n-23309eb954",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "절강대학교(zju3dv)에서 개발했으며, novel view synthesis 성능 향상을 위해 Infinite Depth Query(IDQ) 전략을 도입했습니다.",
+ "source_sha256": "18f8d7d9baedbfa97600bd63558e3c102d11a05b57d4525db432817511807aab",
+ "summary": "신경 암시적 필드(neural implicit field)를 활용해 연속적인 2D 좌표에서 깊이를 예측하는 단안 깊이 추정 프레임워크입니다. 4K/8K까지의 임의 해상도 출력을 지원하며, 격자 기반 기존 방법들이 흔히 뭉개 버리는 난간이나 전선 같은 미세한 구조를 포착합니다.",
+ "title": "InfiniDepth: 임의 해상도 단안 깊이 추정",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto ha evolucionado desde la v3 hasta la v11, incorporando modelos especializados para la edición por cuadro delimitador y arrastrar y soltar. Estas actualizaciones mejoran el bloqueo de identidad al dirigirse a bloques arquitectónicos específicos y su integración en Hugging Face Spaces interactivos.",
+ "id": "n-e5bb396e69",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La intensidad de inferencia óptima está entre 0,65 y 0,75; la preservación de la identidad se concentra en los bloques dobles 6-7 de la arquitectura Klein.",
+ "source_sha256": "24ac5cc0d6fc5b1957b7bb4ea8cb3da2ec88d5ef306b7b3417b410a52a21776e",
+ "summary": "Un LoRA especializado para el modelo FLUX.2 [klein] 9B que permite el movimiento interactivo y preciso de objetos dentro de escenas generadas. Preserva la identidad de los personajes y la consistencia de las texturas durante la edición espacial, mediante flujos de trabajo con cuadros delimitadores o de arrastrar y soltar.",
+ "title": "FLUX.2 [klein] Move: LoRA para la reubicación interactiva de objetos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

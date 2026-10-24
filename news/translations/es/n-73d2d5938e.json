@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto pasó de una orquestación exclusivamente local a un modelo remote-first en la versión 2.0, con la incorporación de Cloud Workspaces y una CLI independiente. Amplió su soporte de Claude Code y Codex a un ecosistema agnóstico que incluye Cursor y Gemini CLI.",
+ "id": "n-73d2d5938e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entre las características técnicas clave se incluyen el aislamiento mediante Git worktrees para la separación de tareas a nivel de rama y Electric SQL para la sincronización en tiempo real entre espacios de trabajo.",
+ "source_sha256": "a7d61e426aa57a2102be39e0f8136d3fbd6dc3ce6437615597408b2097d5736a",
+ "summary": "Un orquestador de terminal y de IDE de código abierto diseñado para la ejecución en paralelo de múltiples agentes de programación con IA. Utiliza Git worktrees para aislar las tareas de cada agente, evitando conflictos de archivos y la mezcla de contextos durante el desarrollo concurrente.",
+ "title": "Orquestador de agentes de IA en paralelo Superset",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

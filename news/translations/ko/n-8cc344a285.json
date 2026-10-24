@@ -1,0 +1,10 @@
+{
+ "id": "n-8cc344a285",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e16645bf0c3927c7d2005331a0280f70db0c16deb26b5ed7928a5b18bc29149a",
+ "summary": "2026-07-18, Decart는 Lucy 2.5의 공개 페이지와 연결된 공개 제품 엔드포인트를 발표했습니다. 날짜가 명시된 공식 링크가 이전 게시물의 재게시가 아닌 별개의 버전을 가리키고 있으므로, 이는 Lucy 계열에서 주목할 만한 공개 진전입니다. 다만 제공된 링크만으로는 이 버전의 정확한 기능, 성능, 제공 여부, 이전 Lucy 릴리스와의 관계를 확정할 수 없습니다.",
+ "title": "Decart, Lucy 2.5 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

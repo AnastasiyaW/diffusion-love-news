@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目最初作为电影级视频工作室的替代方案推出，后更名为 Open Generative AI，以体现其向支持图像、视频和音频模型的综合性平台的扩展。项目引入了基于节点的 Workflow Studio，并通过 C++ 引擎新增了本地模型推理能力。",
+ "id": "n-5ade5d658c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目采用 MIT 许可证，但默认依赖创建者的付费 Muapi 服务；不过较新版本支持自托管的本地服务器进行推理。",
+ "source_sha256": "b94244fdd535a325a1e457ff041571018616d47ac9e56338a56ff13d7eb09c50",
+ "summary": "一个开源的多模型图像、视频与音频生成工作室，可作为多种 SOTA 模型的统一前端。它支持 200 多个模型，包括 Flux、Kling 和 Wan，并提供用于口型同步和电影级视频制作的专用工作室。",
+ "title": "Open Generative AI（原 Open Higgsfield AI）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

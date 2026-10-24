@@ -1,0 +1,10 @@
+{
+ "id": "n-daa3090ac6",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c88cbebc6adf7914b655984cb9d74e74b197ffa0eb10adb8f00c53b50757fdb6",
+ "summary": "2 июня 2026 года в датированной записи о Bernini были опубликованы ссылки на сайт проекта и на репозиторий модели ByteDance/Bernini на Hugging Face. Также были приведены ссылка на JSON-файл тестового воркфлоу Bernini и ссылка на каталог Bernini в репозитории Kijai WanVideo Comfy FP8 scaled. В совокупности эти ресурсы означают существенный шаг к доступу к модели и к использованию в ComfyUI.",
+ "title": "Ресурсы модели Bernini и воркфлоу ComfyUI: опубликованы ссылки",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

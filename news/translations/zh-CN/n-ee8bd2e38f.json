@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已从传统的提示词框架转型为基于 Pi SDK 构建的独立监督级 CLI。近期更新新增了状态对账、漂移检测以及自动化工作区生命周期管理。",
+ "id": "n-ee8bd2e38f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "其整个生态系统的 GitHub Star 数已超过 62,000，并通过 gsd-pi npm 包分发。",
+ "source_sha256": "f846dfad830739d7772a8f4354cb75dbf8cdd1d67426ba0869a24d8d8a216f88",
+ "summary": "一款基于命令行的自主智能体，旨在通过状态管理的任务分解来自动化复杂的软件工程工作流。它负责管理 git 操作、上下文窗口和验证循环，以实现可靠的免值守开发。",
+ "title": "GSD 2：面向软件工程的自主 CLI 智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

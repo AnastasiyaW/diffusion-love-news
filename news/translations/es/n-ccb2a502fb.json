@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evoluciona a partir del 3DGS estático (2023) y del 4DGS de intervalos fijos (2024) hasta convertirse en un modelo de densificación adaptativa presentado en Eurographics 2026. Sustituye los intervalos temporales rígidos por un refinamiento consciente del movimiento, mejorando significativamente el rendimiento en escenas dinámicas estocásticas.",
+ "id": "n-ccb2a502fb",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduce un optimizador Adam ponderado y una regularización ARAP (as-rigid-as-possible) guiada por imagen, ahora ampliamente utilizada en pipelines de renderizado en tiempo real para VR/AR.",
+ "source_sha256": "0377e0b370988b0f512c8c0a70389096f6930f55643f0bdbc24a3d315c6912da",
+ "summary": "Un marco para la reconstrucción de escenas dinámicas que emplea una densificación espacio-temporal adaptativa para modelar movimientos oscilatorios complejos, como la vegetación agitada por el viento o las ondulaciones del agua. Logra un renderizado 4D de alta fidelidad refinando las primitivas en función de la varianza del movimiento y de los momentos del error.",
+ "title": "Splatting Gaussiano 3D espacio-temporal adaptativo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

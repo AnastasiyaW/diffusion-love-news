@@ -1,0 +1,10 @@
+{
+ "id": "n-498f6ed5c2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c05292600227dc3698bdc17d2d2a09c0fa5d21b4dd04658ee74a931aba6e111a",
+ "summary": "2026-07-26 기준 VVAH 개발 흐름에는 Visa의 공개 Visa Vulnerability Agentic Harness GitHub 저장소에 대한 링크가 포함되어 있었다. 날짜가 기록된 이 링크는 해당 프로젝트를 에이전트 기반 취약점 하네스 자료로 식별하지만, 릴리스, 버전, 기능 구성 또는 운영 결과를 확인해 주지는 않는다.",
+ "title": "Visa Vulnerability Agentic Harness 저장소 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

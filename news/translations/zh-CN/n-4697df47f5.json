@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目被CVPR 2026接收，并推出了ViewBench，这是一个专门用于评估多模态大语言模型视角推理能力的基准。论文发表后，官方推理代码和基准数据集随即公开发布。",
+ "id": "n-4697df47f5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由KAIST Visual AI Group开发；采用反向token warping，在保持语义一致性的同时，对深度估计误差具有鲁棒性。",
+ "source_sha256": "470662e6ecc753009aa0c54ab45e03c0ecee920e05432296826570106ac6cf2a",
+ "summary": "一个免训练的研究项目，通过在Vision Transformer中对图像token进行扭曲（warping），使多模态大语言模型能够推理不同视角。这种几何操作方法让模型无需额外微调即可完成空间推理和心理旋转。",
+ "title": "面向多模态大语言模型视角理解的Token Warping方法",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

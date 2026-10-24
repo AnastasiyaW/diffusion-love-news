@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Suite à son acceptation à CVPR 2026, le projet a été mis à jour en v2 en avril 2026. Cette version a introduit un décodeur VAE conditionnel amélioré, une attention éparse optimisée pour le traitement de vidéos 4K, et des capacités d'inférence distribuée sur plusieurs GPU.",
+ "id": "n-88b74a7e58",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par des chercheurs de l'USTC et d'Alibaba ; le cadre utilise Wan2.1-T2V-1.3B comme backbone et se généralise avec succès à la résolution 4K grâce à l'encodage VAE par tuiles.",
+ "source_sha256": "93d1cb5025a7d37b0d329fc040de48b0455f94b7281a37bf1b8433e39d48de76",
+ "summary": "Un cadre d'interpolation d'images vidéo à l'état de l'art qui adapte l'architecture de transformeur de diffusion Wan2.1 à la modélisation holistique de séquences. Il utilise une génération auto-régressive avec un échantillonnage Skip-Concatenate afin de maintenir la cohérence temporelle dans les vidéos longues et les images haute résolution.",
+ "title": "LDF-VFI : Local Diffusion Forcing pour l'interpolation d'images vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

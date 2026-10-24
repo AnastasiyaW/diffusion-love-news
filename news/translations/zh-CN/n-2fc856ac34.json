@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已被 CVPR 2026 接收，标志着研究思路从对抗式的“军备竞赛”转向协同演化模型。项目基于 BAGEL-7B-MoT 架构构建，并在跨生成器检测泛化任务上展现出最先进的性能。",
+ "id": "n-2fc856ac34",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目由清华大学的研究人员开发；模型权重托管于 Hugging Face 上的 Yanran21 组织下。",
+ "source_sha256": "b8e1d19642995c38ceaa8afab8ff6e87fb69bd9cf074e687019513c5ba93b7de",
+ "summary": "UniGenDet 是一种闭环架构，将图像生成与 AI 生成图像检测联系起来。它使生成器与检测器同步演化，利用生成先验增强检测的鲁棒性，并借助检测器的反馈提升图像的真实感。",
+ "title": "UniGenDet：面向图像生成与检测协同演化的统一生成-判别框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

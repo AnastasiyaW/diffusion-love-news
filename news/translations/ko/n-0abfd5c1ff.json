@@ -1,0 +1,10 @@
+{
+ "id": "n-0abfd5c1ff",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3dd7ffaf7aa5e8665937c98dee5d91c0a685b5c71d0add7a088b3fd4b02b7d8c",
+ "summary": "2026년 7월 25일, NVIDIA의 SIGGRAPH 2026 뉴스 페이지가 NVIDIA Build에 있는 Synthetic Video Detector 전용 페이지로 연결되었습니다. 이는 이 프로젝트를 NVIDIA의 공개 개발자 플랫폼과 연결했다는 점에서 중요한 공개 및 가용성 이정표입니다. 다만 제공된 링크만으로는 이 탐지기의 기능, 출시 성숙도, 배포 세부 사항을 확인할 수 없습니다.",
+ "title": "NVIDIA, SIGGRAPH 2026 자료에 Synthetic Video Detector 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

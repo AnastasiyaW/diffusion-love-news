@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die Entwicklung führte von statischem 3DGS (2023) und 4DGS mit festen Zeitintervallen (2024) zu einem adaptiven Verdichtungsmodell, das auf der Eurographics 2026 vorgestellt wurde. Anstelle starrer zeitlicher Intervalle setzt es auf bewegungsbasierte Verfeinerung und verbessert die Leistung bei stochastischen dynamischen Szenen deutlich.",
+ "id": "n-ccb2a502fb",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Eingeführt wurden ein gewichteter Adam-Optimierer und eine bildgesteuerte As-Rigid-As-Possible-(ARAP-)Regularisierung, die heute in Echtzeit-Rendering-Pipelines für VR/AR weit verbreitet ist.",
+ "source_sha256": "0377e0b370988b0f512c8c0a70389096f6930f55643f0bdbc24a3d315c6912da",
+ "summary": "Ein Framework zur Rekonstruktion dynamischer Szenen, das eine adaptive Verdichtung im Raum-Zeit-Kontinuum nutzt, um komplexe oszillierende Bewegungen wie Vegetation im Wind oder Wasserwellen zu modellieren. Durch die Verfeinerung der Primitive auf Grundlage von Bewegungsvarianz und Fehlermomenten erreicht es ein hochwertiges 4D-Rendering.",
+ "title": "Adaptives räumlich-zeitliches 3D Gaussian Splatting",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目基于 2026 年 4 月发布的 Gemma 4 模型系列,该系列引入了“Thinking Mode”,并在智能体推理能力方面取得了大幅提升。目前,项目支持量化后的 E2B 和 E4B 模型,以实现经过优化的端侧性能。",
+ "id": "n-ae3f3a3876",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用注重隐私的架构,通过 Chrome 扩展程序实现;需要支持 WebGPU 的浏览器。",
+ "source_sha256": "e3ffc3ef72729aca69e5c58165b0267646e466017b7654392c6cefc0c4530b33",
+ "summary": "一个完全自主的 AI 智能体,利用硬件加速的 WebGPU 和 Google 的 Gemma 4 模型在浏览器本地运行。它可以执行网页导航、表单填写和 JS 代码执行,无需外部 API 密钥或云端连接。",
+ "title": "Gemma Gem:基于 WebGPU 的本地浏览器 AI 智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

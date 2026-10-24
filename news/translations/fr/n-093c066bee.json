@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement outil d'automatisation de bureau, QClaw est devenu une plateforme intégrée à WeChat et QQ dès le début de 2026. Une bêta mondiale a été lancée en avril 2026, faisant évoluer le produit vers un agent à usage universel capable de gérer des tâches de productivité, de planification et automobiles.",
+ "id": "n-093c066bee",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Repose sur une architecture local-first dans laquelle le smartphone fait office de point de terminaison de télécommande ; Tencent affirme que 99 % du code de la version internationale a été généré par l'agent lui-même.",
+ "source_sha256": "6b9e4a2f51bd8838124e942f84be875f94e959e843b5d023b4819f8b7e156d34",
+ "summary": "QClaw est un écosystème d'agents IA sans configuration qui automatise des tâches de bureau via une interface mobile. Il s'exécute localement sur des appareils Windows ou Mac et s'appuie sur le modèle Hunyuan 3.0 pour le raisonnement complexe en plusieurs étapes.",
+ "title": "QClaw : l'agent d'automatisation de bureau de Tencent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

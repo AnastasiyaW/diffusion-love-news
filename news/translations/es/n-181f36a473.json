@@ -1,0 +1,10 @@
+{
+ "id": "n-181f36a473",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2fad68eae3f302ed117c6601cb859567fc955deac3a5f44aa8e878220340692f",
+ "summary": "El 30 de junio de 2026, el registro fechado enlazó la página del modelo MOSS-Transcribe-preview-2B de OpenMOSS y un servicio de transcripción de audio de Mosi Studio. En conjunto, estos enlaces marcan un paso visible en la línea de desarrollo de OpenMOSS para la transcripción de voz, con el modelo identificado explícitamente como una versión preliminar.",
+ "title": "OpenMOSS presenta un modelo de transcripción preliminar de 2B y un servicio de transcripción",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

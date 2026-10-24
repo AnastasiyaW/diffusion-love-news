@@ -1,0 +1,11 @@
+{
+ "id": "n-1b9a2f0f92",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Obtenez les checkpoints de modèles à poids ouverts ainsi que les shards de quantification communautaires distribués sous licence MIT.\n\nServez le modèle sur des moteurs d'inférence compatibles MoE configurés pour l'activation parcimonieuse et la mise en cache compressée des paires clé-valeur sur des fenêtres de contexte d'un million de tokens.\n\nConnectez les harnais de développement à l'endpoint du modèle en intégrant les API Search et Fetch de première partie pour l'ancrage web.\n\nDéployez avec des harnais de service prenant en charge la gestion du KV-cache compressé afin de maintenir des empreintes mémoire raisonnables pour les sessions à long contexte.\n\nAssociez le checkpoint à des harnais de développement spécialisés, tels que DeepSeek Harness, afin de tirer parti d'une verbosité de sortie réduite et d'une exécution plus rapide en terminal.",
+ "source_sha256": "e5c179ab62faf138134aa40424dbbcbda7406b7282a81cf662e6ad76eebc5562",
+ "summary": "DeepSeek a publié le checkpoint à poids ouverts V4.1-Flash-1017 sous licence MIT, en optimisant le routage parcimonieux de type mixture-of-experts pour les tâches en terminal, les workflows de programmation et la réduction de la longueur des sorties.",
+ "title": "DeepSeek publie le modèle à poids ouverts V4.1-Flash-1017 doté d'optimisations agentiques pour l'usage d'outils",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

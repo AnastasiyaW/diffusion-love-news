@@ -1,0 +1,10 @@
+{
+ "id": "n-0ad60b8778",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f1ad0343cccc1e6edbd3877d15d3b0e80e61ac4cec9ccdcf26b053b8be80ff3d",
+ "summary": "2026 年 8 月 12 日，Nemotron 3.5 Lightning 开发系列通过一组公开链接得到了记录，这些链接包括其 NVIDIA Hugging Face 模型页面、相关模型搜索结果以及 NVIDIA 托管的 playground。同一组链接还将该系列与 NVIDIA-NeMo Switchyard 代码仓库和一个 DSpark 变体联系起来，显示了其在当时的公开分发情况和相关工具链。",
+ "title": "Nemotron 3.5 Lightning 公开模型与 Playground 资源浮出水面",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

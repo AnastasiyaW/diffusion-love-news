@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "초기 SeeClick 프로젝트의 grounding 역량을 바탕으로 OpenMobile은 완전한 작업 실행 파이프라인으로 발전했습니다. 2026년 현재 Qwen3-VL을 사용해 파인튜닝한 버전이 AndroidWorld 벤치마크에서 최첨단(state-of-the-art) 성공률에 도달했습니다.",
+ "id": "n-02d9e4ba24",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "난징대학교와 SenseTime이 개발했으며, 이번 공개에는 34K 액션 스텝과 에이전트 트래젝터리를 시각화하는 도구가 포함되어 있습니다.",
+ "source_sha256": "4a0a913af14e2cd2aecf80af7d155c493b316974de5662d634bb8873b619d03d",
+ "summary": "Android 환경에서 모바일 에이전트가 자율적으로 탐색하고 다단계 작업을 수행하도록 학습시키기 위한 포괄적인 프레임워크이자 데이터셋입니다. 에이전트 성능과 오류 복구를 개선하기 위해 확장 가능한 작업 합성 파이프라인과 정책 전환 롤아웃 전략을 도입합니다.",
+ "title": "OpenMobile: 오픈소스 모바일 에이전트 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "基于 Meta 的 TRansformative Inference for Behavioral Evaluation（TRIBE）v2 框架构建；该工具集成了本地 Whisper 转录功能，并提供基于 Ollama 的编辑建议，以支持创意策略制定。",
+ "id": "n-f9bd7f602b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要 NVIDIA GPU（6GB 及以上显存）和 Windows 系统；专为逆向分析爆款视频的钩子与结构模式而设计。",
+ "source_sha256": "490a94b437ac6dfb6a8b6c2656665dcdde1c76b6699aeb7dd856c95d89d73c5c",
+ "summary": "一款本地 Web 应用，用于借助 TRIBE v2 行为推断模型分析 Meta 视频广告。它将原始的脑部响应预测转换为可视化的审阅格式，以帮助优化视频结构和创意钩子。",
+ "title": "TRIBE Review MVP",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

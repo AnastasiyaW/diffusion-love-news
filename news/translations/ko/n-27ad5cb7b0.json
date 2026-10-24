@@ -1,0 +1,10 @@
+{
+ "id": "n-27ad5cb7b0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3c355901691f74eeb773dbe1518f6f10f1848ca353f3e1e10c3a3868a75c0433",
+ "summary": "2026-03-24에 Covo-Audio 개발 라인에서 Hugging Face 리소스 tencent/Covo-Audio-Chat에 대한 링크가 기록되었습니다. 날짜가 명시된 이 링크는 관련 공개 리소스가 존재함을 보여주지만, 해당 리소스의 기능, 버전, 공개 상태 또는 변경 내역은 알려주지 않습니다. 따라서 이 이력 항목은 리소스 연관성만을 기록합니다.",
+ "title": "Covo-Audio-Chat Hugging Face 리소스 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

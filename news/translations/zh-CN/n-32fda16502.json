@@ -1,0 +1,10 @@
+{
+ "id": "n-32fda16502",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e184e9ecab410117afc2157e179742efe601f12e76d61dc876ae11adb816471e",
+ "summary": "2026 年 8 月 10 日，Qwen 相关讨论串中引用了 Qwen-MM-Plugins GitHub 仓库。现有证据仅包含日期和仓库链接，因此本条仅记录该项目仓库的引用，不断言任何版本发布、功能或模型变更。",
+ "title": "Qwen-MM-Plugins 仓库被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

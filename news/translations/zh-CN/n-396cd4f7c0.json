@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已扩展为面向 LTX-2.3 的综合视频修复套件，新增 ReFocus（镜头模糊）、去隔行（Deinterlace）和解压缩（Uncompress）等工具。目前该项目已成为 LTX Collaborations 组织的核心项目，提供专业级修复工作流。",
+ "id": "n-396cd4f7c0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要使用专用的 LTXICLoRALoaderModelOnly 节点，才能在 ComfyUI 流程中实现。",
+ "source_sha256": "6e88b618fa0d505018c35d2c4e6f1d318bac83a74c0d7e2211a077e43a337281",
+ "summary": "一款专为 Lightricks LTX-2.3（22B）模型设计的专用 In-Context LoRA（IC-LoRA），用于去除运动模糊和逐帧拖影。它是一种视频到视频的修复工具，以模糊的源视频作为条件，重建清晰的帧。",
+ "title": "面向 LTX-2.3 视频修复的 MotionDeblur IC-LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

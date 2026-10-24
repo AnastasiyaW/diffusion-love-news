@@ -1,0 +1,10 @@
+{
+ "id": "n-75651b6d80",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5789c7d06d7f304323909b44b5ea80f47d4dd3f0f10fd963ef707a93137f47e2",
+ "summary": "2026년 6월 19일, Lightricks의 LTX-2.3-22B IC-LoRA Ingredients에 대한 Hugging Face 모델 페이지가 이번 개발 흐름에 기록되었다. 날짜가 명시된 링크는 LTX-2.3의 별도 모델 아티팩트가 존재함을 확인해 주지만, 제공된 근거만으로는 해당 릴리스 노트, 기능, 권장 워크플로는 확인되지 않는다.",
+ "title": "Lightricks, LTX-2.3 IC-LoRA Ingredients 모델 페이지 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

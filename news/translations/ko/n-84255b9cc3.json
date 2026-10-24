@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "검증된 래퍼 개정판은 U1.5 preview/formal 및 GGUF, INT8, FP8, BF16 경로를 문서화하고, 기존의 8단계 LoRA 안내는 취소선으로 표시했습니다.",
+ "id": "n-84255b9cc3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fea5003884ead1e4a5306206154db7075ccb6d176ab2c63a09153178bcdbadef",
+ "summary": "검증된 래퍼 개정판은 U1.5 preview/formal 및 GGUF, INT8, FP8, BF16 경로를 문서화하고, 기존의 8단계 LoRA 안내는 취소선으로 표시했습니다.",
+ "title": "SenseNova U1 래퍼, U1.5 및 최신 양자화 경로로 이동",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'un cadre centré sur la mémoire à un écosystème complet de « Digital Partner », doté d'une visualisation de la mémoire en 3D et d'une orchestration autonome des workflows.",
+ "id": "n-dd8d68b69f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Créé par Pavel Muntyan (créateur de Mr. Freeman) ; le projet met en avant une approche « souveraine par conception », dans laquelle toutes les données restent dans une base SQLite locale.",
+ "source_sha256": "81c3fb5dc215544b503288d04fdd39a8e62621e8c9c00f6b606e54256fc0f476",
+ "summary": "Un orchestrateur d'agents IA open source, conçu en priorité pour un fonctionnement local, qui s'appuie sur des graphes de connaissances 3D hiérarchiques et des résumés de conversations pour gérer la mémoire à long terme. Il met la confidentialité des données au premier plan et prend en charge plusieurs fournisseurs de LLM via le Model Context Protocol.",
+ "title": "MF0-1984 : une mémoire à long terme pour les agents IA multimodaux",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-daa3090ac6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c88cbebc6adf7914b655984cb9d74e74b197ffa0eb10adb8f00c53b50757fdb6",
+ "summary": "2026년 6월 2일자 Bernini 항목에는 프로젝트 웹사이트와 Hugging Face의 ByteDance/Bernini 모델 저장소가 연결되어 있었습니다. 또한 Bernini 테스트 워크플로 JSON과 Kijai의 WanVideo Comfy FP8 scaled 저장소 내 Bernini 디렉터리 링크도 포함되었습니다. 이들 리소스는 모델 접근성과 ComfyUI 중심 활용을 향한 의미 있는 진전을 보여줍니다.",
+ "title": "Bernini 모델 및 ComfyUI 워크플로 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

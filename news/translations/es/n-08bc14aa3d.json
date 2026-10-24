@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de ser una sencilla utilidad de dictado para Mac a un ecosistema agéntico multiplataforma con una integración profunda de LLM locales y en la nube. Añadió 'Modes' para el formateado específico de cada tarea y cumplimiento de SOC 2/HIPAA para uso empresarial.",
+ "id": "n-08bc14aa3d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Admite el procesamiento sin conexión en Apple Silicon y la opción Bring Your Own Key (BYOK) para modelos como GPT-5.5 y Claude 4.7.",
+ "source_sha256": "b2549600b48d47afb3eba03f7e81c62fde2b73ea8706cf3df97755f99001f9ac",
+ "summary": "Herramienta de transcripción con IA que funciona primero sin conexión y utiliza modelos Whisper para convertir voz en texto en múltiples plataformas. Incluye modos personalizables y flujos de trabajo agénticos para pulir el texto y darle formatos específicos mediante LLM locales o en la nube.",
+ "title": "Superwhisper: transcripción universal de voz a texto con IA para escritorio y móvil",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von der ursprünglichen JavisDiT (v0.1) zum JavisVerse-Ökosystem, das Generierung und Verständnis über JavisGPT vereint. Die neueste Version JavisDiT++ (v1.0) wurde auf der ICLR 2026 angenommen und führt ein Mixture-of-Experts-Design (MoE) sowie Temporally Aligned RoPE für eine präzise audiovisuelle Synchronisation ein.",
+ "id": "n-18331ebc79",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Umfasst die Evaluierungssuite JavisBench und nutzt Audio-Video Direct Preference Optimization (AV-DPO) zur Ausrichtung der Ausgaben.",
+ "source_sha256": "5f4b9c242b12f62c4747a53454f59583abecc973887a2335bff82d7765dfb521",
+ "summary": "Ein multimodales Ökosystem für die gemeinsame Generierung und das Verständnis von Audio und Video. Es setzt eine einheitliche Diffusion-Transformer-Architektur ein, um aus Textprompts zeitlich synchronisierte Videos mit Klang zu erzeugen.",
+ "title": "JavisDiT: Joint Audio-Video Diffusion Transformer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

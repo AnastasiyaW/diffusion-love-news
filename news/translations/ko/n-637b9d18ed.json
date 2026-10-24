@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Alibaba의 Z-Image 팀이 공개한 방법으로, 고속 모델을 맞춤화하는 데 강화학습(Reinforcement Learning)보다 더 접근하기 쉬운 대안으로 제시되었다. 현재 Z-Image-Turbo와 FLUX.2 계열의 실험적 버전에 적용되고 있다.",
+ "id": "n-637b9d18ed",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "디퓨전 모델이 가진 인컨텍스트(in-context) 능력을 활용해 학습 과정에서 모델 스스로가 교사 역할을 하도록 함으로써, 외부 보상 모델의 필요성을 없앤다.",
+ "source_sha256": "b6409e2f583660aa1a8ea3ec063b416b87e3f808023119220cc8cc91ffa24931",
+ "summary": "Alibaba가 제안한 학습 패러다임으로, Z-Image-Turbo와 같이 효율적인 소수 단계(few-step) 디퓨전 모델을 연속적으로 파인튜닝하기 위한 방법이다. 온폴리시(on-policy) 자기 증류(self-distillation)를 활용하여 생성 속도나 품질을 잃지 않으면서 스타일과 개념을 적응시킬 수 있도록 한다.",
+ "title": "D-OPSD: 단계 증류된 디퓨전 모델을 위한 연속 파인튜닝",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

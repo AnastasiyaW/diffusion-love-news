@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die LTX-2.3-Serie (22B) war der Höhepunkt der Open-Source-Reihe der Modellfamilie, bevor der Übergang zu LTX-3 erfolgte. Während LTX-2.3 für lokale ComfyUI-Workflows weiterhin der Standard ist, hat sich das Ökosystem für professionelle Langform-Videogenerierung hin zu LTX-3 verlagert.",
+ "id": "n-ccdb07b0af",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Oumoumad Mohamed; Teil einer Reihe von Hilfs-IC-LoRAs, zu der auch Outpainting und HDR-Konvertierung gehören.",
+ "source_sha256": "0ea89d88c04080377eae41c5453609b1bc4cf75b88582ed8e0df66c7220bf477",
+ "summary": "Ein spezialisiertes In-Context LoRA für das Videofundamentmodell LTX-2.3, das filmische Farbgestaltung (Color Grading) und Kontrast entfernen soll. Es verarbeitet Eingabevideos, um natürliche Lichtverhältnisse und eine neutrale Farbbalance wiederherzustellen, und dient als „De-Grading“-Werkzeug für die weitere Produktion.",
+ "title": "LTX-2.3-22b-IC-LoRA-Ungrade Neutral Color Recovery",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-bb135c22d6",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unter Linux mit Python 3.12 und uv erstellen Sie die dokumentierte virtuelle Umgebung, installieren das Paket im Editable-Modus und führen die Demo ohne Zugangsdaten aus, bevor Sie ein Modell anbinden.\n\nFür einen Lauf mit einem Modell installieren Sie die aufgeführten Laufzeit- und Benchmark-Abhängigkeiten, konfigurieren die Modelleinstellungen und die Authentifizierung und starten dann mit einer einzelnen Benchmark-Aufgabe und einer kleinen Auswahl.\n\nFühren Sie Prüfung, Verfeinerung, Bewertung und Berichterstellung mit identischem Benchmark, Executor, Teilmenge, Rekursionsbudget, Modus und Seed aus; mit dem Dry-Run lässt sich die Aufgabenauswahl prüfen, ohne Modellaufrufe auszulösen.\n\nWählen Sie die parallele Rekursion, um Kandidaten-Harnesses breiter zu erkunden, oder die sequenzielle Rekursion, um Verfeinerungen über aufeinanderfolgende Schritte fortzuführen; übernommene Harnesses sollten Sie nur zusammen mit den sie stützenden Ausführungsnachweisen aufbewahren.\n\nKonfigurieren Sie die Netzwerkbeschränkungen vor der Evaluation, damit öffentliche Benchmark-Rubriken, Antworten oder Bewertungskriterien nicht in einen Executor mit uneingeschränktem Webzugriff gelangen können.\n\nHalten Sie die Evaluationskonfiguration bei Bewertung und Berichterstellung identisch mit dem Verfeinerungslauf; wird Benchmark, Executor, Teilmenge, Rekursionsmodus, Budget oder Seed geändert, ist ein vergleichbares Ergebnis nicht mehr gültig.\n\nBehandeln Sie größere Rekursionsbudgets als ausdrücklichen Kompromiss zwischen Rechenaufwand und Leistung: Die Arbeit zählt sowohl Ausführungs- als auch Verbesserungs-Tokens, und ihre Gewinne wurden nur in den evaluierten Benchmark-Konfigurationen gemessen.",
+ "source_sha256": "b043819f49f3b9d11c834c7dab0aa12f7b099c9943f66ff8ea4a2c118bdc4f12",
+ "summary": "Die Implementierung bietet parallele und sequenzielle Rekursion für JobBench, LAB und WorkBuddy-Bench; die Betreiber sind für die Konfiguration der Netzwerkbeschränkungen der Evaluation verantwortlich.",
+ "title": "Harness² unterstützt Benchmark-Experimente mit OpenCode und Codex",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

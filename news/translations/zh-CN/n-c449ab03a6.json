@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年初正式发布，是首个此类统一的 raw 生成框架。目前正被集成到三星的神经 ISP 和 AI Experience（AX）路线图中，面向未来的移动摄影。",
+ "id": "n-c449ab03a6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "以 FLUX 作为骨干模型；支持在线性 raw 输出上实时执行白平衡和曝光等 ISP 操作。",
+ "source_sha256": "cd07d49dcd7f84d603f8d14539671b743dea205deedd8fae5220db4dc648f366",
+ "summary": "这是三星推出的一个基于扩散模型的统一框架，可从文本或 sRGB 输入生成物理上一致的相机原始（raw）图像。该框架支持高保真编辑，并可针对任意相机传感器进行设备特定的合成。",
+ "title": "RawGen：学习相机原始图像生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

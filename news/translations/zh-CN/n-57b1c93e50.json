@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖介绍了 Windows、macOS 和 Linux 上的本地模型运行与微调功能，支持 CPU 及多种加速器后端，并提供智能体、搜索、RAG、MCP 和导出等功能。",
+ "id": "n-57b1c93e50",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a37f33ca11a03f62174647f6f13c89b4ed6a94d80cfb4b709aae60f5cd43852f",
+ "summary": "该新闻帖介绍了 Windows、macOS 和 Linux 上的本地模型运行与微调功能，支持 CPU 及多种加速器后端，并提供智能体、搜索、RAG、MCP 和导出等功能。",
+ "title": "Unsloth Desktop 正式发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

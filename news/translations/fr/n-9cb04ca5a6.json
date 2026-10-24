@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le dépôt public a été initialisé avec 385 entrées réparties sur 21 domaines.",
+ "id": "n-9cb04ca5a6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entrée publique d'historique de projet dérivée du commit immuable du dépôt et de ses métadonnées enregistrées.",
+ "source_sha256": "5df68f3a1c7d794da8ab11dede4a631333508a4d3ce7fb893db45087d4ca0c82",
+ "summary": "Le dépôt public d'espace de connaissances a été initialisé avec 385 entrées organisées en 21 domaines.",
+ "title": "Coffre de connaissances initial : 385 entrées réparties sur 21 domaines",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

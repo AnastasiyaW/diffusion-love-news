@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从 macOS 桌面客户端发展为全栈平台，具备用于多智能体协作的 “Squads” 系统，以及标准化的智能体客户端协议（Agent Client Protocol，ACP）。近期新增了用于封装智能体模式的技能框架，以及支持一键部署的模板目录。",
+ "id": "n-63cbd51a4a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目以 Multics 操作系统命名，旨在成为面向协作式软件开发的 Human-AI Operating System（人机操作系统）。",
+ "source_sha256": "58158f0705320c8d7363672746ea6e69e1ce7435f44218c6ffcb006c45084184",
+ "summary": "一个开源的托管智能体平台，将自主编程智能体作为一等成员集成到人类工作流中。它提供与厂商无关的运行层，协调本地守护进程和云端运行时，支持 Claude Code、Gemini 和 GitHub Copilot CLI 等智能体。",
+ "title": "Multica：开源 AI 智能体管理平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-dd68bf49b2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9b53a22ff7330ade831c17a4cddeb5d1849650cd667f9e1c72aad9019c4f0747",
+ "summary": "Le 11 juin 2026, Langswap a relié des chemins de fichiers source correspondant à un gestionnaire de reconnaissance vocale (speech-to-text), à un client ASR/VAD, à un client de traduction Llama.cpp, à un client TTS OmniVoice et à la prise en charge de FFmpeg. L'ensemble de liens daté comprenait également le dépôt du projet et un article sur le doublage par IA, ce qui situe ces composants dans un contexte de traduction de la parole et de doublage. Les liens disponibles ne permettent pas d'établir si les fichiers référencés ont été ajoutés ou modifiés à cette date.",
+ "title": "Langswap met en avant une pile modulaire de traduction de la parole et de doublage",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

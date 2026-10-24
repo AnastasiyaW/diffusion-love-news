@@ -1,0 +1,11 @@
+{
+ "id": "n-14a863c9d3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "一项美国指令促使Anthropic暂停了Fable 5和Mythos 5的访问，而其他模型未受影响。",
+ "source_sha256": "0bd5d7b3381311273e05fad711248731b9e8770c0453067d4f6b060ab6503c40",
+ "summary": "2026年6月13日，Anthropic发布了一份涉及Fable和Mythos的官方访问通知。该条目被归类为密封的监管行动，表明这是一次重大的访问政策事件，但仅凭URL无法确定其具体决定、范围和理由。",
+ "title": "Anthropic发布Fable与Mythos访问通知",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

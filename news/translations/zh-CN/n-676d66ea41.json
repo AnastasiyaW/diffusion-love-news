@@ -1,0 +1,10 @@
+{
+ "id": "n-676d66ea41",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ec0ec3d68ed19b8cedecf1555a11f41d425fdb935de0764c5bfbd854118c80e2",
+ "summary": "2026-04-09，DMX 通过一篇 ComfyUI 社区帖子被公开介绍，该帖子链接了一个 GitHub 仓库和一个 Hugging Face 个人主页。链接中的资料表明，该项目涉及 AI 模型权重的压缩。现有证据尚不足以确认其技术规格、发布成熟度或支持的集成方案。",
+ "title": "DMX 被公开介绍为一种 AI 模型权重压缩格式",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

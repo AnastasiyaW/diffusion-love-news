@@ -1,0 +1,10 @@
+{
+ "id": "n-ca4cb3b16f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bbbb9ece5b41ad582f360a7e842bbc69789bdd5fce0e7d23b01338016359d622",
+ "summary": "El 1 de abril de 2026, Google publicó Veo 3.1 Lite como vista previa a través de su blog y de la documentación de modelos de la API de Gemini. La ruta de AI Studio enlazada registra un punto de entrada correspondiente para la creación. Los enlaces proporcionados no permiten, por sí solos, establecer la disponibilidad en producción, las cuotas ni los límites del servicio.",
+ "title": "Google anunció la vista previa de Veo 3.1 Lite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

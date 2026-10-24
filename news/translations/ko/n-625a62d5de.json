@@ -1,0 +1,10 @@
+{
+ "id": "n-625a62d5de",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4f453dc5ff63666865babb18b1d524b64ddae14c1feb244a3e6149f5300bbd06",
+ "summary": "2026-07-02, 날짜가 명시된 한 구성원이 Adobe의 Firefly Graph 발표 페이지와 Adobe 설문조사 링크를 공유했다. 이는 Firefly Graph의 도입과 이에 연결된 피드백 채널을 시사한다는 점에서 Firefly Graph에 대한 대외 공개 단계의 주요 진전이다. 다만 날짜가 붙은 링크만으로는 제품 기능, 출시 여부, 설문조사의 정확한 목적을 확인할 수 없다.",
+ "title": "Adobe, Firefly Graph 도입 발표",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

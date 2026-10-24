@@ -1,0 +1,10 @@
+{
+ "id": "n-7150bbd771",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ccf8e6d4f29fd3e600fbba140d353413161506e859d4dddea6a4a8ce457f6cf0",
+ "summary": "Le 30/07/2026, une ressource Hugging Face nommée LTX-2.3-22B-IC-LoRA-Relight a été signalée. Il s'agit d'une extension notable de la gamme LTX-2.3, car elle ajoute une capacité spécialisée de relighting grâce à une ressource LoRA.",
+ "title": "Un LoRA IC de 22B pour LTX-2.3 dédié au relighting a été publié",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

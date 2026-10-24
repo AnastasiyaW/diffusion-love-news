@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt erreichte Anfang 2026 60.000 Sterne auf GitHub. Es führte das OASIS-Framework ein, mit dem sich Simulationen auf Millionen von Agenten skalieren lassen, und integrierte GraphRAG für ein fundiertes Entitätsgedächtnis. Eine von der Community getragene Version, MiroFish-Offline, wurde für die lokale Ausführung veröffentlicht.",
+ "id": "n-e4b7a4de7b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erlangte virale Bekanntheit durch eine Simulation, die das verlorene Ende von „Der Traum der roten Kammer“ vorhersagte, indem die ersten 80 Kapitel in die Agenten-Fokusgruppen der Engine eingespeist wurden.",
+ "source_sha256": "6863a5822ea7a2b21265a095416b7cd4791fcafdafe0d4d03a8289a982cf28c4",
+ "summary": "MiroFish ist eine Schwarmintelligenz-Engine, die parallele digitale Welten erzeugt, die mit KI-Agenten bevölkert sind, um soziale Dynamiken und Markttrends zu simulieren. Sie nutzt GraphRAG für fundierte Interaktionen und unterstützt die dynamische Injektion von Variablen für die Echtzeit-Vorhersagemodellierung sozialer Prozesse.",
+ "title": "MiroFish: Open-Source-Engine für die Simulation sozialen Verhaltens mit mehreren Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

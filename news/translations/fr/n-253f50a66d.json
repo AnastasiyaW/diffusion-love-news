@@ -1,0 +1,10 @@
+{
+ "id": "n-253f50a66d",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6f6247897c64aea21449a1c09c6e731929ec8a0dda218ccb3ac31217063a0aa0",
+ "summary": "Le 21 juillet 2026, TheStageAI a publié une mise à jour de projet renvoyant vers le dépôt du modèle Elastic-Wan2.2-I2V, un article de blog associé et le dépôt ComfyUI-Qlip. Les documents liés indiquent une étape de développement pour le workflow image-vers-vidéo du projet. Les modifications exactes du modèle, la configuration et les affirmations de performance ne peuvent pas être confirmées à partir des seules métadonnées des liens.",
+ "title": "TheStageAI a publié les documents du projet Elastic-Wan2.2-I2V",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

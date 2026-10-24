@@ -1,0 +1,10 @@
+{
+ "id": "n-549e91e1c0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a2cda1cd372b9daa2471bd6b741fe89868d73c7a0aaccd72b8d443a3510313da",
+ "summary": "Le 4 juin 2026, les liens relevés pointaient vers des dépôts BF16 et NVFP4 hébergés par NVIDIA pour Nemotron 3 Ultra 550B A55B, ainsi que vers un dépôt GGUF publié par Unsloth. Il s'agit d'une étape importante en matière de disponibilité, car la même lignée de modèles est proposée dans des formats adaptés à différentes voies d'inférence et de déploiement.",
+ "title": "Les artefacts de Nemotron 3 Ultra 550B A55B sont disponibles dans plusieurs formats",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

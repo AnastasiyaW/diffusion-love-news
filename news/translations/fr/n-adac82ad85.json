@@ -1,0 +1,11 @@
+{
+ "id": "n-adac82ad85",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Téléchargez les poids du modèle depuis le dépôt InternScience/Sage-A1.5 sur Hugging Face ou ModelScope.\n\nDéployez le modèle avec vLLM ou SGLang en utilisant la configuration standard de l'architecture Qwen MoE afin d'exposer un point de terminaison API compatible OpenAI.\n\nConfigurez le runtime d'exécution de l'agent en activant la création de sous-agents, afin de permettre au modèle de paralléliser des sous-tâches dans des contextes isolés.\n\nActivez la vérification native dans les paramètres de génération ou dans le prompt système afin que le modèle effectue une auto-relecture et une récupération après erreur lors des trajectoires complexes.\n\nUtilisez des contextes de sous-agents isolés pour les branches d'investigation parallèles, afin d'éviter que les sorties intermédiaires bruitées des outils ne distraient l'agent racine.\n\nAppliquez les paramètres de mise à l'échelle de contexte YaRN lors du traitement de dépôts de code ou de collections de littérature scientifique dépassant la fenêtre de contexte native de 256K tokens.\n\nDéployez avec SGLang ou vLLM en utilisant des quantifications FP8/INT4 afin de réduire l'empreinte mémoire tout en préservant l'efficacité du routage MoE.",
+ "source_sha256": "f1deef105e5981b35e4c995753350ecc082e91e879a4dfe76659f2a38125f8f9",
+ "summary": "Le groupe InternScience a publié les poids de Sage-A1.5, dotés d'une fenêtre de contexte de 256K extensible à 512K via YaRN, d'un mécanisme d'auto-correction par chaîne de pensée intégré, ainsi que de configurations de service compatibles OpenAI.",
+ "title": "Sage-A1.5 publié sur Hugging Face avec auto-vérification agentique native",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

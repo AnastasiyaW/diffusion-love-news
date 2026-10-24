@@ -1,0 +1,11 @@
+{
+ "id": "n-1b28d58410",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Identifique la versión actual de la instancia de GitLab autogestionada consultando el panel de administración o ejecutando gitlab-rake gitlab:env:info en el host.\n\nSeleccione el objetivo de parche correspondiente a la línea de versión activa: actualice 19.5.x a 19.5.1, 19.4.x a 19.4.3, 19.3.x a 19.3.6, 19.2.x a 19.2.9, 19.1.x a 19.1.9, 19.0.x a 19.0.10, o las versiones heredadas 7.0 a 18.11.x a 18.11.13.\n\nEjecute el comando de actualización del gestor de paquetes o la descarga de la imagen de contenedor para aplicar el parche de seguridad, y reinicie los servicios de GitLab para que los binarios actualizados surtan efecto.\n\nRevise los registros de los workers de Puma y los registros de errores de la aplicación en busca de errores del compilador de expresiones regulares o terminaciones anómalas de workers, para detectar intentos de explotación previos.\n\nAplique las versiones de seguridad de inmediato en las instancias de GitLab autogestionadas expuestas a Internet, ya que la ejecución remota de código sin autenticación no requiere credenciales ni interacción del usuario.\n\nActualice directamente a la versión de parche designada dentro de la rama de versión menor activa para evitar migraciones de base de datos innecesarias y reducir el tiempo de inactividad del servicio.\n\nNo confíe únicamente en las reglas del cortafuegos de aplicaciones web perimetral ni en soluciones alternativas de configuración, ya que los patrones maliciosos de expresiones regulares pueden procesarse a través de diversas rutas de renderizado de documentos.",
+ "source_sha256": "3260980ac476416dbf01519ee745742759a4c39907daef5733d2aa1508e43e7e",
+ "summary": "GitLab publicó la versión de parche de emergencia 19.5.1, junto con backports hasta la versión 18.11.13, para resolver CVE-2026-110264, un desbordamiento de enteros de máxima gravedad en su compilador de expresiones regulares que permite la ejecución remota de código sin autenticación en servidores autogestionados.",
+ "title": "GitLab corrige una vulnerabilidad crítica de ejecución remota de código sin autenticación en las versiones 7.0 a 19.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

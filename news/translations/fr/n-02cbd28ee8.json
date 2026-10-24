@@ -1,0 +1,10 @@
+{
+ "id": "n-02cbd28ee8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1cc22d223c9f63c21fa52d958929a7984cebd1468d02202a764d8a39d0d47407",
+ "summary": "Le 2026-06-28, le lien enregistré renvoie au dépôt GitHub OpenMontage. Les preuves scellées ne contiennent ni texte source, ni instantané du dépôt, ni enregistrement de version, ni description d'une modification de code ; il s'agit donc d'un simple renvoi vers le dépôt public, et non d'une étape de mise en œuvre précise.",
+ "title": "Le dépôt GitHub OpenMontage a été référencé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

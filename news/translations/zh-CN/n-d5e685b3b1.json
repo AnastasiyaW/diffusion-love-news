@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型从 1.5 系列演进而来,采用以表演为核心的架构,不再依赖传统 SSML,转而使用直观的场景化描述。它标志着语音能力向情境化的声音掌控转变,并具备企业级的可扩展性。",
+ "id": "n-d5e685b3b1",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "集成了 SynthID 用于内容溯源,并提供 200 余种标签,可对情感与节奏进行细粒度控制。",
+ "source_sha256": "2d7fcbb50c980d8605e3a3b94b947a54d155481ffc8ea7e0f54dfa607083a432",
+ "summary": "这是谷歌推出的一款先进文本转语音模型,可通过自然语言提示和内嵌情感标签实现“导演式表演”。它支持高保真、低延迟的音频生成,并原生具备多说话人对话能力,适用于交互式应用。",
+ "title": "Gemini 3.1 Flash TTS 高精度语音控制",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de una lista plana de prompts a una arquitectura Atlas estructurada, con archivos específicos por categoría para minimizar el uso de tokens por parte de los agentes. Se añadió una herramienta CLI dedicada, instalable mediante uv, y soporte oficial de plugins para Claude Code y Codex.",
+ "id": "n-df001e7bab",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye una función exclusiva de control de presupuesto (budget dial) para gestionar el gasto de la API, así como prompts especializados para figuras de investigación, maquetas de interfaces de usuario y edición de escenas complejas.",
+ "source_sha256": "c023c622284b72b80b6872a2afab91356c8bd8e98e5cc7a799996b239a4d7b2a",
+ "summary": "Una colección seleccionada de más de 160 prompts de alta señal y una skill agéntica para el modelo GPT Image 2 de OpenAI. Utiliza una arquitectura Reference Gallery Atlas para optimizar la eficiencia de la ventana de contexto en asistentes de IA y agentes autónomos.",
+ "title": "GPT Image 2 Prompt Gallery & Skill",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

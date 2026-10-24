@@ -1,0 +1,10 @@
+{
+ "id": "n-d4f7f53653",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0bcd9ede72e069a073288842f649dda6f269c633151f78db684498024a3312de",
+ "summary": "2026-06-24에 Qwopus3.6-27B-v2 계열의 일부로 Qwopus3.6-27B-v2-GGUF 및 Qwopus3.6-27B-v2-FP8 저장소가 링크되었다. 이는 추론 지향의 두 가지 형식으로 명명된 아티팩트를 제공했다는 점에서 실질적인 배포 단계에 해당한다. 동시기에 기록된 링크가 저장소 링크와 함께 제공되었으나, 그 내용은 검토되지 않았다.",
+ "title": "Qwopus3.6-27B-v2 아티팩트, GGUF 및 FP8 저장소에 게시됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

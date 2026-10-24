@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 Model Context Protocol (MCP) 통합, Docker 지원, 간소화된 CLI 설치 과정을 도입했습니다. 최근 업데이트는 신뢰, 호감, 짜증을 위한 전용 카운터를 통한 복합적인 감정 모델링에 초점을 맞추고 있습니다.",
+ "id": "n-db7fee9bb2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "MTProto 사용자봇과 표준 Telegram Bot API를 모두 지원합니다.",
+ "source_sha256": "b5f20b19fa4f78308bdde645ff9657e5f90db4296398530ce42e2b1b7c0df5c8",
+ "summary": "girl-agent는 텔레그램에서 현실적인 AI 성격을 시뮬레이션하도록 설계된 오픈소스 프레임워크로, 사람과 같은 일정과 변화하는 관계 역학을 갖추고 있습니다. 표준적인 AI 어시스턴트의 전형적인 패턴을 제거하고, 수면 패턴과 감정 기분 상태를 포함한 자율적인 캐릭터 행동을 지향합니다.",
+ "title": "girl-agent: 성격 중심의 텔레그램 AI 페르소나 엔진",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

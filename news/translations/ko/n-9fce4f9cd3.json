@@ -1,0 +1,10 @@
+{
+ "id": "n-9fce4f9cd3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f097517e22c9e88ed8fbe206ca1b4a0f6d86312eccf0d15156f7a378bb8b60e9",
+ "summary": "2026-07-09, xAI가 Grok 제품 라인의 명명된 개발 소식으로서 Grok 4.5에 관한 뉴스 항목을 발표했습니다. 날짜가 기재된 링크들은 독자를 xAI 문서, 해당 CLI, 그리고 Grok 서비스로도 안내하고 있어, 논평이나 재게시가 아닌 제품 중심의 업데이트임을 시사합니다. 확보된 근거만으로는 구체적인 기능, 제공 여부, 성능에 관한 주장을 확인할 수 없습니다.",
+ "title": "xAI, Grok 4.5 제품 업데이트 발표",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

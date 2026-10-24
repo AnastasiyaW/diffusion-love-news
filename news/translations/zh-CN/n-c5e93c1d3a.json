@@ -1,0 +1,10 @@
+{
+ "id": "n-c5e93c1d3a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fa41026ae0d140da4d03ca12cb37e4ac2e8a9dbe24147d8763f56fd44d03471f",
+ "summary": "2026 年 7 月 7 日，该开发线链接了 NVIDIA Nemotron-Labs-Audex-30B-A3B 和 Nemotron-Labs-Audex-2B 在 Hugging Face 上的公开仓库目录。这些链接标志着两个 Audex 模型版本在公开可用性方面的重要进展，但其具体发布细节在此并未确认。",
+ "title": "Audex 模型仓库现已可被公开检索",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

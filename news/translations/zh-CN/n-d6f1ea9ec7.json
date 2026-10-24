@@ -1,0 +1,10 @@
+{
+ "id": "n-d6f1ea9ec7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "503b99be2b964f7d9c464ccc11287b8e568b3048f8347d418bfdf6694db77eae",
+ "summary": "2026年3月24日，该条带日期的记录链接了 GlyphPrinter 的 GitHub 仓库和 Hugging Face 页面。现有证据可以确认这两处项目资源引用，但无法确认发布版本、模型内容、性能声明，也无法确认这两项资源是否于当天新发布。",
+ "title": "GlyphPrinter 公开项目资源被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

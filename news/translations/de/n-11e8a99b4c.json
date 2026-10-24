@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Vom entwicklerorientierten Multi-Agenten-IDE zu einer verbraucherorientierten lokalen Produktivitätsanwendung gewechselt. Sie integriert nun das Model Context Protocol (MCP) und fungiert als autonomer Mitarbeiter, der einen dauerhaften Kontextgraphen pflegt.",
+ "id": "n-11e8a99b4c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unterstützt durch Y Combinator S24. Gegründet von den Machern von Agara AI (von Coinbase übernommen), und legt großen Wert auf vollständigen Datenschutz mit Unterstützung für lokale LLMs über Ollama.",
+ "source_sha256": "1fa8dd2afde2e86fce845830011eab9acca1562a514668805a4be103b721636a",
+ "summary": "Rowboat ist ein lokaler KI-Assistent, der digitale Daten wie E-Mails und Notizen verarbeitet, um daraus einen lebendigen Wissensgraphen aufzubauen. Die Informationen werden in menschenlesbaren Markdown-Dateien gespeichert, und die Anwendung läuft privat auf dem Rechner des Nutzers.",
+ "title": "Rowboat: Lokaler KI-Agent und persönlicher Wissensgraph",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Übergang von der diffusionsbasierten DALL-E zu nativen autoregressiven GPT-Image-Modellen. Nach GPT Image 1 (März 2025) und GPT Image 1.5 (Dezember 2025) führte GPT Image 2 Reasoning-Schleifen zur Planung von Kompositionen sowie hochwertige Typografie ein. OpenAI hat DALL-E 2 und 3 im Mai 2026 eingestellt.",
+ "id": "n-ca390bf3b3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Native Unterstützung für 2K-Auflösung, konsistente Darstellung von Figuren über mehrere Generierungen hinweg sowie nahezu fehlerfreie mehrsprachige Textfähigkeiten, einschließlich kyrillischer Schrift.",
+ "source_sha256": "c379a078c70ee9c819dd2142399f128a0badc5696f7d62b88f7a0a9da2b8098a",
+ "summary": "OpenAIs flaggschiffartiger, nativ multimodaler Bildgenerator, der in ChatGPT integriert ist und die DALL-E-Reihe ablöst. Er nutzt eine autoregressive Architektur und umfasst einen „Thinking Mode“ für agentisches Schlussfolgern während des kreativen Prozesses.",
+ "title": "GPT Image 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

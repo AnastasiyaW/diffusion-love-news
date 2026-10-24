@@ -1,0 +1,10 @@
+{
+ "id": "n-b2222dab41",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e2cec07812ade1a3f7ba6c49993ce5259b6e22706d1a05e143a316e160dd9413",
+ "summary": "2026 年 6 月 12 日，一条带日期的记录将 NVIDIA 的 DiffusionGemma-26B-A4B-it-NVFP4 Hugging Face 仓库与 Google 的 DiffusionGemma-26B-A4B-it 仓库关联在一起。这是该项目开发脉络中的一个重要分发节点，因为它表明了一个由 NVIDIA 托管、与上游模型相对应的独立 NVFP4 变体。",
+ "title": "NVIDIA DiffusionGemma NVFP4 仓库与 Google 上游模型同时被记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

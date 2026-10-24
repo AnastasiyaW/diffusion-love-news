@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La plataforma ha evolucionado desde los modelos heredados basados en GAN hasta Lipsync-2, basado en difusión, y el actual modelo insignia Sync-3. Sync-3 introduce procesamiento nativo en 4K, detección avanzada de obstrucciones y doblaje visual de plano completo que mantiene las texturas de la piel y la consistencia de la iluminación.",
+ "id": "n-d883c4c40c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entre sus funciones se incluyen la detección de hablante activo (ASD-1) para escenas con varias personas y la integración en flujos de trabajo profesionales mediante un plugin para Adobe Premiere Pro y una API robusta.",
+ "source_sha256": "f1f2dfe7b3b441b63dc37690cd85d49b68a326962a4fc993ffb309d2de37a8c8",
+ "summary": "Sync.so es una plataforma de IA de nivel de estudio que ofrece doblaje visual y sincronización labial de alta fidelidad para la producción de vídeo profesional. Permite la clonación y alineación de voz sin fisuras, preservando los gestos característicos de los actores y los matices emocionales en varios idiomas.",
+ "title": "Sync.so, estudio de doblaje visual y sincronización labial con IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

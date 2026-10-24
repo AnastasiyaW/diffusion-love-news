@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从一个在GitHub上广泛传播的仓库，发展为一个完整的框架，并附带技术性的arXiv论文，同时支持Model Context Protocol（MCP）。v3.x版本引入了AAAK压缩方言，并增强了本地优先的性能。",
+ "id": "n-a3583f87c7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由女演员 Milla Jovovich 与开发者 Ben Sigman 共同创建；其显著特点是避免了其他AI记忆系统中存在的“摘要漂移”问题。",
+ "source_sha256": "29883f5dfd027546efde73b0a57dd5755b2377c288766b41ebcedc2315dfaa6f",
+ "summary": "一种本地优先的AI记忆系统，采用零LLM推理的写入路径和分层存储，以维持逐字优先的长期上下文。它使用自定义压缩方言AAAK，实现30x的数据密度，同时保证LLM可读。",
+ "title": "MemPalace：面向LLM的高效无限记忆压缩",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

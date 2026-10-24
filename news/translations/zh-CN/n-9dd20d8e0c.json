@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 4 月发表，并被 CVPR 2026 接收。该项目通过仅用四个视角即可实现高保真重建，代表了 4D 高斯泼溅领域的一项重大进展。",
+ "id": "n-9dd20d8e0c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "利用 MASt3R 进行稠密点云初始化，因为传统的 COLMAP 在如此稀疏的输入下会失效。",
+ "source_sha256": "0114f5919e813fa038f47fb4e58bc5b5737825cb7487d0ff56c823424b77350a",
+ "summary": "一个仅使用四台便携式相机进行 4D 动态场景重建的框架。它引入了神经衰减函数（Neural Decaying Function），使重建优先关注几何结构而非外观，从而防止在极度稀疏的相机配置下出现过拟合。",
+ "title": "4C4D：四相机 4D 高斯泼溅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

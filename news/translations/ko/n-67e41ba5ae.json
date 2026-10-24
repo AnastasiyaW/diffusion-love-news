@@ -1,0 +1,10 @@
+{
+ "id": "n-67e41ba5ae",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "67152b777e73ea30a6f1c55f274f0e6ea8c4987a3975757907cd180334386556",
+ "summary": "2026-07-27, sealed The source member가 프로젝트 스레드에 올린 글에는 ComfyUI StreetView-Loader GitHub 저장소 링크가 포함되어 있었다. 제공된 근거만으로는 이것이 공개 프로젝트 참조를 기록한 것일 뿐, 특정 릴리스, 기능 변경 또는 설치 안내를 입증하지는 않는다.",
+ "title": "ComfyUI StreetView-Loader 저장소 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

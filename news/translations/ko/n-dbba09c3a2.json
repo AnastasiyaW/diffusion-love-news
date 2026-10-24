@@ -1,0 +1,10 @@
+{
+ "id": "n-dbba09c3a2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5920d66db0b9869f1cfbac31245c04d6819c77366e5aa405f5b60882c5c51257",
+ "summary": "2026년 3월 31일, 날짜가 명시된 ShotStream 구성원이 독자들에게 공개 프로젝트 페이지, GitHub 저장소, Hugging Face 페이지를 안내했다. 이는 프로젝트 개발 흐름에 대한 공개적 기준점을 남기지만, 제공된 근거만으로는 릴리스 버전, 기능, 저작자 또는 원본 메시지의 정확한 문구를 확인할 수 없다.",
+ "title": "ShotStream 공개 프로젝트 페이지, 코드, 모델 페이지가 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

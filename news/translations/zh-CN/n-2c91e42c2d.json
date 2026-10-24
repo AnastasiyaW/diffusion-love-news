@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "论文被CVPR 2026接收；2026年4月发布了代码、BAGEL-7B-MoT权重以及21-Tasks-Bench基准。",
+ "id": "n-2c91e42c2d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了CoT-Editing Consistency（CEC）奖励和Flow-GRPO，以弥合模型推理与像素级输出之间的差距。",
+ "source_sha256": "5911a7a66a1fd4304bcaa0475776407ccf9bff8530d1bb6ea9ae6d760f47fc39",
+ "summary": "一种分层推理框架，可将图像编辑指令分解为结构化三元组和五个基础元任务。该框架利用强化学习使多模态大语言模型与扩散模型输出对齐，从而实现最先进的泛化能力。",
+ "title": "Meta-CoT：面向图像编辑的分层思维链",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

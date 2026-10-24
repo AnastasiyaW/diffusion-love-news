@@ -1,0 +1,10 @@
+{
+ "id": "n-64c52eaf4d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2f6dfb4bc27ba76a9382a1827da6b37af87118848bf3ca581f5a28b97fa632f1",
+ "summary": "2026-08-15，Liquid AI 作为一条独立的项目线发布了 LFM2.5-VL-3B。文中带日期的链接指向官方项目公告、Hugging Face 模型页面，以及用于访问该模型的官方 WebGPU 空间。",
+ "title": "Liquid AI 发布 LFM2.5-VL-3B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

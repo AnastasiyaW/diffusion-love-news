@@ -1,0 +1,11 @@
+{
+ "id": "n-e712086893",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Solicite acceso a través del flujo de la beta de Agents; la información publicada describe el acceso como basado en solicitudes.\n\nSuba los archivos del proyecto y las referencias, luego describa el resultado previsto y elija los ajustes disponibles de modelo de lenguaje y de esfuerzo.\n\nImporte un moodboard de Pinterest u otra referencia visual, y cree un skill de conjunto de imágenes cuando un estilo recurrente deba invocarse desde los prompts.\n\nConecte Slack, Figma o Google Drive cuando se necesite su material de proyecto en el contexto del agente; revise los medios generados antes de usar su capacidad de publicación en redes sociales que se menciona.\n\nMantenga juntos en el contexto del proyecto el brief, las referencias y el material de estilo reutilizable antes de solicitar un resultado de varios pasos; la documentación anterior de Node Agent de Krea muestra que la plataforma planifica a partir del estado existente del lienzo y permite a los usuarios revisar un plan antes de su ejecución.\n\nRevise el flujo de trabajo propuesto y las elecciones de modelo antes de ejecutar la generación: la documentación de Node Agent de Krea indica que presenta un plan y el coste de cómputo por nodo antes de la ejecución.",
+ "source_sha256": "8fd8120d6a6603be80ea9c623e808c0a63a0c411e15fc90401be02acf549b758",
+ "summary": "Según se informa, Krea Agents permite a los solicitantes organizar archivos de proyecto y referencias, importar moodboards de Pinterest, crear skills reutilizables basadas en imágenes y conectar herramientas de trabajo para la producción creativa.",
+ "title": "Krea Agents abre el acceso a flujos de trabajo creativos basados en solicitudes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

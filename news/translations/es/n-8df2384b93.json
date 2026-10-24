@@ -1,0 +1,11 @@
+{
+ "id": "n-8df2384b93",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Trate la descarga como una dependencia de adaptador de Qwen-Image-Edit-2511, no como una instalación independiente de 563 MB.\n\nNo infiera un requisito mínimo de hardware a partir del tamaño del adaptador; conserve la identidad exacta del checkpoint base y del adaptador en el registro del flujo de trabajo.",
+ "source_sha256": "9c38e3f84c68dbc3b8dad4cc0be123ffa01c87e73a99406c9dd6adb893c49401",
+ "summary": "La ficha de ScottzillaSystems presenta MCNL v1 como un adaptador comunitario para Qwen-Image-Edit-2511. Su descarga de aproximadamente 563 MB es un adaptador, no una instalación completa de un modelo; el comportamiento con contenidos más amplios sigue siendo una afirmación del distribuidor, y no se ha establecido ninguna prueba controlada de funcionamiento.",
+ "title": "MCNL v1 es un adaptador comunitario para Qwen-Image-Edit-2511",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

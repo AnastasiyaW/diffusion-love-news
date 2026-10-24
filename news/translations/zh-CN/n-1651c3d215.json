@@ -1,0 +1,10 @@
+{
+ "id": "n-1651c3d215",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8afda37dfa234a99b744f83c5cf8162b2826a40242052def56b0dfd2b55f06be",
+ "summary": "2026 年 5 月 13 日，相关公开资料显示，jina-embeddings-v5-omni 是 Jina AI 推出的一款嵌入模型，核心能力在于将多种媒体类型统一索引到同一个索引中。链接中的 Elastic 文章、Hugging Face 合集、ModelScope 组织页面以及 WebGPU 演示，表明该模型在当时已有对应的公开文档和可用入口。具体的发布声明与技术规格仍需在发布前核实。",
+ "title": "Jina AI 公开发布 jina-embeddings-v5-omni",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

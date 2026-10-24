@@ -1,0 +1,10 @@
+{
+ "id": "n-676d66ea41",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ec0ec3d68ed19b8cedecf1555a11f41d425fdb935de0764c5bfbd854118c80e2",
+ "summary": "2026-04-09, DMX는 GitHub 저장소와 Hugging Face 프로필을 연결한 ComfyUI 커뮤니티 게시물을 통해 공개 소개되었다. 연결된 자료에 따르면 이 프로젝트는 AI 모델 가중치의 압축과 관련되어 있다. 현재 확인 가능한 근거만으로는 기술 사양, 릴리스 성숙도, 지원되는 통합 기능을 확정할 수 없다.",
+ "title": "DMX가 AI 모델 가중치 압축 포맷으로 공개 소개되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde nodos básicos de utilidades estéreo hasta un sistema integral de outpainting panorámico, integrado con LTX-Video 2.3 para la ampliación del campo de visión.",
+ "id": "n-af1e479850",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye un instalador con detección de VRAM y nodos especializados para la generación de profundidad 3D en formato lado a lado (SBS).",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "Un conjunto de nodos de ComfyUI para crear panorámicas VR inmersivas mediante outpainting de contenido de vídeo estándar. Utiliza LTX-Video 2.3 para la expansión panorámica y admite proyecciones VR180, 360 equirectangular y de ojo de pez (fisheye).",
+ "title": "Muffins Flat 2: nodos de ComfyUI para paneles VR panorámicos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

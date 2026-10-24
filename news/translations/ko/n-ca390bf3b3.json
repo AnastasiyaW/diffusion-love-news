@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "확산(diffusion) 기반 DALL-E에서 네이티브 자기회귀 GPT Image 모델로 전환되었습니다. GPT Image 1(2025년 3월)과 GPT Image 1.5(2025년 12월)에 이어, GPT Image 2는 구도 계획을 위한 추론 루프와 고충실도 타이포그래피를 도입했습니다. OpenAI는 2026년 5월에 DALL-E 2와 3을 지원 종료했습니다.",
+ "id": "n-ca390bf3b3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "네이티브 2K 해상도 지원, 여러 차례 생성에 걸친 일관된 캐릭터 렌더링, 그리고 키릴 문자를 포함한 거의 완벽에 가까운 다국어 텍스트 처리 능력을 갖추고 있습니다.",
+ "source_sha256": "c379a078c70ee9c819dd2142399f128a0badc5696f7d62b88f7a0a9da2b8098a",
+ "summary": "OpenAI의 대표 네이티브 멀티모달 이미지 생성 모델로, ChatGPT에 통합되어 있으며 DALL-E 시리즈를 계승합니다. 자기회귀(autoregressive) 아키텍처를 사용하며, 창작 과정에서 에이전트형 추론을 수행하는 'Thinking Mode'를 포함합니다.",
+ "title": "GPT Image 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

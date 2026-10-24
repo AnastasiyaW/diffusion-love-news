@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 2월 Foundry에 인수되었습니다. 이 프로젝트는 범용 Python AI 에이전트 프레임워크에서 출발하여 Foundry의 AI 우선 VFX 전략과 Nuke 통합을 위한 핵심 인프라 계층으로 발전했습니다.",
+ "id": "n-ebeab9837a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "자동 클린 플레이트 생성을 위해 VOID를 통합하고, 실시간 다중 객체 추적을 위해 SAM3.1을 통합합니다(Object Multiplex 아키텍처).",
+ "source_sha256": "8975201a98c982097726691084af3761fffdd4fc79f3cf7d83913cd82226f13d",
+ "summary": "전문 시각효과(VFX) 작업에서 복잡한 AI 파이프라인을 구축하기 위한 프레임워크이자 시각적 오케스트레이션 플랫폼입니다. 비디오 인페인팅을 위한 Netflix의 VOID와 고속 세그멘테이션을 위한 Meta의 SAM3.1과 같은 고급 모델을 위해 노드 기반 워크플로를 구성할 수 있습니다.",
+ "title": "VFX를 위한 Griptape AI 오케스트레이션 플랫폼",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

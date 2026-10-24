@@ -1,0 +1,10 @@
+{
+ "id": "n-ccb51d2a95",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac059ddf8bbb7ec7444b59dd8f063e3f863227ac024f910e951489c79c102417",
+ "summary": "2026-08-24, 개발 라인 메시지가 Hugging Face 리소스 MiniMax-H3-Fun-Controlnet-Union과 MiniMax H3 Fun용 VideoX-Fun 예제 디렉터리를 연결했다. 날짜가 기록된 이 링크들이 명명된 아티팩트를 구현 예제와 이어 주기 때문에 주요 진전으로 다뤄지지만, 해당 기능과 출시 세부 사항은 독립적으로 조사되지 않았다.",
+ "title": "MiniMax H3 Fun ControlNet Union, VideoX-Fun 예제와 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-b3f3b611a3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "671d9822808e46f6b14c991442470d2177cd1f82990614002e06845ebee1fb0d",
+ "summary": "Am 26.07.2026 verlinkte ein Entwicklungsupdate die Hugging-Face-Modellseite von Nanbeige4.2-3B, eine gefilterte Übersicht verwandter quantisierter Basismodell-Einträge und einen Inferenz-Space. Damit ist ein datierter öffentlicher Zugangspunkt für das Modell und die zugehörigen Einsatzmöglichkeiten geschaffen.",
+ "title": "Öffentliches Modell Nanbeige4.2-3B und Inferenz-Ressourcen verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

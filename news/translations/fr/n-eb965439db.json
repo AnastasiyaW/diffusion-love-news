@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "GBrain a évolué rapidement après son lancement en avril 2026, avec l'introduction d'un « Dream Cycle » autonome pour la maintenance de la mémoire en arrière-plan et la déduplication. Il intègre désormais BrainBench-Real pour l'évaluation de la recherche et sert de runtime de mémoire principal pour les architectures d'agents OpenClaw et Hermes.",
+ "id": "n-eb965439db",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Créé par Garry Tan pour résoudre le problème de l'absence d'état (statelessness) des agents IA ; met l'accent sur une forte densité de données grâce à des métadonnées structurées et à un stockage des connaissances versionné avec Git.",
+ "source_sha256": "50c43596ab3a9181ceaee81d8f808e9eca76aaafd4b03ce9829af993288a61cc",
+ "summary": "GBrain est une substrate de mémoire persistante open source qui combine des dépôts Markdown gérés avec Git et des bases PostgreSQL/pgvector. Elle offre aux agents IA une base de connaissances à long terme et cumulative, ainsi que des capacités de recherche hybride.",
+ "title": "GBrain, une couche de mémoire pour les agents OpenClaw et Hermes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

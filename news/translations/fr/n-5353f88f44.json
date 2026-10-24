@@ -1,0 +1,11 @@
+{
+ "id": "n-5353f88f44",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Les pages du modèle et du démarrage rapide ne sont pas datées, et la route Playground associée renvoie désormais une erreur.",
+ "source_sha256": "4851a9638715d575e9894a3597c16c3283957fc8779324cd03a58ce0a8bed153",
+ "summary": "Le 2026-08-05, FLUX 3 a été relié à une page de modèle de Black Forest Labs, à une documentation de démarrage rapide et à une URL de terrain de jeu de génération d'image à partir de prompt. Pris ensemble, ces liens datés indiquent une étape produit significative, mais ils n'établissent pas à eux seuls les spécifications du modèle, la portée du lancement ni les conditions d'accès.",
+ "title": "FLUX 3 a été relié à plusieurs interfaces produit de Black Forest Labs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

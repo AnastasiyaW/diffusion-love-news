@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "이 뉴스 게시물은 720p, 16fps, 최대 1분 길이의 시퀀스를 목표로 하는 NVIDIA 주도의 소형 텍스트/이미지-비디오 모델을 소개했으며, 코드는 아직 공개되지 않은 상태에서 RTX 5090 기준 소요 시간을 보고했습니다.",
+ "id": "n-04bc8d2a40",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ebb644ab62a8ee25dea8d4174629315384e3f923735f81913a50c3fe37586294",
+ "summary": "이 뉴스 게시물은 720p, 16fps, 최대 1분 길이의 시퀀스를 목표로 하는 NVIDIA 주도의 소형 텍스트/이미지-비디오 모델을 소개했으며, 코드는 아직 공개되지 않은 상태에서 RTX 5090 기준 소요 시간을 보고했습니다.",
+ "title": "SANA-Video 미리보기 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

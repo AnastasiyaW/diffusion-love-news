@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 5 月启动，正从简单的漏洞扫描转向通过其 Codex Security 智能体化框架实现自主修补。目前处于受控推广阶段，合作的行业伙伴包括 Cloudflare 和 Cisco。",
+ "id": "n-e92b026fad",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该计划采用分层访问模型来管理双重用途风险，其中 'Cyber' 变体仅限经过验证的红队测试和高级二进制逆向工程使用。",
+ "source_sha256": "ca6317a0f6a1ee0a3d4c1e9eab1dc26e56bd1c44276d0924a8d78edc0b19ac16",
+ "summary": "OpenAI Daybreak 是一个专注于网络安全的平台，利用 AI 智能体自主检测并修复软件漏洞。它是一个托管式安全控制界面，构建于 GPT-5.5 架构的多层级部署之上。",
+ "title": "OpenAI Daybreak",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

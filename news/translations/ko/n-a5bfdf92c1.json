@@ -1,0 +1,10 @@
+{
+ "id": "n-a5bfdf92c1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "902803f476c74eefb4e44ff6401f1b3ddeee692b8651a6c399a701fb076bd7a7",
+ "summary": "2026년 3월 28일, 날짜가 표기된 X-Dub 게시물이 프로젝트 웹사이트, GitHub 저장소, Hugging Face 페이지를 연결했습니다. 이를 통해 해당 시점에 코드 및 모델 리소스 위치와 함께 공개적으로 드러난 프로젝트의 존재가 확인됩니다. 제공된 근거만으로는 특정 릴리스, 버전, 기능 또는 기술적 변경 사항은 확인되지 않습니다.",
+ "title": "X-Dub 공개 프로젝트 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

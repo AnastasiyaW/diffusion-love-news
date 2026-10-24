@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzado en abril de 2026 con el modelo GameCoder-27B y la suite de evaluación OpenGame-Bench. Evolucionó desde la generación básica de código hacia un sistema de doble habilidad (Template & Debug) basado en aprendizaje por refuerzo anclado en la ejecución.",
+ "id": "n-7cc366b545",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por investigadores del CUHK MMLab; utiliza jueces VLM para verificar en tiempo real la jugabilidad y la alineación visual.",
+ "source_sha256": "41b49ae87369f0351854c7dd02fa7a493501049335c1f3445fd1d7ef3982e1d2",
+ "summary": "Un framework agéntico de código abierto para la creación autónoma de juegos web de principio a fin mediante LLM especializados. Genera juegos 2D totalmente jugables a partir de indicaciones en lenguaje natural, integrando habilidades de diseño, programación y depuración automatizada.",
+ "title": "OpenGame: codificación agéntica abierta para juegos web",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

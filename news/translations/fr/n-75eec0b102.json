@@ -1,0 +1,10 @@
+{
+ "id": "n-75eec0b102",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "54bc94f452e4a89bfffb6b4a898f5fd30f52b32a10f7083927df978fa6335a8b",
+ "summary": "Le 8 juin 2026, la ligne de développement de WavTTS a été répertoriée avec des liens vers son site du projet, son dépôt de code source, sa page de modèle, sa démo et une intégration ComfyUI. Cela fournit un point de référence public daté pour localiser le projet et les outils associés. Les éléments disponibles n'établissent pas quelle version ou quelle modification de code, le cas échéant, accompagnait ces liens.",
+ "title": "Les ressources publiques du projet WavTTS ont été répertoriées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

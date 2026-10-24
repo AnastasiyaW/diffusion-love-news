@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 Hugging Face Hub의 일급(first-class) 리포지토리 유형으로 정식 출시되었습니다. 커뮤니티가 관리하던 라이브러리에서 출발해, Flash Attention 4를 지원하는 중앙 인프라로 발전했습니다. 이 인프라는 극단적인 context parallelism에 최적화되어 있으며, NVIDIA Blackwell과 같은 최신 하드웨어 아키텍처를 지원합니다.",
+ "id": "n-545c4e25d2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "'kernels' Python 라이브러리와 Transformers, Diffusers(v0.38.0+)와 같은 표준 Hugging Face 도구에 깊이 통합되어 있습니다.",
+ "source_sha256": "e217a96f9bb7609839d2a29a233ccda428a161a0503a04a163406c4861beb9cc",
+ "summary": "Hugging Face Hub에서 사전 컴파일된 GPU 커널(CUDA, ROCm, Metal, XPU)을 직접 배포하기 위한 플랫폼이자 라이브러리입니다. 환경별로 맞춤화된 바이너리를 즉시 제공함으로써, Flash Attention과 같은 고성능 컴포넌트를 설치할 때 겪던 '설치 악몽'을 없애 줍니다.",
+ "title": "Hugging Face Kernels Hub: GPU 최적화를 위한 커널 허브",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

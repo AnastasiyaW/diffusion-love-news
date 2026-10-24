@@ -1,0 +1,11 @@
+{
+ "id": "n-a3e4d25dc2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Testen Sie Canvas-Interaktion und Node-Gruppierung in der Web-Demonstration, bevor Sie die Desktop-Software installieren.\n\nLaden Sie die gepackte Windows-Executable-Version herunter oder klonen Sie das Repository, um das Studio lokal auszuführen.\n\nHinterlegen Sie in den Einstellungen einen persönlichen fal.ai-API-Schlüssel, um die neuronale Bild- und Videoerzeugung auf Canvas-Nodes zu aktivieren.\n\nOrdnen Sie Referenzbilder an, verbinden Sie Macro-Nodes und führen Sie Generierungen direkt über den unendlichen Canvas aus.\n\nNutzen Sie Macro-Nodes, um wiederkehrende Prompt-Unterstützung und Referenztransformationen zu wiederverwendbaren Workflow-Blöcken zu bündeln.\n\nPrüfen Sie die Logik der Node-Verbindungen in der Browser-Demo, bevor Sie kostenpflichtige Generierungsläufe über fal.ai starten.\n\nÜberwachen Sie die Nutzungslimits Ihres fal.ai-Kontos und Ihr API-Token-Guthaben direkt, wenn Sie hochauflösende Bild- und Videobatches ausführen.",
+ "source_sha256": "35f252c1c19d74c0e806289f7685b037c1db9c9f534e3e84f444a6b6969b6e8d",
+ "summary": "CanAI ist als Open-Source-Software auf GitHub gestartet. Die Anwendung bietet eine unendliche Canvas-Oberfläche für neuronale Bild- und Videoerzeugung sowie eine Browser-Demo und Windows-Binärdateien, die auf extern bereitgestellte Rechenleistung von fal.ai zurückgreifen.",
+ "title": "CanAI als Open-Source-Canvas für generative Bild- und Videoerzeugung veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

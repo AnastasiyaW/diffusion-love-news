@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 '야생(in-the-wild)' 대화 오디오를 처리하기 위한 주요 오픈소스 프레임워크로 계속 자리매김하고 있으며, Moshi와 같은 풀듀플렉스 대화 모델을 위한 데이터셋 생성에 광범위하게 사용되고 있습니다.",
+ "id": "n-b107eae70b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "KAIST AI와 NAVER Cloud가 개발했으며, Whisper, Parakeet, Canary 모델을 사용하는 Mixture of Experts ASR 앙상블을 특징으로 합니다.",
+ "source_sha256": "3a72d3d029e65332b51750821350f4ae25129f5fcfaf19c2f0526bec481ac043",
+ "summary": "원시 대화 오디오를 풀듀플렉스 음성 언어 모델(Full-duplex Speech Language Model)을 위한 고품질 학습 데이터로 변환하도록 설계된 오픈소스 모듈형 파이프라인입니다. 화자 분리(speaker diarization), ASR Mixture of Experts, 배경 잡음 제거를 통합하여 자연스러운 대화의 역동성을 보존합니다.",
+ "title": "Sommelier: 오픈소스 오디오 처리 파이프라인",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

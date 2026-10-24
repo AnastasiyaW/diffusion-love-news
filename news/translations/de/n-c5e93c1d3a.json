@@ -1,0 +1,10 @@
+{
+ "id": "n-c5e93c1d3a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fa41026ae0d140da4d03ca12cb37e4ac2e8a9dbe24147d8763f56fd44d03471f",
+ "summary": "Am 07.07.2026 verlinkte diese Entwicklungslinie die öffentlichen Hugging-Face-Repository-Strukturen für NVIDIA Nemotron-Labs-Audex-30B-A3B und Nemotron-Labs-Audex-2B. Die Verlinkungen markieren einen wesentlichen Meilenstein bei der öffentlichen Verfügbarkeit von zwei Audex-Modellvarianten, wobei die genauen Veröffentlichungsdetails hier nicht geklärt sind.",
+ "title": "Audex-Modellrepositories sind öffentlich auffindbar geworden",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-ccb51d2a95",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac059ddf8bbb7ec7444b59dd8f063e3f863227ac024f910e951489c79c102417",
+ "summary": "24 августа 2026 года в ветке разработки появилось сообщение со ссылками на ресурс Hugging Face под названием MiniMax-H3-Fun-Controlnet-Union и на каталог с примером VideoX-Fun для MiniMax H3 Fun. Это рассматривается как существенный шаг, поскольку датированные ссылки связывают именованный артефакт с примером реализации, однако их возможности и сведения о выпуске независимо не исследовались.",
+ "title": "MiniMax H3 Fun ControlNet Union со ссылкой на пример VideoX-Fun",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

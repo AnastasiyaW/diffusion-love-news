@@ -1,0 +1,11 @@
+{
+ "id": "n-2222547f97",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast gestionaba texto/imagen a vídeo, mientras que Pro añadió audio a vídeo, Retake y Extend; se publicaron los pesos dev/distilled de 22B y los upscalers latentes.",
+ "source_sha256": "0332afcf4f1322905920ce4cfb7fd721dd86b080ab6d6e73bf64be33d2f42540",
+ "summary": "El 2026-03-05, LTX-2.3 se vinculó con su página de modelo, la documentación de inicio rápido y un playground de texto a vídeo. Esto marca un paso de disponibilidad pública e incorporación para la línea LTX-2.3, que abarca tanto material de referencia como un punto de entrada interactivo.",
+ "title": "LTX-2.3 se presentó con documentación y un playground de texto a vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

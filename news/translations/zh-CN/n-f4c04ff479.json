@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该平台由测试版采集工具演进为集成 AI 自动化功能的统一空间引擎。当前版本提供用于场景分析的 Spatial Sense AI，以及用于实现移动端浏览器高保真 3DGS 渲染的 LOD 流式加载。",
+ "id": "n-f4c04ff479",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "已用于新加坡航空展 2026 等大型商业展示；支持 .spz 和 .sogs 等优化的泼溅格式。",
+ "source_sha256": "7f462b464d26d070797d027c61d9287c8d6763684ea16f12d1f336c7a25267c3",
+ "summary": "Spatial Studio 是一款 SaaS 平台，利用高斯泼溅（Gaussian Splatting）技术创建沉浸式 3D 可视化内容。该平台专注于房产营销，将场地级扫描数据与 Google 3D Maps 以及高分辨率 360° 全景图相结合。",
+ "title": "Spatial Studio：由 Real Horizons 打造的 3D 高斯泼溅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 도구는 기본적인 PNG 메타데이터 뷰어에서 출발하여 MP4 비디오 지원, 번들된 FFmpeg를 통한 프레임 추출, 그리고 WAN 및 img2vid와 같은 복잡한 파이프라인의 다중 패스 워크플로 감지 기능을 포함하도록 확장되었습니다.",
+ "id": "n-02e0b8ae6c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Windows 탐색기 컨텍스트 메뉴 통합을 지원하며, ComfyUI JSON 워크플로를 직접 내보낼 수 있습니다.",
+ "source_sha256": "2c38a096de1b76278313b4ce3126b16630312cd8df167b54054e1b4761ee0415",
+ "summary": "생성 소프트웨어를 열지 않고도 AI로 생성된 이미지와 비디오에서 프롬프트, 시드 등 생성 메타데이터를 추출하여 확인할 수 있도록 설계된 휴대용 Windows 유틸리티입니다.",
+ "title": "AI 메타데이터 인스펙터 — Windows 메타데이터 뷰어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

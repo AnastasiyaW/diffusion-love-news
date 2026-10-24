@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该方法已在 NeurIPS 2025 上发表，并已用于发布 Llama 2 和 Llama 3.1 的压缩版本。它仍是高效、零样本模型精简领域的重要开源工具。",
+ "id": "n-18cb9608e2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "可在保持约 90% 原始模型性能的同时，剪除多达 25% 的层。",
+ "source_sha256": "2d773d003d156f082bd7efd5961d01be4c43dc5a6acbe99eb3b23bf31c243dde",
+ "summary": "ReplaceMe 是由 MTS AI 开发的一种免训练深度剪枝方法，它使用线性变换替换冗余的 Transformer 块。该方法无需重新训练，通过将这些近似变换合并到保留的权重中来压缩模型。",
+ "title": "ReplaceMe：面向大语言模型的免训练深度剪枝",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

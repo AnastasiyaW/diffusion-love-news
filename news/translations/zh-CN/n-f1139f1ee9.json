@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于2026年4月发布，是3DGH的后续工作，在3D高斯泼溅框架中引入了基于位置的动力学（PBD）用于头发模拟。在物理真实的单样本头像动画方面，它目前仍处于最先进水平（SOTA）。",
+ "id": "n-f1139f1ee9",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "针对Apple Silicon（M1-M4）进行了优化，使用Metal/MPS；采用SAM2进行头发与面部分割，并使用FLAME驱动面部表情。",
+ "source_sha256": "3c8ba4255550d7487950c65af2dc4d55ff24406460bd6812021719ce8fa67930",
+ "summary": "一个研究项目，旨在从单张2D肖像生成高保真、可驱动动画的3D头部头像。该方法将重建过程解耦为无发面部网格和由3D高斯泼溅（3D Gaussian Splats）表示的动态头发，从而实现逼真的物理效果并便于更换发型。",
+ "title": "CompHairHead：基于可变形头发的单样本3D头像",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

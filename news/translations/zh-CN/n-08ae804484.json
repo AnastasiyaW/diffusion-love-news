@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "继 2026 年 4 月 Netflix VOID 模型发布之后，该项目从测试版移植逐步演进为完善的节点集。社区更新引入了 FP8 量化，以支持 24GB 显存；并通过两阶段流水线改进了时序一致性。",
+ "id": "n-08ae804484",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了用于物理感知修复的四重掩码系统；在 ComfyUI 生态中被广泛用作 VOID 的主要入口。",
+ "source_sha256": "f11cd38825564e3a3d7a8bf959bebe7f367b4cccd1952168e2fcb29561475f34",
+ "summary": "Netflix VOID 模型的 ComfyUI 实现，专为高级视频修复（inpainting）而设计。它利用独特的四重掩码（quadmask）系统，在删除物体的同时一并移除其阴影、反射等物理交互效果。",
+ "title": "AP Netflix VOID — 用于视频物体删除的 ComfyUI 节点",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

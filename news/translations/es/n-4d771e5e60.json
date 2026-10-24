@@ -1,0 +1,11 @@
+{
+ "id": "n-4d771e5e60",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Crea un entorno virtual de Python 3.11 o 3.12 e instala los requisitos fijados.\n\nEjecuta `python its_giving_v2.py --calibrate`, mantén el rostro neutro durante la calibración de siete segundos y, a continuación, ejecuta `python its_giving_v2.py`.\n\nInstala un backend de cámara virtual para el sistema operativo, inicia ItsGiving antes de la aplicación de videollamada y, después, selecciona la cámara virtual publicada en los ajustes de vídeo de esa aplicación.\n\nMantén sin cambios las versiones fijadas de las dependencias: las restricciones de compatibilidad documentadas de MediaPipe, NumPy y OpenCV están acopladas.\n\nUsa v2 y recalibra cuando sea necesario, ya que sus umbrales de expresión se basan en la línea base de rostro neutro del usuario.\n\nAl añadir una pose, revisa el orden de las poses antes de bajar los umbrales, porque gana la primera pose que coincida; usa el HUD y un recuento de brazos para ajustar los disparos falsos.\n\nPrueba las reacciones antes de usarlas en una reunión, ya que la salida puede activarse automáticamente y es visible para todos los participantes de la llamada.",
+ "source_sha256": "608431980f7d92040c98ed6e4f36c96775cbfae3da73bbd882b61cfe711e85b7",
+ "summary": "ItsGiving ofrece una superposición de webcam en Python que puede seleccionarse como cámara virtual en el software de videollamadas; su script v2 recomendado calibra los umbrales de expresión a partir de una línea base de siete segundos con el rostro neutro.",
+ "title": "Superposición de meme para webcam ItsGiving con detección v2 calibrada",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

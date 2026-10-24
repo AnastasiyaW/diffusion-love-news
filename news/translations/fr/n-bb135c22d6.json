@@ -1,0 +1,11 @@
+{
+ "id": "n-bb135c22d6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Sous Linux avec Python 3.12 et uv, créez l'environnement virtuel documenté, installez le paquet en mode éditable et exécutez la démonstration sans identifiants avant de connecter un modèle.\n\nPour une exécution reposant sur un modèle, installez les dépendances d'exécution et de benchmark listées, configurez les paramètres du modèle et l'authentification, puis commencez avec une seule tâche de benchmark et une petite sélection.\n\nExécutez les étapes de vérification, d'affinage, de jugement et de génération de rapports avec un benchmark, un exécuteur, un sous-ensemble, un budget de récursion, un mode et une graine identiques ; utilisez le mode dry-run pour inspecter la sélection des tâches sans appel au modèle.\n\nChoisissez la récursion parallèle pour explorer plus largement les harnais candidats, ou la récursion séquentielle pour enchaîner les affinages sur des étapes successives ; ne conservez les harnais retenus qu'avec les preuves d'exécution qui les étayent.\n\nConfigurez les restrictions réseau avant l'évaluation afin que les grilles de notation, les réponses ou les critères de notation publics des benchmarks ne puissent pas fuiter vers un exécuteur disposant d'un accès web illimité.\n\nGardez la configuration d'évaluation identique à celle de l'exécution d'affinage lors du jugement et de la génération des rapports ; modifier le benchmark, l'exécuteur, le sous-ensemble, le mode de récursion, le budget ou la graine invalide une comparaison à conditions égales.\n\nConsidérez les budgets de récursion plus importants comme un compromis explicite entre calcul et performance : l'article comptabilise à la fois les jetons d'exécution et les jetons d'amélioration, et ses gains n'ont été mesurés que dans les configurations de benchmark évaluées.",
+ "source_sha256": "b043819f49f3b9d11c834c7dab0aa12f7b099c9943f66ff8ea4a2c118bdc4f12",
+ "summary": "L'implémentation propose une récursion parallèle et séquentielle pour JobBench, LAB et WorkBuddy-Bench, les opérateurs étant chargés de configurer les restrictions réseau de l'évaluation.",
+ "title": "Harness² prend en charge les expériences de benchmark avec OpenCode et Codex",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

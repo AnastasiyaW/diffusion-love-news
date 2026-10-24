@@ -1,0 +1,11 @@
+{
+ "id": "n-28ab3dac33",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Revise los límites regulatorios regionales y las directrices de cumplimiento federal antes de integrar la API de DeepSeek o los pesos de sus modelos en flujos de trabajo institucionales.\n\nProporcione acceso comercial a la API o clústeres de cómputo privados respaldados por infraestructura independiente para mantener la continuidad operativa.\n\nAísle los pipelines de despliegue de los proveedores de modelos con sede en China de los entornos de datos occidentales federales y regulados, para cumplir con las restricciones de contratación pública.",
+ "source_sha256": "452a0ed5f8ac7c4942c05ad024b3e3f8d4c0f8a58ab18bcba380ebc550e735d7",
+ "summary": "DeepSeek recaudó 15.000 millones de dólares poco después de que las agencias civiles federales de EE. UU. recibieran la orden de dejar de usar sus modelos por consideraciones de seguridad nacional.",
+ "title": "DeepSeek recauda 15.000 millones de dólares tras las restricciones de despliegue del gobierno federal de EE. UU.",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

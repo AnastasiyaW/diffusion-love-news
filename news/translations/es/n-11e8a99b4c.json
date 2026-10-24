@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de un IDE multiagente orientado a desarrolladores a una aplicación de productividad local dirigida al usuario final. Ahora integra el Model Context Protocol (MCP) y funciona como un compañero de trabajo autónomo que mantiene un grafo de contexto persistente.",
+ "id": "n-11e8a99b4c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Respaldado por Y Combinator S24. Fundado por los creadores de Agara AI (adquirida por Coinbase), y hace hincapié en la privacidad total de los datos, con soporte para LLM locales mediante Ollama.",
+ "source_sha256": "1fa8dd2afde2e86fce845830011eab9acca1562a514668805a4be103b721636a",
+ "summary": "Rowboat es un asistente de IA local-first que procesa datos digitales, como correos electrónicos y notas, para construir un grafo de conocimiento dinámico. Almacena la información en archivos Markdown legibles por humanos y funciona de forma privada en la máquina del usuario.",
+ "title": "Rowboat: agente de IA local-first y grafo de conocimiento personal",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

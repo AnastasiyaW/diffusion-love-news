@@ -1,0 +1,10 @@
+{
+ "id": "n-c32e26254c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7c5dec4ee7bbb04c752a9967ff72bb585eba48ad94dcd7105401c73c80a11f06",
+ "summary": "El 2026-04-17, el enlace registrado apuntaba a la documentación oficial de la función Managed Bots de la Bot API. Esto registra la función como parte de las capacidades documentadas de la plataforma de bots de The source en esa fecha; las pruebas disponibles no permiten establecer si esa fecha corresponde a su lanzamiento inicial.",
+ "title": "La fuente documentó Managed Bots como una función de la plataforma de bots",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

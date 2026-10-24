@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Adquirido por Foundry en febrero de 2026. El proyecto evolucionó de un framework de agentes de IA en Python de propósito general a la capa de infraestructura central de la estrategia de VFX «AI-first» de Foundry y de su integración con Nuke.",
+ "id": "n-ebeab9837a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integra VOID para la generación automatizada de clean plates y SAM3.1 para el seguimiento multiobjeto en tiempo real (arquitectura Object Multiplex).",
+ "source_sha256": "8975201a98c982097726691084af3761fffdd4fc79f3cf7d83913cd82226f13d",
+ "summary": "Un framework y una plataforma de orquestación visual para construir pipelines de IA complejos en efectos visuales profesionales. Permite crear flujos de trabajo basados en nodos para modelos avanzados como VOID de Netflix, para inpainting de vídeo, y SAM3.1 de Meta, para segmentación de alta velocidad.",
+ "title": "Griptape: plataforma de orquestación de IA para VFX",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

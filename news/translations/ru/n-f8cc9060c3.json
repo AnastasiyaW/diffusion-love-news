@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "В новостной записи сообщалось о публикации кода SANA и демо-версии на 1.6B для разрешения 1024px, при этом интеграции с Diffusers и ComfyUI ещё ожидались.",
+ "id": "n-f8cc9060c3",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b6f699fc867d8df1c52dd42ff2fa13d610b0d7ae59a1bc735d7a3bc85bc0fb93",
+ "summary": "В новостной записи сообщалось о публикации кода SANA и демо-версии на 1.6B для разрешения 1024px, при этом интеграции с Diffusers и ComfyUI ещё ожидались.",
+ "title": "Опубликован код SANA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该资讯报道称，该模型在合影和复杂场景中的一致性有所提升，图像偏移减少，并集成了多个热门 LoRA。",
+ "id": "n-589c676a0a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0ebab944df1cdcd3e80c3a4fbb81ca9dd2c8b6d1705b58063fba5c333196143b",
+ "summary": "该资讯报道称，该模型在合影和复杂场景中的一致性有所提升，图像偏移减少，并集成了多个热门 LoRA。",
+ "title": "Qwen-Image-Edit-2511 正式发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

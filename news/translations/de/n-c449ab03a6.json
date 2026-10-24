@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im frühen Jahr 2026 offiziell veröffentlicht als erstes unifiziertes Framework zur Rohbilderzeugung dieser Art. Es wird derzeit in die Roadmaps für neuronale ISPs und AI Experience (AX) von Samsung für künftige mobile Fotografie integriert.",
+ "id": "n-c449ab03a6",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt FLUX als Backbone-Modell; unterstützt Echtzeit-ISP-Operationen wie Weißabgleich und Belichtung auf dem linearen Roh-Output.",
+ "source_sha256": "cd07d49dcd7f84d603f8d14539671b743dea205deedd8fae5220db4dc648f366",
+ "summary": "Ein einheitliches, diffusionsbasiertes Framework von Samsung, das aus Text- oder sRGB-Eingaben physikalisch konsistente Kamera-Rohbilder erzeugt. Es ermöglicht hochwertige Bearbeitung und gerätespezifische Synthese für beliebige Kamerasensoren.",
+ "title": "RawGen: Lernen der Erzeugung von Kamera-Rohbildern",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

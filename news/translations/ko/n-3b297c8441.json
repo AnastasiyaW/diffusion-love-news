@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 플랫폼은 1.1 및 1.1 Plus 버전 출시와 함께 리서치 프리뷰에서 상용 생태계로 발전했으며, 대규모 지형을 위한 Dynamic Cubes와 수동 레이아웃 제어를 위한 Chisel 편집기를 도입했습니다.",
+ "id": "n-3b297c8441",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Dr. Fei-Fei Li가 설립했으며, 생성된 월드 전반에서 기하학적 안정성과 사실적 표현을 보장하기 위해 3D Gaussian Splatting을 활용합니다.",
+ "source_sha256": "02a929af959ca83106a1b0c9374c46968ef532c73d1e5ea39e53cec01ff90ecf",
+ "summary": "텍스트, 이미지 또는 비디오로부터 Gaussian Splatting을 사용해 지속적이고 탐색 가능한 3D 환경을 생성하는 공간 지능 플랫폼입니다. 크리에이터, 개발자, 로보틱스 학습을 위해 고충실도 월드 생성 기능을 제공합니다.",
+ "title": "World Labs Marble: 생성형 3D 월드 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

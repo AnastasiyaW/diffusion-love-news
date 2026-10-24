@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "UniGeo 利用视频先验和三维点云注入，解决了传统图像扩散模型中常见的结构“扭曲”（warping）问题。目前它代表了业界最先进的方法，性能优于 ViewCrafter 和 CAT3D 等基准方法。",
+ "id": "n-7c1f689c14",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目包含一种专门设计的“几何锚点注意力”（Geometric Anchor Attention）机制，以及轨迹端点监督，用于防止在复杂相机运动过程中出现几何漂移。",
+ "source_sha256": "3c0375578bc89db608aab08b59a28311872e63bf718fdbaa3387ecbc82cf9bc7",
+ "summary": "UniGeo 是一个用于高保真、可控相机视角图像编辑的框架，它以视频扩散模型作为先验。该框架在表示、架构和损失三个层面引入统一的几何引导，以在视角变化过程中保持严格的结构一致性。",
+ "title": "UniGeo：基于视频模型的可控相机视角图像编辑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-86748f8e9e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8d72deaf901807a146ef2de351ca3c413ffb2e3fde405f0bac5e66fc0316ce1c",
+ "summary": "2026年7月12日，一个 Colibri GitHub 仓库与一个 GLM-5.2 Colibri INT4 模型的 Hugging Face 页面被关联在一起。这一记录表明，该项目的源代码及相关的量化模型制品被作为公开资源呈现，并有明确的日期依据。由于所记录的链接未予提供，仅凭这些链接无法确认其确切的发布状态、作者归属和功能。",
+ "title": "Colibri 源代码仓库与 INT4 模型已公开关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

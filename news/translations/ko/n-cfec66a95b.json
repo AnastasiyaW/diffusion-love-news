@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "연구용 프로토타입에서 MCP 통합을 갖춘 프로덕션 수준의 로컬 서비스로 전환되었습니다. 현재 Claude Code, Gemini CLI 등 주요 에이전트 플랫폼을 지원하며, 에이전트가 수행한 편집에 대해 심층적인 추적 기능을 제공합니다.",
+ "id": "n-cfec66a95b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "에이전트에 도구를 노출하기 위해 Model Context Protocol(MCP)을 사용하며, 배포는 'aose-main' npm 패키지를 통해 관리됩니다.",
+ "source_sha256": "b577bc25e3e52600334b70504210960a31892d9bf919a8a0a00c0daa5feb0f1a",
+ "summary": "문서, 데이터베이스, 슬라이드, 순서도를 아우르며 사람과 AI 에이전트 간의 실시간 협업을 위해 설계된 로컬 우선(local-first) 오피스 스위트입니다. 정적인 채팅 메시지 대신 실시간으로 살아 있는 객체와 에이전트가 직접 상호작용할 수 있도록 하며, 에이전트의 작업을 추적할 수 있는 포괄적인 버전 기록 기능을 갖추고 있습니다.",
+ "title": "AgentOfficeSuite (AOSE) — 사람과 AI 에이전트를 위한 협업 오피스 스위트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

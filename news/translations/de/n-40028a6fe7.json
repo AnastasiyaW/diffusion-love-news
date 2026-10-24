@@ -1,0 +1,10 @@
+{
+ "id": "n-40028a6fe7",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2121716d6b95729654f9ffe133349bd4a4042f79fdc9562704fc924ac4d4a14d",
+ "summary": "Am 20.08.2026 verlinkte dieses Mitglied der Entwicklungslinie das Quellcode-Repository von Raon-OpenTTS, die Modellseite KRAFTON/Raon-OpenTTS-1B und eine separate, mit ComfyUI zusammenhängende Hugging-Face-Seite. Die verlinkte Gruppe stellt einen wesentlichen öffentlichen Bezugspunkt für das Projekt dar und deutet auf die mögliche Verfügbarkeit von Modell und Workflow hin. Allein anhand der Links lassen sich jedoch weder Versionsstände noch Fähigkeiten belegen, ebenso wenig, ob es sich bei der ComfyUI-Ressource um einen offiziellen Projektbestandteil handelte.",
+ "title": "Raon-OpenTTS-Quellcode, Modell und ComfyUI-Referenz wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

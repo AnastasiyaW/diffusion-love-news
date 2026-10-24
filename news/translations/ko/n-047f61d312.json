@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 자동화 스크립트에서 출발해, 로컬 우선(local-first) 렌더링, 자동 군더더기(filler) 제거, 그리고 HyperFrames 및 Remotion을 통한 프로그래밍 방식 오버레이 지원을 갖춘 전문화된 에이전트 스킬로 발전했습니다.",
+ "id": "n-047f61d312",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "터미널 기반 에이전트에 최적화되어 있으며, 전문가 수준의 컷 편집을 위한 '12 hard rules'를 갖추고 있습니다. 최근에는 UTF-8 인코딩 지원과 세로 방향(portrait) orientation 보존 기능이 업데이트되었습니다.",
+ "source_sha256": "60b6f9112b9eaa58b79539cca7b019e32d090513e3b38734f37170cd1a001224",
+ "summary": "Claude Code와 같은 AI 에이전트가 자연어를 통해 자동화된 영상 편집을 수행할 수 있게 하는 오픈소스 프레임워크입니다. 시각적 합성 이미지와 구조화된 메타데이터를 활용해 FFmpeg을 안내하여, 정밀하면서도 토큰 효율적인 제작을 가능하게 합니다.",
+ "title": "video-use: AI 에이전트 영상 편집 툴킷",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

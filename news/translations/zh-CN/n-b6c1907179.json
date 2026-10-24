@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该框架于 2026 年 4 月正式发布，由 LeapLabTHU 与腾讯混元合作完成。它将范式从“编辑”转向“再生成”，并在 GeneralEval 和 UniGeneralBench++ 等基准上取得显著提升。",
+ "id": "n-b6c1907179",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用源自 ViT 的语义令牌来保留核心上下文，同时允许模型完全重绘结构细节。",
+ "source_sha256": "369ddf6f222587561439b9695f19255c404658fa22513e367387e80bd82eddd4",
+ "summary": "RvR 是一个通过从高层语义令牌重新生成图像、而非进行像素级编辑来提升图像质量与语义对齐的框架。它利用一个 7B 参数的混合令牌（Mixture-of-Tokens, MoT）模型，修复传统方法无法解决的结构性错误和风格不一致问题。",
+ "title": "RvR:面向高质量图像精修的基于再生成的精修方法",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

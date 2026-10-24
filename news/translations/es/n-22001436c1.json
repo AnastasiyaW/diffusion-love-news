@@ -1,0 +1,10 @@
+{
+ "id": "n-22001436c1",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b880485d0dd7664a1a1f1076b37c7afc9d25e6417d764efe9e435cbbb31e6e1c",
+ "summary": "El 17 de junio de 2026, la línea de desarrollo de Image-to-LoRA se asoció con una colección pública de ModelScope para Image-to-LoRA V2. Se trata de un hito relevante a nivel de versión, porque identifica un punto de distribución público concreto del proyecto en esa fecha. La evidencia disponible no establece los cambios técnicos del modelo, su autoría ni su estado de publicación más allá de dicha colección enlazada.",
+ "title": "La colección de Image-to-LoRA V2 se convierte en un hito público del proyecto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

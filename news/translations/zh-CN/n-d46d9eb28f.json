@@ -1,0 +1,11 @@
+{
+ "id": "n-d46d9eb28f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在公共网络域名上配置robots.txt,为Meta网络爬虫明确定义抓取权限。\n\n在关联企业域名或发布商业资产之前,请在Meta Business Manager中审阅商业服务条款协议。\n\n在Web服务器边界维护明确的爬虫白名单和禁止指令,而不是依赖默认合同条款来保护内容。\n\n定期审计商业账户权限,确保商业URL仅限于广告运营,且不包含广泛的内容提取许可。",
+ "source_sha256": "0eb26e0c1a24f1543a6dbdee44950d6701cae4ae56d0dfb78bd8dd4e7f854f85",
+ "summary": "Meta修订了更新后的商业服务条款,删除了关于使用从商业账户网页内容抓取的数据训练AI模型的明确表述,并将数据用途收窄至广告和商业产品。",
+ "title": "Meta从商业条款中删除AI训练相关表述",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

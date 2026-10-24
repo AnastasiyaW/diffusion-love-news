@@ -1,0 +1,10 @@
+{
+ "id": "n-40028a6fe7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2121716d6b95729654f9ffe133349bd4a4042f79fdc9562704fc924ac4d4a14d",
+ "summary": "2026 年 8 月 20 日，该开发线成员关联了 Raon-OpenTTS 源码仓库、KRAFTON/Raon-OpenTTS-1B 模型页面，以及另一个与 ComfyUI 相关的 Hugging Face 页面。这组链接是该项目公开可见的重要参考点，也体现了其模型与工作流可能的可用性。但仅凭这些链接，无法确定发布版本、功能特性，也无法判断该 ComfyUI 资源是否为项目的官方组成部分。",
+ "title": "Raon-OpenTTS 源码、模型与 ComfyUI 参考资源已完成关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

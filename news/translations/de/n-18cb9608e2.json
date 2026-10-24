@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die Methode wurde auf der NeurIPS 2025 vorgestellt; mit ihr wurden komprimierte Versionen von Llama 2 und Llama 3.1 veröffentlicht. Sie ist nach wie vor ein zentrales Open-Source-Werkzeug für effiziente, Zero-Shot-basierte Modellvereinfachung.",
+ "id": "n-18cb9608e2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Methode kann bis zu 25 % der Layer entfernen und dabei etwa 90 % der Leistung des ursprünglichen Modells erhalten.",
+ "source_sha256": "2d773d003d156f082bd7efd5961d01be4c43dc5a6acbe99eb3b23bf31c243dde",
+ "summary": "ReplaceMe ist eine von MTS AI entwickelte trainingsfreie Methode zum Depth Pruning, die redundante Transformer-Blöcke durch lineare Transformationen ersetzt. Die Modelle werden ohne erneutes Training komprimiert, indem diese Approximationen in die verbleibenden Gewichte eingerechnet werden.",
+ "title": "ReplaceMe: Trainingsfreies Depth Pruning für LLMs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

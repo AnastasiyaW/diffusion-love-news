@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 초기 커뮤니티 포트에서 안정화된 Saganaki22 구현으로 발전했습니다. 이 과정에서 SageAttention 지원, Windows용 메모리 최적화, 비언어적 표현을 위한 고급 대화 태깅이 도입되었습니다.",
+ "id": "n-661e84940d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "PyTorch 2.8.0 이상이 필요합니다. 핵심 ComfyUI 환경과의 의존성 충돌을 피하려면 ComfyUI Manager를 통해 설치하거나 --no-deps 플래그를 사용하는 것이 권장됩니다.",
+ "source_sha256": "de882ca356533eea6a617c4a9088bc21afb0493406b5f053b9ea647c2cf2aeb3",
+ "summary": "제로샷 음성 복제 모델 OmniVoice를 ComfyUI에 통합한 기능으로, 노드 기반 워크플로 안에서 고품질 텍스트 음성 변환(TTS)과 음성 디자인을 수행할 수 있게 합니다. 600개가 넘는 언어를 지원하며, 실시간 계수(RTF)는 최저 0.025에 이릅니다.",
+ "title": "ComfyUI용 OmniVoice 커스텀 노드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

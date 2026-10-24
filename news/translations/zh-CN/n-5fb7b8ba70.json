@@ -1,0 +1,10 @@
+{
+ "id": "n-5fb7b8ba70",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "786f0884887b6157880de5baea9720f0b544c2cb0b1879ce3af070ef0cc60994",
+ "summary": "2026年6月15日，一则项目更新附上了 TensorForger 的 Flow Upscaler ComfyUI 节点代码仓库及其关联的 Hugging Face 资源链接。这是 Flow Upscaler 开发路线的一个重要公开分发入口，但仅凭这些带日期的链接，无法确定其版本、功能集或发布状态。",
+ "title": "TensorForger 发布 Flow Upscaler 的 ComfyUI 相关资源链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

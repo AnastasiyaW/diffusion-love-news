@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der Veröffentlichung des ComfyUI-Nodes im März 2026 stellte das offizielle Team im April 2026 den Trainingscode bereit, sodass Nutzer eigene Expression-LoRAs erstellen können. Die ComfyUI-Implementierung wurde anschließend aktualisiert, um die gleichzeitige Überblendung mehrerer Ausdrücke sowie verbesserte Intensitätsbereiche für die Qwen-Image-Edit-2511-Basis zu unterstützen.",
+ "id": "n-55968207e4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt fällt durch seinen Ansatz der „reduzierten semantischen Verflechtung“ auf, der sicherstellt, dass eine Änderung des Lächelns weder den Hintergrund noch die Ähnlichkeit des Charakters beeinflusst. Die erste Entwicklung des ComfyUI-Nodes wurde nach Angaben des Projekts maßgeblich von Gemini AI unterstützt.",
+ "source_sha256": "6210ccecbe8af7568c16931aa2e69469c997be0fd05bb465d29eefe282e93bbc",
+ "summary": "PixelSmile ist ein Tool zur Conditioning-Interpolation, das eine feinkörnige Steuerung von Gesichtsausdrücken und Lächeln bei Charakteren in ComfyUI ermöglicht. Es mischt neutrale und Zielausdrücke mathematisch auf der Ebene der Embeddings, um die Identität des Charakters zu bewahren und die semantische Verflechtung bei Qwen-basierten Modellen zu minimieren.",
+ "title": "PixelSmile für ComfyUI: präzise Steuerung von Gesichtsausdrücken",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

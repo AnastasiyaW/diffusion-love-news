@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월, GameCoder-27B 모델과 OpenGame-Bench 평가 스위트와 함께 공개되었습니다. 기본적인 코드 생성에서 출발해 실행 기반 강화학습(execution-grounded reinforcement learning)을 사용하는 이중 스킬 시스템(Template & Debug)으로 발전했습니다.",
+ "id": "n-7cc366b545",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "CUHK MMLab 연구진이 개발했으며, 실시간 플레이 가능성과 시각적 정합성 검증을 위해 VLM 심사기(judge)를 활용합니다.",
+ "source_sha256": "41b49ae87369f0351854c7dd02fa7a493501049335c1f3445fd1d7ef3982e1d2",
+ "summary": "특화된 LLM을 활용해 웹 게임을 자율적으로 end-to-end 제작하는 오픈소스 에이전트 프레임워크입니다. 설계, 코딩, 자동 디버깅 스킬을 통합하여 자연어 프롬프트로부터 완전히 플레이 가능한 2D 게임을 생성합니다.",
+ "title": "OpenGame: 웹 게임을 위한 오픈 에이전트 코딩",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

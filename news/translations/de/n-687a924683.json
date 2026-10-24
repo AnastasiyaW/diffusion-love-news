@@ -1,0 +1,11 @@
+{
+ "id": "n-687a924683",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ermitteln Sie die aktuelle Version der selbst verwalteten GitLab-Instanz über das Administrations-Dashboard oder durch Ausführen von gitlab-rake gitlab:env:info auf dem Host.\n\nWählen Sie das passende Patch-Ziel für die aktive Versionslinie: Aktualisieren Sie 19.5.x auf 19.5.1, 19.4.x auf 19.4.3, 19.3.x auf 19.3.6, 19.2.x auf 19.2.9, 19.1.x auf 19.1.9, 19.0.x auf 19.0.10 oder die älteren Versionen 7.0 bis 18.11.x auf 18.11.13.\n\nFühren Sie den Paketmanager-Update-Befehl oder das Pullen des Container-Images aus, um den Sicherheitspatch einzuspielen, und starten Sie die GitLab-Dienste neu, damit die aktualisierten Binärdateien wirksam werden.\n\nPrüfen Sie die Puma-Worker-Logs und die Anwendungs-Fehlerprotokolle auf Fehler des Compilers für reguläre Ausdrücke oder auf abnormale Beendigungen von Workern, um frühere Ausnutzungsversuche zu erkennen.\n\nSpielen Sie Sicherheitsreleases umgehend auf öffentlich erreichbare selbst verwaltete GitLab-Instanzen ein, da für nicht authentifizierte Remote-Code-Ausführung weder Zugangsdaten noch Benutzerinteraktion erforderlich sind.\n\nAktualisieren Sie direkt auf das vorgesehene Patch-Release innerhalb des aktiven Minor-Versionszweigs, um unnötige Datenbankmigrationen zu vermeiden und Ausfallzeiten zu reduzieren.\n\nVerlassen Sie sich nicht allein auf Regeln einer vorgelagerten Web Application Firewall oder auf Konfigurations-Workarounds, da bösartige Muster für reguläre Ausdrücke über verschiedene Pfade der Dokumentenverarbeitung verarbeitet werden können.",
+ "source_sha256": "0ca3169f3f4816717804ada73462aa3ddef43de11b210cfad05b34f0a72fdc82",
+ "summary": "Selbst verwaltete GitLab-Instanzen ab Version 7.0 wurden aufgefordert, umgehend auf Patch 19.5.1 oder die vorgesehenen Backport-Releases zu aktualisieren, nachdem der Sicherheitsforscher joaxcar eine nicht authentifizierte Schwachstelle zur Codeausführung mit einem CVSS-Wert von 10.0 offengelegt hatte.",
+ "title": "GitLab veröffentlicht Sicherheitsupdates für eine kritische Schwachstelle zur Remote-Code-Ausführung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖介绍了Qwen3.5 2B可在本地或Colab中进行微调,并需要5 GB VRAM。",
+ "id": "n-69431eb7bc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72aa2773e29a27aa7412c4fa2285d094ec9f581950059f9d46a578c17bc05fb2",
+ "summary": "该新闻帖介绍了Qwen3.5 2B可在本地或Colab中进行微调,并需要5 GB VRAM。",
+ "title": "Unsloth发布Qwen3.5微调指南",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

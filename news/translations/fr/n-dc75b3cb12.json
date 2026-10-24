@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article d'actualité présentait un LoRA infographique à huit étapes, capable de générer du texte en chinois et en anglais, des mises en page structurées et utilisable sur GPU grand public, ainsi que les modes de défaillance observés : répétition de texte et fonds blancs.",
+ "id": "n-dc75b3cb12",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f2ee2e44107ab209c5b4a7434af3397d9ff18eb8010d2661a9963d0c2f20051e",
+ "summary": "L'article d'actualité présentait un LoRA infographique à huit étapes, capable de générer du texte en chinois et en anglais, des mises en page structurées et utilisable sur GPU grand public, ainsi que les modes de défaillance observés : répétition de texte et fonds blancs.",
+ "title": "Le LoRA infographique SenseNova U1 annonce une voie à huit étapes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

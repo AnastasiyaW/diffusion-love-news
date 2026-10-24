@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelte sich von einem internen Vercel-Tool zu einem öffentlichen Open-Source-Projekt; derzeit kommen Claude 3.5 Sonnet und Vercel Sandbox für eine hochpräzise Codeanalyse und direkte PR-Korrekturen zum Einsatz.",
+ "id": "n-efaa00d50b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Setzt ein progressives Skill-System ein, das spezialisierte Anweisungen für bestimmte Frameworks wie Next.js nur dann lädt, wenn sie relevant sind.",
+ "source_sha256": "15f56f17ce6a52d927daa75978a1156369b77155d76454def24d7d237bcf98c2",
+ "summary": "Ein quelloffener, selbst gehosteter KI-Assistent für Code-Reviews, der On-Demand-Analysen von Pull Requests und automatisierte Korrekturen bereitstellt. Er nutzt Claude 3.5 Sonnet und Vercel Workflow, um Reviews in Sandbox-Umgebungen auszuführen, sodass er Linter und Tests laufen lassen kann.",
+ "title": "OpenReview: KI-gestützter Code-Review-Bot von Vercel Labs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

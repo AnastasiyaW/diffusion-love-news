@@ -1,0 +1,10 @@
+{
+ "id": "n-4ef65aa7f6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bdc8f01c918655c12d0209930352a51da28b53cd7b9a1d065f9fffcb183feea4",
+ "summary": "2026年7月27日，FINAL-Bench 通过其模型页面公开提供 POCKET-35B-GGUF。带日期的链接还表明，该项目已上线一个面向 CPU 的演示空间，并被收录进 Pocket Models 合集，这标志着该项目迈出了具体的分发一步。",
+ "title": "FINAL-Bench 发布 POCKET-35B-GGUF 模型系列",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

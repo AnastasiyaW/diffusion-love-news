@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月发布后，迅速新增了官方 ComfyUI 支持；2026 年 5 月，它完成了一个里程碑式的进展，全面集成到 Hugging Face Diffusers 库中。此后，社区贡献者陆续发布了 GGUF 和 FP8 量化版本，使这个 30GB+ 的模型能够在消费级 GPU 上运行。",
+ "id": "n-0739891476",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该架构采用闭环系统，理解模型会参与指导生成过程，从而减少复杂空间变换中的幻觉问题。",
+ "source_sha256": "296625abf3b9536811c68d34346c284f2f7ee8582657f6765f4a0db075aaa674",
+ "summary": "这是京东推出的一款多模态基础模型，结合了 8B 理解模型与 16B MMDiT，用于精确的图像编辑。它专注于物体旋转、相机视角控制和高保真内容修改等空间推理任务。",
+ "title": "JoyAI-Image：官方 ComfyUI 节点与空间编辑模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-cf72a26f02",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0168b9a9be6a6f036789cecc44e7a338cb37b83d61075900cf90d7293a81ac1f",
+ "summary": "El 2026-08-07, InfiniSplat quedó documentado mediante enlaces a su página del proyecto, a su repositorio de GitHub y a su Hugging Face Space. Esto registra una presencia pública del proyecto que abarca información del proyecto, acceso a la implementación y una superficie interactiva alojada, sin establecer una versión específica ni el lanzamiento de una función concreta.",
+ "title": "Se documentaron los recursos públicos del proyecto InfiniSplat",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

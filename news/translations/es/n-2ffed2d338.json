@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzado en mayo de 2026 como una mejora importante respecto a la versión 1.5, que va más allá de la fidelidad de audio simple para incorporar la comprensión del contexto emocional. Actualmente se encuentra en vista previa de investigación y sirve como referencia para la latencia y la expresividad de la IA conversacional.",
+ "id": "n-2ffed2d338",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por Inworld AI; se sitúa de forma consistente en lo más alto del Artificial Analysis Speech Arena y compite directamente con la Realtime API de OpenAI.",
+ "source_sha256": "e540ba8706d00d3d01b8938bb1e4a0a93ec57d08940ae8b69e33affb2cf82caa",
+ "summary": "Una IA de voz conversacional de baja latencia que adapta dinámicamente su tono y su expresión emocional según el audio de entrada del usuario. Incorpora una \"capa conductual\" para el razonamiento social y admite la dirección mediante lenguaje natural en más de 100 idiomas.",
+ "title": "Inworld Realtime TTS-2: sistema de voz IA emocional",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

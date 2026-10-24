@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'annonce faisait état d'un modèle Qwen3-Coder multimodal plus performant, en lien avec l'écosystème Qwen Code ; il s'agit d'un événement lié à un modèle et non d'une sortie de CLI.",
+ "id": "n-fe2f35c14b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d8d0bc794b7b55839b5306f3104b834c59256ebbc6f11ff9a7341904c0da4be",
+ "summary": "L'annonce faisait état d'un modèle Qwen3-Coder multimodal plus performant, en lien avec l'écosystème Qwen Code ; il s'agit d'un événement lié à un modèle et non d'une sortie de CLI.",
+ "title": "Qwen3-Coder gagne en multimodalité et ses benchmarks sont mis à jour",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

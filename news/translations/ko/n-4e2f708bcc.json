@@ -1,0 +1,10 @@
+{
+ "id": "n-4e2f708bcc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "003268087a3d2281c00ac0b5e5c8b066287dd5d4ee0b64e9f37b5796ed867eac",
+ "summary": "2026-06-18, Tutu MCP 개발 업데이트에서 공개 MCP 엔드포인트 mcp.tutu.ru/mcp를 언급했다. 해당 날짜의 메시지는 관련된 여러 링크도 연결했다 The recorded link, making this a material public trace of the project's development.",
+ "title": "Tutu MCP 공개 엔드포인트 언급됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

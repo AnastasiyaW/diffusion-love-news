@@ -1,0 +1,10 @@
+{
+ "id": "n-a7efec38e4",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "98ca83430c55bdcd4cac9c6c658d753a5d281341da408c67f6c84c171d14cd85",
+ "summary": "El 30 de junio de 2026, la línea de desarrollo de Qwen incluyó un enlace al repositorio de Hugging Face llamado Qwen/Qwen3-ASR-1.7B-hf. Su nombre de modelo orientado a ASR hace que esto constituya una extensión relevante de la línea de Qwen registrada hacia el reconocimiento de voz; no se extrae ninguna afirmación adicional del enlace registrado que lo acompaña.",
+ "title": "Referencia al checkpoint Qwen3-ASR-1.7B-hf",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

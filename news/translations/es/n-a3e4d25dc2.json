@@ -1,0 +1,11 @@
+{
+ "id": "n-a3e4d25dc2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prueba la interacción con el lienzo y la agrupación de nodos en la demostración web antes de instalar el software de escritorio.\n\nDescarga la versión empaquetada del ejecutable de Windows o clona el repositorio para ejecutar el estudio en local.\n\nConfigura una clave personal de API de fal.ai en los ajustes para habilitar la generación neuronal de imágenes y vídeo en los nodos del lienzo.\n\nOrganiza las imágenes de referencia, conecta nodos macro y ejecuta generaciones directamente a lo largo del lienzo infinito.\n\nUtiliza nodos macro para agrupar la asistencia repetitiva de prompts y las transformaciones de referencia en bloques de flujo de trabajo reutilizables.\n\nVerifica la lógica de conexión de los nodos en la demostración del navegador antes de iniciar ejecuciones de generación facturadas a través de fal.ai.\n\nSupervisa los límites de uso de tu cuenta de fal.ai y los saldos de tokens de API directamente al ejecutar lotes de imágenes y vídeo de alta resolución.",
+ "source_sha256": "35f252c1c19d74c0e806289f7685b037c1db9c9f534e3e84f444a6b6969b6e8d",
+ "summary": "CanAI se ha lanzado como software de código abierto en GitHub, con una interfaz de lienzo infinito para la generación neuronal de imágenes y vídeo. Ofrece una demo en el navegador y binarios para Windows, respaldados por cómputo externo de fal.ai.",
+ "title": "CanAI se publica como lienzo de código abierto para generación de imágenes y vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

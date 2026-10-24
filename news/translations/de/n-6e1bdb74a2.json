@@ -1,0 +1,10 @@
+{
+ "id": "n-6e1bdb74a2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e70836e0437736e5f254640ce1ce1cf2e6edf8038364638173ae28cd858ec93f",
+ "summary": "Am 20.03.2026 verlinkte eine datierte SAMA-Nachricht die öffentliche Projektwebsite, das Quellcode-Repository und die Hugging-Face-Seite für SAMA-14B. Diese Links belegen, dass die drei öffentlichen Ressourcen an diesem Datum mit SAMA in Verbindung standen, ohne weitergehende Aussagen über das Modell oder das Projekt zu begründen.",
+ "title": "SAMA: Öffentliche Projekt-, Quellcode- und Modellressourcen wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

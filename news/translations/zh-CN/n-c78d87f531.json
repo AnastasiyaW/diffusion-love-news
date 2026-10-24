@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "继 2026 年初发布之后，2026 年 3 月的 v2.0 更新针对高分辨率 1.5k 推理和照片级真实感对模型进行了优化。2026 年 4 月引入了 GGUF 量化，显著降低了消费级 GPU 的显存需求。",
+ "id": "n-c78d87f531",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型由 NeuralVFX 开发，旨在为 Z-Image 生态系统提供更出色的分割控制能力；它是高端 ComfyUI 摄影测量到渲染工作流中的主要工具之一。",
+ "source_sha256": "542e1094c81388a2473963140793608fdbdfc737562f3af4206cfea86db5f9e0",
+ "summary": "这是一款面向 Z-Image 6B 模型的专用 ControlNet，可根据 Segment Anything Model（SAM）分割掩码合成逼真图像。它能确保生成内容严格遵循复杂的输入掩码边界，从而提供精确的空间控制。",
+ "title": "Z-Image-SAM-ControlNet（NeuralVFX 出品）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

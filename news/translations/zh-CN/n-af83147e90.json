@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月以原始预训练基础模型的形式发布，此后重点转向后训练优化，包括 DPO/RLHF，以及由社区主导的量化工作，以便在消费级 GPU 上应对 17B 参数的显存占用。",
+ "id": "n-af83147e90",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "以 Apache-2.0 许可证开源；其技术创新包括 Text KV Caching 和 Decoupled Routing，用于稳定 MoE 训练。",
+ "source_sha256": "dbad89205aa82027e7cff5a039b34176af557dae4d81314acd03f1b3ca2e2a85",
+ "summary": "这是首个用于图像生成的高质量稀疏混合专家（MoE）扩散 Transformer，总参数量为 17B，每次前向传播仅激活约 2B 参数。它在保持高效率的同时，在空间布局和提示词遵循能力方面达到或超过了 FLUX.1 和 SD3.5 等稠密模型。",
+ "title": "Nucleus-Image：稀疏 MoE 扩散 Transformer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

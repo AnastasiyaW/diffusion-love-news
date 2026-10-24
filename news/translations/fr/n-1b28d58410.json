@@ -1,0 +1,11 @@
+{
+ "id": "n-1b28d58410",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Identifiez la version actuelle de votre instance GitLab auto-hébergée en consultant le tableau de bord d'administration ou en exécutant gitlab-rake gitlab:env:info sur l'hôte.\n\nSélectionnez la cible de correctif correspondant à la branche de version active : passez de 19.5.x à 19.5.1, de 19.4.x à 19.4.3, de 19.3.x à 19.3.6, de 19.2.x à 19.2.9, de 19.1.x à 19.1.9, de 19.0.x à 19.0.10, ou, pour les versions anciennes de 7.0 à 18.11.x, à 18.11.13.\n\nExécutez la commande de mise à jour du gestionnaire de paquets ou le téléchargement de l'image de conteneur pour appliquer le correctif de sécurité, puis redémarrez les services GitLab afin que les binaires mis à jour soient pris en compte.\n\nInspectez les journaux des workers Puma ainsi que les journaux d'erreurs applicatifs à la recherche d'erreurs du compilateur d'expressions régulières ou d'arrêts anormaux de workers, afin de détecter d'éventuelles tentatives d'exploitation passées.\n\nAppliquez immédiatement les versions de sécurité sur les instances GitLab auto-hébergées exposées à Internet, car l'exécution de code à distance non authentifiée ne nécessite ni identifiants ni interaction de l'utilisateur.\n\nMettez à niveau directement vers la version corrective désignée au sein de la branche de version mineure active afin d'éviter des migrations de base de données inutiles et de réduire les temps d'indisponibilité du service.\n\nNe vous fiez pas uniquement aux règles du pare-feu applicatif web périmétrique ni aux contournements de configuration, car des motifs d'expressions régulières malveillants peuvent être traités via divers chemins de rendu de documents.",
+ "source_sha256": "3260980ac476416dbf01519ee745742759a4c39907daef5733d2aa1508e43e7e",
+ "summary": "GitLab a publié la version corrective d'urgence 19.5.1, accompagnée de rétroportages jusqu'à la version 18.11.13, pour résoudre la CVE-2026-110264, un dépassement d'entier de gravité maximale dans son compilateur d'expressions régulières permettant l'exécution de code à distance non authentifiée sur les serveurs auto-hébergés.",
+ "title": "GitLab corrige une vulnérabilité critique d'exécution de code à distance non authentifiée touchant les versions 7.0 à 19.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

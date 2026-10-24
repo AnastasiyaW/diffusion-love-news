@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工作已被 SIGGRAPH 2026 正式接收。2026 年 4 月在 arXiv 上更新至第 2 版，补充了更新的基准测试结果和更详细的架构细节。项目现已全面开放 AudioEdit 数据集、模型权重和推理代码。",
+ "id": "n-bab7f8e6fd",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 Qwen2.5-Omni 构建；提出了 AudioEdit，一个包含超过 100 万条经过精心整理的音频编辑样本对的大规模数据集。",
+ "source_sha256": "ee10a6d466f3c0c276b24be78cb549dc94e7b4019957e0b9033f692d5999d032",
+ "summary": "一个全面的端到端系统，将语音、音乐和音效统一到单一模型中，同时支持理解与高保真生成。它以 Qwen2.5-Omni 为骨干网络，并采用扩散 Transformer（Diffusion Transformer）合成引擎，通过自然语言实现复杂的音频编辑与推理。",
+ "title": "Audio-Omni：统一的音频理解与生成框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

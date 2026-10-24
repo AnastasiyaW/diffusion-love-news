@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "В новостной публикации были ссылки на репозиторий Unsloth, Colab и инструкцию по fine-tuning GPT-OSS.",
+ "id": "n-4920069d82",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "219e84b5d75ab91bceada367421c4abadf0b90a6cc5a3713ab32f97021826c6e",
+ "summary": "В новостной публикации были ссылки на репозиторий Unsloth, Colab и инструкцию по fine-tuning GPT-OSS.",
+ "title": "Unsloth публикует инструкцию по fine-tuning GPT-OSS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

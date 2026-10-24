@@ -1,0 +1,11 @@
+{
+ "id": "n-c6ff419784",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "相关的第一方概览页面标注日期为 2026-08-14，并表示 Soundtrack、Music、SFX 和 Speech 已加入 Pika API Club。",
+ "source_sha256": "cc26bc71b72bab101d8dd1b7293bc5848a543101cefc69434175019a35ddb745",
+ "summary": "2026-08-17，Pika 发布了其 Pika Audio 模型的官方页面、开发者 API 文档以及 Pika Music 体验平台。这些链接表明，Pika 已将其公开产品范围扩展至音频模型与音乐生成功能。仅凭所提供的链接，尚无法确定模型规格、定价或可用性条款。",
+ "title": "Pika 发布 Pika Audio 模型系列和 Pika Music 体验平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

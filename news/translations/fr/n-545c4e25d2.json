@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancée officiellement comme type de dépôt de premier rang sur le Hub Hugging Face en avril 2026. Elle est passée d'une bibliothèque maintenue par la communauté à une infrastructure centrale prenant en charge Flash Attention 4, optimisée pour le parallélisme de contexte extrême et les dernières architectures matérielles, comme NVIDIA Blackwell.",
+ "id": "n-545c4e25d2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Profondément intégrée à la bibliothèque Python « kernels » ainsi qu'aux outils standard de Hugging Face comme Transformers et Diffusers (v0.38.0+).",
+ "source_sha256": "e217a96f9bb7609839d2a29a233ccda428a161a0503a04a163406c4861beb9cc",
+ "summary": "Une plateforme et une bibliothèque de distribution de kernels GPU précompilés (CUDA, ROCm, Metal, XPU) directement depuis le Hub Hugging Face. Elle élimine le « cauchemar de l'installation » des composants haute performance comme Flash Attention, en fournissant des binaires instantanés et adaptés à chaque environnement.",
+ "title": "Hub Hugging Face de kernels pour l'optimisation GPU",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

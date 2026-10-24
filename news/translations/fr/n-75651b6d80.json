@@ -1,0 +1,10 @@
+{
+ "id": "n-75651b6d80",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5789c7d06d7f304323909b44b5ea80f47d4dd3f0f10fd963ef707a93137f47e2",
+ "summary": "Le 2026-06-19, une page de modèle Hugging Face pour le LTX-2.3-22B IC-LoRA Ingredients de Lightricks a été enregistrée dans ce fil de développement. Le lien daté atteste l'existence d'un artefact de modèle LTX-2.3 distinct, mais les éléments fournis n'établissent ni ses notes de version, ni ses capacités, ni le flux de travail recommandé.",
+ "title": "Lightricks publie une page de modèle LTX-2.3 IC-LoRA Ingredients",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

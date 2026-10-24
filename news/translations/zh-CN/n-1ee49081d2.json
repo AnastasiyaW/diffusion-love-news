@@ -1,0 +1,10 @@
+{
+ "id": "n-1ee49081d2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c9269a15c718b1746bd40e2d929241862e5945e90b2d198773b588a0c5b6b55e",
+ "summary": "2026年3月12日，谷歌推出了 Gemini Embedding 2，作为其嵌入模型系列的一项新进展。所提供的谷歌 AI 文档将此次发布定位为面向开发者的、通过 API 提供的嵌入能力。这是一个实质性的产品步骤，因为它确立了一个独立命名的嵌入模型及其集成参考。",
+ "title": "谷歌推出 Gemini Embedding 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

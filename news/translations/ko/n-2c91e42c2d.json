@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026 採択 논문으로, 2026년 4월에 코드, BAGEL-7B-MoT 가중치, 21-Tasks-Bench 벤치마크를 공개했다.",
+ "id": "n-2c91e42c2d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델 추론과 픽셀 단위 출력 사이의 간극을 메우기 위해 CoT-Editing Consistency (CEC) Reward와 Flow-GRPO를 도입한다.",
+ "source_sha256": "5911a7a66a1fd4304bcaa0475776407ccf9bff8530d1bb6ea9ae6d760f47fc39",
+ "summary": "이미지 편집 지시문을 구조화된 트리플렛과 다섯 가지 기본 메타 태스크로 분해하는 계층적 추론 프레임워크이다. 강화학습을 사용해 멀티모달 대형 언어 모델과 diffusion 출력을 정렬하여 최첨단 일반화 성능을 달성한다.",
+ "title": "Meta-CoT: 이미지 편집을 위한 계층적 Chain-of-Thought",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

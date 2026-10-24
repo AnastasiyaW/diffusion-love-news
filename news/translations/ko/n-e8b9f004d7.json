@@ -1,0 +1,10 @@
+{
+ "id": "n-e8b9f004d7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ff239c5ab67d7cfdb3f6ede9223d846af318afcc88fd69844ac38b6c44d7be82",
+ "summary": "2026년 7월 15일, ARDY가 NVIDIA 연구 프로젝트 페이지, 소스 저장소, Hugging Face 컬렉션, 그리고 대화형 Hugging Face Space를 통해 연결되었다. 이는 프로젝트를 연구 논문, 코드, 모델, 직접 체험 가능한 진입점과 이어준다는 점에서 중요한 공개 가용성 이정표이다. 다만 날짜가 기록된 링크만으로는 정확한 발표 문구, 버전, 기능, 또는 출시 상태를 확정할 수 없다.",
+ "title": "ARDY 공개 프로젝트 자료 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

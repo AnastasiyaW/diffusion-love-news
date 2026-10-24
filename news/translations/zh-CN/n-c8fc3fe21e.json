@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具已从基础的纹理工具演变为面向 3D 艺术家的专业精修套件。近期的重大更新包括多视角一致性支持、针对特定网格区域的定向纹理修补，以及自动化 PBR 分割。",
+ "id": "n-c8fc3fe21e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该工具常被集成到专业工作流中，作为 Trellis 或 Tripo AI 等工具所生成资产的后处理步骤。",
+ "source_sha256": "bc911750eb3df5c05fb11103929f22d1f64d045d7844c6469885cff632a406d0",
+ "summary": "Modddif 是一个由 AI 驱动的平台，专为 3D 模型的纹理生成、精修和清理而设计。它专注于多视角纹理生成、纹理修补（in-painting）以及 PBR 贴图的制作，用于改进原始的 AI 生成网格。",
+ "title": "Modddif — AI 3D 模型纹理与精修工具包",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

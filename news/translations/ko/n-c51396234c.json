@@ -1,0 +1,11 @@
+{
+ "id": "n-c51396234c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Cosmos Curator를 사용해 멀티모달 비디오 및 센서 데이터셋을 큐레이션하고, 손상되었거나 물리 법칙에 맞지 않는 시퀀스를 걸러낸다.\n\nCloud GPU 인프라에 배포된 Cosmos Data Factory 블루프린트를 사용해 합성 물리 시나리오와 엣지 케이스 클립을 생성한다.\n\nNVIDIA NeMo Framework를 사용해 기반 체크포인트를 로봇 또는 차량 센서 배치와 같은 도메인별 데이터로 미세 조정(fine-tune)한다.\n\n컨테이너화된 NVIDIA NIM 마이크로서비스를 사용해 고처리량 추론을 위한 최적화된 월드 모델 체크포인트를 배포한다.\n\n미세 조정 이전에 Cosmos Curator를 사용해 물리적 일관성을 저하시키는 손상되었거나 물리 법칙에 맞지 않는 카메라 궤적을 제거한다.\n\nCosmos Data Factory 블루프린트를 사용해 실제 테스트에서 포착하기 위험하거나 현실적으로 어려운 희귀 위험 상황과 엣지 케이스 시나리오를 합성한다.\n\n학습된 월드 모델을 컨테이너화된 NVIDIA NIM 마이크로서비스로 배포해 엔터프라이즈 GPU에서 하드웨어 가속 배칭(batching)을 활용한다.",
+ "source_sha256": "2c517d7192fc653db7363620eb484ca3debc0607f159a153c0250044cf01fbb2",
+ "summary": "NVIDIA가 Cosmos 월드 모델 플랫폼을 확장해 Cosmos Data Factory 합성 데이터 블루프린트, Cosmos Curator 필터링 도구, NeMo 사후 학습(post-training) 파이프라인, 그리고 NIM 마이크로서비스 배포 컨테이너를 추가했다. 물리 AI 개발을 위한 구성이다.",
+ "title": "NVIDIA, Cosmos 플랫폼에 학습 및 배포 도구 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pika est passée d'une bêta basée sur Discord à une plateforme web robuste. Elle a récemment introduit la fonctionnalité 'AI Self', faisant évoluer l'outil 'AI Selfie' vers un écosystème de monétisation dans lequel les utilisateurs gagnent des revenus grâce à leurs clones numériques.",
+ "id": "n-807bf78763",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La plateforme met l'accent sur la qualité cinématographique et sur les 'Pikaffects', destinés aux transformations dynamiques d'objets. Elle a migré son domaine principal de pika.me vers pika.art.",
+ "source_sha256": "bd555eab0201ba3cf5faaf3c8be1fe22d452531b187f7142940cb46f632ad9e8",
+ "summary": "Pika est une plateforme avancée de génération par IA qui crée des vidéos et des animations de haute qualité à partir de prompts textuels, d'images et de vidéos. Elle propose des outils spécialisés pour la cohérence des personnages, la synchronisation labiale et les effets basés sur la physique.",
+ "title": "Pika, plateforme de génération de vidéos et d'animations par IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

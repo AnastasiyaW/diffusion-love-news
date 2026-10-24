@@ -1,0 +1,10 @@
+{
+ "id": "n-17be84d500",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "68b1525ece83944554df1c8d61e050c66cf3b161bf09aea329a1c5b7aef847bc",
+ "summary": "El 2026-03-06 se publicaron los recursos oficiales de HY-WU a través de un sitio del proyecto, un repositorio de GitHub y una página de Hugging Face. Se trata de un hito en la distribución pública del proyecto, aunque las pruebas disponibles no permiten establecer las capacidades, la versión ni los detalles del anuncio de la publicación.",
+ "title": "Los recursos oficiales del proyecto HY-WU ya están disponibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

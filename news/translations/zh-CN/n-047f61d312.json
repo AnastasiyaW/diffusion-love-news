@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从基础的自动化脚本演进为专门的智能体技能，具备本地优先渲染、自动去除填充词的功能，并通过 HyperFrames 和 Remotion 支持程序化叠加效果。",
+ "id": "n-047f61d312",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "针对基于终端的智能体进行了优化；提供用于专业级剪辑的“12 条硬性规则”，并近期更新，支持 UTF-8 编码及竖屏方向保留。",
+ "source_sha256": "60b6f9112b9eaa58b79539cca7b019e32d090513e3b38734f37170cd1a001224",
+ "summary": "一个开源框架，使 Claude Code 等 AI 智能体能够通过自然语言完成自动化视频剪辑。它借助视觉合成图与结构化元数据来引导 FFmpeg，实现精准且节省 token 的生产流程。",
+ "title": "video-use：AI 智能体视频剪辑工具包",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

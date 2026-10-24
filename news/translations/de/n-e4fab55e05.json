@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach dem Neuaufbau von v2.0 auf Basis von PlayCanvas führte die Plattform SOG-Kompression und LOD-Streaming ein. Neuere Updates in v2.2 und v2.3 ergänzten Image-to-Splat-Generierung, 3D-Messwerkzeuge und einen einbettbaren NPM-Viewer, wobei ältere Szenen zur Kompatibilität neu exportiert werden müssen.",
+ "id": "n-e4fab55e05",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält die proprietäre SOG-Kompression zur Reduzierung der Dateigrößen und unterstützt die Wiedergabe von 4D-Gaussian-Splatting.",
+ "source_sha256": "ecf04409db9b04241bf19bb32320495c0d249634db28d1b65477ca5af43dd41a",
+ "summary": "Eine webbasierte Plattform zum Erstellen, Hosten und Einbetten interaktiver 3D-Szenen auf Basis der Gaussian-Splatting-Technologie. Sie verfügt über eine auf PlayCanvas basierende Engine, die LOD-Streaming, dynamische Beleuchtung und Ich-Perspektive-Navigation innerhalb erfasster Umgebungen unterstützt.",
+ "title": "StorySplat v2.3: Interaktiver 3D-Gaussian-Splatting-Editor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

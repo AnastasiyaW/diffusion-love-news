@@ -1,0 +1,10 @@
+{
+ "id": "n-1a1adbb4f3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5743cfb83fa3d368cf5ac465078fe5a7c9b97ce4765e2670ba07d78ab9a4f3ee",
+ "summary": "2026-07-21，记录到了 NVIDIA 在 Hugging Face 博客以及 Cosmos3-Edge 模型仓库的相关链接。二者共同表明该项目已正式公开可用，这是其开发历程中的一个重要节点。所提供的链接并未说明模型能力、许可协议或部署细节。",
+ "title": "NVIDIA 在 Hugging Face 上发布 Cosmos3-Edge",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

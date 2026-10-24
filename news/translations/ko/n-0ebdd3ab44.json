@@ -1,0 +1,10 @@
+{
+ "id": "n-0ebdd3ab44",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e6a2d2ee118853ff921e0d2e78e7833774610a6f19d5bc67ec2a7061ba8099a8",
+ "summary": "2026-08-14 기준으로 MiniMax Music 3는 연결된 소스 코드, 모델, 음악 생성 가이드, 데모, ComfyUI 리소스를 통해 문서화되었다. 날짜가 기록된 링크 묶음은 GitHub, Hugging Face, MiniMax 플랫폼, ComfyUI에 걸쳐 이 프로젝트를 연결한다. 이는 프로젝트에 여러 실용적인 진입점이 생겼다는 점에서 공개 개발의 한 단계를 보여주기 때문에 의미가 있다.",
+ "title": "MiniMax Music 3에 공개 프로젝트, 모델, 플랫폼, 데모, ComfyUI 진입점이 추가됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-bbc670c0e1",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e0617f18aecb3b6c131627dd4872578a5593730e38b9ec0f6c1ecc6163e5e51b",
+ "summary": "2026-06-30，LongCat 同时链接了带版本号的 LongCat 2.0 页面、其源代码仓库以及模型托管页面。这些链接指向表明项目取得了一次实质性的开发进展，使该版本可以在文档、代码和模型分发等多个渠道被找到。",
+ "title": "LongCat 将 LongCat 2.0 公开可查",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

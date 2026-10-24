@@ -1,0 +1,10 @@
+{
+ "id": "n-4eb63d4caf",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c7c985c2a61dd840ff95bf506af823eff28c70292ecd3ad5e7aa2c8cdb7bc99",
+ "summary": "2026년 8월 6일, 날짜가 기록된 링크에 따르면 Hugging Face에 Qwen3-TTS-12Hz-1.7B-Base의 GGUF 배포본이 올라왔습니다. 이는 Qwen 모델의 상위(upstream) 출시가 아니라 하위(downstream) 배포 단계에 해당하지만, 해당 프로젝트의 로컬 런타임 배포 경로를 실질적으로 넓혔습니다.",
+ "title": "ggml-org가 Qwen3-TTS-12Hz-1.7B-Base의 GGUF 배포본을 공개했습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

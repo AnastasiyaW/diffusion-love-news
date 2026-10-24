@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Accepté à CVPR 2026, le projet a étendu sa prise en charge à FLUX.1, Wan2.1 et HunyuanVideo. Il a été intégré à l'écosystème ComfyUI via des nœuds développés par la communauté.",
+ "id": "n-58225bc7d0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par Stanford et ByteDance ; utilise une prévision spectrale globale pour éviter l'accumulation d'erreurs pendant l'inférence.",
+ "source_sha256": "bfe047e3b8e58da7d1fd978dd4f43fe373fbddc687b0c7923c929ee0adf19f1b",
+ "summary": "Un cadre sans entraînement qui accélère l'échantillonnage par diffusion en modélisant l'évolution des caractéristiques latentes à l'aide de polynômes de Chebyshev. Il permet des accélérations significatives pour des modèles comme FLUX.1 et Wan2.1, tout en préservant une grande fidélité des images et des vidéos.",
+ "title": "Spectrum : prévision adaptative des caractéristiques spectrales pour l'accélération de la diffusion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

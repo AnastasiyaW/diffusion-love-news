@@ -1,0 +1,10 @@
+{
+ "id": "n-49188c7915",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5fa77183b63927212af9a91bcd56b52313b7bade77bbbf78872875b0359a6eb9",
+ "summary": "Am 24.03.2026 hat der Eintrag einen Link zu einem NVIDIA-Hugging-Face-Repository erfasst, dessen Pfad NVPanoptix-3D v1.1 für Matterport3D kennzeichnet. Dies wird als wesentlicher historischer Schritt vorgeschlagen, da es auf ein versioniertes Modellartefakt für das Projekt verweist. Allein der Link lässt nicht erkennen, ob es sich um eine Veröffentlichung, ein Update oder eine erneute Bereitstellung handelt; daher werden keine Aussagen zu Fähigkeiten oder Verfügbarkeit getroffen.",
+ "title": "NVPanoptix-3D v1.1 Matterport3D-Modell-Link erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

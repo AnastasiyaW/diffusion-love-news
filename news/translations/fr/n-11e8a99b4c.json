@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'un IDE multi-agents destiné aux développeurs à une application de productivité locale grand public. Il intègre désormais le Model Context Protocol (MCP) et fonctionne comme un collaborateur autonome qui maintient un graphe de contexte persistant.",
+ "id": "n-11e8a99b4c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Soutenu par Y Combinator S24. Fondé par les créateurs d'Agara AI (rachetée par Coinbase), le projet met l'accent sur la confidentialité totale des données et prend en charge les LLM locaux via Ollama.",
+ "source_sha256": "1fa8dd2afde2e86fce845830011eab9acca1562a514668805a4be103b721636a",
+ "summary": "Rowboat est un assistant IA local-first qui traite des données numériques, comme les e-mails et les notes, pour construire un graphe de connaissances vivant. Il stocke les informations dans des fichiers Markdown lisibles par un humain et fonctionne de manière privée sur la machine de l'utilisateur.",
+ "title": "Rowboat : agent IA local-first et graphe de connaissances personnel",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

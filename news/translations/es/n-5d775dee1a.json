@@ -1,0 +1,10 @@
+{
+ "id": "n-5d775dee1a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a08c300f1b0cd473da02f9c32b9f92f117486da97f3670e57b5c3e52dd32d15d",
+ "summary": "El 14 de agosto de 2026, esta línea de desarrollo registró un repositorio de modelos en Hugging Face para Qwen3.8-27B, un listado filtrado por modelos cuantizados basados en él y un Space de Hugging Face que lleva el mismo nombre de modelo. En conjunto, estos enlaces con fecha establecen un punto de referencia público para el modelo y para los recursos derivados relacionados. Por sí solos, no establecen un anuncio de lanzamiento, especificaciones técnicas ni la funcionalidad del Space.",
+ "title": "Se registraron recursos de Hugging Face de Qwen3.8-27B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

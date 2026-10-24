@@ -1,0 +1,10 @@
+{
+ "id": "n-c46744cf6a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "20df25e44f5592476b5d945d1f08b39f9e81855bae95f2d87835fe6d3d29fd52",
+ "summary": "2026-08-04, Liquid AI는 LFM2.5-2.6B에 대한 블로그 게시물과 Hugging Face 리소스를 연결했습니다. 연결된 리소스에는 모델 페이지, 양자화 모델 탐색 페이지, WebGPU 스페이스, 플레이그라운드가 포함되어 있으며, 이는 이 모델 라인의 공개 제공 단계를 보여줍니다.",
+ "title": "Liquid AI, LFM2.5-2.6B 모델 라인 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

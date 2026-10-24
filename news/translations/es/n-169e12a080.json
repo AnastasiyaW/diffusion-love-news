@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto evolucionó de un script de Python orientado a la investigación a un runtime nativo en C++ con aceleración por hardware. Ahora es compatible con NVIDIA TensorRT en Windows y con Apple Silicon mediante MLX, y se integra por completo con NLEs modernos como DaVinci Resolve 19.",
+ "id": "n-169e12a080",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por Alexandre Alvaro en colaboración con Corridor Digital. Incluye una GUI de escritorio independiente y una CLI para el procesamiento por lotes.",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "Una solución nativa de keying de pantalla verde basada en IA, diseñada para una ejecución local de alto rendimiento. Ofrece matting de calidad profesional como plugin OFX para DaVinci Resolve y Foundry Nuke, sin necesidad de configurar entornos Python complejos.",
+ "title": "CorridorKey-Runtime: AI Green Screen Keyer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

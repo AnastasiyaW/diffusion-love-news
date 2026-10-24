@@ -1,0 +1,11 @@
+{
+ "id": "n-eb68bcfc57",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Open-Weight-Version entspricht Medium, und die Module Moodboard und Style Reference sind nicht in der offenen Veröffentlichung enthalten.",
+ "source_sha256": "1df7d50a2442821dfa2ab243f5d572655687af17cdf64ab0d7fe4eb19e9a2f4f",
+ "summary": "Am 24.06.2026 umfassten die gesammelten offiziellen Krea-2-Links eine Open-Source-Seite mit Repository, offizielle Modell-Repositories für Raw und Turbo, eine API- und Playground-Oberfläche sowie einen technischen Bericht. Ergänzt wurden diese Ressourcen durch eine ComfyUI-Workflow-Vorlage für Krea 2 Turbo Text-to-Image, die einen benannten Einstiegspunkt für lokale Workflows bietet. Die verlinkten Seiten wurden nicht unabhängig recherchiert; Verfügbarkeit, Lizenzierung und technische Aussagen sind daher nicht verifiziert.",
+ "title": "Krea veröffentlicht die offiziellen Open-Source- und Deployment-Materialien zu Krea 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

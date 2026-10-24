@@ -1,0 +1,10 @@
+{
+ "id": "n-6ae44b1607",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9a1bad0189a876327d7e03109cda8bf185b19272716e144c72e408cc8077a925",
+ "summary": "2026년 3월 16일, ComfyUI-PuLID-Flux2 저장소가 워크플로 디렉터리 및 외부 PuLID, antelopev2 모델 리소스와 함께 연결되었다. 이는 해당 프로젝트의 실용적인 통합 참조 지점을 기록하는 것이지만, 현재 확보된 근거로는 릴리스, 버전 또는 구체적인 구현 변경 사항이 확인되지 않는다.",
+ "title": "ComfyUI-PuLID-Flux2 설정 리소스 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

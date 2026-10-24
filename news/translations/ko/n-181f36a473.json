@@ -1,0 +1,10 @@
+{
+ "id": "n-181f36a473",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2fad68eae3f302ed117c6601cb859567fc955deac3a5f44aa8e878220340692f",
+ "summary": "2026년 6월 30일자 기록에는 OpenMOSS의 MOSS-Transcribe-preview-2B 모델 페이지와 Mosi Studio 오디오 전사 서비스 링크가 함께 실려 있다. 이 링크들은 OpenMOSS의 음성 전사 개발 흐름에서 가시적인 한 단계를 보여주며, 해당 모델이 프리뷰 버전임을 명시하고 있다.",
+ "title": "OpenMOSS, 2B 규모 프리뷰 전사 모델과 전사 서비스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

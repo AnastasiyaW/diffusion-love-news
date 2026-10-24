@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 공개되었으며, 현재 프로젝트는 GitHub에 공개할 코드와 모델 가중치(weights)를 준비하는 단계에 있습니다. 얼굴 추적 분야에서 새로운 벤치마크를 세웠으며, Sapiens 및 V-DPM과 같은 기존 방법들을 크게 앞섰습니다.",
+ "id": "n-a4fb636ca8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "NeRSemble에서 도출한 대규모 동적 3D 얼굴 데이터셋을 도입하여 고충실도 학습을 가능하게 했습니다.",
+ "source_sha256": "41e4be416aea9b15f0b665e087115f79db19eddd314aedf8e05b93c4f5b10f68",
+ "summary": "단안 비디오 시퀀스로부터 통합 4D 얼굴 복원과 고밀도 추적을 수행하는 트랜스포머 기반 프레임워크입니다. 정준 좌표(canonical coordinates), 깊이 맵, 노멀 맵을 함께 예측하여 극단적인 시점 변화 상황에서도 높은 시간적 일관성을 확보합니다.",
+ "title": "Face Anything: 통합 4D 얼굴 복원 및 추적",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

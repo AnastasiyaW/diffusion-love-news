@@ -1,0 +1,10 @@
+{
+ "id": "n-49188c7915",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5fa77183b63927212af9a91bcd56b52313b7bade77bbbf78872875b0359a6eb9",
+ "summary": "2026-03-24, 기록에는 경로상 NVPanoptix-3D v1.1 for Matterport3D를 가리키는 NVIDIA Hugging Face 저장소 링크가 추가되었습니다. 이는 프로젝트의 버전 관리된 모델 산출물을 가리킨다는 점에서 의미 있는 역사적 전환점으로 제안됩니다. 다만 링크만으로는 이것이 정식 릴리스였는지, 업데이트였는지, 재게시였는지 판단할 수 없으므로 기능이나 공개 가용성에 관한 주장은 하지 않습니다.",
+ "title": "NVPanoptix-3D v1.1 Matterport3D 모델 링크 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

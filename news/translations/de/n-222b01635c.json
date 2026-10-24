@@ -1,0 +1,10 @@
+{
+ "id": "n-222b01635c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "864e94dafb57d77a58a4121311eb2b53ae848e686d06e8a6f8851ed1d433baaf",
+ "summary": "Am 16.03.2026 verlinkte der Eintrag ein Unsloth-Repository auf Hugging Face für LTX-2.3-GGUF zusammen mit der Unsloth-Dokumentation zu Dynamic 2.0 GGUFs. Dies ist ein wesentlicher Meilenstein bei Verteilung und Nutzung, da hier ein LTX-2.3-GGUF-Artefakt mit einschlägigen Hinweisen für Praktiker zusammengeführt wird. Allein die datierten Links belegen jedoch weder die genauen Modellfähigkeiten noch die unterstützten Laufzeitumgebungen oder den Veröffentlichungsstatus.",
+ "title": "LTX-2.3-GGUF-Verteilung und Leitfaden zu Dynamic 2.0 GGUF verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

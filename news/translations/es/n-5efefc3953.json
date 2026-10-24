@@ -1,0 +1,10 @@
+{
+ "id": "n-5efefc3953",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bb7028872201754279984311461170d6cdb18db1ab0aa9a8a0476534e862acf9",
+ "summary": "El 2026-06-26, la línea de desarrollo de GLM-5.2-NVFP4 registró un enlace a una página de modelo de Hugging Face bajo la cuenta de NVIDIA. Se trata de un punto de referencia relevante para el rastro de distribución pública del proyecto, aunque el enlace fechado por sí solo no establece una fecha de lanzamiento, una revisión del modelo ni especificaciones técnicas.",
+ "title": "GLM-5.2-NVFP4 vinculado a la página de modelo de NVIDIA en Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

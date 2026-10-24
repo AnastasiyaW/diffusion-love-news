@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具从基础的 PNG 元数据查看器扩展而来，新增了 MP4 视频支持、通过内置 FFmpeg 实现的帧提取功能，以及对 WAN、img2vid 等复杂流程中多阶段工作流的识别。",
+ "id": "n-02e0b8ae6c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持集成 Windows 资源管理器右键菜单，并可直接导出 ComfyUI 的 JSON 工作流。",
+ "source_sha256": "2c38a096de1b76278313b4ce3126b16630312cd8df167b54054e1b4761ee0415",
+ "summary": "一款便携式 Windows 实用工具，可在无需打开生成软件的情况下，提取并查看 AI 生成图像和视频中的生成元数据，包括提示词和随机种子。",
+ "title": "AI 元数据检查器 — Windows 元数据查看工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

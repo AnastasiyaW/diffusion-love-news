@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "동기화된 G-buffer 레이블이 포함된 400만 개의 연속적인 AAA 프레임으로 구성된 대규모 데이터셋을 소개합니다. 이 프레임워크는 양방향 렌더링 파이프라인을 구축하여, 시간적 안정성과 실제 환경에 대한 일반화 성능에서 기존 방법들을 능가합니다.",
+ "id": "n-01b786ce9f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Shanda AI Research Tokyo에서 개발했습니다. 정답(ground truth)이 없는 상황에서 의미적 및 공간적 일관성을 측정하기 위해 새로운 VLM 기반 평가 프로토콜을 활용합니다.",
+ "source_sha256": "07e69d6e8932d67f28f8b779e7259a15a7655c8b0a538955819b799285a3ff68",
+ "summary": "비디오 디퓨전 모델을 사용해 순방향 렌더링과 역방향 렌더링을 통합하는 AI 네이티브 프레임워크입니다. 게임 영상에서 3D 기하학적 데이터를 추출하고, 텍스트 프롬프트를 통해 고충실도 장면 편집을 가능하게 합니다.",
+ "title": "AlayaRenderer: AAA 게임을 위한 생성형 월드 렌더러",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

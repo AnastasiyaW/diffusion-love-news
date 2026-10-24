@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich aus dem Videomodell Dream Machine (2024) und der multimodalen Ray2-Architektur (2025) hin zu einem einheitlichen autoregressiven Transformer-System. Das im Mai 2026 veröffentlichte Update Uni-1.1 überführte die Technologie in eine produktionsreife API mit verbesserter räumlicher Schlussfolgerung und mehrsprachiger Textdarstellung.",
+ "id": "n-99c607c318",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt einen Reasoning-first-Ansatz, bei dem das Modell Kompositionen plant, bevor es rendert; derzeit integriert von führenden Unternehmen der Branche, darunter Adobe und Freepik.",
+ "source_sha256": "403d77b76088ebf5b67d25cd251ba4cf1c8887cee07d08a8232d5741d0633610",
+ "summary": "Luma Uni-1.1 ist eine produktionsreife multimodale Intelligenz-API, die eine einheitliche Reasoning-Architektur für hochpräzise Bildgenerierung und Bildbearbeitung nutzt. Sie unterstützt komplexe Aufgaben wie Multi-Referenz-Grounding mit bis zu 9 Eingaben sowie die Bildmodifikation per natürlicher Sprache.",
+ "title": "Luma Uni-1.1 Unified Intelligence API",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-77aec57904",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72420b947bb892ee5df99835f9416300a3503c5f6efd81bc7c605e12ad50bdd3",
+ "summary": "2026年3月9日，一条带日期的 Penguin-VL 消息链接了该项目的网站、源代码仓库、Hugging Face 合集以及可交互的 Hugging Face Space。这是一个重要的公开可用性节点，因为它为读者提供了查看项目、找到已发布资产并体验其演示的途径。仅凭这些带日期的链接，无法确定具体的模型版本、技术主张、许可证或发布范围。",
+ "title": "Penguin-VL 项目公开资源已共享",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der Erstveröffentlichung wurden der offizielle Code und die Gewichte Anfang 2026 im Machine-Learning-Repository von Apple veröffentlicht. Seitdem wird es als Plug-and-Play-Modul für hochauflösendes Rendering für generalisierbare Backbones wie NoPoSplat und DepthSplat eingesetzt.",
+ "id": "n-fdbf17ddf7",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Eine Kooperation der University of Hong Kong und Apple; bemerkenswert ist, dass es die erste Methode ist, die natives 4K-Feed-Forward-Gaussian-Splatting erreicht.",
+ "source_sha256": "0d1a2fcc293f1f76329a682e0e70fd7c96e0471f580a158be87ecf322a4b273f",
+ "summary": "Ein Framework zur 3D-Rekonstruktion, das kompakte texturierte Gaussian-Primitive nutzt, um die geometrische Komplexität von der Renderauflösung zu entkoppeln. Es ermöglicht hochwertige 4K-Synthese im Feed-Forward-Verfahren ohne die Notwendigkeit einer szenenspezifischen Optimierung.",
+ "title": "LGTM: Less Gaussians, Texture More für 3D-Rekonstruktion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

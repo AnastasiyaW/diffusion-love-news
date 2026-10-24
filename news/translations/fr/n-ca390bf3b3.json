@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passage du modèle DALL-E, fondé sur la diffusion, à des modèles GPT Image natifs et autorégressifs. Après GPT Image 1 (mars 2025) et GPT Image 1.5 (décembre 2025), GPT Image 2 a introduit des boucles de raisonnement pour la planification des compositions et une typographie haute fidélité. OpenAI a retiré DALL-E 2 et DALL-E 3 en mai 2026.",
+ "id": "n-ca390bf3b3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prise en charge native de la résolution 2K, rendu cohérent des personnages sur plusieurs générations, et capacités quasi parfaites en texte multilingue, y compris en cyrillique.",
+ "source_sha256": "c379a078c70ee9c819dd2142399f128a0badc5696f7d62b88f7a0a9da2b8098a",
+ "summary": "Le générateur d'images multimodal natif phare d'OpenAI, intégré à ChatGPT, qui succède à la série DALL-E. Il repose sur une architecture autorégressive et inclut un « Thinking Mode » permettant un raisonnement agentique pendant le processus de création.",
+ "title": "GPT Image 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

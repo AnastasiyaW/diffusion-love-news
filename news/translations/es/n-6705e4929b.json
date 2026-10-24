@@ -1,0 +1,10 @@
+{
+ "id": "n-6705e4929b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d4492dd03e558a9a7d12526a6ae400d1646bcded303915b3289caf39a4a783c8",
+ "summary": "El 17 de marzo de 2026, la línea de desarrollo de LuxTTS registró enlaces a su repositorio de GitHub, a la página del modelo en Hugging Face, a su Space en Hugging Face, a un cuaderno de Colab y a su página en Pinokio. Así, las referencias al código fuente, al modelo, a la demostración, al cuaderno y a la instalación del proyecto quedan disponibles en conjunto como un registro histórico fechado.",
+ "title": "Se registraron los recursos del proyecto LuxTTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-cf04305133",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4956ee8ba33621ccd5feccfe84ec1a718f4a5ca4d5a4a63aefa41684f480a332",
+ "summary": "Le 2026-06-19, le lien enregistré pointait vers le dépôt Hugging Face realrebelai/Boogu-Image-Edit_GGUFs ainsi que vers une référence source associée. Il s'agit d'une étape importante de diffusion, car elle établit un point de référence public pour une déclinaison au format GGUF de Boogu-Image-Edit.",
+ "title": "Les artefacts GGUF de Boogu-Image-Edit ont été référencés publiquement",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

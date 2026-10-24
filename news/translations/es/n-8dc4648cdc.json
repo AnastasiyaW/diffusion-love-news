@@ -1,0 +1,11 @@
+{
+ "id": "n-8dc4648cdc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Abra la página del país, elija un país o una tienda y, a continuación, use la tabla de tiendas para revisar la fecha de apertura y los ingresos del mes anterior.\n\nPara hacer una comparación, configure los filtros de marca, país, moneda y ventana temporal; revise juntos las ventas, la variación interanual, los pedidos y la antigüedad de la unidad.\n\nCompare ubicaciones comparables entre sí e interprete un valor interanual ausente o nulo en una tienda más reciente como la falta de una base de referencia del mismo periodo, no como evidencia de ausencia de crecimiento.\n\nRegistre el país, la moneda, el periodo y los filtros utilizados antes de compartir una comparación, porque el panel muestra distintos segmentos de red y monedas locales.",
+ "source_sha256": "b429ac5872b3824ce4516fe5a2e3f5857afcb96bb5268a41528475c0c2bff7dc",
+ "summary": "Las estadísticas de las tiendas de Dodo Pizza son de acceso público por país y ubicación, y muestran los ingresos del mes anterior y las fechas de apertura. La página indica que se actualiza cada 30 minutos a partir de la API pública de Dodo IS.",
+ "title": "Dodo Pizza: panel público de ingresos por tienda",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

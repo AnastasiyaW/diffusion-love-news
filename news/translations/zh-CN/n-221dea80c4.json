@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 4 月更新，引入用于实时策略调整的流式 TTRL，并作为 skill 发布到 Clawhub。代码库目前提供完整的训练流水线，基于 veRL 构建，并附带预训练模型和基准测试。",
+ "id": "n-221dea80c4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由华东师范大学（ECNU）与上海智能研究院联合开发，旨在解决复杂研究工作流中的上下文膨胀问题。",
+ "source_sha256": "18f37a4bef89f1d707607e20deb50d92366df13a71bef7c8a161f2468458026a",
+ "summary": "一个面向深度研究型 AI 智能体的专用记忆管理系统，采用三层式 Manager-Planner-Executor 架构。它通过从被动存储转向主动的策略规划，并结合 Continual Test-Time Learning（持续测试时学习），优化长上下文推理。",
+ "title": "MIA：智能体的记忆框架（Memory In Intelligence Agent）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-f43e44e73f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "728e0fe6f98d6a267b6a2fc3b5982f1738ce133c90dedcceb259af0c4ef4e7ac",
+ "summary": "2026-06-20，一条关于 Moebius 的消息附上了该项目的网站、GitHub 仓库和 Hugging Face 页面的链接。由于这些链接将读者引向项目面向公众的资源，该事件被视为一个重要的公开可用性里程碑；但仅凭所提供的链接，无法确定具体的发布内容或能力。",
+ "title": "Moebius 项目资源已公开分享",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

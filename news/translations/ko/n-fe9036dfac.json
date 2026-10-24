@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "초기 연구 프로토타입에서 PlayDeveloper, PlayRefiner, PlayTester 구성 요소를 포함하는 종합적인 멀티 에이전트 시스템으로 발전했습니다. GUI를 위한 자동화된 프로그램 수정 분야의 주요 진전으로 FSE 2026에 소개되었습니다.",
+ "id": "n-fe9036dfac",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "PlayTester를 포함하며, 이는 비전-언어 모델을 사용해 스크린샷과 시뮬레이션된 사용자 상호작용을 통해 GUI 상태를 검증합니다.",
+ "source_sha256": "b1e3f285650ec291186d486a88a5ac1543e0335fc6c776e6b847133b68a36bbb",
+ "summary": "Tencent가 설계한 멀티 에이전트 프레임워크로, LLM이 생성한 GUI 코드의 동작 및 로직 오류를 수정하는 것을 목표로 합니다. 자동화된 상호작용 테스트와 시각적 피드백을 활용하여, 생성된 애플리케이션이 단순히 컴파일되는 수준을 넘어 실제로 기능하도록 보장합니다.",
+ "title": "PlayCoder: LLM이 생성한 GUI 코드를 실제로 동작하게 만들기",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

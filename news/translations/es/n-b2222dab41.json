@@ -1,0 +1,10 @@
+{
+ "id": "n-b2222dab41",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e2cec07812ade1a3f7ba6c49993ce5259b6e22706d1a05e143a316e160dd9413",
+ "summary": "El 12 de junio de 2026, un registro fechado vinculó el repositorio de Hugging Face DiffusionGemma-26B-A4B-it-NVFP4 de NVIDIA con el repositorio DiffusionGemma-26B-A4B-it de Google. Se trata de un punto de distribución relevante en la línea de desarrollo del proyecto, porque identifica una variante NVFP4 alojada por NVIDIA y diferenciada del modelo original.",
+ "title": "Repositorio NVFP4 de NVIDIA para DiffusionGemma, registrado junto al modelo original de Google",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

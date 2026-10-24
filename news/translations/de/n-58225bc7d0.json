@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde für die CVPR 2026 angenommen und erweiterte die Unterstützung um FLUX.1, Wan2.1 und HunyuanVideo. Über community-entwickelte Nodes wurde es in das ComfyUI-Ökosystem integriert.",
+ "id": "n-58225bc7d0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Stanford und ByteDance; nutzt eine globale spektrale Prognose, um sich aufschaukelnde Fehler während der Inferenz zu verhindern.",
+ "source_sha256": "bfe047e3b8e58da7d1fd978dd4f43fe373fbddc687b0c7923c929ee0adf19f1b",
+ "summary": "Ein trainingsfreies Verfahren, das das Sampling von Diffusionsmodellen beschleunigt, indem es die Entwicklung latenter Merkmale mit Chebyshev-Polynomen modelliert. Es ermöglicht deutliche Geschwindigkeitsgewinne für Modelle wie FLUX.1 und Wan2.1 und bewahrt dabei eine hohe Bild- und Videotreue.",
+ "title": "Spectrum: Adaptive spektrale Merkmalsprognose zur Beschleunigung von Diffusionsmodellen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

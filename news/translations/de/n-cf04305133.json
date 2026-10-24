@@ -1,0 +1,10 @@
+{
+ "id": "n-cf04305133",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4956ee8ba33621ccd5feccfe84ec1a718f4a5ca4d5a4a63aefa41684f480a332",
+ "summary": "Am 19.06.2026 verlinkte der erfasste Link das Hugging-Face-Repository realrebelai/Boogu-Image-Edit_GGUFs sowie eine verwandte „The source reference“. Dies ist ein wesentlicher Verteilungsmeilenstein, da damit ein öffentlicher Referenzpunkt für eine GGUF-formatierte Boogu-Image-Edit-Linie etabliert wird.",
+ "title": "Boogu-Image-Edit-GGUF-Artefakte wurden öffentlich referenziert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

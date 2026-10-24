@@ -1,8 +1,28 @@
 {
+ "n-000fcd918f": {
+  "fresh": true,
+  "title": "SenseNova связала превью и инфографические артефакты U1 MoT на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-001a2f8ef9": {
+  "fresh": true,
+  "title": "diffusion.love публикует явный контракт графа развития проектов и компании",
+  "translated_at": "2026-10-24"
+ },
+ "n-006a78034f": {
+  "fresh": true,
+  "title": "UNI-1 получил официальную проектную ссылку Luma Labs",
+  "translated_at": "2026-10-24"
+ },
+ "n-00c9c3996b": {
+  "fresh": true,
+  "title": "На репозиторий HATCHA на GitHub сослались",
+  "translated_at": "2026-10-24"
+ },
  "n-0124eabefd": {
-  "fresh": false,
+  "fresh": true,
   "title": "OmniVoice Studio: локальное клонирование голоса и дубляж",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-019c913613": {
   "fresh": false,
@@ -14,55 +34,155 @@
   "title": "AlayaRenderer: генеративный world-рендерер для AAA-игр",
   "translated_at": null
  },
+ "n-02cbd28ee8": {
+  "fresh": true,
+  "title": "На репозиторий OpenMontage на GitHub была дана ссылка",
+  "translated_at": "2026-10-24"
+ },
  "n-02d9e4ba24": {
-  "fresh": false,
-  "title": "OpenMobile: опенсорсный фреймворк для мобильных агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "OpenMobile: открытый фреймворк для мобильных агентов",
+  "translated_at": "2026-10-24"
  },
  "n-02e0b8ae6c": {
-  "fresh": false,
+  "fresh": true,
   "title": "AI Metadata Inspector — просмотрщик метаданных для Windows",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-02ff6518d6": {
+  "fresh": true,
+  "title": "Публичный репозиторий Anti-Vocale на GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-038f2eebc4": {
+  "fresh": true,
+  "title": "Публичный проект и источниковые ссылки Video-DeepResearch зафиксированы",
+  "translated_at": "2026-10-24"
  },
  "n-03e4a812c8": {
-  "fresh": false,
-  "title": "OmniShow: унифицированная мультимодальная генерация видео взаимодействия человека с объектами",
-  "translated_at": null
+  "fresh": true,
+  "title": "OmniShow: унифицированная мультимодальная генерация видео с взаимодействием человека и объекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-03fea21c65": {
+  "fresh": true,
+  "title": "Статья Harness²: рекурсивное уточнение обвязки замороженной модели",
+  "translated_at": "2026-10-24"
+ },
+ "n-044c492370": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MisoTTS стали доступны",
+  "translated_at": "2026-10-24"
  },
  "n-04529e7d46": {
-  "fresh": false,
+  "fresh": true,
   "title": "Qwen3.6-35B-A3B: мультимодальная разреженная MoE-модель от Alibaba",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-047f61d312": {
-  "fresh": false,
-  "title": "video-use: инструментарий видеомонтажа для AI-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "video-use: инструментарий для монтажа видео с помощью ИИ-агентов",
+  "translated_at": "2026-10-24"
+ },
+ "n-0481856e9f": {
+  "fresh": true,
+  "title": "OpenSeeker опубликовал ссылки на репозиторий с исходным кодом и модель 30B SFT",
+  "translated_at": "2026-10-24"
+ },
+ "n-048b3192a0": {
+  "fresh": true,
+  "title": "Пакет от 2026-06-04: шесть статей и исправление wiki-ссылок",
+  "translated_at": "2026-10-24"
+ },
+ "n-04a79175d6": {
+  "fresh": true,
+  "title": "TimeSlice Nodes обрели ссылки на репозиторий с исходным кодом и сайт проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-04bc8d2a40": {
+  "fresh": true,
+  "title": "SANA-Video анонсирована",
+  "translated_at": "2026-10-24"
+ },
+ "n-052770a8bf": {
+  "fresh": true,
+  "title": "Сайт проекта Rest2Art и исходный репозиторий опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-0588f1e672": {
   "fresh": false,
   "title": "Happy Horse 1.0: унифицированная модель генерации видео",
   "translated_at": null
  },
+ "n-05ec9a95a1": {
+  "fresh": true,
+  "title": "Справочная ссылка на проект Fugu-Ultra 1.1",
+  "translated_at": "2026-10-24"
+ },
+ "n-05fe00f082": {
+  "fresh": true,
+  "title": "Страница модели Marlin-2B и сопутствующий сайт VLM опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-061c80a1dc": {
+  "fresh": true,
+  "title": "ACE-Step 1.5 выходит как открытый генератор музыки",
+  "translated_at": "2026-10-24"
+ },
+ "n-0627ff22c0": {
+  "fresh": true,
+  "title": "Запись о версии модели LTX-2 Caption Tool на Civitai",
+  "translated_at": "2026-10-24"
+ },
  "n-0646f210ee": {
   "fresh": false,
   "title": "Промпт в стиле MS Paint для DALL-E: стилизация фото",
   "translated_at": null
  },
+ "n-0663ce9db2": {
+  "fresh": true,
+  "title": "MOSS-Transcribe-Diarize-0.9B получила публичное присутствие: проект, модель и демо",
+  "translated_at": "2026-10-24"
+ },
  "n-06b8f54c97": {
-  "fresh": false,
-  "title": "MARBLE: фреймворк обучения с подкреплением для многоаспектного согласования диффузии",
-  "translated_at": null
+  "fresh": true,
+  "title": "MARBLE: фреймворк обучения с подкреплением для многоаспектного согласования диффузионных моделей",
+  "translated_at": "2026-10-24"
  },
  "n-0739891476": {
   "fresh": false,
   "title": "JoyAI-Image: официальные ноды ComfyUI и модель пространственного редактирования",
   "translated_at": null
  },
+ "n-076b3f0be6": {
+  "fresh": true,
+  "title": "HeyGen показала HyperFrames в своём рабочем процессе для разработчиков",
+  "translated_at": "2026-10-24"
+ },
+ "n-0778115bb1": {
+  "fresh": true,
+  "title": "Публичный проект 4DAnyone и ссылка на исходный код",
+  "translated_at": "2026-10-24"
+ },
+ "n-07db2c49c3": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта SAM-MT были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
  "n-0841776bd9": {
   "fresh": false,
   "title": "Hunyuan3 Preview (Hy3-preview)",
   "translated_at": null
+ },
+ "n-0852dc1008": {
+  "fresh": true,
+  "title": "SeedDance 2.5 продвигалась через BytePlus Ark",
+  "translated_at": "2026-10-24"
+ },
+ "n-088aac8506": {
+  "fresh": true,
+  "title": "Canva выпустила Dream Lab и первую собственную модель генерации изображений Craft",
+  "translated_at": "2026-10-24"
  },
  "n-08ae804484": {
   "fresh": false,
@@ -70,9 +190,9 @@
   "translated_at": null
  },
  "n-08bc14aa3d": {
-  "fresh": false,
-  "title": "Superwhisper: универсальный AI speech-to-text для десктопа и мобильных",
-  "translated_at": null
+  "fresh": true,
+  "title": "Superwhisper: универсальная ИИ-транскрибация речи для настольных и мобильных устройств",
+  "translated_at": "2026-10-24"
  },
  "n-08dc2040a6": {
   "fresh": false,
@@ -80,99 +200,319 @@
   "translated_at": null
  },
  "n-08fceb7eae": {
-  "fresh": false,
-  "title": "bEpic Viewer Professional: набор для ревью в ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "bEpic Viewer Professional ComfyUI Review Suite",
+  "translated_at": "2026-10-24"
  },
  "n-093c066bee": {
-  "fresh": false,
-  "title": "QClaw: десктопный ИИ-агент автоматизации от Tencent",
-  "translated_at": null
+  "fresh": true,
+  "title": "QClaw: десктопный ИИ-агент для автоматизации от Tencent",
+  "translated_at": "2026-10-24"
  },
  "n-0948d8e4a5": {
-  "fresh": false,
-  "title": "CutClaw: агентный мульти-агентный монтаж видео под музыку",
-  "translated_at": null
+  "fresh": true,
+  "title": "CutClaw: агентная мультиагентная система монтажа видео под музыку",
+  "translated_at": "2026-10-24"
  },
  "n-09ee25f7d5": {
-  "fresh": false,
-  "title": "HyDRA: гибридная память для динамических видео world-моделей",
-  "translated_at": null
+  "fresh": true,
+  "title": "HyDRA: гибридная память для динамических видеомоделей мира",
+  "translated_at": "2026-10-24"
  },
  "n-09f901429d": {
   "fresh": false,
   "title": "Stream-R1: дистилляция видео в реальном времени под управлением reward",
   "translated_at": null
  },
+ "n-0a1838ff3d": {
+  "fresh": true,
+  "title": "Страница продукта Seed Audio 1.0 и путь активации в BytePlus Voice",
+  "translated_at": "2026-10-24"
+ },
+ "n-0a40fd014f": {
+  "fresh": true,
+  "title": "ComfyUI-MiniMaxH3_LatentUpscaler был публично упомянут в источнике",
+  "translated_at": "2026-10-24"
+ },
+ "n-0a5ac285d9": {
+  "fresh": true,
+  "title": "Bonsai 27B получила связанные публичные точки входа: страницу проекта, демо и коллекцию моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-0ab05cddfc": {
+  "fresh": true,
+  "title": "Ссылки на ресурсы проекта Mirage опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-0abfd5c1ff": {
+  "fresh": true,
+  "title": "NVIDIA представила свой детектор синтетического видео в материалах SIGGRAPH 2026",
+  "translated_at": "2026-10-24"
+ },
+ "n-0ad60b8778": {
+  "fresh": true,
+  "title": "Публичная модель Nemotron 3.5 Lightning и ресурсы playground стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-0b1d3c8a99": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта AsymFlow были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-0b4ad29b73": {
+  "fresh": true,
+  "title": "Документация Z.ai назвала GLM-5.2 своей последней моделью",
+  "translated_at": "2026-10-24"
+ },
+ "n-0c368b4c16": {
+  "fresh": true,
+  "title": "Ресурсы проекта Geometric Latent Diffusion, модель и демо теперь доступны публично",
+  "translated_at": "2026-10-24"
+ },
+ "n-0c7b2e5273": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Omni-Diffusion опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-0cf91afec3": {
+  "fresh": true,
+  "title": "Qwen-Image 3.0: зафиксированы публичные ссылки Qwen",
+  "translated_at": "2026-10-24"
+ },
  "n-0cf9d026b8": {
   "fresh": false,
   "title": "SCAIL-2: студийная анимация персонажей через in-context learning",
   "translated_at": null
  },
+ "n-0d7aed5e86": {
+  "fresh": true,
+  "title": "Adobe объявила о планах приобрести Topaz Labs",
+  "translated_at": "2026-10-24"
+ },
+ "n-0dea9b891a": {
+  "fresh": true,
+  "title": "Реализация EUPE и ресурс модели EUPE-ViT-S опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-0e3939a347": {
+  "fresh": true,
+  "title": "Qwen3-ForcedAligner-0.6B-hf была опубликована ссылка на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-0ebdd3ab44": {
+  "fresh": true,
+  "title": "MiniMax Music 3 получила публичные точки входа: проект, модель, платформу, демо и ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-0f298b0d41": {
+  "fresh": true,
+  "title": "Публичный репозиторий LoopX на GitHub был опубликован по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-0f55e4f6a1": {
+  "fresh": true,
+  "title": "Датированные публичные ссылки на EVIE-Preview-4.5B",
+  "translated_at": "2026-10-24"
+ },
+ "n-0fd23f1e2c": {
+  "fresh": true,
+  "title": "Anthropic выделяет 5% капитала в фонд LLC с общественно полезной целью",
+  "translated_at": "2026-10-24"
+ },
+ "n-1027303bd3": {
+  "fresh": true,
+  "title": "Ресурсы проекта LiveEdit были публично опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-1059ecec13": {
+  "fresh": true,
+  "title": "Проект и исходный репозиторий Transcribe.cpp опубликованы в открытом доступе",
+  "translated_at": "2026-10-24"
+ },
  "n-10b1471000": {
-  "fresh": false,
-  "title": "RefineAnything: мультимодальное уточнение изображений по областям",
-  "translated_at": null
+  "fresh": true,
+  "title": "RefineAnything: многомодальное region-specific уточнение изображений",
+  "translated_at": "2026-10-24"
  },
  "n-110bebc860": {
   "fresh": false,
   "title": "Spark 2.0: крупномасштабный веб-движок Gaussian Splatting",
   "translated_at": null
  },
+ "n-11ae14ece9": {
+  "fresh": true,
+  "title": "На репозиторий Muse для ComfyUI поставили ссылку",
+  "translated_at": "2026-10-24"
+ },
  "n-11e8a99b4c": {
-  "fresh": false,
-  "title": "Rowboat: local-first AI-агент и персональный граф знаний",
-  "translated_at": null
+  "fresh": true,
+  "title": "Rowboat: локальный ИИ-агент и персональный граф знаний",
+  "translated_at": "2026-10-24"
  },
  "n-129b6b09c0": {
   "fresh": false,
   "title": "Qwen3.6-35B: дистилляция рассуждений Claude 4.6 Opus",
   "translated_at": null
  },
+ "n-13290b7929": {
+  "fresh": true,
+  "title": "На официальные ресурсы проекта InfinityEdit появилась ссылка",
+  "translated_at": "2026-10-24"
+ },
  "n-133a0bfd18": {
-  "fresh": false,
-  "title": "ComfyUI Command Palette",
-  "translated_at": null
+  "fresh": true,
+  "title": "Палитра команд ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-13a562a609": {
+  "fresh": true,
+  "title": "Ling-3.0-flash получила датированную ссылку на модельную страницу OpenRouter",
+  "translated_at": "2026-10-24"
+ },
+ "n-1402aca572": {
+  "fresh": true,
+  "title": "Ссылка на проект TencentDB Agent Memory опубликована",
+  "translated_at": "2026-10-24"
+ },
+ "n-145acbde64": {
+  "fresh": true,
+  "title": "Публичная модель, демо и исходный код Dramabox опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-14a863c9d3": {
+  "fresh": true,
+  "title": "Anthropic опубликовала уведомление о доступе к Fable и Mythos",
+  "translated_at": "2026-10-24"
+ },
+ "n-14c8e61352": {
+  "fresh": true,
+  "title": "Опубликованы сайт проекта DA-Flow и ссылка на репозиторий с исходным кодом",
+  "translated_at": "2026-10-24"
+ },
+ "n-15581903e4": {
+  "fresh": true,
+  "title": "Страница версии v0.2 для Wan-Streamer опубликована и доступна по ссылке",
+  "translated_at": "2026-10-24"
  },
  "n-155ef8c3dc": {
   "fresh": false,
   "title": "Any4D: единая feed-forward метрическая 4D-реконструкция",
   "translated_at": null
  },
+ "n-15f28b9d26": {
+  "fresh": true,
+  "title": "Апелляционный суд округа Колумбия отклонил жалобы Anthropic на исключение из цепочек поставок Пентагона",
+  "translated_at": "2026-10-24"
+ },
  "n-15fd6206af": {
-  "fresh": false,
+  "fresh": true,
   "title": "Marco-MoE: открытые многоязычные MoE-модели от Alibaba AIDC",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-160cda1ba7": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MeshCap задокументированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-160efa0fdb": {
+  "fresh": true,
+  "title": "MiniMax H3: связанный AMA прояснил рекомендации по промптам и рабочим процессам, а также планы по будущему локальному релизу; это не новая версионированная модель",
+  "translated_at": "2026-10-24"
+ },
+ "n-1651c3d215": {
+  "fresh": true,
+  "title": "Jina AI представила jina-embeddings-v5-omni",
+  "translated_at": "2026-10-24"
  },
  "n-169e12a080": {
-  "fresh": false,
-  "title": "CorridorKey-Runtime: AI-кеер хромакея",
-  "translated_at": null
+  "fresh": true,
+  "title": "CorridorKey-Runtime: AI-кеер для зелёного экрана",
+  "translated_at": "2026-10-24"
+ },
+ "n-16c3e34986": {
+  "fresh": true,
+  "title": "Vibe Coding XR представлен вместе с XR Blocks и ресурсом Gemini",
+  "translated_at": "2026-10-24"
  },
  "n-16ee77b7eb": {
-  "fresh": false,
+  "fresh": true,
   "title": "Новые GGUF-модели: Qwen 3.5, Gemma 4 и Qwopus",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-171634870a": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Spatial-TTT были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-17b312d487": {
+  "fresh": true,
+  "title": "V-JEPA связали с репозиторием V-JEPA 2",
+  "translated_at": "2026-10-24"
+ },
+ "n-17be84d500": {
+  "fresh": true,
+  "title": "Официальные ресурсы проекта HY-WU стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-17e916004b": {
+  "fresh": true,
+  "title": "Pocket связал сайт Gizmo и Android-приложение",
+  "translated_at": "2026-10-24"
+ },
+ "n-181f36a473": {
+  "fresh": true,
+  "title": "OpenMOSS представила превью-модель транскрибации на 2B параметров и сервис транскрибации",
+  "translated_at": "2026-10-24"
  },
  "n-18331ebc79": {
-  "fresh": false,
-  "title": "JavisDiT: совместный аудио-видео Diffusion Transformer",
-  "translated_at": null
+  "fresh": true,
+  "title": "JavisDiT: совместный аудиовидео диффузионный трансформер",
+  "translated_at": "2026-10-24"
+ },
+ "n-1857cf1c7a": {
+  "fresh": true,
+  "title": "Официальные ресурсы проекта SeFi-Image были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-18aead67ea": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на конкретную версию LoRA GalaxyAce на Civitai",
+  "translated_at": "2026-10-24"
  },
  "n-18c1e67c85": {
-  "fresh": false,
-  "title": "Delulu Stream: манипуляция видео в реальном времени",
-  "translated_at": null
+  "fresh": true,
+  "title": "Delulu Stream: исправление видео в реальном времени",
+  "translated_at": "2026-10-24"
  },
  "n-18cb9608e2": {
-  "fresh": false,
-  "title": "ReplaceMe: training-free прунинг по глубине для LLM",
-  "translated_at": null
+  "fresh": true,
+  "title": "ReplaceMe: безобучающееся прореживание глубины для LLM",
+  "translated_at": "2026-10-24"
  },
  "n-18e6b47885": {
-  "fresh": false,
-  "title": "ComfyStudio: AI-видеоредактор с таймлайном для ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "ComfyStudio: тайм-линейный AI-видеоредактор для ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-192b3cf75c": {
+  "fresh": true,
+  "title": "Зафиксированы модель IC-LoRA Clean Plate для LTX-2.3 и демо-ссылки на неё",
+  "translated_at": "2026-10-24"
+ },
+ "n-19402c57d8": {
+  "fresh": true,
+  "title": "Adonis Flux2Klein: ресурс на Hugging Face зафиксирован",
+  "translated_at": "2026-10-24"
+ },
+ "n-1957e34ea5": {
+  "fresh": true,
+  "title": "Ресурсы проекта DIRECT были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-196adf34af": {
+  "fresh": true,
+  "title": "Inline Studio опубликовала релиз v1.2.71",
+  "translated_at": "2026-10-24"
  },
  "n-1985ad3cff": {
   "fresh": false,
@@ -180,9 +520,34 @@
   "translated_at": null
  },
  "n-19adc0c7af": {
-  "fresh": false,
-  "title": "ByteCut Director: рабочее пространство для AI-видеопродакшна",
-  "translated_at": null
+  "fresh": true,
+  "title": "ByteCut Director: рабочее пространство для производства AI-видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-1a1adbb4f3": {
+  "fresh": true,
+  "title": "NVIDIA выпустила Cosmos3-Edge на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-1a1b209e8f": {
+  "fresh": true,
+  "title": "Black Forest Labs представила FLUX Video Upscale",
+  "translated_at": "2026-10-24"
+ },
+ "n-1a26ffa75d": {
+  "fresh": true,
+  "title": "LiTo связали с репозиторием Apple на GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-1a301e2ceb": {
+  "fresh": true,
+  "title": "PhyMotion публикует ссылки на проект, код и модель",
+  "translated_at": "2026-10-24"
+ },
+ "n-1a5ac07fef": {
+  "fresh": true,
+  "title": "Репозиторий video-production-skills упомянут",
+  "translated_at": "2026-10-24"
  },
  "n-1b0490d011": {
   "fresh": false,
@@ -194,30 +559,75 @@
   "title": "ComfyUI Hires Fix Ultra: универсальная нода «всё в одном»",
   "translated_at": null
  },
+ "n-1b28d58410": {
+  "fresh": true,
+  "title": "GitLab устранила критическую уязвимость удалённого выполнения кода без аутентификации в версиях с 7.0 по 19.5",
+  "translated_at": "2026-10-24"
+ },
  "n-1b656b5ff8": {
-  "fresh": false,
-  "title": "Многопользовательские агенты на больших языковых моделях",
-  "translated_at": null
+  "fresh": true,
+  "title": "Многопользовательские агенты на основе больших языковых моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-1b82c038ef": {
+  "fresh": true,
+  "title": "Ресурсы проекта Wan-Dancer были публично связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-1b9a2f0f92": {
+  "fresh": true,
+  "title": "DeepSeek выпустила открытую модель V4.1-Flash-1017 с оптимизациями для агентных инструментов",
+  "translated_at": "2026-10-24"
  },
  "n-1c50287b34": {
-  "fresh": false,
+  "fresh": true,
   "title": "X2SAM — мультимодальная модель для сегментации изображений и видео",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-1c57725150": {
+  "fresh": true,
+  "title": "Страница проекта VideoNeuMat опубликована по ссылке",
+  "translated_at": "2026-10-24"
  },
  "n-1cfc0e728d": {
-  "fresh": false,
+  "fresh": true,
   "title": "NVIDIA Nemotron-3-Nano-Omni-30B-A3B",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-1d8711ddfd": {
+  "fresh": true,
+  "title": "Документация по установке ZCode появилась в записи разработки",
+  "translated_at": "2026-10-24"
  },
  "n-1e0d9b8388": {
-  "fresh": false,
+  "fresh": true,
   "title": "HY-World 2.0: мультимодальная модель мира от Tencent",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-1e37f80b3f": {
+  "fresh": true,
+  "title": "Ветка разработок Alibaba зафиксировала статью о Latent-to-Pixel",
+  "translated_at": "2026-10-24"
+ },
+ "n-1e7e01ddd7": {
+  "fresh": true,
+  "title": "Ресурсы проекта Calibri стали публично доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-1ee49081d2": {
+  "fresh": true,
+  "title": "Google представила Gemini Embedding 2",
+  "translated_at": "2026-10-24"
  },
  "n-1fef5a401b": {
   "fresh": false,
   "title": "Tencent Hunyuan UniCom",
   "translated_at": null
+ },
+ "n-1fff983f43": {
+  "fresh": true,
+  "title": "Анонс GPT-5.5",
+  "translated_at": "2026-10-24"
  },
  "n-207ed94fbd": {
   "fresh": false,
@@ -229,50 +639,215 @@
   "title": "Waypoint-1.5: интерактивная видеомодель мира в реальном времени",
   "translated_at": null
  },
+ "n-20c0bd9616": {
+  "fresh": true,
+  "title": "Появились листинги браузерного расширения NexVid для Chrome и Firefox",
+  "translated_at": "2026-10-24"
+ },
+ "n-2171fbda3c": {
+  "fresh": true,
+  "title": "CanAI: открытая локальная студия на основе холста с интеграцией fal.ai",
+  "translated_at": "2026-10-24"
+ },
+ "n-22001436c1": {
+  "fresh": true,
+  "title": "Коллекция Image-to-LoRA V2 стала публичной вехой проекта",
+  "translated_at": "2026-10-24"
+ },
  "n-221dea80c4": {
-  "fresh": false,
-  "title": "MIA: фреймворк агента Memory In Intelligence",
-  "translated_at": null
+  "fresh": true,
+  "title": "MIA: Memory In Intelligence Agent Framework",
+  "translated_at": "2026-10-24"
+ },
+ "n-2222547f97": {
+  "fresh": true,
+  "title": "LTX-2.3 представлена с документацией и песочницей для текст-в-видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-222b01635c": {
+  "fresh": true,
+  "title": "Распространение LTX-2.3-GGUF и руководство по Dynamic 2.0 GGUF опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-2242c477fb": {
+  "fresh": true,
+  "title": "Ресурсы публичного проекта NAVA опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-22448a4fd0": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта TimeLens2 были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
  },
  "n-2244c25f96": {
-  "fresh": false,
+  "fresh": true,
   "title": "DeepSeek TVP: Thinking with Visual Primitives",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-22b4ad25f5": {
+  "fresh": true,
+  "title": "Сообщение OpenAI о Daybreak, связанное с GPT-5.5-Cyber",
+  "translated_at": "2026-10-24"
  },
  "n-23270485c3": {
-  "fresh": false,
-  "title": "LiveActionAOV: standalone-инструмент для пакетной генерации VFX-проходов",
-  "translated_at": null
+  "fresh": true,
+  "title": "LiveActionAOV: автономный инструмент для пакетной генерации VFX-пассов",
+  "translated_at": "2026-10-24"
  },
  "n-23309eb954": {
-  "fresh": false,
+  "fresh": true,
   "title": "InfiniDepth: монокулярная оценка глубины произвольного разрешения",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-2340faee72": {
+  "fresh": true,
+  "title": "Страница проекта и галерея PointDiT были добавлены по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-238cbd39cb": {
+  "fresh": true,
+  "title": "Репозиторий claude-video публично упоминается",
+  "translated_at": "2026-10-24"
+ },
+ "n-2393a845fa": {
+  "fresh": true,
+  "title": "Веха запроса доступа к Ramp Router",
+  "translated_at": "2026-10-24"
  },
  "n-2405c2d2f2": {
-  "fresh": false,
+  "fresh": true,
   "title": "GPT-5.5: официальное руководство OpenAI по промптингу",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-240baee803": {
+  "fresh": true,
+  "title": "На репозиторий проекта RiGS появилась ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-250fdb3b1b": {
-  "fresh": false,
+  "fresh": true,
   "title": "Color-Grade-Transfer-LoRA для точного подбора цвета",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-253f50a66d": {
+  "fresh": true,
+  "title": "TheStageAI опубликовала материалы проекта Elastic-Wan2.2-I2V",
+  "translated_at": "2026-10-24"
+ },
+ "n-2540f877eb": {
+  "fresh": true,
+  "title": "Распространение GGUF-версии Qwopus3.5-9B-Coder зафиксировано на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-2591c503ad": {
+  "fresh": true,
+  "title": "Анонс Grok Imagine Video 1.5",
+  "translated_at": "2026-10-24"
+ },
+ "n-25eed24e0d": {
+  "fresh": true,
+  "title": "Репозиторий Windows-Copilot-API и сайт Microsoft Copilot были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-264e8c1717": {
+  "fresh": true,
+  "title": "Для FireRed Image Edit 1.1 появился ресурс под ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-269c40ddd3": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта ABot-World стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-26bc0bd267": {
+  "fresh": true,
+  "title": "Ссылки на ресурсы разработки Kura были добавлены",
+  "translated_at": "2026-10-24"
+ },
+ "n-277ef3d868": {
+  "fresh": true,
+  "title": "Ultra Real - Klein 9b привязана к странице модели на Civitai и рабочим процессам ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-27957b3eee": {
+  "fresh": true,
+  "title": "Публичный сайт проекта AGORA и его репозиторий на исходном коде связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-27ad5cb7b0": {
+  "fresh": true,
+  "title": "Covo-Audio-Chat: зафиксирован ресурс на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-27ea6ab4ef": {
+  "fresh": true,
+  "title": "Публичный репозиторий Supertonic: справочная ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-286154962f": {
+  "fresh": true,
+  "title": "Arena.ai задокументировала обновление в разработке Agent Mode",
+  "translated_at": "2026-10-24"
+ },
+ "n-288cee31b2": {
+  "fresh": true,
+  "title": "Gemini 3.6 Flash связали с обновлёнными вариантами модели Flash",
+  "translated_at": "2026-10-24"
+ },
+ "n-289ba243a5": {
+  "fresh": true,
+  "title": "На публичный сайт KarpathyTalk появилась ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-28ab3dac33": {
+  "fresh": true,
+  "title": "DeepSeek привлекла 15 миллиардов долларов на фоне федеральных ограничений на использование в США",
+  "translated_at": "2026-10-24"
+ },
+ "n-28ff35cede": {
+  "fresh": true,
+  "title": "CapCut сослался на свою страницу AI Creator Home",
+  "translated_at": "2026-10-24"
+ },
+ "n-29022e4fd2": {
+  "fresh": true,
+  "title": "Ссылка на GGUF-артефакт Qwen3.8-27B-Cold-Fusion",
+  "translated_at": "2026-10-24"
+ },
+ "n-29037afbf8": {
+  "fresh": true,
+  "title": "Публичные данные о WAN Skills недоступны",
+  "translated_at": "2026-10-24"
  },
  "n-2915ceca6f": {
   "fresh": false,
   "title": "ComfyUI-DreamScene360 — панорамный Gaussian Splatting и 3D-сцены",
   "translated_at": null
  },
+ "n-292e34fcb3": {
+  "fresh": true,
+  "title": "Опубликован сайт проекта DanceOPD",
+  "translated_at": "2026-10-24"
+ },
  "n-2938402642": {
   "fresh": false,
   "title": "Boxer: подъём 2D в 3D bounding box в открытом мире",
   "translated_at": null
  },
+ "n-29d4083d61": {
+  "fresh": true,
+  "title": "Luma AI представила Ray 3.2",
+  "translated_at": "2026-10-24"
+ },
+ "n-29eb1f831e": {
+  "fresh": true,
+  "title": "Репозиторий Awesome Harness Engineering на GitHub упомянут",
+  "translated_at": "2026-10-24"
+ },
  "n-2a8f5beb6c": {
-  "fresh": false,
+  "fresh": true,
   "title": "OpenAI Codex CLI",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-2aa536ccdc": {
   "fresh": false,
@@ -284,65 +859,190 @@
   "title": "DiffHDR: генеративная диффузия видео из LDR в HDR",
   "translated_at": null
  },
+ "n-2af9b3efb0": {
+  "fresh": true,
+  "title": "Репозиторий Mistral Small 4 119B 2603 Eagle появился на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-2b3ced63f1": {
+  "fresh": true,
+  "title": "Репозиторий UltraMuse XYZ Studio упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-2b71540823": {
+  "fresh": true,
+  "title": "WAN открыл маршрут realtime-песочницы",
+  "translated_at": "2026-10-24"
+ },
+ "n-2b7ba5c775": {
+  "fresh": true,
+  "title": "Ссылки на модель OmniVideo-7B_Qwen2.5-Omni и ресурсы OmniVideo-100K",
+  "translated_at": "2026-10-24"
+ },
  "n-2bdd41c2da": {
-  "fresh": false,
-  "title": "OneManCompany: самоорганизующаяся ОС для ИИ-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "OneManCompany: операционная система для самоорганизующихся ИИ-агентов",
+  "translated_at": "2026-10-24"
+ },
+ "n-2c76b163d3": {
+  "fresh": true,
+  "title": "Репозиторий F⁴Splat на GitHub опубликован",
+  "translated_at": "2026-10-24"
  },
  "n-2c91e42c2d": {
-  "fresh": false,
-  "title": "Meta-CoT: иерархический Chain-of-Thought для редактирования изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "Meta-CoT: иерархическая цепочка рассуждений для редактирования изображений",
+  "translated_at": "2026-10-24"
+ },
+ "n-2d08c11049": {
+  "fresh": true,
+  "title": "Solar Open 2 представлена вместе со страницей модели и доступом к playground",
+  "translated_at": "2026-10-24"
  },
  "n-2d6650cee4": {
-  "fresh": false,
-  "title": "Deno AI Studio: Windows-инсталлятор для ИИ-моделей",
-  "translated_at": null
+  "fresh": true,
+  "title": "Установщик Deno AI Studio для Windows для AI-моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-2d7b3093fd": {
+  "fresh": true,
+  "title": "Публичный набор ресурсов DEMON задокументирован",
+  "translated_at": "2026-10-24"
  },
  "n-2dbef67328": {
-  "fresh": false,
-  "title": "SlopLobster: локальный AI-ассистент кодинга в браузере",
-  "translated_at": null
+  "fresh": true,
+  "title": "SlopLobster: локальный браузерный ИИ-ассистент для программирования",
+  "translated_at": "2026-10-24"
+ },
+ "n-2e0520da75": {
+  "fresh": true,
+  "title": "Gemma 4 12B представлена",
+  "translated_at": "2026-10-24"
+ },
+ "n-2e764207bd": {
+  "fresh": true,
+  "title": "Публичные ссылки на мобильный фронтенд ComfyUI были опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-2e867da591": {
+  "fresh": true,
+  "title": "Публичный сайт и репозиторий FASTER были связаны",
+  "translated_at": "2026-10-24"
  },
  "n-2eb209422c": {
-  "fresh": false,
+  "fresh": true,
   "title": "MAI-Transcribe-1: модель распознавания речи от Microsoft",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-2f045eb33c": {
+  "fresh": true,
+  "title": "Ресурсы проекта Video-to-World были опубликованы в открытом доступе",
+  "translated_at": "2026-10-24"
  },
  "n-2f8c6f34f0": {
   "fresh": false,
   "title": "ClawEnvKit: автоматическая генерация сред для ИИ-агентов",
   "translated_at": null
  },
+ "n-2f94cbb043": {
+  "fresh": true,
+  "title": "Обогащение исследовательских статей об агентах",
+  "translated_at": "2026-10-24"
+ },
+ "n-2facb069d0": {
+  "fresh": true,
+  "title": "Набор ресурсов MiniMax-H3 Turbo LoRA задокументирован",
+  "translated_at": "2026-10-24"
+ },
+ "n-2fb0f885be": {
+  "fresh": true,
+  "title": "Unity опубликовала анонс Unity CLI",
+  "translated_at": "2026-10-24"
+ },
  "n-2fc856ac34": {
-  "fresh": false,
-  "title": "UniGenDet: унифицированный генеративно-дискриминативный фреймворк для коэволюционной генерации и детекции изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "UniGenDet: унифицированная генеративно-дискриминативная архитектура для совместной эволюции генерации и детекции изображений",
+  "translated_at": "2026-10-24"
  },
  "n-2fd5e60740": {
-  "fresh": false,
-  "title": "QuickMagic AI: профессиональный сервис video-to-mocap и аватаров",
-  "translated_at": null
+  "fresh": true,
+  "title": "QuickMagic AI: профессиональный сервис видео-в-мокап и аватаров",
+  "translated_at": "2026-10-24"
  },
  "n-2ff0f435cc": {
-  "fresh": false,
-  "title": "ComfyUI-mesh2motion: интерактивный редактор 3D-мешей для AI-анимации",
-  "translated_at": null
+  "fresh": true,
+  "title": "ComfyUI-mesh2motion: интерактивный 3D-редактор мешей для AI-анимации",
+  "translated_at": "2026-10-24"
  },
  "n-2ffed2d338": {
-  "fresh": false,
-  "title": "Inworld Realtime TTS-2: эмоциональная AI-система синтеза речи",
-  "translated_at": null
+  "fresh": true,
+  "title": "Inworld Realtime TTS-2: система эмоционального синтеза речи на базе ИИ",
+  "translated_at": "2026-10-24"
+ },
+ "n-303168f615": {
+  "fresh": true,
+  "title": "OpenAI показала превью GPT-5.6-sol",
+  "translated_at": "2026-10-24"
+ },
+ "n-30436dd38f": {
+  "fresh": true,
+  "title": "Зафиксированы ссылки на распространение LoRA для LTX",
+  "translated_at": "2026-10-24"
  },
  "n-30f5861cb4": {
   "fresh": false,
   "title": "Flux FaceIR: качественное восстановление лиц для Flux",
   "translated_at": null
  },
+ "n-310e3414f5": {
+  "fresh": true,
+  "title": "Справка по модели Happy Horse 1.1 для генерации видео из изображения",
+  "translated_at": "2026-10-24"
+ },
+ "n-31b3b17c7b": {
+  "fresh": true,
+  "title": "karpathy-output-style структурирует объяснения LLM в нескольких форматах для рабочих процессов разработчиков",
+  "translated_at": "2026-10-24"
+ },
+ "n-31cb32c83a": {
+  "fresh": true,
+  "title": "Krea2 Filter Bypass: публичная модель и ссылки на обсуждение зафиксированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-3297691b6f": {
+  "fresh": true,
+  "title": "CARE-Edit опубликовал ссылки на свой публичный сайт проекта и репозиторий с кодом",
+  "translated_at": "2026-10-24"
+ },
+ "n-32a7d157bd": {
+  "fresh": true,
+  "title": "Ссылка на репозиторий Hugging Face для Qwen3.8-27B-Uncensored HauhauCS Aggressive MTP GGUF",
+  "translated_at": "2026-10-24"
+ },
+ "n-32e036715e": {
+  "fresh": true,
+  "title": "TeraTTSv2 задокументирован вместе со связанными моделью, демо и инструментами для работы с голосом",
+  "translated_at": "2026-10-24"
+ },
+ "n-32fda16502": {
+  "fresh": true,
+  "title": "Репозиторий Qwen-MM-Plugins упомянут",
+  "translated_at": "2026-10-24"
+ },
  "n-332335c756": {
   "fresh": false,
   "title": "ComfyUI Wan VACE Video Joiner для бесшовных переходов",
   "translated_at": null
+ },
+ "n-3347fb1328": {
+  "fresh": true,
+  "title": "Публичное представление проекта перевода Violin",
+  "translated_at": "2026-10-24"
+ },
+ "n-334d920a5d": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта OccAny опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-3354f12396": {
   "fresh": false,
@@ -350,74 +1050,304 @@
   "translated_at": null
  },
  "n-33f31b6935": {
-  "fresh": false,
+  "fresh": true,
   "title": "MOSS-Audio-8B-Thinking",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-34034d382e": {
   "fresh": false,
   "title": "LTX 2.3 Enhancers: LoRA для визуальной точности и чёткости",
   "translated_at": null
  },
+ "n-3450949e78": {
+  "fresh": true,
+  "title": "Ссылка на GitHub-репозиторий OmniRoute",
+  "translated_at": "2026-10-24"
+ },
+ "n-347308d9b6": {
+  "fresh": true,
+  "title": "ByteDance Video Upscaler упоминался через Replicate",
+  "translated_at": "2026-10-24"
+ },
  "n-348f0ce004": {
   "fresh": false,
   "title": "DisCa: обучаемое кэширование признаков, совместимое с дистилляцией",
   "translated_at": null
  },
+ "n-353bab66f8": {
+  "fresh": true,
+  "title": "Apple анонсировала новые возможности Apple Intelligence для повседневных сценариев",
+  "translated_at": "2026-10-24"
+ },
+ "n-3554d5183b": {
+  "fresh": true,
+  "title": "PrunaVAED появился в ветке интеграции LTX Video",
+  "translated_at": "2026-10-24"
+ },
+ "n-3600f1f8ab": {
+  "fresh": true,
+  "title": "На репозиторий ComfyUI Setup Manager была публично сослаться",
+  "translated_at": "2026-10-24"
+ },
+ "n-363a1b03bb": {
+  "fresh": true,
+  "title": "Модель Mage-Flow и интеграция с ComfyUI опубликованы как связанные",
+  "translated_at": "2026-10-24"
+ },
+ "n-364be607ee": {
+  "fresh": true,
+  "title": "На репозиторий image_caption_utility на GitHub сослались в записи разработки",
+  "translated_at": "2026-10-24"
+ },
  "n-367db0be8e": {
-  "fresh": false,
+  "fresh": true,
   "title": "Nous Hermes Agent: автономный самоэволюционирующий фреймворк",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-369b74ea1a": {
+  "fresh": true,
+  "title": "Ресурс Flux2-Klein-9B-Enhanced-Details был опубликован по ссылке",
+  "translated_at": "2026-10-24"
  },
  "n-36e9bae8ed": {
   "fresh": false,
   "title": "MiniCPM-V 4.6: эффективная edge-нативная мультимодальная модель",
   "translated_at": null
  },
+ "n-36fa065b79": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на ресурс LoRA Sun Direction для Flux 2 Klein 9B",
+  "translated_at": "2026-10-24"
+ },
+ "n-37729ce27a": {
+  "fresh": true,
+  "title": "MiniMax Music 3 Latent Refiner v0.10 появился на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-37b2067a0b": {
+  "fresh": true,
+  "title": "Qwen-Image-Edit опубликован",
+  "translated_at": "2026-10-24"
+ },
+ "n-38018d5d2d": {
+  "fresh": true,
+  "title": "Публичная модель SIQ-1-35B и демо агента были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-38217f32a6": {
+  "fresh": true,
+  "title": "Google AI Studio анонсировала обновление для full-stack vibe-coding",
+  "translated_at": "2026-10-24"
+ },
+ "n-386f8faa44": {
+  "fresh": true,
+  "title": "Sonilo v1.1 связали с эндпоинтом text-to-music",
+  "translated_at": "2026-10-24"
+ },
+ "n-3870f53415": {
+  "fresh": true,
+  "title": "TurboQuant был публично представлен как подход к экстремальному сжатию для повышения эффективности ИИ",
+  "translated_at": "2026-10-24"
+ },
+ "n-38e1500c66": {
+  "fresh": true,
+  "title": "Материалы по TripoSplat: исследование, модель, демо и шаблоны рабочих процессов",
+  "translated_at": "2026-10-24"
+ },
+ "n-38e5bcdce7": {
+  "fresh": true,
+  "title": "На страницу проекта OmniDirector и исходный репозиторий появились ссылки",
+  "translated_at": "2026-10-24"
+ },
+ "n-3905bae486": {
+  "fresh": true,
+  "title": "Опубликованы ссылки на проект SpatialClaw",
+  "translated_at": "2026-10-24"
+ },
+ "n-390aed02e2": {
+  "fresh": true,
+  "title": "Krea 2 вошла в документированную линию разработки",
+  "translated_at": "2026-10-24"
+ },
+ "n-396702cfe2": {
+  "fresh": true,
+  "title": "fx впервые публично заявил о себе через свой сайт и репозиторий с исходным кодом",
+  "translated_at": "2026-10-24"
+ },
  "n-396cd4f7c0": {
-  "fresh": false,
-  "title": "MotionDeblur IC-LoRA для восстановления видео в LTX-2.3",
-  "translated_at": null
+  "fresh": true,
+  "title": "MotionDeblur IC-LoRA для восстановления видео LTX-2.3",
+  "translated_at": "2026-10-24"
  },
  "n-39f773b51f": {
-  "fresh": false,
-  "title": "ComfyUI-Photopea-tab: редактор изображений в сайдбаре для ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "ComfyUI-Photopea-tab: боковая панель-редактор изображений для ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-3a170e8f1b": {
+  "fresh": true,
+  "title": "Публичный проект Seoul World Model и ссылки на код зафиксированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-3a9d69d7e9": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на репозиторий PadCaptioner",
+  "translated_at": "2026-10-24"
  },
  "n-3ae3ddb34b": {
-  "fresh": false,
-  "title": "LTX-2.3-22b-IC-LoRA-Outpaint: расширение кадра видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "LTX-2.3-22b-IC-LoRA-Outpaint: расширение кадров видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-3b15326fe8": {
+  "fresh": true,
+  "title": "Ссылки на Hugging Face для Muse Glimmer 30B зафиксированы",
+  "translated_at": "2026-10-24"
  },
  "n-3b297c8441": {
-  "fresh": false,
-  "title": "World Labs Marble: генеративные 3D world-модели",
-  "translated_at": null
+  "fresh": true,
+  "title": "World Labs Marble: генеративные 3D-модели миров",
+  "translated_at": "2026-10-24"
+ },
+ "n-3bacf0e143": {
+  "fresh": true,
+  "title": "Apple представила третье поколение своих Foundation Models",
+  "translated_at": "2026-10-24"
+ },
+ "n-3bd8a5bf17": {
+  "fresh": true,
+  "title": "Cohere опубликовала блог-пост о Command A+",
+  "translated_at": "2026-10-24"
+ },
+ "n-3d51708a52": {
+  "fresh": true,
+  "title": "Suno опубликовала обновление Studio 2",
+  "translated_at": "2026-10-24"
+ },
+ "n-3df0e38055": {
+  "fresh": true,
+  "title": "Публичное упоминание проекта Bodycount Detector зафиксировано",
+  "translated_at": "2026-10-24"
+ },
+ "n-3e5c539778": {
+  "fresh": true,
+  "title": "Tripo открывает ранний доступ к автоматической развёртке UV и ретопологии",
+  "translated_at": "2026-10-24"
+ },
+ "n-3ec7e1a063": {
+  "fresh": true,
+  "title": "Black Forest Labs опубликовала обновление блога о FLUX 3",
+  "translated_at": "2026-10-24"
  },
  "n-3ef8391496": {
   "fresh": false,
   "title": "GLiGuard: компактная модель для модерации безопасности LLM",
   "translated_at": null
  },
+ "n-3efc7bc4ce": {
+  "fresh": true,
+  "title": "Ссылка Disney Research на Neural Render Proxies",
+  "translated_at": "2026-10-24"
+ },
+ "n-3efd45843c": {
+  "fresh": true,
+  "title": "ElevenLabs интегрирует систему ИИ-персонажей Chimera в ElevenCreative",
+  "translated_at": "2026-10-24"
+ },
+ "n-3f0a9c0170": {
+  "fresh": true,
+  "title": "Реализации ComfyUI Sol-Attn для Blackwell и Triton связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-3f35c2ca4e": {
+  "fresh": true,
+  "title": "Сигнал о доступности Qwen 3.6 Plus Preview на OpenRouter",
+  "translated_at": "2026-10-24"
+ },
+ "n-3f39baf7da": {
+  "fresh": true,
+  "title": "Опубликованы публичные ресурсы проекта UI-Mate-27B",
+  "translated_at": "2026-10-24"
+ },
+ "n-3faf75a3a8": {
+  "fresh": true,
+  "title": "Зафиксирован маршрут доступа к превью Lyria 3 Pro",
+  "translated_at": "2026-10-24"
+ },
  "n-3fedc168df": {
   "fresh": false,
   "title": "SpatialEdit-16B: тонкое пространственное редактирование изображений",
   "translated_at": null
  },
+ "n-40028a6fe7": {
+  "fresh": true,
+  "title": "Исходный код Raon-OpenTTS, модель и справочный материал по ComfyUI были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-4003adb534": {
+  "fresh": true,
+  "title": "Демо ACE-Step 1.5 снова работает",
+  "translated_at": "2026-10-24"
+ },
+ "n-4082277aeb": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта BRDFusion",
+  "translated_at": "2026-10-24"
+ },
  "n-40f1573a5d": {
-  "fresh": false,
-  "title": "Map2World: генерация 3D-мира из сегментной карты и текста",
-  "translated_at": null
+  "fresh": true,
+  "title": "Map2World: генерация 3D-миров из текста с условием на карту сегментов",
+  "translated_at": "2026-10-24"
+ },
+ "n-412ff5547f": {
+  "fresh": true,
+  "title": "Google представила Gemini 3.7 Flash для AI Studio",
+  "translated_at": "2026-10-24"
+ },
+ "n-4148509833": {
+  "fresh": true,
+  "title": "GLM-5.3-Flash представлена вместе со ссылками на официальную модель и документацию",
+  "translated_at": "2026-10-24"
+ },
+ "n-4176893fdd": {
+  "fresh": true,
+  "title": "Исследование, код и модельные ресурсы PiD стали публично доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-4177cab2fa": {
+  "fresh": true,
+  "title": "Ресурсы проекта V-RAE были добавлены по ссылкам",
+  "translated_at": "2026-10-24"
  },
  "n-41c999d507": {
   "fresh": false,
   "title": "ComfyUI_SenseNova_U1: кастомные ноды для мультимодальных моделей",
   "translated_at": null
  },
+ "n-42aacd4f9b": {
+  "fresh": true,
+  "title": "Запись о запуске платформы Omma",
+  "translated_at": "2026-10-24"
+ },
+ "n-43108a28d7": {
+  "fresh": true,
+  "title": "Ссылки на модель и тестовый Space на Hugging Face для Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+  "translated_at": "2026-10-24"
+ },
+ "n-443c254b7f": {
+  "fresh": true,
+  "title": "Страница модели LTX-2.3-Foley-LoRA зафиксирована",
+  "translated_at": "2026-10-24"
+ },
  "n-44592b77d5": {
   "fresh": false,
   "title": "Tuna-2: эмбеддинги пикселей обходят vision-энкодеры",
   "translated_at": null
+ },
+ "n-447fbd2c0e": {
+  "fresh": true,
+  "title": "arXiv-препринт описывает архитектуру WorldStream и постоянную мировую запись",
+  "translated_at": "2026-10-24"
  },
  "n-44b3b570af": {
   "fresh": false,
@@ -425,14 +1355,24 @@
   "translated_at": null
  },
  "n-44c547a245": {
-  "fresh": false,
-  "title": "OpenHarness: лёгкая мульти-агентная инфраструктура для LLM",
-  "translated_at": null
+  "fresh": true,
+  "title": "OpenHarness: лёгкая инфраструктура мультиагентных систем для LLM",
+  "translated_at": "2026-10-24"
+ },
+ "n-4514941672": {
+  "fresh": true,
+  "title": "Репозиторий pdf-inspector, упомянутый в обсуждении Firecrawl",
+  "translated_at": "2026-10-24"
  },
  "n-461304d95b": {
   "fresh": false,
   "title": "ReconViaGen: точная многоракурсная 3D-реконструкция через генерацию",
   "translated_at": null
+ },
+ "n-4621bd0727": {
+  "fresh": true,
+  "title": "Ресурсы проекта VocalRender стали доступны",
+  "translated_at": "2026-10-24"
  },
  "n-464a2f9508": {
   "fresh": false,
@@ -440,19 +1380,59 @@
   "translated_at": null
  },
  "n-4694b833dd": {
-  "fresh": false,
+  "fresh": true,
   "title": "Pi-HOC: попарный 3D-контакт человека и объекта",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-4697df47f5": {
-  "fresh": false,
-  "title": "Token Warping для понимания ракурса в MLLM",
-  "translated_at": null
+  "fresh": true,
+  "title": "Token Warping для понимания точек зрения в MLLM",
+  "translated_at": "2026-10-24"
+ },
+ "n-477068c864": {
+  "fresh": true,
+  "title": "Компания H Company выпустила модель Holo3",
+  "translated_at": "2026-10-24"
+ },
+ "n-49188c7915": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на модель NVPanoptix-3D v1.1 для Matterport3D",
+  "translated_at": "2026-10-24"
+ },
+ "n-4920069d82": {
+  "fresh": true,
+  "title": "Unsloth публикует инструкцию по fine-tuning GPT-OSS",
+  "translated_at": "2026-10-24"
  },
  "n-492f7ebf1e": {
-  "fresh": false,
-  "title": "TheBurgstall LTX-2.3 Body Positivity LoRA",
-  "translated_at": null
+  "fresh": true,
+  "title": "LoRA TheBurgstall для LTX-2.3 про body positivity",
+  "translated_at": "2026-10-24"
+ },
+ "n-4941701283": {
+  "fresh": true,
+  "title": "Датированная ссылка на workflow в Comfy для VFX-проходов",
+  "translated_at": "2026-10-24"
+ },
+ "n-4947cd82cc": {
+  "fresh": true,
+  "title": "Ресурсы проекта OpenMAIC, упомянутые в публикации",
+  "translated_at": "2026-10-24"
+ },
+ "n-497d40e909": {
+  "fresh": true,
+  "title": "Ресурсы VideoCoCo на GitHub и Hugging Face зафиксированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-498f6ed5c2": {
+  "fresh": true,
+  "title": "Справочная ссылка на репозиторий Visa Vulnerability Agentic Harness",
+  "translated_at": "2026-10-24"
+ },
+ "n-49a53e09e5": {
+  "fresh": true,
+  "title": "Репозиторий Hugging Face, связанный с Qwen3.8-27B-Uncensored-MLX",
+  "translated_at": "2026-10-24"
  },
  "n-49a6616381": {
   "fresh": false,
@@ -465,79 +1445,204 @@
   "translated_at": null
  },
  "n-49e8a26e33": {
-  "fresh": false,
-  "title": "flova.ai: AI-видеоагент на базе Seedance 2.0",
-  "translated_at": null
+  "fresh": true,
+  "title": "flova.ai: AI-агент для создания видео на базе Seedance 2.0",
+  "translated_at": "2026-10-24"
+ },
+ "n-49f80a3add": {
+  "fresh": true,
+  "title": "Репозиторий Whisper-Podlodka-Turbo на Hugging Face получил ссылку",
+  "translated_at": "2026-10-24"
  },
  "n-4a638abcfe": {
   "fresh": false,
   "title": "SenseNova-U1: унифицированный мультимодальный ИИ с NEO-unify",
   "translated_at": null
  },
+ "n-4a97c79072": {
+  "fresh": true,
+  "title": "Опубликованы ссылки на репозиторий и демо See-through",
+  "translated_at": "2026-10-24"
+ },
+ "n-4aa029af73": {
+  "fresh": true,
+  "title": "LMX-Omni-52B-Halo была связана с её репозиторием моделей на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-4b181dadc0": {
+  "fresh": true,
+  "title": "Опубликована страница проекта F⁴Splat",
+  "translated_at": "2026-10-24"
+ },
+ "n-4b652bcc77": {
+  "fresh": true,
+  "title": "Stripe, по сообщениям, была близка к покупке OpenRouter за более чем 7 млрд долларов",
+  "translated_at": "2026-10-24"
+ },
  "n-4bbad7fe81": {
   "fresh": false,
   "title": "Ltx2.3-VBVR: LoRA визуального рассуждения для LTX-Video",
   "translated_at": null
  },
+ "n-4bbbd17d1b": {
+  "fresh": true,
+  "title": "Публичная страница проекта AnyTop и репозиторий были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-4cb69e9202": {
+  "fresh": true,
+  "title": "Зафиксированы публичные ссылки на проект JoyAI-Video-Edit",
+  "translated_at": "2026-10-24"
+ },
+ "n-4d771e5e60": {
+  "fresh": true,
+  "title": "Оверлей-мем ItsGiving для веб-камеры с калиброванным определением v2",
+  "translated_at": "2026-10-24"
+ },
+ "n-4e2f708bcc": {
+  "fresh": true,
+  "title": "Публичный эндпоинт Tutu MCP упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-4ea5eb69ba": {
+  "fresh": true,
+  "title": "Anthropic опубликовала новостное объявление о Claude Opus 5",
+  "translated_at": "2026-10-24"
+ },
+ "n-4eb63d4caf": {
+  "fresh": true,
+  "title": "ggml-org опубликовала GGUF-сборку Qwen3-TTS-12Hz-1.7B-Base",
+  "translated_at": "2026-10-24"
+ },
+ "n-4ed3ebfa1c": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта AnyFlow",
+  "translated_at": "2026-10-24"
+ },
+ "n-4ef65aa7f6": {
+  "fresh": true,
+  "title": "FINAL-Bench опубликовал линейку моделей POCKET-35B-GGUF",
+  "translated_at": "2026-10-24"
+ },
+ "n-4f107b5ebf": {
+  "fresh": true,
+  "title": "Ссылка на Hugging Face для линейки моделей GGUF зафиксирована",
+  "translated_at": "2026-10-24"
+ },
+ "n-4fb87f050c": {
+  "fresh": true,
+  "title": "Ресурсы Wan-Animate-2 зафиксированы в каналах проекта, модели и ComfyUI",
+  "translated_at": "2026-10-24"
+ },
  "n-501487aec4": {
-  "fresh": false,
-  "title": "ComfyUI Yedp Action Director — композитор 3D-сцен",
-  "translated_at": null
+  "fresh": true,
+  "title": "ComfyUI Yedp Action Director — 3D-компоновщик сцен",
+  "translated_at": "2026-10-24"
  },
  "n-511353336a": {
-  "fresh": false,
-  "title": "KupkaProd Cinema Pipeline: локальная агентная AI-киностудия",
-  "translated_at": null
+  "fresh": true,
+  "title": "KupkaProd Cinema Pipeline: локальная агентная студия AI-кино",
+  "translated_at": "2026-10-24"
+ },
+ "n-51a9d6c3d6": {
+  "fresh": true,
+  "title": "Ресурсы проекта StreamFM опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-520de897dc": {
+  "fresh": true,
+  "title": "На репозиторий braindb на GitHub была публично оставлена ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-525a6be75a": {
-  "fresh": false,
+  "fresh": true,
   "title": "EMF: расширение одношаговой генерации изображений (Alibaba)",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-52e566a651": {
   "fresh": false,
   "title": "LumiVid: генерация видео SDR-в-HDR через LTX-Video 2.3",
   "translated_at": null
  },
+ "n-5319c89cd3": {
+  "fresh": true,
+  "title": "Ссылка на исходный репозиторий HuggingFace VFS Plugin",
+  "translated_at": "2026-10-24"
+ },
+ "n-5353f88f44": {
+  "fresh": true,
+  "title": "FLUX 3 упомянут на нескольких продуктовых страницах Black Forest Labs",
+  "translated_at": "2026-10-24"
+ },
  "n-535631e71f": {
-  "fresh": false,
+  "fresh": true,
   "title": "AI4AnimationPy: Python-фреймворк для интеллектуальной анимации персонажей",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-541dc74a2e": {
-  "fresh": false,
-  "title": "Foresyn AI: предсказатель виральности для HackerNews",
-  "translated_at": null
+  "fresh": true,
+  "title": "Предсказатель вирусности на HackerNews от Foresyn AI",
+  "translated_at": "2026-10-24"
+ },
+ "n-54505b5f46": {
+  "fresh": true,
+  "title": "Ресурсы Hugging Face по голосовому ИИ в реальном времени были собраны воедино",
+  "translated_at": "2026-10-24"
  },
  "n-545c4e25d2": {
-  "fresh": false,
-  "title": "Hugging Face Kernels Hub для оптимизации GPU",
-  "translated_at": null
+  "fresh": true,
+  "title": "Kernels Hub от Hugging Face для оптимизации на GPU",
+  "translated_at": "2026-10-24"
  },
  "n-545f242033": {
   "fresh": false,
   "title": "Clad Size-aware: 3D-сканирование тела для виртуальной примерки",
   "translated_at": null
  },
+ "n-549e91e1c0": {
+  "fresh": true,
+  "title": "Артефакты Nemotron 3 Ultra 550B A55B стали доступны в нескольких форматах",
+  "translated_at": "2026-10-24"
+ },
+ "n-551508ee8c": {
+  "fresh": true,
+  "title": "Опубликована страница проекта NeumaTex",
+  "translated_at": "2026-10-24"
+ },
  "n-553243c913": {
   "fresh": false,
   "title": "RotorQuant: сжатие KV-кэша блочно-диагональными роторами Клиффорда",
   "translated_at": null
  },
+ "n-5540a93cb5": {
+  "fresh": true,
+  "title": "Seed Audio 1.0 упомянута со ссылкой на страницу модели на fal.ai",
+  "translated_at": "2026-10-24"
+ },
  "n-55968207e4": {
-  "fresh": false,
-  "title": "PixelSmile для ComfyUI: точное управление мимикой лица",
-  "translated_at": null
+  "fresh": true,
+  "title": "PixelSmile для ComfyUI: точное управление выражением лица",
+  "translated_at": "2026-10-24"
+ },
+ "n-55b05978df": {
+  "fresh": true,
+  "title": "Сообщения описывают инцидент с неожиданными списаниями, связанный с Claude Code",
+  "translated_at": "2026-10-24"
  },
  "n-55db199d87": {
-  "fresh": false,
-  "title": "FlowInOne: унифицированная vision-centric мультимодальная генерация и редактирование изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "FlowInOne: унифицированная визуально-ориентированная мультимодальная генерация и редактирование изображений",
+  "translated_at": "2026-10-24"
  },
  "n-57264ece04": {
-  "fresh": false,
+  "fresh": true,
   "title": "LTX-2.3 22B IC-LoRA ReFocus: инструмент восстановления видео",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-57b1c93e50": {
+  "fresh": true,
+  "title": "Представлен Unsloth Desktop",
+  "translated_at": "2026-10-24"
  },
  "n-58129455d1": {
   "fresh": false,
@@ -545,14 +1650,34 @@
   "translated_at": null
  },
  "n-58225bc7d0": {
-  "fresh": false,
+  "fresh": true,
   "title": "Spectrum: адаптивное спектральное прогнозирование признаков для ускорения диффузии",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-589c676a0a": {
+  "fresh": true,
+  "title": "Выпущен Qwen-Image-Edit-2511",
+  "translated_at": "2026-10-24"
+ },
+ "n-594cd03215": {
+  "fresh": true,
+  "title": "Ресурсы проекта Mage-Flow стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-595169f554": {
+  "fresh": true,
+  "title": "CanAI: локальная студия генеративного ИИ с бесконечным холстом опубликована на GitHub",
+  "translated_at": "2026-10-24"
  },
  "n-596ffa06da": {
   "fresh": false,
   "title": "ACE-Step 1.5 XL",
   "translated_at": null
+ },
+ "n-599684b34f": {
+  "fresh": true,
+  "title": "Google представила превью Gemini 3.5 Live Translate",
+  "translated_at": "2026-10-24"
  },
  "n-5ac53c2267": {
   "fresh": false,
@@ -560,9 +1685,14 @@
   "translated_at": null
  },
  "n-5ade5d658c": {
-  "fresh": false,
+  "fresh": true,
   "title": "Open Generative AI (ранее Open Higgsfield AI)",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-5b5558fedd": {
+  "fresh": true,
+  "title": "Репозитории ThinkingCap-Qwen3.6-27B и варианты развёртывания связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-5b56fca93a": {
   "fresh": false,
@@ -575,149 +1705,549 @@
   "translated_at": null
  },
  "n-5cac0a3186": {
-  "fresh": false,
-  "title": "Luma Agents: мультимодальные ИИ-соавторы для творческих задач",
-  "translated_at": null
+  "fresh": true,
+  "title": "Luma Agents: мультимодальные ИИ-соратники для креативной работы",
+  "translated_at": "2026-10-24"
+ },
+ "n-5cbb79d999": {
+  "fresh": true,
+  "title": "Репозиторий SIMART на Hugging Face упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-5cd28a2bd1": {
+  "fresh": true,
+  "title": "Для проекта ReChannel были указаны ресурсы",
+  "translated_at": "2026-10-24"
  },
  "n-5d03d1bfa4": {
-  "fresh": false,
-  "title": "LongCat-Next: нативная мультимодальная MoE-модель",
-  "translated_at": null
+  "fresh": true,
+  "title": "LongCat-Next: нативная мультимодальная MoE-модель ИИ",
+  "translated_at": "2026-10-24"
+ },
+ "n-5d526ba827": {
+  "fresh": true,
+  "title": "Опубликованы статья и код d-OPSD: ссылки на исследование и репозиторий",
+  "translated_at": "2026-10-24"
+ },
+ "n-5d5fa885b6": {
+  "fresh": true,
+  "title": "Опубликованы материалы проекта DreamVideo-Omni",
+  "translated_at": "2026-10-24"
  },
  "n-5d75a2276e": {
   "fresh": false,
   "title": "Seeduplex: full-duplex голосовая модель от ByteDance",
   "translated_at": null
  },
+ "n-5d775dee1a": {
+  "fresh": true,
+  "title": "Ресурсы Qwen3.8-27B на Hugging Face зафиксированы",
+  "translated_at": "2026-10-24"
+ },
  "n-5db7fa704b": {
-  "fresh": false,
+  "fresh": true,
   "title": "World-R1: усиление 3D-ограничений для генерации видео",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-5dc5be210a": {
+  "fresh": true,
+  "title": "На репозиторий PackForcing на GitHub сослались",
+  "translated_at": "2026-10-24"
  },
  "n-5e1a256a5e": {
-  "fresh": false,
-  "title": "Happy Oyster: интерактивная ИИ-модель мира от Alibaba в реальном времени",
-  "translated_at": null
+  "fresh": true,
+  "title": "Happy Oyster: интерактивная модель мира от Alibaba для генерации в реальном времени",
+  "translated_at": "2026-10-24"
  },
  "n-5e356466d0": {
-  "fresh": false,
-  "title": "AURA — постоянное понимание и помощь в реальном времени",
-  "translated_at": null
+  "fresh": true,
+  "title": "AURA — Always-On Understanding and Real-Time Assistance",
+  "translated_at": "2026-10-24"
+ },
+ "n-5e3859fa47": {
+  "fresh": true,
+  "title": "Код и веса SANA-Video опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-5e92efec32": {
   "fresh": false,
   "title": "Baidu ERNIE 5.1: большая языковая модель",
   "translated_at": null
  },
+ "n-5ee5b179bf": {
+  "fresh": true,
+  "title": "Страница проекта UniD и исходный репозиторий стали публично доступны по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-5efefc3953": {
+  "fresh": true,
+  "title": "GLM-5.2-NVFP4 привязана к странице модели NVIDIA на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-5f36799f6d": {
-  "fresh": false,
-  "title": "Matrix-Game 3.0: интерактивная world-модель от Skywork AI",
-  "translated_at": null
+  "fresh": true,
+  "title": "Matrix-Game 3.0: интерактивная модель мира от Skywork AI",
+  "translated_at": "2026-10-24"
+ },
+ "n-5f58046d55": {
+  "fresh": true,
+  "title": "На ресурсы проекта Surflo сослались в связи с реконструкцией 3D-поверхностей",
+  "translated_at": "2026-10-24"
+ },
+ "n-5fb7b8ba70": {
+  "fresh": true,
+  "title": "TensorForger опубликовал ресурсы Flow Upscaler для ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-60ec620b9e": {
+  "fresh": true,
+  "title": "Проект OpenResearcher, чекпоинт модели и демо стали доступны",
+  "translated_at": "2026-10-24"
  },
  "n-60f7bb3300": {
-  "fresh": false,
-  "title": "Реконструкция поверхности Луны через 3DGS (NASA Artemis II)",
-  "translated_at": null
+  "fresh": true,
+  "title": "3DGS-реконструкция поверхности Луны (NASA Artemis II)",
+  "translated_at": "2026-10-24"
+ },
+ "n-612fbb9ad1": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта CameraAnything",
+  "translated_at": "2026-10-24"
+ },
+ "n-61589d5fc9": {
+  "fresh": true,
+  "title": "KIRI Engine показала в открытом доступе репозиторий GitHub для плагина Gaussian Splatting",
+  "translated_at": "2026-10-24"
  },
  "n-61c8c02fec": {
-  "fresh": false,
-  "title": "Nvidia Kimodo: кинематическая диффузия движений для 3D-анимации",
-  "translated_at": null
+  "fresh": true,
+  "title": "Nvidia Kimodo: кинематическая диффузионная модель движения для 3D-анимации",
+  "translated_at": "2026-10-24"
+ },
+ "n-61e3cf03ac": {
+  "fresh": true,
+  "title": "На публичные ресурсы проекта LingBot-Video были даны ссылки",
+  "translated_at": "2026-10-24"
+ },
+ "n-625a62d5de": {
+  "fresh": true,
+  "title": "Adobe представила Firefly Graph",
+  "translated_at": "2026-10-24"
+ },
+ "n-632e606b02": {
+  "fresh": true,
+  "title": "Сообщалось о покупке Midjourney компании Co–Star",
+  "translated_at": "2026-10-24"
+ },
+ "n-63310818df": {
+  "fresh": true,
+  "title": "2 июля 2026 года Onklaud 5 была связана с публичным репозиторием на GitHub",
+  "translated_at": "2026-10-24"
  },
  "n-637b9d18ed": {
-  "fresh": false,
-  "title": "D-OPSD: непрерывное дообучение step-distilled диффузионных моделей",
-  "translated_at": null
+  "fresh": true,
+  "title": "D-OPSD: непрерывное дообучение дистиллированных по шагам диффузионных моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-6398af54be": {
+  "fresh": true,
+  "title": "Ideogram 4: исходный код, варианты моделей и интеграция с ComfyUI зафиксированы",
+  "translated_at": "2026-10-24"
  },
  "n-63cbd51a4a": {
-  "fresh": false,
-  "title": "Multica: open-source платформа для управления AI-агентами",
-  "translated_at": null
+  "fresh": true,
+  "title": "Multica: открытая платформа для управления AI-агентами",
+  "translated_at": "2026-10-24"
+ },
+ "n-63fc70b541": {
+  "fresh": true,
+  "title": "На артефакт рабочего процесса SynthID-Bypass v2.0 появилась ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-64094eafae": {
-  "fresh": false,
+  "fresh": true,
   "title": "LLaDA2.0-Uni: объединение мультимодального понимания и генерации",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-648054221f": {
+  "fresh": true,
+  "title": "Страница проекта и репозиторий DRIFT были опубликованы по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-64c52eaf4d": {
+  "fresh": true,
+  "title": "Liquid AI выпустила LFM2.5-VL-3B",
+  "translated_at": "2026-10-24"
+ },
+ "n-64db3725b4": {
+  "fresh": true,
+  "title": "Страница модели на Civitai, опубликованная в ветке разработки Ace Step",
+  "translated_at": "2026-10-24"
+ },
+ "n-6504693e58": {
+  "fresh": true,
+  "title": "Ресурсы проекта ONYX Ai Matte были связаны",
+  "translated_at": "2026-10-24"
  },
  "n-6562acabdd": {
   "fresh": false,
   "title": "Happy Horse 1.0: единая модель генерации видео и аудио",
   "translated_at": null
  },
+ "n-65c8f1b873": {
+  "fresh": true,
+  "title": "ByteDance опубликовала ресурс EvoQuality на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-6607af2693": {
+  "fresh": true,
+  "title": "Зафиксирован ресурс модели TSANTSALIZE на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-661e84940d": {
-  "fresh": false,
-  "title": "Кастомные ноды OmniVoice для ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "Пользовательские ноды OmniVoice для ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-6624131df0": {
+  "fresh": true,
+  "title": "Зафиксированы публичные ресурсы проекта Causal Forcing++",
+  "translated_at": "2026-10-24"
  },
  "n-662ab03ff4": {
-  "fresh": false,
-  "title": "Фреймворк Open Multi-Agent (OMA)",
-  "translated_at": null
+  "fresh": true,
+  "title": "Open Multi-Agent (OMA) Framework",
+  "translated_at": "2026-10-24"
  },
  "n-665b60a4fc": {
-  "fresh": false,
-  "title": "OmniVoice: мультиязычный TTS и zero-shot клонирование голоса",
-  "translated_at": null
+  "fresh": true,
+  "title": "OmniVoice: многоязычный TTS и клонирование голоса без обучения на примерах (zero-shot)",
+  "translated_at": "2026-10-24"
+ },
+ "n-66869cc4a0": {
+  "fresh": true,
+  "title": "ElevenLabs добавляет Instant Soundtracks для загружённого видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-66988bb8af": {
+  "fresh": true,
+  "title": "Anthropic вступила в Blender Development Fund в качестве корпоративного патрона",
+  "translated_at": "2026-10-24"
+ },
+ "n-66b11f2c1c": {
+  "fresh": true,
+  "title": "FedorAiToolkit был связан с репозиторием bodyrec",
+  "translated_at": "2026-10-24"
+ },
+ "n-6705e4929b": {
+  "fresh": true,
+  "title": "Зафиксированы ресурсы проекта LuxTTS",
+  "translated_at": "2026-10-24"
+ },
+ "n-675f824e2a": {
+  "fresh": true,
+  "title": "Линия z-image-turbo-sda связана с репозиторием модели на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-676d66ea41": {
+  "fresh": true,
+  "title": "DMX был публично представлен как формат сжатия весов ИИ-моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-67e41ba5ae": {
+  "fresh": true,
+  "title": "Справочная ссылка на репозиторий ComfyUI StreetView-Loader",
+  "translated_at": "2026-10-24"
+ },
+ "n-68299e89f1": {
+  "fresh": true,
+  "title": "Freepik связан с ресурсами генерации видео Seedance 2.0",
+  "translated_at": "2026-10-24"
+ },
+ "n-687a924683": {
+  "fresh": true,
+  "title": "GitLab выпустила обновления безопасности для критической уязвимости удалённого выполнения кода",
+  "translated_at": "2026-10-24"
+ },
+ "n-68b3b1fae6": {
+  "fresh": true,
+  "title": "Cohere опубликовала ресурсы модели Cohere Transcribe",
+  "translated_at": "2026-10-24"
+ },
+ "n-690d423e11": {
+  "fresh": true,
+  "title": "Исправление расхождения в количестве статей и статистике",
+  "translated_at": "2026-10-24"
+ },
+ "n-69431eb7bc": {
+  "fresh": true,
+  "title": "Unsloth опубликовал руководство по файнтюнингу Qwen3.5",
+  "translated_at": "2026-10-24"
  },
  "n-694e3b1cf5": {
-  "fresh": false,
-  "title": "Sonilo: ИИ-генерация музыки по видео для создателей контента",
-  "translated_at": null
+  "fresh": true,
+  "title": "Sonilo: генерация музыки по видео для создателей контента",
+  "translated_at": "2026-10-24"
  },
  "n-69cc1d969e": {
-  "fresh": false,
+  "fresh": true,
   "title": "LTX-2.3 EditAnything IC-LoRA",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-69ec3b0aaa": {
+  "fresh": true,
+  "title": "NVILA-HD-Video представлена вместе с исходным кодом, моделью и сопутствующими демо-ресурсами",
+  "translated_at": "2026-10-24"
  },
  "n-6a0618307a": {
-  "fresh": false,
-  "title": "Nemotron-OCR v2: мультиязычная система анализа документов от NVIDIA",
-  "translated_at": null
+  "fresh": true,
+  "title": "Nemotron-OCR v2: мультиязычная система интеллектуального анализа документов от NVIDIA",
+  "translated_at": "2026-10-24"
+ },
+ "n-6a43f5da48": {
+  "fresh": true,
+  "title": "Сообщалось, что компания 360 Security Technology разработала систему ИИ для кибербезопасности",
+  "translated_at": "2026-10-24"
+ },
+ "n-6a470bac38": {
+  "fresh": true,
+  "title": "Стала доступна INT8-версия чекпоинта Flux2-Klein и интеграция с ComfyUI",
+  "translated_at": "2026-10-24"
  },
  "n-6a60e32785": {
   "fresh": false,
   "title": "Qwen 3.6 Plus",
   "translated_at": null
  },
+ "n-6ab0eb34ad": {
+  "fresh": true,
+  "title": "Репозиторий исходного кода S3T-Former был опубликован",
+  "translated_at": "2026-10-24"
+ },
+ "n-6ada41074f": {
+  "fresh": true,
+  "title": "Публичная страница проекта CausalCine зафиксирована",
+  "translated_at": "2026-10-24"
+ },
+ "n-6ae44b1607": {
+  "fresh": true,
+  "title": "Ссылки на ресурсы для настройки ComfyUI-PuLID-Flux2 были опубликованы",
+  "translated_at": "2026-10-24"
+ },
  "n-6b3a93f373": {
-  "fresh": false,
+  "fresh": true,
   "title": "VibeComfy 2.0: агентный Python-интерфейс для ComfyUI",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-6b5646e730": {
+  "fresh": true,
+  "title": "Qwen Code выходит в версии v0.22.2 с учётом актуальных условий работы провайдеров",
+  "translated_at": "2026-10-24"
+ },
+ "n-6b8983b2a2": {
+  "fresh": true,
+  "title": "Страница проекта KVPO и исходный репозиторий стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-6bd85df8ed": {
+  "fresh": true,
+  "title": "Зафиксированы ссылки на исходный код и модель Fast-FoundationStereo",
+  "translated_at": "2026-10-24"
+ },
+ "n-6c34648459": {
+  "fresh": true,
+  "title": "Проект JoyAI-VL-Interaction и исходный репозиторий стали публично связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-6cdd78c533": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Agents-A1 опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-6d1e8777ce": {
+  "fresh": true,
+  "title": "Зафиксированы исходный код и модель EVA",
+  "translated_at": "2026-10-24"
+ },
+ "n-6d500875d2": {
+  "fresh": true,
+  "title": "NVIDIA опубликовала анонсы GeForce RTX для GDC 2026",
+  "translated_at": "2026-10-24"
+ },
+ "n-6d8dc4435a": {
+  "fresh": true,
+  "title": "Ссылка на Civitai зафиксирована для LoRA Krea2 TextFusion Refusal-Reduction",
+  "translated_at": "2026-10-24"
  },
  "n-6dd8c1ff25": {
-  "fresh": false,
+  "fresh": true,
   "title": "ClawGUI: единый фреймворк для обучения и развёртывания GUI-агентов",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-6de0fad44f": {
+  "fresh": true,
+  "title": "SenseNova-Vision опубликован сразу в трёх ресурсах: код, модель и демо",
+  "translated_at": "2026-10-24"
+ },
+ "n-6e1bdb74a2": {
+  "fresh": true,
+  "title": "Опубликованы ссылки на публичный проект, исходный код и модель SAMA",
+  "translated_at": "2026-10-24"
+ },
+ "n-6e6ec9ab6b": {
+  "fresh": true,
+  "title": "Зафиксированы публичные ссылки проекта MicroZoom",
+  "translated_at": "2026-10-24"
+ },
+ "n-6eab718771": {
+  "fresh": true,
+  "title": "Qwen-Image-2512 улучшает генерацию изображений",
+  "translated_at": "2026-10-24"
+ },
+ "n-6edfc59eed": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта DomainShuttle",
+  "translated_at": "2026-10-24"
+ },
+ "n-6f05bdf264": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта CoCo опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-6f089116cf": {
+  "fresh": true,
+  "title": "Gemini получает отдельную поверхность для Mac",
+  "translated_at": "2026-10-24"
+ },
+ "n-701c94a6a1": {
+  "fresh": true,
+  "title": "На репозиторий PEARL на GitHub сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-7071875109": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта PixelSmile — проект, модель и демо — были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-70863553de": {
+  "fresh": true,
+  "title": "Линейка релизов Unsloth достигает v0.1.803-beta",
+  "translated_at": "2026-10-24"
+ },
+ "n-70c95e5ecb": {
+  "fresh": true,
+  "title": "Dots Studio опубликовала публичные ресурсы для превью dots3-note",
+  "translated_at": "2026-10-24"
  },
  "n-70e759ac2b": {
-  "fresh": false,
-  "title": "UniVidX: унифицированный мультимодальный фреймворк видео-диффузии",
-  "translated_at": null
+  "fresh": true,
+  "title": "UniVidX: унифицированный мультимодальный фреймворк видеодиффузии",
+  "translated_at": "2026-10-24"
  },
  "n-70f82f82ae": {
-  "fresh": false,
-  "title": "C-MET: кросс-модальный перенос эмоций для talking face видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "C-MET: кросс-модальный перенос эмоций для видео с говорящим лицом",
+  "translated_at": "2026-10-24"
+ },
+ "n-7150bbd771": {
+  "fresh": true,
+  "title": "Опубликован IC LoRA для relighting на базе LTX-2.3 22B",
+  "translated_at": "2026-10-24"
+ },
+ "n-715fbe9451": {
+  "fresh": true,
+  "title": "Страница исследований Hyra и форма обратной связи были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-721afd6a19": {
+  "fresh": true,
+  "title": "Публичная ссылка на репозиторий Anydoc",
+  "translated_at": "2026-10-24"
+ },
+ "n-7254e49ce8": {
+  "fresh": true,
+  "title": "Bonsai Image 4B стал доступен через ресурсы Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-7290230618": {
+  "fresh": true,
+  "title": "Публичное демо X-Voice и ссылка на репозиторий с исходным кодом",
+  "translated_at": "2026-10-24"
+ },
+ "n-7314a6bcc8": {
+  "fresh": true,
+  "title": "Упоминание GitHub-репозитория UPAL",
+  "translated_at": "2026-10-24"
+ },
+ "n-7322929b10": {
+  "fresh": true,
+  "title": "Распространение Splatlight через маркетплейсы задокументировано",
+  "translated_at": "2026-10-24"
+ },
+ "n-7328495c92": {
+  "fresh": true,
+  "title": "Репозиторий OrbitSheets на GitHub, указанный в ветке разработки",
+  "translated_at": "2026-10-24"
+ },
+ "n-7340bf1aad": {
+  "fresh": true,
+  "title": "Ссылка на репозиторий ComfyUI-PixelDriftFix",
+  "translated_at": "2026-10-24"
  },
  "n-73d2d5938e": {
-  "fresh": false,
-  "title": "Superset — оркестратор для параллельной работы AI-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "Superset: параллельный оркестратор AI-агентов",
+  "translated_at": "2026-10-24"
  },
  "n-73e5608506": {
-  "fresh": false,
-  "title": "Memory Transfer Learning (MTL) для ИИ-агентов кодинга",
-  "translated_at": null
+  "fresh": true,
+  "title": "Memory Transfer Learning (MTL) для ИИ-агентов в программировании",
+  "translated_at": "2026-10-24"
  },
  "n-73e8b27cb3": {
   "fresh": false,
   "title": "Assistant_Pepe_32B: человекоцентричный творческий файнтюн Qwen-3",
   "translated_at": null
  },
+ "n-740438cbeb": {
+  "fresh": true,
+  "title": "Анонс Seedream 5.0 Pro",
+  "translated_at": "2026-10-24"
+ },
+ "n-75171cd2c8": {
+  "fresh": true,
+  "title": "Опубликованы официальная страница модели и ссылки на приложение LTX-2.5",
+  "translated_at": "2026-10-24"
+ },
+ "n-75473141c2": {
+  "fresh": true,
+  "title": "Опубликованы публичная страница проекта UEmbed, исходный код и ресурсы UEmbed-9B",
+  "translated_at": "2026-10-24"
+ },
+ "n-75510d5219": {
+  "fresh": true,
+  "title": "MatrAIx Persona 8B получила публичное упоминание с инструкцией по быстрому старту для визуальной песочницы",
+  "translated_at": "2026-10-24"
+ },
+ "n-75651b6d80": {
+  "fresh": true,
+  "title": "Lightricks опубликовала страницу модели LTX-2.3 IC-LoRA Ingredients",
+  "translated_at": "2026-10-24"
+ },
+ "n-756794e690": {
+  "fresh": true,
+  "title": "На репозиторий MiniMax H3 Extender сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-75eec0b102": {
+  "fresh": true,
+  "title": "Зафиксированы публичные ресурсы проекта WavTTS",
+  "translated_at": "2026-10-24"
+ },
  "n-768295e164": {
-  "fresh": false,
-  "title": "Xiaomi MiMo V2.5: омнимодальные reasoning-модели",
-  "translated_at": null
+  "fresh": true,
+  "title": "Омнимодальные модели для рассуждений Xiaomi MiMo V2.5",
+  "translated_at": "2026-10-24"
  },
  "n-76a6e0d291": {
   "fresh": false,
@@ -725,49 +2255,219 @@
   "translated_at": null
  },
  "n-76eee2c69c": {
-  "fresh": false,
-  "title": "Echo-2: генерация 3D-мира от SpAItial AI",
-  "translated_at": null
+  "fresh": true,
+  "title": "Echo-2: SpAItial AI 3D World Generation",
+  "translated_at": "2026-10-24"
+ },
+ "n-77aec57904": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Penguin-VL стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-77f1dd74e4": {
+  "fresh": true,
+  "title": "Disney Research описала интерактивное генеративное редактирование движения с помощью планируемого инпейнтинга",
+  "translated_at": "2026-10-24"
+ },
+ "n-782f0991a7": {
+  "fresh": true,
+  "title": "Публичная веб-точка Doodles Stoodio зафиксирована",
+  "translated_at": "2026-10-24"
+ },
+ "n-78395026cf": {
+  "fresh": true,
+  "title": "Зафиксированы ссылки на модель OvisOCR2 на Hugging Face и демо",
+  "translated_at": "2026-10-24"
  },
  "n-78a59b56b6": {
-  "fresh": false,
+  "fresh": true,
   "title": "PersonaVLM: персонализированные мультимодальные большие языковые модели",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-78ccc63365": {
-  "fresh": false,
-  "title": "Awesome Russian Speech: ресурсы по русским речевым технологиям",
-  "translated_at": null
+  "fresh": true,
+  "title": "Awesome Russian Speech: Russian Speech Technology Resources",
+  "translated_at": "2026-10-24"
+ },
+ "n-78d5e0b6be": {
+  "fresh": true,
+  "title": "ReDesign был связан с публичным сайтом проекта и репозиторием",
+  "translated_at": "2026-10-24"
+ },
+ "n-78f83be264": {
+  "fresh": true,
+  "title": "Публичные сведения о WAN Skills недоступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-79465fc2da": {
+  "fresh": true,
+  "title": "На репозиторий ComfyUI Model Resolver публично сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-7970b35444": {
+  "fresh": true,
+  "title": "Sousaku AI опубликовала страницы модели и создания видео для Hotgen Video V5",
+  "translated_at": "2026-10-24"
+ },
+ "n-7aa1f96c36": {
+  "fresh": true,
+  "title": "Публичный репозиторий ComfyUI Skill на GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-7abe53781e": {
+  "fresh": true,
+  "title": "xAI анонсировала Grok 4.6",
+  "translated_at": "2026-10-24"
+ },
+ "n-7ac4fa4583": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Boogu-Image опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-7bd01d988c": {
+  "fresh": true,
+  "title": "4 августа 2026 года QuerySplat была связана со своим сайтом проекта, репозиторием на GitHub и страницей на Hugging Face.",
+  "translated_at": "2026-10-24"
+ },
+ "n-7bf964cae8": {
+  "fresh": true,
+  "title": "Страница модели Baseten GLM-5.2-Vision-NVFP4 появилась в открытом доступе",
+  "translated_at": "2026-10-24"
+ },
+ "n-7c1c23a9d1": {
+  "fresh": true,
+  "title": "Справочная ссылка на репозиторий PyPI Wheel Downloader",
+  "translated_at": "2026-10-24"
  },
  "n-7c1f689c14": {
-  "fresh": false,
-  "title": "UniGeo: редактирование изображений с управлением камерой через видеомодели",
-  "translated_at": null
+  "fresh": true,
+  "title": "UniGeo: редактирование изображений с управлением камерой на основе видеомоделей",
+  "translated_at": "2026-10-24"
  },
  "n-7cc366b545": {
-  "fresh": false,
+  "fresh": true,
   "title": "OpenGame: открытый агентный кодинг для веб-игр",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-7d096b306e": {
+  "fresh": true,
+  "title": "Ссылка на Hugging Face для Wan2.2-NVFP4-Sparse",
+  "translated_at": "2026-10-24"
+ },
+ "n-7d2c69bfe3": {
+  "fresh": true,
+  "title": "DeerFlow 2.0 стал доступен через официальный сайт, рабочее пространство и репозиторий",
+  "translated_at": "2026-10-24"
  },
  "n-7d8614adad": {
-  "fresh": false,
-  "title": "HiDream-O1-Image: унифицированный 8B-трансформер в пиксельном пространстве",
-  "translated_at": null
+  "fresh": true,
+  "title": "HiDream-O1-Image: унифицированный пиксельный трансформер на 8B параметров",
+  "translated_at": "2026-10-24"
+ },
+ "n-7dc01702da": {
+  "fresh": true,
+  "title": "Seedance 2.0 упомянута в материалах ModelArk по генерации видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-7dca97e2c9": {
+  "fresh": true,
+  "title": "Qwythos-27B-v1 со ссылкой на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-7dd296434c": {
+  "fresh": true,
+  "title": "Эксперимент Pika Director's Suite и ссылки на MCP зафиксированы",
+  "translated_at": "2026-10-24"
  },
  "n-7de8349cd0": {
   "fresh": false,
   "title": "CosyVoice 3.0: многоязычная генерация и клонирование речи",
   "translated_at": null
  },
+ "n-7e0c4cc870": {
+  "fresh": true,
+  "title": "Страница проекта RealMaster была опубликована по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-7e2c33bcb6": {
+  "fresh": true,
+  "title": "На GitHub-репозиторий ComfyUI Model Installer сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-7e81500f3d": {
+  "fresh": true,
+  "title": "SCAIL-2 связан с публичным проектом, исходным кодом и ресурсами модели",
+  "translated_at": "2026-10-24"
+ },
  "n-7e83db4168": {
-  "fresh": false,
-  "title": "Qwen Code: автономный AI-агент для кодинга",
-  "translated_at": null
+  "fresh": true,
+  "title": "Qwen Code: автономный ИИ-агент для написания кода",
+  "translated_at": "2026-10-24"
+ },
+ "n-7f424895fc": {
+  "fresh": true,
+  "title": "На страницу статьи с описанием Z-Image Turbo++ добавлена ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-7f5e1b5d5a": {
+  "fresh": true,
+  "title": "Страница проекта RetimeGS и ресурс на Hugging Face опубликованы по ссылке",
+  "translated_at": "2026-10-24"
  },
  "n-807bf78763": {
-  "fresh": false,
-  "title": "Pika: платформа генеративного AI для видео и анимации",
-  "translated_at": null
+  "fresh": true,
+  "title": "Pika: платформа генеративного ИИ для создания видео и анимации",
+  "translated_at": "2026-10-24"
+ },
+ "n-80bd00594d": {
+  "fresh": true,
+  "title": "Ресурсы проекта ASASR были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-819b4129d7": {
+  "fresh": true,
+  "title": "Ссылка на модель Hugging Face, зафиксированная для проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-819e122ccd": {
+  "fresh": true,
+  "title": "Платформа разработчика Vidu становится документированным продуктовым каналом",
+  "translated_at": "2026-10-24"
+ },
+ "n-81ebf14eea": {
+  "fresh": true,
+  "title": "На репозиторий MetaClaw на GitHub публично сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-825557a5f2": {
+  "fresh": true,
+  "title": "Репозиторий ExpressionControl на Hugging Face получил прямую ссылку",
+  "translated_at": "2026-10-24"
+ },
+ "n-82a94d3961": {
+  "fresh": true,
+  "title": "Qwythos-9B-Claude-Mythos-5 была публично опубликована на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-82f8f06562": {
+  "fresh": true,
+  "title": "На репозиторий YaGS на GitHub сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-831457a1a0": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы Context-Matched Distillation",
+  "translated_at": "2026-10-24"
+ },
+ "n-833da82530": {
+  "fresh": true,
+  "title": "На публичные ресурсы проекта MOSS-Video-Preview приведены ссылки",
+  "translated_at": "2026-10-24"
+ },
+ "n-837f41c777": {
+  "fresh": true,
+  "title": "Для Krea2 Realism v1 зафиксированы ссылки на конкретные версии модели",
+  "translated_at": "2026-10-24"
  },
  "n-83af6888de": {
   "fresh": false,
@@ -775,29 +2475,84 @@
   "translated_at": null
  },
  "n-840bb8c6c7": {
-  "fresh": false,
-  "title": "Chandra OCR 2: open-source модель понимания документов",
-  "translated_at": null
+  "fresh": true,
+  "title": "Chandra OCR 2: открытая модель понимания документов",
+  "translated_at": "2026-10-24"
+ },
+ "n-841bc05497": {
+  "fresh": true,
+  "title": "Для EgoForce опубликованы ресурсы проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-84255b9cc3": {
+  "fresh": true,
+  "title": "Обёртка SenseNova U1 переходит на U1.5 и актуальные пути квантования",
+  "translated_at": "2026-10-24"
+ },
+ "n-84568364fd": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MagicMakeup Transfer добавлены по ссылкам",
+  "translated_at": "2026-10-24"
  },
  "n-85862dbbb3": {
   "fresh": false,
   "title": "Geo Register Plugin для сцен 3D Gaussian Splatting",
   "translated_at": null
  },
+ "n-86023c7979": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта SAM2Matting стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-86748f8e9e": {
+  "fresh": true,
+  "title": "Исходный репозиторий Colibri и модель INT4 были публично связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-86875b15aa": {
+  "fresh": true,
+  "title": "Официальные репозитории Unlimited-OCR были опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-868a3aaeef": {
+  "fresh": true,
+  "title": "Canon UltraReal была опубликована на Civitai и Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-86ce44c208": {
   "fresh": false,
   "title": "Qwen-Image-2.0-Pro",
   "translated_at": null
  },
+ "n-8719519a69": {
+  "fresh": true,
+  "title": "Зарегистрированы исходный репозиторий и публичный сайт 3DGS-PLY-3DTiles-Converter",
+  "translated_at": "2026-10-24"
+ },
+ "n-87c78ee187": {
+  "fresh": true,
+  "title": "Qwen Code v0.2.1 расширяет поиск, редактирование и поддержку IDE",
+  "translated_at": "2026-10-24"
+ },
  "n-88b74a7e58": {
-  "fresh": false,
-  "title": "LDF-VFI: Local Diffusion Forcing для интерполяции видеокадров",
-  "translated_at": null
+  "fresh": true,
+  "title": "LDF-VFI: Local Diffusion Forcing for Video Frame Interpolation",
+  "translated_at": "2026-10-24"
  },
  "n-8913c98771": {
   "fresh": false,
   "title": "Модели генерации видео Sulphur 2 и LTX2.3-10Eros",
   "translated_at": null
+ },
+ "n-8a14fda3a6": {
+  "fresh": true,
+  "title": "Пакетный прием исследований: 21 статья через Gemini 3 Flash CLI",
+  "translated_at": "2026-10-24"
+ },
+ "n-8a4dfeeb5d": {
+  "fresh": true,
+  "title": "Публичный репозиторий HyperAgents упомянут",
+  "translated_at": "2026-10-24"
  },
  "n-8a620616a1": {
   "fresh": false,
@@ -809,50 +2564,180 @@
   "title": "Reshoot-Anything: синтез ракурсов видео с управлением через 4D-якоря",
   "translated_at": null
  },
+ "n-8a9fb1a4b9": {
+  "fresh": true,
+  "title": "Ссылки на ресурсы разработки Lucida опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-8ae442bb62": {
+  "fresh": true,
+  "title": "Публичное Hugging Face Space для mm-ctx",
+  "translated_at": "2026-10-24"
+ },
+ "n-8b5f11bc11": {
+  "fresh": true,
+  "title": "Артефакт GGUF Qwopus3.6-27B-Coder-MTP опубликован по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-8b8615589c": {
+  "fresh": true,
+  "title": "Ресурсы VibeWorlding опубликованы на GitHub и Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-8c14423e0d": {
+  "fresh": true,
+  "title": "Публичная ссылка на ComfyUI-DaVinci-MagiHuman",
+  "translated_at": "2026-10-24"
+ },
  "n-8c91402db3": {
-  "fresh": false,
+  "fresh": true,
   "title": "Плагины Spec Security для Claude Code",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-8cc344a285": {
+  "fresh": true,
+  "title": "Decart публично представила Lucy 2.5",
+  "translated_at": "2026-10-24"
  },
  "n-8cf0d43011": {
-  "fresh": false,
-  "title": "FastGHA: обобщающие few-shot 3D Gaussian Head Avatars",
-  "translated_at": null
+  "fresh": true,
+  "title": "FastGHA: обобщённые 3D Gaussian-аватары головы по нескольким изображениям",
+  "translated_at": "2026-10-24"
+ },
+ "n-8d546ea894": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта LEMAS были связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-8da3cc43df": {
-  "fresh": false,
-  "title": "MOSS-Audio: унифицированная open-source аудио-foundation-модель",
-  "translated_at": null
+  "fresh": true,
+  "title": "MOSS-Audio: унифицированная открытая базовая модель для работы со звуком",
+  "translated_at": "2026-10-24"
+ },
+ "n-8dc4648cdc": {
+  "fresh": true,
+  "title": "Dodo Pizza: публичная панель выручки магазинов",
+  "translated_at": "2026-10-24"
+ },
+ "n-8df2384b93": {
+  "fresh": true,
+  "title": "MCNL v1 — community-адаптер для Qwen-Image-Edit-2511",
+  "translated_at": "2026-10-24"
+ },
+ "n-8e078019f4": {
+  "fresh": true,
+  "title": "Страница проекта MATCH упомянута",
+  "translated_at": "2026-10-24"
+ },
+ "n-8e1566e0c7": {
+  "fresh": true,
+  "title": "Опубликованы страница проекта и исходный репозиторий WorldCam",
+  "translated_at": "2026-10-24"
  },
  "n-8e2ceecbcb": {
   "fresh": false,
   "title": "Mistral Medium 3.5: унифицированная мультимодальная модель 128B",
   "translated_at": null
  },
+ "n-8e75dd0767": {
+  "fresh": true,
+  "title": "Репозиторий исходного кода Chronosplat и интерактивный просмотрщик были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-8ec65997d5": {
+  "fresh": true,
+  "title": "Netflix сообщила, что около 300 программ использовали ИИ в 2026 году",
+  "translated_at": "2026-10-24"
+ },
+ "n-8f2e77690e": {
+  "fresh": true,
+  "title": "Публичные ссылки на проект AVA-Encoder зафиксированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-8f82aff737": {
+  "fresh": true,
+  "title": "Открытый karpathy-output-style реализует лестницу визуальных выходных форматов для AI-агентов",
+  "translated_at": "2026-10-24"
+ },
  "n-8fe6695c64": {
-  "fresh": false,
-  "title": "PrismAudio: генерация аудио из видео через декомпозированный CoT",
-  "translated_at": null
+  "fresh": true,
+  "title": "PrismAudio: генерация звука по видео через декомпозированный CoT",
+  "translated_at": "2026-10-24"
  },
  "n-8ff86e4411": {
   "fresh": false,
   "title": "M2SVid: преобразование монокулярного видео в стерео",
   "translated_at": null
  },
+ "n-901220b5b4": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта Evoke",
+  "translated_at": "2026-10-24"
+ },
  "n-9139899069": {
   "fresh": false,
   "title": "Gemma 4 31B-it",
   "translated_at": null
  },
+ "n-920abfb1e3": {
+  "fresh": true,
+  "title": "Ресурсы проекта RealRestorer были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-92aedf6bb2": {
+  "fresh": true,
+  "title": "VRGDG SeedVR2 TensorRT Studio добавляет локальный рабочий процесс для Windows вокруг SeedVR2",
+  "translated_at": "2026-10-24"
+ },
+ "n-9358043c25": {
+  "fresh": true,
+  "title": "Ресурсы Modality Forcing по предсказанию глубины были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-93c82cced4": {
+  "fresh": true,
+  "title": "Зафиксирована версия модели Realism Enhancer Krea2",
+  "translated_at": "2026-10-24"
+ },
+ "n-93eeb937f1": {
+  "fresh": true,
+  "title": "DeepSeek обновляет API-модель Flash до V4.1-Flash-1017",
+  "translated_at": "2026-10-24"
+ },
+ "n-944c22a8fe": {
+  "fresh": true,
+  "title": "Репозиторий Pascal Editor на GitHub добавлен по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-9478ff9243": {
+  "fresh": true,
+  "title": "Публичный репозиторий Grok Build: ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-95cbbfe193": {
+  "fresh": true,
+  "title": "SANA-Video 2.0 анонсирована без весов",
+  "translated_at": "2026-10-24"
+ },
  "n-95d245f3eb": {
-  "fresh": false,
-  "title": "Hermes Agent: автономная система творческих workflow",
-  "translated_at": null
+  "fresh": true,
+  "title": "Hermes Agent: автономная система для креативных рабочих процессов",
+  "translated_at": "2026-10-24"
+ },
+ "n-960836273b": {
+  "fresh": true,
+  "title": "Публичные ссылки на проект ShotVerse были опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-963305f6b7": {
-  "fresh": false,
-  "title": "HyperFrames: программный видео-фреймворк от HeyGen",
-  "translated_at": null
+  "fresh": true,
+  "title": "HyperFrames: программный видеофреймворк от HeyGen",
+  "translated_at": "2026-10-24"
+ },
+ "n-969e5271ff": {
+  "fresh": true,
+  "title": "Веб-сайт и исходный репозиторий проекта MonoArt связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-972d1e2832": {
   "fresh": false,
@@ -860,9 +2745,14 @@
   "translated_at": null
  },
  "n-9744e9b73c": {
-  "fresh": false,
-  "title": "Workflow детейлинга лиц для Z-Image Turbo",
-  "translated_at": null
+  "fresh": true,
+  "title": "Воркфлоу Z-Image Turbo для детейлинга лиц",
+  "translated_at": "2026-10-24"
+ },
+ "n-9760d7add3": {
+  "fresh": true,
+  "title": "Исходный код и коллекция моделей MemPrivacy: на что указывает запись",
+  "translated_at": "2026-10-24"
  },
  "n-97b254669d": {
   "fresh": false,
@@ -874,10 +2764,50 @@
   "title": "Qwen3.6-27B: высокопроизводительная кодинг-модель с открытыми весами",
   "translated_at": null
  },
+ "n-97c92d3269": {
+  "fresh": true,
+  "title": "Обновление публичного проекта FireRedTTS3",
+  "translated_at": "2026-10-24"
+ },
+ "n-97cedb7ec2": {
+  "fresh": true,
+  "title": "Google опубликовала обновление о Gemini Intelligence для Android",
+  "translated_at": "2026-10-24"
+ },
+ "n-97e1334295": {
+  "fresh": true,
+  "title": "Превью-модель GELab-Zero Sico Evolution появилась на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-97fff052b7": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта AudioX-Turbo и модели опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-982b169c3b": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Echo LongVideo были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
  "n-98474cc274": {
   "fresh": false,
   "title": "Nucleus Image: диффузионная модель на разреженной Mixture-of-Experts",
   "translated_at": null
+ },
+ "n-984ac0ee00": {
+  "fresh": true,
+  "title": "На страницу модели на Civitai сослались в связи с UltraReal - KREA2 Klein9b",
+  "translated_at": "2026-10-24"
+ },
+ "n-98db5e9f27": {
+  "fresh": true,
+  "title": "Пакет SeedVR2-1.4B для ComfyUI был опубликован по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-992fb237e4": {
+  "fresh": true,
+  "title": "NVIDIA опубликовала код и модель Nemotron VoiceChat 11B",
+  "translated_at": "2026-10-24"
  },
  "n-997df70c3d": {
   "fresh": false,
@@ -885,14 +2815,24 @@
   "translated_at": null
  },
  "n-99c607c318": {
-  "fresh": false,
-  "title": "Luma Uni-1.1: API унифицированного интеллекта",
-  "translated_at": null
+  "fresh": true,
+  "title": "Luma Uni-1.1 Unified Intelligence API",
+  "translated_at": "2026-10-24"
+ },
+ "n-99dadfd9bc": {
+  "fresh": true,
+  "title": "Опубликованы ссылки на публичные ресурсы проекта MiMo Code",
+  "translated_at": "2026-10-24"
  },
  "n-99e3cb59c2": {
-  "fresh": false,
-  "title": "Flue — TypeScript-фреймворк для автономных AI-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "Flue — TypeScript-фреймворк для автономных ИИ-агентов",
+  "translated_at": "2026-10-24"
+ },
+ "n-99ff299eee": {
+  "fresh": true,
+  "title": "Data2Story связали с сайтом проекта и репозиторием на GitHub",
+  "translated_at": "2026-10-24"
  },
  "n-9a27202165": {
   "fresh": false,
@@ -909,35 +2849,145 @@
   "title": "QClaw-4B: компактная языковая модель для агентных задач",
   "translated_at": null
  },
+ "n-9bab984caa": {
+  "fresh": true,
+  "title": "Страница проекта SANA Streaming упомянута",
+  "translated_at": "2026-10-24"
+ },
+ "n-9bf7eec688": {
+  "fresh": true,
+  "title": "Qwen-Image выходит с нативной генерацией текста",
+  "translated_at": "2026-10-24"
+ },
+ "n-9cb04ca5a6": {
+  "fresh": true,
+  "title": "Начальное хранилище знаний: 385 записей в 21 домене",
+  "translated_at": "2026-10-24"
+ },
+ "n-9ce590f831": {
+  "fresh": true,
+  "title": "Opубликованы проект, код и модельные ресурсы LoomVideo",
+  "translated_at": "2026-10-24"
+ },
+ "n-9d1d38dd75": {
+  "fresh": true,
+  "title": "LTX2.3 Audio Reactive LoRA попал в датированную хронику разработки",
+  "translated_at": "2026-10-24"
+ },
  "n-9db878fd06": {
   "fresh": false,
   "title": "KIRI Engine: из Gaussian Splatting в меш",
   "translated_at": null
  },
  "n-9dd20d8e0c": {
-  "fresh": false,
+  "fresh": true,
   "title": "4C4D: 4D Gaussian Splatting с четырьмя камерами",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-9e0a0fba7f": {
-  "fresh": false,
-  "title": "Pixal3D: pixel-aligned генерация 3D от Tencent",
-  "translated_at": null
+  "fresh": true,
+  "title": "Pixal3D: пиксельно-выровненная генерация 3D-моделей от Tencent",
+  "translated_at": "2026-10-24"
+ },
+ "n-9e65c4419e": {
+  "fresh": true,
+  "title": "Qwen-Video-Edit публично представлен со ссылками на проект, код и модель",
+  "translated_at": "2026-10-24"
+ },
+ "n-9e6857e8a9": {
+  "fresh": true,
+  "title": "Репозиторий Ideogram 4 в формате GGUF опубликован на Hugging Face",
+  "translated_at": "2026-10-24"
  },
  "n-9f3f263dfe": {
-  "fresh": false,
-  "title": "StyleID: identity-энкодер с учётом восприятия для персонализации портретов",
-  "translated_at": null
+  "fresh": true,
+  "title": "StyleID: перцептивно-ориентированный энкодер идентичности для персонализации портретов",
+  "translated_at": "2026-10-24"
+ },
+ "n-9fce4f9cd3": {
+  "fresh": true,
+  "title": "xAI опубликовала обновление продукта Grok 4.5",
+  "translated_at": "2026-10-24"
+ },
+ "n-9fd4c4bd6f": {
+  "fresh": true,
+  "title": "Публичные проектные ссылки UnitySplats",
+  "translated_at": "2026-10-24"
+ },
+ "n-9fe0054e15": {
+  "fresh": true,
+  "title": "VibeVoice-ASR-BitNet получил публичные ссылки на код, модель и демо",
+  "translated_at": "2026-10-24"
+ },
+ "n-a02ba7b073": {
+  "fresh": true,
+  "title": "Репозиторий img2threejs на GitHub был опубликован по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-a0d5299653": {
+  "fresh": true,
+  "title": "Ресурсы Krea 2 Outpaint задокументированы на Hugging Face и ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-a0e40ff5d8": {
+  "fresh": true,
+  "title": "DAR зафиксировал ссылку на исследовательскую статью Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-a11009c2dc": {
+  "fresh": true,
+  "title": "Репозиторий MiniMax Music 3.0 Studio опубликован",
+  "translated_at": "2026-10-24"
+ },
+ "n-a11d97b87b": {
+  "fresh": true,
+  "title": "Poolside представила Laguna S 2.1",
+  "translated_at": "2026-10-24"
+ },
+ "n-a1265a873f": {
+  "fresh": true,
+  "title": "Репозиторий GLM-5.2-GGUF на Hugging Face упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-a14c05d0aa": {
+  "fresh": true,
+  "title": "NanoVDR: связанные публичные ресурсы Hugging Face и демо",
+  "translated_at": "2026-10-24"
+ },
+ "n-a1c9a6a103": {
+  "fresh": true,
+  "title": "На репозиторий LlamaServerLauncherAvalonia была сделана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-a1dfc77c2c": {
+  "fresh": true,
+  "title": "Qwen-Audio-3.0-TTS получил публичную страницу проекта и документацию по TTS в реальном времени",
+  "translated_at": "2026-10-24"
  },
  "n-a236c67d82": {
   "fresh": false,
   "title": "C++ порт ACE-Step 1.5 (acestep.cpp)",
   "translated_at": null
  },
+ "n-a2b2f064d2": {
+  "fresh": true,
+  "title": "Репозиторий CLI-Anything на GitHub появился в обсуждении agent_tools",
+  "translated_at": "2026-10-24"
+ },
+ "n-a2c367a2ab": {
+  "fresh": true,
+  "title": "Зафиксирован ресурс модели MolmoMotion-4B-H3-F30",
+  "translated_at": "2026-10-24"
+ },
+ "n-a316da2631": {
+  "fresh": true,
+  "title": "Hailuo Light Studio сослалась на свой инструмент Relight",
+  "translated_at": "2026-10-24"
+ },
  "n-a3583f87c7": {
-  "fresh": false,
-  "title": "MemPalace: эффективное бесконечное сжатие памяти для LLM",
-  "translated_at": null
+  "fresh": true,
+  "title": "MemPalace: эффективное сжатие бесконечной памяти для LLM",
+  "translated_at": "2026-10-24"
  },
  "n-a3aa871dfa": {
   "fresh": false,
@@ -949,30 +2999,70 @@
   "title": "UniCorrn: унифицированный трансформер соответствий для 2D и 3D",
   "translated_at": null
  },
+ "n-a3e4d25dc2": {
+  "fresh": true,
+  "title": "CanAI выпущен как открытый canvas для генерации изображений и видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-a3f6d0a225": {
+  "fresh": true,
+  "title": "Переименование сайта: Knowledge Space в Happyin Knowledge Space",
+  "translated_at": "2026-10-24"
+ },
  "n-a4fb636ca8": {
-  "fresh": false,
-  "title": "Face Anything: единая 4D-реконструкция и трекинг лица",
-  "translated_at": null
+  "fresh": true,
+  "title": "Face Anything: унифицированная 4D-реконструкция и трекинг лица",
+  "translated_at": "2026-10-24"
+ },
+ "n-a54747f312": {
+  "fresh": true,
+  "title": "На страницу версии v0.3 Wan-Streamer дана ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-a549ac3575": {
-  "fresh": false,
+  "fresh": true,
   "title": "Lyra 2.0: исследуемые генеративные 3D-миры",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-a56b9d31b6": {
   "fresh": false,
   "title": "Perplexity Personal Computer для Mac",
   "translated_at": null
  },
+ "n-a5a478ec38": {
+  "fresh": true,
+  "title": "Stable Layers получил публичный релиз проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-a5a6f42edd": {
+  "fresh": true,
+  "title": "Ресурсы проекта GLM-OCR стали общедоступными",
+  "translated_at": "2026-10-24"
+ },
+ "n-a5bfdf92c1": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта X-Dub были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
  "n-a5ceb23735": {
-  "fresh": false,
+  "fresh": true,
   "title": "Uni-ViGU: единая генерация и понимание видео",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-a60b24ebb5": {
+  "fresh": true,
+  "title": "Treblo связал свои ресурсы для детекции и ревью",
+  "translated_at": "2026-10-24"
+ },
+ "n-a61b804416": {
+  "fresh": true,
+  "title": "LTX-2.3 IC-LoRA Cross-Eyed: ресурс с моделью добавлен",
+  "translated_at": "2026-10-24"
  },
  "n-a6a4ba2d0f": {
-  "fresh": false,
+  "fresh": true,
   "title": "Cursor: AI-нативный редактор кода",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-a71a838b34": {
   "fresh": false,
@@ -980,134 +3070,374 @@
   "translated_at": null
  },
  "n-a74ee42caa": {
-  "fresh": false,
+  "fresh": true,
   "title": "FlowAnchor: стабильное редактирование видео без инверсии",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-a7521b7b08": {
   "fresh": false,
   "title": "BACH 1.0: многокадровая AI-генерация видео",
   "translated_at": null
  },
+ "n-a78b2b7401": {
+  "fresh": true,
+  "title": "Выложены код и чекпоинт SANA-Video2 5B",
+  "translated_at": "2026-10-24"
+ },
+ "n-a78c964be6": {
+  "fresh": true,
+  "title": "С проектом Exiv связаны публичный исходный репозиторий и страница документации для начала работы",
+  "translated_at": "2026-10-24"
+ },
  "n-a7d1f83b13": {
   "fresh": false,
   "title": "ArcFlow: фреймворк нелинейной генерации изображений за 2 шага",
   "translated_at": null
  },
+ "n-a7efec38e4": {
+  "fresh": true,
+  "title": "Ссылка на чекпоинт Qwen3-ASR-1.7B-hf",
+  "translated_at": "2026-10-24"
+ },
  "n-a8098d79d8": {
-  "fresh": false,
-  "title": "CHAI: критика-ориентированный надзор Human-AI для описания видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "CHAI: Critique-based Human-AI Oversight for Video Captioning",
+  "translated_at": "2026-10-24"
  },
  "n-a81182e9ac": {
   "fresh": false,
   "title": "Claude Opus 4.7: флагманская модель Anthropic для кодинга и рассуждений",
   "translated_at": null
  },
+ "n-a85f96599d": {
+  "fresh": true,
+  "title": "ComfyUI-Latent-Tiled-PiD получил датированную публичную ссылку на репозиторий",
+  "translated_at": "2026-10-24"
+ },
  "n-a8a043a8fd": {
   "fresh": false,
   "title": "INSID3: быстрая in-context сегментация с DINOv3",
   "translated_at": null
  },
+ "n-a95c499131": {
+  "fresh": true,
+  "title": "Krea Agents получил контекст проекта и импорт из Pinterest",
+  "translated_at": "2026-10-24"
+ },
+ "n-a99ab8a6eb": {
+  "fresh": true,
+  "title": "Ресурсы проекта Qwen3.8-Flash-Next задокументированы",
+  "translated_at": "2026-10-24"
+ },
  "n-aa28911ec6": {
-  "fresh": false,
-  "title": "Sapiens2: foundation-модели Meta для человекоцентричного зрения",
-  "translated_at": null
+  "fresh": true,
+  "title": "Sapiens2: фундаментальные модели Meta для компьютерного зрения, ориентированного на человека",
+  "translated_at": "2026-10-24"
+ },
+ "n-aa7ac5b27f": {
+  "fresh": true,
+  "title": "DeepSeek получила раунд финансирования на 15 млрд долларов при оценке в 100 млрд долларов",
+  "translated_at": "2026-10-24"
+ },
+ "n-ab3713a0b5": {
+  "fresh": true,
+  "title": "daVinci-MagiHuman связали с официальными ресурсами: кодом, моделью и демо",
+  "translated_at": "2026-10-24"
  },
  "n-ab5423ca1c": {
-  "fresh": false,
-  "title": "OlmPool: исследование архитектур длинного контекста от AI2",
-  "translated_at": null
+  "fresh": true,
+  "title": "OlmPool: архитектурное исследование AI2 по работе с длинным контекстом",
+  "translated_at": "2026-10-24"
+ },
+ "n-ab593e345a": {
+  "fresh": true,
+  "title": "Репозиторий ComfyUI LRW Nodes и примеры воркфлоу задокументированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-abed76ad0f": {
+  "fresh": true,
+  "title": "Новость о DeepSeek-V4-Flash-Vision-Exp и руководство по зрению",
+  "translated_at": "2026-10-24"
  },
  "n-ac33c5f998": {
   "fresh": false,
   "title": "LTX2.3-Multifunctional: продвинутый локальный AI-видеонабор",
   "translated_at": null
  },
+ "n-ad1e6a3d0c": {
+  "fresh": true,
+  "title": "Страница релиза Ornith-1.5 и коллекция моделей были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-ad9c9181f8": {
+  "fresh": true,
+  "title": "ABot-Earth 0.5 получил публичную связку с сайтом проекта, просмотрщиком графиков и репозиторием",
+  "translated_at": "2026-10-24"
+ },
+ "n-adac82ad85": {
+  "fresh": true,
+  "title": "Sage-A1.5 опубликована на Hugging Face с встроенной агентной самопроверкой",
+  "translated_at": "2026-10-24"
+ },
+ "n-adee3ca551": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта PAM стали доступны",
+  "translated_at": "2026-10-24"
+ },
  "n-ae3f3a3876": {
-  "fresh": false,
-  "title": "Gemma Gem: локальный браузерный AI-агент на WebGPU",
-  "translated_at": null
+  "fresh": true,
+  "title": "Gemma Gem: локальный браузерный ИИ-агент на основе WebGPU",
+  "translated_at": "2026-10-24"
+ },
+ "n-aec1b8ae4b": {
+  "fresh": true,
+  "title": "WorldStream потоково генерирует открытые 3D-миры с иерархическим планированием",
+  "translated_at": "2026-10-24"
+ },
+ "n-aefede82fd": {
+  "fresh": true,
+  "title": "Страница проекта Sol-Attn и ветка реализации, на которые дана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-af01bc34de": {
+  "fresh": true,
+  "title": "Объявление о релизе SeedRealtime",
+  "translated_at": "2026-10-24"
  },
  "n-af1e479850": {
-  "fresh": false,
-  "title": "Muffins Flat 2: ноды ComfyUI для VR-панорам",
-  "translated_at": null
+  "fresh": true,
+  "title": "Muffins Flat 2: узлы ComfyUI для VR-панорам",
+  "translated_at": "2026-10-24"
  },
  "n-af7e0341d4": {
-  "fresh": false,
+  "fresh": true,
   "title": "GPT Image 2 (OpenAI)",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-af83147e90": {
-  "fresh": false,
-  "title": "Nucleus-Image: разреженный MoE диффузионный трансформер",
-  "translated_at": null
+  "fresh": true,
+  "title": "Nucleus-Image: разреженный MoE-диффузионный трансформер",
+  "translated_at": "2026-10-24"
+ },
+ "n-af926b6d88": {
+  "fresh": true,
+  "title": "Записаны справочники API распознавания речи Qwen Audio",
+  "translated_at": "2026-10-24"
+ },
+ "n-afce40f186": {
+  "fresh": true,
+  "title": "SuperSplat расширил рабочий процесс для интерактивных приложений на основе сплатов",
+  "translated_at": "2026-10-24"
+ },
+ "n-b02f3b33b7": {
+  "fresh": true,
+  "title": "Публичный сайт проекта UMO и исходный репозиторий были связаны",
+  "translated_at": "2026-10-24"
  },
  "n-b107eae70b": {
-  "fresh": false,
-  "title": "Sommelier: open-source пайплайн обработки аудио",
-  "translated_at": null
+  "fresh": true,
+  "title": "Sommelier: открытый конвейер обработки аудио",
+  "translated_at": "2026-10-24"
+ },
+ "n-b10bd633b8": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта GUSH3R опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-b18df4c1c8": {
   "fresh": false,
   "title": "Semantic Progress Function (SPF) для плавного ИИ-видео",
   "translated_at": null
  },
+ "n-b1bee57937": {
+  "fresh": true,
+  "title": "Варианты Wan2.2 T2V A14B в формате Diffusers с FP8 и NVFP4 задокументированы",
+  "translated_at": "2026-10-24"
+ },
  "n-b1f200df41": {
-  "fresh": false,
-  "title": "Seeing Fast and Slow: обучение течению времени",
-  "translated_at": null
+  "fresh": true,
+  "title": "Seeing Fast and Slow: Learning the Flow of Time",
+  "translated_at": "2026-10-24"
  },
  "n-b1f4237092": {
-  "fresh": false,
-  "title": "Qwen3.5-35B-A3B: дистилляция рассуждений Claude 4.6 Opus",
-  "translated_at": null
+  "fresh": true,
+  "title": "Qwen3.5-35B-A3B Claude 4.6 Opus Reasoning Distilled",
+  "translated_at": "2026-10-24"
+ },
+ "n-b2222dab41": {
+  "fresh": true,
+  "title": "Репозиторий NVIDIA DiffusionGemma NVFP4 упомянут вместе с исходной моделью Google",
+  "translated_at": "2026-10-24"
  },
  "n-b2b9ca697e": {
-  "fresh": false,
-  "title": "GLM-5V-Turbo: мультимодальная модель для инжиниринга design-to-code",
-  "translated_at": null
+  "fresh": true,
+  "title": "GLM-5V-Turbo: мультимодальная модель для инженерных задач от дизайна к коду",
+  "translated_at": "2026-10-24"
  },
  "n-b2c1d5a768": {
   "fresh": false,
   "title": "FLUX.2 Small Decoder (дистиллированный VAE)",
   "translated_at": null
  },
+ "n-b347948b96": {
+  "fresh": true,
+  "title": "Clarity-OMR опубликовал код, модель и демо",
+  "translated_at": "2026-10-24"
+ },
+ "n-b3548b068b": {
+  "fresh": true,
+  "title": "На сайт проекта SIMART дана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-b3aa6851b7": {
+  "fresh": true,
+  "title": "Репозиторий ComfyUI-AsymFlow был публично упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-b3f3b611a3": {
+  "fresh": true,
+  "title": "Публичная модель Nanbeige4.2-3B и ресурсы для инференса опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-b438d99dc2": {
+  "fresh": true,
+  "title": "Страница проекта Astrolabe и исходный репозиторий опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-b48ae23ef5": {
+  "fresh": true,
+  "title": "Ресурсы проекта LATO.2 были публично указаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-b495739d31": {
+  "fresh": true,
+  "title": "Percepta AI опубликовала материал о LLM как о компьютерах",
+  "translated_at": "2026-10-24"
+ },
  "n-b4bbea9668": {
-  "fresh": false,
-  "title": "Anthropic Managed Agents для долго работающих AI-воркфлоу",
-  "translated_at": null
+  "fresh": true,
+  "title": "Anthropic Managed Agents для длительных рабочих процессов ИИ",
+  "translated_at": "2026-10-24"
+ },
+ "n-b636bdc989": {
+  "fresh": true,
+  "title": "Первое публичное объявление о Starchild-1",
+  "translated_at": "2026-10-24"
+ },
+ "n-b63f0f79e7": {
+  "fresh": true,
+  "title": "Запись в блоге Qwen о Qwen3.8",
+  "translated_at": "2026-10-24"
  },
  "n-b651b2cbf2": {
-  "fresh": false,
-  "title": "AvatarPointillist: авторегрессионные 4D-гауссовы аватары из изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "AvatarPointillist: авторегрессионные 4D-гауссовы аватары по изображениям",
+  "translated_at": "2026-10-24"
+ },
+ "n-b65d8e8b42": {
+  "fresh": true,
+  "title": "Flux2Klein Enhancer расширяет набор средств управления",
+  "translated_at": "2026-10-24"
+ },
+ "n-b66c6b5fe8": {
+  "fresh": true,
+  "title": "На GitHub-репозиторий Obsidian Mind была дана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-b6851c60f8": {
+  "fresh": true,
+  "title": "Зафиксированы ссылки на распространение ACTI",
+  "translated_at": "2026-10-24"
  },
  "n-b6c1907179": {
-  "fresh": false,
-  "title": "RvR: Refinement via Regeneration для качественного улучшения изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "RvR: Refinement via Regeneration for High-Quality Image Refinement",
+  "translated_at": "2026-10-24"
+ },
+ "n-b79dee5163": {
+  "fresh": true,
+  "title": "NVIDIA опубликовала материалы LocateAnything и страницу модели LocateAnything-3B",
+  "translated_at": "2026-10-24"
+ },
+ "n-b7c4d9268f": {
+  "fresh": true,
+  "title": "Claude Academy стал официальным учебным ресурсом",
+  "translated_at": "2026-10-24"
+ },
+ "n-b8abd7e35e": {
+  "fresh": true,
+  "title": "Репозиторий Cream Typer на GitHub упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-b8afea4624": {
+  "fresh": true,
+  "title": "Зафиксированы страница проекта Beyond Pixels и исходный репозиторий",
+  "translated_at": "2026-10-24"
+ },
+ "n-b8d5334397": {
+  "fresh": true,
+  "title": "На публичный Hugging Face Space проекта OpenVuln была дана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-b977739627": {
+  "fresh": true,
+  "title": "Зафиксирован базовый артефакт Zeta-Chroma",
+  "translated_at": "2026-10-24"
  },
  "n-b9e02bd01a": {
   "fresh": false,
   "title": "ACE-Step 1.5 XL: генерация музыки",
   "translated_at": null
  },
+ "n-ba02def424": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на репозиторий проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-ba6ade4c05": {
+  "fresh": true,
+  "title": "Репозиторий Hugging Face с Qwen3.5-27B Claude 4.6 Opus Reasoning Distilled GGUF обнаружен",
+  "translated_at": "2026-10-24"
+ },
+ "n-ba790c8631": {
+  "fresh": true,
+  "title": "Civitai описывает отдельные точки входа .com и .red",
+  "translated_at": "2026-10-24"
+ },
  "n-bab7f8e6fd": {
-  "fresh": false,
-  "title": "Audio-Omni: единый фреймворк для понимания и генерации аудио",
-  "translated_at": null
+  "fresh": true,
+  "title": "Audio-Omni: унифицированная система понимания и генерации аудио",
+  "translated_at": "2026-10-24"
  },
  "n-bb0f83ff09": {
-  "fresh": false,
-  "title": "OmniShotCut: целостное реляционное определение границ сцен",
-  "translated_at": null
+  "fresh": true,
+  "title": "OmniShotCut: целостное реляционное обнаружение границ кадров",
+  "translated_at": "2026-10-24"
+ },
+ "n-bb135c22d6": {
+  "fresh": true,
+  "title": "Harness² поддерживает эксперименты с бенчмарками OpenCode и Codex",
+  "translated_at": "2026-10-24"
+ },
+ "n-bb326c9fdf": {
+  "fresh": true,
+  "title": "На сайт IGGT4D на GitHub Pages появилась ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-bb60458b02": {
   "fresh": false,
   "title": "FLUX.2-klein-9B-Nunchaku",
   "translated_at": null
+ },
+ "n-bb76b83d43": {
+  "fresh": true,
+  "title": "ComfyUI-Drama3 обновлён с кэшированием экспертов: ускорение 3x+ на 8GB VRAM",
+  "translated_at": "2026-10-24"
+ },
+ "n-bbc670c0e1": {
+  "fresh": true,
+  "title": "LongCat сделал LongCat 2.0 публично доступным для поиска",
+  "translated_at": "2026-10-24"
  },
  "n-bc5c88f85f": {
   "fresh": false,
@@ -1119,50 +3449,125 @@
   "title": "Z-Anime: высокоточная модель генерации аниме S3-DiT 6B",
   "translated_at": null
  },
+ "n-bd49bc44b7": {
+  "fresh": true,
+  "title": "LTX-2.3 Black Magic LoRA появился на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-bded34e024": {
-  "fresh": false,
-  "title": "Большая языковая модель Gemopus-4-26B",
-  "translated_at": null
+  "fresh": true,
+  "title": "Gemopus-4-26B Large Language Model",
+  "translated_at": "2026-10-24"
  },
  "n-bec376434e": {
   "fresh": false,
   "title": "TinyMU: компактная аудио-языковая модель для понимания музыки",
   "translated_at": null
  },
+ "n-c0d09bda8b": {
+  "fresh": true,
+  "title": "NVIDIA анонсировала Nemotron 3 Super",
+  "translated_at": "2026-10-24"
+ },
  "n-c15c8a5410": {
-  "fresh": false,
-  "title": "ClawBench: реальный бенчмарк для веб-агентов на живых сайтах",
-  "translated_at": null
+  "fresh": true,
+  "title": "ClawBench: реальный бенчмарк для работы веб-агентов на живых сайтах",
+  "translated_at": "2026-10-24"
+ },
+ "n-c16d03e2b0": {
+  "fresh": true,
+  "title": "На репозиторий ComfyUI Video Tiler была дана ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-c2a141200b": {
-  "fresh": false,
-  "title": "ConnectTheDots: инструмент соединения нодов через сайдбар для ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "ConnectTheDots: инструмент соединения нод через боковую панель для ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-c2c4915336": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Marionette были связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-c2ca134086": {
   "fresh": false,
   "title": "ERNIE-Image-Turbo 8B: Diffusion Transformer с открытыми весами",
   "translated_at": null
  },
+ "n-c2e38d5935": {
+  "fresh": true,
+  "title": "На страницу Superagent и документацию Base44 были даны ссылки",
+  "translated_at": "2026-10-24"
+ },
+ "n-c32e26254c": {
+  "fresh": true,
+  "title": "Источник описывал Managed Bots как функцию платформы ботов",
+  "translated_at": "2026-10-24"
+ },
+ "n-c3d4c31323": {
+  "fresh": true,
+  "title": "Репозиторий Frame Extractor как ссылка в ходе разработки проекта",
+  "translated_at": "2026-10-24"
+ },
+ "n-c3f798c77b": {
+  "fresh": true,
+  "title": "Ссылка на репозиторий Odysseus на GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-c41ee335f6": {
+  "fresh": true,
+  "title": "Страница проекта UnityShots и исходный репозиторий были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-c42886783e": {
+  "fresh": true,
+  "title": "Наложение мемов на вебкамеру для встреч ItsGiving",
+  "translated_at": "2026-10-24"
+ },
  "n-c449ab03a6": {
-  "fresh": false,
-  "title": "RawGen: обучение генерации camera raw изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "RawGen: Learning Camera Raw Image Generation",
+  "translated_at": "2026-10-24"
+ },
+ "n-c4546aea9c": {
+  "fresh": true,
+  "title": "Ask Grok в тредах X становится платной функцией",
+  "translated_at": "2026-10-24"
+ },
+ "n-c46744cf6a": {
+  "fresh": true,
+  "title": "Liquid AI опубликовала линейку моделей LFM2.5-2.6B",
+  "translated_at": "2026-10-24"
  },
  "n-c492e2a3e4": {
-  "fresh": false,
+  "fresh": true,
   "title": "IC-LoRA Cameraman для LTX-Video 2.3",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-c4a0d1a186": {
+  "fresh": true,
+  "title": "Репозиторий CARLA-Air на GitHub опубликован по ссылке",
+  "translated_at": "2026-10-24"
  },
  "n-c4a452f85d": {
   "fresh": false,
   "title": "NumPy как движок синтеза (PyTheory)",
   "translated_at": null
  },
+ "n-c4e41aef2b": {
+  "fresh": true,
+  "title": "На публичный сайт What to Edit Next сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-c51396234c": {
+  "fresh": true,
+  "title": "NVIDIA расширяет платформу Cosmos инструментами для обучения и развёртывания",
+  "translated_at": "2026-10-24"
+ },
  "n-c5207bfa4a": {
-  "fresh": false,
-  "title": "WildDet3D: масштабирование промптируемого 3D-детектирования в реальных условиях",
-  "translated_at": null
+  "fresh": true,
+  "title": "WildDet3D: масштабирование промптируемого 3D-детектирования в открытом мире",
+  "translated_at": "2026-10-24"
  },
  "n-c56aa9fa27": {
   "fresh": false,
@@ -1174,6 +3579,11 @@
   "title": "DreamLite: унифицированная on-device генерация и редактирование изображений",
   "translated_at": null
  },
+ "n-c5e93c1d3a": {
+  "fresh": true,
+  "title": "Репозитории моделей Audex стали публично доступны для поиска",
+  "translated_at": "2026-10-24"
+ },
  "n-c660c4f559": {
   "fresh": false,
   "title": "CDM: дистилляция диффузии через непрерывное согласование распределений",
@@ -1184,75 +3594,255 @@
   "title": "RS Nodes: обучение LoRA для видео в ComfyUI",
   "translated_at": null
  },
+ "n-c696325d3e": {
+  "fresh": true,
+  "title": "Fizgig выпустил LoRA Isolation для обучения на нескольких идентичностях",
+  "translated_at": "2026-10-24"
+ },
+ "n-c6ff419784": {
+  "fresh": true,
+  "title": "Pika опубликовала семейство моделей Pika Audio и песочницу Pika Music",
+  "translated_at": "2026-10-24"
+ },
+ "n-c724eb9e4c": {
+  "fresh": true,
+  "title": "ComfyUI представляет стабильное динамическое управление VRAM",
+  "translated_at": "2026-10-24"
+ },
+ "n-c73bfca8d3": {
+  "fresh": true,
+  "title": "Публичные материалы и ссылки на релизы проекта Velorn",
+  "translated_at": "2026-10-24"
+ },
  "n-c78d87f531": {
-  "fresh": false,
+  "fresh": true,
   "title": "Z-Image-SAM-ControlNet от NeuralVFX",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-c7bfff5d31": {
   "fresh": false,
   "title": "Gemma 4: семейство мультимодальных открытых моделей от Google",
   "translated_at": null
  },
+ "n-c8fa19868e": {
+  "fresh": true,
+  "title": "Репозиторий hf-mount от Hugging Face был публично упомянут",
+  "translated_at": "2026-10-24"
+ },
  "n-c8fc3fe21e": {
-  "fresh": false,
-  "title": "Modddif — набор инструментов для AI-текстурирования и доводки 3D-моделей",
-  "translated_at": null
+  "fresh": true,
+  "title": "Modddif — инструментарий ИИ для текстурирования и доработки 3D-моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-c969bb3002": {
+  "fresh": true,
+  "title": "Публикация ресурсов проекта Pulse of Motion",
+  "translated_at": "2026-10-24"
  },
  "n-c96f664d5d": {
-  "fresh": false,
-  "title": "Habitat-GS: симулятор на Gaussian Splatting для навигации роботов",
-  "translated_at": null
+  "fresh": true,
+  "title": "Habitat-GS: симулятор навигации на основе Gaussian Splatting для робототехники",
+  "translated_at": "2026-10-24"
  },
  "n-c9e1e40a9c": {
-  "fresh": false,
-  "title": "Unify-Agent: open-book агентный синтез изображений",
-  "translated_at": null
+  "fresh": true,
+  "title": "Unify-Agent: агентная генерация изображений с открытой книгой",
+  "translated_at": "2026-10-24"
+ },
+ "n-ca13b9fa04": {
+  "fresh": true,
+  "title": "δ-Mem представлен вместе со ссылками на статью и код",
+  "translated_at": "2026-10-24"
  },
  "n-ca390bf3b3": {
-  "fresh": false,
+  "fresh": true,
   "title": "GPT Image 2",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-ca4cb3b16f": {
+  "fresh": true,
+  "title": "Google анонсировала превью Veo 3.1 Lite",
+  "translated_at": "2026-10-24"
+ },
+ "n-cb62ae01fa": {
+  "fresh": true,
+  "title": "Ресурсы проекта PhotoQuilt стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-cc2ada061c": {
+  "fresh": true,
+  "title": "Сайт проекта UniVR и исходный репозиторий были опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-cca527d9ac": {
+  "fresh": true,
+  "title": "DeepSeek опубликовала веса V4.1-Flash-1017",
+  "translated_at": "2026-10-24"
  },
  "n-ccb2a502fb": {
-  "fresh": false,
+  "fresh": true,
   "title": "Адаптивный пространственно-временной 3D Gaussian Splatting",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-ccb51d2a95": {
+  "fresh": true,
+  "title": "MiniMax H3 Fun ControlNet Union со ссылкой на пример VideoX-Fun",
+  "translated_at": "2026-10-24"
  },
  "n-ccdb07b0af": {
-  "fresh": false,
+  "fresh": true,
   "title": "LTX-2.3-22b-IC-LoRA-Ungrade: восстановление нейтрального цвета",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-cd25320940": {
   "fresh": false,
   "title": "Sync-3: профессиональная AI-синхронизация губ от Sync Labs",
   "translated_at": null
  },
+ "n-cddebb8e59": {
+  "fresh": true,
+  "title": "Ресурсы публичного проекта ProxyPose опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-cdfe0e2f1c": {
+  "fresh": true,
+  "title": "Опубликованы сайт проекта MAMMA и ссылка на репозиторий с исходным кодом",
+  "translated_at": "2026-10-24"
+ },
+ "n-ce536a0efc": {
+  "fresh": true,
+  "title": "NVIDIA продемонстрировала нейронное сжатие текстур со значительно меньшим потреблением VRAM",
+  "translated_at": "2026-10-24"
+ },
+ "n-ce5fa969a2": {
+  "fresh": true,
+  "title": "Ресурсы проекта dots.mocr были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-ce71bb02ce": {
+  "fresh": true,
+  "title": "Файлы модели LTX-2.3 и шаблон текст-в-видео workflow для ComfyUI были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
+ "n-ced223aa89": {
+  "fresh": true,
+  "title": "Публичный проектный и репозиторный ресурс для MLSLabsRenderer-Lite",
+  "translated_at": "2026-10-24"
+ },
+ "n-ced28f0724": {
+  "fresh": true,
+  "title": "Документация и исходный репозиторий Kimi Code CLI стали публично доступны по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-cf04305133": {
+  "fresh": true,
+  "title": "Артефакты Boogu-Image-Edit в формате GGUF были публично упомянуты",
+  "translated_at": "2026-10-24"
+ },
+ "n-cf0d503ef2": {
+  "fresh": true,
+  "title": "На репозиторий ComfyUI-OpenPose-Studio добавлена ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-cf19d00e70": {
+  "fresh": true,
+  "title": "Зафиксированы публичные упоминания проекта ResearchStudio",
+  "translated_at": "2026-10-24"
+ },
+ "n-cf72a26f02": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта InfiniSplat задокументированы",
+  "translated_at": "2026-10-24"
+ },
  "n-cf88820803": {
   "fresh": false,
   "title": "Wan2.2 Distill: ускоренная генерация видео с 4-шаговыми моделями",
   "translated_at": null
  },
+ "n-cf8c575ede": {
+  "fresh": true,
+  "title": "Ресурсы проекта SCoPE были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-cfd3254184": {
+  "fresh": true,
+  "title": "Anthropic опубликовала анонс Claude Sonnet 5",
+  "translated_at": "2026-10-24"
+ },
  "n-cfec66a95b": {
-  "fresh": false,
-  "title": "AgentOfficeSuite (AOSE) — совместный офисный пакет для людей и AI-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "AgentOfficeSuite (AOSE) — совместный офисный пакет для людей и ИИ-агентов",
+  "translated_at": "2026-10-24"
+ },
+ "n-d0102378c0": {
+  "fresh": true,
+  "title": "Ресурсы проекта 3DreamBooth были публично опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-d0e1053814": {
+  "fresh": true,
+  "title": "Доступность модели FLUX.2 Klein 9B KV и ресурсы для локального использования",
+  "translated_at": "2026-10-24"
  },
  "n-d111345e9c": {
-  "fresh": false,
-  "title": "GEMS: agent-native мультимодальная генерация с памятью",
-  "translated_at": null
+  "fresh": true,
+  "title": "GEMS: агент-ориентированная мультимодальная генерация с памятью",
+  "translated_at": "2026-10-24"
+ },
+ "n-d140f3d07f": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта ID-V2V опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-d182530af4": {
+  "fresh": true,
+  "title": "Cursor анонсировала мобильное приложение для iOS",
+  "translated_at": "2026-10-24"
  },
  "n-d192447768": {
-  "fresh": false,
-  "title": "JoyAI-Image: унифицированная мультимодальная foundation-модель",
-  "translated_at": null
+  "fresh": true,
+  "title": "JoyAI-Image: унифицированная мультимодальная базовая модель",
+  "translated_at": "2026-10-24"
+ },
+ "n-d1aace8b4a": {
+  "fresh": true,
+  "title": "Muse Image, Muse Video и объявление о MSL",
+  "translated_at": "2026-10-24"
+ },
+ "n-d1c36e4341": {
+  "fresh": true,
+  "title": "Упоминание репозитория Huihui-gemma-4-12B-it-abliterated",
+  "translated_at": "2026-10-24"
  },
  "n-d1faa63ee9": {
-  "fresh": false,
-  "title": "CoInteract: генерация видео с интерактивным взаимодействием человека и объектов",
-  "translated_at": null
+  "fresh": true,
+  "title": "CoInteract: генерация интерактивных видео «человек–объект»",
+  "translated_at": "2026-10-24"
+ },
+ "n-d22e265efd": {
+  "fresh": true,
+  "title": "Топаз Starlight Precise 2.5: связанное обновление",
+  "translated_at": "2026-10-24"
+ },
+ "n-d2bc181ad0": {
+  "fresh": true,
+  "title": "Появились публичный проект, модель и API-ресурсы MiniMax M3",
+  "translated_at": "2026-10-24"
+ },
+ "n-d3641add96": {
+  "fresh": true,
+  "title": "Публичные ресурсы Higgs Audio v3 TTS опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-d46d9eb28f": {
+  "fresh": true,
+  "title": "Meta убрала упоминания обучения ИИ из деловых условий",
+  "translated_at": "2026-10-24"
+ },
+ "n-d497328784": {
+  "fresh": true,
+  "title": "Ссылка на репозиторий Modly на GitHub",
+  "translated_at": "2026-10-24"
  },
  "n-d4d07dd0bf": {
   "fresh": false,
@@ -1260,24 +3850,59 @@
   "translated_at": null
  },
  "n-d4f61075f4": {
-  "fresh": false,
-  "title": "Prompt Relay: темпоральный контроль видео на этапе инференса",
-  "translated_at": null
+  "fresh": true,
+  "title": "Prompt Relay: временной контроль на этапе инференса для видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-d4f7f53653": {
+  "fresh": true,
+  "title": "Артефакты Qwopus3.6-27B-v2 опубликованы в репозиториях GGUF и FP8",
+  "translated_at": "2026-10-24"
+ },
+ "n-d5883c87bf": {
+  "fresh": true,
+  "title": "Audio Flamingo 3 расширяет возможности понимания аудио и языка",
+  "translated_at": "2026-10-24"
+ },
+ "n-d5e082f834": {
+  "fresh": true,
+  "title": "Autograph упомянут на официальном сайте Maxon",
+  "translated_at": "2026-10-24"
  },
  "n-d5e685b3b1": {
-  "fresh": false,
-  "title": "Gemini 3.1 Flash TTS: высокоточный контроль речи",
-  "translated_at": null
+  "fresh": true,
+  "title": "Gemini 3.1 Flash TTS: высокоточное управление речью",
+  "translated_at": "2026-10-24"
+ },
+ "n-d6ed6958b0": {
+  "fresh": true,
+  "title": "Страница проекта Hunyuan3D-WorldClaw зафиксирована",
+  "translated_at": "2026-10-24"
+ },
+ "n-d6f1ea9ec7": {
+  "fresh": true,
+  "title": "На публичные ресурсы проекта GlyphPrinter была дана ссылка",
+  "translated_at": "2026-10-24"
  },
  "n-d745776a36": {
-  "fresh": false,
-  "title": "Wan2.7-Video — режиссёрский набор для генерации и редактирования видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "Wan2.7-Video — набор для генерации и редактирования видео режиссёрского уровня",
+  "translated_at": "2026-10-24"
  },
  "n-d755c8bc8a": {
   "fresh": false,
   "title": "Qwen3-TTS: продвинутый zero-shot синтез речи",
   "translated_at": null
+ },
+ "n-d76b3cf6c5": {
+  "fresh": true,
+  "title": "Освещение GPT-5.6 Sol в METR",
+  "translated_at": "2026-10-24"
+ },
+ "n-d791bdd250": {
+  "fresh": true,
+  "title": "Зафиксирована ссылка на исследовательскую статью о Qwen-Image-Flash",
+  "translated_at": "2026-10-24"
  },
  "n-d7b1c6bb36": {
   "fresh": false,
@@ -1289,10 +3914,20 @@
   "title": "TRELLIS.2: высококачественная 3D-генерация на Mac",
   "translated_at": null
  },
+ "n-d7ef7b4828": {
+  "fresh": true,
+  "title": "Публичный исходный код Ouroboros и справочная страница релиза",
+  "translated_at": "2026-10-24"
+ },
+ "n-d83223a468": {
+  "fresh": true,
+  "title": "Страница модели Qwen3.6-34B-80L-Fable-5-Heretic зафиксирована на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-d883c4c40c": {
-  "fresh": false,
-  "title": "Sync.so: AI-студия визуального дубляжа и липсинка",
-  "translated_at": null
+  "fresh": true,
+  "title": "Sync.so: студия AI-дубляжа и синхронизации губ",
+  "translated_at": "2026-10-24"
  },
  "n-d8bf4374be": {
   "fresh": false,
@@ -1300,14 +3935,24 @@
   "translated_at": null
  },
  "n-d967265835": {
-  "fresh": false,
-  "title": "LongCat-AudioDiT: высококачественный TTS на латентной диффузии в пространстве сигнала",
-  "translated_at": null
+  "fresh": true,
+  "title": "LongCat-AudioDiT: высококачественный TTS на основе латентной диффузии в пространстве waveform",
+  "translated_at": "2026-10-24"
+ },
+ "n-d9748d5e13": {
+  "fresh": true,
+  "title": "Origin достиг этапа разработки системы хостинга кода",
+  "translated_at": "2026-10-24"
+ },
+ "n-d99912828e": {
+  "fresh": true,
+  "title": "Breeze TTS 2 представлен по официальным ссылкам проекта",
+  "translated_at": "2026-10-24"
  },
  "n-d9b76e73f7": {
-  "fresh": false,
-  "title": "Vista4D: фреймворк Netflix для 4D-пересъёмки видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "Vista4D: фреймворк Netflix для 4D-переснимания видео",
+  "translated_at": "2026-10-24"
  },
  "n-d9eaebd61d": {
   "fresh": false,
@@ -1315,44 +3960,94 @@
   "translated_at": null
  },
  "n-da24004da2": {
-  "fresh": false,
-  "title": "PSDesigner: автоматизированный графический дизайн с человекоподобным воркфлоу",
-  "translated_at": null
+  "fresh": true,
+  "title": "PSDesigner: автоматизированный графический дизайн с человекоподобным рабочим процессом",
+  "translated_at": "2026-10-24"
+ },
+ "n-da87b7d4da": {
+  "fresh": true,
+  "title": "Демо Voxtral Realtime WebGPU получило документацию",
+  "translated_at": "2026-10-24"
  },
  "n-daa2681205": {
   "fresh": false,
   "title": "Obscura Remova LTX23: video-to-video LoRA",
   "translated_at": null
  },
+ "n-daa3090ac6": {
+  "fresh": true,
+  "title": "Ресурсы модели Bernini и воркфлоу ComfyUI: опубликованы ссылки",
+  "translated_at": "2026-10-24"
+ },
  "n-db7fee9bb2": {
-  "fresh": false,
-  "title": "girl-agent: движок AI-персон для Telegram с упором на личность",
-  "translated_at": null
+  "fresh": true,
+  "title": "girl-agent: движок AI-персонажей для Telegram, построенный на личности",
+  "translated_at": "2026-10-24"
+ },
+ "n-dbba09c3a2": {
+  "fresh": true,
+  "title": "Публичные страница проекта ShotStream, код и страница модели были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
  },
  "n-dc7072d90a": {
-  "fresh": false,
-  "title": "Qwen3.6-27B-DFlash: модель спекулятивного декодирования",
-  "translated_at": null
+  "fresh": true,
+  "title": "Qwen3.6-27B-DFlash: модель для спекулятивного декодирования",
+  "translated_at": "2026-10-24"
+ },
+ "n-dc75b3cb12": {
+  "fresh": true,
+  "title": "LoRA для инфографики SenseNova U1 показывает путь в восемь шагов",
+  "translated_at": "2026-10-24"
+ },
+ "n-dd148acbc4": {
+  "fresh": true,
+  "title": "Sand AI опубликовала материалы превью MAGI-2",
+  "translated_at": "2026-10-24"
+ },
+ "n-dd68bf49b2": {
+  "fresh": true,
+  "title": "Langswap представил модульный стек для машинного перевода речи и дубляжа",
+  "translated_at": "2026-10-24"
  },
  "n-dd8d68b69f": {
   "fresh": false,
   "title": "MF0-1984: долговременная память для мультимодальных AI-агентов",
   "translated_at": null
  },
+ "n-dd9a3a9b07": {
+  "fresh": true,
+  "title": "Публичный сайт WhatModels задокументирован",
+  "translated_at": "2026-10-24"
+ },
+ "n-de14e3f121": {
+  "fresh": true,
+  "title": "Gabi появился на буддийской церемонии посвящения в Южной Корее",
+  "translated_at": "2026-10-24"
+ },
+ "n-de20defbe8": {
+  "fresh": true,
+  "title": "Публичные ресурсы для разработки LingBot-World 2.0 появились в открытом доступе",
+  "translated_at": "2026-10-24"
+ },
  "n-de24cf852f": {
-  "fresh": false,
-  "title": "TIPSv2: предобучение текст-изображение с пространственным восприятием",
-  "translated_at": null
+  "fresh": true,
+  "title": "TIPSv2: Text-Image Pretraining with Spatial Awareness",
+  "translated_at": "2026-10-24"
+ },
+ "n-ded5155805": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта ViFeEdit были связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-df001e7bab": {
-  "fresh": false,
-  "title": "GPT Image 2: галерея промптов и skill",
-  "translated_at": null
+  "fresh": true,
+  "title": "GPT Image 2: галерея промптов и навык",
+  "translated_at": "2026-10-24"
  },
  "n-df8413780a": {
-  "fresh": false,
+  "fresh": true,
   "title": "ComfyUI-zveroboy-photo для RAW-воркфлоу и фотореализма",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-dfe5e1e7a6": {
   "fresh": false,
@@ -1364,60 +4059,175 @@
   "title": "Tencent Hy-MT1.5: мобильный машинный перевод",
   "translated_at": null
  },
+ "n-e1ca928d8e": {
+  "fresh": true,
+  "title": "Canva опубликовала новостное обновление о Magic Layers.",
+  "translated_at": "2026-10-24"
+ },
+ "n-e2832a6cb2": {
+  "fresh": true,
+  "title": "Ресурс Flux2-Klein-9B-Consistency опубликован",
+  "translated_at": "2026-10-24"
+ },
+ "n-e2e11bcd53": {
+  "fresh": true,
+  "title": "Опубликованы сайт проекта SpatialBoost и ссылка на репозиторий GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-e304c780ea": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта HiAR были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
  "n-e33dfb0bdb": {
-  "fresh": false,
-  "title": "Vanast: унифицированная анимация человека и виртуальная примерка",
-  "translated_at": null
+  "fresh": true,
+  "title": "Vanast: единая система анимации человека и виртуальной примерки",
+  "translated_at": "2026-10-24"
  },
  "n-e3abad048f": {
-  "fresh": false,
-  "title": "NUMINA: числовое выравнивание для видеодиффузии",
-  "translated_at": null
+  "fresh": true,
+  "title": "NUMINA: численное выравнивание для видео-диффузионных моделей",
+  "translated_at": "2026-10-24"
+ },
+ "n-e3b0bbbd83": {
+  "fresh": true,
+  "title": "На OpenWorker публично ссылались через его репозиторий на GitHub",
+  "translated_at": "2026-10-24"
+ },
+ "n-e3f07cf60d": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MetaView стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-e3f801a8ba": {
+  "fresh": true,
+  "title": "Зафиксированы публичные ресурсы проекта SwiftVR",
+  "translated_at": "2026-10-24"
  },
  "n-e3fe618151": {
   "fresh": false,
   "title": "MegaStyle: масштабируемый пайплайн курирования художественных стилей",
   "translated_at": null
  },
+ "n-e431684c08": {
+  "fresh": true,
+  "title": "Репозиторий ComfyUI KSampler Matrix Lab упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-e48a82e567": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта SparkVSR опубликованы",
+  "translated_at": "2026-10-24"
+ },
  "n-e4b7a4de7b": {
-  "fresh": false,
-  "title": "MiroFish: open-source движок мультиагентной симуляции социального поведения",
-  "translated_at": null
+  "fresh": true,
+  "title": "MiroFish: открытый движок для мультиагентного моделирования социального поведения",
+  "translated_at": "2026-10-24"
  },
  "n-e4d5ff5436": {
-  "fresh": false,
+  "fresh": true,
   "title": "Интеграция Seedance 2.0 в ComfyUI",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-e4fab55e05": {
-  "fresh": false,
+  "fresh": true,
   "title": "StorySplat v2.3: интерактивный редактор 3D Gaussian Splatting",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-e51898fad5": {
   "fresh": false,
   "title": "GLM-5.1: автономный инженерный агент от Z.ai",
   "translated_at": null
  },
+ "n-e55e56223b": {
+  "fresh": true,
+  "title": "Ресурсы проекта Audio-Interaction опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-e55f67c729": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MODUS стали доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-e584d1d2e9": {
+  "fresh": true,
+  "title": "iXBT News сообщил о Unitree GD01",
+  "translated_at": "2026-10-24"
+ },
  "n-e5bb396e69": {
-  "fresh": false,
+  "fresh": true,
   "title": "FLUX.2 [klein] Move: LoRA для интерактивного перемещения объектов",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-e5c07a6c4b": {
+  "fresh": true,
+  "title": "MultiSplat получил датированную публичную ссылку",
+  "translated_at": "2026-10-24"
  },
  "n-e60825c137": {
-  "fresh": false,
+  "fresh": true,
   "title": "Unity AI (Muse и Sentis) для Unity 6",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-e613f26dc4": {
+  "fresh": true,
+  "title": "Опубликованы ресурсы проекта GEAR",
+  "translated_at": "2026-10-24"
  },
  "n-e63a0d4512": {
   "fresh": false,
   "title": "M-XR: генерация production-PBR из изображения в материал",
   "translated_at": null
  },
+ "n-e6413c0a2c": {
+  "fresh": true,
+  "title": "Ресурсы ArtiFixer были связаны между исследовательскими, кодовыми и модельными каналами",
+  "translated_at": "2026-10-24"
+ },
+ "n-e69923fb8b": {
+  "fresh": true,
+  "title": "Исходный код Harness² доступен по лицензии Apache-2.0",
+  "translated_at": "2026-10-24"
+ },
+ "n-e6ade9848e": {
+  "fresh": true,
+  "title": "Ресурсы MOSS-SoundEffect v2.0 и интеграция с ComfyUI были связаны",
+  "translated_at": "2026-10-24"
+ },
+ "n-e712086893": {
+  "fresh": true,
+  "title": "Krea Agents открывает творческие рабочие процессы по заявкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-e7545aced1": {
+  "fresh": true,
+  "title": "Ресурсы проекта Holi-Spatial были опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-e75b2209d4": {
+  "fresh": true,
+  "title": "Qwen Code выходит вместе с Qwen3-Coder",
+  "translated_at": "2026-10-24"
+ },
  "n-e76fc8f96f": {
   "fresh": false,
   "title": "SANA-Video: эффективный синтез и апскейл видео 720p",
   "translated_at": null
+ },
+ "n-e859acd94e": {
+  "fresh": true,
+  "title": "Microsoft опубликовала обновление о мультимодельных возможностях Microsoft 365 Copilot Researcher",
+  "translated_at": "2026-10-24"
+ },
+ "n-e8b9f004d7": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта ARDY были опубликованы",
+  "translated_at": "2026-10-24"
+ },
+ "n-e8fb056748": {
+  "fresh": true,
+  "title": "Страница проекта и исходный репозиторий CollabVR опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-e9259b87d6": {
   "fresh": false,
@@ -1425,49 +4235,99 @@
   "translated_at": null
  },
  "n-e92b026fad": {
-  "fresh": false,
+  "fresh": true,
   "title": "OpenAI Daybreak",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-e96d2e151b": {
   "fresh": false,
   "title": "TriAttention: эффективный длинный reasoning через тригонометрическое сжатие KV",
   "translated_at": null
  },
+ "n-e9d344fa77": {
+  "fresh": true,
+  "title": "Ресурсы проекта Self Gradient Forcing были опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-ea26f61d82": {
+  "fresh": true,
+  "title": "Huihui-Qwen3.8-27B-abliterated стала публично доступна через Hugging Face",
+  "translated_at": "2026-10-24"
+ },
  "n-ea4c5d4dff": {
   "fresh": false,
   "title": "LAVA Genie: умная безструнная гитара с интеграцией AI",
   "translated_at": null
  },
+ "n-ea52f36353": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MuScriptor стали доступны",
+  "translated_at": "2026-10-24"
+ },
  "n-ea5cb3e3f2": {
-  "fresh": false,
+  "fresh": true,
   "title": "CoPaw-Flash-9B: автономный агент-аналитик данных",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-ea73b925dc": {
-  "fresh": false,
-  "title": "Seed3D 2.0: готовая к продакшену 3D foundation-модель от ByteDance",
-  "translated_at": null
+  "fresh": true,
+  "title": "Seed3D 2.0: готовая к промышленному применению 3D-foundation-модель от ByteDance",
+  "translated_at": "2026-10-24"
+ },
+ "n-eaa0dc5be8": {
+  "fresh": true,
+  "title": "Опубликованы ссылки на публичные ресурсы проекта ShutterMuse",
+  "translated_at": "2026-10-24"
  },
  "n-eaa27c5213": {
-  "fresh": false,
-  "title": "Gen-Searcher: мультимодальный deep research агент с опорой на поиск",
-  "translated_at": null
+  "fresh": true,
+  "title": "Gen-Searcher: мультимодальный исследовательский агент с опорой на поиск",
+  "translated_at": "2026-10-24"
+ },
+ "n-eab857eece": {
+  "fresh": true,
+  "title": "OmniStream стал публично доступен через страницу проекта, код и ресурсы модели",
+  "translated_at": "2026-10-24"
+ },
+ "n-eac94cf783": {
+  "fresh": true,
+  "title": "CohereLabs опубликовала страницы моделей North Mini Code 1.0 на Hugging Face",
+  "translated_at": "2026-10-24"
  },
  "n-eb367fb3e1": {
   "fresh": false,
   "title": "LumiPic: диффузионное преобразование изображений SDR-в-HDR",
   "translated_at": null
  },
+ "n-eb68bcfc57": {
+  "fresh": true,
+  "title": "Krea опубликовала открытые материалы и материалы для развёртывания Krea 2",
+  "translated_at": "2026-10-24"
+ },
  "n-eb965439db": {
-  "fresh": false,
+  "fresh": true,
   "title": "GBrain: слой памяти для агентов OpenClaw и Hermes",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-ebeab9837a": {
-  "fresh": false,
+  "fresh": true,
   "title": "Griptape: платформа оркестрации ИИ для VFX",
-  "translated_at": null
+  "translated_at": "2026-10-24"
+ },
+ "n-ec159def6b": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта ID-LoRA опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-ec3dda9c78": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта HOMIE зафиксированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-ec4e396a59": {
+  "fresh": true,
+  "title": "Упоминание публичного репозитория KVarN",
+  "translated_at": "2026-10-24"
  },
  "n-ec5428386a": {
   "fresh": false,
@@ -1479,30 +4339,70 @@
   "title": "Phi-Ground-Any: мультимодальная модель GUI-grounding от Microsoft",
   "translated_at": null
  },
+ "n-eca931f946": {
+  "fresh": true,
+  "title": "Опубликована страница проекта MVTrack4Gen",
+  "translated_at": "2026-10-24"
+ },
+ "n-ecb3a7060c": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта DVD были связаны между собой",
+  "translated_at": "2026-10-24"
+ },
  "n-edad1a10a0": {
-  "fresh": false,
-  "title": "MegaStyle: фреймворк переноса стиля и ноды для ComfyUI",
-  "translated_at": null
+  "fresh": true,
+  "title": "Фреймворк переноса стиля MegaStyle и ноды ComfyUI",
+  "translated_at": "2026-10-24"
+ },
+ "n-ee301ec91c": {
+  "fresh": true,
+  "title": "Seedance 2.0 упомянута в контексте внешней оценки видеомоделей",
+  "translated_at": "2026-10-24"
  },
  "n-ee38e77991": {
-  "fresh": false,
+  "fresh": true,
   "title": "PhysForge: физически обоснованная генерация интерактивных 3D-ассетов",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-ee8bd2e38f": {
-  "fresh": false,
-  "title": "GSD 2: автономный CLI-агент для разработки ПО",
-  "translated_at": null
+  "fresh": true,
+  "title": "GSD 2: автономный CLI-агент для разработки программного обеспечения",
+  "translated_at": "2026-10-24"
+ },
+ "n-eea14f2dcf": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта OmniNFT опубликованы по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-ef5357108f": {
+  "fresh": true,
+  "title": "Сайт Volumography, упомянутый в ветке о запуске",
+  "translated_at": "2026-10-24"
  },
  "n-efaa00d50b": {
-  "fresh": false,
-  "title": "OpenReview: AI-бот для код-ревью от Vercel Labs",
-  "translated_at": null
+  "fresh": true,
+  "title": "OpenReview: ИИ-бот для ревью кода от Vercel Labs",
+  "translated_at": "2026-10-24"
+ },
+ "n-f09f1875bc": {
+  "fresh": true,
+  "title": "Сайт проекта KnowAct-GUIClaw и репозиторий с исходным кодом опубликованы вместе",
+  "translated_at": "2026-10-24"
+ },
+ "n-f0c1036242": {
+  "fresh": true,
+  "title": "Репозитории MiniMax-H3 x Z-Image в нативном формате и GGUF были связаны между собой",
+  "translated_at": "2026-10-24"
  },
  "n-f0cec18709": {
   "fresh": false,
   "title": "Rodin Gen 2.5 (Hyper3D)",
   "translated_at": null
+ },
+ "n-f108d81c34": {
+  "fresh": true,
+  "title": "PixVerse представила интерфейс генерации для работы в терминале",
+  "translated_at": "2026-10-24"
  },
  "n-f1139f1ee9": {
   "fresh": false,
@@ -1514,60 +4414,155 @@
   "title": "MOSS-TTS-Nano",
   "translated_at": null
  },
+ "n-f1f27d1e3a": {
+  "fresh": true,
+  "title": "На страницу проекта Spatial Memory Agent поставлена ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-f202a83f88": {
+  "fresh": true,
+  "title": "NVIDIA открыла публичный доступ к ресурсам проекта FastGen",
+  "translated_at": "2026-10-24"
+ },
+ "n-f2122c676b": {
+  "fresh": true,
+  "title": "Репозиторий Joy-LTX 2.5 x Z-Image опубликован на Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-f241b400a1": {
+  "fresh": true,
+  "title": "Cursor опубликовала публичное обновление, связанное с Router",
+  "translated_at": "2026-10-24"
+ },
  "n-f24b5871aa": {
   "fresh": false,
   "title": "SDXS-1B: диффузия в реальном времени и высококачественный апскейлер",
   "translated_at": null
  },
+ "n-f2b3361da7": {
+  "fresh": true,
+  "title": "Ресурс проекта на Hugging Face, зафиксированный для Realism_Engine_Ideogram_4",
+  "translated_at": "2026-10-24"
+ },
  "n-f306331601": {
-  "fresh": false,
-  "title": "GameWorld: стандартизированная платформа для оценки мультимодальных AI-агентов",
-  "translated_at": null
+  "fresh": true,
+  "title": "GameWorld: стандартизированная платформа для оценки мультимодальных ИИ-агентов",
+  "translated_at": "2026-10-24"
+ },
+ "n-f3982b18eb": {
+  "fresh": true,
+  "title": "Публичное знакомство с Perceptron Mk1",
+  "translated_at": "2026-10-24"
  },
  "n-f3c22d2162": {
-  "fresh": false,
-  "title": "PhoneClaw: локальный on-device агент Gemma 4 для iOS",
-  "translated_at": null
+  "fresh": true,
+  "title": "PhoneClaw: локальный on-device агент на Gemma 4 для iOS",
+  "translated_at": "2026-10-24"
+ },
+ "n-f43e44e73f": {
+  "fresh": true,
+  "title": "Ресурсы проекта Moebius стали публично доступны",
+  "translated_at": "2026-10-24"
+ },
+ "n-f49e4ee649": {
+  "fresh": true,
+  "title": "Reka Edge представлен вместе с документацией по чату и связанным внешним ресурсом",
+  "translated_at": "2026-10-24"
  },
  "n-f4c04ff479": {
-  "fresh": false,
+  "fresh": true,
   "title": "Spatial Studio: 3D Gaussian Splatting от Real Horizons",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-f4d17d7115": {
   "fresh": false,
   "title": "Gemma 4 E4B Heretic Uncensored",
   "translated_at": null
  },
+ "n-f52983ecb7": {
+  "fresh": true,
+  "title": "Runway представила Aleph 2.0",
+  "translated_at": "2026-10-24"
+ },
  "n-f57cbec8b9": {
   "fresh": false,
   "title": "LingBot-Map: потоковая реконструкция 3D-сцен в реальном времени",
   "translated_at": null
  },
+ "n-f57cbf8f0c": {
+  "fresh": true,
+  "title": "Публичный сайт проекта WithEveryone опубликован по ссылке",
+  "translated_at": "2026-10-24"
+ },
+ "n-f5a3ca876d": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта Kimodo анонсированы",
+  "translated_at": "2026-10-24"
+ },
+ "n-f5abb4cf9b": {
+  "fresh": true,
+  "title": "Claude Fable 5 вернули в эксплуатацию",
+  "translated_at": "2026-10-24"
+ },
  "n-f5dbfdb346": {
-  "fresh": false,
-  "title": "ElevenLabs: on-premise и on-device развёртывание речевого AI",
-  "translated_at": null
+  "fresh": true,
+  "title": "ElevenLabs: развёртывание речевого ИИ on-premise и на устройстве",
+  "translated_at": "2026-10-24"
  },
  "n-f6c6cdf729": {
   "fresh": false,
   "title": "ComfyUI 6DOF Camera — манипуляции с 3D-сценами и расстановка персонажей",
   "translated_at": null
  },
+ "n-f6f78aa8d5": {
+  "fresh": true,
+  "title": "Появились репозиторий и демо SANA",
+  "translated_at": "2026-10-24"
+ },
  "n-f735b8e846": {
-  "fresh": false,
-  "title": "SVGS: пространственно-переменный Gaussian Splatting для реконструкции сцен",
-  "translated_at": null
+  "fresh": true,
+  "title": "SVGS: Spatially Varying Gaussian Splatting for Scene Reconstruction",
+  "translated_at": "2026-10-24"
  },
  "n-f771c01e06": {
-  "fresh": false,
-  "title": "CORAL: инфраструктура для автономной эволюции мульти-агентных систем",
-  "translated_at": null
+  "fresh": true,
+  "title": "CORAL: инфраструктура для автономной эволюции многоагентных систем",
+  "translated_at": "2026-10-24"
+ },
+ "n-f77e6ada52": {
+  "fresh": true,
+  "title": "Ссылка на GitHub-репозиторий macOS Harness",
+  "translated_at": "2026-10-24"
+ },
+ "n-f7bf45f8a9": {
+  "fresh": true,
+  "title": "На репозиторий Agent Orchestrator публично сослались",
+  "translated_at": "2026-10-24"
+ },
+ "n-f80e0da140": {
+  "fresh": true,
+  "title": "Обновление продукта Tripo за май",
+  "translated_at": "2026-10-24"
  },
  "n-f861f085b8": {
   "fresh": false,
   "title": "Free Claude Code: ИИ-прокси для Claude CLI",
   "translated_at": null
+ },
+ "n-f8b15964ba": {
+  "fresh": true,
+  "title": "Репозиторий MaskVidExperiments на GitHub был публично упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-f8b2802977": {
+  "fresh": true,
+  "title": "В репозиторий ComfyUI Spectrum MiniMax H3 добавлена ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-f8cc9060c3": {
+  "fresh": true,
+  "title": "Опубликован код SANA",
+  "translated_at": "2026-10-24"
  },
  "n-f9bd7f602b": {
   "fresh": false,
@@ -1575,38 +4570,103 @@
   "translated_at": null
  },
  "n-fa9c04297f": {
-  "fresh": false,
-  "title": "SillyTavern: продвинутый интерфейс для AI-ролеплея",
-  "translated_at": null
+  "fresh": true,
+  "title": "SillyTavern: продвинутый интерфейс для ролевых игр с ИИ",
+  "translated_at": "2026-10-24"
+ },
+ "n-faa53b79d3": {
+  "fresh": true,
+  "title": "Репозиторий MiniMax H3 Hybrid на Hugging Face зафиксирован",
+  "translated_at": "2026-10-24"
  },
  "n-fb32c38877": {
-  "fresh": false,
-  "title": "OmniWeaving — унифицированная модель генерации видео",
-  "translated_at": null
+  "fresh": true,
+  "title": "OmniWeaving: унифицированная модель генерации видео",
+  "translated_at": "2026-10-24"
+ },
+ "n-fb33cdc42d": {
+  "fresh": true,
+  "title": "Репозиторий ComPyter на GitHub упомянут",
+  "translated_at": "2026-10-24"
+ },
+ "n-fb888fd82d": {
+  "fresh": true,
+  "title": "Ресурсы проекта Hunyuan3D-Buffalo 1.0 опубликованы",
+  "translated_at": "2026-10-24"
  },
  "n-fc612ab002": {
-  "fresh": false,
-  "title": "IceCache: эффективный по памяти семантический KV-кэш для длинноконтекстных LLM",
-  "translated_at": null
+  "fresh": true,
+  "title": "IceCache: семантический KV-кэш с эффективным использованием памяти для длинных LLM",
+  "translated_at": "2026-10-24"
+ },
+ "n-fcae5fc646": {
+  "fresh": true,
+  "title": "Публичные ресурсы проекта MobileWan стали доступны по ссылкам",
+  "translated_at": "2026-10-24"
+ },
+ "n-fdaa3b9adb": {
+  "fresh": true,
+  "title": "Публичный репозиторий ComfyUI-MiniMax-H3-LongMedia: справочная запись",
+  "translated_at": "2026-10-24"
+ },
+ "n-fdae3b02e0": {
+  "fresh": true,
+  "title": "Опубликованы сайт проекта AwaRes и исходный код в репозитории",
+  "translated_at": "2026-10-24"
  },
  "n-fdbf17ddf7": {
-  "fresh": false,
-  "title": "LGTM: Less Gaussians, Texture More для 3D-реконструкции",
-  "translated_at": null
+  "fresh": true,
+  "title": "LGTM: Less Gaussians, Texture More for 3D Reconstruction",
+  "translated_at": "2026-10-24"
+ },
+ "n-fe2f35c14b": {
+  "fresh": true,
+  "title": "Qwen3-Coder получил мультимодальность и обновления бенчмарков",
+  "translated_at": "2026-10-24"
+ },
+ "n-fe403ecd72": {
+  "fresh": true,
+  "title": "FlashMemory-Deepseek-V4 связан с GitHub и Hugging Face",
+  "translated_at": "2026-10-24"
+ },
+ "n-fe49770141": {
+  "fresh": true,
+  "title": "Grok Imagine Image 2.0 представлен в новостной записи продукта xAI",
+  "translated_at": "2026-10-24"
+ },
+ "n-fe5aa54dca": {
+  "fresh": true,
+  "title": "Сайт OpenCut и исходный репозиторий были публично упомянуты",
+  "translated_at": "2026-10-24"
  },
  "n-fe9036dfac": {
-  "fresh": false,
-  "title": "PlayCoder: делаем сгенерированный LLM GUI-код работоспособным",
-  "translated_at": null
+  "fresh": true,
+  "title": "PlayCoder: делаем GUI-код, сгенерированный LLM, работающим",
+  "translated_at": "2026-10-24"
+ },
+ "n-fec11a299f": {
+  "fresh": true,
+  "title": "ByteShape опубликовала ссылки на материал о Qwen Image 2512 и на сравнение",
+  "translated_at": "2026-10-24"
  },
  "n-ff03e5bf7b": {
-  "fresh": false,
+  "fresh": true,
   "title": "Majoor Assets Manager для ComfyUI",
-  "translated_at": null
+  "translated_at": "2026-10-24"
  },
  "n-ff21b44ef5": {
-  "fresh": false,
-  "title": "Open Design: local-first open-source движок AI-дизайна",
-  "translated_at": null
+  "fresh": true,
+  "title": "Open Design: локальный open-source движок AI-дизайна с приоритетом локальной работы",
+  "translated_at": "2026-10-24"
+ },
+ "n-ffa010ab28": {
+  "fresh": true,
+  "title": "На репозиторий ComfyUI_StarNodes на GitHub была сделана ссылка",
+  "translated_at": "2026-10-24"
+ },
+ "n-ffa7213d37": {
+  "fresh": true,
+  "title": "Публичные ресурсы для LoRA Seamless-Equirectangular LTX-2.3",
+  "translated_at": "2026-10-24"
  }
 }

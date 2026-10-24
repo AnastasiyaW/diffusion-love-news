@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 Unity에 의존하던 AI4Animation 프레임워크의 직접적인 후속작이다. 전체 파이프라인을 Python으로 옮겼으며, Flow Matching, Codebook Matching 같은 고급 기법을 지원하고, 추론 및 시각화 단계를 거치는 역전파도 가능하게 했다.",
+ "id": "n-535631e71f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "엔티티-컴포넌트-시스템(ECS) 아키텍처를 채택했으며, GLB, FBX, BVH 소스의 모션 데이터를 고성능 .npz 포맷으로 직렬화하는 기능을 지원한다.",
+ "source_sha256": "73871b622dce6fa0c3e7372e84d4aa70f287832588b5f39251b7ecdc5ce34fdf",
+ "summary": "Meta Research가 개발한 AI 기반 캐릭터 애니메이션용 Python 네이티브 프레임워크로, 데이터 처리, 학습, 실시간 시각화를 하나로 통합한다. 순수 NumPy와 PyTorch 백엔드에 내장 Raylib 렌더러를 결합하여 Unity 같은 게임 엔진의 필요성을 없앴다.",
+ "title": "AI4AnimationPy: 지능형 캐릭터 애니메이션을 위한 Python 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

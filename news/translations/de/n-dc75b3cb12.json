@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag berichtete über eine LoRA für Infografiken mit acht Schritten, die chinesischen und englischen Text, strukturierte Layouts und die Nutzung auf Consumer-GPUs unterstützt, sowie über wiederkehrende Textfehler und Probleme mit weißen Hintergründen.",
+ "id": "n-dc75b3cb12",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f2ee2e44107ab209c5b4a7434af3397d9ff18eb8010d2661a9963d0c2f20051e",
+ "summary": "Der Nachrichtenbeitrag berichtete über eine LoRA für Infografiken mit acht Schritten, die chinesischen und englischen Text, strukturierte Layouts und die Nutzung auf Consumer-GPUs unterstützt, sowie über wiederkehrende Textfehler und Probleme mit weißen Hintergründen.",
+ "title": "SenseNova U1-Infografik-LoRA zeigt einen Acht-Schritte-Pfad",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

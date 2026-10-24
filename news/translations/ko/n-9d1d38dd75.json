@@ -1,0 +1,10 @@
+{
+ "id": "n-9d1d38dd75",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "908a49347eda2871747c41a759df62d70af890ed0de03ec1eb951bdcaf687ff4",
+ "summary": "2026-06-13에 LTX2.3 Audio Reactive LoRA 계열이 fal 아래의 Hugging Face 직접 링크와 함께 기록되었다. 이는 해당 계열에 대한 의미 있는 공개 참조 지점이지만, 제공된 근거만으로는 모델의 기능, 버전 세부 사항, 학습 데이터, 사용 조건은 확인되지 않는다.",
+ "title": "LTX2.3 Audio Reactive LoRA가 날짜가 기록된 개발 이력에 등재됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

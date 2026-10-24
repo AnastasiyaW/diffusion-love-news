@@ -1,0 +1,10 @@
+{
+ "id": "n-38e1500c66",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "39d743d5eaa3229d2d0eb7a4d3197687c7365bfa08a30bd4f4f8632c095d6856",
+ "summary": "2026 年 6 月 7 日，TripoSplat 通过其研究页面、开源代码仓库、模型检查点、交互式演示以及 ComfyUI 工作流模板被陆续推出。这些资源共同使该项目可供技术研究，并支持从图像到高斯溅射（Gaussian splat）的实验。",
+ "title": "TripoSplat 的研究、模型、演示与工作流资源集中浮现",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article d'actualité renvoyait vers le dépôt Unsloth, un notebook Colab et des instructions pour le fine-tuning de GPT-OSS.",
+ "id": "n-4920069d82",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "219e84b5d75ab91bceada367421c4abadf0b90a6cc5a3713ab32f97021826c6e",
+ "summary": "L'article d'actualité renvoyait vers le dépôt Unsloth, un notebook Colab et des instructions pour le fine-tuning de GPT-OSS.",
+ "title": "Unsloth publie des recommandations pour le fine-tuning de GPT-OSS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

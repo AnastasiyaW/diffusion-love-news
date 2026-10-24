@@ -1,0 +1,10 @@
+{
+ "id": "n-0dea9b891a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3b4219a9a098d8ebdcab7ca5c577cc5ee3d2a841f60b8e9ddf8c4b91df35e003",
+ "summary": "El 31 de marzo de 2026, la línea de desarrollo de EUPE registró enlaces al repositorio facebookresearch/eupe y al recurso facebook/EUPE-ViT-S de Hugging Face. Esto se considera un hito de disponibilidad relevante porque identifica tanto una ubicación de la implementación como un recurso de modelo con nombre propio. La evidencia disponible no establece una versión de lanzamiento, capacidades ni el estado de los artefactos más allá de esos enlaces fechados.",
+ "title": "Implementación de EUPE y recurso del modelo EUPE-ViT-S vinculados",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

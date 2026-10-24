@@ -1,0 +1,10 @@
+{
+ "id": "n-36fa065b79",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "467ca0765d3b98c922f2429db62c853037ed9339ce01acb6882f60d7ebcdca1f",
+ "summary": "2026年7月3日,该项目的 Flux 2 Klein LoRA 讨论串记录了一条指向其 Hugging Face 资源的链接。封存的证据中不包含帖子正文或模型卡内容,因此本事件仅确立了这一带日期的资源引用,不对发布版本、训练配置、许可证或性能作出任何说明。",
+ "title": "Sun Direction LoRA Flux 2 Klein 9B 资源引用已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

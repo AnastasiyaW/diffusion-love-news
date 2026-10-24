@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó con rapidez desde su primera versión hasta la v0.1.9, con funcionalidades como Auto-Compaction y Skill Workflows. La hoja de ruta futura se centra en la integración con ClawTeam y en protocolos de comunicación multiagente más avanzados.",
+ "id": "n-44c547a245",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el HKU Data Science Lab; incluye el agente personal 'ohmo' para la gestión automatizada de repositorios y tareas de programación.",
+ "source_sha256": "8090bd850deecfbf39273226e5fa339bdf963061d317dd1e5de3ab734f5c1bc4",
+ "summary": "Un framework de código abierto en Python que dota a los LLM de herramientas, memoria y mecanismos de gobernanza para flujos de trabajo de agentes autónomos. Incorpora un sistema modular de skills y admite la orquestación multiagente con distintos proveedores de modelos.",
+ "title": "OpenHarness: infraestructura ligera para sistemas multiagente con LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

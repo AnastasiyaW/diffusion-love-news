@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "1.5 시리즈에서 발전하여, 전통적인 SSML을 사용하지 않고 직관적인 장면 기반 묘사를 선호하는 성능 중심 아키텍처로 진화했습니다. 이는 맥락 기반 음성 숙련도와 엔터프라이즈급 확장성을 향한 전환을 의미합니다.",
+ "id": "n-d5e685b3b1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "콘텐츠 추적을 위한 SynthID를 통합하고 있으며, 세밀한 감정 및 리듬 제어를 위한 200개 이상의 태그를 제공합니다.",
+ "source_sha256": "2d7fcbb50c980d8605e3a3b94b947a54d155481ffc8ea7e0f54dfa607083a432",
+ "summary": "Google의 고급 텍스트 음성 변환(TTS) 모델로, 자연어 프롬프트와 인라인 감정 태그를 통해 '지시된 연기(directed performance)'를 가능하게 합니다. 고충실도와 저지연 오디오 생성을 지원하며, 대화형 애플리케이션을 위해 네이티브 다중 화자 대화 기능을 갖추고 있습니다.",
+ "title": "Gemini 3.1 Flash TTS 고정밀 음성 제어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

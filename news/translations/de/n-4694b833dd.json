@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt aus dem optimierungsbasierten Ansatz PICO-fit (2025) hin zu einem Transformer-Modell mit einem einzigen Durchlauf. Es führte 'Referential Contact' ein, das natürlichsprachliche Anfragen ermöglicht, und verbesserte den Inferenzdurchsatz für die Verarbeitung großer Videomengen deutlich.",
+ "id": "n-4694b833dd",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erzielte neue State-of-the-Art-Ergebnisse auf den Datensätzen MMHOI und DAMON und übertraf frühere Vision-Language-Modelle wie InteractVLM.",
+ "source_sha256": "146069b4e05a3df672cd00ebe4bfb1a845f339a5e5c3dfa242cbd077bf3ddb31",
+ "summary": "Ein instanzbewusstes Framework zur Vorhersage dichter 3D-Kontakte zwischen Mensch und Objekt aus Einzelbildern. Es nutzt die InteractionFormer-Architektur und einen SAM-basierten Decoder, um Kontaktmasken auf SMPL-Körpermodelle in Szenen mit mehreren Personen abzubilden.",
+ "title": "Pi-HOC: Paarweiser 3D-Kontakt zwischen Mensch und Objekt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

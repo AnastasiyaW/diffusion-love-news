@@ -1,0 +1,10 @@
+{
+ "id": "n-9760d7add3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "71ed3f1974a7a844a9f9f1aa1dea3b6f22d64e35f9c6544ca141529d995b45e1",
+ "summary": "Am 14.05.2026 verwies ein Eintrag in der Entwicklungslinie von MemPrivacy auf das GitHub-Repository des Projekts und dessen Hugging-Face-Sammlung. Die verlinkten öffentlichen Angebote stellen Quellcode bzw. eine Modellsammlung bereit, die verfügbaren Belege belegen jedoch weder einen bestimmten Release, eine Version, eine Fähigkeit, einen Benchmark noch eine technische Änderung.",
+ "title": "MemPrivacy-Quellcode und Modellsammlung referenziert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 초, 프로젝트는 Animation Base Model V2.0을 공개하여 모션 궤적을 크게 개선하고 복잡한 공중 동작 처리 능력을 높였습니다. 또한 발이 미끄러지는 현상을 방지하는 Physics Optimization 2.0을 탑재했으며, 다중 피사체 추적과 기본 iClone 연동을 지원합니다.",
+ "id": "n-2fd5e60740",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "월 50 크레딧을 제공하는 무료 요금제가 포함되어 있으며, Unreal Engine 5.6+ 및 Blender용 직접 내보내기 플러그인을 지원합니다.",
+ "source_sha256": "caad73cece9cf631d0864654c42df16147618528a92d69e9a907371a468547d5",
+ "summary": "QuickMagic은 일반 영상을 몸, 손, 얼굴에 대한 고충실도 3D 모션 캡처 데이터로 변환하는 AI 기반 플랫폼입니다. 게임 개발과 애니메이션 제작을 위해 하드웨어 기반 모캡 슈트를 대체할 수 있는 비용 효율적인 대안을 창작자에게 제공합니다.",
+ "title": "QuickMagic AI: 전문가용 영상-모캡 및 아바타 서비스",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

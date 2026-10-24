@@ -1,0 +1,10 @@
+{
+ "id": "n-66b11f2c1c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b04820a0b410c67ee71460f8d87f751fbb6e2856bf135cd5f4a05bbc2d1bc55c",
+ "summary": "El 2026-07-22, un registro fechado vinculó el repositorio de GitHub FedorAiToolkit junto con el repositorio bodyrec. Las pruebas disponibles establecen estas dos referencias a repositorios, pero no establecen una relación de publicación, de cambios de código, de integración o de propiedad más allá de su coaparición en el registro.",
+ "title": "FedorAiToolkit se vinculó con el repositorio bodyrec",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

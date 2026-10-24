@@ -1,0 +1,10 @@
+{
+ "id": "n-ce536a0efc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6064614b928067e0d1fdfc66fdafd7da20bcd32f3b28656e29b3057ce0b65de",
+ "summary": "2026 年 4 月 6 日，NVIDIA 公开展示了作为纹理内存削减技术的神经纹理压缩（Neural Texture Compression）。相关报道描述了一项对比测试：所展示的方法将显存占用从 6.5 GB 降至 970 MB，对该项目而言是一项实质性的公开进展。",
+ "title": "NVIDIA 展示神经纹理压缩，显存占用大幅降低",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

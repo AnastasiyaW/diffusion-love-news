@@ -1,0 +1,10 @@
+{
+ "id": "n-aefede82fd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "aa51edc01a460520f4dc8af1206ff363d02bdf0efd61be2faa5f9d5d8fbc5fb1",
+ "summary": "2026년 8월 3일, sana 스레드의 한 메시지가 Sol-Attn 프로젝트 페이지와 NVlabs/Sana `sol-engine` 브랜치를 연결했습니다. 이 참조들은 Sol-Attn 프로젝트의 공개적으로 문서화된 개발 단계를 나타내며, 프로젝트 이력에 포함할지 검토할 필요가 있습니다. 다만 현재 확보된 근거로는 해당 날짜가 발표, 릴리스, 코드 업데이트 중 어느 것이었는지 확인할 수 없습니다.",
+ "title": "Sol-Attn 프로젝트 페이지 및 구현 브랜치 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

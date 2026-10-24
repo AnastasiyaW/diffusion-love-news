@@ -1,0 +1,10 @@
+{
+ "id": "n-145acbde64",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4cfb8f526b16af44d24f885a8bb8e433fec24eb0a90d387da2bf451c5dab00fc",
+ "summary": "2026年5月16日，有日期的证据将 Dramabox 相关资源关联在一起，包括 Resemble AI 文档、Hugging Face 模型仓库、Hugging Face Space 以及 GitHub 仓库。综合来看，这些官方项目资源表明 Dramabox 已达到公开可用的里程碑。现有证据未能确认其版本、功能、许可证，也无法确定所关联资源的原始发布日期。",
+ "title": "Dramabox 公开模型、演示和源代码资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

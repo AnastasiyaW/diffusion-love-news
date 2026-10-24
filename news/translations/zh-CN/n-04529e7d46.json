@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "作为 Qwen3.5 系列的后续版本，该模型引入了 Gated DeltaNet 混合注意力机制，以加快长上下文处理速度，并引入 Thinking Preservation 机制，以实现稳定的多轮推理。",
+ "id": "n-04529e7d46",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在智能体编程（SWE-bench 73.4%）和数学（AIME 2026 92.6%）方面，该模型位居顶级开放权重模型之列；采用 Apache 2.0 协议发布。",
+ "source_sha256": "bd3caceaa2a648b958f75addc718835b9567edfb0db9eccd80759bfa7cfd2db2",
+ "summary": "一款开放权重的多模态模型，总参数量为 35B，激活参数量为 3B，采用稀疏混合专家（Mixture-of-Experts，MoE）架构。该模型针对智能体编程和数学进行了优化，并采用混合线性注意力机制，以实现高效的长上下文推理。",
+ "title": "Qwen3.6-35B-A3B：阿里巴巴推出的多模态稀疏 MoE 模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

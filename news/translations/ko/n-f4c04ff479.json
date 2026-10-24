@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "베타 단계의 캡처 도구에서 출발해 AI 자동화가 통합된 통합 공간 엔진으로 발전했습니다. 현재 버전에는 장면 분석을 위한 Spatial Sense AI와, 모바일 브라우저에서 고품질 3DGS를 구현할 수 있게 하는 LOD 스트리밍이 포함되어 있습니다.",
+ "id": "n-f4c04ff479",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Singapore Air Show 2026과 같은 주요 상업 쇼케이스에 활용되었으며, .spz 및 .sogs와 같은 최적화된 splat 포맷을 지원합니다.",
+ "source_sha256": "7f462b464d26d070797d027c61d9287c8d6763684ea16f12d1f336c7a25267c3",
+ "summary": "Spatial Studio는 Gaussian Splatting 기술을 활용해 몰입형 3D 시각화를 제작하는 SaaS 플랫폼입니다. 부지 규모의 스캔을 Google 3D Maps 및 고해상도 360° 파노라마와 결합하여 부동산 마케팅에 특화되어 있습니다.",
+ "title": "Real Horizons의 Spatial Studio 3D Gaussian Splatting",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

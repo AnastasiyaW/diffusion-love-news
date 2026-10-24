@@ -1,0 +1,10 @@
+{
+ "id": "n-2e0520da75",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "21d268ce6bc17eb87c57cce2f947aa9ca084c3906d183432cb9a314b616d637c",
+ "summary": "4 июня 2026 года Google представила Gemma 4 12B, что подтверждает датированная официальная запись в блоге Google. Та же датированная запись ссылается на GGUF-версию от Unsloth на Hugging Face, что наряду с презентацией обеспечивает доступный путь развёртывания в формате GGUF.",
+ "title": "Gemma 4 12B представлена",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 Gemma 4 출시와 함께 종합적인 로컬 에이전트로 발전했으며, 추론 속도를 37% 높이는 다중 토큰 예측(Multi-Token Prediction, MTP)을 추가하고 iOS HealthKit 및 Contacts와의 深い 통합을 구현했습니다.",
+ "id": "n-f3c22d2162",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Google의 AI Edge Gallery에서 해당 플랫폼용 공식 지원이 늦어짐에 따라 iOS에서 Gemma 4를 다루는 대표적인 참고 자료로 자리매김하고 있습니다. 최적의 성능을 위해서는 iPhone 15 Pro 이상 기기가 필요합니다.",
+ "source_sha256": "c9c1cc5393bfc2b235f01d96fb0aeb1ed89f8bea0f620e52e104dd8d45f28c27",
+ "summary": "LiteRT-LM과 Metal 가속을 사용해 Gemma 4 모델을 로컬에서 실행하여 오프라인 추론을 지원하는 오픈소스 iOS 애플리케이션입니다. 멀티모달 비전, 네이티브 iOS 앱을 활용한 에이전트 도구 사용(agentic tool-use), 최적화된 추측 디코딩(speculative decoding)을 지원합니다.",
+ "title": "PhoneClaw: iOS용 로컬 Gemma 4 온디바이스 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

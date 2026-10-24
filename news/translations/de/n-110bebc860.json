@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach dem Launch von Version 2.0 ergänzte die Engine SparkXr für immersives WebXR-Support sowie experimentelles Linear Blend Skinning für animierte Splats. Sie entwickelte sich von einem einfachen Renderer zu einer umfassenden Streaming-Plattform für zusammengesetzte 3D-Welten.",
+ "id": "n-110bebc860",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Stellt ein eigenes .RAD-Dateiformat vor, das HTTP-Range-Requests für progressives Laden unterstützt, sowie einen in Rust implementierten LoD-Builder zur Verarbeitung von Milliarden von Splats.",
+ "source_sha256": "120c6fa8d811db4544383d46cfa5dcb91084b7a59fdf441cdbda9b970848451d",
+ "summary": "Spark 2.0 ist eine leistungsstarke webbasierte Rendering-Engine, die World Labs für massive 3D-Gaussian-Splatting-Szenen entwickelt hat. Sie implementiert hierarchische Level-of-Detail (LoD) und das streambare .RAD-Format, um Umgebungen mit Milliarden von Splats in Echtzeit darzustellen.",
+ "title": "Spark 2.0: Groß angelegte webbasierte Gaussian-Splatting-Engine",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

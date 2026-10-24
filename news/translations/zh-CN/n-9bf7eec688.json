@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻稿介绍了 Qwen-Image，重点在于文字渲染和一致性编辑，并附上了代码仓库、模型权重和演示页面的链接。",
+ "id": "n-9bf7eec688",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "10c1544c89ea9a8d439a9a0fe69437aa1a1ba043df249af39c932da81d2ea13b",
+ "summary": "该新闻稿介绍了 Qwen-Image，重点在于文字渲染和一致性编辑，并附上了代码仓库、模型权重和演示页面的链接。",
+ "title": "Qwen-Image 发布，原生支持文字渲染",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

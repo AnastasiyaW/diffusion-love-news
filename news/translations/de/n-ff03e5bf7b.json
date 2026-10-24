@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwicklung von einem WIP-Survival-Tool Ende 2024 zu einer produktionsreifen Suite Anfang 2026. Das v2.0-Refactoring führte einen losgelösten schwebenden Viewer (MFV), die Trennung von Backend und Frontend sowie eine optimierte SQLite-Indexierung für umfangreiche Asset-Sammlungen ein.",
+ "id": "n-ff03e5bf7b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Stark optimiert für Datenschutz und Geschwindigkeit; sämtliche Indexierungs- und Suchfunktionen laufen zu 100 % lokal mithilfe von SQLite FTS5.",
+ "source_sha256": "af4ccbf2763f1a6f32d77e0bb5bde3b690a6023e8f98dfcadf98b3a1d2254da2",
+ "summary": "Ein leistungsstarker Asset-Browser und Verwaltungspaket, das lokal erzeugte ComfyUI-Generierungen für die sofortige Suche und Wiederherstellung von Workflows indexiert. Es bietet umfangreiche Metadatenintelligenz, mit der Nutzer Assets durchsuchen, bewerten und direkt auf die Arbeitsfläche ziehen können, um deren exakte Node-Graphen wiederherzustellen.",
+ "title": "Majoor Assets Manager für ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

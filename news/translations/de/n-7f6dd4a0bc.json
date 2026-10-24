@@ -1,0 +1,10 @@
+{
+ "id": "n-7f6dd4a0bc",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1392fbd308a351edbab7f86434f7d13cd915d49ee296fb34c7b2d10063439460",
+ "summary": "Am 16.06.2026 enthielt die Entwicklungslinie von Orchestra-o1 Verweise auf sein GitHub-Repository, eine Hugging-Face-Modellseite für das 8B-Modell und eine Modellseite für das GGUF-Format. Das ist ein wesentlicher Meilenstein für die Verfügbarkeit, da das Projekt damit mit Quelltext und einsetzbaren Modellartefakten verbunden wird. Die vorliegenden Belege lassen jedoch nicht erkennen, ob es sich um eine erstmalige Veröffentlichung, eine Aktualisierung oder eine erneute Veröffentlichung handelte.",
+ "title": "Quelltext- und Modellartefakte von Orchestra-o1 verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

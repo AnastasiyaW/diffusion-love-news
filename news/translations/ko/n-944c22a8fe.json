@@ -1,0 +1,10 @@
+{
+ "id": "n-944c22a8fe",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d2dd61eab4cb29710f85a52cefeaf763aba88acf57270b4d988cc2ed02c413fd",
+ "summary": "2026-07-27 기준, Pascal Editor 개발 라인에 프로젝트의 GitHub 저장소로 연결되는 기록된 링크가 포함되었다. 봉인된 증거만으로는 공개 프로젝트 참조가 확인되지만, 릴리스, 기능, 소유권 변경 또는 저장소 상태는 문서화되어 있지 않다.",
+ "title": "Pascal Editor GitHub 저장소 링크 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

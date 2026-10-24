@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目最初是面向消费级 GPU 的显存优化分支，后来发展为面向高级用户的套件，支持多帧模式以生成不限时长的视频。近期更新新增了对 Gemma-3 文本编码器的支持，并集成了语音克隆流程。",
+ "id": "n-ac33c5f998",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "针对 24GB 显存硬件进行了优化；支持 fp8 量化和 GGUF 模型切换，相比官方发布版本降低了使用门槛。",
+ "source_sha256": "df24642a2643126180382a7ae2fcc37d8c318b14d0b7a62d9543c269332448db",
+ "summary": "一款功能全面的桌面应用，利用 LTX-2.3 扩散模型实现高质量的本地视频生成。它提供硬件优化的性能、集成的口型同步以及多 GPU 任务队列，面向专业 AI 工作流。",
+ "title": "LTX2.3-Multifunctional：先进的本地 AI 视频套件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

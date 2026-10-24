@@ -1,0 +1,10 @@
+{
+ "id": "n-222b01635c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "864e94dafb57d77a58a4121311eb2b53ae848e686d06e8a6f8851ed1d433baaf",
+ "summary": "Le 16 mars 2026, la fiche a relié un dépôt Hugging Face d'Unsloth pour LTX-2.3-GGUF à la documentation d'Unsloth sur les GGUF Dynamic 2.0. Il s'agit d'une étape notable en matière de distribution et d'usage, car elle relie un artefact GGUF de LTX 2.3 à des indications pertinentes pour les praticiens. Les liens datés ne suffisent toutefois pas à établir les capacités exactes du modèle, les runtimes pris en charge ou le statut de la version.",
+ "title": "Distribution de LTX-2.3-GGUF et guide Dynamic 2.0 GGUF associés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

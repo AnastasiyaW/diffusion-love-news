@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras el modelo original TIPS, TIPSv2 introdujo el preentrenamiento iBOT++ y leyendas sintéticas de granularidad múltiple para mejorar la conciencia espacial. Se ha integrado en la biblioteca Transformers de Hugging Face con cabezales DPT especializados para tareas de predicción densa.",
+ "id": "n-de24cf852f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El proyecto incluye un explorador de características oficial en Hugging Face Spaces y supera a modelos previos autosupervisados como DINOv2 en tareas zero-shot.",
+ "source_sha256": "01af5038d28554b22399b2b3acfc4228c056ad6ed29752087e1a9d602a7ceb8c",
+ "summary": "Una familia de modelos de visión y lenguaje de Google DeepMind que cierra la brecha entre la alineación imagen-texto y la comprensión espacial densa. Permite una estimación precisa de profundidad monocular, la predicción de normales de superficie y la segmentación semántica zero-shot mediante alineación a nivel de parche.",
+ "title": "TIPSv2: Text-Image Pretraining with Spatial Awareness",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具已从基础预览器演变为功能完备的控制中心，新增了可脱离主窗口的多显示器支持、序列时间线拖动浏览，以及用于直接在查看器内操作节点的参数面板（Parameters Panel）。",
+ "id": "n-08fceb7eae",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "个人使用仍然免费，商业使用则需要获得 bEpic GmbH 的授权；该工具已成为 ComfyUI 专业质量控制的标准工具。",
+ "source_sha256": "6e2f80cfb6677314416b35b87e4c32f60cc7b5fe6bff4f7856b58f6a57d83582",
+ "summary": "一款面向 ComfyUI 的高性能视觉检查与对比工具，专为专业 VFX 风格的审阅工作流设计。它支持实时曝光调整、RGB 通道隔离以及高级快照版本管理。",
+ "title": "bEpic Viewer Professional ComfyUI Review Suite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

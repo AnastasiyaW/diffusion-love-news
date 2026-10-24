@@ -1,0 +1,11 @@
+{
+ "id": "n-e712086893",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Demandez l'accès via le flux de bêta d'Agents ; les articles décrivent un accès sur candidature.\n\nImportez les fichiers de projet et les références, puis décrivez le résultat visé et choisissez les réglages disponibles de modèle de langage et d'effort.\n\nImportez un moodboard Pinterest ou une autre référence visuelle, et créez un skill de type image-set lorsqu'un style récurrent doit être invoqué depuis des prompts.\n\nConnectez Slack, Figma ou Google Drive lorsque leurs éléments de projet sont nécessaires dans le contexte de l'agent ; vérifiez les médias générés avant d'utiliser la fonction de publication sur les réseaux sociaux annoncée.\n\nRassemblez le brief, les références et les éléments de style réutilisables dans le contexte du projet avant de demander un résultat en plusieurs étapes ; la documentation antérieure de Krea sur Node Agent montre que la plateforme planifie à partir de l'état existant du canevas et permet à l'utilisateur de relire un plan avant son exécution.\n\nVérifiez le workflow proposé et le choix des modèles avant de lancer la génération : la documentation de Krea sur Node Agent indique qu'elle présente un plan et le coût de calcul par nœud avant l'exécution.",
+ "source_sha256": "8fd8120d6a6603be80ea9c623e808c0a63a0c411e15fc90401be02acf549b758",
+ "summary": "Krea Agents permettrait aux candidats d'organiser des fichiers de projet et des références, d'importer des moodboards Pinterest, de créer des skills réutilisables basés sur des images et de connecter des outils de travail pour la production créative.",
+ "title": "Krea Agents ouvre des workflows créatifs sur candidature",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

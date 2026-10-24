@@ -1,0 +1,10 @@
+{
+ "id": "n-38e1500c66",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "39d743d5eaa3229d2d0eb7a4d3197687c7365bfa08a30bd4f4f8632c095d6856",
+ "summary": "Am 07.06.2026 wurde TripoSplat über seine Forschungsseite, das Open-Source-Repository, einen Modell-Checkpoint, eine interaktive Demo und eine ComfyUI-Workflow-Vorlage verlinkt. Zusammen machten diese Ressourcen das Projekt für die technische Auseinandersetzung und für Experimente mit Image-to-Gaussian-Splat-Verfahren zugänglich.",
+ "title": "TripoSplat: Forschungsseite, Modell, Demo und Workflow-Ressourcen veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

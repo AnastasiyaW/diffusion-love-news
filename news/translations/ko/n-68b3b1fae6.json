@@ -1,0 +1,10 @@
+{
+ "id": "n-68b3b1fae6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d73b2b044b46582b088ecb2ef2415b62a808abdd8943e5bffc6a878bf42158de",
+ "summary": "2026-03-27, Cohere가 Cohere 블로그 페이지, Hugging Face 모델 저장소, 데모 스페이스를 포함한 Cohere Transcribe 자료를 공개했다. 연결된 Model Vault 페이지에 따르면 이 프로젝트는 Cohere의 모델 접근 서비스 안에 포함되어 있다.",
+ "title": "Cohere, Cohere Transcribe 모델 자료 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

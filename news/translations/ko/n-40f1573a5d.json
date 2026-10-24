@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Map2World는 TRELLIS 에셋 생성기를 기반으로 하여, 객체 단위 합성에서 도시 규모의 월드 생성으로 발전했으며, 임의의 세그먼트 맵 지원과 고해상도 디테일 향상 기능을 갖추고 있습니다.",
+ "id": "n-40f1573a5d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "서울대학교와 Microsoft Research Asia가 공동으로 개발했으며, 소스 코드는 현재 'coming soon'으로 공개 예정으로 표기되어 있습니다.",
+ "source_sha256": "3a65cca20444ae5101bd93f94e7f7a4314203f7df8df58bf8450590abf2e3069",
+ "summary": "상공에서 본 세그먼트 맵과 텍스트 프롬프트로부터 대규모의 연속적인 3D 환경을 생성하는 프레임워크입니다. 중첩된 3D 윈도우들을 조율하기 위해 multi-diffusion 전략을 사용하여, 광범위한 월드 전반에서 매끄러운 전환과 규모 일관성을 보장합니다.",
+ "title": "Map2World: 세그먼트 맵 조건부 텍스트-투-3D 월드 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

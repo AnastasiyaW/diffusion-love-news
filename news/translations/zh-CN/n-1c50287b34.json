@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "X-SAM 模型的演进版本，通过时序记忆新增视频支持，并引入用于交互式视频分割的 Video Visual Grounded（V-VGD）基准。",
+ "id": "n-1c50287b34",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 Qwen3-VL 和 SAM2 架构构建；支持同时输入文本指令和点或边界框等视觉提示。",
+ "source_sha256": "88af168ade3f00a96c886e683495e60cb1b8914a03a51df4abf8a0bdf3572aa5",
+ "summary": "一个统一的多模态大语言模型框架，将通用分割能力从静态图像扩展到动态视频序列。它利用 Mask Memory 模块在 14 种不同的视觉-语言任务中保持时间一致性。",
+ "title": "X2SAM——面向图像与视频分割的多模态模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

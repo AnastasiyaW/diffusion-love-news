@@ -1,0 +1,10 @@
+{
+ "id": "n-b2222dab41",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e2cec07812ade1a3f7ba6c49993ce5259b6e22706d1a05e143a316e160dd9413",
+ "summary": "2026-06-12자 기록에는 NVIDIA의 Hugging Face 저장소 DiffusionGemma-26B-A4B-it-NVFP4가 Google의 DiffusionGemma-26B-A4B-it 저장소와 나란히 연결되어 있다. 이는 프로젝트 개발 흐름에서 중요한 배포 지점인데, 원본 모델과 관련하여 NVIDIA가 호스팅하는 별개의 NVFP4 변형을 식별하기 때문이다.",
+ "title": "NVIDIA DiffusionGemma NVFP4 저장소, Google 원본 모델과 함께 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

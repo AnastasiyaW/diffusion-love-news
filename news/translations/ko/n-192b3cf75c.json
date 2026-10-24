@@ -1,0 +1,10 @@
+{
+ "id": "n-192b3cf75c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2c8603b082a6f36c2cff23bdd19ea8720617cbb219efbb5df016c1188e31af57",
+ "summary": "2026년 7월 22일자 기록에 Lightricks LTX-2.3 22B IC-LoRA Clean Plate Hugging Face 모델 페이지와 이에 연결된 Hugging Face Space가 연결되었다. 이는 날짜가 기록된 링크에만 근거한 것으로, 프로젝트 개발 흐름에서 의미 있는 공개 참조 이정표로 간주된다.",
+ "title": "LTX-2.3 Clean Plate IC-LoRA 모델과 데모 참조가 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

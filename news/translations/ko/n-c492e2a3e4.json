@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "초기 v1 출시 이후, 모델은 LTX-2.3 Distilled 1.1에 맞게 최적화되었고 전용 노드와 함께 ComfyUI에 통합되었습니다. 현재는 고급 비디오-투-비디오 전이를 위해 Union Control IC-LoRA와 함께 자주 사용되고 있습니다.",
+ "id": "n-c492e2a3e4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Cseti가 고품질 영상 쌍 77개를 사용하여 10,500 스텝 동안 학습했습니다. rank 32에서 동작하며, 일반적으로 LoRA 강도 0.7–1.0으로 사용됩니다.",
+ "source_sha256": "77a09b8204d18ee0932abed002d994970b4602268ca2bebc517f69445c8aa527",
+ "summary": "LTX-Video 2.3을 위해 설계된 In-Context LoRA로, 참조 영상의 카메라 움직임을 텍스트 프롬프트로 기술된 장면에 재현합니다. 모션 컨디셔닝을 통해 줌, 패닝, 궤도 회전(오빗)에 대한 정밀한 시네마틱 제어를 가능하게 합니다.",
+ "title": "LTX-Video 2.3용 IC-LoRA Cameraman",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

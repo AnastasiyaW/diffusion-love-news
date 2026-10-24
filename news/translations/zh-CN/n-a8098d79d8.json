@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CHAI以CameraBench（2025）为基础，引入了可扩展的监督循环和结构化的电影词汇。该项目仍在持续推进，目标是面向专业影视制作应用的Moodio和CameraBench-Pro。",
+ "id": "n-a8098d79d8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "利用了200多种专业视觉基本要素；其中8B模型变体在特定描述任务中明显优于GPT-5等更大规模的闭源系统。",
+ "source_sha256": "4cfff856b825c26c2cb8c50bceab7892631824c1048445e1fbe1c8cdd7afa408",
+ "summary": "一个高精度视频理解框架，采用人在回路的批评流程来优化AI生成的视频描述。它专注于镜头运动和空间动态等电影化基本要素，使紧凑模型能够达到更优的准确率。",
+ "title": "CHAI：面向视频描述的基于批评的人机监督",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

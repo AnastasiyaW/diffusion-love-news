@@ -1,0 +1,10 @@
+{
+ "id": "n-f241b400a1",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "493e99caa0b490a593319a4e5d9f6ef73148c816bac027706752027ca150b30d",
+ "summary": "El 2026-07-25, Cursor publicó un artículo de blog público asociado a Router. Su existencia constituye un hito público relevante para la línea de desarrollo de Cursor Router, pero las pruebas selladas no permiten establecer la funcionalidad detallada del artículo, el estado de su despliegue ni su impacto en los usuarios.",
+ "title": "Cursor publicó una actualización pública asociada a Router",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

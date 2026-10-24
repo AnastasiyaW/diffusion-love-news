@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 공개되었으며 CVPR 2026에 채택되었다. 단 네 개의 시점만으로도 고충실도 재구성이 가능하도록 함으로써, 4D 가우시안 스플래팅 분야에서 중요한 진전을 이룬 프로젝트다.",
+ "id": "n-9dd20d8e0c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "COLMAP은 이처럼 희박한 입력에서는 실패하므로, 조밀한 포인트 클라우드 초기화에 MASt3R을 활용한다.",
+ "source_sha256": "0114f5919e813fa038f47fb4e58bc5b5737825cb7487d0ff56c823424b77350a",
+ "summary": "휴대 가능한 카메라 네 대만으로 4D 동적 장면을 재구성하는 프레임워크다. 극도로 희박한 카메라 구성에서 과적합을 막기 위해 외형보다 기하 구조를 우선하는 Neural Decaying Function을 도입한다.",
+ "title": "4C4D: 4 카메라 4D 가우시안 스플래팅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

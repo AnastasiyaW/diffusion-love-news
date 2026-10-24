@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 5월 출시된 이 프로젝트는 Codex Security 에이전트형 하네스를 통해 단순 취약점 스캐닝에서 자율 패치 적용으로 전환하고 있다. 현재 Cloudflare, Cisco 등 주요 업계 파트너와 함께 통제된 롤아웃 단계에 있다.",
+ "id": "n-e92b026fad",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 이니셔티브는 이중 용도(dual-use) 위험을 관리하기 위해 계층형 접근 모델을 사용하며, 'Cyber' 변형은 검증된 레드팀 활동과 고급 바이너리 리버스 엔지니어링을 위해 예약되어 있다.",
+ "source_sha256": "ca6317a0f6a1ee0a3d4c1e9eab1dc26e56bd1c44276d0924a8d78edc0b19ac16",
+ "summary": "OpenAI Daybreak은 AI 에이전트를 활용해 소프트웨어 취약점을 자율적으로 탐지하고 修復하는 전문 사이버보안 플랫폼이다. 다계층 배포 구조의 GPT-5.5 아키텍처를 기반으로 하는 관리형 보안 제어 화면(control surface)으로 기능한다.",
+ "title": "OpenAI Daybreak",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

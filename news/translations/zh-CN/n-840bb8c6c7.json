@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Chandra OCR 2 于 2026 年 3 月发布，是原始模型的一次重大更新：参数量从 9B 降至 4B，同时基准性能提升了 12%。它新增了提取 Mermaid 格式图表和化学分子结构的能力。",
+ "id": "n-840bb8c6c7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持 90 多种语言，并对南亚文字进行了专门优化。该模型由 Datalab 开发，目前被视为专有 OCR 解决方案中顶级的开源替代方案。",
+ "source_sha256": "150ac5215f89ee565644307d6ef606fff88be13f6c588d6b7d8b53bbaf7b2189",
+ "summary": "一款最先进的视觉语言模型，旨在将图像和 PDF 转换为结构化的 Markdown、HTML 或 JSON。它能够保留复杂版式，包括多栏文本、带合并单元格的表格以及数学公式。",
+ "title": "Chandra OCR 2：开源文档理解模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

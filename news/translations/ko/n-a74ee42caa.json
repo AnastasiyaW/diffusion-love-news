@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 정식 공개되었으며, 신호 번짐(signal bleeding) 및 신호 페이딩(signal fading) 문제를 해결하여 Wan-Edit 베이스라인을 개선한 최첨단 학습 없는 방법으로 자리매김하였다. CUC-MIPG의 이전 연구인 Edit-Transfer 및 IC-Effect의 뒤를 잇는다.",
+ "id": "n-a74ee42caa",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프레임워크는 기존의 역변환 기반 방법이 종종 실패하거나 효율성이 떨어지는 다중 객체 및 빠른 움직임 시나리오의 과제를 특별히 겨냥한다.",
+ "source_sha256": "9db928760533f732082915319093a0b5058fbb17aef0bff28f74ebc3ba99c209",
+ "summary": "FlowAnchor는 고품질 비디오-투-비디오 변환을 위해 설계된 학습 없이 동작하고 역변환을 사용하지 않는 비디오 편집 프레임워크이다. 시공간 인식 어텐션 정제와 적응형 크기 변조를 활용하여 시간적 일관성과 정밀한 편집 신호를 보장한다.",
+ "title": "FlowAnchor: 역변환 없는 안정적인 비디오 편집",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

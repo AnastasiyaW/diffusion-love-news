@@ -1,0 +1,10 @@
+{
+ "id": "n-d0e1053814",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "abe48a88a77e09680db053860e2f10056153c189e2a00d84e8a2abe4ffa80ce1",
+ "summary": "2026 年 3 月 13 日，FLUX.2 Klein 9B KV 开发版本已关联到一个 Hugging Face 模型页面、一个演示 Space 以及可下载的 checkpoint 文件。相关资源还包括一个 GGUF 转换版本和一个 ComfyUI 工作流，记录了该模型的其他本地推理途径。",
+ "title": "FLUX.2 Klein 9B KV 模型的可用性与本地使用资源",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개 이후 이 프로젝트는 Hugging Face에 공식 가중치와 대화형 Gradio 데모를 게시했다. 또한 애니메이션과 게임 등 까다로운 영역에서 영상 분할을 위한 새로운 최첨단(state-of-the-art) 벤치마크를 세웠다.",
+ "id": "n-bb0f83ff09",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "UVA Computer Vision Lab에서 개발했으며, 기존의 프레임 단위 분류 방식 대신 새로운 관계 기반 접근법을 사용한다.",
+ "source_sha256": "cbc998eeca454fc89e8c30d09e0cc528886ead2204a1aca726b5c0025c1c47c1",
+ "summary": "OmniShotCut은 다양한 유형의 영상에서 고정밀 샷 경계 검출(Shot Boundary Detection)을 수행하도록 설계된 트랜스포머 기반 프레임워크이다. Shot-Query 아키텍처를 사용하여 디졸브, 페이드, 급격한 점프 등 복잡한 전환을 전체론적으로 식별한다.",
+ "title": "OmniShotCut: 전체론적 관계 기반 샷 경계 검출",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

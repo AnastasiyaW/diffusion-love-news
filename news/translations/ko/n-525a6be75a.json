@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 CVPR 2026 학회 채택 이후 2026년 4월에 공식적으로 오픈소스로 공개되었습니다. 현재 전체 PyTorch 구현, 학습 스크립트, 그리고 해당 아키텍처를 지원하기 위한 diffusers 라이브러리용 패치를 제공하고 있습니다.",
+ "id": "n-525a6be75a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Python 3.11이 필요하며, 통합을 위해 diffusers v0.34.0 라이브러리(구체적으로 sana_transformer.py)를 수동으로 패치해야 합니다.",
+ "source_sha256": "80216d65baacbe217942738618597c13252478947ddd79d5f7e680eb6a4c650f",
+ "summary": "Alibaba의 DreamX 팀이 개발한 EMF는 고효율 원스텝 텍스트-이미지 생성을 위한 연구 프레임워크입니다. 판별형(discriminative) 텍스트 표현을 활용해 복잡한 의미를 단일 단계 생성 과정으로 매핑하며, 품질을 유지하면서 추론 지연 시간을 크게 줄입니다.",
+ "title": "EMF: 원스텝 이미지 생성 확장 (Alibaba)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

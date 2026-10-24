@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "LTX-2.3용 종합 비디오 복원 스위트로 확장되었으며, ReFocus(렌즈 블러), Deinterlace(디인터레이스), Uncompress(압축 해제) 도구가 포함되었습니다. 이 프로젝트는 현재 LTX Collaborations 조직의 핵심이 되어, 전문가 수준의 복원 워크플로를 제공하고 있습니다.",
+ "id": "n-396cd4f7c0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "ComfyUI 파이프라인에서 구현하려면 전용 LTXICLoRALoaderModelOnly 노드가 필요합니다.",
+ "source_sha256": "6e88b618fa0d505018c35d2c4e6f1d318bac83a74c0d7e2211a077e43a337281",
+ "summary": "Lightricks LTX-2.3(22B) 모델을 위해 설계된 특화 In-Context LoRA(IC-LoRA)로, 모션 블러와 프레임별 번짐을 제거합니다. 흐릿한 원본 영상을 조건(conditioning)으로 사용해 선명한 프레임을 재구성하는 비디오-투-비디오 복원 도구로 동작합니다.",
+ "title": "LTX-2.3용 MotionDeblur IC-LoRA 비디오 복원",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

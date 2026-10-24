@@ -1,0 +1,11 @@
+{
+ "id": "n-e69923fb8b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "En Linux con Python 3.12 y uv, cree el entorno virtual documentado, instale el paquete en modo editable y ejecute la demostración sin credenciales antes de conectar un modelo.\n\nPara una ejecución con modelo, instale las dependencias de tiempo de ejecución y de evaluación comparativa indicadas, configure los ajustes del modelo y la autenticación, y comience con una sola tarea de evaluación comparativa y una selección pequeña.\n\nEjecute la verificación, el refinamiento, la evaluación y la generación de informes con la misma evaluación comparativa, ejecutor, subconjunto, presupuesto de recursión, modo y semilla; use el modo de simulación (dry-run) para inspeccionar la selección de tareas sin llamadas al modelo.\n\nElija la recursión paralela para explorar de forma más amplia los arneses candidatos, o la recursión secuencial para llevar los refinamientos a través de pasos sucesivos; conserve los arneses adoptados solo junto con las pruebas de ejecución que los respaldan.\n\nConfigure las restricciones de red antes de la evaluación para que las rúbricas, respuestas o criterios de calificación públicos de la evaluación comparativa no puedan filtrarse a un ejecutor con acceso web sin restricciones.\n\nMantenga la configuración de evaluación idéntica a la de la ejecución de refinamiento al evaluar y generar informes; cambiar la evaluación comparativa, el ejecutor, el subconjunto, el modo de recursión, el presupuesto o la semilla invalida un resultado comparable en igualdad de condiciones.\n\nTrate los presupuestos de recursión más grandes como un compromiso explícito entre cómputo y rendimiento: el artículo contabiliza tanto los tokens de ejecución como los de mejora, y sus ganancias se midieron únicamente en las configuraciones de evaluación comparativa analizadas.",
+ "source_sha256": "f2a2ba802e0e0519b32a6dc609b19e33ecc1ac21e3f4221c3b8b877bd09eaf80",
+ "summary": "El repositorio público incluye una demostración local determinista y una configuración documentada para ejecuciones de evaluación comparativa con modelos.",
+ "title": "El código fuente de Harness² está disponible bajo Apache-2.0",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

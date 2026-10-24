@@ -1,0 +1,10 @@
+{
+ "id": "n-b977739627",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "70df76e9a127769dc579cc402c73aa3fedaf03d7665573f2945db9767e50d258",
+ "summary": "2026년 3월 18일, Zeta-Chroma 개발 라인에서 프로젝트의 Hugging Face 저장소에 있는 Safetensors 아티팩트에 대한 링크가 기록되었습니다. 연결된 소셜 미디어 및 저장소 토론 URL은 해당 항목을 같은 프로젝트 라인과 연관시킵니다. 제공된 링크만으로는 이 아티팩트의 기능, 학습 방식, 라이선스 또는 공개 조건을 확인할 수 없습니다.",
+ "title": "Zeta-Chroma 베이스 모델 아티팩트 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

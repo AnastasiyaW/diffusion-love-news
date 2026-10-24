@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzado en abril de 2026 tras liderar los benchmarks globales de texto a vídeo bajo el seudónimo «HappyHorse-1.0». Representa una transición desde la generación de vídeos cortos hacia la simulación persistente del entorno en tiempo real.",
+ "id": "n-5e1a256a5e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Es capaz de generar hasta 3 minutos de vídeo continuo con audio sincronizado, modelando propiedades físicas como la gravedad y la iluminación.",
+ "source_sha256": "a0b625c7f2f59f2b792f5514b980eb82167acf06856d0034de4a863e234e8308",
+ "summary": "Un avanzado modelo de mundo de IA desarrollado por Alibaba que simula entornos virtuales interactivos e infinitos, con físicas consistentes y en tiempo real. Admite tanto un modo de exploración en primera persona como un modo director para el control en vivo de escenas y personajes.",
+ "title": "Happy Oyster: modelo de mundo interactivo en tiempo real de Alibaba",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

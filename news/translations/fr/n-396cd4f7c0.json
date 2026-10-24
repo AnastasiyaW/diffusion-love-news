@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Élargi en une suite complète de restauration vidéo pour LTX-2.3, incluant ReFocus (flou de l'objectif), Deinterlace et Uncompress. Le projet occupe désormais une place centrale au sein de l'organisation LTX Collaborations, en proposant des workflows de restauration de qualité professionnelle.",
+ "id": "n-396cd4f7c0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nécessite le nœud spécialisé LTXICLoRALoaderModelOnly pour une mise en œuvre dans les pipelines ComfyUI.",
+ "source_sha256": "6e88b618fa0d505018c35d2c4e6f1d318bac83a74c0d7e2211a077e43a337281",
+ "summary": "Un In-Context LoRA (IC-LoRA) spécialisé pour le modèle Lightricks LTX-2.3 (22B), conçu pour supprimer le flou de mouvement et le maculage image par image. Il fonctionne comme un outil de restauration vidéo-vers-vidéo, reconstruisant des images nettes à partir de la source floue utilisée comme conditionnement.",
+ "title": "MotionDeblur IC-LoRA pour la restauration vidéo LTX-2.3",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

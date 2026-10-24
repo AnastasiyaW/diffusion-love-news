@@ -1,0 +1,10 @@
+{
+ "id": "n-ea26f61d82",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c5c1637d49bcd1a357e6ad0fc849638201dda3ed0a8aaec20047dffa030bada5",
+ "summary": "2026-08-17, Huihui-Qwen3.8-27B-abliterated 프로젝트는 Hugging Face 모델 페이지, 관련 양자화 모델 목록, 그리고 Cowork ZeroGPU Space와 연결되었습니다. 이러한 날짜가 명시된 링크들은 공개된 모델 아티팩트와 이에 관련된 배포 또는 탐색 경로가 존재함을 입증하며, 이는 프로젝트 역사에서 중요한 가용성 이정표가 됩니다.",
+ "title": "Huihui-Qwen3.8-27B-abliterated, Hugging Face를 통해 공개적으로 이용 가능해져",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

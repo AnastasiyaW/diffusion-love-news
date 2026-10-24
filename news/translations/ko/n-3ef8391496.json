@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Fastino Labs가 2026년 5월에 공개한 GLiGuard는 GLiNER2 아키텍처를 활용해 구조화된 안전성 분류를 제공합니다. 경쟁력 있는 정확도를 유지하면서도 ShieldGemma-27B와 같은 최신 모델에 비해 지연 시간을 크게 줄이고 처리량을 크게 높였습니다.",
+ "id": "n-3ef8391496",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "GLiNER2-base-v1을 기반으로 파인튜닝되었으며, Apache 2.0 라이선스로 공개되었습니다. CPU 우선 및 엣지 배포에 최적화되어 있고, 안전성 벤치마크에서 87.7 F1을 달성했습니다.",
+ "source_sha256": "5b13b513202b55cb53eb63550336cc4f4de6f850ecd05bcb145c9de4a99d58a9",
+ "summary": "GLiGuard는 고성능 LLM 안전성 모더레이션을 위해 설계된 300M 파라미터 규모의 인코더 기반 오픈소스 모델입니다. LlamaGuard와 같은 대형 디코더 전용 가드레일 모델의 빠르고 효율적인 대안으로 제공됩니다.",
+ "title": "GLiGuard: 소형 LLM 안전성 모더레이션 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

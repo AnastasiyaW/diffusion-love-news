@@ -1,0 +1,11 @@
+{
+ "id": "n-c724eb9e4c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Gewichte werden sparsamer ausgelagert, der RAM-Verbrauch sinkt und das Risiko von OOM-Fehlern verringert sich.",
+ "source_sha256": "47a955f6010bdb0428afd134015f8532d4bd4ac5e92f8edfdea5a156a47cd7aa",
+ "summary": "Am 26.03.2026 dokumentierte ComfyUI Dynamic VRAM als stabilen Mechanismus, um den Speicherdruck und Out-of-Memory-Fehler auf unterstützten Nvidia-Systemen zu verringern. In seiner Anleitung betonte ComfyUI, die gesamte Workflow-Laufzeit statt der isolierten Iterationsgeschwindigkeit zu messen.",
+ "title": "ComfyUI führt stabiles dynamisches VRAM-Management ein",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

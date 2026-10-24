@@ -1,0 +1,10 @@
+{
+ "id": "n-0abfd5c1ff",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3dd7ffaf7aa5e8665937c98dee5d91c0a685b5c71d0add7a088b3fd4b02b7d8c",
+ "summary": "2026 年 7 月 25 日，NVIDIA 的 SIGGRAPH 2026 新闻页面链接到了 NVIDIA Build 上一个专门的合成视频检测器（Synthetic Video Detector）页面。这对该项目而言是一个重要的公开披露与可用性里程碑，因为它将该检测器与 NVIDIA 面向公众的开发者平台联系了起来。但所提供的链接并未说明其功能、发布成熟度或部署细节。",
+ "title": "NVIDIA 在 SIGGRAPH 2026 相关材料中展示其合成视频检测器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-a54747f312",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c1852580cc3a73776bf02b0c307804020a17b9af897993010028a299fd92c44c",
+ "summary": "El 2026-07-20, un miembro sellado de la línea de desarrollo de Wan-Streamer enlazó la página específica de la versión v0.3 del proyecto. Esto establece una referencia pública posterior y fechada a la v0.3, mientras que las pruebas disponibles no permiten determinar el conjunto de funcionalidades de la página, su estado de publicación ni las implicaciones para la migración.",
+ "title": "Página de la versión v0.3 de Wan-Streamer enlazada",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

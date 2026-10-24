@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issu de la série open-source Wan2.1 (2025), il ajoute la prise en charge native du 1080p, l'édition par instructions et une couche de planification destinée à réduire les hallucinations. Il est passé d'une simple génération à un contrôle narratif complet.",
+ "id": "n-d745776a36",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Publié avec des poids ouverts sous licence Apache 2.0. Parmi les innovations clés figurent la cohérence des personnages grâce à des entrées multi-références et un mode « First-and-Last-Frame » permettant des transitions de mouvement précises.",
+ "source_sha256": "fc949f5835ffe41d253bdd21e82ac2e9e2cb8a5c05ac919828a212f3d9fa4eff",
+ "summary": "Un framework complet de génération vidéo d'Alibaba Cloud proposant la génération texte-vers-vidéo en 1080p, la génération image-vers-vidéo avec contrôle des transitions, et l'édition vidéo par instructions en langage naturel. Il s'appuie sur un « Thinking Mode » destiné à renforcer la cohérence logique et la précision physique.",
+ "title": "Wan2.7-Video — Suite de génération et d'édition vidéo de niveau réalisateur",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

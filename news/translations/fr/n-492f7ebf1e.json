@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TheBurgstall poursuit la diffusion de LoRA structurels spécialisés pour LTX-2.3, en élargissant son champ des modifications corporelles vers les capacités « Edit Anything ». Le modèle est désormais pris en charge par des interfaces web comme a1.art, pour une utilisation simplifiée.",
+ "id": "n-492f7ebf1e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Mot déclencheur : « bodypositivity ». L'intensité recommandée du LoRA est de 1.0, pour un équilibre optimal entre la transformation et la préservation de l'identité.",
+ "source_sha256": "9f5f51cac0214c4c19e932f4918c96937f24a83af6fcb70fe27e1f16f58f1478",
+ "summary": "Un adaptateur spécialisé Image-to-Video pour le modèle LTX-2.3, qui modifie les morphologies des sujets tout en préservant leur identité et leur mouvement. Il fonctionne comme un IC-LoRA entraîné sur un jeu de données synthétique sélectionné à la main.",
+ "title": "LoRA LTX-2.3 « Body Positivity » de TheBurgstall",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié en avril 2026 et accepté à CVPR 2026. Ce projet représente une avancée majeure dans le Gaussian Splatting 4D, en permettant une reconstruction haute fidélité à partir de quatre vues seulement.",
+ "id": "n-9dd20d8e0c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utilise MASt3R pour l'initialisation d'un nuage de points dense, car COLMAP traditionnel échoue avec une entrée aussi éparse.",
+ "source_sha256": "0114f5919e813fa038f47fb4e58bc5b5737825cb7487d0ff56c823424b77350a",
+ "summary": "Un cadre de reconstruction de scènes dynamiques 4D n'utilisant que quatre caméras portables. Il introduit une Neural Decaying Function qui privilégie la structure géométrique à l'apparence, évitant ainsi le surapprentissage dans des configurations de caméras extrêmement éparses.",
+ "title": "4C4D : Gaussian Splatting 4D à partir de 4 caméras",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

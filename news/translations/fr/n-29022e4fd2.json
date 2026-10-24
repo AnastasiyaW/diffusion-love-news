@@ -1,0 +1,10 @@
+{
+ "id": "n-29022e4fd2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ed69c599d59fff09b74724c1cb714a390e3284d0c94b48d20a673c79165c1898",
+ "summary": "Le 2026-08-20, un lien vers un dépôt Hugging Face pour un artefact nommé Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF a été partagé. Le lien daté atteste d'un artefact nommé distinct dans la lignée des dérivés de Qwen, mais n'établit pas à lui seul ses modifications techniques, sa provenance ou ses performances.",
+ "title": "Artefact GGUF Qwen3.8-27B-Cold-Fusion relié",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

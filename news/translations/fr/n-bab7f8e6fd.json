@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Accepté officiellement à SIGGRAPH 2026. Mis à jour en version 2 sur arXiv en avril 2026, avec des benchmarks et des détails architecturaux affinés. Le projet inclut désormais la publication complète du jeu de données AudioEdit, des poids du modèle et du code d'inférence.",
+ "id": "n-bab7f8e6fd",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Basé sur Qwen2.5-Omni ; introduit AudioEdit, un jeu de données à grande échelle comptant plus de 1 million de paires d'édition audio soigneusement sélectionnées.",
+ "source_sha256": "ee10a6d466f3c0c276b24be78cb549dc94e7b4019957e0b9033f692d5999d032",
+ "summary": "Un système complet de bout en bout qui unifie la parole, la musique et les effets sonores au sein d'un modèle unique, à la fois pour la compréhension et pour la génération haute fidélité. Il s'appuie sur une base Qwen2.5-Omni et sur un moteur de synthèse Diffusion Transformer, afin de permettre une édition audio complexe et un raisonnement via le langage naturel.",
+ "title": "Audio-Omni : cadre unifié de compréhension et de génération audio",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

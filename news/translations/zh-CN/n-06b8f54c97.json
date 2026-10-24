@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "目前正从静态图像扩散微调扩展到视频生成模型，并即将发布完整的训练代码和多节点训练脚本。",
+ "id": "n-06b8f54c97",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该方法基于 DiffusionNFT 构建，采用多梯度下降算法（MGDA）来协调相互冲突的奖励梯度。",
+ "source_sha256": "2b82737cd05a9285b97a889994964999a133a006aba6cd9002e05afd87c53056",
+ "summary": "MARBLE 是一个强化学习框架，旨在通过同时平衡多个质量标准来微调扩散模型。它以梯度空间协调取代人工奖励加权，从而在单次训练中同时提升美学质量、文本对齐与安全性。",
+ "title": "MARBLE：面向多维度扩散对齐的强化学习框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

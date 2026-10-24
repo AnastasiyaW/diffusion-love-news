@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Erweitert zu einer umfassenden Video-Restaurierungs-Suite für LTX-2.3, die die Werkzeuge ReFocus (Objektivunschärfe), Deinterlace und Uncompress umfasst. Das Projekt ist inzwischen zentral für die Organisation LTX Collaborations und stellt professionelle Restaurierungs-Workflows bereit.",
+ "id": "n-396cd4f7c0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Für die Implementierung in ComfyUI-Pipelines ist der spezielle Node LTXICLoRALoaderModelOnly erforderlich.",
+ "source_sha256": "6e88b618fa0d505018c35d2c4e6f1d318bac83a74c0d7e2211a077e43a337281",
+ "summary": "Ein spezialisiertes In-Context LoRA (IC-LoRA) für das Lightricks-LTX-2.3-Modell (22B), das Bewegungsunschärfe und Smearing pro Frame entfernen soll. Es arbeitet als Video-zu-Video-Werkzeug zur Wiederherstellung und rekonstruiert scharfe Frames, wobei die unscharfe Quelle als Konditionierung dient.",
+ "title": "MotionDeblur IC-LoRA für LTX-2.3 Videowiederherstellung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

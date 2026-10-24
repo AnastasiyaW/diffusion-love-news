@@ -1,0 +1,10 @@
+{
+ "id": "n-fe5aa54dca",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b245162da4245e9dd261da6926dd4382b773b9570a489160e37ad81c3341fe40",
+ "summary": "Le 2026-07-18, un message associé à OpenCut renvoyait à la fois vers le site web du projet et vers son dépôt GitHub. Sur la seule base des liens datés, cet élément est considéré comme un signal public important, car il orientait les lecteurs vers le projet et son code source. Les éléments disponibles ne permettent pas de déterminer s'il marquait un lancement, une publication ou une mise à jour de fonctionnalités.",
+ "title": "Le site web et le dépôt source d'OpenCut ont été publiquement cités",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

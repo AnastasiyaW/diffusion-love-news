@@ -1,0 +1,10 @@
+{
+ "id": "n-8b5f11bc11",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "216fb272d393b4e2732522e1d56928f5da9110db2055468aa5d1e243f5cadf0e",
+ "summary": "Le 18 juin 2026, des liens ont été enregistrés pour un modèle GGUF Qwopus3.6-27B-Coder-MTP, le modèle Qwopus3.6-27B-v2 et un guide de conversion de Qwen MTP vers GGUF. Pris ensemble, ces références datées indiquent une variante GGUF Coder-MTP diffusable ainsi que le contexte immédiat de sa conversion de modèle. Il s'agit d'une étape significative, même si les liens seuls n'établissent ni les performances, ni les détails d'entraînement, ni les conditions de licence, ni le statut de publication.",
+ "title": "Artefact GGUF Qwopus3.6-27B-Coder-MTP désormais référencé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

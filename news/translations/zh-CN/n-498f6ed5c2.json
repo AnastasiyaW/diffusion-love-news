@@ -1,0 +1,10 @@
+{
+ "id": "n-498f6ed5c2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c05292600227dc3698bdc17d2d2a09c0fa5d21b4dd04658ee74a931aba6e111a",
+ "summary": "2026-07-26，VVAH 开发动态中包含了指向 Visa 公开的 Visa Vulnerability Agentic Harness GitHub 代码仓库的链接。该带日期的链接表明该项目是一个智能体式漏洞测试框架资源，但它并不能证实某个发布版本、版本号、功能集或任何运行结果。",
+ "title": "Visa 漏洞智能体测试框架（VVAH）代码仓库参考",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

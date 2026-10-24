@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "처음에는 캐릭터 포징 도구였으나, FBX/GLB 환경 임포트, 카메라 트래킹, 페이셜 모캡을 지원하는 본격적인 3D 컴포지터로 발전했습니다. 최근 업데이트에서는 사실적인 그림자를 위한 패스 트레이싱 엔진이 통합되었고, Gaussian Splatting(.ply/.spz)을 네이티브로 지원하게 되었습니다.",
+ "id": "n-501487aec4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "최대 16개의 독립적인 캐릭터를 지원하며, 자동 리깅을 위해 Mixamo 표준 스켈레톤 명명 규칙을 사용합니다.",
+ "source_sha256": "8999e0286eaaeaebe1f2128da1bb095708dff7953130e5e4af2ed18d35e16589",
+ "summary": "ComfyUI를 위한 고급 3D 뷰포트 및 애니메이션 시스템으로, 대화형 캐릭터 포즈 설정과 장면 구성을 지원합니다. 애니메이션이 적용된 3D 에셋으로부터 Depth, Normal, OpenPose를 포함한 다중 패스 ControlNet 데이터를 직접 생성합니다.",
+ "title": "ComfyUI Yedp Action Director — 3D 장면 컴포지터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

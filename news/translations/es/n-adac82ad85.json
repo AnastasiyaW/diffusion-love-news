@@ -1,0 +1,11 @@
+{
+ "id": "n-adac82ad85",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Descarga los pesos del modelo desde el repositorio InternScience/Sage-A1.5 en Hugging Face o ModelScope.\n\nDespliega el modelo con vLLM o SGLang usando la configuración estándar de la arquitectura Qwen MoE para exponer un endpoint de API compatible con OpenAI.\n\nConfigura el entorno de ejecución del agente con la creación de subagentes habilitada para que el modelo pueda paralelizar subtareas en contextos aislados.\n\nActiva la verificación nativa en los parámetros de generación o en el prompt de sistema para que el modelo realice autorrevisión y recuperación de errores durante trayectorias complejas.\n\nUtiliza contextos de subagentes aislados para las ramas de investigación paralelas, de modo que los resultados intermedios ruidosos de las herramientas no distraigan al agente raíz.\n\nAplica los parámetros de escalado de contexto de YaRN al procesar repositorios o colecciones de literatura científica que superen la ventana de contexto nativa de 256K tokens.\n\nDespliega con cuantizaciones FP8/INT4 de SGLang o vLLM para reducir la huella de memoria manteniendo la eficiencia del enrutamiento MoE.",
+ "source_sha256": "f1deef105e5981b35e4c995753350ecc082e91e879a4dfe76659f2a38125f8f9",
+ "summary": "El grupo InternScience publicó los pesos de Sage-A1.5, que cuenta con una ventana de contexto de 256K ampliable a 512K mediante YaRN, un mecanismo de autocorrección por cadena de pensamiento integrado y configuraciones de servicio compatibles con OpenAI.",
+ "title": "Sage-A1.5 publicado en Hugging Face con autoverificación agéntica nativa",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet a été récompensé lors du concours d'entraînement de LoRA organisé par ModelScope, puis est devenu un composant central de l'écosystème Qwen-Image-Edit (QIE-2511). Il prend désormais en charge les applications d'inférence en local et reçoit régulièrement des mises à jour de compatibilité.",
+ "id": "n-250fdb3b1b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par ovi054 (Avi Pal) ; optimisé pour une inférence en moins d'une seconde et une correspondance « référence-vers-palette » à haute fidélité.",
+ "source_sha256": "6396632ea05019125494921beca37d1a8a5d33c86ba16439adcada941eddf647",
+ "summary": "Un LoRA spécialisé conçu pour l'étalonnage colorimétrique automatisé et l'alignement de palettes à haute fidélité à partir d'images de référence. Il permet le transfert de style cinématographique et une lumière cohérente sur des séquences d'images, optimisé pour l'architecture Qwen-Image-Edit.",
+ "title": "Color-Grade-Transfer-LoRA pour une correspondance précise des couleurs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-14a863c9d3",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Una directiva del gobierno de EE. UU. llevó a Anthropic a suspender el acceso a Fable 5 y Mythos 5, mientras que los demás modelos no se vieron afectados.",
+ "source_sha256": "0bd5d7b3381311273e05fad711248731b9e8770c0453067d4f6b060ab6503c40",
+ "summary": "El 13 de junio de 2026, Anthropic publicó un aviso oficial de acceso relacionado con Fable y Mythos. La clasificación de acciones regulatorias selladas indica un evento material de política de acceso, pero su decisión precisa, alcance y justificación no pueden establecerse a partir de la URL por sí sola.",
+ "title": "Anthropic publica un aviso sobre el acceso a Fable y Mythos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

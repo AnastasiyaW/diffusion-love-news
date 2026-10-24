@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目由 HeyGen 的内部工具发展为一个大型开源生态系统，星标数已超过 12,000。近期更新引入了“Agentic Video Stack”，并集成了 AI 编程助手。",
+ "id": "n-963305f6b7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目定位为 Remotion 的完全开源替代方案，采用 Apache 2.0 许可证，并为 AI 原生视频生成工作流提供一流支持。",
+ "source_sha256": "40095e12800612f0136089c4f59f0a9c22b45b30f9d447f511de6a464e045ea7",
+ "summary": "一个基于 Apache 2.0 协议的开源框架，用于借助 HTML、CSS 和 React 等 Web 技术构建高质量视频。该框架专为高性能渲染设计，并针对 AI 智能体的程序化控制进行了优化。",
+ "title": "HyperFrames：HeyGen 推出的程序化视频框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

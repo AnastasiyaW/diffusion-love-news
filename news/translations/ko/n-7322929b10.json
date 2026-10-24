@@ -1,0 +1,10 @@
+{
+ "id": "n-7322929b10",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "82942bb5e4a07283ac1a993582e528c01b806c069aecc046221d4e5aefe6c635",
+ "summary": "2026-08-11, Splatlight 개발 라인에 Gumroad와 Superhive Market의 제품 페이지 링크가 포함되었다. 이는 검증되지 않은 제품 버전이나 기능 변경을 주장하지 않으면서, 마켓플레이스 배포 및 검색 가능성(discoverability) 측면의 이정표를 기록한다.",
+ "title": "Splatlight 마켓플레이스 배포 문서화 완료",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

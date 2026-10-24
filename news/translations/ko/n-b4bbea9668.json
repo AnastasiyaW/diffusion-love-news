@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "실험적 엔지니어링 프로토타입에서 'Dreaming' 메모리 최적화와 'Outcomes' 자동 수정 기능을 갖춘 프로덕션 준비형 엔터프라이즈 제품군으로 전환되었습니다. 현재는 영속적이고 자율적인 오케스트레이션을 위해 Claude 4.7 모델과 네이티브하게 통합되어 있습니다.",
+ "id": "n-b4bbea9668",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "표준 토큰 사용 요금에 더해 시간당 $0.08의 세션 요금이 부과되는, 사용량 기반의 'Agent Credit' 과금 체계를 사용합니다.",
+ "source_sha256": "4c7f852afa1b9bdd48efe1f4de0dae6c5c9c45328d88b1b1f05bab52534df99e",
+ "summary": "Anthropic Managed Agents는 네이티브 상태 관리와 도구 통합을 갖춘, 장기 실행형 자율 AI 워크플로를 위한 호스팅 인프라를 제공합니다. 샌드박싱, 자격 증명 보관(credential vaulting), 영속적 메모리를 처리하여 복잡한 다단계 작업 실행을 가능하게 합니다.",
+ "title": "장기 실행 AI 워크플로를 위한 Anthropic Managed Agents",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

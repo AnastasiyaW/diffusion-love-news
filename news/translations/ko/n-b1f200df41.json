@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 연구 전용 프로젝트에서 활발히 관리되는 오픈소스 저장소로 전환되었습니다. 최근 업데이트에서는 속도 조건부 비디오 생성 기능이 도입되었으며, 1,800만 프레임으로 구성된 SloMo-44K 데이터셋이 공개되었습니다.",
+ "id": "n-b1f200df41",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "오디오 피치 변화를 활용해 시간 학습을 지도하고, 움직임 등변성(motion equivariance)을 강제하여 비디오 생성에서 발생하는 시간적 환각(temporal hallucination) 문제를 해결합니다.",
+ "source_sha256": "5b1166a2b8947c09a4afc227fdaa6ed4c170cffa9bb95db99cc962f039d362b9",
+ "summary": "오디오-비주얼 자기지도(self-supervision)를 활용해 비디오의 시간적 역학을 인지하고 제어하도록 설계된 딥러닝 프레임워크입니다. 물리적 움직임 제약을 학습함으로써 정밀한 재생 속도 조절과 고충실도 시간 초해상도(temporal super-resolution)를 가능하게 합니다.",
+ "title": "Seeing Fast and Slow: 시간의 흐름 학습하기",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

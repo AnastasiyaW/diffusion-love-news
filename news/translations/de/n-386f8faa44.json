@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "Am 29.06.2026 wurde die Entwicklungslinie Sonilo v1.1 mit einer Sonilo-Nachrichten-URL, einer fal.ai-URL für sonilo/v1.1/text-to-music und der Sonilo-Plattform-URL dokumentiert. Der datierte Linksatz identifiziert einen versionierten Text-zu-Musik-Endpunkt von Sonilo als Teil dieses Meilensteins; der Beitragstext sowie etwaige Angaben zu Funktionen oder Verfügbarkeit wurden nicht geprüft.",
+ "title": "Sonilo v1.1 mit einem Text-zu-Musik-Endpunkt verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

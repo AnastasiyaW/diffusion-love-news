@@ -1,0 +1,10 @@
+{
+ "id": "n-f7bf45f8a9",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e8f4b7eb1a56fc6d84e38e3a189dbd9b14ae2a9c7c0f54b55b35764a963a75c0",
+ "summary": "2026年3月9日，Composio 话题串中的一条消息同时链接了 Agent Orchestrator 的 GitHub 代码仓库以及一个次要的 hf.ru 链接。该记录可以证明当时存在一次公开的项目引用，但无法核实任何发布版本、功能集或其他具体里程碑。因此，本条历史记录仅限于这一有日期的引用。",
+ "title": "Agent Orchestrator 代码仓库曾被公开引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

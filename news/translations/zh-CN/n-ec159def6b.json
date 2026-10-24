@@ -1,0 +1,10 @@
+{
+ "id": "n-ec159def6b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d82b37571103756d7ad6a4aac3ed363fd4bfd1e3b8aeef98d1a71f4173f032d0",
+ "summary": "2026-03-15，ID-LoRA 链接了其项目网站、源代码仓库以及与模型相关的托管主页。这是该项目开发历程中一个重要的公开可用性节点，因为它为读者提供了项目的主要资源入口。仅凭这些带日期的链接，并不能确定具体的发布版本、版本号、能力特性或许可证。",
+ "title": "ID-LoRA 公开项目资源已链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3f0a9c0170",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b01da70fcc313be6aaeb2db0825b35be321b0ea7151335e958a6671a373ce859",
+ "summary": "El 7 de agosto de 2026, una actualización del proyecto vinculó dos bases de código independientes de ComfyUI Sol-Attn: una identificada para Blackwell y otra identificada para Triton. Se trata de un avance relevante porque deja constancia de la disponibilidad de rutas de implementación para entornos de ejecución distintos, sin establecer su madurez, compatibilidad ni rendimiento.",
+ "title": "Se vincularon las implementaciones de ComfyUI Sol-Attn para Blackwell y Triton",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

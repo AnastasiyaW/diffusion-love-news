@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La plataforma evolucionó de una vista previa de investigación a un ecosistema comercial con el lanzamiento de la versión 1.1 y 1.1 Plus, que incorpora Dynamic Cubes para paisajes masivos y el editor Chisel para el control manual del diseño.",
+ "id": "n-3b297c8441",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fundada por la Dra. Fei-Fei Li; emplea 3D Gaussian Splatting para garantizar la estabilidad geométrica y el fotorrealismo en los mundos generados.",
+ "source_sha256": "02a929af959ca83106a1b0c9374c46968ef532c73d1e5ea39e53cec01ff90ecf",
+ "summary": "Una plataforma de inteligencia espacial que genera entornos 3D persistentes y navegables a partir de texto, imágenes o vídeo mediante Gaussian Splatting. Ofrece generación de mundos de alta fidelidad para creadores, desarrolladores y entrenamiento en robótica.",
+ "title": "World Labs Marble: modelos generativos de mundos 3D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

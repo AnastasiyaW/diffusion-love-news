@@ -1,0 +1,10 @@
+{
+ "id": "n-54505b5f46",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "677139e97844c89e6e058041fbbaeabe99ee9978a0cd7678673ba06ca4e6c420",
+ "summary": "Am 04.07.2026 verlinkte diese Entwicklungslinie Hugging-Face-Material zu Cerebras und Gemma 4 Voice AI, die Speech-to-Speech-Codebasis sowie eine gehostete Demonstration für Echtzeit-Sprachinteraktion. Zusammengenommen belegen die datierten Verweise eine konkrete Sammlung von Ressourcen für die Erkundung von Echtzeit-Sprachinteraktion und keinen isolierten Repost.",
+ "title": "Hugging-Face-Ressourcen zu Echtzeit-Voice-AI wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

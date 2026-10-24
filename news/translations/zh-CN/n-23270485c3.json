@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具由手动的 ComfyUI 工作流发展而来，成为统一的独立 GUI/CLI 工具，以解决专业 VFX 流程中的闪烁和色彩空间问题。近期更新集成了 SAM 3，用于高精度的 alpha 精修和语义遮罩。",
+ "id": "n-23270485c3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "专为 Nuke 合成师设计，旨在提供可靠的多通道 AI 通道，而无需基于节点的 AI 图表那样的复杂操作。",
+ "source_sha256": "4a7d3b4250755fe03f4e9be839a8c4eb174042ebb6e51743148ad8f5a9902ffc",
+ "summary": "一款开源独立应用，可从实拍素材中生成高质量的 VFX 通道，例如深度、法线和分割遮罩。它能够自动创建与 Nuke 兼容的 sidecar EXR 文件，并同时处理场景线性色彩空间转换和批量处理。",
+ "title": "LiveActionAOV 独立工具：批量生成 VFX 通道",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

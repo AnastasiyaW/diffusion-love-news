@@ -1,0 +1,10 @@
+{
+ "id": "n-29d4083d61",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2fd4a666e60a47ff0401f336bad4f502d40e236e1aca2997cc032c7f19a2785e",
+ "summary": "2026-06-10자 Luma AI 링크에서 Ray 제품군의 Ray 3.2가 확인되었다. 이는 별도의 버전 단위 업데이트를 나타내므로 주요 개발 사건으로 제안된다. 제공된 근거만으로는 이번 출시의 기능, 제공 여부, 마이그레이션 영향은 확인되지 않는다.",
+ "title": "Luma AI, Ray 3.2 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-cf04305133",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4956ee8ba33621ccd5feccfe84ec1a718f4a5ca4d5a4a63aefa41684f480a332",
+ "summary": "2026-06-19에 기록된 링크는 realrebelai/Boogu-Image-Edit_GGUFs Hugging Face 저장소와 관련된 The source reference를 연결했다. 이는 GGUF 형식의 Boogu-Image-Edit 계열에 대한 공개 참조 지점을 확립했다는 점에서 중요한 배포 이정표다.",
+ "title": "Boogu-Image-Edit GGUF 아티팩트가 공개적으로 참조되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

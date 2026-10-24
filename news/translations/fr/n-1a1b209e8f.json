@@ -1,0 +1,10 @@
+{
+ "id": "n-1a1b209e8f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "24896cedf8a10d5b3ba0f301bf8da29b022e00d11be4458b16613c766bcd0196",
+ "summary": "Le 2026-08-21, Black Forest Labs a publié un article de blog officiel, de la documentation produit et un modèle de test (playground) pour FLUX Video Upscale. Il s'agit d'une étape importante, car les liens officiels datés établissent la présentation publique du produit. Les seuls liens fournis ne permettent cependant pas de confirmer ses capacités détaillées, sa disponibilité, sa tarification ni ses performances.",
+ "title": "Black Forest Labs présente FLUX Video Upscale",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

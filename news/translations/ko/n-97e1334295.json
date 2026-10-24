@@ -1,0 +1,10 @@
+{
+ "id": "n-97e1334295",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "133629bbe5d3ba6e252186a476ba5e58518882e3f08068648b31997f55cf1c8b",
+ "summary": "2026-07-01, GELab-Zero 개발 라인에서 GELab-Zero-4B-preview-Sico-Evolution에 대한 Hugging Face 모델 참조가 기록되었습니다. 연결된 모델 목록은 어댑터 기반 모델을 위한 관련 Hugging Face 보기 페이지도 가리키고 있어, 이 프로젝트의 공개 개발 체크포인트임을 보여줍니다.",
+ "title": "GELab-Zero Sico Evolution 프리뷰 모델이 Hugging Face에 등장",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-5353f88f44",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Modellseite und die Schnellstart-Seite sind undatiert, und die zugehörige Playground-Route liefert inzwischen einen Fehler zurück.",
+ "source_sha256": "4851a9638715d575e9894a3597c16c3283957fc8779324cd03a58ce0a8bed153",
+ "summary": "Am 05.08.2026 wurde FLUX 3 mit einer Modellseite von Black Forest Labs, einer Schnellstart-Dokumentation und einer URL zu einem Prompt-to-Image-Playground verknüpft. Zusammengenommen deuten diese datierten Verlinkungen auf einen wesentlichen Schritt auf den Produktoberflächen hin, sie belegen für sich genommen jedoch weder Modellspezifikationen, den Umfang einer Veröffentlichung noch Zugangsbedingungen.",
+ "title": "FLUX 3 wurde auf mehreren Produktoberflächen von Black Forest Labs verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

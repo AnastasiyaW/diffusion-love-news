@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto fue aceptado en CVPR 2026 e introdujo ViewBench, un benchmark diseñado específicamente para evaluar el razonamiento sobre puntos de vista en MLLM. Tras la publicación se liberaron el código oficial de inferencia y los conjuntos de datos del benchmark.",
+ "id": "n-4697df47f5",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el KAIST Visual AI Group; utiliza token warping hacia atrás para mantenerse robusto frente a errores de estimación de profundidad, preservando al mismo tiempo la coherencia semántica.",
+ "source_sha256": "470662e6ecc753009aa0c54ab45e03c0ecee920e05432296826570106ac6cf2a",
+ "summary": "Un proyecto de investigación sin entrenamiento adicional que permite a los Multimodal Large Language Models razonar sobre distintos puntos de vista mediante la deformación de tokens de imagen dentro de Vision Transformers. Este enfoque de manipulación geométrica permite a los modelos realizar razonamiento espacial y rotación mental sin necesidad de ajuste fino adicional.",
+ "title": "Token Warping para la comprensión de puntos de vista en MLLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

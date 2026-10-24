@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Né d'un outil de storyboard privé, il est devenu une station de travail vidéo IA complète, avec prise en charge du multipiste, des keyframes et du « Director Mode » pour une production structurée. Les mises à jour récentes ont ajouté un Workflow Manager pour la découverte et l'installation automatisées de nœuds et de modèles.",
+ "id": "n-18e6b47885",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Propose des « Hardware Tiers » pour une génération tenant compte de la VRAM et intègre un LLM local pour l'aide à la rédaction de prompts et la planification de storyboards.",
+ "source_sha256": "c7b7f97971741a4b7da6608f0b0941d9b368bf033e2f10cb7ae40c26019d5a16",
+ "summary": "Un éditeur vidéo non linéaire (NLE) open source construit au-dessus de ComfyUI. Il intègre une timeline traditionnelle aux workflows de génération IA, permettant la création vidéo itérative, la planification de plans et le montage multipiste.",
+ "title": "ComfyStudio : éditeur vidéo IA basé sur une timeline pour ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

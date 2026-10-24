@@ -1,0 +1,10 @@
+{
+ "id": "n-841bc05497",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "000eb6c3e2067df2dadd8ee9cb315dcee84b69a1c91977ece8e99c1a61359b1f",
+ "summary": "El 14 de julio de 2026, la línea de desarrollo de EgoForce se asoció con una página de proyecto, un repositorio de código fuente, una página de modelo en Hugging Face y un Space de Hugging Face. En conjunto, los enlaces con fecha establecen un punto de entrada público para la información del proyecto, el código, los artefactos de modelos y una superficie interactiva. Aquí no se afirma nada sobre una versión específica, sus capacidades, sus benchmarks ni el estado de su publicación.",
+ "title": "Se vincularon los recursos públicos del proyecto EgoForce",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-cf8c575ede",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1265471d9a6940bd63505d931380fcdf195e5165fa49b22ba129531c8f84d0ec",
+ "summary": "2026년 8월 14일, SCoPE 레코드가 프로젝트 사이트, TencentARC 소스 저장소, Hugging Face 페이지를 연결했습니다. 이 링크들은 함께 프로젝트 정보, 소스 코드, 모델 호스팅 자료에 대한 공개 진입점을 제공합니다. 다만 이것만으로 출시일, 버전, 저작자, 기능이 확인되지는 않습니다.",
+ "title": "SCoPE 프로젝트 리소스가 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

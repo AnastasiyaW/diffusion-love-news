@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 공식 ComfyUI 및 Diffusers 라이브러리 지원을 공개했습니다. 2026년 5월에는 포괄적인 기술 보고서와 OpenSpatial-3M 데이터셋을 발표하여 공간 인식 이미지 편집 및 카메라 제어 연구를 지원했습니다.",
+ "id": "n-d192447768",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "객체 회전, 3D 카메라 조정, 고충실도 텍스트 렌더링을 포함한 고급 편집 작업을 지원합니다. 추론 엔진은 Qwen3-VL을 기반으로 합니다.",
+ "source_sha256": "7165d06ff583d4f573664489050464f879d961c3144ad93df506bd478c75a7f5",
+ "summary": "JD Open Source가 공개한 통합 오픈소스 모델로, 이미지 이해, 생성, 정밀한 지시 기반 편집을 하나로 결합합니다. 8B 추론 VLM과 16B 디퓨전 트랜스포머를 결합하여 객체 위치 이동과 같은 복잡한 공간 조작을 수행합니다.",
+ "title": "JoyAI-Image: 통합 멀티모달 파운데이션 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

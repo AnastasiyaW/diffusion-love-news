@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "S'appuie sur la famille de modèles Gemma 4, publiée en avril 2026, qui a introduit le « Thinking Mode » et des progrès considérables en raisonnement agentique. Le projet prend actuellement en charge les modèles quantifiés E2B et E4B, optimisés pour une exécution sur l'appareil.",
+ "id": "n-ae3f3a3876",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Architecture centrée sur la confidentialité, reposant sur des extensions Chrome ; nécessite un navigateur compatible WebGPU.",
+ "source_sha256": "e3ffc3ef72729aca69e5c58165b0267646e466017b7654392c6cefc0c4530b33",
+ "summary": "Un agent IA entièrement autonome qui s'exécute localement dans le navigateur grâce à WebGPU accéléré par le matériel et aux modèles Gemma 4 de Google. Il assure la navigation web, le remplissage de formulaires et l'exécution de JS sans nécessiter de clés d'API externes ni de connexion au cloud.",
+ "title": "Gemma Gem : agent IA local dans le navigateur via WebGPU",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

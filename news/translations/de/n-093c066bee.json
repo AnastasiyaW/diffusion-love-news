@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Ursprünglich ein Werkzeug zur Desktop-Automatisierung, entwickelte sich QClaw bis Anfang 2026 zu einer integrierten Plattform innerhalb von WeChat und QQ. Im April 2026 startete eine globale Beta; daraus wurde ein Agent für alle Szenarien, der Produktivität, Planung und Automobilaufgaben verwalten kann.",
+ "id": "n-093c066bee",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Kennzeichnend ist eine lokal-zentrierte Architektur, in der das Smartphone als Endpunkt einer Fernsteuerung fungiert; Tencent gibt an, dass 99 % des Codes der internationalen Version vom Agenten selbst erzeugt wurden.",
+ "source_sha256": "6b9e4a2f51bd8838124e942f84be875f94e959e843b5d023b4819f8b7e156d34",
+ "summary": "QClaw ist ein konfigurationsfreies KI-Agenten-Ökosystem, das Desktop-Aufgaben über eine mobile Oberfläche automatisiert. Es läuft lokal auf Windows- oder Mac-Geräten und nutzt das Modell Hunyuan 3.0 für komplexes, mehrstufiges Schlussfolgern.",
+ "title": "QClaw: Tencents KI-Agent für die Desktop-Automatisierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

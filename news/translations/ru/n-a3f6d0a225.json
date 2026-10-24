@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Публично заявленная идентичность сайта изменена на Happyin Knowledge Space.",
+ "id": "n-a3f6d0a225",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Утверждение подтверждается как неизменяемым коммитом, так и исходным файлом mkdocs.yml в этой ревизии.",
+ "source_sha256": "91a9b74fd16fc378d011120b0d5642debb7d65a842045cb18d7702a99844dbac",
+ "summary": "В конфигурации MkDocs сайт переименован в Happyin Knowledge Space, а https://happyin.space/ объявлен его каноническим URL.",
+ "title": "Переименование сайта: Knowledge Space в Happyin Knowledge Space",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

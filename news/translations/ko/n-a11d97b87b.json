@@ -1,0 +1,10 @@
+{
+ "id": "n-a11d97b87b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e6682bb6d95b9518787cf9508a1e1246af1c6cb50c5ddf5ea9a4d3d526264021",
+ "summary": "2026-07-22, Poolside가 Laguna 개발 라인의 새로운 단계로 Laguna S 2.1을 공개했습니다. 날짜가 명시된 링크들은 이번 출시를 발표문, 모델 배포 페이지, 양자화 모델 참조 자료, 그리고 나열된 채팅 및 제공자 접근 경로와 연결합니다. 이 프로젝트의 구별되는 명명된 버전을 보여준다는 점에서 의미가 있습니다.",
+ "title": "Poolside, Laguna S 2.1 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

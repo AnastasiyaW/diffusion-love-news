@@ -1,0 +1,11 @@
+{
+ "id": "n-28ab3dac33",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在将DeepSeek API或模型权重集成到机构工作流程之前，请审查区域监管边界和联邦合规指令。\n\n提供商业API访问权限，或由独立基础设施支持的私有计算集群，以维持业务连续性。\n\n将中国总部模型提供商的部署流水线与联邦及受监管的西方数据环境隔离，以遵守公共采购限制。",
+ "source_sha256": "452a0ed5f8ac7c4942c05ad024b3e3f8d4c0f8a58ab18bcba380ebc550e735d7",
+ "summary": "在美国联邦民用机构被下令出于国家安全考虑停止使用其模型后不久，DeepSeek即完成了150亿美元融资。",
+ "title": "DeepSeek完成150亿美元融资，此前美国联邦政府限制其部署",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

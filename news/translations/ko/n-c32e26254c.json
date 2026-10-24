@@ -1,0 +1,10 @@
+{
+ "id": "n-c32e26254c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7c5dec4ee7bbb04c752a9967ff72bb585eba48ad94dcd7105401c73c80a11f06",
+ "summary": "2026-04-17 기준으로, 기록된 링크는 Managed Bots에 대한 공식 Bot API 기능 문서로 연결되었다. 이는 해당 날짜 기준 출처가 문서화한 봇 플랫폼 기능의 일부로 이 기능을 기록한 것이며, 확보된 근거만으로는 그 날짜가 최초 출시일이었는지는 확인되지 않는다.",
+ "title": "출처 문서는 Managed Bots를 봇 플랫폼 기능으로 기술하고 있음",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

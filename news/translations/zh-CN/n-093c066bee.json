@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "QClaw 最初是一款桌面自动化工具，到 2026 年初已发展为集成于微信和 QQ 内的一体化平台。2026 年 4 月，它推出全球测试版，并转型为可覆盖全场景的智能体，能够管理效率办公、规划和汽车相关任务。",
+ "id": "n-093c066bee",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用本地优先的架构，智能手机充当远程控制端点；腾讯称国际版 99% 的代码由该智能体自主生成。",
+ "source_sha256": "6b9e4a2f51bd8838124e942f84be875f94e959e843b5d023b4819f8b7e156d34",
+ "summary": "QClaw 是一个零配置的 AI 智能体生态系统，可通过移动端界面自动完成桌面任务。它在 Windows 或 Mac 设备上本地运行，并借助混元 3.0 模型进行复杂的多步骤推理。",
+ "title": "QClaw：腾讯桌面 AI 自动化智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

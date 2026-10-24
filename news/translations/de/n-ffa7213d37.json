@@ -1,0 +1,10 @@
+{
+ "id": "n-ffa7213d37",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1c543d9f01a73497497bae1ab77608bbe96a710c6254a4f021ac5d64dd1cbddf",
+ "summary": "Am 2026-07-07 verlinkte eine datierte Projektmeldung sowohl das Modell-Repository des Seamless-Equirectangular-LTX-2.3-LoRA als auch dessen ComfyUI-Integrations-Repository. Das ist relevant, weil es die öffentliche Verfügbarkeit der Modell- und Workflow-Ressourcen als einen gemeinsamen Entwicklungsschritt dokumentiert.",
+ "title": "Öffentliche Ressourcen für das Seamless-Equirectangular-LTX-2.3-LoRA verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

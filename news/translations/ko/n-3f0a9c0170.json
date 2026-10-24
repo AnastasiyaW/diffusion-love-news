@@ -1,0 +1,10 @@
+{
+ "id": "n-3f0a9c0170",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b01da70fcc313be6aaeb2db0825b35be321b0ea7151335e958a6671a373ce859",
+ "summary": "2026년 8월 7일, 프로젝트 업데이트를 통해 서로 다른 두 개의 ComfyUI Sol-Attn 코드베이스가 연결되었다. 하나는 Blackwell용으로, 다른 하나는 Triton용으로 식별된 것이다. 이는 서로 다른 실행 환경을 위한 구현 경로의 가용성을 기록한다는 점에서 의미 있는 진전이지만, 그 성숙도, 호환성, 성능까지 입증하는 것은 아니다.",
+ "title": "ComfyUI Sol-Attn 구현체, Blackwell용과 Triton용이 연결되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

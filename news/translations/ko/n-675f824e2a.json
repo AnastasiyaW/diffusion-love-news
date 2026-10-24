@@ -1,0 +1,10 @@
+{
+ "id": "n-675f824e2a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e62510c58ce1b4bae48e1dffd8a7ff04082e649fe63e8becc67dc611dd1ec7ca",
+ "summary": "2026년 3월 26일, z-image-turbo-sda 개발 라인이 Hugging Face 저장소 F16/z-image-turbo-sda와 연결되었다. 이 프로젝트의 구체적인 모델 배포 지점을 특정하는 것이므로 공개 참조 측면에서 중요한 진전이다. 다만 날짜가 기재된 연결만으로는 모델의 성능, 출처, 버전, 공개 상태를 확정할 수 없다.",
+ "title": "z-image-turbo-sda가 Hugging Face 모델 저장소와 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

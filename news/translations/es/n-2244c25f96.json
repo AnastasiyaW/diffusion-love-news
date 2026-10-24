@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El marco TVP se publicó brevemente a comienzos de 2026, antes de que el repositorio oficial y el artículo fueran retirados para someterlos a nuevas mejoras. Posteriormente, su tecnología central se integró en los modelos base DeepSeek-V4, donde actualmente impulsa funciones de razonamiento espacial de alta precisión.",
+ "id": "n-2244c25f96",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduce Compressed Sparse Attention (CSA) para alcanzar una relación de compresión visual de 7056x, reduciendo la huella de la caché KV visual a aproximadamente 90 tokens por imagen.",
+ "source_sha256": "1528f2bcf3989a45dbe844dee16ab90fb9548fd65a9eac8252a890f132256438",
+ "summary": "Un marco de visión y lenguaje que intercala coordenadas espaciales y cajas delimitadoras como tokens discretos dentro del razonamiento de cadena de pensamiento (Chain-of-Thought) del modelo. Salva la \"Reference Gap\" en los modelos multimodales, permitiendo un anclaje espacial preciso y un razonamiento de forma extensa para tareas visuales complejas.",
+ "title": "DeepSeek TVP: Thinking with Visual Primitives",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

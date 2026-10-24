@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Les statistiques publiées sur les articles, les domaines et les liens internes ont été corrigées.",
+ "id": "n-690d423e11",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Les valeurs sont conservées exactement telles qu'elles figurent dans l'objet du commit immuable.",
+ "source_sha256": "bd750aa6b998361ded62744dbbc9da9f230671312faea39fddc3ef04ac22e199",
+ "summary": "Les statistiques publiées du projet ont été corrigées à 785 articles, 26 domaines et plus de 3 987 liens internes.",
+ "title": "Correction de l'écart dans le nombre d'articles et les statistiques",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

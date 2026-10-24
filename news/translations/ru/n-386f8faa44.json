@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "29 июня 2026 года в записях о линейке разработки Sonilo v1.1 зафиксированы новостная ссылка Sonilo, URL fal.ai для sonilo/v1.1/text-to-music и ссылка на платформу Sonilo. Набор датированных ссылок указывает на то, что версионированный эндпоинт Sonilo text-to-music входит в состав этой вехи; текст публикации, а также сведения о функциях и доступности не рассматривались.",
+ "title": "Sonilo v1.1 связали с эндпоинтом text-to-music",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

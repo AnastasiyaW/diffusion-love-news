@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Reconnu comme article mis en avant (Highlight Paper) à CVPR 2026 ; introduit le benchmark Persona-MME, comportant 14 tâches spécialisées, et démontre des performances supérieures à celles de GPT-4o dans des scénarios de mémoire à long terme.",
+ "id": "n-78a59b56b6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Projet collaboratif entre l'Université de Nanjing (MiG-NJU) et ByteDance ; il s'appuie sur une architecture de mémoire multi-niveaux incluant une mémoire épisodique et une mémoire procédurale.",
+ "source_sha256": "342cd6ecd703b017b8231fc341c22e1566b134402d97dd1c0331e8f55f327851",
+ "summary": "Un cadre de personnalisation à long terme des modèles de langage multimodaux de grande taille, reposant sur un mécanisme d'évolution de la personnalité fondé sur le momentum (Momentum-based Personality Evolving Mechanism). Il permet aux assistants IA d'apprendre de manière proactive les traits de l'utilisateur et de maintenir la cohérence au fil des interactions multi-tours.",
+ "title": "PersonaVLM : modèles de langage multimodaux de grande taille personnalisés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

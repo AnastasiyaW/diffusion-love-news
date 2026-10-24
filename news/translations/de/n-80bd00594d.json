@@ -1,0 +1,10 @@
+{
+ "id": "n-80bd00594d",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "da7553c4b9c0916a62e0f21276e4fec378251011a3f77eb512fea64a4455eca1",
+ "summary": "Am 01.07.2026 verlinkte eine Nachricht aus der Entwicklungslinie das GitHub-Repository und die Hugging-Face-Seite von ASASR. Allein aus den datierten Links geht hervor, dass es sich um einen projektbezogenen Schritt zur Veröffentlichung von Ressourcen handelt. Daraus lassen sich weder eine Version, ein Funktionsumfang, ein Veröffentlichungsstatus noch eine Modellfähigkeit ableiten.",
+ "title": "ASASR-Projektressourcen wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

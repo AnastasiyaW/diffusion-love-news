@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该平台在 2026 年初从简单的片段生成转型为统一的多模态架构。字节跳动的 Seedance 2.0 更新引入了原生口型同步、导演级镜头控制，并能够处理最多 9 张参考图像，以在不同场景中实现角色渲染的一致性。",
+ "id": "n-49e8a26e33",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Flova.ai 统筹调度多个模型，包括 Seedance 2.0 和剧本撰写智能体，以自动化生成长篇叙事内容。该平台在早期曾因超写实演员复刻问题而受到行业审视。",
+ "source_sha256": "9e666a03144a5e0b8a9495fc737718ea4c30db3ab297ae4b96f3e03fd6ad4515",
+ "summary": "这是一个全栈式 AI 电影制作平台，利用 Seedance 2.0 多模态引擎进行叙事视频制作。它支持多镜头连贯性、角色一致性以及集成的音视频同步，以实现电影化的叙事表达。",
+ "title": "flova.ai：由 Seedance 2.0 驱动的 AI 视频智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

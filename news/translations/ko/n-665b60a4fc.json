@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "OmniVoice는 Sherpa-ONNX 배포 프레임워크와 완전히 통합된 프로덕션급 라이브러리로 발전했습니다. 이제 600개 이상의 언어에 걸친 대규모 다국어 지원을 제공하며, 크로스 플랫폼 엣지 실행에 최적화되어 있습니다.",
+ "id": "n-665b60a4fc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "k2-fsa(Next-gen Kaldi) 팀이 개발했으며, 비언어적 신호(non-verbal cues)와 발음 교정을 포함한 세밀한 제어를 지원합니다.",
+ "source_sha256": "e34d6cee1a5109c7479bbfdc534c7408d8c00e6191b263960856c97beef40a1d",
+ "summary": "OmniVoice는 600개 이상의 언어를 지원하고 고급 제로샷 음성 복제 기능을 갖춘 고성능 다국어 텍스트 음성 변환(TTS) 시스템입니다. Diffusion Language Model 아키텍처를 활용하여 극도로 빠른 속도로 고품질 오디오를 제공합니다.",
+ "title": "OmniVoice 다국어 TTS 및 제로샷 음성 복제",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在原始 TIPS 模型之后，TIPSv2 引入了 iBOT++ 预训练和多粒度合成描述（caption），以提升空间感知能力。该模型已集成到 Hugging Face Transformers 库中，并配备了面向密集预测任务的专用 DPT 头。",
+ "id": "n-de24cf852f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目提供了托管于 Hugging Face Spaces 的官方特征浏览器，并且在零样本任务上优于 DINOv2 等早期自监督模型。",
+ "source_sha256": "01af5038d28554b22399b2b3acfc4228c056ad6ed29752087e1a9d602a7ceb8c",
+ "summary": "由 Google DeepMind 推出的视觉-语言模型系列，弥合了图文对齐与密集空间理解之间的差距。借助块（patch）级对齐，它能够实现精确的单目深度估计、表面法线预测以及零样本语义分割。",
+ "title": "TIPSv2：具备空间感知能力的图文预训练",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-ccb51d2a95",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac059ddf8bbb7ec7444b59dd8f063e3f863227ac024f910e951489c79c102417",
+ "summary": "Le 2026-08-24, un message de la ligne de développement a relié une ressource Hugging Face nommée MiniMax-H3-Fun-Controlnet-Union et un répertoire d'exemple VideoX-Fun dédié à MiniMax H3 Fun. Ce point est considéré comme une étape importante, car ces liens datés rattachent un artefact nommé à un exemple d'implémentation, bien que leurs capacités et les détails de leur publication n'aient pas fait l'objet d'une vérification indépendante.",
+ "title": "MiniMax H3 Fun ControlNet Union associé à un exemple VideoX-Fun",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

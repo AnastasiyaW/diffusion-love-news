@@ -1,0 +1,10 @@
+{
+ "id": "n-dd68bf49b2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9b53a22ff7330ade831c17a4cddeb5d1849650cd667f9e1c72aad9019c4f0747",
+ "summary": "2026-06-11, Langswap은 음성 인식(STT) 매니저, ASR/VAD 클라이언트, Llama.cpp 번역 클라이언트, OmniVoice TTS 클라이언트, FFmpeg 지원 기능의 소스 경로를 연결했다. 해당 날짜의 링크 목록에는 프로젝트 저장소와 AI 더빙에 관한 기사도 포함되어, 이들 구성 요소가 음성 번역 및 더빙의 맥락에 놓여 있음을 보여준다. 확인 가능한 링크만으로는 참조된 파일이 그 날짜에 추가되었는지 또는 변경되었는지는 알 수 없다.",
+ "title": "Langswap, 모듈형 음성 번역 및 더빙 스택을 공개하다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

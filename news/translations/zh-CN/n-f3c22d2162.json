@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "随着 Gemma 4 于 2026 年发布，PhoneClaw 演进为一个功能全面的本地智能体，新增多令牌预测（Multi-Token Prediction，MTP），推理速度提升 37%，并深度集成了 iOS 的 HealthKit 和 Contacts。",
+ "id": "n-f3c22d2162",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由于 Google 的 AI Edge Gallery 对该平台的官方支持推迟，本项目被定位为 iOS 上 Gemma 4 的主要参考实现；要获得最佳性能，需要 iPhone 15 Pro 或更新机型。",
+ "source_sha256": "c9c1cc5393bfc2b235f01d96fb0aeb1ed89f8bea0f620e52e104dd8d45f28c27",
+ "summary": "一款开源 iOS 应用，借助 LiteRT-LM 和 Metal 加速在本地运行 Gemma 4 模型，实现离线推理。它支持多模态视觉、与原生 iOS 应用结合的智能体式工具调用，以及经过优化的投机解码（speculative decoding）。",
+ "title": "PhoneClaw：在 iOS 设备端本地运行 Gemma 4 的智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

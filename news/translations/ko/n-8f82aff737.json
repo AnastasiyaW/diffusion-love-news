@@ -1,0 +1,11 @@
+{
+ "id": "n-8f82aff737",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "karpathy-output-style 저장소를 클론하거나 스킬 정의 파일을 에이전트 설정 디렉터리에 복사합니다.\n\n에이전트 런타임(Claude Code 또는 Codex 등)이 쿼리 실행 중 스킬 규칙을 로드하도록 설정합니다.\n\n개념 또는 코드 설명 작업을 에이전트에 요청하면, 스킬이 단순화된 기술 텍스트, Excalidraw 다이어그램, 상호작용형 HTML, 설명용 영상 형식 중에서 선택하도록 합니다.\n\n무거운 상호작용형 HTML이나 영상 산출물을 요청하기 전에 가장 단순한 형식을 기본으로 삼는 4단계 계층 구조를 엄격히 따릅니다.\n\n상호작용형 HTML 산출물은 스타일과 스크립트가 모두 내장된 단일 파일로 완전히 독립되도록 하여, 로컬 브라우저에서 즉시 확인할 수 있게 합니다.",
+ "source_sha256": "5f3808f5e22da4a8dded3b29afaa58782a3cb1e1e3a6069e012c3b9ae00b8c05",
+ "summary": "오픈소스 karpathy-output-style 저장소는 Andrej Karpathy의 시각적 설명 계층 구조를 재사용 가능한 에이전트 스킬로 묶어, 코딩 어시스턴트가 일반 텍스트 대신 Excalidraw 다이어그램, 상호작용 가능한 단일 파일 HTML 페이지, 내레이션이 포함된 영상 애니메이션을 생성할 수 있도록 합니다.",
+ "title": "오픈소스 karpathy-output-style, AI 에이전트를 위한 시각적 출력 단계 구현",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

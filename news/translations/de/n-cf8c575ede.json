@@ -1,0 +1,10 @@
+{
+ "id": "n-cf8c575ede",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1265471d9a6940bd63505d931380fcdf195e5165fa49b22ba129531c8f84d0ec",
+ "summary": "Am 14.08.2026 verlinkte ein SCoPE-Eintrag seine Projektseite, das Quellcode-Repository von TencentARC und die Hugging-Face-Seite. Zusammen boten diese Links öffentliche Einstiegspunkte für Projektinformationen, Quellcode und Materialien zum Modell-Hosting. Sie belegen weder ein Veröffentlichungsdatum, eine Version, die Urheberschaft noch Fähigkeiten.",
+ "title": "SCoPE-Projektressourcen wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

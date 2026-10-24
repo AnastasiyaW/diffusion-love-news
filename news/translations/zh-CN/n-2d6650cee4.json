@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已从基于脚本的安装方式演变为功能完备的 Windows .exe 生态系统,支持多语言并提供实时资源追踪。目前,项目重点为 Qwen3-TTS 和 Motif Video 等前沿模型提供一键安装程序。",
+ "id": "n-2d6650cee4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要 Docker Desktop 和 NVIDIA 硬件;重点通过容器化解决开源 AI 工具中常见的“依赖地狱”问题。",
+ "source_sha256": "6c4920e99817af093dc9f0f13544dbbc17a6c518e94c4efe411a75b9046d4bc7",
+ "summary": "一款专为测试和管理新兴 AI 模型而设计的 Windows 专用启动器,涵盖图像、视频和 TTS 领域。它借助 Docker 和 WSL2 为每个模型创建隔离的运行时环境,从而简化复杂的依赖管理。",
+ "title": "面向 AI 模型的 Deno AI Studio Windows 安装程序",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

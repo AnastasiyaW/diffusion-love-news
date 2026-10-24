@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在基于 PlayCanvas 的 v2.0 重构之后，该平台引入了 SOG 压缩和 LOD 流式加载。v2.2 和 v2.3 的更新新增了图像生成高斯泼溅（Image-to-Splat）、3D 测量工具和可嵌入的 NPM 查看器，同时要求将旧版场景重新导出以保证兼容性。",
+ "id": "n-e4fab55e05",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含用于减小文件体积的专有 SOG 压缩技术，并支持 4D 高斯泼溅回放。",
+ "source_sha256": "ecf04409db9b04241bf19bb32320495c0d249634db28d1b65477ca5af43dd41a",
+ "summary": "一个基于 Web 的平台，用于利用高斯泼溅（Gaussian Splatting）技术创建、托管和嵌入交互式 3D 场景。该平台采用基于 PlayCanvas 的引擎，支持 LOD 流式加载、动态光照，以及在捕获的环境中进行第一人称导航。",
+ "title": "StorySplat v2.3：交互式 3D 高斯泼溅编辑器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-5b5558fedd",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b6af61f73c1469e6ea14fe5e772ffae0ad2a47fc718cd69cbea87ea24ca68387",
+ "summary": "El 2026-07-08 se enlazaron repositorios públicos de ThinkingCap-Qwen3.6-27B y de varios formatos de despliegue alternativos. Entre los formatos enlazados figuraban GGUF, NVFP4 y una variante int4 de AutoRound, lo que marca la disponibilidad pública de una línea de modelos y de las opciones de distribución asociadas.",
+ "title": "Se enlazaron los repositorios y las variantes de despliegue de ThinkingCap-Qwen3.6-27B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

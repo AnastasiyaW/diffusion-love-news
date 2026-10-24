@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié en avril 2026, ce cadre répond à la fragmentation de la recherche sur les agents GUI en proposant un pipeline unifié, de l'entraînement à la mise en production. Le modèle ClawGUI-2B inclus surpasse actuellement, de manière significative, des modèles nettement plus grands comme UI-Venus-72B sur les principaux benchmarks.",
+ "id": "n-6dd8c1ff25",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par le laboratoire ZJU-REAL ; comprend une application Android dédiée au déploiement sur l'appareil, utilisant Shizuku.",
+ "source_sha256": "1c9a07d6ace730d04e078adf9513dce4a2ff2b5b392a5c894b31d96e167765e2",
+ "summary": "Un cadre open source et full-stack couvrant l'ensemble du cycle de vie des agents GUI, depuis l'entraînement par apprentissage par renforcement jusqu'à l'évaluation standardisée et au déploiement multiplateforme. Il permet aux agents de contrôler des appareils Android, iOS et HarmonyOS, en s'appuyant sur des méthodes avancées d'optimisation de politique et sur des modèles de récompense de processus.",
+ "title": "ClawGUI : cadre unifié pour l'entraînement et le déploiement d'agents GUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

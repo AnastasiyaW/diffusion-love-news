@@ -1,0 +1,10 @@
+{
+ "id": "n-af926b6d88",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a9736fda5d51340abc4525768e4277aa900ea61f60a6b88ea8256b5ceafdf41d",
+ "summary": "Am 31.07.2026 wurde die Qwen-Audio-Entwicklungslinie mit drei API-Referenzen von Alibaba Cloud Model Studio für Fun ASR in Verbindung gebracht: Echtzeit-Erkennung, HTTP-Erkennung für aufgezeichnete Sprache und Erkennung ohne Echtzeitbezug. Dies dokumentiert einen Referenzpunkt in der API-Dokumentation, nicht einen verifizierten Modellstart oder eine Änderung der Fähigkeiten.",
+ "title": "Qwen-Audio-Spracherkennungs-API-Referenzen wurden erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

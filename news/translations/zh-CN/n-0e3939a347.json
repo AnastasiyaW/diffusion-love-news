@@ -1,0 +1,10 @@
+{
+ "id": "n-0e3939a347",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c7fdc90bdc2b1a37918dab2d13f83b10bc04808d7dbabc788bc5444e2dd29266",
+ "summary": "2026年6月26日，Qwen3-ForcedAligner-0.6B-hf 的 Hugging Face 模型页面在 Qwen3 ASR 相关讨论串中被链接。这是一条具有实质意义的开发动态，因为它指明了一个具体的强制对齐（forced-alignment）模型产物。原始帖子和模型卡内容均未提供，因此本文不对其能力、发布声明或使用细节作出任何断言。",
+ "title": "Qwen3-ForcedAligner-0.6B-hf 在 Hugging Face 上被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

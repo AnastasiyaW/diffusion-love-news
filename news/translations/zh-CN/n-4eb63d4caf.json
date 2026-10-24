@@ -1,0 +1,10 @@
+{
+ "id": "n-4eb63d4caf",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c7c985c2a61dd840ff95bf506af823eff28c70292ecd3ad5e7aa2c8cdb7bc99",
+ "summary": "2026-08-06，该带日期的链接记录了 Hugging Face 上 Qwen3-TTS-12Hz-1.7B-Base 的一个 GGUF 分发版本。这属于下游分发环节，而非 Qwen 上游的模型发布，但它显著扩展了该项目在本地运行时的部署路径。",
+ "title": "ggml-org 发布 Qwen3-TTS-12Hz-1.7B-Base 的 GGUF 分发版本",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

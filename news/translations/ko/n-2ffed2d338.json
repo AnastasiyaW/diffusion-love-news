@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 5월에 출시되었으며, 1.5 버전에서 크게 업그레이드되었습니다. 단순한 오디오 충실도를 넘어 감정적 맥락 인식으로 확장되었습니다. 현재 연구 프리뷰 단계이며, 대화형 AI의 지연 시간과 표현력을 평가하는 벤치마크 역할을 하고 있습니다.",
+ "id": "n-2ffed2d338",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Inworld AI가 개발했으며, Artificial Analysis Speech Arena에서 꾸준히 최상위권에 올라 있고 OpenAI의 Realtime API와 직접 경쟁하고 있습니다.",
+ "source_sha256": "e540ba8706d00d3d01b8938bb1e4a0a93ec57d08940ae8b69e33affb2cf82caa",
+ "summary": "사용자의 오디오 입력을 바탕으로 어조와 감정 표현을 동적으로 조정하는 저지연 대화형 음성 AI입니다. 사회적 추론을 위한 '행동 계층(behavioral layer)'을 갖추고 있으며, 100개가 넘는 언어에 걸쳐 자연어 기반 스티어링을 지원합니다.",
+ "title": "Inworld Realtime TTS-2: 감정 표현이 가능한 AI 음성 시스템",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

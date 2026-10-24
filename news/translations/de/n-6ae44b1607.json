@@ -1,0 +1,10 @@
+{
+ "id": "n-6ae44b1607",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9a1bad0189a876327d7e03109cda8bf185b19272716e144c72e408cc8077a925",
+ "summary": "Am 16.03.2026 wurden das ComfyUI-PuLID-Flux2-Repository zusammen mit seinem Workflow-Verzeichnis sowie den externen PuLID- und antelopev2-Modellressourcen verlinkt. Dies dokumentiert einen praktischen Integrationsbezugspunkt für das Projekt, die vorliegenden Belege belegen jedoch weder ein Release, eine Version noch eine konkrete Implementierungsänderung.",
+ "title": "Einrichtungsressourcen für ComfyUI-PuLID-Flux2 wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

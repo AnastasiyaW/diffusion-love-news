@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "一次批量研究资料导入新增了 21 篇公开文章。",
+ "id": "n-8a14fda3a6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "批次规模和工作流标签保留自不可变的提交主题；未发布任何私有提示词或对话记录。",
+ "source_sha256": "a57ab157fdbd05ac92fb3f275de149ab58a218e0e0efbc0b51c08bbd55bcd56b",
+ "summary": "一次研究资料批量导入向公共知识库新增了 21 篇文章。",
+ "title": "批量研究资料导入：通过 Gemini 3 Flash CLI 处理 21 篇文章",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

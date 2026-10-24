@@ -1,0 +1,11 @@
+{
+ "id": "n-088aac8506",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Abre un proyecto en el editor de Canva y selecciona Dream Lab en el panel lateral de herramientas.\n\nIntroduce un prompt descriptivo que detalle el sujeto, la composición y el estilo visual previstos.\n\nOpcionalmente, sube una imagen de referencia de estilo o aplica preajustes estéticos para guiar el resultado visual.\n\nGenera candidatos visuales y coloca la imagen seleccionada directamente en el lienzo como un elemento de diseño editable.\n\nProporciona imágenes de referencia junto con los prompts de texto para anclar paletas estéticas de marca concretas y la estructura del diseño.\n\nUtiliza modelos nativos entrenados con plantillas para diseños comerciales estructurados, en los que la jerarquía espacial y la colocación del texto prevalecen sobre la fotografía de stock fotorrealista.",
+ "source_sha256": "4a53a487f5283a172c8a8c53feaa3c9048926f8e295cf047232cfb2b4d66b8dd",
+ "summary": "Canva ha desplegado Dream Lab en toda su plataforma, con tecnología de Leonardo.ai, e introduce Craft, un modelo fundacional propietario optimizado para diseños basados en plantillas y renderizado en 2K.",
+ "title": "Canva lanza Dream Lab y su primer modelo propio de generación de imágenes, Craft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

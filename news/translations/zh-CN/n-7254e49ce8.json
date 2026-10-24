@@ -1,0 +1,10 @@
+{
+ "id": "n-7254e49ce8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f177fa3645bf4fd844ee87a38b56b4f29e4a1333d5cc25ea802c6cc478597c23",
+ "summary": "2026-05-29，一条带日期的记录将读者引向 Bonsai Image 的 Hugging Face 合集，以及与该项目相关的一个 WebGPU Space。由于这些内容指向了具体的公开项目资源，此事件被视为一次具有实质意义的分发与评测访问事件。仅凭这些链接，无法确认该日期是否发生了模型发布、更新或基准测试。",
+ "title": "Bonsai Image 4B 通过 Hugging Face 资源曝光",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

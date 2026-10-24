@@ -1,0 +1,10 @@
+{
+ "id": "n-2540f877eb",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2529c20ad08c54707b907123178bb403fe0fe69839cead4cd764688017933534",
+ "summary": "2026年5月18日，该记录登记了 Qwopus3.5-9B-Coder 的 GGUF 分发版本所对应的 Hugging Face 仓库。这是一个值得关注的分发步骤，因为它标明了该项目的一个面向推理的模型制品。仅凭所提供的链接，无法确定该制品的具体量化方式、来源，或其与上游发布版本之间的关系。",
+ "title": "Qwopus3.5-9B-Coder GGUF 分发版本已在 Hugging Face 上登记",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

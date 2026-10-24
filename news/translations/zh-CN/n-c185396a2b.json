@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖介绍了一款 2.6B 参数的可控视频世界生成器，可在单块 GPU 上根据一张图像和相机轨迹生成最长一分钟的 720p 视频。",
+ "id": "n-c185396a2b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "cf0ae1d8355f9e18ff1fe70960a68915180cd8966445bf84b7b5a3516cf946b3",
+ "summary": "该新闻帖介绍了一款 2.6B 参数的可控视频世界生成器，可在单块 GPU 上根据一张图像和相机轨迹生成最长一分钟的 720p 视频。",
+ "title": "NVIDIA 发布 SANA-WM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

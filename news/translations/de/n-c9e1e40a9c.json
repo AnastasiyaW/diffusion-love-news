@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich Anfang 2026 von einem statischen, diffusionsbasierten Modell zu einem vollständig autonomen agentischen System. Heute umfasst es eine optimierte Pipeline, die in Prompts autonom Wissenslücken erkennt und vor der Synthese über Web-Search-Grounding reale visuelle Evidenz beschafft.",
+ "id": "n-c9e1e40a9c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Vorgestellt wurde der FactIP-Benchmark zur Bewertung der faktischen Treue multimodaler Modelle; entwickelt wurde das Projekt in Zusammenarbeit zwischen Forschenden von Tencent Hunyuan und der UCLA.",
+ "source_sha256": "1d55b8f14757c2450b39192e04ca77d13baa46e4312f7578a53db0e2b155e89e",
+ "summary": "Ein durchgängiges multimodales agentisches Framework, das das „Closed-Book“-Problem bei der Bilderzeugung löst, indem es Recherche in Echtzeit im Web betreibt. Es nutzt eine Think-Research-Recaption-Generate-Pipeline, um die visuelle Synthese in faktischer externer Evidenz zu verankern, und reduziert Halluzinationen bei seltenen Konzepten und dem Long Tail deutlich.",
+ "title": "Unify-Agent: Open-Book Agentic Image Synthesis",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

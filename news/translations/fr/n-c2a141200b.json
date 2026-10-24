@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passée d'un utilitaire expérimental à une version complète stable en avril 2026. Les mises à jour majeures ont introduit la mise en évidence visuelle « Lasers » des connexions actives et une fonction de saut automatique vers le canevas pour vérifier rapidement un nœud.",
+ "id": "n-c2a141200b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Implémentée en JavaScript/TypeScript pur pour des performances élevées ; elle évite le problème du « doom scroll » dans les workflows ComfyUI volumineux.",
+ "source_sha256": "eb39a4719b3ae015bbdcb640b0ec707eaef551dd889007f0e925bc74ff558ea7",
+ "summary": "Une extension de productivité pour ComfyUI qui introduit une interface en barre latérale pour connecter des nœuds sans faire glisser des câbles à travers le canevas. Elle propose un système de connexion basé sur la recherche, ne nécessite aucune dépendance externe et reste pleinement compatible avec les formats JSON de workflow standard.",
+ "title": "ConnectTheDots : outil de connexion de nœuds en barre latérale pour ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

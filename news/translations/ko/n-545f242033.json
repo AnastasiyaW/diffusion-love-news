@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 연구 중심의 SMPL 모델에서, Anny와 MHR 같은 Apache 라이선스 기반 모델을 토대로 한 비용 효율적인 상용 파이프라인으로 전환했습니다. 최근에는 'clad-body' 측정 라이브러리를 오픈소스로 공개했으며, 사용자 불편을 최소화하기 위해 설문 기반 형상 예측으로 방향을 전환하고 있습니다.",
+ "id": "n-545f242033",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "물리 기반 손실 함수를 활용하여 평균 질량 오차 0.3kg을 달성합니다. 스캔 1회당 약 $0.09의 비용으로 운영됩니다.",
+ "source_sha256": "46049fad5f24d9b2a9603998cc17b733d396d30191627cd9c8a547dfdf0af0c3",
+ "summary": "가상 피팅룸을 위해 메시 모델에서 ISO 규격을 준수하는 측정값을 추출하는 상용 3D 신체 스캐닝 파이프라인입니다. Naver의 Anny와 Meta의 MHR 같은 허용적 모델을 활용하여 제약적인 라이선스 없이도 높은 정확도의 형상 복원을 제공합니다.",
+ "title": "Clad Size-aware: 가상 피팅을 위한 3D 신체 스캐닝",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

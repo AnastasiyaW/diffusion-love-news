@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto pasó de una configuración experimental formada por varios nodos a un nodo consolidado, 'Mesh2Motion Explore'. Ahora incluye un editor 3D embebido basado en iframe, soporte para la importación de recursos FBX personalizados y generación directa de vídeo WebM.",
+ "id": "n-2ff0f435cc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La versión 1.2 eliminó dependencias pesadas de la interfaz, como Vue, para garantizar una integración sin fisuras con el frontend de ComfyUI.",
+ "source_sha256": "daca227b837e6b1de65a2f6978c8654fe871f5fd0c3edd7788acdd2849694862",
+ "summary": "Un nodo personalizado para ComfyUI que integra un editor 3D interactivo para la animación y el rigging de mallas. Permite el control de cámara en tiempo real, la manipulación de esqueletos y la salida directa de vídeo para flujos de trabajo de IA generativa.",
+ "title": "ComfyUI-mesh2motion: editor interactivo de mallas 3D para animación con IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

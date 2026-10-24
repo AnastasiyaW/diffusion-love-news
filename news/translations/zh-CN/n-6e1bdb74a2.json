@@ -1,0 +1,10 @@
+{
+ "id": "n-6e1bdb74a2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e70836e0437736e5f254640ce1ce1cf2e6edf8038364638173ae28cd858ec93f",
+ "summary": "2026 年 3 月 20 日，一条带日期的 SAMA 消息链接了该项目的公开网站、源代码仓库，以及 SAMA-14B 的 Hugging Face 页面。这些链接表明，上述三项公开资源在该日期与 SAMA 相关联，但不能据此进一步证实关于该模型或项目的其他说法。",
+ "title": "SAMA 的公开项目、源代码和模型资源已被关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

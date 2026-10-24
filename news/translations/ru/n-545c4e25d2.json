@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Официально запущен как репозиторий первого класса на Hugging Face Hub в апреле 2026 года. Из библиотеки, которую поддерживало сообщество, он превратился в центральную инфраструктуру, которая поддерживает Flash Attention 4, оптимизирован для экстремального контекстного параллелизма и новейших архитектур оборудования, таких как NVIDIA Blackwell.",
  "id": "n-545c4e25d2",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Глубоко интегрирована в Python-библиотеку 'kernels' и стандартные инструменты Hugging Face, такие как Transformers и Diffusers (v0.38.0+).",
- "source_sha256": "legacy",
- "summary": "Платформа и библиотека для распространения предкомпилированных GPU-ядер (CUDA, ROCm, Metal, XPU) напрямую из Hugging Face Hub. Она устраняет «кошмар установки» высокопроизводительных компонентов вроде Flash Attention, предоставляя мгновенные бинарники под конкретное окружение.",
- "title": "Hugging Face Kernels Hub для оптимизации GPU",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Глубоко интегрирована в Python-библиотеку «kernels» и стандартные инструменты Hugging Face, такие как Transformers и Diffusers (v0.38.0+).",
+ "source_sha256": "e217a96f9bb7609839d2a29a233ccda428a161a0503a04a163406c4861beb9cc",
+ "summary": "Платформа и библиотека для распространения предварительно скомпилированных GPU-ядер (CUDA, ROCm, Metal, XPU) напрямую из Hugging Face Hub. Она устраняет «кошмар установки» высокопроизводительных компонентов, таких как Flash Attention, предоставляя мгновенно доступные бинарные файлы, подобранные под конкретное окружение.",
+ "title": "Kernels Hub от Hugging Face для оптимизации на GPU",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

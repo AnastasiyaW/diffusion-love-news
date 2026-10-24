@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "TheBurgstall продолжает выпускать специализированные структурные LoRA для LTX-2.3, расширяя их от модификаций тела до возможностей 'Edit Anything'. Модель теперь поддерживается веб-интерфейсами вроде a1.art для упрощённого использования.",
  "id": "n-492f7ebf1e",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Триггер-слово: «bodypositivity». Рекомендуемая сила LoRA — 1.0 для оптимального баланса между трансформацией и сохранением идентичности.",
- "source_sha256": "legacy",
- "summary": "Специализированный Image-to-Video адаптер для модели LTX-2.3, изменяющий тип телосложения субъекта с сохранением идентичности и движения. Работает как IC-LoRA, обученная на вручную отобранном синтетическом датасете.",
- "title": "TheBurgstall LTX-2.3 Body Positivity LoRA",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Триггерное слово: 'bodypositivity'. Рекомендуемая сила LoRA — 1.0, что обеспечивает оптимальный баланс между трансформацией и сохранением identity.",
+ "source_sha256": "9f5f51cac0214c4c19e932f4918c96937f24a83af6fcb70fe27e1f16f58f1478",
+ "summary": "Специализированный адаптер Image-to-Video для модели LTX-2.3, который изменяет телосложение персонажей, сохраняя их identity и движение. Работает как IC-LoRA, обученный на вручную отобранном синтетическом датасете.",
+ "title": "LoRA TheBurgstall для LTX-2.3 про body positivity",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

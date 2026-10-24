@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Six articles ont été ajoutés, deux liens wiki ont été corrigés et le nombre d'articles publiés est passé de 828 à 834.",
+ "id": "n-048b3192a0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "L'événement ne consigne que l'objet public du commit et les éléments immuables du dépôt.",
+ "source_sha256": "15a5eb2cbe4101e7eff92b75fdf1e923d1f3eeea053e7b22133b71b91da93484",
+ "summary": "Un lot de contenus a ajouté six articles, corrigé deux liens wiki cassés et porté le nombre d'articles publiés de 828 à 834.",
+ "title": "Lot du 2026-06-04 : six articles et corrections de liens wiki",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

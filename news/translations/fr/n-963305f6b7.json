@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'un outil interne de HeyGen à un écosystème open source majeur, avec plus de 12 000 étoiles. Les mises à jour récentes ont introduit une « Agentic Video Stack » et une intégration avec les assistants de codage IA.",
+ "id": "n-963305f6b7",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Présenté comme une alternative entièrement open source à Remotion, sous licence Apache 2.0, avec un support natif des workflows de génération vidéo pensés pour l'IA.",
+ "source_sha256": "40095e12800612f0136089c4f59f0a9c22b45b30f9d447f511de6a464e045ea7",
+ "summary": "Un framework open source sous licence Apache 2.0 permettant de créer des vidéos de haute qualité à l'aide de technologies web comme HTML, CSS et React. Il est conçu pour un rendu haute performance et optimisé pour le contrôle programmatique par des agents IA.",
+ "title": "HyperFrames : le framework de vidéo programmatique de HeyGen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

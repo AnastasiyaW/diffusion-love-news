@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 4 月，该平台作为一级仓库类型正式在 Hugging Face Hub 上线。它由社区维护的库演进为核心基础设施，支持 Flash Attention 4，并针对极长上下文并行以及 NVIDIA Blackwell 等最新硬件架构进行了优化。",
+ "id": "n-545c4e25d2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "已深度集成到 'kernels' Python 库以及 Transformers、Diffusers（v0.38.0+）等标准 Hugging Face 工具中。",
+ "source_sha256": "e217a96f9bb7609839d2a29a233ccda428a161a0503a04a163406c4861beb9cc",
+ "summary": "这是一个用于直接从 Hugging Face Hub 分发预编译 GPU 内核（CUDA、ROCm、Metal、XPU）的平台与库。它通过提供即时可用、针对特定环境的二进制文件，消除了 Flash Attention 等高性能组件的“安装噩梦”。",
+ "title": "Hugging Face Kernels Hub：面向 GPU 优化的内核分发平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

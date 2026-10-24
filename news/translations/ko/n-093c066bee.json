@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "QClaw는 초기에는 데스크톱 자동화 도구였으나, 2026년 초에는 WeChat과 QQ 내에 통합된 플랫폼으로 발전했습니다. 2026년 4월 글로벌 베타를 출시하며 생산성, 계획, 자동차 관련 작업까지 관리할 수 있는 전 시나리오 에이전트로 전환했습니다.",
+ "id": "n-093c066bee",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "스마트폰이 원격 제어 엔드포인트 역할을 하는 로컬 우선(local-first) 아키텍처를 특징으로 합니다. 텐센트는 국제판 코드의 99%가 에이전트에 의해 자체 생성되었다고 주장합니다.",
+ "source_sha256": "6b9e4a2f51bd8838124e942f84be875f94e959e843b5d023b4819f8b7e156d34",
+ "summary": "QClaw는 모바일 인터페이스를 통해 데스크톱 작업을 자동화하는 제로 구성(zero-configuration) AI 에이전트 생태계입니다. Windows 또는 Mac 기기에서 로컬로 실행되며, 복잡한 다단계 추론을 위해 Hunyuan 3.0 모델을 활용합니다.",
+ "title": "QClaw: 텐센트의 데스크톱 AI 자동화 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

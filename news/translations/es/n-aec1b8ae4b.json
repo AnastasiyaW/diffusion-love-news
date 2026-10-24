@@ -1,0 +1,11 @@
+{
+ "id": "n-aec1b8ae4b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configure las semillas globales de generación y los priors ambientales para inicializar la capa de planificación Macro para la ecología regional, la hidrología y las redes de transporte.\n\nIndique los vectores de posición y orientación del agente para proyectar el corredor de movimiento, lo que activa la planificación Micro anticipada para las teselas espaciales inminentes.\n\nInvoque la compilación procedural local determinista para traducir las decisiones de planificación Micro aprobadas en terreno 3D renderizable, vegetación y activos de asentamientos.\n\nEmita comandos en lenguaje natural para actualizar entidades en tiempo de ejecución o atributos de las teselas, persistiendo los estados modificados en la base de datos de registros del mundo por tesela.\n\nDesacople los horizontes de planificación de la compilación de geometría a lo largo de los corredores previstos para mantener tasas de fotogramas estables y evitar picos de cómputo.\n\nImponga compromisos estrictos de frontera entre teselas en el planificador Micro para evitar costuras visuales y topológicas entre celdas compiladas de forma independiente.\n\nBasarse en la recompilación a partir de las semillas por tesela y los registros de mutaciones, en lugar de almacenar en caché en memoria mallas de alto número de polígonos, cuando el agente recorre grandes distancias.",
+ "source_sha256": "ddf424d568ff57c47cb526b79601c302d38255e52099a4b19c28b62b2c5b6ea8",
+ "summary": "WorldStream presenta una arquitectura de modelo de mundo 3D en streaming que combina planificación jerárquica macro y micro con compilación local determinista, manteniendo terreno infinito y ediciones persistentes a lo largo del corredor de movimiento del jugador.",
+ "title": "WorldStream transmite mundos 3D abiertos mediante planificación jerárquica",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

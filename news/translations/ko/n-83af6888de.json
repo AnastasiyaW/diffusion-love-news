@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개되었으며, Netflix가 처음으로 선보인 주요 오픈소스 AI 도구입니다. 이후 CogVideoX 생태계에 통합되었고, 자동 마스크 생성을 위해 SAM3를 지원하도록 업데이트되었습니다.",
+ "id": "n-83af6888de",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "40GB 이상의 VRAM을 포함한 상당한 하드웨어가 필요하며, 장면 추론을 위한 Google Gemini와 마스킹을 위한 SAM3를 포함하는 다단계 파이프라인으로 구성됩니다.",
+ "source_sha256": "4a8f1c61e850b167725f799e70a3548f112b4011d50fb28353a923ee2c42731a",
+ "summary": "객체와 그로 인해 파생되는 2차적 인과 효과를 제거하는 물리 인식 비디오 인페인팅 프레임워크입니다. 공을 제거하면서 그 공이 다른 객체에 미치는 충돌 영향까지 함께 처리하는 등, 독자적인 'quadmask' 전략으로 물리적 일관성을 보장합니다.",
+ "title": "VOID: Netflix의 비디오 객체 및 상호작용 삭제 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

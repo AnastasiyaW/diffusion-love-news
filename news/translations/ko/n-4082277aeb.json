@@ -1,0 +1,10 @@
+{
+ "id": "n-4082277aeb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "547e452f25c8d8350e323fcd436c5fd1f47f7a19943d4ce77b669d401b919379",
+ "summary": "2026-06-22, BRDFusion 개발 라인에 프로젝트 페이지, 소스 저장소, 체크포인트 모음의 링크가 기록되었다. 이는 프로젝트에 있어 의미 있는 공개 단계로, 독자가 구현 코드와 관련 모델 산출물을 찾을 수 있게 한다.",
+ "title": "BRDFusion 프로젝트 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-2e0520da75",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "21d268ce6bc17eb87c57cce2f947aa9ca084c3906d183432cb9a314b616d637c",
+ "summary": "2026年6月4日，Google 发布了 Gemma 4 12B，相关官方 Google Blog 链接带有该日期。同一条带日期的记录还链接到 Hugging Face 上的 Unsloth GGUF 发行版，从而在发布的同时提供了一条可用的 GGUF 格式部署路径。",
+ "title": "Gemma 4 12B 发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

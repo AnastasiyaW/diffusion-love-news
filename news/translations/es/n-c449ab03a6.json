@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado oficialmente a principios de 2026 como un marco unificado de generación raw, el primero de su tipo. Actualmente se está integrando en las hojas de ruta de ISP neuronal y de AI Experience (AX) de Samsung para la futura fotografía móvil.",
+ "id": "n-c449ab03a6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utiliza FLUX como modelo base; admite operaciones de ISP en tiempo real, como el balance de blancos y la exposición, sobre la salida raw lineal.",
+ "source_sha256": "cd07d49dcd7f84d603f8d14539671b743dea205deedd8fae5220db4dc648f366",
+ "summary": "Un marco unificado basado en difusión, desarrollado por Samsung, que genera imágenes raw de cámara físicamente consistentes a partir de texto o de entradas sRGB. Permite la edición de alta fidelidad y la síntesis específica para cada dispositivo con sensores de cámara arbitrarios.",
+ "title": "RawGen: aprendizaje de la generación de imágenes raw de cámara",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-75510d5219",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e912b70dc7e8ccf74d29342552abb9cb0440c128afea55807c2933e50ee8a478",
+ "summary": "El 2026-08-11, una referencia pública con fecha vinculó MatrAIx con su sitio web, el repositorio MatrAIx-Persona-8B y una sección de inicio rápido para un playground visual. Esto establece, a esa fecha, un proyecto público y un punto de entrada a la documentación de uso de Persona 8B. Los enlaces proporcionados, por sí solos, no establecen una fecha de lanzamiento específica, una capacidad del modelo ni un cambio en el código.",
+ "title": "MatrAIx Persona 8B fue referenciado públicamente con una guía de inicio rápido para un playground visual",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

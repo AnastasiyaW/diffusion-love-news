@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Ursprünglich eine Forschungsimplementierung, hat sich Prompt-Relay zu einem Standardwerkzeug in den Ökosystemen von Wan 2.2 und LTX 2.3 entwickelt. Heute ist es eine zentrale Komponente des Timeline-Editors LTX Director und verschiedener ComfyUI-Nodes für mehrteiliges Storytelling.",
+ "id": "n-d4f61075f4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Löst die zeitliche Verflechtung (temporal entanglement) in diffusionsbasierten Videomodellen effektiv, ohne zusätzliches Training oder Fine-Tuning zu erfordern.",
+ "source_sha256": "2638b1ba202c81f97652585019ad84adddf392e3971abcfc075e67503c5ca473",
+ "summary": "Eine trainingsfreie Inferenzmethode, die eine präzise chronologische Steuerung bei der Videogenerierung ermöglicht, indem Prompts gezielt bestimmten Zeitabschnitten zugeordnet werden. Sie unterdrückt semantisches Übersprechen zwischen Ereignissen, indem sie distanzbasierte Strafterme auf den Cross-Attention-Mechanismus anwendet.",
+ "title": "Prompt Relay: Inferenzzeit-Steuerung der zeitlichen Abfolge für Video",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

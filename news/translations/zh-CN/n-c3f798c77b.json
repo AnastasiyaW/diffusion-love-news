@@ -1,0 +1,10 @@
+{
+ "id": "n-c3f798c77b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "250c3f4e7ab49bdc0c5408c21c76af18a24ffded6c817b02746f1585949f591f",
+ "summary": "2026-06-01，Odysseus 开发线中包含指向 GitHub 仓库 pewdiepie-archdaemon/odysseus 及其 Git 端点的链接。这些链接确定了源代码的位置，但本身并不能证实该仓库的内容、发布状态或功能。",
+ "title": "Odysseus GitHub 仓库已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

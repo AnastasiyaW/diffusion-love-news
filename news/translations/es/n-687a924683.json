@@ -1,0 +1,11 @@
+{
+ "id": "n-687a924683",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Identifique la versión actual de la instancia de GitLab autogestionada consultando el panel de administración o ejecutando gitlab-rake gitlab:env:info en el host.\n\nSeleccione el objetivo de parche correspondiente a la línea de versión activa: actualice 19.5.x a 19.5.1, 19.4.x a 19.4.3, 19.3.x a 19.3.6, 19.2.x a 19.2.9, 19.1.x a 19.1.9, 19.0.x a 19.0.10, o las versiones heredadas 7.0 hasta 18.11.x a 18.11.13.\n\nEjecute el comando de actualización del gestor de paquetes o la descarga de la imagen de contenedor para aplicar el parche de seguridad, y reinicie los servicios de GitLab para que los binarios actualizados surtan efecto.\n\nRevise los registros de los workers de Puma y los registros de errores de la aplicación en busca de errores del compilador de expresiones regulares o terminaciones anómalas de workers, a fin de detectar intentos de explotación previos.\n\nAplique las versiones de seguridad de inmediato en las instancias de GitLab autogestionadas expuestas a Internet, ya que la ejecución remota de código sin autenticación no requiere credenciales ni interacción del usuario.\n\nActualice directamente a la versión de parche designada dentro de la rama de versión menor activa para evitar migraciones de base de datos innecesarias y reducir el tiempo de inactividad del servicio.\n\nNo confíe únicamente en las reglas del cortafuegos de aplicaciones web perimetral ni en soluciones de configuración alternativas, ya que los patrones maliciosos de expresiones regulares pueden procesarse a través de distintas rutas de renderizado de documentos.",
+ "source_sha256": "0ca3169f3f4816717804ada73462aa3ddef43de11b210cfad05b34f0a72fdc82",
+ "summary": "Se recomendó a las instancias de GitLab autogestionadas desde la versión 7.0 que actualicen de inmediato a la versión 19.5.1 o a las versiones de backport designadas, después de que el investigador de seguridad joaxcar revelara una vulnerabilidad de ejecución de código sin autenticación con una puntuación CVSS de 10.0.",
+ "title": "GitLab publica actualizaciones de seguridad para una vulnerabilidad crítica de ejecución remota de código",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

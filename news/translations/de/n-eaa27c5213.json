@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von Supervised Fine-Tuning (SFT) hin zu Agentic Reinforcement Learning mit Group Relative Policy Optimization (GRPO) und dualem Belohnungsfeedback. Dabei wurde KnowGen eingeführt, ein spezialisiertes Benchmark für suchgestützte Bildgenerierung.",
+ "id": "n-eaa27c5213",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das System unterstützt mehrstufiges Schlussfolgern (Multi-Hop-Reasoning), um Wissenslücken zu identifizieren, und verwendet visuelle Referenzen, um die Generierung an realen Entitäten zu verankern.",
+ "source_sha256": "1c3652d6dbb540d8de0b02cc1662c50d0aa18575f8f9d393024ad91f2b9f5798",
+ "summary": "Ein autonomer multimodaler Agent, der vor der Bilderzeugung Echtzeit-Websuchen und visuelle Suchen durchführt. Er nutzt einen Such-dann-Generiere-Workflow, um sachliche Richtigkeit und visuelle Konsistenz bei der Text-zu-Bild-Synthese sicherzustellen.",
+ "title": "Gen-Searcher: Search-Grounded Multimodal Deep Research Agent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

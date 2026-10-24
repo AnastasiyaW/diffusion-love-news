@@ -1,0 +1,11 @@
+{
+ "id": "n-3e5c539778",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Générez un asset 3D à partir d'une description textuelle ou d'une invite sous forme d'image 2D dans Tripo.\n\nExécutez une retopologie automatisée pour convertir le maillage dense généré en une structure optimisée de quads ou de triangles, avec des limites de polygones définies par l'utilisateur.\n\nAppliquez un dépliage UV automatisé pour calculer les coutures, empaqueter les îlots UV 2D et recuire les cartes de texture sur le maillage déplié.\n\nExportez l'asset optimisé aux formats FBX, OBJ ou USD pour l'intégrer dans des moteurs de jeu ou des outils de création de contenu numérique.\n\nDéfinissez les limites de nombre de polygones cibles avant de déclencher la retopologie afin d'aligner la densité de l'asset directement sur les budgets de performance du moteur.\n\nInspectez la disposition des îlots UV 2D générée et la position des coutures dans les zones à forte courbure avant de cuire les cartes de texture finales.",
+ "source_sha256": "007560e49e3dcfd82aa51014a3f87ea18eff8491ad905d2c97c5ce55c602da42",
+ "summary": "Tripo ouvre un accès anticipé à ses outils automatisés de dépliage UV et de retopologie, intégrant directement dans son flux de modélisation 3D la conversion en maillage low-poly et la génération de la disposition UV.",
+ "title": "Tripo lance un accès anticipé à le dépliage UV et à la retopologie",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

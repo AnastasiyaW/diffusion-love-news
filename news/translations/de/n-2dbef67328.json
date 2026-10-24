@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Ursprünglich als satirischer Kommentar zu „AI Slop“ veröffentlicht, entwickelte sich das Projekt zu einer funktionalen Vorlage für lokal ausgeführte, browserbasierte Agenten. Es wird häufig in Diskussionen über „Vibe Coding“ und die Verbreitung von minderwertigen autonomen KI-Systemen zitiert.",
+ "id": "n-2dbef67328",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gepflegt von PasiKoodaa, zusammen mit anderen local-first-Tools wie Chat-with-Screen und Screen-Analysis-Overlay.",
+ "source_sha256": "e874aba0efa9e4e2a942dfcea5e9de1fb0f8975d83f7f9c3758f01f0fcd4a4bc",
+ "summary": "Ein schlankes Open-Source-Tool, das autonomes, KI-gesteuertes Programmieren direkt im Browser ermöglicht, ohne externe API-Schlüssel zu benötigen. Es nutzt die lokale Ausführung von Modellen, um eine vereinfachte Umgebung für agentische Coding-Aufgaben und schnelles Experimentieren bereitzustellen.",
+ "title": "SlopLobster: Lokaler, browserbasierter KI-Coding-Assistent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

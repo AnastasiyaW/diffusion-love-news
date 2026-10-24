@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개 이후 이 프로젝트에는 사전 학습된 체크포인트, 학습 가이드라인, 고급 모션 제어를 위한 포즈 기반 추론 모듈이 추가되었습니다.",
+ "id": "n-d1faa63ee9",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Tsinghua University 연구진이 개발했으며, 토큰 단위 합성을 위한 새로운 공간 라우팅 메커니즘을 사용합니다.",
+ "source_sha256": "532642119a046abaf8a2942eb758cea43c851ea837cfaf33cb79b839429f9cab",
+ "summary": "CoInteract는 음성과 공간 배치로 제어되는 사실적인 인간-객체 상호작용 비디오를 생성하는 AI 프레임워크입니다. 인간 인식형 Mixture-of-Experts(MoE) 메커니즘을 사용하여 인간의 움직임과 객체 상호작용을 동기화합니다.",
+ "title": "CoInteract: 인터랙티브 인간-객체 비디오 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

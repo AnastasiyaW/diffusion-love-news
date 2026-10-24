@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "이 뉴스 게시물은 Qwen3-Coder와 Gemini CLI를 기반으로 개조한 명령줄 에이전트 Qwen Code를 소개했습니다.",
+ "id": "n-e75b2209d4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "28f8a2597fac4d811a9e7eed023fc31d21ddcbbdba30ae96d062b0dfcc314063",
+ "summary": "이 뉴스 게시물은 Qwen3-Coder와 Gemini CLI를 기반으로 개조한 명령줄 에이전트 Qwen Code를 소개했습니다.",
+ "title": "Qwen3-Coder와 함께 공개된 Qwen Code",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

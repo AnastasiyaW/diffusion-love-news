@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已从面向开发者的多智能体 IDE 转型为面向消费者的本地生产力应用。目前它集成了模型上下文协议（MCP），并作为一个自主的“数字同事”运行，持续维护一个持久的上下文图谱。",
+ "id": "n-11e8a99b4c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Y Combinator S24 批次孵化。创始团队此前创办了 Agara AI（已被 Coinbase 收购），产品强调数据的全面隐私保护，并通过 Ollama 支持本地大语言模型。",
+ "source_sha256": "1fa8dd2afde2e86fce845830011eab9acca1562a514668805a4be103b721636a",
+ "summary": "Rowboat 是一款本地优先的 AI 助手，可处理邮件、笔记等数字数据，并构建动态更新的知识图谱。它将信息存储为人类可读的 Markdown 文件，并在用户设备上私密运行。",
+ "title": "Rowboat：本地优先的 AI 智能体与个人知识图谱",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

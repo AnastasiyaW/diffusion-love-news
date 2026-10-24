@@ -1,0 +1,10 @@
+{
+ "id": "n-66b11f2c1c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b04820a0b410c67ee71460f8d87f751fbb6e2856bf135cd5f4a05bbc2d1bc55c",
+ "summary": "2026-07-22 的一条带日期记录将 FedorAiToolkit GitHub 仓库与 bodyrec 仓库一并列出。现有证据仅确认这两个仓库引用的同时出现，并未证实二者之间存在发布、代码变更、集成或归属关系，共现之外再无其他关联。",
+ "title": "FedorAiToolkit 与 bodyrec 仓库存在关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

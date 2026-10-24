@@ -1,0 +1,10 @@
+{
+ "id": "n-f0c1036242",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0b55e01089dbf8798126dbbdbafc0b2c3fd56b72c64bafe77cc2647acdd45c8b",
+ "summary": "El 2026-08-24, la línea de desarrollo MiniMax-H3 x Z-Image se asoció con enlaces de Hugging Face a un repositorio nativo y a un repositorio GGUF. Se trata de un paso relevante en la distribución, ya que identifica dos puntos de acceso en formatos de modelo, aunque el registro disponible no establece su estado de publicación, su contenido ni su compatibilidad.",
+ "title": "Se vincularon los repositorios nativo y GGUF de MiniMax-H3 x Z-Image",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde la serie 1.5 hacia una arquitectura orientada al rendimiento que prescinde de SSML tradicional a favor de descripciones intuitivas basadas en escenas. Marca un cambio hacia el dominio contextual de la voz y una escalabilidad de nivel empresarial.",
+ "id": "n-d5e685b3b1",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integra SynthID para el rastreo de contenido y ofrece más de 200 etiquetas para un control detallado de la emoción y del ritmo.",
+ "source_sha256": "2d7fcbb50c980d8605e3a3b94b947a54d155481ffc8ea7e0f54dfa607083a432",
+ "summary": "Un modelo avanzado de texto a voz de Google que permite una \"interpretación dirigida\" mediante indicaciones en lenguaje natural y etiquetas de emoción en línea. Admite la generación de audio de alta fidelidad y baja latencia, con capacidades nativas de diálogo multihablante para aplicaciones interactivas.",
+ "title": "Control de voz de alta precisión en Gemini 3.1 Flash TTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

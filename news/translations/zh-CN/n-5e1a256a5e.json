@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型于2026年4月发布，此前以代号“HappyHorse-1.0”登顶全球文生视频基准测试。它标志着技术从短视频生成转向持续的实时环境模拟。",
+ "id": "n-5e1a256a5e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "能够生成长达3分钟的连续视频并同步输出音频，并对重力、光照等物理属性进行建模。",
+ "source_sha256": "a0b625c7f2f59f2b792f5514b980eb82167acf06856d0034de4a863e234e8308",
+ "summary": "阿里巴巴推出的一款先进AI世界模型，能够以实时方式模拟具有一致物理规律的交互式无限虚拟环境。它同时支持第一人称探索模式和导演模式，可对场景与角色进行实时控制。",
+ "title": "Happy Oyster：阿里巴巴实时交互式AI世界模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

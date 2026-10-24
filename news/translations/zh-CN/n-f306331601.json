@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026年4月，该项目由VERSES AI的研究基准“Gameworld 10k”演化而来，并在gameworld-project组织下发展为社区驱动的平台，游戏数量从10款扩展至34款。",
+ "id": "n-f306331601",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含一个专用浏览器沙箱，可在模型推理期间暂停游戏时间；目前被用作具身数字智能体的主要基准。",
+ "source_sha256": "faf6f82e154906eb832cc060826096697159271f55243def17fe66ae8aeb5520",
+ "summary": "一个综合性平台与基准，用于评测多模态AI智能体在34款基于浏览器的游戏中的表现。该平台提供可验证状态的沙箱环境，并可获取真实状态（ground-truth state），用以测试空间导航和长时程规划能力。",
+ "title": "GameWorld：面向多模态AI智能体评测的标准化平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

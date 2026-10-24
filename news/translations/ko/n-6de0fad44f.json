@@ -1,0 +1,10 @@
+{
+ "id": "n-6de0fad44f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7ab18aa2232701ba72bc3dc4f64e58e38d1b5bae55e2057ad4b6d21666f18d76",
+ "summary": "2026-07-08, SenseNova-Vision이 GitHub 저장소, SenseNova-Vision-7B-MoT 모델의 Hugging Face 페이지, 그리고 Hugging Face Space와 연관되었다. 이처럼 날짜가 명시된 링크들은 구현 코드, 모델 아티팩트, 인터랙티브 인터페이스를 연결함으로써 프로젝트 개발의 공개적인 한 단계를 보여준다.",
+ "title": "SenseNova-Vision, 코드·모델·데모 리소스 전반에 걸쳐 공개적으로 연결되다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

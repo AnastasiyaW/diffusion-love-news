@@ -1,0 +1,11 @@
+{
+ "id": "n-29037afbf8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Créez un compte Alibaba Cloud, activez ModelStudio et générez une clé API DashScope.\n\nDéfinissez DASHSCOPE_API_KEY et sélectionnez l'URL de base DashScope correspondant à la région visée.\n\nClonez Wan-skills et installez le répertoire de skill requis dans l'agent IA, par exemple skills/wan2.7-image-skill.\n\nPour la génération d'images, fournissez une consigne textuelle et, éventuellement, des URL d'images ; le script fourni soumet une tâche asynchrone wan2.7-image et vérifie son statut.\n\nChoisissez explicitement le point de terminaison régional de DashScope plutôt que de vous fier à une région de déploiement non précisée.\n\nConsidérez la génération d'images comme asynchrone et conservez l'identifiant de tâche jusqu'à ce que le statut atteigne un résultat final.",
+ "source_sha256": "12c5adec272c16d4340b595669c8b180e57848947f1fc407fb4873855cccacdb",
+ "summary": "La page WAN Skills citée n'était pas accessible publiquement lors de l'examen. La documentation officielle disponible décrit en revanche un dépôt distinct d'intégration d'agents, Wan-skills, si bien que la publication annoncée du preset vidéo n'est pas vérifiée.",
+ "title": "Détails de WAN Skills indisponibles publiquement",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-a0d5299653",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e81bbf04afcbd909e7c99f436a8855e14d358316efec9b2d13c9ec8eceef13c4",
+ "summary": "19 июля 2026 года датированное обновление указало на репозиторий модели на Hugging Face, два Space на Hugging Face и интеграцию с ComfyUI для Krea 2 Outpaint. Указанные ресурсы обеспечивают практический путь знакомства с проектом, его тестирования и интеграции, однако имеющиеся данные не позволяют установить их точный статус релиза и связь между ними.",
+ "title": "Ресурсы Krea 2 Outpaint задокументированы на Hugging Face и ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

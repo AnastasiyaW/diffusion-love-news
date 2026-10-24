@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 4 月正式发布，包含 65 个高质量场景。截至 2026 年 5 月，已更新加入可交互的高斯场景，以及一个由 LLM 驱动的 HabitatAgent 演示，支持自然语言导航。",
+ "id": "n-c96f664d5d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出视觉与导航解耦的思路：3DGS 负责外观渲染，NavMesh 负责碰撞检测。支持来自 GaussianAvatar 的动态人形化身，用于训练具备人体感知能力的导航策略。",
+ "source_sha256": "3e17b7c6d0a0db7a9d0f70f9f5832a231b9aa09629ea45209781204a94eb04fa",
+ "summary": "一款高保真导航仿真器，将三维高斯泼溅（3D Gaussian Splatting）集成到 Meta Habitat 生态系统中。它可为训练自主智能体提供逼真的 RGB 与深度渲染，同时保持与传统导航网格（navigation mesh）和物理引擎的兼容性。",
+ "title": "Habitat-GS：面向机器人导航的高斯泼溅仿真器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-b438d99dc2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "de5f5abdc2b0d33396ae4635f688698896febf5a8424b1edd0d783691dac2acd",
+ "summary": "El 2026-03-24, la página del proyecto Astrolabe y su repositorio de GitHub quedaron vinculados entre sí. Esto establece un punto de referencia público y fechado para el proyecto y la ubicación de su código fuente, sin afirmar ninguna publicación, cambio de funcionalidades ni detalle de implementación que no figure en las pruebas aportadas.",
+ "title": "Se compartieron la página del proyecto Astrolabe y su repositorio de código fuente",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

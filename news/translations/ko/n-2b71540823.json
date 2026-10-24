@@ -1,0 +1,10 @@
+{
+ "id": "n-2b71540823",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e5a517fa29020e1d75247f40a1234ce4240e45e6de2f15a989074dcad2c48b42",
+ "summary": "2026-07-31, WAN Create 사이트에 'realtime'이라는 라벨이 붙은 lab 플레이그라운드 경로가 포함되었다. 이는 모델 다운로드나 배치 워크플로 링크와 구분되는, WAN의 대화형 실시간 진입점을 나타내므로 의미 있는 인터페이스 개발 단계이다.",
+ "title": "WAN이 실시간 플레이그라운드 경로를 노출했다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

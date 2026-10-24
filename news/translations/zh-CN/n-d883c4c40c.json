@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该平台已从早期基于GAN的模型，发展到基于扩散模型的Lipsync-2，再到当前的旗舰产品Sync-3。Sync-3引入了原生4K处理、先进的遮挡检测，以及能够保持皮肤纹理和光照一致性的全镜头视觉配音。",
+ "id": "n-d883c4c40c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "其功能包括用于多人场景的主动说话人检测（ASD-1），以及通过Adobe Premiere Pro插件和稳健的API实现的专业工作流集成。",
+ "source_sha256": "f1f2dfe7b3b441b63dc37690cd85d49b68a326962a4fc993ffb309d2de37a8c8",
+ "summary": "Sync.so 是一个面向专业级制作的AI平台，为专业视频制作提供高保真的视觉配音和口型同步功能。它支持无缝的语音克隆与对齐，并在多种语言中保留演员的表演习惯和情感细节。",
+ "title": "Sync.so AI视觉配音与口型同步工作室",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

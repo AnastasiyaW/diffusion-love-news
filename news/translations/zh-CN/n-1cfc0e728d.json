@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "体现了 Nemotron 3 系列从各模态独立模型转向统一“Omni”架构的演进；更大的 Super 和 Ultra 版本计划于 2026 年底推出。",
+ "id": "n-1cfc0e728d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用 Mamba-Transformer 混合骨干网络，总参数量为 30B，每个 token 激活 3B 参数。",
+ "source_sha256": "5dcc585442fd466405b8ead3217002ff24bf037875a61f95c2817ab96d93146e",
+ "summary": "一款统一的多模态混合专家（Mixture-of-Experts）模型，可在单一推理循环中原生处理文本、图像、视频和音频。该模型支持 256k 上下文窗口，并针对智能体式计算机使用和高效率文档智能进行了优化。",
+ "title": "NVIDIA Nemotron-3-Nano-Omni-30B-A3B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

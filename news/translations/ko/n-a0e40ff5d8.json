@@ -1,0 +1,10 @@
+{
+ "id": "n-a0e40ff5d8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2a5b7a2b10ab1fa09d4a6061a9da7e129d1a3fafdf4601aa747a10e0b8ad89f7",
+ "summary": "2026년 5월 26일, DAR 개발 라인은 Hugging Face 논문 2605.20708에 대한 참조를 기록했습니다. 이는 프로젝트 이력에서 연구 참조 이정표로 보존됩니다. 봉인된 증거만으로는 해당 논문의 제목, 저자, 연구 결과, 그리고 DAR와 해당 논문 간의 구체적인 관계를 확인할 수 없습니다.",
+ "title": "DAR가 Hugging Face 연구 논문 참조를 기록함",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

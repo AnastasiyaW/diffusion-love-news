@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Von Alibabas Z-Image-Team veröffentlicht als zugänglichere Alternative zu Reinforcement Learning für die Anpassung schneller Modelle. Derzeit wird es auf Z-Image-Turbo und experimentelle Versionen der FLUX.2-Familie angewendet.",
+ "id": "n-637b9d18ed",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verzichtet auf externe Belohnungsmodelle, indem das Diffusionsmodell seine eigenen In-Context-Fähigkeiten nutzt, um sich während des Trainings selbst als Lehrer zu dienen.",
+ "source_sha256": "b6409e2f583660aa1a8ea3ec063b416b87e3f808023119220cc8cc91ffa24931",
+ "summary": "Ein Trainingsparadigma von Alibaba für das kontinuierliche Fine-Tuning effizienter Diffusionsmodelle mit wenigen Schritten wie Z-Image-Turbo. Es nutzt On-Policy-Selbstdestillation, um Stil- und Konzeptanpassungen zu ermöglichen, ohne Generierungsgeschwindigkeit oder Bildqualität einzubüßen.",
+ "title": "D-OPSD: Kontinuierliches Fine-Tuning für step-destillierte Diffusionsmodelle",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

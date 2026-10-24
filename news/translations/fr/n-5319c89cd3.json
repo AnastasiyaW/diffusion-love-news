@@ -1,0 +1,10 @@
+{
+ "id": "n-5319c89cd3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8ee9cb73adec4291934cd5e71ed63ff996ffbc34018f48ee22acac67cc681493",
+ "summary": "Le 14 juin 2026, la ligne de développement du plugin VFS HuggingFace comprenait un lien vers le dépôt GitHub du projet. Cela établit la référence au dépôt dans l'historique, mais les éléments fournis n'attestent ni d'une publication, ni d'une modification d'implémentation, ni d'une capacité allant au-delà de ce lien.",
+ "title": "Le dépôt source du plugin VFS HuggingFace a été lié",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

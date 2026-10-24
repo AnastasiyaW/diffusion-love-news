@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "SenseNova U1은 NEO-Unify 아키텍처로의 전환을 보여줍니다. 이 아키텍처는 기존의 VAE와 시각 인코더를 제거하고 네이티브 멀티모달 융합을 구현합니다. SenseNova 6.5와 MARS 모델의 뒤를 잇으며, 인터리브드 이미지-텍스트 추론에 중점을 둡니다.",
+ "id": "n-41c999d507",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "8B 모델은 Q6_K GGUF 양자화를 사용하면 8GB VRAM에서 실행할 수 있지만, 최적의 성능을 위해서는 상당한 시스템 RAM이 필요합니다.",
+ "source_sha256": "24aa1e98072682912db8ebd86b926b3f2fbd0d93411602d4107e005b8b88a291",
+ "summary": "SenseTime의 SenseNova U1 네이티브 통합 멀티모달 모델과 상호작용할 수 있도록 해주는 ComfyUI용 커스텀 노드 모음입니다. 8-step LoRA와 GGUF 양자화를 활용해 일반 소비자용 하드웨어에서도 고속 생성을 지원합니다.",
+ "title": "멀티모달 모델을 위한 ComfyUI_SenseNova_U1 커스텀 노드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

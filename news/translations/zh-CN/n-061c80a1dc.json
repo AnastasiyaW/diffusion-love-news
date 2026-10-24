@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻稿报道了其在 RTX 3090 上的快速生成能力、4 GB 显存运行路径、支持 50 多种语言、可商用、风格微调、歌曲规划、长篇作曲以及 ComfyUI 支持。",
+ "id": "n-061c80a1dc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "baff4edcc2b61f429aa19e06a6fb778ab8fcb7067c859ca1b18c9d89ba803e78",
+ "summary": "该新闻稿报道了其在 RTX 3090 上的快速生成能力、4 GB 显存运行路径、支持 50 多种语言、可商用、风格微调、歌曲规划、长篇作曲以及 ComfyUI 支持。",
+ "title": "ACE-Step 1.5 作为开源音乐生成模型发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

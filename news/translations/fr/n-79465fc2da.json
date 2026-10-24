@@ -1,0 +1,10 @@
+{
+ "id": "n-79465fc2da",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f9c3c3a1de299184ffdf9326625c815254cf02a170a2773426888efcbd9ddb18",
+ "summary": "Le 2026-07-30, la ligne de développement de ComfyUI Model Resolver comportait un lien vers son dépôt GitHub. Les éléments de preuve scellés établissent une référence publique datée au dépôt, mais n'établissent ni une version publiée, ni un ensemble de fonctionnalités, ni une étape de mise en œuvre.",
+ "title": "Le dépôt ComfyUI Model Resolver a été référencé publiquement",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

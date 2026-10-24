@@ -1,0 +1,10 @@
+{
+ "id": "n-000fcd918f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d351435670166d36c542d0b690a1cf034d87b14f706d2fc11e01a98a1fd621fc",
+ "summary": "2026-08-01，SenseNova 的开发线与 Hugging Face 上的以下页面相关联：SenseNova-U1.5-8B-MoT-Preview 和 SenseNova-U1-8B-MoT-Infographic-V3，以及对应的 Spaces。这些带日期的链接表明这是一个有意义的模型与演示里程碑，但并不能确定这些产物的能力、发布状态或技术改动。",
+ "title": "SenseNova 关联 Hugging Face 上的 U1 MoT 预览版与信息图表模型产物",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

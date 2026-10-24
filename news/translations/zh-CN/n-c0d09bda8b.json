@@ -1,0 +1,10 @@
+{
+ "id": "n-c0d09bda8b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a7e81c3fbd41a28e032762ccf160f28c39d4aaf991741500c1a14d00fbc71a02",
+ "summary": "2026-03-12，NVIDIA 宣布发布 Nemotron 3 Super。所提供的带日期链接显示，此次发布关联了模型分发页面、托管访问入口、视频概览以及 NeMo 使用指南，表明该项目取得了实质性进展。",
+ "title": "NVIDIA 发布 Nemotron 3 Super",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

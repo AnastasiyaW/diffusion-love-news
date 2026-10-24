@@ -1,0 +1,10 @@
+{
+ "id": "n-000fcd918f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d351435670166d36c542d0b690a1cf034d87b14f706d2fc11e01a98a1fd621fc",
+ "summary": "2026-08-01, SenseNova의 개발 라인이 SenseNova-U1.5-8B-MoT-Preview 및 SenseNova-U1-8B-MoT-Infographic-V3 Hugging Face 페이지와 이에 대응하는 Spaces와 연관되었다. 날짜가 명시된 링크는 의미 있는 모델 및 데모 이정표를 가리키지만, 해당 아티팩트의 역량, 공개 상태 또는 기술적 변경 사항을 확정하지는 않는다.",
+ "title": "SenseNova, Hugging Face에 U1 MoT 프리뷰 및 인포그래픽 아티팩트 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

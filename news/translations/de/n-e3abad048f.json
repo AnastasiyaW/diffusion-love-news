@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 als trendendes Forschungsframework auf ArXiv (ID: 2604.08546) veröffentlicht; derzeit wird es als Plug-and-Play-Modul für Modelle wie OpenSora und Wan2.1 integriert.",
+ "id": "n-e3abad048f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von der Gruppe H-EmbodVis an der Huazhong University of Science and Technology; das Verfahren steigert die numerische Genauigkeit deutlich, ohne dass ein erneutes Training des Modells erforderlich ist.",
+ "source_sha256": "a12540d5c96851a2ee85169c291a6dd1701214608d7f5ca64d4a0f7ff61884e9",
+ "summary": "Ein trainingsfreies Framework, das die Genauigkeit beim Zählen von Objekten in Text-zu-Video-Diffusionsmodellen verbessert. Es identifiziert bestimmte Attention-Heads, um zählbare latente Layouts zu erzeugen, und stellt so sicher, dass das generierte Video genau der im Prompt angegebenen Anzahl an Instanzen entspricht.",
+ "title": "NUMINA: Numerische Ausrichtung für Video-Diffusion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

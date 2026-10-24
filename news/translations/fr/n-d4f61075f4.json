@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement une implémentation de recherche, Prompt-Relay est devenu un utilitaire standard intégré aux écosystèmes Wan 2.2 et LTX 2.3. Il constitue désormais un composant central de l'éditeur de timeline LTX Director et de divers nœuds ComfyUI dédiés à la narration multi-événements.",
+ "id": "n-d4f61075f4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Résout efficacement l'enchevêtrement temporel dans les modèles vidéo à base de diffusion, sans nécessiter d'entraînement supplémentaire ni de fine-tuning.",
+ "source_sha256": "2638b1ba202c81f97652585019ad84adddf392e3971abcfc075e67503c5ca473",
+ "summary": "Une méthode d'inférence sans entraînement qui permet un contrôle chronologique précis de la génération vidéo en acheminant les prompts vers des segments temporels spécifiques. Elle supprime la fuite sémantique entre les événements en appliquant des pénalités fondées sur la distance au mécanisme d'attention croisée.",
+ "title": "Prompt Relay : contrôle temporel à l'inférence pour la vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

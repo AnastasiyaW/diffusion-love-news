@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 3월 ComfyUI 노드 출시에 이어, 공식 팀은 2026년 4월에 학습 코드를 공개하여 사용자가 맞춤형 표정 LoRA를 만들 수 있게 했습니다. 이후 ComfyUI 구현은 여러 표정의 동시 혼합을 지원하고, Qwen-Image-Edit-2511 베이스에 대한 강도 범위를 개선하도록 업데이트되었습니다.",
+ "id": "n-55968207e4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트는 '감소된 의미적 얽힘(reduced semantic entanglement)' 접근법으로 주목할 만합니다. 이를 통해 미소를 바꿔도 배경이나 캐릭터의 닮은 정도에는 영향을 주지 않도록 보장합니다. 초기 ComfyUI 노드 개발은 Gemini AI의 도움을 크게 받았습니다.",
+ "source_sha256": "6210ccecbe8af7568c16931aa2e69469c997be0fd05bb465d29eefe282e93bbc",
+ "summary": "PixelSmile은 ComfyUI에서 캐릭터의 얼굴 표정과 미소를 세밀하게 제어할 수 있도록 해주는 conditioning 보간 도구입니다. 임베딩 수준에서 무표정과 목표 표정을 수학적으로 혼합하여, Qwen 기반 모델에서 캐릭터의 정체성을 보존하면서 의미적 얽힘(semantic entanglement)을 최소화합니다.",
+ "title": "PixelSmile for ComfyUI: 정밀한 표정 제어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

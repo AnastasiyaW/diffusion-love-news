@@ -1,0 +1,10 @@
+{
+ "id": "n-076b3f0be6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fd6a26f4f295d5b1271cba4dca86215b6c86e2f18a0be23080197e6cc52174af",
+ "summary": "2026 年 6 月 20 日，一条带日期的消息将 HyperFrames 与 HeyGen 关于该公司 builder 工作流的社区活动，以及一个 Claude 连接器页面联系了起来。综合来看，这些链接标志着 HyperFrames 在实际工作流和集成方面的一个里程碑，而不仅仅是一般性提及。由于相关页面和原始消息均未经核实，具体功能、可用性和实现细节仍未得到确认。",
+ "title": "HeyGen 在其 builder 工作流中展示了 HyperFrames",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

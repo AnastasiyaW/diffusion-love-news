@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖介绍了一款由 NVIDIA 牵头研发的紧凑型文本/图像生成视频模型，目标分辨率为 720p、帧率 16 fps，可生成最长一分钟的视频序列，并报告了 RTX 5090 上的耗时，代码尚未发布。",
+ "id": "n-04bc8d2a40",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ebb644ab62a8ee25dea8d4174629315384e3f923735f81913a50c3fe37586294",
+ "summary": "该新闻帖介绍了一款由 NVIDIA 牵头研发的紧凑型文本/图像生成视频模型，目标分辨率为 720p、帧率 16 fps，可生成最长一分钟的视频序列，并报告了 RTX 5090 上的耗时，代码尚未发布。",
+ "title": "SANA-Video 预览发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

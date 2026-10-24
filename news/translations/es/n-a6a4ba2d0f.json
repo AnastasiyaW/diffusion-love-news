@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó del autocompletado básico a una plataforma autónoma con Background Agents y Composer 2.0. Introdujo modelos de programación propietarios y revisiones automáticas de PR mediante BugBot. Alcanzó un dominio significativo del mercado, con más de 2.000 millones de dólares de ARR a principios de 2026.",
+ "id": "n-a6a4ba2d0f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Se le atribuye haber popularizado el 'vibe coding', en el que los desarrolladores se centran en la intención arquitectónica mientras los agentes autónomos se encargan de la implementación de principio a fin.",
+ "source_sha256": "1fbb41c17566b029c99b2966611b0539c48adf7383ef6c00f0b50395ba2d3fee",
+ "summary": "Un entorno de desarrollo integrado con IA, construido como un fork de VS Code para proporcionar un contexto profundo de la base de código. Permite la ingeniería de software autónoma mediante agentes en la nube, edición de múltiples archivos y asistencia de IA en tiempo real.",
+ "title": "Cursor: el editor de código nativo de IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

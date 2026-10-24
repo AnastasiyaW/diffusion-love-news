@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Depuis son lancement, le projet est passé d'simples adaptateurs d'agents à une plateforme sophistiquée dotée d'une mémoire inter-sessions et du système de rejeu « Critique Theater ». Des mises à jour majeures ont ajouté la prise en charge d'un large éventail d'agents, dont Devin, DeepSeek et Mistral, ainsi qu'une galerie visuelle de gestion des artefacts.",
+ "id": "n-ff21b44ef5",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Distribué sous double licence Apache-2.0 et MIT. Il suit un modèle « Bring Your Own Key » (apportez votre propre clé) et propose un système original, « Skills are files », permettant d'étendre les capacités des agents via des fichiers Markdown.",
+ "source_sha256": "2fcdc9ad0323b6fcaca284e0e6d2b7d5017f59f02aa2341b6aeac267f5551efa",
+ "summary": "Open Design est un générateur d'artefacts de conception « local d'abord » qui s'intègre à plusieurs CLI d'agents de programmation afin de proposer une alternative open source à Claude Design. Il repose sur une architecture à base de compétences (skills) et permet la génération hors ligne en détectant sur le système de l'utilisateur les agents IA disponibles.",
+ "title": "Open Design : moteur de conception IA open source et local d'abord",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

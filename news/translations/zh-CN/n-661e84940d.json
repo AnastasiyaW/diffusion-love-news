@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从早期的社区移植版本发展为稳定的 Saganaki22 实现,引入了 SageAttention 支持、面向 Windows 的内存优化,以及用于非语言表达的高级对话标注功能。",
+ "id": "n-661e84940d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要 PyTorch 2.8.0 或更高版本;建议用户通过 ComfyUI Manager 安装,或使用 --no-deps 参数,以避免与 ComfyUI 核心环境产生依赖冲突。",
+ "source_sha256": "de882ca356533eea6a617c4a9088bc21afb0493406b5f053b9ea647c2cf2aeb3",
+ "summary": "一个面向 OmniVoice 零样本语音克隆模型的 ComfyUI 集成方案,可在基于节点的工作流中实现高质量的文本转语音和音色设计。该方案支持 600 多种语言,实时因子低至 0.025。",
+ "title": "OmniVoice 适用于 ComfyUI 的自定义节点",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

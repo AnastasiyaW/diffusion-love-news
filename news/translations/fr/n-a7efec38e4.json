@@ -1,0 +1,10 @@
+{
+ "id": "n-a7efec38e4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "98ca83430c55bdcd4cac9c6c658d753a5d281341da408c67f6c84c171d14cd85",
+ "summary": "Le 30 juin 2026, la ligne de développement Qwen comprenait un lien vers le dépôt Hugging Face nommé Qwen/Qwen3-ASR-1.7B-hf. Son nom de modèle orienté ASR fait de ce dépôt une extension notable de la ligne Qwen recensée vers la reconnaissance vocale ; aucune affirmation supplémentaire n'est tirée du lien enregistré qui l'accompagne.",
+ "title": "Référence du checkpoint Qwen3-ASR-1.7B-hf",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

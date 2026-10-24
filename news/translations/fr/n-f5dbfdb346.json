@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passage d'un modèle d'API exclusivement cloud à la prise en charge de Virtual Private Cloud (VPC) sur AWS et Google Cloud, suivi de l'introduction de véritables déploiements sur site et sur appareil (hors ligne). Ces versions locales s'appuient sur le calcul confidentiel pour garantir que les données restent isolées et chiffrées pendant le traitement.",
+ "id": "n-f5dbfdb346",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Conçue spécifiquement pour les secteurs fortement réglementés tels que la santé, la finance et la défense, où le traitement de l'IA dans le cloud est restreint en raison d'exigences de conformité ou de sécurité.",
+ "source_sha256": "069166b4b298b1f18df0fa18f0c8e0cc693ee710769093d3ebbfc923a308cfa8",
+ "summary": "ElevenLabs propose des options de déploiement local de niveau entreprise pour ses modèles de voix génératives, permettant la synthèse et le traitement de la parole de haute qualité sur des serveurs locaux ou des appareils en périphérie de réseau (edge). La solution met l'accent sur la souveraineté des données, une latence ultra-faible et la prise en charge des environnements isolés (air-gapped).",
+ "title": "ElevenLabs : déploiement de l'IA vocale sur site et sur appareil",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

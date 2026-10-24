@@ -1,0 +1,10 @@
+{
+ "id": "n-f0c1036242",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0b55e01089dbf8798126dbbdbafc0b2c3fd56b72c64bafe77cc2647acdd45c8b",
+ "summary": "Le 2026-08-24, la ligne de développement MiniMax-H3 x Z-Image a été associée à des liens Hugging Face vers un dépôt natif et un dépôt GGUF. Il s'agit d'une étape de diffusion significative, car elle identifie deux points d'accès au modèle dans deux formats, bien que les éléments disponibles n'établissent ni leur statut de publication, ni leur contenu, ni leur compatibilité.",
+ "title": "Les dépôts natif et GGUF de MiniMax-H3 x Z-Image ont été liés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目是依赖 Unity 的 AI4Animation 框架的直接继任者。它将整个流程迁移到 Python，支持 Flow Matching 和 Codebook Matching 等先进技术，并允许梯度反向传播穿过推理和可视化步骤。",
+ "id": "n-535631e71f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该框架采用实体-组件-系统（ECS）架构，支持将来自 GLB、FBX 和 BVH 源的动作数据序列化为高性能的 .npz 格式。",
+ "source_sha256": "73871b622dce6fa0c3e7372e84d4aa70f287832588b5f39251b7ecdc5ce34fdf",
+ "summary": "由 Meta Research 开发的 Python 原生框架，面向 AI 驱动的角色动画，统一了数据处理、训练和实时可视化。它采用纯 NumPy 和 PyTorch 后端，并内置 Raylib 渲染器，因而无需 Unity 等游戏引擎。",
+ "title": "AI4AnimationPy：面向智能角色动画的 Python 框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

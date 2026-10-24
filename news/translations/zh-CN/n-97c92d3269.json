@@ -1,0 +1,10 @@
+{
+ "id": "n-97c92d3269",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "195bb8a79d7202ccdef2f9b65862ffa326e245fb1f7b10eb43035160a1da2688",
+ "summary": "2026-08-25，一条 FireRedTTS3 相关动态附上了项目演示、源代码仓库、模型页面以及托管的在线演示 Space 链接。综合来看，这些带日期的链接标志着一次实质性的面向公众的进展，因为它们将该项目的评测与实现入口连接了起来。现有证据无法确定此动态是否对应某个具体发布版本、模型修订或文档变更。",
+ "title": "FireRedTTS3 公开项目更新",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

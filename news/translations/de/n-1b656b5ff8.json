@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach dem ursprünglichen Vorschlag aus dem Jahr 2024 erweiterte Kordi-AI den Benchmark Anfang 2026, um Spitzenmodelle wie GPT-5 anhand von „Multi-Principal Decision Problems“ auf die Probe zu stellen. Aus der Forschung ist inzwischen eine Anwendung in der Praxis hervorgegangen: Kordra 2.0, ein autonomer, teambasierter Entwicklungsarbeitsplatz.",
+ "id": "n-1b656b5ff8",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von einem Forschungskollektiv aus Stanford, MIT, KAUST und der UT Austin; formalisiert den Übergang von KI für einzelne Nutzer hin zu komplexen sozialen und unternehmerischen Orchestrierungssystemen.",
+ "source_sha256": "0f3d2f16a62f98dc8f3779307f8079a86e908b6f854db10ae3f79570b827f03e",
+ "summary": "Ein grundlegendes Forschungsrahmenwerk und Benchmark für LLM-Agenten, die gleichzeitig mit mehreren menschlichen Nutzern interagieren sollen. Es adressiert zentrale Herausforderungen in Gruppensituationen, etwa den Umgang mit widersprüchlichen Anweisungen, die Wahrung von Autoritätshierarchien und die Verhinderung von Datenschutzlecks zwischen einzelnen Nutzern.",
+ "title": "Large-Language-Model-Agenten für mehrere Nutzer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

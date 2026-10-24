@@ -1,0 +1,11 @@
+{
+ "id": "n-8f82aff737",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "克隆 karpathy-output-style 仓库，或将技能定义文件复制到智能体配置目录中。\n\n配置智能体运行时（例如 Claude Code 或 Codex），使其在查询执行期间加载技能规则。\n\n向智能体提交概念或代码解释任务，由技能在简化的技术文本、Excalidraw 图表、交互式 HTML 或解说视频等格式之间进行选择。\n\n严格遵循四层阶梯，优先使用最简单的格式，再考虑生成较重的交互式 HTML 或视频成果物。\n\n确保交互式 HTML 输出为完全自包含的单个文件，样式和脚本均内嵌其中，以便在本地浏览器中即时查看。",
+ "source_sha256": "5f3808f5e22da4a8dded3b29afaa58782a3cb1e1e3a6069e012c3b9ae00b8c05",
+ "summary": "开源仓库 karpathy-output-style 将 Andrej Karpathy 提出的视觉化解释层级封装为可复用的智能体技能（skills），使编程助手能够输出 Excalidraw 图表、交互式单文件 HTML 页面和带旁白的视频动画，而不是仅输出标准文本。",
+ "title": "开源项目 karpathy-output-style 为 AI 智能体实现视觉化输出阶梯",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

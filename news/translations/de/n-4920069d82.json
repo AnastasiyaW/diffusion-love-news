@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der News-Beitrag verlinkte das Unsloth-Repository, ein Colab-Notebook und eine Anleitung zum Fine-Tuning von GPT-OSS.",
+ "id": "n-4920069d82",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "219e84b5d75ab91bceada367421c4abadf0b90a6cc5a3713ab32f97021826c6e",
+ "summary": "Der News-Beitrag verlinkte das Unsloth-Repository, ein Colab-Notebook und eine Anleitung zum Fine-Tuning von GPT-OSS.",
+ "title": "Unsloth veröffentlicht Anleitung zum Fine-Tuning von GPT-OSS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

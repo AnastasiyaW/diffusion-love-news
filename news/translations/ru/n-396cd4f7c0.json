@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Проект разросся в комплексный набор инструментов для восстановления видео LTX-2.3, включающий ReFocus (размытие из-за объектива), Deinterlace и Uncompress. Сейчас проект занимает центральное место в организации LTX Collaborations и предоставляет профессиональные рабочие процессы восстановления.",
  "id": "n-396cd4f7c0",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Для работы в пайплайнах ComfyUI требует специализированную ноду LTXICLoRALoaderModelOnly.",
- "source_sha256": "legacy",
- "summary": "Специализированная In-Context LoRA (IC-LoRA) для модели Lightricks LTX-2.3 (22B), предназначенная для удаления motion blur и покадрового смаза. Работает как инструмент video-to-video восстановления, реконструируя резкие кадры, используя размытый источник как condition.",
- "title": "MotionDeblur IC-LoRA для восстановления видео в LTX-2.3",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Для использования в пайплайнах ComfyUI требуется специализированный узел LTXICLoRALoaderModelOnly.",
+ "source_sha256": "6e88b618fa0d505018c35d2c4e6f1d318bac83a74c0d7e2211a077e43a337281",
+ "summary": "Специализированный In-Context LoRA (IC-LoRA) для модели Lightricks LTX-2.3 (22B), предназначенный для устранения размытия при движении и покадрового смаза. Работает как инструмент восстановления видео в режиме видео-в-видео: восстанавливает резкие кадры, используя размытый исходный ролик в качестве условия (conditioning).",
+ "title": "MotionDeblur IC-LoRA для восстановления видео LTX-2.3",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

@@ -1,0 +1,10 @@
+{
+ "id": "n-5ee5b179bf",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "86a0ef3fd7693f898b572cb18b714fb069fb1656b42855ce4c155bae13191562",
+ "summary": "2026년 7월 26일자 기록에서 UniD 프로젝트 웹사이트와 해당 GitHub 저장소가 연결되었다. 이는 당시 프로젝트와 소스 위치에 대한 공개 참조 지점이 생겼음을 보여준다. 현재 확보된 근거는 릴리스, 논문, 모델, 기능 변경을 specify하지 않으므로 이와 관련된 주장은 포함하지 않는다.",
+ "title": "UniD 프로젝트 페이지와 소스 저장소가 공개적으로 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

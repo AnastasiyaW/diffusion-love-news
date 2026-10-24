@@ -1,0 +1,10 @@
+{
+ "id": "n-07db2c49c3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "18f2ca0f2b207a7341665344ecd5bf1fd049b392b43c52d65564025818f8bf82",
+ "summary": "2026-07-13，SAM-MT 被记录已关联官方项目页面、GitHub 代码仓库和 Hugging Face 页面。这是一个重要的开发历程节点，因为它确立了 SAM-MT 的公开项目存在，并提供了源代码与模型资源的入口。仅凭这些带日期的链接，无法确定具体的发布版本、功能特性或使用条款。",
+ "title": "SAM-MT 的公开项目资源已完成链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目在 2.0 版本中被彻底重构，从手动编辑 JSON 转向“智能体优先”的设计。发布后的更新主要集中在为较新的视频模型扩充模板库，以及改进第三方自定义节点的索引。",
+ "id": "n-6b3a93f373",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "它使用一个可通过 pip 安装的 ComfyUI 分支，使整个生成引擎成为标准的 Python 依赖项，可直接嵌入脚本中。",
+ "source_sha256": "fe025e6452db5a55d1752ed6463eb3da36433cdba1e7be25ebda8db48116d3a1",
+ "summary": "一个以智能体为中心的 ComfyUI 接口，用代码优先的 Python 环境取代手动节点图编辑。它利用专门的中间表示（Intermediate Representation），使 AI 智能体能够以编程方式编排生成式媒体流水线。",
+ "title": "VibeComfy 2.0：面向智能体的 ComfyUI Python 接口",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

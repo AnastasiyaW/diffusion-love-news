@@ -1,0 +1,10 @@
+{
+ "id": "n-ce536a0efc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6064614b928067e0d1fdfc66fdafd7da20bcd32f3b28656e29b3057ce0b65de",
+ "summary": "2026-04-06, NVIDIA는 텍스처 메모리 사용량을 줄이는 기술로 Neural Texture Compression을 공개적으로 시연했습니다. 연결된 보도에 따르면, 시연된 방식은 VRAM 사용량을 6.5 GB에서 970 MB로 줄이는 비교 결과를 보여주었으며, 이는 해당 프로젝트에 중요한 공개 진전으로 볼 수 있습니다.",
+ "title": "NVIDIA, Neural Texture Compression으로 VRAM 사용량을 대폭 낮춘 시연 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

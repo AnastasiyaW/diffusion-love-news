@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 wurde der Kernels Hub offiziell als eigenständiger Repository-Typ im Hugging Face Hub eingeführt. Aus einer von der Community gepflegten Bibliothek entwickelte er sich zu einer zentralen Infrastruktur, die Flash Attention 4 unterstützt, für extreme Context Parallelism optimiert ist und aktuelle Hardware-Architekturen wie NVIDIA Blackwell berücksichtigt.",
+ "id": "n-545c4e25d2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Tief integriert in die Python-Bibliothek „kernels“ sowie in gängige Hugging-Face-Werkzeuge wie Transformers und Diffusers (v0.38.0+).",
+ "source_sha256": "e217a96f9bb7609839d2a29a233ccda428a161a0503a04a163406c4861beb9cc",
+ "summary": "Eine Plattform und Bibliothek zur Verteilung vorkompilierter GPU-Kernel (CUDA, ROCm, Metal, XPU) direkt über den Hugging Face Hub. Sie beseitigt den „Installationsalbtraum“ bei leistungskritischen Komponenten wie Flash Attention, indem sie sofort verfügbare, auf die jeweilige Umgebung zugeschnittene Binärdateien bereitstellt.",
+ "title": "Hugging Face Kernels Hub für GPU-Optimierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

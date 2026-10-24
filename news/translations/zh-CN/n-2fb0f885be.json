@@ -1,0 +1,10 @@
+{
+ "id": "n-2fb0f885be",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6aa1e23cba9823136d04c0e9f3d4027c1986b02ab6ec43b1f4b810a591619ebb",
+ "summary": "2026 年 7 月 23 日，Unity 发布了一篇带日期的官方博客文章，内容涉及 Unity CLI。该项目专属的官方链接使其成为 Unity CLI 发展历程中一个具有实质意义的引入性里程碑。现有封存证据无法确定其功能、可用性或技术行为。",
+ "title": "Unity 发布了一则关于 Unity CLI 的公告",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

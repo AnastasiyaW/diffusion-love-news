@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从研究原型发展为可投入生产的模型套件，包括 3.5B 和 1B 两个版本。它引入了自适应投影引导（APG），并已全面集成到 ComfyUI 生态系统中。",
+ "id": "n-d967265835",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在说话人相似度和自然度等基准测试上优于 Seed-TTS；以 MIT 许可证发布，便于广泛使用。",
+ "source_sha256": "40c885a19554cac8ac60145c957d1ba52ac67d924283ac13d3afedd83b7d268a",
+ "summary": "一种最先进的基于扩散的语音合成框架，直接在使用 Wav-VAE 构建的波形潜空间中运行。它支持高保真的零样本声音克隆和自然语音生成，并进行了推理优化。",
+ "title": "LongCat-AudioDiT：高保真波形潜变量扩散 TTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

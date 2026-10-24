@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 5 月开源了 8B 权重，标志着从潜在扩散模型向像素原生推理模型的重大转变。当前版本包括蒸馏版 'Dev' 模型和高参数量的 'Pro' 研究版本。",
+ "id": "n-7d8614adad",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在主要基准测试中名列顶尖开源模型之列。集成了一个推理驱动的智能体，用于版式规划和提示词扩展。",
+ "source_sha256": "b1492b7803ea23b9c758265f205c3f3f86442819af380a5092299fdfaf017803",
+ "summary": "一个原生统一的 8B 像素空间 Transformer，用于高质量图像生成和基于指令的编辑。它在共享的 token 空间中处理文本和像素，实现原生 2K 合成，且不产生 VAE 伪影。",
+ "title": "HiDream-O1-Image：8B 统一像素空间 Transformer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

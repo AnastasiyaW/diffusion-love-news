@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2.6 업데이트에서는 핵심 기능인 AI Cover를 도입했고, 정밀한 BPM 및 키 조절 기능을 추가했으며, 생성 지연 시간을 20초 미만으로 줄였습니다. 또한 음악 생성을 AI 에이전트 생태계에 통합하기 위한 오픈소스 MusicSkill 모듈을 출시했습니다.",
+ "id": "n-dfe5e1e7a6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "고충실도 44.1kHz 오디오와 최대 6분 길이의 전체 트랙을 지원합니다.",
+ "source_sha256": "9a922f258549c3151ebf35bda29020e6ad3404949de84e8bd397960f135dd658",
+ "summary": "MiniMax Music은 텍스트 프롬프트와 가사로부터 고충실도 오디오를 생성하는 전문가급 AI 음악 제작 플랫폼입니다. 현재 AI 커버와 전문적인 음악 구조화를 위한 도구를 갖춘 종합적인 창작 파트너로 운영되고 있습니다.",
+ "title": "MiniMax Music 2.6 AI 음악 생성 플랫폼",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

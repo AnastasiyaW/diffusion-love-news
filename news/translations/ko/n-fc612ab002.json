@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "ICLR 2026에서 발표된 IceCache는 시맨틱 인식 KV-캐시 관리 분야의 현재 최전선을 보여줍니다. 쿼리 인식 토큰 검색을 위한 DCI-tree 기반 계층적 인덱스를 추가하여 PagedAttention 개념을 확장합니다.",
+ "id": "n-fc612ab002",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "LongBench 벤치마크에서 99% 정확도를 달성하며, 활성 GPU 캐시에는 256개 토큰만 사용합니다.",
+ "source_sha256": "a6368bea7c7d668ef51f9281dc82a11401b2f436827875e90ffb411812e7ffb2",
+ "summary": "IceCache는 시맨틱 토큰 클러스터링과 계층적 인덱싱을 활용해 KV-캐시를 재구성하여 긴 컨텍스트 LLM 추론을 최적화합니다. 관련성 높은 캐시 페이지만 CPU에서 GPU로 선택적으로 불러옴으로써, GPU 메모리 사용량을 크게 줄이면서도 높은 정확도를 유지합니다.",
+ "title": "IceCache: 긴 컨텍스트 LLM을 위한 메모리 효율적 시맨틱 KV-캐시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

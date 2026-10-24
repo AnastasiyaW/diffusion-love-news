@@ -1,0 +1,10 @@
+{
+ "id": "n-3b15326fe8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c2fc8c5fde2a90ae81948e94e09b72457e292cecf0389dc034995fc95845a4e3",
+ "summary": "Le 2026-08-11, le fil Muse associait Muse Glimmer à trois URL Hugging Face : un dépôt de modèle nommé Muse-Glimmer-30B, une page de modèles quantifiés dérivés de celui-ci, et un Space portant son nom. Pris ensemble, ces liens datés documentent une page de modèle ainsi que des références connexes à la quantification et à un Space, visibles à cette date. Ils n'établissent pas la date de sortie du modèle, ses capacités, sa propriété, ni si le message annonçait un changement nouveau.",
+ "title": "Des références Hugging Face pour Muse Glimmer 30B ont été relevées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

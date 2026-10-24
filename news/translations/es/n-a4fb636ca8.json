@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026, el proyecto se encuentra actualmente en la fase de preparación del código público y los pesos del modelo para GitHub. Establece nuevos benchmarks en seguimiento facial, superando de forma significativa a métodos previos como Sapiens y V-DPM.",
+ "id": "n-a4fb636ca8",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Presenta un conjunto de datos de rostros 3D dinámicos a gran escala derivado de NeRSemble para un entrenamiento de alta fidelidad.",
+ "source_sha256": "41e4be416aea9b15f0b665e087115f79db19eddd314aedf8e05b93c4f5b10f68",
+ "summary": "Un marco basado en transformers para la reconstrucción facial 4D unificada y el seguimiento denso a partir de secuencias de vídeo monocular. Predice de forma conjunta coordenadas canónicas, mapas de profundidad y mapas de normales para garantizar una alta consistencia temporal incluso ante variaciones extremas del punto de vista.",
+ "title": "Face Anything: reconstrucción facial 4D unificada y seguimiento",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

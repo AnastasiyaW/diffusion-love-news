@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hat sich als aktueller Standard für die Photopea-Integration in ComfyUI etabliert und ersetzt frühere, auf iframes basierende Versionen. Die laufende Weiterentwicklung befasst sich mit der UI-Skalierung und der Stabilität in eigenständigen Anwendungsumgebungen.",
+ "id": "n-39f773b51f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält einen integrierten Werbeblocker, der sich ein- und ausschalten lässt, und unterstützt das Zurückimportieren einzelner Ebenen oder ganzer Dokumente in den Graphen.",
+ "source_sha256": "c0485818a23bbf9d45bf3fb27640ddf212962a28c0d0e54534c9deea049e3ce4",
+ "summary": "Integriert den Bildeditor Photopea als eigenen Seitenleisten-Tab in ComfyUI. Ermöglicht nahtlose bidirektionale Bildübertragungen sowie das gezielte Importieren einzelner Ebenen direkt zwischen Arbeitsbereich und Editor.",
+ "title": "ComfyUI-Photopea-tab: Seitenleisten-Bildeditor für ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

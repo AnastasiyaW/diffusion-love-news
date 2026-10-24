@@ -1,0 +1,10 @@
+{
+ "id": "n-fb33cdc42d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "df86473260894570b283dba78444b68deb0883f21a13013a6c2d0f2c14fa0501",
+ "summary": "2026-05-23에 ComPyter 개발 흐름에는 프로젝트의 GitHub 저장소 링크가 포함되어 있었다. 확인 가능한 자료는 github.com/Sxela/ComPyter를 주요 프로젝트 참조로 특정하지만, 해당 날짜의 릴리스, 커밋, 기능 또는 기타 구체적인 변경 사항은 확인되지 않는다.",
+ "title": "ComPyter GitHub 저장소 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

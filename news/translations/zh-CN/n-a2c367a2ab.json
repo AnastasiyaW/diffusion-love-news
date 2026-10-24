@@ -1,0 +1,10 @@
+{
+ "id": "n-a2c367a2ab",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6e4cdcde89cd8b3dff4cf6a24ae5dc677ada0352ad61c20b8c28eb1ab374560c",
+ "summary": "2026年6月18日，MolmoMotion 开发线记录了 MolmoMotion-4B-H3-F30 的一个 Hugging Face 资源。该带日期的链接指向一个具体的模型变体，使其成为该项目公开模型可用性历史中的一个重要检查点。由于未提供源文本或独立的发布文档，本事件不对其能力、许可或该变体与其他发布版本之间的关系作出任何断言。",
+ "title": "MolmoMotion-4B-H3-F30 模型资源记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

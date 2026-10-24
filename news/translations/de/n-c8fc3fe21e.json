@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hat sich von einem einfachen Texturierungswerkzeug zu einer spezialisierten Verfeinerungssuite für 3D-Künstler entwickelt. Zu den jüngsten großen Updates gehören Unterstützung für multiansichtige Konsistenz, gezieltes Texture-Inpainting für bestimmte Mesh-Bereiche und automatisierte PBR-Segmentierung.",
+ "id": "n-c8fc3fe21e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Wird häufig in professionelle Workflows als Nachbearbeitungsschritt für Assets integriert, die mit Tools wie Trellis oder Tripo AI erzeugt wurden.",
+ "source_sha256": "bc911750eb3df5c05fb11103929f22d1f64d045d7844c6469885cff632a406d0",
+ "summary": "Modddif ist eine KI-gestützte Plattform für die Texturierung, Verfeinerung und Bereinigung von 3D-Modellen. Sie ist auf die Erzeugung multiansichtiger Texturen, das Texture-Inpainting und die Erstellung von PBR-Maps spezialisiert, um rohe KI-generierte Meshes zu verbessern.",
+ "title": "Modddif — KI-Toolkit für Texturierung und Verfeinerung von 3D-Modellen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

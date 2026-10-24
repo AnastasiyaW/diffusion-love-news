@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工作于 2026 年 4 月首次在 ArXiv 发布后,正式发表于 SIGGRAPH 2026。随着 StyleBench-H 和 StyleBench-S 数据集的公开发布,该项目不断扩展,并已成为保持身份特征的扩散模型的基准。",
+ "id": "n-9f3f263dfe",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含面向风格化无关识别的评估指标;以非商业研究许可证发布。",
+ "source_sha256": "7afa2e1e5c3f320a0bcd0a7c07eacefebf6c270973a0df71a6d1370727c954d3",
+ "summary": "StyleID 是一种基于 CLIP 的专用身份编码器,旨在在极端艺术风格之间保持面部一致性。它通过 StyleBench 数据集将机器嵌入与人类感知对齐,从而解决生成模型中的“身份漂移”问题。",
+ "title": "StyleID:面向人像个性化的感知感知型身份编码器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

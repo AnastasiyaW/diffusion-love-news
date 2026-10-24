@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "v1.0과 v2.0에서 발전하여 v3.0이 출시되었으며, 강화학습을 위한 미분 가능 보상 모델(DiffRO)을 도입하고 학습 규모를 100만 시간의 음성 데이터로 확장했습니다. 현재 개발은 TensorRT-LLM 및 vLLM 통합을 통한 런타임 최적화에 집중되고 있습니다.",
+ "id": "n-7de8349cd0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "9개 주요 언어 중 러시아어를 지원하며, 18개 이상의 중국어 방언을 지원하고, 스트리밍 애플리케이션을 위해 150ms의 초저지연 첫 패킷 지연 시간을 유지합니다.",
+ "source_sha256": "f481bf63d809db1b66ce0116d73540d272544ac43daa1aacaa21fb3ce836755b",
+ "summary": "Alibaba의 FunAudioLLM이 개발한 최첨단 다국어 음성 생성 모델로, 실시간 합성과 제로샷 음성 클로닝을 지원합니다. 대규모 데이터 스케일링과 강화학습을 활용하여 9개 주요 언어에 걸쳐 높은 충실도의 운율과 감정 표현을 구현합니다.",
+ "title": "CosyVoice 3.0 다국어 음성 생성 및 클로닝",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

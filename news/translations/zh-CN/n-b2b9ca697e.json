@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "继2026年4月发布GLM-5V-Turbo之后，智谱AI于2026年5月推出了GLM-5.1。此次更新将重点转向“智能体工程”（Agentic Engineering），支持自主完成端到端的代码仓库生成以及复杂的终端开发任务。",
+ "id": "n-b2b9ca697e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在Design2Code基准测试中取得94.8分，明显优于Claude Opus 4.6。该模型完全基于国产硬件栈训练，采用华为昇腾芯片。",
+ "source_sha256": "572b74b1806380978dda7f6b88452da6d6365237ba8fe770ad9a88317deb216e",
+ "summary": "这是智谱AI推出的原生多模态混合专家（Mixture-of-Experts）模型，专为基于版面自主生成前端代码而设计。它擅长将截图或草图转换为可运行的代码，并支持复杂的视觉调试任务。",
+ "title": "GLM-5V-Turbo：面向设计转代码的多模态工程模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

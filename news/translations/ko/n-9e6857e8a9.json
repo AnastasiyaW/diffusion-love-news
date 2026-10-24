@@ -1,0 +1,10 @@
+{
+ "id": "n-9e6857e8a9",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fdca17036711e9f9063039f634ab8d6fd1eca6194f952ea920595caaa2ade36d",
+ "summary": "2026-06-11 기준으로, 해당 기록은 leejet/ideogram-4-GGUF라는 Hugging Face 저장소를 연결하고 있습니다. 이는 특정 공개 저장소가 GGUF 형식 배포본으로 지정되었다는 점에서 Ideogram 4 프로젝트의 배포와 관련된 중요한 단계입니다.",
+ "title": "Hugging Face에 연결된 Ideogram 4 GGUF 저장소",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

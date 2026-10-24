@@ -1,0 +1,10 @@
+{
+ "id": "n-6edfc59eed",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ea7bb7afe3940dcb9dd9beafcba3d394d2e2ba225ed85f9c25ffc4479aae675b",
+ "summary": "Am 2026-06-26 verlinkte ein Entwicklungsupdate zu DomainShuttle die Projektseite, das Quellcode-Repository und die Hugging-Face-Seite mit den Gewichten. Das ist ein wesentlicher Schritt in der Projektgeschichte, weil die öffentliche Implementierung des Projekts und die Gewichte dadurch auffindbar wurden. Allein die datierten Links belegen jedoch keine Version, keine Fähigkeiten und keine Inhalte der Veröffentlichung.",
+ "title": "DomainShuttle: Projektressourcen verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

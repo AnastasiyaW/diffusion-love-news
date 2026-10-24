@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 대규모 뉴럴 달 지도 제작을 개척했으며, 이후 희소 시점(sparse-view) 로버 데이터와 행성 반사율 최적화에 초점을 맞춘 Moon-GS, AstroSplat 등 전문화된 프레임워크에 영향을 주었습니다.",
+ "id": "n-60f7bb3300",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nicolas Diolez가 RealityScan과 LichtFeld Studio로 처리한 300장 이상의 NASA 사진을 사용해 제작했으며, PlayCanvas SuperSplat에서 호스팅됩니다.",
+ "source_sha256": "f082fe32a17ac0dc0195876a14fc737b2fd85877501d403db83e35ebe0d4da55",
+ "summary": "NASA의 아르테미스 II 임무에서 촬영한 영상을 바탕으로 한 달 표면의 고충실도 3D 가우시안 스플래팅(3D Gaussian Splatting) 재구성 결과물입니다. 상호작용이 가능하고 세밀한 3D 시각화를 제공하며, 행성 과학 분야에서 뉴럴 렌더링(neural rendering)이 지닌 잠재력을 보여줍니다.",
+ "title": "3DGS 달 표면 재구성 (NASA 아르테미스 II)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

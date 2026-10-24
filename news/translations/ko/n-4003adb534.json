@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "뉴스 게시물에 따르면 전날 장애가 발생했던 데모 스페이스가 복구되었으며, 로컬 설치 없이도 사용해 볼 수 있다고 기록되어 있다.",
+ "id": "n-4003adb534",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2f050bf3ab8905151b5d652a5b54fc0f7a1b61da8488dc71cf63bc6b9fc5e5e2",
+ "summary": "뉴스 게시물에 따르면 전날 장애가 발생했던 데모 스페이스가 복구되었으며, 로컬 설치 없이도 사용해 볼 수 있다고 기록되어 있다.",
+ "title": "ACE-Step 1.5 데모 정상 가동",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

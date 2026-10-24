@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Fünf Forschungsartikel zu llm-agents wurden angereichert.",
+ "id": "n-2f94cbb043",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Anzahl der betroffenen Dateien wurde anhand der unveränderlichen Dateiliste des Commits verifiziert.",
+ "source_sha256": "cb5440c7c06174c1189c4e54254e91dfc5c9177b32393858396b68c4533c56c8",
+ "summary": "Fünf öffentliche Artikel im Bereich llm-agents wurden im Repository angereichert.",
+ "title": "Agenten-Forschungsartikel anreichern",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

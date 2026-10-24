@@ -1,0 +1,10 @@
+{
+ "id": "n-b8d5334397",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "45bf09e9bb8d92fe865499bcfef5319a959c08da1ff889fab51b13a32c856eb1",
+ "summary": "2026-08-15, OpenVuln 개발 계열의 한 봉인된(sealed) 구성원이 프로젝트의 Hugging Face Space로 직접 링크를 걸었다. 이는 해당 날짜의 공개 프로젝트 스페이스 참조 사실을 기록한 것이지만, 이 링크만으로는 해당 Space의 공개 여부, 기능, 또는 프로젝트의 어떠한 변경 사항도 확인되지 않는다.",
+ "title": "OpenVuln의 공개 Hugging Face Space가 언급되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

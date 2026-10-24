@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 빠르게 확장되어 포괄적인 생태계로 발전했으며, 복잡한 추론을 위한 'Thinking' 변형 모델과 프로덕션 파이프라인을 위한 'Instruct' 모델을 추가했습니다. 현재는 고충실도 생성을 위한 MOSS-TTS와 300만 시간 분량의 오디오로 학습된 특화 토크나이저도 포함하고 있습니다.",
+ "id": "n-8da3cc43df",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "OpenMOSS 팀(Fudan University)이 개발했으며, 시간 분석을 위한 고유한 시간 인식(time-aware) 표현을 특징으로 하고, GGUF/ONNX를 통한 엣지 배포를 지원합니다.",
+ "source_sha256": "ac714693238d5377f66b693dd16c66a02eb5229e8d2c517f5ae2b4ff0836c8e0",
+ "summary": "MOSS-Audio는 음성, 환경음, 음악 이해를 단일 아키텍처 안에서 통합하는 모듈형 파운데이션 모델입니다. 자체 학습한 CAT 오디오 인코더와 LLM 백본을 사용하여 원시 오디오 데이터에 대해 복잡한 추론과 지시 따르기(instruction-following) 작업을 수행합니다.",
+ "title": "MOSS-Audio: 통합 오픈소스 오디오 파운데이션 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

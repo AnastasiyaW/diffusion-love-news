@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개된 World-R1은 3D 에셋이 필요 없는 사후 학습(post-training) 강화학습 접근법을 도입했다. 기본 모델 대비 기하학적 일관성을 크게 향상시켰으며(PSNR 7~10 dB), ICML 2026에서 발표되었다.",
+ "id": "n-5db7fa704b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "학습 과정에서 3D 제약을 강화하기 위해 Depth Anything 3와 Qwen3-VL의 피드백을 사용한다.",
+ "source_sha256": "e9ddb8344cf25665f01002e5a2c9dcdb9ac7aeff40a80c5531da2cd936292d0f",
+ "summary": "Microsoft의 연구 프로젝트로, Flow-GRPO 강화학습 프레임워크를 사용해 텍스트-투-비디오 모델의 3D 기하학적 일관성을 향상시킨다. Wan 2.1과 같은 모델을 3D 파운데이션 모델의 피드백으로 최적화하여, 카메라가 움직이는 동안 객체가 뒤틀리거나 환각(hallucination)이 생기는 것을 방지한다.",
+ "title": "World-R1: 비디오 생성에 3D 제약을 강화학습으로 주입하기",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

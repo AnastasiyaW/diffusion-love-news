@@ -1,0 +1,11 @@
+{
+ "id": "n-8dc4648cdc",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ouvrez la page du pays, choisissez un pays ou un magasin, puis utilisez le tableau des magasins pour consulter la date d'ouverture et le chiffre d'affaires du mois précédent.\n\nPour une comparaison, définissez les filtres de marque, de pays, de devise et de fenêtre temporelle ; examinez ensemble les ventes, l'évolution d'une année sur l'autre, le nombre de commandes et l'ancienneté des unités.\n\nComparez des emplacements équivalents et interprétez une valeur d'évolution d'une année sur l'autre absente ou nulle pour un magasin récent comme l'absence de base de référence sur la même période, et non comme une preuve d'absence de croissance.\n\nNotez le pays, la devise, la période et les filtres utilisés avant de partager une comparaison, car le tableau de bord expose différentes tranches de réseau et des devises locales.",
+ "source_sha256": "b429ac5872b3824ce4516fe5a2e3f5857afcb96bb5268a41528475c0c2bff7dc",
+ "summary": "Les statistiques des magasins Dodo Pizza sont accessibles publiquement par pays et par emplacement, et affichent le chiffre d'affaires du mois précédent ainsi que les dates d'ouverture. La page indique qu'elle est actualisée toutes les 30 minutes à partir de l'API publique de Dodo IS.",
+ "title": "Dodo Pizza : tableau de bord public des revenus des magasins",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

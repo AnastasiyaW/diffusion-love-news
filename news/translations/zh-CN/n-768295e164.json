@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该系列从专用的 V1.0/V2.0 模型演进为 V2.5 的统一架构。V2.5 于 2026 年 4 月以 MIT 许可证开源，并集成到 HyperOS 生态系统中，可在移动设备上实现亚秒级响应。",
+ "id": "n-768295e164",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包括参数量超过 1 万亿（激活参数 42B）的 MiMo-V2.5-Pro，其在 SWE-bench Pro 基准测试上表现具有竞争力。",
+ "source_sha256": "21e464be89ccbfe5bde442ad609c8a03a401f08460cbabf96753172e41b9e2c0",
+ "summary": "Xiaomi 推出的统一原生多模态模型系列，支持文本、图像、视频和音频输入，上下文窗口达 100 万 token。该系列采用稀疏混合专家（Mixture-of-Experts）架构与混合注意力机制，在复杂的智能体任务中实现了高效率。",
+ "title": "Xiaomi MiMo V2.5 全模态推理模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

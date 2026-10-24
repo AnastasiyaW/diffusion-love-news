@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó de un simple envoltorio de modelo a una suite de escritorio completa basada en Tauri, con widgets de dictado a nivel de sistema operativo e integración con servidores MCP. Ahora utiliza el gestor de paquetes 'uv' para el arranque local sin dependencias.",
+ "id": "n-0124eabefd",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integra Demucs para la separación de audio y tiene en su hoja de ruta la integración de Wav2Lip v2 para mejorar el realismo del doblaje de vídeo.",
+ "source_sha256": "806b1dc9c6d906c0e49719a87cd2e8152ee9feb3ed81a80a0247556499541933",
+ "summary": "Una aplicación de escritorio centrada en la privacidad para clonación de voz zero-shot, doblaje cinematográfico y dictado en tiempo real en más de 600 idiomas. Se ejecuta al 100 % en local, con soporte para aceleradores NVIDIA, Apple Silicon y AMD.",
+ "title": "OmniVoice Studio: clonación de voz y doblaje en local",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

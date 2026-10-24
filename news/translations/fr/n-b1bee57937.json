@@ -1,0 +1,10 @@
+{
+ "id": "n-b1bee57937",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bed48dfd4907c01c24ae1e2bc85594de31786502308d27a23ddf321ed295d4cf",
+ "summary": "Le 13 mai 2026, la fiche a enregistré des liens vers les dépôts Hugging Face hébergés par NVIDIA pour les variantes Diffusers FP8 et NVFP4 de Wan2.2 T2V A14B. Il s'agit d'une étape de quantification importante, car elle identifie des variantes de modèle à plus faible précision, pertinentes pour l'exécution du projet.",
+ "title": "Les variantes Diffusers FP8 et NVFP4 de Wan2.2 T2V A14B ont été documentées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

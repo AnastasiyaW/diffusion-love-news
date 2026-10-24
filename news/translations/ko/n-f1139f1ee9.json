@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "3DGH의 후속작으로 2026년 4월에 공개되었으며, 3D Gaussian Splatting 프레임워크 안에 헤어 시뮬레이션을 위한 Position-Based Dynamics(PBD)를 도입했습니다. 물리적으로 사실적인 원샷 아바타 애니메이션 분야에서 여전히 최첨단(state-of-the-art) 수준을 유지하고 있습니다.",
+ "id": "n-f1139f1ee9",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Metal/MPS를 사용해 Apple Silicon(M1-M4)에 최적화되어 있으며, 헤어와 얼굴 분할에는 SAM2를, 얼굴 표정에는 FLAME을 활용합니다.",
+ "source_sha256": "3c8ba4255550d7487950c65af2dc4d55ff24406460bd6812021719ce8fa67930",
+ "summary": "단일 2D 초상 사진으로부터 고충실도의 애니메이션 가능한 3D 헤드 아바타를 생성하기 위한 연구 프로젝트입니다. 재구성 과정을 헤어가 없는 얼굴 메시와 3D Gaussian Splats로 표현된 동적 헤어로 분리하여, 사실적인 물리 시뮬레이션과 손쉬운 헤어스타일 교체를 가능하게 합니다.",
+ "title": "CompHairHead: 변형 가능한 헤어를 갖춘 원샷 3D 아바타",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

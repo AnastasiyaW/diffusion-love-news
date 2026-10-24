@@ -1,0 +1,10 @@
+{
+ "id": "n-8e75dd0767",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "01acbe0e11ba28edf3be53fa06a714f114fa1df8e50294a660913e64eabc1d8a",
+ "summary": "2026-08-02, Chronosplat 개발 라인이 GitHub 소스 저장소와 호스팅된 대화형 뷰어를 연결했습니다. 이 날짜가 기록된 링크들은 프로젝트 차원의 공개 참조 지점과 실행 가능한 데모 엔드포인트가 있음을 보여 주지만, 그 날짜의 정확한 릴리스 범위와 변경 사항은 알려지지 않았습니다.",
+ "title": "Chronosplat 소스 저장소와 대화형 뷰어가 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-0fd23f1e2c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Examiner les dépôts réglementaires d'Anthropic et les communications aux actionnaires concernant la ratification de l'allocation de 5 % du capital au Public Benefit Fund.\n\nIdentifier les domaines programmatiques éligibles, notamment le soutien à la recherche des organisations à but non lucratif et les programmes de reconversion des travailleurs désignés dans les lignes directrices de fonctionnement de la LLC.\n\nÉvaluer les cadres de gouvernance d'utilité publique indépendamment des feuilles de route commerciales des produits d'IA lorsqu'on audite les risques d'entreprise et la conformité en matière de sécurité.\n\nVérifier si les engagements de dotation en actions ont reçu une approbation formelle des actionnaires avant de s'appuyer sur eux pour des engagements de financement institutionnel.",
+ "source_sha256": "c2193b26a31f426ae93ecafe13ff1e868cc8f424aee6c9356852695b34071f20",
+ "summary": "Anthropic s'est engagée à céder 5 % des actions de la société pour créer l'Anthropic Public Benefit Fund LLC, sous réserve de l'approbation des actionnaires, avec des dispositions dynamiques du conseil d'administration prévoyant l'ajout de 2 % de capital par tranche de 50 % de hausse de la valorisation, afin de soutenir des organisations à but non lucratif et d'atténuer les effets sur l'emploi.",
+ "title": "Anthropic engage 5 % de son capital dans un fonds d'utilité publique sous forme de LLC",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

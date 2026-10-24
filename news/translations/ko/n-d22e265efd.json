@@ -1,0 +1,10 @@
+{
+ "id": "n-d22e265efd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "90fa9f369cacc359688ad63e4e8b0a9646f3360c90c50c730126be00034fc4e6",
+ "summary": "2026-03-29, ComfyUI가 Topaz Starlight Precise 2.5와 관련된 연동 업데이트를 공개했습니다. 검토 자료에는 원문이 포함되어 있지 않아, 해당 기능, 워크플로 영향, 출시 조건은 여기서 확인할 수 없습니다.",
+ "title": "Topaz Starlight Precise 2.5 연동 업데이트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

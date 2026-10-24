@@ -1,0 +1,10 @@
+{
+ "id": "n-98db5e9f27",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e0c72c24b0638754b2ffc43e61e16d994ce684aefc6a5962bbdbc75684114051",
+ "summary": "2026年7月30日，一个名为 SeedVR2-1.4B 的 Hugging Face 仓库及其 ComfyUI 目录被链接。这说明了该模型一条面向 ComfyUI 的实用分发路径，但仅凭这些带日期的链接，无法核实其来源、完整性或兼容性。",
+ "title": "SeedVR2-1.4B ComfyUI 软件包已被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

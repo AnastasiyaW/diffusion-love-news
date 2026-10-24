@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'une configuration basée sur des scripts à un écosystème Windows complet sous forme d'exécutable .exe, avec prise en charge multilingue et suivi des ressources en temps réel. Le projet se concentre désormais sur la fourniture d'installateurs en un clic pour des modèles de pointe comme Qwen3-TTS et Motif Video.",
+ "id": "n-2d6650cee4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nécessite Docker Desktop et du matériel NVIDIA ; le projet vise à résoudre le « dependency hell » courant dans les outils d'IA open source, grâce à la conteneurisation.",
+ "source_sha256": "6c4920e99817af093dc9f0f13544dbbc17a6c518e94c4efe411a75b9046d4bc7",
+ "summary": "Un lanceur Windows spécialisé, conçu pour tester et gérer des modèles d'IA émergents dans les domaines de l'image, de la vidéo et de la synthèse vocale (TTS). Il simplifie la gestion complexe des dépendances en s'appuyant sur Docker et WSL2 pour créer des environnements d'exécution isolés pour chaque modèle.",
+ "title": "Installateur Windows Deno AI Studio pour modèles d'IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

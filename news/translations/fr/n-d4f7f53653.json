@@ -1,0 +1,10 @@
+{
+ "id": "n-d4f7f53653",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0bcd9ede72e069a073288842f649dda6f269c633151f78db684498024a3312de",
+ "summary": "Le 2026-06-24, les dépôts nommés Qwopus3.6-27B-v2-GGUF et Qwopus3.6-27B-v2-FP8 ont été liés dans le cadre de la lignée Qwopus3.6-27B-v2. Il s'agit d'une étape de diffusion significative, car des artefacts nommés ont été rendus disponibles dans deux formats orientés inférence. Un contemporaneous The recorded link accompagnait les liens vers les dépôts, mais son contenu n'a pas été examiné.",
+ "title": "Les artefacts de Qwopus3.6-27B-v2 ont été publiés dans les dépôts GGUF et FP8",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

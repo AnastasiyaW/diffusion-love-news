@@ -1,0 +1,10 @@
+{
+ "id": "n-5cbb79d999",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8f394d1b6cce0ec13a20465efeb4e1c66d0bf7742b29dee452c1bc9d4e6baef3",
+ "summary": "2026년 5월 19일, SIMART가 프로젝트 웹사이트 및 ByteDance-Seed/SimArt Hugging Face 저장소와 함께 연결되었습니다. 날짜가 명시된 모델 저장소 참조가 프로젝트 페이지와 함께 나타났기 때문에 이를 주요 배포 이정표로 봅니다. 현재 확보된 근거만으로는 저장소의 내용, 라이선스, 정확한 공개 상태를 확인할 수 없습니다.",
+ "title": "SIMART Hugging Face 저장소 참조 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

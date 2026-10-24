@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Map2World se basa en el generador de activos TRELLIS, evolucionando desde la síntesis a nivel de objeto hacia la generación de mundos a escala urbana, con soporte para mapas de segmentación arbitrarios y mejora de detalle en alta resolución.",
+ "id": "n-40f1573a5d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado conjuntamente por Seoul National University y Microsoft Research Asia; el código fuente figura actualmente como próximamente disponible.",
+ "source_sha256": "3a65cca20444ae5101bd93f94e7f7a4314203f7df8df58bf8450590abf2e3069",
+ "summary": "Un marco para generar entornos 3D continuos y de gran escala a partir de mapas de segmentación cenitales y prompts de texto. Emplea una estrategia de multi-difusión para coordinar ventanas 3D superpuestas, garantizando transiciones suaves y consistencia de escala en mundos extensos.",
+ "title": "Map2World: generación de mundos 3D a partir de texto condicionado por mapas de segmentación",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

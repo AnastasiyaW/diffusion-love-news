@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "개별 스크립트에서 출발해 연출에는 Ollama를, 영상 합성에는 LTX-Video를 사용하는 전 기능을 갖춘 에이전틱 영화 스튜디오로 발전했다. 현재는 자동화된 장면 계획, 다중 테이크 생성, 내장 편집 도구를 지원한다.",
+ "id": "n-511353336a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "스크립트 작성을 위해 Gemma 기반 모델을, 영상 생성을 위해 LTX 2.3/LTX-AV를 통합하며, AgentSkills 생태계의 일부이다.",
+ "source_sha256": "f67285c736bff3dd75febc740648f0fe381c39ade97fba88e3395af9b722562c",
+ "summary": "텍스트 프롬프트나 시나리오를 에이전틱 LLM을 활용해 완성된 시네마틱 영상으로 변환하는 자율형 로컬 파이프라인이다. 통합 ComfyUI 기반 환경에서 스크립트 분석, 스토리보드 작성, 영상 생성을 오케스트레이션한다.",
+ "title": "KupkaProd Cinema Pipeline: 로컬 에이전틱 AI 영화 스튜디오",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

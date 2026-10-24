@@ -1,0 +1,10 @@
+{
+ "id": "n-612fbb9ad1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "dc4ba5668fc1dac2e8a6220ae95009cf723e5cbd6f641cc29c012cd0db6095cb",
+ "summary": "2026-07-29 기준으로 CameraAnything 개발 라인은 프로젝트 페이지, 소스 저장소, Hugging Face 페이지 링크로 대표되었다. 날짜가 기재된 링크만을 근거로 할 때, 이는 프로젝트의 공개 및 배포 이정표로 간주된다.",
+ "title": "CameraAnything 공개 프로젝트 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

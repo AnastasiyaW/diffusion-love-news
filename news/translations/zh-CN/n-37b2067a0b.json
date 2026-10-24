@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻稿介绍了语义与视觉编辑功能，以及中英文文本替换能力，并可在替换过程中保持字体、字号和样式不变。",
+ "id": "n-37b2067a0b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ecb228cf8fba334dc086c573b17f6355303e25d56b8b4ea1844e5a15bad5cf89",
+ "summary": "该新闻稿介绍了语义与视觉编辑功能，以及中英文文本替换能力，并可在替换过程中保持字体、字号和样式不变。",
+ "title": "Qwen-Image-Edit 正式发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

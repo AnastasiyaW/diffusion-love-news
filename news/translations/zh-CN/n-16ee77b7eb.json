@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen 3.5 系列已于 2026 年 5 月中旬被 Qwen 3.6 系列取代，后者增强了多模态性能。Gemma 4 仍是移动端 AI 的首选，而 Qwopus 项目已推进至 3.6 版本，推理能力（CoT）有所提升。",
+ "id": "n-16ee77b7eb",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "模型原生支持 llama.cpp 与 Unsloth Studio；其中 35B MoE 变体尤其针对低延迟的本地生成做了优化。",
+ "source_sha256": "1f258f8997aeffe6d537dd20cf1d969e5894ec9399e5417430358bed065ca064",
+ "summary": "这是一组面向本地推理的 GGUF 量化模型精选合集，包括阿里巴巴的 Qwen 3.5 MoE、谷歌的 Gemma 4 系列，以及专注推理的 Qwopus。这些模型针对消费级 GPU 进行了优化，兼具高速度与多模态能力。",
+ "title": "新的 GGUF 模型：Qwen 3.5、Gemma 4 与 Qwopus",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

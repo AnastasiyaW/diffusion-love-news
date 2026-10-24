@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在早期 ThinkSound 研究的基础上，PrismAudio 为语义、时间、审美和空间音频特征引入了专门的思维链模块，并通过 Fast-GRPO 强化学习进行优化，以提升与人类感知的一致性。",
+ "id": "n-8fe6695c64",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "已被 ICLR 2026 接收；能够在 0.7 秒内生成 9 秒高保真空间音频，同时减少单体模型中常见的幻觉问题。",
+ "source_sha256": "0ac2a3d54994243ec7f7338959afbfd0787121c2f5777b7b9c4682a7cc1cfdb8",
+ "summary": "一个先进的框架，利用四维分解式思维链（Chain-of-Thought）推理，从视频生成同步的立体声音效。该框架由阿里巴巴 FunAudioLLM 团队开发，借助强化学习确保高感知准确性和时间对齐。",
+ "title": "PrismAudio：基于分解式思维链的视频转音频生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

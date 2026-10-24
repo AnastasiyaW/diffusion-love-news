@@ -1,0 +1,10 @@
+{
+ "id": "n-ce5fa969a2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2dfc160f9e75b8c0e42af1e881dcac071625bdcf2b21ff3697754eff6f40131b",
+ "summary": "Am 22.03.2026 verlinkte eine datierte Nachricht das GitHub-Repository von dots.mocr, zwei Hugging-Face-Ressourcen und eine Projektwebseite. Damit ist ein öffentlicher Bezugspunkt in der Entwicklungslinie des Projekts festgehalten, einschließlich einer separat verlinkten SVG-bezogenen Ressource. Der zugrunde liegende Beitragsinhalt sowie die Art eines etwaigen Releases oder Updates lagen nicht vor; dieser Eintrag behauptet daher weder Fähigkeiten, Versionen noch Leistungswerte.",
+ "title": "Ressourcen des dots.mocr-Projekts verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

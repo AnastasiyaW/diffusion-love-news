@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 2 月被 Foundry 收购。该项目从一个通用型 Python AI 智能体框架，演变为 Foundry 以 AI 为先的视觉特效战略及 Nuke 集成的核心基础设施层。",
+ "id": "n-ebeab9837a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "集成了 VOID 用于自动化干净底板（clean plate）生成，并集成 SAM3.1 用于实时多目标跟踪（Object Multiplex 架构）。",
+ "source_sha256": "8975201a98c982097726691084af3761fffdd4fc79f3cf7d83913cd82226f13d",
+ "summary": "一个用于在专业视觉特效中构建复杂 AI 流水线的框架与可视化编排平台。它支持基于节点的工作流，用于运行 Netflix 的 VOID（视频修补）和 Meta 的 SAM3.1（高速分割）等先进模型。",
+ "title": "面向视觉特效的 Griptape AI 编排平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

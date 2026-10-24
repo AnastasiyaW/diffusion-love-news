@@ -1,0 +1,11 @@
+{
+ "id": "n-5353f88f44",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "模型页面和快速入门页面均未标注日期，且相关的 Playground 链接目前返回错误。",
+ "source_sha256": "4851a9638715d575e9894a3597c16c3283957fc8779324cd03a58ce0a8bed153",
+ "summary": "2026-08-05，FLUX 3 被链接到 Black Forest Labs 的一个模型页面、快速入门文档以及一个文生图 Playground 地址。这些带日期的链接表明产品界面上出现了实质性进展，但它们本身并不能确定模型规格、发布范围或访问条件。",
+ "title": "FLUX 3 已在 Black Forest Labs 多个产品页面中被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

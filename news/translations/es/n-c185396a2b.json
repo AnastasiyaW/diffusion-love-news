@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La publicación describía un generador controlable de mundos de vídeo de 2.6B que produce hasta un minuto de vídeo en 720p en una sola GPU a partir de una imagen y una trayectoria de cámara.",
+ "id": "n-c185396a2b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "cf0ae1d8355f9e18ff1fe70960a68915180cd8966445bf84b7b5a3516cf946b3",
+ "summary": "La publicación describía un generador controlable de mundos de vídeo de 2.6B que produce hasta un minuto de vídeo en 720p en una sola GPU a partir de una imagen y una trayectoria de cámara.",
+ "title": "NVIDIA publica SANA-WM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

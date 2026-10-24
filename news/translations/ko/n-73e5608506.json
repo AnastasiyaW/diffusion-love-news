@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 2026년 4월 arXiv(2604.14004)에 공식 게재되었다. 단일 도메인 자기 진화에서 통합된 교차 도메인 메모리 풀로 전환한 것을 의미하며, GPT-5-mini와 Qwen3-Coder 같은 차세대 모델에서 검증되었다.",
+ "id": "n-73e5608506",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "KAIST AI가 NYU, DeepAuto.ai와 협력하여 개발했으며, 여러 코딩 벤치마크에서 3.7%의 성능 향상을 보였다.",
+ "source_sha256": "007dcebaa6fd1a70320e5ddd5c142a27086a93b59642f31a8bfc540a837823c6",
+ "summary": "KAIST에서 개발한 프레임워크로, AI 코딩 에이전트가 이질적인 도메인 간에 지식을 전이할 수 있게 한다. 저수준의 궤적 로그를 재사용하는 대신 작업 궤적(task trajectory)에서 고수준의 전략적 통찰을 추출함으로써 성능을 향상시킨다.",
+ "title": "AI 코딩 에이전트를 위한 메모리 전이 학습(Memory Transfer Learning, MTL)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-a1c9a6a103",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "cd356900b26d5ecde1cd985e74c3de81d3238a11b29034ae383dd9cb257e2cc6",
+ "summary": "2026-06-17, LlamaServerLauncher 개발 라인이 GitHub 저장소 LlamaServerLauncherAvalonia를 참조했습니다. 현재 확인 가능한 자료로는 저장소 간의 연관성만 확인되며, 릴리스, 코드 변경, 기능 또는 사용 방법은 확인되지 않습니다.",
+ "title": "LlamaServerLauncherAvalonia 저장소가 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

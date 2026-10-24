@@ -1,0 +1,10 @@
+{
+ "id": "n-07db2c49c3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "18f2ca0f2b207a7341665344ecd5bf1fd049b392b43c52d65564025818f8bf82",
+ "summary": "Am 13.07.2026 wurde SAM-MT mit Verweisen auf eine offizielle Projektseite, ein GitHub-Repository und eine Hugging-Face-Seite erfasst. Dies ist ein wesentlicher Schritt in der Entwicklungshistorie, da damit eine öffentliche Projektpräsenz mit Einstiegspunkten zu Quellcode und Modellressourcen etabliert wird. Die datierten Links allein belegen jedoch weder die konkrete Release-Version, die Fähigkeiten noch die Nutzungsbedingungen.",
+ "title": "SAM-MT: Öffentliche Projektressourcen wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

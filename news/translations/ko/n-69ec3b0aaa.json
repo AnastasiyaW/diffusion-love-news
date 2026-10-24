@@ -1,0 +1,10 @@
+{
+ "id": "n-69ec3b0aaa",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "af8b33c0cec1a1a4cb9c92b6575085798616868496a9b2666ef64292f09f4e82",
+ "summary": "2026-03-13, NVILA-HD-Video 개발 라인이 VILA 소스 위치, NVIDIA가 호스팅하는 모델 체크포인트, 그리고 관련 AutoGaze 리소스에 대한 링크와 함께 공개되었습니다. 이 링크들을 통해 구현을 직접 살펴보고 해당 모델을 내려받을 수 있는 실용적인 공개 진입점이 마련되었습니다.",
+ "title": "NVILA-HD-Video, 소스 코드·모델·관련 데모 리소스와 함께 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

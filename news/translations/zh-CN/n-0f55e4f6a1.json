@@ -1,0 +1,10 @@
+{
+ "id": "n-0f55e4f6a1",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "be91830d3da12ab0773fae120854dcec50048afc2043f8f8cbdfcce19bdbb52a",
+ "summary": "2026年8月18日，一篇带日期的帖子链接了 EVIE-Preview-4.5B 的 GitHub 仓库和 Hugging Face 页面。这一对配套项目参考资料为该研发路线提供了一个公开的发现入口。现有证据无法确定该模型的能力、内容、发布状态或许可信息。",
+ "title": "EVIE-Preview-4.5B 的带日期公开参考资料",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

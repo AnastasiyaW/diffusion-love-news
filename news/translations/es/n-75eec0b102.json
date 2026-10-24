@@ -1,0 +1,10 @@
+{
+ "id": "n-75eec0b102",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "54bc94f452e4a89bfffb6b4a898f5fd30f52b32a10f7083927df978fa6335a8b",
+ "summary": "El 8 de junio de 2026 se registró la línea de desarrollo de WavTTS junto con enlaces a su sitio web del proyecto, repositorio de código fuente, página del modelo, demo e integración con ComfyUI. Esto proporciona un punto de referencia público con fecha para localizar el proyecto y las herramientas relacionadas. La evidencia disponible no permite establecer qué versión o cambio de código, si lo hubo, acompañó a los enlaces.",
+ "title": "Se registraron los recursos públicos del proyecto WavTTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

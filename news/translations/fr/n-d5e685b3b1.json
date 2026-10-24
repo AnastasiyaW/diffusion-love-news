@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issu de la série 1.5, il adopte une architecture orientée performance qui délaisse SSML au profit de descriptions intuitives fondées sur des scènes. Il marque un virage vers une maîtrise vocale contextuelle et une scalabilité de niveau entreprise.",
+ "id": "n-d5e685b3b1",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Intègre SynthID pour la traçabilité des contenus et propose plus de 200 balises permettant un contrôle fin de l'émotion et du rythme.",
+ "source_sha256": "2d7fcbb50c980d8605e3a3b94b947a54d155481ffc8ea7e0f54dfa607083a432",
+ "summary": "Un modèle de synthèse vocale avancé de Google qui permet une « performance dirigée » grâce à des invites en langage naturel et à des balises d'émotion insérées dans le texte. Il prend en charge la génération audio haute fidélité à faible latence, avec des capacités natives de dialogue multi-locuteurs pour les applications interactives.",
+ "title": "Gemini 3.1 Flash TTS : contrôle vocal de haute précision",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

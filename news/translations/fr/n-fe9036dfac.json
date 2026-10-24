@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'un prototype de recherche initial à un système multi-agents complet comprenant les composants PlayDeveloper, PlayRefiner et PlayTester. Il a été présenté à FSE 2026 comme une avancée majeure dans la réparation automatique de programmes pour les GUI.",
+ "id": "n-fe9036dfac",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend PlayTester, qui utilise des modèles vision-langage pour vérifier l'état de l'interface graphique à partir de captures d'écran et d'interactions utilisateur simulées.",
+ "source_sha256": "b1e3f285650ec291186d486a88a5ac1543e0335fc6c776e6b847133b68a36bbb",
+ "summary": "Un framework multi-agents développé par Tencent, conçu pour corriger les erreurs comportementales et logiques dans le code GUI généré par des LLM. Il s'appuie sur des tests d'interaction automatisés et un retour visuel afin de garantir que les applications générées sont fonctionnelles, et pas seulement compilables.",
+ "title": "PlayCoder : rendre jouable le code GUI généré par des LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "원래 연구용 구현이었던 Prompt-Relay는 Wan 2.2 및 LTX 2.3 생태계에 통합된 표준 유틸리티가 되었습니다. 현재는 LTX Director 타임라인 편집기와 다중 이벤트 스토리텔링을 위한 여러 ComfyUI 노드의 핵심 구성 요소입니다.",
+ "id": "n-d4f61075f4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "추가 학습이나 파인튜닝 없이, 확산(diffusion) 기반 비디오 모델에서 시간적 얽힘(temporal entanglement) 문제를 효과적으로 해결합니다.",
+ "source_sha256": "2638b1ba202c81f97652585019ad84adddf392e3971abcfc075e67503c5ca473",
+ "summary": "프롬프트를 특정 시간 구간으로 라우팅하여 비디오 생성에서 정밀한 시간순 제어를 가능하게 하는, 학습이 필요 없는(training-free) 추론 방법입니다. 교차 어텐션(cross-attention) 메커니즘에 거리 기반 페널티를 적용하여 이벤트 간 의미 누출(semantic leakage)을 억제합니다.",
+ "title": "Prompt Relay: 비디오를 위한 추론 시점 시간 제어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

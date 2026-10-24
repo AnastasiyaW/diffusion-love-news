@@ -1,0 +1,10 @@
+{
+ "id": "n-f0c1036242",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0b55e01089dbf8798126dbbdbafc0b2c3fd56b72c64bafe77cc2647acdd45c8b",
+ "summary": "2026年8月24日，MiniMax-H3 x Z-Image 开发线与 Hugging Face 上的两个链接建立了关联，分别对应一个原生（native）仓库和一个 GGUF 仓库。这一分发步骤意义重大，因为它标明了两个模型格式的获取入口；但现有记录并未确认这两个仓库的发布状态、内容或兼容性。",
+ "title": "MiniMax-H3 x Z-Image 原生仓库与 GGUF 仓库已完成关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

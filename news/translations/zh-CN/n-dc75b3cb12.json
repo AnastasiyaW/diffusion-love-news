@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖报道了一款八步信息图 LoRA，支持中英文文本与结构化版式，可在消费级 GPU 上运行，并提及文字重复与白底等失效模式。",
+ "id": "n-dc75b3cb12",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f2ee2e44107ab209c5b4a7434af3397d9ff18eb8010d2661a9963d0c2f20051e",
+ "summary": "该新闻帖报道了一款八步信息图 LoRA，支持中英文文本与结构化版式，可在消费级 GPU 上运行，并提及文字重复与白底等失效模式。",
+ "title": "SenseNova U1 信息图 LoRA 给出八步生成路径",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-f1f27d1e3a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "37d7e474996af62d0aa45cc6c9cae6a12092831f5a8f626235bd7619d4988624",
+ "summary": "2026-08-16, aim-uofa/sma 스레드의 한 메시지가 Spatial Memory Agent 프로젝트 페이지를 링크했다. 이는 날짜가 명시된 프로젝트 참조를 확인해 줄 뿐, 릴리스, 기능, 또는 연구 결과를 입증하지는 않는다.",
+ "title": "Spatial Memory Agent 프로젝트 페이지가 링크됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

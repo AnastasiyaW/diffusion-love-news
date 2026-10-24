@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Tool hat sich von einem einfachen JSON-Warteschlangen-Hilfsprogramm für Wan2GP zu einem umfassenden Full-Stack-Workspace (Vite/Express) entwickelt. Es umfasst nun ein visuelles Storyboard, eine Zeitleiste, eine Versionshistorie für „Takes“ sowie spezialisierte Werkzeuge für die Synchronisation von KI-Musikvideos.",
+ "id": "n-19adc0c7af",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Speziell für das Wan2GP/LTX-2-Ökosystem optimiert und unter der Marke ByteSound entwickelt.",
+ "source_sha256": "3f5b12312b9880de61c604c109acd07d0410d43c1216461206f8875f32c5accf",
+ "summary": "Eine Open-Source-„Director's Console“, die komplexe KI-Videoworkflows, die Organisation von Storyboards und die Stapelgenerierung verwaltet. Sie dient als strukturiertes Frontend für Modelle wie LTX-2 und bietet eine zeitleistenbasierte Einstellungsverwaltung von Einstellungen sowie kaskadierende Parametersteuerung.",
+ "title": "ByteCut Director: KI-Videoproduktions-Workspace",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

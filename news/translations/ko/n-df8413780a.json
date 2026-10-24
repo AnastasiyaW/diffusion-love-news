@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "단순한 노이즈 추가 도구에서 출발해, 샷 노이즈(Shot noise)와 리드 노이즈(Read noise)를 포함한 실제에 가까운 센서 노이즈 모델링과 전문 카메라 메타데이터 프리셋을 갖춘 RAW/DNG 워크플로 엔진으로 발전했습니다.",
+ "id": "n-df8413780a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "AI로 생성된 이미지가 실제 사진처럼 보이도록 하여 AI 탐지 시그니처를 우회하기 위해 특별히 설계된 도구들이 포함되어 있습니다.",
+ "source_sha256": "64cf4e3eb354811927f7a7bab7effbd9266141313ab08fa92e92d51d770833c9",
+ "summary": "고급 후처리, RAW 이미지 조작, 센서 노이즈 시뮬레이션을 위한 ComfyUI 노드 모음입니다. DNG 출력과 카메라별 EXIF 메타데이터 통합을 지원하여 전문 사진 작업 워크플로를 뒷받침합니다.",
+ "title": "RAW 워크플로와 포토리얼리즘을 위한 ComfyUI-zveroboy-photo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

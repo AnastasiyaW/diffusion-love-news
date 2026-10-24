@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "해당 뉴스 게시글은 Plan Mode, 비전 라우팅, Zed 인증, 워크플로 제어, Windows 여러 줄 붙여넣기 수정, 서브에이전트 및 UI 개선 사항을 보도했다.",
+ "id": "n-ae780669a1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "db335d4e6e70a017da445430003428e78e2e8e37c2d4989df2b681b4b610fbe5",
+ "summary": "해당 뉴스 게시글은 Plan Mode, 비전 라우팅, Zed 인증, 워크플로 제어, Windows 여러 줄 붙여넣기 수정, 서브에이전트 및 UI 개선 사항을 보도했다.",
+ "title": "Qwen Code v0.0.12-v0.0.14, 플래닝과 비전 기능 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

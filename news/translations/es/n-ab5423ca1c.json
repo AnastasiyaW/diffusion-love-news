@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026, los hallazgos del estudio están sirviendo actualmente de base para el desarrollo de arquitecturas de próxima generación como OLMo 4 y las mejoras del clúster OMAI anunciadas en mayo de 2026.",
+ "id": "n-ab5423ca1c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El conjunto requirió 170.000 horas de H100 e incluye 38 checkpoints para cada uno de los 26 modelos, con el fin de analizar en qué punto la capacidad de contexto largo 'se quiebra'.",
+ "source_sha256": "e47fdb543be1b63811c0281e98209dac278c187103a772b02a56b7e262d50736",
+ "summary": "Un conjunto de 26 modelos de código abierto de 7B publicado por Allen AI para investigar cómo decisiones arquitectónicas como la normalización QK y la atención de ventana deslizante determinan el rendimiento en contextos largos. Aísla combinaciones 'catastróficas' concretas que degradan la extensión del contexto casi un 50 % a pesar de usar datos de entrenamiento idénticos.",
+ "title": "OlmPool: estudio arquitectónico de AI2 sobre contextos largos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

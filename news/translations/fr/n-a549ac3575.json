@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Succède au modèle Lyra original, en passant d'une reconstruction en propagation avant (feed-forward) à une boucle récupération-génération-mise à jour pour la génération continue de mondes. Il introduit un entraînement auto-augmenté pour prévenir la dérive temporelle et permet l'export en 3D Gaussian Splatting haute fidélité.",
+ "id": "n-a549ac3575",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "S'intègre à NVIDIA Isaac Sim pour l'entraînement de l'IA incarnée ; comprend une interface graphique interactive pour la planification de trajectoires de caméra et l'exploration de mondes en temps réel.",
+ "source_sha256": "98560a687c15c55b3576e812df12069bc286334367f28cddf47cb12a479d91a6",
+ "summary": "Développé par le Spatial Intelligence Lab de NVIDIA, Lyra 2.0 génère à partir d'une seule image des environnements 3D persistants et explorables. Il s'appuie sur une mémoire géométrique 3D par image, qui maintient la cohérence spatiale lors de la navigation sur de longs horizons.",
+ "title": "Lyra 2.0 : des mondes 3D génératifs explorables",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

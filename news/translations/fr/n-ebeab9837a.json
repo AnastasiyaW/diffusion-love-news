@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Rachetée par Foundry en février 2026. Le projet est passé d'un framework Python d'agents IA à usage général à la couche d'infrastructure centrale de la stratégie VFX « AI-first » de Foundry et de son intégration dans Nuke.",
+ "id": "n-ebeab9837a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Intègre VOID pour la génération automatisée de clean plates et SAM3.1 pour le suivi multi-objets en temps réel (architecture Object Multiplex).",
+ "source_sha256": "8975201a98c982097726691084af3761fffdd4fc79f3cf7d83913cd82226f13d",
+ "summary": "Un framework et une plateforme d'orchestration visuelle destinés à la création de pipelines IA complexes dans les effets visuels professionnels. Elle permet de construire des workflows à base de nœuds pour des modèles avancés, comme VOID de Netflix pour l'inpainting vidéo et SAM3.1 de Meta pour la segmentation à haute vitesse.",
+ "title": "Plateforme d'orchestration IA Griptape pour les effets visuels",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

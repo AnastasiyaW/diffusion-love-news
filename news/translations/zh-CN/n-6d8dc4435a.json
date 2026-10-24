@@ -1,0 +1,10 @@
+{
+ "id": "n-6d8dc4435a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2c4aa79e2a90f76a6013092813779dfb0b8504f44fe8336748b4414a2f34ae86",
+ "summary": "2026-07-15，该记录收录了一个指向 Civitai 模型页面的链接，该页面标识的模型为 Krea2 TextFusion Refusal-Reduction LoRA。这一带日期的链接可以证明存在一个外部项目产物，但并不能说明其发布、训练、版本或性能细节。",
+ "title": "Krea2 TextFusion 拒答削减 LoRA 的 Civitai 参考记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

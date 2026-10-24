@@ -1,0 +1,10 @@
+{
+ "id": "n-4eb63d4caf",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c7c985c2a61dd840ff95bf506af823eff28c70292ecd3ad5e7aa2c8cdb7bc99",
+ "summary": "Am 06.08.2026 verzeichnete der datierte Link eine GGUF-Distribution von Qwen3-TTS-12Hz-1.7B-Base auf Hugging Face. Dabei handelte es sich um einen nachgelagerten Distributionsschritt und nicht um eine upstream Veröffentlichung des Qwen-Modells, er erweiterte jedoch den Weg zur lokalen Ausführung des Projekts spürbar.",
+ "title": "ggml-org veröffentlicht eine GGUF-Distribution von Qwen3-TTS-12Hz-1.7B-Base",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

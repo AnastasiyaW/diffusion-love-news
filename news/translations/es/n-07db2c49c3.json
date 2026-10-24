@@ -1,0 +1,10 @@
+{
+ "id": "n-07db2c49c3",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "18f2ca0f2b207a7341665344ecd5bf1fd049b392b43c52d65564025818f8bf82",
+ "summary": "El 2026-07-13, SAM-MT quedó registrado con enlaces a una página oficial del proyecto, un repositorio de GitHub y una página de Hugging Face. Se trata de un paso relevante en la historia de desarrollo, porque establece una presencia pública del proyecto con puntos de acceso al código fuente y a los recursos del modelo. Los enlaces con fecha, por sí solos, no permiten confirmar la versión concreta publicada, sus capacidades ni sus condiciones de uso.",
+ "title": "Se vincularon los recursos públicos del proyecto SAM-MT",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

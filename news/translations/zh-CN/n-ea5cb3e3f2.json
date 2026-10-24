@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从基础的工具调用大语言模型演进为 QwenPaw 生态系统中完全自主的“智能体”框架，能够在无需人工提示的情况下执行多步骤任务并进行自我纠错。",
+ "id": "n-ea5cb3e3f2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由阿里巴巴 AgentScope 团队开发；与特定的 LoRA 适配器及 vLLM 执行环境搭配使用时性能最佳。",
+ "source_sha256": "a392fd936c26f296fcb4e8f82fd10a99c34714bca65636433a3359ba94ec2061",
+ "summary": "一款基于 Qwen3.5-9B 架构的专用智能体模型，使用智能体轨迹数据针对自主数据科学工作流进行了专门微调。它能够独立完成完整的分析流程，包括数据清洗、统计画像，以及通过 Python 生成可视化结果。",
+ "title": "CoPaw-Flash-9B：自主数据分析智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

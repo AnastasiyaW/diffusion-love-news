@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "v1.0(오프라인 3D 장면)과 v1.5(실시간 인터랙티브 비디오)에서 발전하여 통합된 3D 재구성/생성 시스템이 되었습니다. 2.0 업데이트에서는 편집 가능한 3D 에셋과 Unreal Engine, Unity, Isaac Sim과의 직접 통합이 도입되었습니다.",
+ "id": "n-1e0d9b8388",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "파노라마용 HY-Pano 2.0, 궤적 계획용 WorldNav, 인터랙티브 3DGS 렌더링용 WorldLens를 포함한 모듈형 파이프라인을 특징으로 합니다.",
+ "source_sha256": "3b114fa3d15e7850ff1b7d05148a9d7b1eccc9f993049dcf240a21cdf3a809fe",
+ "summary": "텍스트, 이미지 또는 비디오로부터 인터랙티브 3D 환경을 재구성하고 생성하는 오픈소스 멀티모달 프레임워크입니다. 주요 게임 엔진과 호환되는 Meshes 및 Gaussian Splatting 같은 프로덕션 준비된 3D 에셋을 생성합니다.",
+ "title": "HY-World 2.0: Tencent의 멀티모달 월드 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

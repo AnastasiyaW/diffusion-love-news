@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de ser un proyecto exclusivamente de investigación a un repositorio de código abierto activo en abril de 2026. Las actualizaciones recientes introdujeron la generación de vídeo condicionada por la velocidad y la publicación del conjunto de datos SloMo-44K, que contiene 18 millones de fotogramas.",
+ "id": "n-b1f200df41",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utiliza los cambios de tono del audio para supervisar el aprendizaje temporal y aplica equivarianza al movimiento para resolver las alucinaciones temporales en la generación de vídeo.",
+ "source_sha256": "5b1166a2b8947c09a4afc227fdaa6ed4c170cffa9bb95db99cc962f039d362b9",
+ "summary": "Un marco de aprendizaje profundo diseñado para percibir y controlar la dinámica temporal en vídeo mediante autosupervisión audiovisual. Permite ajustar con precisión la velocidad de reproducción y realizar superresolución temporal de alta fidelidad al aprender restricciones físicas del movimiento.",
+ "title": "Seeing Fast and Slow: Learning the Flow of Time",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

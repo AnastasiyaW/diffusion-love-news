@@ -1,0 +1,11 @@
+{
+ "id": "n-3efd45843c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ouvrez l'interface ElevenCreative et sélectionnez le studio de génération de personnages.\n\nImportez une image de référence du personnage ou générez un sujet visuel à l'aide d'une invite textuelle.\n\nSélectionnez une voix Eleven v4 ou attribuez au personnage un profil de voix cloné.\n\nSaisissez les dialogues dans l'éditeur de script et insérez des balises d'émotion entre crochets, comme [whispers] ou [laughs], pour guider la diction et l'expression faciale.\n\nLancez le rendu de génération pour exporter la vidéo du personnage avec synchronisation labiale.\n\nPlacez les balises d'émotion immédiatement avant la phrase ou le mot cible afin que le modèle vocal et le générateur vidéo alignent l'expression faciale correspondante sur le ton de la voix.\n\nUtilisez des portraits de référence en haute résolution, de face, avec des traits du visage nets, afin d'éviter les distorsions de synchronisation labiale lors des interprétations émotionnelles complexes.\n\nGardez des segments de dialogue concis pour maintenir la cohérence faciale et éviter la dérive au fil des passes de rendu vidéo prolongées.",
+ "source_sha256": "292224175f65dec200edb8ce53fbfa21553f03249e6298fc14ce8a3b6cdd4796",
+ "summary": "ElevenLabs a présenté Chimera, qui associe son moteur de synthèse vocale expressive Eleven v4 au modèle de génération vidéo Seedance 2.5 afin de produire directement, à partir de scripts textuels, de balises d'émotion et d'images de référence, des personnages parlants synchronisés.",
+ "title": "ElevenLabs intègre le système de personnages IA Chimera à ElevenCreative",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

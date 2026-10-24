@@ -1,0 +1,10 @@
+{
+ "id": "n-a61b804416",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9fefbca25f7ec02931ee5f3115823d80c59f66fe8b59627de30224dc1ef912ba",
+ "summary": "2026年6月20日，LTX-2.3 开发线新增了一个带日期的链接，指向 Hugging Face 资源 Lightricks/LTX-2.3-22b-IC-LoRA-Cross-Eyed。该资源作为一个独立命名的项目产物值得关注，但现有证据并未说明其功能特性、发布细节或预期工作流程。",
+ "title": "LTX-2.3 IC-LoRA Cross-Eyed 模型资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von einem auf Gedächtnis fokussierten Framework zu einem umfassenden Ökosystem als „Digital Partner“ mit 3D-Visualisierung des Gedächtnisses und autonomer Orchestrierung von Workflows.",
+ "id": "n-dd8d68b69f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Pavel Muntyan (Schöpfer von Mr. Freeman). Der Ansatz ist „Sovereign-by-Design“: Alle Daten verbleiben in einer lokalen SQLite-Datenbank.",
+ "source_sha256": "81c3fb5dc215544b503288d04fdd39a8e62621e8c9c00f6b606e54256fc0f476",
+ "summary": "Ein quelloffener, lokal ausgerichteter Orchestrator für KI-Agenten, der hierarchische 3D-Wissensgraphen und Gesprächszusammenfassungen (Conversation Rollups) nutzt, um das Langzeitgedächtnis zu verwalten. Er priorisiert den Datenschutz und unterstützt über das Model Context Protocol mehrere LLM-Anbieter.",
+ "title": "MF0-1984: Langzeitgedächtnis für multimodale KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

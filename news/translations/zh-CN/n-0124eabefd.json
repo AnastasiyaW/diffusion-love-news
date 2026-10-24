@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从原始的模型封装演变为基于 Tauri 的完整桌面套件，具备操作系统级听写小组件和 MCP 服务器集成功能。现在它采用 'uv' 包管理器，实现零依赖的本地引导启动。",
+ "id": "n-0124eabefd",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "集成了用于音频分离的 Demucs，并规划了集成 Wav2Lip v2 以提升视频配音的真实感。",
+ "source_sha256": "806b1dc9c6d906c0e49719a87cd2e8152ee9feb3ed81a80a0247556499541933",
+ "summary": "一款注重隐私的桌面应用，支持零样本语音克隆、影视级配音以及覆盖 600 多种语言的实时听写。它完全在本地运行，支持 NVIDIA、Apple Silicon 和 AMD 加速器。",
+ "title": "OmniVoice Studio：本地语音克隆与配音",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

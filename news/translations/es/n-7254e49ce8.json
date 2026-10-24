@@ -1,0 +1,10 @@
+{
+ "id": "n-7254e49ce8",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f177fa3645bf4fd844ee87a38b56b4f29e4a1333d5cc25ea802c6cc478597c23",
+ "summary": "El 2026-05-29, un registro fechado remitió a los lectores a una colección de Hugging Face dedicada a Bonsai Image y a un Space de WebGPU asociado al proyecto. Se considera un evento relevante de distribución y de acceso para evaluación, ya que identifica recursos públicos concretos del proyecto. Los enlaces por sí solos no permiten establecer si en esa fecha se produjo una publicación de modelo, una actualización o un benchmark.",
+ "title": "Bonsai Image 4B se dio a conocer a través de recursos de Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

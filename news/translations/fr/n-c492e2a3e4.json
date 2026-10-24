@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après la sortie initiale de la version v1, le modèle a été optimisé pour LTX-2.3 Distilled 1.1 et intégré à ComfyUI avec des nœuds spécialisés. Il est désormais fréquemment utilisé en tandem avec l'IC-LoRA Union Control pour des transferts vidéo-vers-vidéo avancés.",
+ "id": "n-c492e2a3e4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entraîné par Cseti à l'aide de 77 paires vidéo de haute qualité sur 10 500 étapes. Il fonctionne au rang 32 et s'utilise généralement avec une force de LoRA comprise entre 0,7 et 1,0.",
+ "source_sha256": "77a09b8204d18ee0932abed002d994970b4602268ca2bebc517f69445c8aa527",
+ "summary": "Un In-Context LoRA conçu pour LTX-Video 2.3 qui reproduit les mouvements de caméra d'une vidéo de référence sur une scène décrite par un prompt textuel. Il permet un contrôle cinématographique précis des zooms, panoramiques et travellings orbitaux grâce au conditionnement par le mouvement.",
+ "title": "IC-LoRA Cameraman pour LTX-Video 2.3",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

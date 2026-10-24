@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 원래 dense Qwen 모델을 기반으로 시작했으며, Fine-grained Sub-matrix Splitting과 Drop-Upcycling을 적용하며 발전했습니다. Marco-Mini-Global과 같은 현재 버전은 64개 언어를 지원하며, 충분한 서비스를 받지 못하는 언어 공동체를 대상으로 합니다.",
+ "id": "n-15fd6206af",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "다국어 평가를 위한 CulturAll 벤치마크를 소개했습니다. tied embedding 레이어를 올바르게 처리하려면 vLLM을 통해 배포하는 것이 가장 적합합니다.",
+ "source_sha256": "4056ee1607ef99968bac997e5728e74b7e3c57b36c3f3c27cf5d30568533e791",
+ "summary": "효율적인 다국어 성능을 위해 설계된 초희소(hyper-sparse) Mixture-of-Experts 모델 시리즈입니다. Alibaba AIDC가 개발한 이 모델들은 토큰당 파라미터의 5~7.5%만 활성화하여 일반 소비자용 하드웨어에서도 빠르게 실행됩니다.",
+ "title": "Marco-MoE: Alibaba AIDC가 공개한 오픈 다국어 MoE 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

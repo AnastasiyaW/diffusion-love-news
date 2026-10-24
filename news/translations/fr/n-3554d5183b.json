@@ -1,0 +1,10 @@
+{
+ "id": "n-3554d5183b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "34253fde6d436bb7d2e721f0f0cbdc151f43cd8e009ed2ec4b3b7d08bc645e17",
+ "summary": "Le 2026-08-03, PrunaVAED a été relevé dans le fil de développement de LTX Video, avec des liens vers son dépôt Hugging Face et une pull request ComfyUI. Il s'agit d'une étape notable pour l'intégration, bien que les éléments fournis n'établissent ni le résultat de la pull request, ni sa version, ni son comportement à l'exécution.",
+ "title": "PrunaVAED entre dans le fil d'intégration de LTX Video",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

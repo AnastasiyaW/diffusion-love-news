@@ -1,0 +1,11 @@
+{
+ "id": "n-bb135c22d6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "En Linux con Python 3.12 y uv, cree el entorno virtual documentado, instale el paquete en modo editable y ejecute la demostración sin credenciales antes de conectar un modelo.\n\nPara una ejecución con modelo, instale el entorno de ejecución y las dependencias de benchmark indicadas, configure los ajustes del modelo y la autenticación, y luego comience con una sola tarea del benchmark y una selección pequeña.\n\nEjecute la verificación, el refinamiento, la valoración y la generación de informes con el mismo benchmark, ejecutor, subconjunto, presupuesto de recursión, modo y semilla; utilice el modo de simulación (dry-run) para inspeccionar la selección de tareas sin llamadas al modelo.\n\nElija la recursión paralela para explorar más ampliamente los arneses candidatos, o la recursión secuencial para llevar los refinamientos a través de pasos sucesivos; conserve los arneses adoptados únicamente junto con la evidencia de ejecución que los respalda.\n\nConfigure las restricciones de red antes de la evaluación para que las rúbricas, respuestas o criterios de calificación públicos del benchmark no puedan filtrarse a un ejecutor con acceso web sin restricciones.\n\nMantenga la configuración de evaluación idéntica a la del refinamiento al valorar y generar informes; cambiar el benchmark, el ejecutor, el subconjunto, el modo de recursión, el presupuesto o la semilla invalida un resultado comparable en igualdad de condiciones.\n\nTrate los presupuestos de recursión más grandes como un compromiso explícito entre cómputo y rendimiento: el artículo contabiliza tanto los tokens de ejecución como los de mejora, y sus mejoras solo se midieron en las configuraciones de benchmark evaluadas.",
+ "source_sha256": "b043819f49f3b9d11c834c7dab0aa12f7b099c9943f66ff8ea4a2c118bdc4f12",
+ "summary": "La implementación ofrece recursión paralela y secuencial para JobBench, LAB y WorkBuddy-Bench, y los operadores son responsables de configurar las restricciones de red de la evaluación.",
+ "title": "Harness² admite experimentos de benchmark con OpenCode y Codex",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

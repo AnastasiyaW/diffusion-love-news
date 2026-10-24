@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Vorgestellt im April 2026 zur ICML, führte OmniShow das RAP2V-Framework und den Evaluierungs-Benchmark HOIVG-Bench ein. Derzeit gilt es als eine führende Lösung für einheitliche multimodale Konditionierung in der Videogenerierung.",
+ "id": "n-03e4a812c8",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von ByteDance in Zusammenarbeit mit großen Forschungsuniversitäten, darunter CUHK und HKU.",
+ "source_sha256": "ece3b672c34e72d912aa2220d3b006978d30d3e585222f8b1e407b25094728d0",
+ "summary": "OmniShow ist ein End-to-End-Framework zur Generierung hochwertiger Videos, in denen Menschen mit Objekten interagieren, auf Grundlage von Bildern, Audio und Posen. Es ist auf präzise Bewegungssteuerung und Lip-Sync für E-Commerce- und digitale Avatar-Anwendungen spezialisiert.",
+ "title": "OmniShow: Einheitliche multimodale Generierung von Mensch-Objekt-Interaktionsvideos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

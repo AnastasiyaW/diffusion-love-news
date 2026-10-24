@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seed3D 2.0 由 Seed3D 1.0 演进而来，采用两阶段 DiT 流水线和基于 MoE 的材质引擎。新增了面向机器人仿真的 URDF 导出功能、功能部件分解，以及场景级生成能力。",
+ "id": "n-ea73b925dc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在几何精度方面显著领先 Hunyuan3D 和 Tripo；可通过字节跳动的火山引擎 API 使用。",
+ "source_sha256": "b12a1aa845690fafc7e06156471f3de37c68dcf9f54ddab29ae06095bdcae2af",
+ "summary": "Seed3D 2.0 是一款最先进的生成式模型，用于创建带有基于物理的渲染（PBR）纹理的高保真3D资产。它采用由粗到精的 DiT 架构和专家混合（MoE）扩展方式，可生成适用于机器人和工业工作流程的仿真就绪模型。",
+ "title": "Seed3D 2.0：字节跳动面向生产环境的3D基础模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

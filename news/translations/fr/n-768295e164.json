@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La série est passée des modèles spécialisés V1.0/V2.0 à une architecture unifiée avec la V2.5, publiée en open source sous licence MIT en avril 2026 et intégrée à l'écosystème HyperOS pour des réponses en moins d'une seconde sur les appareils mobiles.",
+ "id": "n-768295e164",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend MiMo-V2.5-Pro, qui dépasse 1 000 milliards de paramètres (42B actifs) et affiche des performances compétitives sur les benchmarks SWE-bench Pro.",
+ "source_sha256": "21e464be89ccbfe5bde442ad609c8a03a401f08460cbabf96753172e41b9e2c0",
+ "summary": "Famille de modèles multimodaux natifs unifiés de Xiaomi, dotée d'une fenêtre de contexte de 1 million de tokens couvrant les entrées textuelles, image, vidéo et audio. Elle repose sur une architecture Mixture-of-Experts épars et une attention hybride, ce qui lui permet d'atteindre une grande efficacité sur des tâches agentiques complexes.",
+ "title": "Modèles de raisonnement omnimodaux Xiaomi MiMo V2.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

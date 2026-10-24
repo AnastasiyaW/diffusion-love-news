@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 5 月推出，是对 1.5 版本的重大升级，重点从单纯的音频保真度转向情感语境感知。目前处于研究预览阶段，并已成为对话式 AI 延迟与表现力方面的一项基准。",
+ "id": "n-2ffed2d338",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Inworld AI 开发；该模型在 Artificial Analysis Speech Arena 中持续位居榜首，并与 OpenAI 的 Realtime API 直接竞争。",
+ "source_sha256": "e540ba8706d00d3d01b8938bb1e4a0a93ec57d08940ae8b69e33affb2cf82caa",
+ "summary": "一款低延迟的对话式语音 AI，能够根据用户的音频输入动态调整语气和情感表达。它具备用于社会推理的“行为层”，并支持跨 100 多种语言的自然语言引导。",
+ "title": "Inworld Realtime TTS-2：具备情感表达能力的 AI 语音系统",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

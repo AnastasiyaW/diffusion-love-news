@@ -1,0 +1,10 @@
+{
+ "id": "n-c46744cf6a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "20df25e44f5592476b5d945d1f08b39f9e81855bae95f2d87835fe6d3d29fd52",
+ "summary": "Am 04.08.2026 verlinkte Liquid AI einen Blogbeitrag und Hugging-Face-Ressourcen zu LFM2.5-2.6B. Zu den verlinkten Ressourcen gehörten die Modellseite, eine Übersicht quantisierter Modelle, ein WebGPU-Space und ein Playground. Damit markiert der Schritt die öffentliche Verfügbarkeit dieser Modellreihe.",
+ "title": "Liquid AI veröffentlicht die Modellreihe LFM2.5-2.6B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

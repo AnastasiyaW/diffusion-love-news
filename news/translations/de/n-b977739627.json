@@ -1,0 +1,10 @@
+{
+ "id": "n-b977739627",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "70df76e9a127769dc579cc402c73aa3fedaf03d7665573f2945db9767e50d258",
+ "summary": "Am 18.03.2026 hat die Entwicklungslinie Zeta-Chroma einen Link zu einem Safetensors-Artefakt im Hugging-Face-Repository des Projekts erfasst. Verlinkte Social-Media- und Repository-Diskussions-URLs ordnen den Eintrag derselben Projektlinie zu. Die vorliegenden Links belegen jedoch weder die Fähigkeiten, das Training, die Lizenzierung noch die Veröffentlichungsbedingungen des Artefakts.",
+ "title": "Zeta-Chroma-Basismodell-Artefakt erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

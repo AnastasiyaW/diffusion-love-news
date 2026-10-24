@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Chandra OCR 2는 2026년 3월에 원본 모델의 주요 업데이트로 출시되었으며, 파라미터 수를 9B에서 4B로 줄이면서 벤치마크 성능을 12% 향상시켰습니다. Mermaid 형식의 다이어그램과 화학 분자 구조를 추출하는 새로운 기능도 도입되었습니다.",
+ "id": "n-840bb8c6c7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "90개 이상의 언어를 지원하며 남아시아 문자 체계에 대한 특화된 개선이 포함되어 있습니다. Datalab이 개발했으며, 현재 독점 OCR 솔루션의 대안으로서 최상위권 오픈소스 모델로 평가받고 있습니다.",
+ "source_sha256": "150ac5215f89ee565644307d6ef606fff88be13f6c588d6b7d8b53bbaf7b2189",
+ "summary": "이미지와 PDF를 구조화된 Markdown, HTML 또는 JSON으로 변환하도록 설계된 최첨단 비전-언어 모델입니다. 다단 텍스트, 병합된 셀이 있는 표, 수식을 포함한 복잡한 레이아웃을 보존합니다.",
+ "title": "Chandra OCR 2: 오픈소스 문서 이해 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

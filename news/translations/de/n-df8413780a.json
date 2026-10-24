@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelte sich von einfachen Werkzeugen zum Hinzufügen von Rauschen zu einer ausgereiften Engine für RAW/DNG-Workflows, einschließlich authentischer Modellierung von Sensorrauschen (Shot- und Read-Rauschen) sowie professioneller Kamera-Metadaten-Presets.",
+ "id": "n-df8413780a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält Werkzeuge, die gezielt darauf ausgelegt sind, KI-generierte Bilder wie echte Fotografien erscheinen zu lassen, um KI-Erkennungssignaturen zu umgehen.",
+ "source_sha256": "64cf4e3eb354811927f7a7bab7effbd9266141313ab08fa92e92d51d770833c9",
+ "summary": "Eine Sammlung von ComfyUI-Nodes für fortgeschrittene Nachbearbeitung, RAW-Bildbearbeitung und Simulation von Sensorrauschen. Sie unterstützt professionelle Fotografie-Workflows durch DNG-Ausgabe und die Integration kameraspezifischer EXIF-Metadaten.",
+ "title": "ComfyUI-zveroboy-photo für RAW-Workflows und Fotorealismus",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

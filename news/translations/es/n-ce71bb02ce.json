@@ -1,0 +1,11 @@
+{
+ "id": "n-ce71bb02ce",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast gestionaba texto/imagen a vídeo, mientras que Pro añadió audio a vídeo, Retake y Extend; se publicaron los pesos dev/distilled de 22B y los upscalers latentes.",
+ "source_sha256": "f9cc3d7eeeccb580b6cdea5fb8101846aa3a2a451481db82743e55622f8240b0",
+ "summary": "El 2026-03-05 se enlazaron los archivos del modelo LTX-2.3 en Hugging Face y una plantilla de flujo de trabajo de texto a vídeo para ComfyUI. Se trata de un paso de integración relevante, ya que conecta la línea de modelos con una ruta de flujo de trabajo local y reproducible para los profesionales.",
+ "title": "Se enlazaron los archivos del modelo LTX-2.3 y una plantilla de flujo de trabajo de texto a vídeo para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

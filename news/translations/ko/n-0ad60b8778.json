@@ -1,0 +1,10 @@
+{
+ "id": "n-0ad60b8778",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f1ad0343cccc1e6edbd3877d15d3b0e80e61ac4cec9ccdcf26b053b8be80ff3d",
+ "summary": "2026-08-12 기준으로, Nemotron 3.5 Lightning 개발 라인은 NVIDIA의 Hugging Face 모델 페이지, 관련 모델 검색 결과, NVIDIA가 호스팅하는 플레이그라운드로 연결되는 공개 링크를 통해 문서화되었다. 같은 링크 세트는 이 라인을 NVIDIA-NeMo Switchyard 저장소 및 DSpark 변형 모델과도 연결하여, 해당 시점의 공개 배포 현황과 관련 도구 구성을 보여준다.",
+ "title": "Nemotron 3.5 Lightning 공개 모델 및 플레이그라운드 리소스 확인",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

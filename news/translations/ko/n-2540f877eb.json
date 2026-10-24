@@ -1,0 +1,10 @@
+{
+ "id": "n-2540f877eb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2529c20ad08c54707b907123178bb403fe0fe69839cead4cd764688017933534",
+ "summary": "2026-05-18, 기록에는 Qwopus3.5-9B-Coder의 GGUF 배포본을 위한 Hugging Face 저장소가 남아 있습니다. 이는 프로젝트를 위한 추론 지향 모델 아티팩트를 식별한다는 점에서 의미 있는 배포 단계입니다. 다만 제공된 링크만으로는 해당 아티팩트의 정확한 양자화 방식, 출처, 또는 상위 릴리스와의 관계를 확인할 수 없습니다.",
+ "title": "Hugging Face에 기록된 Qwopus3.5-9B-Coder GGUF 배포본",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

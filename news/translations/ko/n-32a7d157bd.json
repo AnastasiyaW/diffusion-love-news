@@ -1,0 +1,10 @@
+{
+ "id": "n-32a7d157bd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7dc04cecf38d6a2934418bd68284e8e01eda1eacf9cf83839d856993c1f06f70",
+ "summary": "2026-08-22, 이 개발 라인은 Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF라는 이름의 Hugging Face 저장소를 연결했다. 날짜가 기록된 이 링크는 프로젝트와 연관된 공개 모델 아티팩트를 보여주므로, 개발 이력상의 한 사건으로 남긴다.",
+ "title": "Qwen3.8-27B-Uncensored HauhauCS Aggressive MTP GGUF용 Hugging Face 저장소 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

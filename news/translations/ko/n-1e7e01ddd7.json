@@ -1,0 +1,10 @@
+{
+ "id": "n-1e7e01ddd7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6b2cd91caf082a48f67a6b97d87693b5c9ad3601aea151c0050b3652b2dd28c4",
+ "summary": "2026-03-29, 날짜가 기록된 Calibri 항목이 독자를 프로젝트 페이지, GitHub 저장소, Hugging Face 모델 컬렉션으로 안내했다. 이 링크들을 종합하면 프로젝트 정보, 소스 코드, 모델 아티팩트가 누구나 확인할 수 있는 상태로 공개되었다는 개발 단계의 이정표를 보여준다. 제공된 근거만으로는 특정 버전, 릴리스 상태, 기능은 확인되지 않는다.",
+ "title": "Calibri 프로젝트 리소스가 공개적으로 검색 가능해짐",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

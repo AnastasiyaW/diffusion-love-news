@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "ICML 2026에 채택되었습니다. 현재 프로젝트는 150,000개의 물리적 주석이 달린 에셋을 포함하는 PhysDB 데이터셋 공개와 함께 오픈소스 전환을 진행 중입니다.",
+ "id": "n-ee38e77991",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "HKU와 Tencent Hunyuan의 협업 연구이며, 특히 로봇 매니퓰레이션과 embodied AI 시뮬레이터를 위해 설계되었습니다.",
+ "source_sha256": "1e27c052f07beda0c36af26c45930e5a818faafd31b0955408ad7846ffb374bf",
+ "summary": "PhysForge는 기능적 부품과 운동학적 제약을 갖춘, 시뮬레이션에 바로 사용할 수 있는 3D 에셋을 생성하기 위한 연구 프레임워크입니다. 블루프린팅에는 Vision-Language Model을 활용하고, 물리적으로 일관된 형상과 인터랙티브 로직을 합성하기 위해 특화된 diffusion 메커니즘을 사용합니다.",
+ "title": "PhysForge: 물리 기반 인터랙티브 3D 에셋 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

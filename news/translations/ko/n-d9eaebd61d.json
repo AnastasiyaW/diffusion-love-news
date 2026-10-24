@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 오픈소스 Wan 2.1/2.2 기반에서 상업용 멀티모달 제품군으로 전환되었습니다. Wan 2.7은 'Thinking Mode' 추론을 도입했으며, 이미지와 비디오 전문 브랜치로 분리되어 현재 Sora 2 및 Kling 2.6과 경쟁하고 있습니다.",
+ "id": "n-d9eaebd61d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "알리바바 통이연구소에서 개발했으며, 여러 생성 결과에 걸쳐 캐릭터와 스타일의 일관성을 유지하기 위해 9-grid 다중 이미지 입력 시스템을 갖추고 있습니다.",
+ "source_sha256": "64602f939c6446b9ba2433932e445663498d5b59367e4cdaa7eddafacffc9c70",
+ "summary": "알리바바 통이연구소(Tongyi Lab)의 전문 이미지 생성 및 편집 도구로, 고급 의미 추론을 위한 'Thinking Mode'와 다중 참조 얼굴 제어 기능을 갖추고 있습니다. 4K 해상도 출력을 지원하며, 고급 디자인 워크플로를 위해 정밀한 hex 코드 색상 관리를 제공합니다.",
+ "title": "Wan 2.7-Image (Pro)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

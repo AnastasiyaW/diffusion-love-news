@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目曾获 ModelScope LoRA 训练大赛冠军,随后成为 Qwen-Image-Edit(QIE-2511)生态系统的核心组件。目前它支持本地推理应用,并定期获得兼容性更新。",
+ "id": "n-250fdb3b1b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 ovi054(Avi Pal)开发;针对亚秒级推理以及高保真的“参考到色板”匹配进行了优化。",
+ "source_sha256": "6396632ea05019125494921beca37d1a8a5d33c86ba16439adcada941eddf647",
+ "summary": "一款专门设计的 LoRA,可利用参考图像实现高保真的自动调色与色板对齐。它支持电影风格迁移,并在图像序列之间保持一致的光照,针对 Qwen-Image-Edit 架构进行了优化。",
+ "title": "面向精确色彩匹配的 Color-Grade-Transfer-LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

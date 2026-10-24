@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seit dem Start hat sich das Projekt von einfachen Agenten-Adaptern zu einer ausgereiften Plattform entwickelt, die sitzungsübergreifendes Gedächtnis und das Wiedergabesystem „Critique Theater“ umfasst. Größere Updates haben die Unterstützung für eine breite Palette von Agenten hinzugefügt, darunter Devin, DeepSeek und Mistral, sowie eine visuelle Galerie zur Verwaltung von Artefakten.",
+ "id": "n-ff21b44ef5",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Doppelt lizenziert unter Apache-2.0 und MIT. Das Projekt folgt dem Modell „Bring Your Own Key“ und bietet mit dem System „Skills are files“ eine besondere Möglichkeit, Agentenfähigkeiten über Markdown zu erweitern.",
+ "source_sha256": "2fcdc9ad0323b6fcaca284e0e6d2b7d5017f59f02aa2341b6aeac267f5551efa",
+ "summary": "Open Design ist ein Local-First-Generator für Design-Artefakte, der sich mit mehreren Coding-Agent-CLIs integriert und so eine quelloffene Alternative zu Claude Design bietet. Er nutzt eine skillbasierte Architektur und unterstützt Offline-Generierung, indem er das System des Nutzers nach verfügbaren KI-Agenten durchsucht.",
+ "title": "Open Design: Local-First-Open-Source-KI-Design-Engine",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

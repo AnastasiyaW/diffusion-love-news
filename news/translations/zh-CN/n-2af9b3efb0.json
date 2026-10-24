@@ -1,0 +1,10 @@
+{
+ "id": "n-2af9b3efb0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "756e56aa7e27b2e1c097aa55161cf0c79c9d3311bb947657b7888206c8ca65c1",
+ "summary": "2026-03-17，该记录登记了指向 Hugging Face 上 Mistral Small 4 119B 2603 Eagle 仓库的链接。仓库名称标明其为一个 Mistral Small 4 模型制品，并带有 119B、2603 和 Eagle 等变体标识。仅凭这一带日期的链接，无法确定其发布状态、能力、许可证或访问条件。",
+ "title": "Mistral Small 4 119B 2603 Eagle 仓库已在 Hugging Face 上建立链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

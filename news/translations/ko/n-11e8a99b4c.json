@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "개발자 중심의 멀티 에이전트 IDE에서 소비자용 로컬 생산성 애플리케이션으로 방향을 전환했습니다. 현재는 Model Context Protocol(MCP)을 통합하고, 지속적인 컨텍스트 그래프를 유지하는 자율형 동료 역할을 합니다.",
+ "id": "n-11e8a99b4c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Y Combinator S24의 지원을 받고 있습니다. Agara AI(Coinbase에 인수됨)의 창업자들이 설립했으며, 완전한 데이터 프라이버시를 강조하고 Ollama를 통한 로컬 LLM 지원을 제공합니다.",
+ "source_sha256": "1fa8dd2afde2e86fce845830011eab9acca1562a514668805a4be103b721636a",
+ "summary": "Rowboat은 이메일과 노트 같은 디지털 데이터를 처리해 살아 있는 지식 그래프를 구축하는 로컬 우선(local-first) AI 어시스턴트입니다. 정보는 사람이 읽을 수 있는 Markdown 파일에 저장되며, 사용자의 기기에서 비공개로 동작합니다.",
+ "title": "Rowboat: 로컬 우선 AI 에이전트이자 개인 지식 그래프",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

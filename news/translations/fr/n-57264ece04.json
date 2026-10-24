@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié dans le cadre de la mise à jour LTX-2.3 pour illustrer la capacité des IC-LoRA à réaliser une édition vidéo-vers-vidéo ciblée et une correction de la mise au point.",
+ "id": "n-57264ece04",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimisé spécifiquement pour le flou optique de l'objectif ; non destiné à la restauration du flou de mouvement ou du flou gaussien.",
+ "source_sha256": "1e5340e460f3b1052395e9bfdfa027fca040a85af193d6d07edbb8db30f957f4",
+ "summary": "Un IC-LoRA spécialisé pour le modèle LTX-2.3 22B, qui corrige le flou optique dans les vidéos. Il permet une restauration précise des séquences hors focus en retrouvant les détails optiques nets.",
+ "title": "Outil de restauration vidéo ReFocus à base d'IC-LoRA pour LTX-2.3 22B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

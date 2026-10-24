@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'un prototype d'ingénierie expérimental à une suite entreprise prête pour la production, dotée d'une optimisation de la mémoire « Dreaming » et d'une correction automatique « Outcomes ». Désormais intégré nativement aux modèles Claude 4.7 pour une orchestration autonome et persistante.",
+ "id": "n-b4bbea9668",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utilise un système de facturation à l'usage basé sur des « Agent Credit », avec des frais de session de 0,08 $ par heure, en plus des tarifs standard de consommation de tokens.",
+ "source_sha256": "4c7f852afa1b9bdd48efe1f4de0dae6c5c9c45328d88b1b1f05bab52534df99e",
+ "summary": "Anthropic Managed Agents fournit une infrastructure hébergée pour des workflows d'IA autonomes de longue durée, avec une gestion native de l'état et une intégration native des outils. Il prend en charge le sandboxing, le coffre-fort des identifiants et la mémoire persistante, afin de permettre l'exécution de tâches complexes en plusieurs étapes.",
+ "title": "Anthropic Managed Agents pour les workflows d'IA autonomes de longue durée",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

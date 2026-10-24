@@ -1,0 +1,10 @@
+{
+ "id": "n-6ae44b1607",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9a1bad0189a876327d7e03109cda8bf185b19272716e144c72e408cc8077a925",
+ "summary": "2026年3月16日，ComfyUI-PuLID-Flux2 代码仓库与其工作流目录，以及外部 PuLID 和 antelopev2 模型资源被关联在一起。这为该项目提供了一个实用的集成参考节点，但现有证据并不能确定其发布、版本或具体的实现变更。",
+ "title": "ComfyUI-PuLID-Flux2 安装资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

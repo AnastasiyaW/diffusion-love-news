@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目迅速扩展为一个完整的生态系统：新增用于复杂推理的 'Thinking' 变体，以及面向生产流水线的 'Instruct' 模型。目前还包括用于高保真生成的 MOSS-TTS，以及基于 300 万小时音频训练的专用分词器。",
+ "id": "n-8da3cc43df",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型由 OpenMOSS 团队（复旦大学）开发，具备独特的时间感知表示，可用于时序分析，并通过 GGUF/ONNX 支持边缘部署。",
+ "source_sha256": "ac714693238d5377f66b693dd16c66a02eb5229e8d2c517f5ae2b4ff0836c8e0",
+ "summary": "MOSS-Audio 是一个模块化基础模型，在单一架构内统一了语音、环境声音和音乐理解能力。它采用自研训练的 CAT 音频编码器和 LLM 主干网络，可对原始音频数据执行复杂推理和指令跟随任务。",
+ "title": "MOSS-Audio：统一的开源音频基础模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

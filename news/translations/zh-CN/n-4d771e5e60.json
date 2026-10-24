@@ -1,0 +1,11 @@
+{
+ "id": "n-4d771e5e60",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "创建一个 Python 3.11 或 3.12 虚拟环境，并安装固定版本的依赖要求。\n\n运行 `python its_giving_v2.py --calibrate`，在七秒的校准期间保持面部中性，然后运行 `python its_giving_v2.py`。\n\n为操作系统安装一个虚拟摄像头后端，在会议应用程序之前启动 ItsGiving，然后在该应用程序的视频设置中选择已发布的虚拟摄像头。\n\n请保持依赖版本固定不变：文档中记录的 MediaPipe、NumPy 和 OpenCV 兼容性约束是相互关联的。\n\n需要时使用 v2 并重新校准，因为其表情阈值基于用户的中性面部基线。\n\n添加新姿势时，在降低阈值之前先检查姿势顺序，因为第一个匹配的姿势生效；使用 HUD 和手臂计数来调整误触发。\n\n在会议中使用这些反应之前先进行测试，因为输出可能自动触发，并且对所有通话参与者可见。",
+ "source_sha256": "608431980f7d92040c98ed6e4f36c96775cbfae3da73bbd882b61cfe711e85b7",
+ "summary": "ItsGiving 提供一个 Python 网络摄像头叠加层，可在会议软件中被选为虚拟摄像头；其推荐的 v2 脚本会通过七秒的中性面部基线校准表情阈值。",
+ "title": "ItsGiving 网络摄像头梗图叠加层，配合校准后的 v2 检测",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

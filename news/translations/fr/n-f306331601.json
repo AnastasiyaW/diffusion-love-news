@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issue du benchmark de recherche « Gameworld 10k » de VERSES AI, la plateforme est devenue en avril 2026 un projet communautaire hébergé sous l'organisation gameworld-project, passant de 10 à 34 jeux.",
+ "id": "n-f306331601",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend un bac à sable navigateur spécialisé qui suspend le temps de jeu pendant l'inférence du modèle ; actuellement utilisé comme benchmark principal pour les agents numériques incarnés.",
+ "source_sha256": "faf6f82e154906eb832cc060826096697159271f55243def17fe66ae8aeb5520",
+ "summary": "Une plateforme et un benchmark complets pour évaluer des agents d'IA multimodaux à travers 34 jeux navigateur. Elle fournit un bac à sable vérifiable par état, avec accès à l'état de référence (ground truth), permettant de tester la navigation spatiale et la planification sur un long horizon.",
+ "title": "GameWorld : plateforme standardisée pour l'évaluation d'agents d'IA multimodaux",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-7d096b306e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5f20bf65a1ea0b3d293524efe80c3f58d03fbfecabfc74a88bd2bd00ecf90aee",
+ "summary": "El 2026-06-05, las pruebas disponibles vincularon un repositorio de Hugging Face llamado Wan2.2-NVFP4-Sparse. Esto aporta un punto de referencia público y fechado para el proyecto y se considera un paso de distribución relevante en su historia. Las pruebas disponibles no permiten establecer el contenido del repositorio, su versión, los cambios técnicos ni el estado de publicación.",
+ "title": "Referencia en Hugging Face para Wan2.2-NVFP4-Sparse",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

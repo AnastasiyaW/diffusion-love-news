@@ -1,0 +1,10 @@
+{
+ "id": "n-222b01635c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "864e94dafb57d77a58a4121311eb2b53ae848e686d06e8a6f8851ed1d433baaf",
+ "summary": "El 16 de marzo de 2026, el registro enlazaba un repositorio de Hugging Face de Unsloth para LTX-2.3-GGUF junto con la documentación de Unsloth sobre GGUF Dynamic 2.0. Se trata de un hito relevante en distribución y uso, porque conecta un artefacto GGUF de LTX 2.3 con orientación pertinente para quienes lo implementan. Los enlaces con fecha, por sí solos, no permiten establecer las capacidades exactas del modelo, los entornos de ejecución compatibles ni el estado de la publicación.",
+ "title": "Distribución de LTX-2.3-GGUF y guía de GGUF Dynamic 2.0 enlazadas",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

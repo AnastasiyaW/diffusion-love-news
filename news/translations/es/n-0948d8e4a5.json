@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Desde su publicación junto con el artículo en marzo de 2026, el proyecto ha avanzado hacia la integración en el ecosistema. Las prioridades actuales de la hoja de ruta incluyen la integración de ARC-Chapter para reducir los costes computacionales, un modo de lectura selectiva del metraje de bajo coste y el soporte futuro para Claude Code MCP.",
+ "id": "n-0948d8e4a5",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El sistema utiliza LiteLLM para la orquestación de modelos y extrae los pulsos musicales y las señales de energía para garantizar que los cortes se alineen con los cambios rítmicos.",
+ "source_sha256": "1070f63ecdcc26b9572a2da5a02aad606445178f593c37d27ec4814b19dda105",
+ "summary": "CutClaw es un marco multiagente de extremo a extremo que automatiza la edición de metraje de vídeo de varias horas para convertirlo en cortos sincronizados con la música. Emplea una cadena de agentes especializados —Playwriter, Editor y Reviewer— que se encargan de la planificación narrativa y de la alineación rítmica.",
+ "title": "CutClaw: edición de vídeo multiagente y sincronizada con la música basada en agentes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

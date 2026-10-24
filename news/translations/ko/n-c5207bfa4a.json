@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 추론 코드와 모델 가중치와 함께 공개되었으며, 2026년 4월 말에는 전체 학습 코드와 100만 장이 넘는 이미지를 포함한 대규모 WildDet3D-Data 데이터셋이 추가되었습니다. 실시간 온디바이스 3D 탐지를 위한 동반 iPhone 앱도 함께 공개되었습니다.",
+ "id": "n-c5207bfa4a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "SAM 3 백본과 LingBot-Depth를 기반으로 구축되었으며, Argoverse 2와 ScanNet에서 제로샷 기준 최첨단(state-of-the-art) 성능을 달성했습니다.",
+ "source_sha256": "37d37e5e414bf8e7d21dd29122c659494b93bc2bd32485f7b72534930a8cfb46",
+ "summary": "단일 RGB 이미지에서 개방형 어휘(open-vocabulary) 단안 3D 객체 탐지를 수행하는 통합 기하 인지 아키텍처입니다. 텍스트, 점, 박스를 포함한 다중 모달 프롬프트를 지원하며, SAM과 유사하게 프롬프트 가능한 검출기로 동작합니다.",
+ "title": "WildDet3D: 야생 환경을 위한 프롬프트 가능 3D 탐지의 확장",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

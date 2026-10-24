@@ -1,0 +1,11 @@
+{
+ "id": "n-14a863c9d3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "미국 정부의 지시로 인해 Anthropic은 Fable 5와 Mythos 5의 접근을 중단했으며, 다른 모델에는 영향을 주지 않았다.",
+ "source_sha256": "0bd5d7b3381311273e05fad711248731b9e8770c0453067d4f6b060ab6503c40",
+ "summary": "2026-06-13, Anthropic은 Fable과 Mythos에 관련된 공식 접근 공지를 게시했다. 봉인된(sealed) 규제 조치 분류는 중대한 접근 정책 사안이 있음을 나타내지만, 정확한 결정 내용, 적용 범위, 근거는 URL만으로는 확인할 수 없다.",
+ "title": "Anthropic이 Fable과 Mythos 접근 관련 공지를 게시하다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

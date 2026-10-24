@@ -1,0 +1,10 @@
+{
+ "id": "n-77aec57904",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72420b947bb892ee5df99835f9416300a3503c5f6efd81bc7c605e12ad50bdd3",
+ "summary": "2026년 3월 9일, 날짜가 명시된 Penguin-VL 메시지가 프로젝트 웹사이트, 소스 저장소, Hugging Face 컬렉션, 그리고 대화형 Hugging Face Space를 연결했습니다. 독자가 프로젝트를 직접 살펴보고, 공개된 자산을 찾아보고, 데모를 체험할 수 있는 경로가 생겼다는 점에서 공개 가용성 측면의 의미 있는 이정표입니다. 다만 날짜가 적힌 링크만으로는 정확한 모델 버전, 기술적 주장, 라이선스, 공개 범위를 확정할 수 없습니다.",
+ "title": "Penguin-VL 공개 프로젝트 리소스가 공유되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

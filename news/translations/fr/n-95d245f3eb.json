@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'un harnais modulaire fondé sur des skills à une plateforme autonome fournie par défaut en tant que bundle. Les dernières mises à jour ont introduit une orchestration multi-agents de type Kanban ainsi qu'un suivi persistant des objectifs entre les sessions.",
+ "id": "n-95d245f3eb",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le système comprend des vérifications matérielles automatisées et une gestion auto-réparatrice des dépendances pour les nœuds personnalisés complexes de ComfyUI.",
+ "source_sha256": "160ad8888dc434392e1d4cbe562bdc09521e85bc0cb0909710c64c7ffeaf4655",
+ "summary": "Un framework d'agent autonome open source développé par NousResearch, conçu pour l'orchestration de tâches complexes. Il propose une intégration poussée avec ComfyUI, permettant de piloter en langage naturel des workflows de génération d'images et de vidéos basés sur des graphes de nœuds.",
+ "title": "Hermes Agent : système autonome de workflow créatif",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

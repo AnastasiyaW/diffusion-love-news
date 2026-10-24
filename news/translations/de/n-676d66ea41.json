@@ -1,0 +1,10 @@
+{
+ "id": "n-676d66ea41",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ec0ec3d68ed19b8cedecf1555a11f41d425fdb935de0764c5bfbd854118c80e2",
+ "summary": "Am 09.04.2026 wurde DMX öffentlich über einen Beitrag in der ComfyUI-Community vorgestellt, der auf ein GitHub-Repository und ein Hugging-Face-Profil verweist. Die verlinkten Materialien ordnen das Projekt der Kompression von KI-Modellgewichten zu. Die vorliegenden Belege lassen weder seine technischen Spezifikationen, seinen Reifegrad noch die unterstützten Integrationen erkennen.",
+ "title": "DMX wurde öffentlich als Kompressionsformat für KI-Modellgewichte vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

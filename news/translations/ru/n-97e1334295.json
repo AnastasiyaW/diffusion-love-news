@@ -1,0 +1,10 @@
+{
+ "id": "n-97e1334295",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "133629bbe5d3ba6e252186a476ba5e58518882e3f08068648b31997f55cf1c8b",
+ "summary": "1 июля 2026 года в линейке разработки GELab-Zero зафиксирована ссылка на модель GELab-Zero-4B-preview-Sico-Evolution на Hugging Face. Связанная карточка модели также указывала на сопутствующее представление на Hugging Face для моделей на основе адаптеров, что делает её публичным промежуточным checkpoint'ом проекта.",
+ "title": "Превью-модель GELab-Zero Sico Evolution появилась на Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

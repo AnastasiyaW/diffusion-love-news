@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag beschreibt ein kompaktes, von NVIDIA geleitetes Text-zu-Video- und Bild-zu-Video-Modell mit dem Ziel 720p, 16 fps und Sequenzen von bis zu einer Minute. Zudem werden Laufzeiten auf einer RTX 5090 genannt, während der Code noch aussteht.",
+ "id": "n-04bc8d2a40",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ebb644ab62a8ee25dea8d4174629315384e3f923735f81913a50c3fe37586294",
+ "summary": "Der Nachrichtenbeitrag beschreibt ein kompaktes, von NVIDIA geleitetes Text-zu-Video- und Bild-zu-Video-Modell mit dem Ziel 720p, 16 fps und Sequenzen von bis zu einer Minute. Zudem werden Laufzeiten auf einer RTX 5090 genannt, während der Code noch aussteht.",
+ "title": "SANA-Video wird in einer Vorschau vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

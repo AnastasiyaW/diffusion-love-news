@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该服务已发展为一个商业化平台，提供专用的 ComfyUI 节点集成，并与 Shutterstock 建立了战略合作伙伴关系。",
+ "id": "n-694e3b1cf5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "为企业开发者提供 API 访问，并可为每个上传的视频生成多种风格变体。",
+ "source_sha256": "cb7f1e099284417e4a0dc160060726008b39254fe34168b8b4d7883339583c4e",
+ "summary": "Sonilo 是一个生成式 AI 平台，通过分析视频的运动、节奏与转场来生成与画面同步的配乐。它无需复杂的文本提示词，即可生成与视觉内容自动对齐的专业级音乐。",
+ "title": "Sonilo：面向内容创作者的视频转音乐 AI 生成工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

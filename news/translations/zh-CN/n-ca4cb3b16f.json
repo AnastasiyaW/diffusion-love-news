@@ -1,0 +1,10 @@
+{
+ "id": "n-ca4cb3b16f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bbbb9ece5b41ad582f360a7e842bbc69789bdd5fce0e7d23b01338016359d622",
+ "summary": "2026-04-01，Google 通过其博客和 Gemini API 模型文档发布了 Veo 3.1 Lite 预览版。所链接的 AI Studio 页面记录了相应的创作入口。仅凭所提供的链接，无法确定其已具备生产可用性、配额或服务限制。",
+ "title": "Google 宣布推出 Veo 3.1 Lite 预览版",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

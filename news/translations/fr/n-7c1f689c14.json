@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "UniGeo s'attaque à la déformation structurelle (« warping ») courante dans les modèles de diffusion d'images classiques, en exploitant les a priori vidéo et l'injection de nuages de points 3D. Il représente actuellement une approche à l'état de l'art, surpassant des benchmarks tels que ViewCrafter et CAT3D.",
+ "id": "n-7c1f689c14",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le projet comprend un mécanisme spécialisé d'« Geometric Anchor Attention » ainsi qu'une supervision sur le point d'arrivée de la trajectoire, destinés à prévenir la dérive géométrique lors de mouvements de caméra complexes.",
+ "source_sha256": "3c0375578bc89db608aab08b59a28311872e63bf718fdbaa3387ecbc82cf9bc7",
+ "summary": "UniGeo est un cadre de travail pour l'édition d'images à haute fidélité contrôlable par caméra, qui exploite les modèles de diffusion vidéo comme a priori. Il introduit un guidage géométrique unifié aux niveaux de la représentation, de l'architecture et de la fonction de perte, afin de maintenir une cohérence structurelle stricte lors des changements de point de vue.",
+ "title": "UniGeo : édition d'images contrôlable par caméra via des modèles vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

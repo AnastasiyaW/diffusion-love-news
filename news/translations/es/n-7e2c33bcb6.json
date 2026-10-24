@@ -1,0 +1,10 @@
+{
+ "id": "n-7e2c33bcb6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "42a3b6121f633862604e6d0166b50ed017c1f6967f8aceab956df51f4ac4691b",
+ "summary": "El 2026-03-23, la línea de desarrollo de ComfyUI Model Installer incluyó un enlace a su repositorio de GitHub. Esto registra la ubicación pública del código fuente del proyecto en el historial; las pruebas aportadas no establecen una versión, un cambio de funcionalidad ni un resultado de instalación.",
+ "title": "Repositorio de GitHub de ComfyUI Model Installer referenciado",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

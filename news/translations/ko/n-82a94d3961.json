@@ -1,0 +1,10 @@
+{
+ "id": "n-82a94d3961",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7d2e55cca17190fcf32412078245dfaac48e5858ee24285a5e6930156289240c",
+ "summary": "2026-06-24, Qwythos-9B-Claude-Mythos-5의 Hugging Face 페이지와 연결된 날짜가 기록된 자료가 확인되었습니다. 이는 해당 프로젝트 개발 이력에서 공개 모델 아티팩트 관련 이정표에 해당합니다. 봉인된 증거 자료에는 원문, 모델 카드 내용, 릴리스 노트 또는 기술 사양이 포함되어 있지 않았습니다.",
+ "title": "Qwythos-9B-Claude-Mythos-5가 Hugging Face에 공개 등록되었음",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aus einem einfachen Rollenspiel-Experiment entwickelte sich ein produktionsreifes Orchestrierungsframework nach dem Prinzip „Goal-to-DAG“. Zu den wichtigsten Erweiterungen gehören die MCP-Integration, eine Kontextisolation zur Absicherung sowie ein striktes Token-Budget-Management für den Unternehmenseinsatz.",
+ "id": "n-662ab03ff4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Framework hält an der Regel „drei Laufzeitabhängigkeiten“ fest, um maximale Portabilität zu gewährleisten, und positioniert sich als TypeScript-native, zielorientierte Alternative zu LangGraph.",
+ "source_sha256": "b48d907ba4a40c348018c771a99bae818eb2cdb1c3e5f35ef3029ee1b6c46362",
+ "summary": "Eine zielgesteuerte Orchestrierungs-Engine in TypeScript zum Aufbau autonomer Multi-Agenten-Teams. Sie zerlegt übergeordnete Ziele dynamisch in gerichtete azyklische Graphen (DAGs) aus Aufgaben und führt diese parallel aus, anschließend werden die Ergebnisse zusammengeführt.",
+ "title": "Open Multi-Agent (OMA) Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

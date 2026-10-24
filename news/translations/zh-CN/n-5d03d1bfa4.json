@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "LongCat-Next 由 LongCat-Flash 系列演进而来，从以语言为核心转向真正统一的任意到任意范式。它集成了 dNaViT 视觉分词器，并支持低延迟语音克隆与高保真媒体生成。",
+ "id": "n-5d03d1bfa4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型采用 DiNA（Discrete Native Autoregression，离散原生自回归）范式，技术细节记录于 arXiv 报告 2603.27538 中。",
+ "source_sha256": "90815d0592f8500f58a6350f5da245b89ddd022ce825e9eec07c595e3e1fa591",
+ "summary": "LongCat-Next 是一个任意到任意（any-to-any）的原生多模态模型，将文本、图像和音频统一到一组共享的离散 token 中。该模型由美团开发，采用混合专家（Mixture-of-Experts）架构，能够在多种数据类型之间实现无缝的理解与生成。",
+ "title": "LongCat-Next：原生多模态 MoE AI 模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

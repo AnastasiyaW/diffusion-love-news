@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Presentado en ICLR 2026, el proyecto evolucionó a partir de la investigación previa de Apple, DiffuCoder. El repositorio oficial ml-cadd y los checkpoints del modelo se publicaron a finales de abril de 2026, marcando su transición a una plataforma de investigación estable y reproducible.",
+ "id": "n-e9259b87d6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construido sobre la arquitectura Qwen2.5-Coder-7B; el enfoque CADD está diseñado para ser ortogonal e integrable en otros marcos de difusión enmascarada.",
+ "source_sha256": "a207be1630bc642870b7b23a529ebc68ff99eeb5fc881ecbd153961037e6542b",
+ "summary": "Un modelo de generación de código de 7B parámetros desarrollado por Apple que utiliza Continuously Augmented Discrete Diffusion (CADD) para el modelado generativo categórico. Mejora la difusión enmascarada estándar añadiendo una señal continua de flow matching en el espacio de embeddings para aumentar la precisión en la predicción de tokens.",
+ "title": "CADD-Base-7B: el modelo de difusión enmascarada de Apple para generación de código",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

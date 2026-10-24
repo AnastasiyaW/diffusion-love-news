@@ -1,0 +1,10 @@
+{
+ "id": "n-b48ae23ef5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c37f8a2af049abcc31c948fb71bfaa1c4b05c8ad19a1389fe64a3e45cf3eb71a",
+ "summary": "2026年7月30日，一条带日期的项目消息将 LATO.2 与其项目网站、GitHub 仓库和 Hugging Face 页面关联起来。这些链接确立了该项目的公开入口，但它们本身并不能证明某个发布版本、具体能力或特定的源代码变更。",
+ "title": "LATO.2 项目资源已被公开引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

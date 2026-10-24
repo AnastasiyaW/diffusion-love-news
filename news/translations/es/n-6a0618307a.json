@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Partiendo de la versión v1, que solo admitía inglés, la v2 introdujo soporte para más de 14.000 caracteres de múltiples sistemas de escritura. Posteriormente se ha integrado en el modelo multimodal unificado Nemotron-3 Nano Omni para flujos de trabajo agénticos en tiempo real.",
+ "id": "n-6a0618307a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimizado para RAG y para agentes de IA intensivos en documentos; incluye un módulo relacional para un orden de lectura preciso y una agrupación lógica.",
+ "source_sha256": "4005379b5dfb5022e41f5d671c137dc0dbd6b04781d7aaf5943512205f3eff99",
+ "summary": "Un modelo OCR de alta velocidad y listo para producción, especializado en el reconocimiento de texto multilingüe y en el análisis de estructuras documentales complejas. Utiliza una arquitectura transformer modular para procesar más de 30 páginas por segundo con alta precisión.",
+ "title": "Nemotron-OCR v2: sistema de inteligencia documental multilingüe de NVIDIA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

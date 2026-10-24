@@ -1,0 +1,11 @@
+{
+ "id": "n-c42886783e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Crea un entorno virtual de Python 3.11 o 3.12 e instala las dependencias fijadas en requirements.\n\nEjecuta `python its_giving_v2.py --calibrate`, mantén una expresión neutra durante la calibración de siete segundos y luego ejecuta `python its_giving_v2.py`.\n\nInstala un backend de cámara virtual para el sistema operativo, inicia ItsGiving antes de la aplicación de reuniones y selecciona la cámara virtual publicada en la configuración de vídeo de esa aplicación.\n\nMantén sin cambios las versiones fijadas de las dependencias: las restricciones de compatibilidad documentadas de MediaPipe, NumPy y OpenCV están acopladas entre sí.\n\nUsa v2 y recalibra cuando sea necesario, porque sus umbrales de expresión se basan en la línea base del rostro neutro del usuario.\n\nAl añadir una pose, revisa el orden de las poses antes de bajar los umbrales, ya que gana la primera pose que coincida; usa el HUD y un recuento de brazos para ajustar los falsos disparos.\n\nProba las reacciones antes de usarlas en una reunión, porque la salida puede activarse automáticamente y es visible para todos los participantes de la llamada.",
+ "source_sha256": "74e7cd4373cfea8835cc7ded287bc144095e8057a47b92761f1656ef651896b2",
+ "summary": "ItsGiving asigna expresiones faciales y poses de manos y cuerpo a superposiciones de memes, y publica el resultado como cámara virtual para el software de reuniones; el repositorio documenta 14 reacciones integradas y un detector v2 calibrado.",
+ "title": "Superposición de memes para la webcam en reuniones con ItsGiving",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

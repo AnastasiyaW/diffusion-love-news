@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issu de l'article de recherche « From Skills to Talent », le projet a évolué en mai 2026 vers un « Agent Operating System » prêt pour la production. Il a introduit une Talent Market pour le déploiement modulaire d'agents, ainsi qu'un pipeline RH automatisé qui réalise des rétrospectives d'agents et des départs basés sur la performance.",
+ "id": "n-2bdd41c2da",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Atteint un taux de réussite de 85 % sur le benchmark PRD Bench et propose une interface de gestion de « bureau » en pixel-art au design distinctif.",
+ "source_sha256": "03db44d2521249daf7610c461dbb44fff7ca30bf21695d5a6c1a6dae966e8410",
+ "summary": "Un framework open source qui orchestre des agents IA hétérogènes au sein d'une structure d'entreprise hiérarchique. Il s'appuie sur une architecture Talent-Container qui découple les rôles cognitifs des environnements d'exécution, le tout piloté par une interface web en pixel-art.",
+ "title": "OneManCompany : système d'exploitation d'agents IA auto-organisé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

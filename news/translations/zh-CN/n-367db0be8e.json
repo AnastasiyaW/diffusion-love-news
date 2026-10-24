@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "引入了用于自主技能审计的 'The Curator'、统一的云端/本地浏览器网关，并原生支持小米 MiMo-V2-Pro 推理模型。",
+ "id": "n-367db0be8e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用 Markdown 技能文件（SKILL.md）实现持续学习；具备 'Tenacity' 看板，用于长周期目标跟踪。",
+ "source_sha256": "f7824d62ff183e10b8049232cd7827474840c6feb7104b8b7eebd3e34ee1d8b3",
+ "summary": "一个开源的自主智能体框架，专为持续性、自我改进的工作流设计，采用闭环学习机制。它利用小米的 MiMo 推理模型，并集成了云端浏览功能，以实现稳健的网页交互。",
+ "title": "Nous Hermes Agent：自主自我进化框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

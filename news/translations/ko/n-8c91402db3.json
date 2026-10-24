@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 보안 스크립트에서 출발해 견고한 형식 방법론 및 공격적 보안(offensive security) 프레임워크로 발전했습니다. 주요 추가 기능으로는 Kani 기반 Rust 검증, Lean 4 증명 수리를 위한 Axiom, 그리고 격리된 침투 테스트 환경 'Kage'가 있습니다.",
+ "id": "n-8c91402db3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "workers.io에서 개발했으며, 'npx skills add workersio/spec'으로 직접 설치할 수 있고 /fuzzer, /solana-audit 같은 전용 명령어를 포함합니다.",
+ "source_sha256": "99d8c87cb47ab55ca544c213f1afc848d78f1b07137c5a4fd78bdc3605e366c7",
+ "summary": "Claude Code CLI를 에이전트 워크플로로 확장하도록 설계된 고성능 보안 및 형식 검증 플러그인 모음입니다. 커버리지 기반 퍼징(coverage-guided fuzzing), Kali Linux 샌드박스 침투 테스트, Solana용 스마트 컨트랙트 감사 등 복잡한 작업을 자동화합니다.",
+ "title": "Claude Code용 Spec Security 플러그인",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "공식 릴리스 채널에 v0.22.2가 게시되었습니다. 현행 문서는 Node.js 22 이상을 요구하며, Qwen OAuth가 지원되는 제공자/API 키 경로로 대체되어 종료되었다고 명시하고 있습니다.",
+ "id": "n-6b5646e730",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "723492578a4fc18259cbe0d83e4c7e605a09101541e0ad3fed7151bdc5de26d6",
+ "summary": "공식 릴리스 채널에 v0.22.2가 게시되었습니다. 현행 문서는 Node.js 22 이상을 요구하며, Qwen OAuth가 지원되는 제공자/API 키 경로로 대체되어 종료되었다고 명시하고 있습니다.",
+ "title": "Qwen Code, 현행 제공자 계약 기준 v0.22.2 출시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

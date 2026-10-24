@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从智能原声吉他转型为全数字化、无弦的平台，并于2024年末推出Genie。如今，该生态系统以LAVA+应用的AI歌曲解码功能和模块化硬件扩展为核心。",
+ "id": "n-ea4c5d4dff",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用独特的可折叠设计，内置32W低音炮音箱系统；高级AI功能需要订阅LAVA+服务。",
+ "source_sha256": "806c483a5a2a62f28157e9f521a369c18339c831c4cf7d7677aaff82437e162e",
+ "summary": "一款模块化的无弦数字乐器，将触控式界面与AI驱动的音乐创作工具相结合。用户可以借助简化的和弦模式以及实时AI伴奏轨道，解码、转录并演奏歌曲。",
+ "title": "LAVA Genie：集成AI的无弦智能吉他",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

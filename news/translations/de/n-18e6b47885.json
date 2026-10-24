@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelte sich von einem privaten Storyboard-Tool zu einer voll ausgestatteten KI-Videoworkstation mit Multi-Track-Unterstützung, Keyframing und 'Director Mode' für strukturierte Produktion. Neuere Updates ergänzten einen Workflow Manager für die automatisierte Erkennung und Installation von Nodes und Modellen.",
+ "id": "n-18e6b47885",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Bietet 'Hardware Tiers' für VRAM-bewusste Generierung und enthält ein integriertes lokales LLM für Prompt-Unterstützung und Storyboard-Planung.",
+ "source_sha256": "c7b7f97971741a4b7da6608f0b0941d9b368bf033e2f10cb7ae40c26019d5a16",
+ "summary": "Ein quelloffener nichtlinearer Videoeditor (NLE) auf Basis von ComfyUI. Er verbindet eine klassische Timeline mit KI-Generierungsworkflows und ermöglicht iterative Videoerstellung, Shot-Planung und Multi-Track-Bearbeitung.",
+ "title": "ComfyStudio: Timeline-basierter KI-Videoeditor für ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

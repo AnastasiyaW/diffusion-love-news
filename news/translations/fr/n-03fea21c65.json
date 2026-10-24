@@ -1,0 +1,11 @@
+{
+ "id": "n-03fea21c65",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Sous Linux avec Python 3.12 et uv, créez l'environnement virtuel documenté, installez le paquet en mode éditable et lancez la démonstration sans identifiants avant de connecter un modèle.\n\nPour une exécution avec modèle, installez les dépendances d'exécution et de benchmark listées, configurez les paramètres du modèle et l'authentification, puis commencez par une tâche de benchmark et une petite sélection.\n\nLancez la vérification, le raffinement, l'évaluation et la production du rapport avec un benchmark, un exécuteur, un sous-ensemble, un budget de récursion, un mode et une graine identiques ; utilisez le mode dry-run pour inspecter la sélection des tâches sans appel de modèle.\n\nChoisissez la récursion parallèle pour explorer plus largement les harness candidats, ou la récursion séquentielle pour enchaîner les raffinements à travers des étapes successives ; ne conservez les harness adoptés qu'avec leurs preuves d'exécution associées.\n\nConfigurez les restrictions réseau avant l'évaluation afin que les grilles d'évaluation, les réponses ou les critères de notation publics des benchmarks ne puissent pas fuiter vers un exécuteur disposant d'un accès web non restreint.\n\nGardez la configuration d'évaluation identique à celle du run de raffinement lors de l'évaluation et de la production du rapport ; modifier le benchmark, l'exécuteur, le sous-ensemble, le mode de récursion, le budget ou la graine invalide une comparaison à conditions égales.\n\nConsidérez les budgets de récursion plus élevés comme un compromis explicite entre calcul et performance : l'article comptabilise à la fois les tokens d'exécution et les tokens d'amélioration, et ses gains n'ont été mesurés que dans les configurations de benchmark évaluées.",
+ "source_sha256": "195607ee0d8261c56e36adf4f2f862b85b6d1229156002a15d03b0d0f32d2a91",
+ "summary": "Harness² décrit une méthode à deux niveaux qui affine le harness d'un agent pour une tâche donnée et conserve, pour les tâches ultérieures, les enseignements étayés par des preuves, sans mettre à jour les poids du modèle.",
+ "title": "Harness² : un article décrit un raffinement récursif de harness à modèle gelé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

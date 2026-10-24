@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé en avril 2026 en même temps que l'article arXiv:2604.06870, le projet a publié des scripts d'inférence, des checkpoints de modèles et une démo en direct sur Hugging Face. Il a depuis été intégré à ComfyUI et a reçu des mises à jour critiques de figement de l'environnement (environment pinning) pour résoudre les problèmes de dérive des couleurs.",
+ "id": "n-10b1471000",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construit sur l'architecture Qwen-Image-Edit-2511 ; intègre une fonction de perte de cohérence de frontière (Boundary Consistency Loss) propre, qui assure une fusion sans couture des patchs raffinés dans l'image d'origine.",
+ "source_sha256": "64b708af7f99e33a5df587dfeba2da437d9cfc0b18ec46df62981c3e1796d98a",
+ "summary": "Un cadre fondé sur la diffusion, conçu pour l'édition locale et la restauration d'images à haute précision. Il se spécialise dans la correction de détails fins tels que le texte, les logos et les structures complexes, tout en garantissant une cohérence parfaite de l'arrière-plan grâce à une stratégie de focalisation puis de raffinement.",
+ "title": "RefineAnything : raffinement d'image multimodal et spécifique à une région",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

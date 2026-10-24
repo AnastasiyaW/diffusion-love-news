@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Introduit un jeu de données à grande échelle de 4 millions de images continues issues de jeux AAA, accompagnées d'étiquettes G-buffer synchronisées. Le cadre établit un pipeline de rendu bidirectionnel qui surpasse les méthodes précédentes en stabilité temporelle et en généralisation au monde réel.",
+ "id": "n-01b786ce9f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par Shanda AI Research Tokyo. Utilise un nouveau protocole d'évaluation fondé sur un VLM pour mesurer la cohérence sémantique et spatiale en l'absence de vérité terrain.",
+ "source_sha256": "07e69d6e8932d67f28f8b779e7259a15a7655c8b0a538955819b799285a3ff68",
+ "summary": "Un cadre natif de l'IA qui unifie le rendu direct et le rendu inverse à l'aide de modèles de diffusion vidéo. Il extrait des données géométriques 3D à partir de vidéos de jeux et permet l'édition de scènes en haute fidélité au moyen de prompts textuels.",
+ "title": "AlayaRenderer : moteur de rendu génératif du monde pour les jeux AAA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

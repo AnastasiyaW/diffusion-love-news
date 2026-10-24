@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von einem Forschungsprototyp zu einer produktionsreifen Modellsuite mit 3.5B- und 1B-Varianten. Es führte Adaptive Projection Guidance (APG) ein und wurde vollständig in das ComfyUI-Ökosystem integriert.",
+ "id": "n-d967265835",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Übertrifft Seed-TTS in Benchmarks für Sprecherähnlichkeit und Natürlichkeit; veröffentlicht unter der MIT-Lizenz für breite Zugänglichkeit.",
+ "source_sha256": "40c885a19554cac8ac60145c957d1ba52ac67d924283ac13d3afedd83b7d268a",
+ "summary": "Ein modernes, diffusionsbasiertes Framework zur Sprachsynthese, das direkt im Wellenform-Latent-Raum mithilfe von Wav-VAE arbeitet. Es ermöglicht hochwertiges Zero-Shot-Voice-Cloning und natürliche Sprachgenerierung mit optimierter Inferenz.",
+ "title": "LongCat-AudioDiT: High-Fidelity Waveform Latent Diffusion TTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

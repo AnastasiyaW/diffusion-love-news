@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026 como sucesor de 3DGH, introduce Position-Based Dynamics (PBD) para la simulación del cabello dentro de un marco de 3D Gaussian Splatting. Sigue siendo el estado del arte actual en animación de avatares de una sola imagen con físicamente realista.",
+ "id": "n-f1139f1ee9",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimizado para Apple Silicon (M1-M4) mediante Metal/MPS; utiliza SAM2 para la segmentación entre cabello y rostro, y FLAME para las expresiones faciales.",
+ "source_sha256": "3c8ba4255550d7487950c65af2dc4d55ff24406460bd6812021719ce8fa67930",
+ "summary": "Proyecto de investigación para generar avatares de cabeza 3D animables y de alta fidelidad a partir de un único retrato 2D. Separa la reconstrucción en una malla facial sin cabello y en un cabello dinámico representado mediante 3D Gaussian Splats, lo que permite una física realista y un cambio sencillo de peinado.",
+ "title": "CompHairHead: avatares 3D a partir de una sola imagen con cabello deformable",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

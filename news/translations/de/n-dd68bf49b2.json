@@ -1,0 +1,10 @@
+{
+ "id": "n-dd68bf49b2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9b53a22ff7330ade831c17a4cddeb5d1849650cd667f9e1c72aad9019c4f0747",
+ "summary": "Am 11.06.2026 verlinkte Langswap Quellpfade für einen Speech-to-Text-Manager, einen ASR/VAD-Client, einen Llama.cpp-Übersetzungsclient, einen OmniVoice-TTS-Client und FFmpeg-Unterstützung. Die datierte Linkliste enthielt außerdem das Projekt-Repository und einen Artikel über KI-gestützte Synchronisation, wodurch diese Komponenten in einen Kontext von Sprachübersetzung und Synchronisation eingeordnet werden. Anhand der verfügbaren Links lässt sich nicht feststellen, ob die referenzierten Dateien an diesem Datum hinzugefügt oder geändert wurden.",
+ "title": "Langswap stellt einen modularen Stack für Sprachübersetzung und Synchronisation vor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

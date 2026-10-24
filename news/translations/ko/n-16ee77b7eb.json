@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen 3.5 시리즈는 2026년 5월 중순 향상된 멀티모달 성능을 내세운 Qwen 3.6 제품군으로 이어졌습니다. Gemma 4는 모바일 AI 분야에서 여전히 가장 많이 선택되는 모델이며, Qwopus 프로젝트는 개선된 추론 CoT를 갖춘 3.6 버전으로 발전했습니다.",
+ "id": "n-16ee77b7eb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델들은 llama.cpp와 Unsloth Studio를 기본적으로 지원하며, 특히 35B MoE 변형은 저지연 로컬 생성에 최적화되어 있습니다.",
+ "source_sha256": "1f258f8997aeffe6d537dd20cf1d969e5894ec9399e5417430358bed065ca064",
+ "summary": "로컬 추론을 위한 GGUF 양자화 모델을 엄선해 모은 자료로, Alibaba의 Qwen 3.5 MoE, Google의 Gemma 4 시리즈, 그리고 추론에 특화된 Qwopus를 다룹니다. 이 모델들은 소비자용 GPU에 맞게 최적화되어 높은 속도와 멀티모달 기능을 제공합니다.",
+ "title": "새로운 GGUF 모델: Qwen 3.5, Gemma 4, 그리고 Qwopus",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Se corrigieron las estadísticas publicadas de artículos, dominios y enlaces internos.",
+ "id": "n-690d423e11",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Los valores se mantienen exactamente como se registraron en el asunto del commit inmutable.",
+ "source_sha256": "bd750aa6b998361ded62744dbbc9da9f230671312faea39fddc3ef04ac22e199",
+ "summary": "Las estadísticas publicadas del proyecto se corrigieron a 785 artículos, 26 dominios y más de 3.987 enlaces internos.",
+ "title": "Corrección de la discrepancia en el recuento de artículos y estadísticas",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 업데이트를 통해 실시간 전략 조정을 위한 스트리밍 TTRL이 추가되었으며, Clawhub에 스킬로 공개되었다. 코드베이스에는 veRL을 활용한 완전한 학습 파이프라인과 사전 학습된 모델 및 벤치마크가 이제 포함되어 있다.",
+ "id": "n-221dea80c4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "복잡한 리서치 워크플로에서 발생하는 컨텍스트 팽창 문제를 해결하기 위해 ECNU와 Shanghai Institute of Intelligence가 공동으로 개발했다.",
+ "source_sha256": "18f37a4bef89f1d707607e20deb50d92366df13a71bef7c8a161f2468458026a",
+ "summary": "심층 리서치 AI 에이전트를 위한 특화된 메모리 관리 시스템으로, 3단계 Manager-Planner-Executor 아키텍처를 활용한다. Continual Test-Time Learning을 적용하여 수동적 저장에서 능동적 전략 계획으로 전환함으로써 장문맥 추론을 최적화한다.",
+ "title": "MIA: Memory In Intelligence Agent Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

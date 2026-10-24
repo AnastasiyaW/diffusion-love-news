@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 wandelte sich das Projekt von einer reinen Forschungsarbeit zu einem aktiven Open-Source-Repository. Neuere Updates führten geschwindigkeitskonditionierte Videogenerierung ein sowie die Veröffentlichung des Datensatzes SloMo-44K mit 18 Millionen Frames.",
+ "id": "n-b1f200df41",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt Tonhöhenverschiebungen im Audio, um das zeitliche Lernen zu überwachen, und erzwingt Bewegungsäquivarianz, um zeitliche Halluzinationen bei der Videogenerierung zu beheben.",
+ "source_sha256": "5b1166a2b8947c09a4afc227fdaa6ed4c170cffa9bb95db99cc962f039d362b9",
+ "summary": "Ein Deep-Learning-Framework, das entwickelt wurde, um die zeitliche Dynamik in Videos mithilfe audiovisueller Selbstüberwachung wahrzunehmen und zu steuern. Es ermöglicht eine präzise Anpassung der Wiedergabegeschwindigkeit und eine zeitliche Super-Resolution mit hoher Wiedergabetreue, indem es physikalische Bewegungsbeschränkungen erlernt.",
+ "title": "Seeing Fast and Slow: Learning the Flow of Time",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Successeur de HunyuanVideo (décembre 2024) et de HunyuanVideo-1.5 (novembre 2025). Il introduit un « Thinking Mode » pour le raisonnement intelligent sur les prompts, ainsi que des capacités unifiées couvrant la génération de vidéo à partir de texte, la génération de vidéo à partir d'image et l'édition vidéo.",
+ "id": "n-fb32c38877",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Publié en même temps que le benchmark IntelligentVBench ; soumis à une licence communautaire qui limite son utilisation dans certaines régions, dont l'UE et le Royaume-Uni.",
+ "source_sha256": "989989695f6ea22977d3b1eed634673989dd4a6b5bd231a62982abf881bec1cc",
+ "summary": "Un cadre unifié de génération vidéo développé par Tencent Hunyuan, qui intègre un grand modèle de langage multimodal pour une synthèse enrichie par le raisonnement. Il prend en charge des entrées entrelacées de texte, d'images et de vidéos pour une composition et une édition multimodales complexes.",
+ "title": "OmniWeaving, modèle unifié de génération vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

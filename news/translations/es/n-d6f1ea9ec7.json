@@ -1,0 +1,10 @@
+{
+ "id": "n-d6f1ea9ec7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "503b99be2b964f7d9c464ccc11287b8e568b3048f8347d418bfdf6694db77eae",
+ "summary": "El 24 de marzo de 2026, el registro fechado enlazaba el repositorio de GitHub y la página de Hugging Face de GlyphPrinter. Las pruebas disponibles acreditan esas dos referencias a recursos del proyecto, pero no establecen una versión publicada, el contenido de los modelos, afirmaciones de rendimiento ni si alguno de los recursos se publicó ese mismo día.",
+ "title": "Se hizo referencia a los recursos públicos del proyecto GlyphPrinter",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-aa7ac5b27f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "DeepSeek API 또는 모델 가중치를 기관 워크플로에 통합하기 전에 지역별 규제 경계와 연방 컴플라이언스 지침을 검토하라.\n\n운영 연속성을 유지하기 위해 상업용 API 접근권을 확보하거나, 독립적인 인프라를 기반으로 한 전용 컴퓨팅 클러스터를 마련하라.\n\n공공 조달 제한을 준수하려면 중국 본사 모델 제공업체의 배포 파이프라인을 연방 및 규제 대상인 서구 데이터 환경과 분리하라.",
+ "source_sha256": "28b9b2562d9dab185d0994f2eac46e4c3349b306dfe08f1f21fe810d6b940f93",
+ "summary": "DeepSeek이 추정 기업가치 $100 billion에 $15 billion 규모의 자금 조달을 마무리한 것으로 전해졌다. 조달 자금은 컴퓨팅 인프라 확충과 차세대 모델 학습에 투입되며, 미국 프런티어 연구소들과 경쟁하는 것이 목표이다.",
+ "title": "DeepSeek, $100 billion 가치평가로 $15 billion 규모 자금 조달 완료",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

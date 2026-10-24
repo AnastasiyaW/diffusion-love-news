@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "自发布以来，该项目已从基础的智能体适配器演进为功能成熟的平台，具备跨会话记忆以及“Critique Theater”回放系统。近期重大更新新增了对 Devin、DeepSeek、Mistral 等多种智能体的支持，并推出了用于管理产物的可视化画廊。",
+ "id": "n-ff21b44ef5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用 Apache-2.0 与 MIT 双重许可。项目遵循“自带密钥”（Bring Your Own Key）模式，并通过“Skills are files”机制（即借助 Markdown 文件扩展智能体能力）形成了独特的设计。",
+ "source_sha256": "2fcdc9ad0323b6fcaca284e0e6d2b7d5017f59f02aa2341b6aeac267f5551efa",
+ "summary": "Open Design 是一款本地优先的设计产物生成器，可与多种编码智能体 CLI 集成，提供 Claude Design 的开源替代方案。它采用基于技能（skill）的架构，并通过扫描用户系统中可用的 AI 智能体，支持离线生成。",
+ "title": "Open Design：本地优先的开源 AI 设计引擎",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

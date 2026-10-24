@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从简单的风格迁移发展到能够识别特定动作动词（Add、Remove、Replace、Convert）的成熟 IC-LoRA。目前正通过延长训练步数进行优化，以提升时间一致性和提示词遵循能力。",
+ "id": "n-69cc1d969e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "要获得最佳性能，需要特定的提示词结构和 CFG 设置（通常为 CFG 1.0）；该模型常与专为低显存使用场景设计的 ComfyUI 工作流打包在一起。",
+ "source_sha256": "ff7213b93084a20c6c2821564901b2296d2539cf8bda7387d186b7e5fe90afae",
+ "summary": "一款面向 LTX-2.3 视频模型的实验性 In-Context LoRA，支持通过提示词驱动的视频编辑。用户无需手动绘制遮罩，只需使用特定的自然语言指令，即可添加、移除或替换物体，并更改风格。",
+ "title": "LTX-2.3 EditAnything IC-LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

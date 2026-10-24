@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该框架于 2026 年 4 月发布，旨在解决 GUI 智能体研究中的碎片化问题，提供从训练到生产的统一流程。其配套的 ClawGUI-2B 模型目前在主流基准测试上显著优于 UI-Venus-72B 等规模大得多的模型。",
+ "id": "n-6dd8c1ff25",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 ZJU-REAL 实验室开发；包含一款专用的 Android 应用，借助 Shizuku 实现端侧部署。",
+ "source_sha256": "1c9a07d6ace730d04e078adf9513dce4a2ff2b5b392a5c894b31d96e167765e2",
+ "summary": "这是一个开源的全栈框架，覆盖 GUI 智能体的完整生命周期，包括强化学习训练、标准化评测以及跨平台部署。借助先进的策略优化与过程奖励模型，智能体可以控制 Android、iOS 和 HarmonyOS 设备。",
+ "title": "ClawGUI：用于训练与部署 GUI 智能体的统一框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

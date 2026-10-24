@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "원본 TIPS 모델에 이어, TIPSv2는 공간 인식을 향상시키기 위해 iBOT++ 사전학습과 다중 입도(multi-granularity) 합성 캡션을 도입했다. 또한 조밀한 예측 작업을 위한 전용 DPT 헤드와 함께 Hugging Face Transformers 라이브러리에 통합되었다.",
+ "id": "n-de24cf852f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트에는 Hugging Face Spaces에서 제공되는 공식 특징 탐색기가 포함되어 있으며, 제로샷 작업에서 DINOv2와 같은 기존 자기지도 학습 모델보다 높은 성능을 보인다.",
+ "source_sha256": "01af5038d28554b22399b2b3acfc4228c056ad6ed29752087e1a9d602a7ceb8c",
+ "summary": "Google DeepMind가 개발한 비전-언어 모델 계열로, 이미지-텍스트 정렬과 조밀한 공간 이해 사이의 간극을 메운다. 패치 단위 정렬을 활용해 정밀한 단안 깊이 추정, 표면 노말 예측, 제로샷 의미론적 분할을 가능하게 한다.",
+ "title": "TIPSv2: 공간 인식을 갖춘 텍스트-이미지 사전학습",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

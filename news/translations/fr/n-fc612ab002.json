@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Présenté à ICLR 2026, IceCache représente la pointe actuelle de la gestion du KV-cache sensible à la sémantique. Il étend le concept de PagedAttention en ajoutant un index hiérarchique basé sur un DCI-tree pour la récupération de tokens tenant compte de la requête.",
+ "id": "n-fc612ab002",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Atteint 99 % de précision sur les benchmarks LongBench tout en n'utilisant que 256 tokens dans le cache GPU actif.",
+ "source_sha256": "a6368bea7c7d668ef51f9281dc82a11401b2f436827875e90ffb411812e7ffb2",
+ "summary": "IceCache réorganise le KV-cache grâce à un regroupement sémantique des tokens et à un indexage hiérarchique afin d'optimiser l'inférence des LLM à long contexte. En chargeant sélectivement les pages de cache pertinentes depuis le CPU vers le GPU, il conserve une précision élevée tout en réduisant considérablement l'empreinte mémoire sur GPU.",
+ "title": "IceCache : un KV-cache sémantique économe en mémoire pour les LLM à long contexte",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

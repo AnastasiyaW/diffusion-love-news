@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen 3.5 系列引入了 A3B 混合专家（Mixture-of-Experts）架构，随后很快推出了 Qwen 3.6 更新。该模型代表了“推理蒸馏”的巅峰之作：将专有 Claude 4.6 模型的逻辑推理轨迹迁移到开放权重架构之上。",
+ "id": "n-b1f4237092",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提供 GGUF、MLX 和 Transformers 格式；主要针对深度推理和多步逻辑进行了优化。",
+ "source_sha256": "b68b8cbfd786ac439dc2486735b15558e133549ab7077f0c7fdb8e2c9e1185b7",
+ "summary": "这是一款基于 Qwen 3.5 架构的专用大语言模型，使用从 Claude 4.6 Opus 蒸馏得到的思维链（chain-of-thought）推理数据进行微调。它通过 <think> 标签实现结构化推理，以提升逻辑透明度和解题准确性。",
+ "title": "Qwen3.5-35B-A3B Claude 4.6 Opus Reasoning Distilled",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-2fb0f885be",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6aa1e23cba9823136d04c0e9f3d4027c1986b02ab6ec43b1f4b810a591619ebb",
+ "summary": "Le 2026-07-23, Unity a publié un article officiel daté sur son blog, consacré à Unity CLI. Le lien officiel spécifique au projet fait de cette publication une étape importante dans l'historique de Unity CLI en matière de présentation. Les éléments de preuve retenus n'établissent ni ses fonctionnalités, ni sa disponibilité, ni son comportement technique.",
+ "title": "Unity a publié une annonce concernant Unity CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-0dea9b891a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3b4219a9a098d8ebdcab7ca5c577cc5ee3d2a841f60b8e9ddf8c4b91df35e003",
+ "summary": "Am 31.03.2026 hat die EUPE-Entwicklungslinie Verweise auf das Repository facebookresearch/eupe und die Hugging-Face-Ressource facebook/EUPE-ViT-S erfasst. Dies wird als wesentlicher Meilenstein der Verfügbarkeit gewertet, da sowohl ein Implementierungsort als auch eine benannte Modellressource identifiziert werden. Die vorliegenden Belege belegen über diese datierten Verweise hinaus weder eine Versionsnummer, Fähigkeiten noch den Status der Artefakte.",
+ "title": "EUPE-Implementierung und EUPE-ViT-S-Modellressource verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

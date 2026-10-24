@@ -1,0 +1,11 @@
+{
+ "id": "n-31b3b17c7b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "克隆 karpathy-output-style 仓库，或将技能定义文件复制到智能体配置目录中。\n\n配置智能体运行时（例如 Claude Code 或 Codex），使其在查询执行期间加载技能规则。\n\n向智能体提交一个概念或代码解释任务，并允许该技能在简化技术文本、Excalidraw 图表、交互式 HTML 或讲解视频格式之间进行选择。\n\n严格遵循四级梯度：优先默认使用最简单的格式，然后再请求体量较大的交互式 HTML 或视频产物。\n\n确保交互式 HTML 输出为单个完全自包含的文件，并内嵌样式与脚本，以便即时在本地浏览器中查看。",
+ "source_sha256": "b733489b5751bebdc374d6114b6d5cc3e2c57e790845750421f57531297f7671",
+ "summary": "karpathy-output-style 项目定义了一套执行工作流，引导 AI 模型在简化的技术英语、结构图、交互式 HTML 或由代码驱动的讲解视频之间进行选择，以阐明复杂的技术概念。",
+ "title": "karpathy-output-style 为开发者工作流中的多格式 LLM 解释提供结构化支持",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

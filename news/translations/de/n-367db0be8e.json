@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Eingeführt wurden 'The Curator' für die autonome Prüfung von Skills, ein einheitliches Cloud-/Lokal-Browser-Gateway sowie native Unterstützung für die Reasoning-Modelle Xiaomi MiMo-V2-Pro.",
+ "id": "n-367db0be8e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verwendet Markdown-Skill-Dateien (SKILL.md) für persistentes Lernen; bietet ein Kanban-Board namens 'Tenacity' zur Verfolgung langfristiger Ziele.",
+ "source_sha256": "f7824d62ff183e10b8049232cd7827474840c6feb7104b8b7eebd3e34ee1d8b3",
+ "summary": "Ein quelloffenes Framework für autonome Agenten, das für dauerhafte, sich selbst verbessernde Arbeitsabläufe mithilfe einer geschlossenen Lernschleife entwickelt wurde. Es nutzt die Reasoning-Modelle MiMo von Xiaomi und bietet einen integrierten Cloud-Browser für robuste Webinteraktion.",
+ "title": "Nous Hermes Agent: Autonomes, sich selbst weiterentwickelndes Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-0ad60b8778",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f1ad0343cccc1e6edbd3877d15d3b0e80e61ac4cec9ccdcf26b053b8be80ff3d",
+ "summary": "Le 12 août 2026, la lignée de développement Nemotron 3.5 Lightning a été documentée à travers des liens publics vers ses pages de modèles NVIDIA sur Hugging Face, des résultats de recherche associés à des modèles, et le playground hébergé par NVIDIA. Ce même ensemble de liens rattachait la lignée au dépôt NVIDIA-NeMo Switchyard et à une variante DSpark, illustrant sa diffusion publique et les outils associés à ce moment de son histoire.",
+ "title": "Ressources publiques du modèle Nemotron 3.5 Lightning et de son playground mises en évidence",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

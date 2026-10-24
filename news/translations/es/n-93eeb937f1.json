@@ -1,0 +1,11 @@
+{
+ "id": "n-93eeb937f1",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Para el modelo alojado, mantén la integración de API existente y establece el modelo en `deepseek-flash`; se resuelve a la versión actual de V4.1 Flash.\n\nPara experimentación local, instala Transformers y Accelerate actualizados y, a continuación, carga `deepseek-ai/DeepSeek-V4.1-Flash-1017` mediante el pipeline de imagen-texto a texto documentado o la ruta `AutoModelForCausalLM`.\n\nUtiliza el nombre estable de API `deepseek-flash` en lugar de incrustar el nombre del checkpoint en las integraciones alojadas, de modo que se seleccione la versión actual documentada sin cambiar el formato de la llamada.\n\nAl autoalojar el modelo, parte de una ruta de carga documentada oficialmente en Transformers o vLLM en lugar de suponer que una configuración de runtime de V4 Flash anterior funciona sin cambios.",
+ "source_sha256": "416d8ef0ca6403d9bb63ee9b02ef1be4ab2391c402c43f01c9bb31ae35f1c594",
+ "summary": "DeepSeek documenta V4.1-Flash-1017 como la versión actual a la que apunta `deepseek-flash`; el método de llamada a la API y los precios permanecen sin cambios.",
+ "title": "DeepSeek actualiza su modelo Flash de la API a V4.1-Flash-1017",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

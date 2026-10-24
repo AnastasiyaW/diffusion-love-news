@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Un lot d'ingestion de recherche a ajouté 21 articles publics.",
+ "id": "n-8a14fda3a6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La taille du lot et l'étiquette du flux de travail sont conservées à partir de l'objet du commit immuable ; aucune invite privée ni transcription n'est publiée.",
+ "source_sha256": "a57ab157fdbd05ac92fb3f275de149ab58a218e0e0efbc0b51c08bbd55bcd56b",
+ "summary": "Un lot d'ingestion de recherche a ajouté 21 articles à la base de connaissances publique.",
+ "title": "Ingestion par lots de recherche : 21 articles via la CLI Gemini 3 Flash",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "원본 Lyra 모델을 계승하며, 피드포워드 방식의 재구성에서 연속적인 월드 생성을 위한 검색-생성-업데이트(retrieve-generate-update) 루프로 진화했다. 시간적 드리프트를 방지하기 위해 자기 증강(self-augmented) 학습을 도입했으며, 고충실도 3D Gaussian Splatting 내보내기를 지원한다.",
+ "id": "n-a549ac3575",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "구현된 임바디드 AI 학습을 위해 NVIDIA Isaac Sim과 연동되며, 카메라 경로 계획과 실시간 월드 탐색을 위한 대화형 GUI를 포함한다.",
+ "source_sha256": "98560a687c15c55b3576e812df12069bc286334367f28cddf47cb12a479d91a6",
+ "summary": "NVIDIA의 Spatial Intelligence Lab이 개발한 Lyra 2.0은 단일 이미지로부터 지속적이고 탐색 가능한 3D 환경을 생성한다. 장기 주행(long-horizon navigation) 중에도 공간적 일관성을 유지하기 위해 프레임별 3D 기하 메모리를 활용한다.",
+ "title": "Lyra 2.0: 탐색 가능한 생성형 3D 월드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

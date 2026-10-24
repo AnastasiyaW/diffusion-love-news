@@ -1,0 +1,10 @@
+{
+ "id": "n-7328495c92",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8e38aea5329e773d702f83474758df21a3d4da41857ee2f00b3a317109fb0757",
+ "summary": "2026-08-17，OrbitSheets 开发讨论串中记录的链接指向该项目的 GitHub 仓库。这确立了一个带日期的源码位置公开引用，但现有证据并未表明其对应任何发布版本、功能或其他实现里程碑。",
+ "title": "OrbitSheets 的 GitHub 仓库在开发讨论串中被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从专注于 Minecraft 的 v1.0 演进为 v3.0 的实时世界模拟器，引入了长时程记忆，并采用 28B MoE 架构，以解决长序列中的一致性问题。",
+ "id": "n-5f36799f6d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用 5B 参数模型实现 720p 分辨率下 40 FPS 的生成速度；采用记忆增强的 Diffusion Transformer，并通过 AITER CK 支持 AMD ROCm。",
+ "source_sha256": "88efca9ce1525b2fbdf5b3bc4d1f3544dee9ae1b4a668072253902fbd339d511",
+ "summary": "一款开源交互式世界模型，支持实时流式生成，并保持长期的时空一致性。它可作为高性能世界模拟器，以最高 40 FPS 的速度生成高分辨率环境。",
+ "title": "Matrix-Game 3.0：Skywork AI 推出的交互式世界模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

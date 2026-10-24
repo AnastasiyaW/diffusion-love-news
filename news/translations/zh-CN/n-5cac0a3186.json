@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Luma AI 于 2026 年初从 Dream Machine 等独立的生成式工具，转型为以 Luma Agents 为核心的完整编排层。该系统现采用 Ray3 推理视频模型和 Uni-1 多模态 Transformer，以处理复杂且持续存在的项目上下文。",
+ "id": "n-5cac0a3186",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Luma Agents 已被 Publicis Groupe 等全球大型广告公司采用，用于本地化的高预算营销活动执行。",
+ "source_sha256": "54be73a23bb10806983a14755154648b03899253e874549f5fc37f610ac85bff",
+ "summary": "Luma Agents 是自主式 AI 协作者，旨在管理从初始简报到最终交付的端到端创意工作流程。它由 Uni-1 推理模型驱动，在统一的“创意操作系统”内协调文本、图像、视频和音频的生成。",
+ "title": "Luma Agents：多模态AI创意协作者",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

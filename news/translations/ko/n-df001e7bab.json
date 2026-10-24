@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "평면적인 프롬프트 목록에서 벗어나, 에이전트의 토큰 사용량을 최소화하기 위해 카테고리별 파일로 구성된 구조화된 Atlas 아키텍처로 전환했습니다. uv로 설치할 수 있는 전용 CLI 도구를 추가하고, Claude Code와 Codex용 공식 플러그인 지원을 더했습니다.",
+ "id": "n-df001e7bab",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "API 지출을 제어하는 독자적인 예산 다이얼 기능과 연구용 figure, UI 목업, 복잡한 장면 편집을 위한 전문 프롬프트를 포함합니다.",
+ "source_sha256": "c023c622284b72b80b6872a2afab91356c8bd8e98e5cc7a799996b239a4d7b2a",
+ "summary": "OpenAI의 GPT Image 2 모델을 위해 엄선한 160개 이상의 고품질 프롬프트와 에이전틱 스킬 모음입니다. AI 어시스턴트와 자율 에이전트를 위해 컨텍스트 윈도우 효율을 최적화하는 Reference Gallery Atlas 아키텍처를 사용합니다.",
+ "title": "GPT Image 2 프롬프트 갤러리 & 스킬",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

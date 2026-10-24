@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "En abril de 2026 publicó soporte oficial para ComfyUI y la biblioteca Diffusers. En mayo de 2026 publicó un informe técnico completo y el conjunto de datos OpenSpatial-3M, para facilitar la investigación en edición de imágenes con conciencia espacial y control de cámara.",
+ "id": "n-d192447768",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Admite tareas avanzadas de edición, como la rotación de objetos, los ajustes de cámara 3D y la representación de texto de alta fidelidad. El motor de razonamiento se basa en Qwen3-VL.",
+ "source_sha256": "7165d06ff583d4f573664489050464f879d961c3144ad93df506bd478c75a7f5",
+ "summary": "Un modelo unificado de código abierto de JD Open Source que integra la comprensión de imágenes, la generación y la edición precisa guiada por instrucciones. Combina un VLM de razonamiento de 8B con un transformador de difusión de 16B para realizar manipulaciones espaciales complejas, como la reubicación de objetos.",
+ "title": "JoyAI-Image: modelo fundacional multimodal unificado",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

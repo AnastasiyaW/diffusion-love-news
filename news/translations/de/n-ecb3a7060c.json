@@ -1,0 +1,10 @@
+{
+ "id": "n-ecb3a7060c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "83945ef5abe7805cbbd71a77cc93374548793bc376bf31cb3d30c4e7bfd8d1ca",
+ "summary": "Am 13.03.2026 wurde ein datierter Linksatz gesetzt, der die öffentliche Projektwebsite, das Quellcode-Repository und die Seiten zum Modell-Download des DVD-Projekts miteinander verbindet. Damit ist ein öffentlicher Zugangspunkt zu Code und Modellartefakten des Projekts geschaffen, doch lässt sich daraus weder ein bestimmtes Release noch eine bestimmte Version oder eine technische Änderung ableiten.",
+ "title": "Öffentliche Projektressourcen von DVD wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

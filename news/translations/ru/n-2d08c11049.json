@@ -1,0 +1,10 @@
+{
+ "id": "n-2d08c11049",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "518f3a24316c99798ffd8cba0891c78a9df5e54190d59d798686a52c62e4cb31",
+ "summary": "23 июля 2026 года Solar Open 2 была представлена в датированном анонсе Upstage. По ссылкам из анонса доступны страница Solar-Open2-250B на Hugging Face и playground Upstage, что указывает на запуск проекта с открытым доступом к модели и интерактивным способом её проверки.",
+ "title": "Solar Open 2 представлена вместе со страницей модели и доступом к playground",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

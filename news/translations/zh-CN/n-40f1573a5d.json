@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Map2World 基于 TRELLIS 资产生成器构建，从物体级合成演进到城市级世界生成，并支持任意分割图以及高分辨率细节增强。",
+ "id": "n-40f1573a5d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该工作由首尔国立大学与微软亚洲研究院联合开发；源代码目前标注为即将发布（coming soon）。",
+ "source_sha256": "3a65cca20444ae5101bd93f94e7f7a4314203f7df8df58bf8450590abf2e3069",
+ "summary": "一种从俯视分割图和文本提示生成大规模连续3D环境的框架。该框架采用多扩散（multi-diffusion）策略来协调相互重叠的3D窗口，从而确保跨越广阔世界时的无缝过渡与尺度一致性。",
+ "title": "Map2World：基于分割图条件的文本到3D世界生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

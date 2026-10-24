@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Z-Image 项目从大型 DiT 模型演进为经过蒸馏的 'Turbo' 版本,以实现实时细节修复。此后它已被集成到 'Z-Image Power Nodes' 生态中,支持低 sigma 细节修复和专用人脸 LoRA 等高级功能。",
+ "id": "n-9744e9b73c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要搭配 Qwen 2.5 VL 文本编码器和特定 VAE 才能获得最佳效果;在速度与质量之比上明显优于传统 SDXL 细节修复方案。",
+ "source_sha256": "e69dedc1ccec3eb56078e0d1aa0b93140328f25592e675aa8245e6e9a443a3b4",
+ "summary": "一款为面部增强优化的高性能 ComfyUI 工作流,基于阿里巴巴的 Z-Image Turbo 6B DiT 模型。它采用精准裁剪与局部重绘(inpainting)流程,结合 YOLOv8 和 SAM,仅需 8–10 步即可生成高保真皮肤纹理。",
+ "title": "Z-Image Turbo 面部细节修复工作流",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

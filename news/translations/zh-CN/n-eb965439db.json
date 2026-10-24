@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "GBrain 在 2026 年 4 月发布后迅速演进,引入了用于后台记忆维护与去重的自主式“Dream Cycle”。目前它集成了用于检索评估的 BrainBench-Real,并已成为 OpenClaw 与 Hermes 智能体架构的主要记忆运行时。",
+ "id": "n-eb965439db",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Garry Tan 创建,旨在解决 AI 智能体的无状态问题;强调通过结构化元数据和基于 Git 版本管理的知识存储实现高数据密度。",
+ "source_sha256": "50c43596ab3a9181ceaee81d8f808e9eca76aaafd4b03ce9829af993288a61cc",
+ "summary": "GBrain 是一个开源的持久化记忆基底,它将由 Git 管理的 Markdown 仓库与 PostgreSQL/pgvector 数据库相结合。它为 AI 智能体提供长期、可持续积累的知识库以及混合检索能力。",
+ "title": "面向 OpenClaw 与 Hermes Agents 的 GBrain 记忆层",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

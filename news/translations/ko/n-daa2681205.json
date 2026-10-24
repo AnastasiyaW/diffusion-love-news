@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "요청에 따라 Wan2GP와 같은 주요 영상 생성 파이프라인에 통합되는 표준 기능으로 발전했습니다. 이 모델은 단순한 전경 제거에서 복잡한 전체 배경 재구성 작업으로 전환되었습니다.",
+ "id": "n-daa2681205",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "권장 강도는 1.25에서 시작하며, 처리 전에 입력 영상을 50fps로 보간하면 성능이 크게 향상됩니다.",
+ "source_sha256": "b1d32b157b73ad1fe4ca0a25885cb0ac8b7a926024c2e6f20fb0d23843e8b8ab",
+ "summary": "배경 장면을 재구성하기 위해 식물, 연기, 아지랑이 등 전경의 장애물을 제거하는 video-to-video 편집용 특화 LoRA입니다. 가려진 객체 뒤의 누락된 시각 정보를 채우기 위해 deep feature hallucination을 활용합니다.",
+ "title": "Obscura Remova LTX23 Video-to-Video LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

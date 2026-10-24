@@ -1,0 +1,10 @@
+{
+ "id": "n-819b4129d7",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "50ead66e7519ae15d2d4df863e52f69339fc85436d4b5ebbb66b8fecc59bfc3c",
+ "summary": "2026 年 6 月 10 日，该项目通过参考关联到一个 Hugging Face 模型页面，该页面对应一个用于漫画上色的 FLUX.2 Klein 9B LoRA。这是一条重要的开发历史参考，因为它指明了一个具体的项目产物；不过，其发布状态和技术细节尚未经过独立调研。",
+ "title": "为该项目记录的 Hugging Face 模型参考",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

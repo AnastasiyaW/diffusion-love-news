@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从早期研究原型发展为完整的多智能体系统，包括 PlayDeveloper、PlayRefiner 和 PlayTester 组件。它入选 FSE 2026，被视为 GUI 自动程序修复领域的一项重大进展。",
+ "id": "n-fe9036dfac",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "其中包含 PlayTester，它利用视觉-语言模型，通过截图和模拟用户交互来验证 GUI 状态。",
+ "source_sha256": "b1e3f285650ec291186d486a88a5ac1543e0335fc6c776e6b847133b68a36bbb",
+ "summary": "腾讯推出的一个多智能体框架，旨在修复大语言模型生成的 GUI 代码中的行为与逻辑错误。它采用自动化交互测试和视觉反馈，确保生成的应用不仅能够编译通过，更能正常运行。",
+ "title": "PlayCoder：让大模型生成的 GUI 代码真正可玩",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

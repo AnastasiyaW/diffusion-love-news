@@ -1,0 +1,10 @@
+{
+ "id": "n-b1bee57937",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bed48dfd4907c01c24ae1e2bc85594de31786502308d27a23ddf321ed295d4cf",
+ "summary": "2026년 5월 13일, 해당 기록에는 Wan2.2 T2V A14B의 FP8 및 NVFP4 Diffusers 변형 모델을 제공하는 NVIDIA 호스팅 Hugging Face 저장소 링크가 추가되었습니다. 이는 프로젝트 실행과 관련된 저정밀도 모델 변형을 식별한다는 점에서 중요한 양자화 단계입니다.",
+ "title": "Wan2.2 T2V A14B Diffusers FP8 및 NVFP4 변형 모델 문서화됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

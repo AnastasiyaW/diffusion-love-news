@@ -1,0 +1,11 @@
+{
+ "id": "n-d46d9eb28f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configurez robots.txt sur les domaines web publics pour définir des autorisations d'exploration explicites pour les robots d'exploration web de Meta.\n\nExaminez les conditions générales commerciales dans le Meta Business Manager avant de lier des domaines d'entreprise ou de publier des ressources professionnelles.\n\nMaintenez des listes d'autorisation explicites pour les robots d'exploration et des directives disallow au niveau du serveur web, plutôt que de vous fier aux conditions contractuelles par défaut pour protéger vos contenus.\n\nAuditez régulièrement les autorisations des comptes commerciaux pour vous assurer que les URL professionnelles sont limitées aux opérations publicitaires, sans licences d'extraction de contenu étendues.",
+ "source_sha256": "0eb26e0c1a24f1543a6dbdee44950d6701cae4ae56d0dfb78bd8dd4e7f854f85",
+ "summary": "Meta a révisé les conditions générales commerciales mises à jour afin de supprimer les mentions explicites de l'entraînement de modèles d'IA sur le contenu web extrait des comptes professionnels, et a restreint l'utilisation des données à la publicité et aux produits destinés aux entreprises.",
+ "title": "Meta retire du langage sur l'entraînement de l'IA de ses conditions commerciales",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

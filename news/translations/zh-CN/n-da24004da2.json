@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目提出了 CreativePSD，这是首个基于 Photoshop、包含操作轨迹的大规模数据集。它从黑箱生成转向模块化架构（AssetCollector、GraphicPlanner、ToolExecutor），并被 CVPR 2026 接收。",
+ "id": "n-da24004da2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了 CreativePSD 数据集，使模型能够学习专家的设计流程；该工作由 FudanCVL 研究团队开发。",
+ "source_sha256": "63435318bb854de62c86f0d22d39c6bd0c26cfa652969d2b20715629f832dec5",
+ "summary": "一种自动化平面设计系统，通过素材收集、图形规划和迭代优化来模拟人类的创作过程。它通过操作 PSD 图层来生成专业的分层设计文件，而非生成扁平图像。",
+ "title": "PSDesigner：模拟人类工作流的自动化平面设计",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

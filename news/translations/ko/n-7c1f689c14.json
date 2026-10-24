@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "UniGeo는 비디오 사전 지식과 3D 포인트 클라우드 주입을 활용하여, 기존 이미지 확산 모델에서 흔히 나타나는 구조적 '워핑(warping)' 문제를 해결합니다. 현재 ViewCrafter 및 CAT3D와 같은 벤치마크를 능가하며 최첨단(state-of-the-art) 접근법으로 평가됩니다.",
+ "id": "n-7c1f689c14",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트에는 복잡한 카메라 움직임 중 기하학적 드리프트를 방지하기 위한 특화된 'Geometric Anchor Attention' 메커니즘과 궤적 종점 감독(trajectory-endpoint supervision)이 포함되어 있습니다.",
+ "source_sha256": "3c0375578bc89db608aab08b59a28311872e63bf718fdbaa3387ecbc82cf9bc7",
+ "summary": "UniGeo는 비디오 확산 모델을 사전 지식(prior)으로 활용하는 고충실도 카메라 제어 이미지 편집 프레임워크입니다. 표현, 아키텍처, 손실 수준에 걸친 통합 기하학적 가이던스를 도입하여 시점 변화 중에도 엄격한 구조적 일관성을 유지합니다.",
+ "title": "UniGeo: 비디오 모델을 활용한 카메라 제어 가능 이미지 편집",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "正式接替 DALL-E 3；OpenAI 于 2026 年 5 月 12 日退役了整个 DALL-E 品牌，将图像生成统一到 GPT 多模态架构之下。目前它在 Image Arena 排行榜上位居第一。",
+ "id": "n-af7e0341d4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "首个具备原生推理步骤的图像生成模型，可用于复杂的空间规划与自我修正。可通过 API 调用，模型标识为 gpt-image-2。",
+ "source_sha256": "37f1c01e524093c901a3588d281c1436d768dd3840912ab4658c31006b29ecf4",
+ "summary": "OpenAI 于 2026 年 4 月发布的统一多模态基础模型，取代了 DALL-E 系列。它引入了原生推理（“Thinking Mode”）、覆盖多种文字体系的近乎完美的排版能力，以及原生 4K 分辨率支持。",
+ "title": "GPT Image 2（OpenAI）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

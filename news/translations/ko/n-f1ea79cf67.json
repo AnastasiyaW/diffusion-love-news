@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 100M 파라미터 모델로 출시되었으며, 이후 CPU 성능을 위한 ONNX 최적화와 Apple Silicon을 위한 MLX 지원이 추가되었습니다. MOSS-TTS 2.0은 2026년 5월 커뮤니티 피드백을 반영하기 위해 발표되었습니다.",
+ "id": "n-f1ea79cf67",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "브라우저 중심의 로컬 읽기 통합 기능과, 추론 시 PyTorch 의존성을 제거한 전용 ONNX 버전이 포함되어 있습니다.",
+ "source_sha256": "f6bd44900a220ca3ee021cf0c9e445db037e104b06dae5e7486e17f1e3ba71ce",
+ "summary": "소비자용 CPU에서 고효율 실시간 배포를 목표로 설계된 오픈소스 다국어 text-to-speech 모델입니다. 제로샷 음성 복제를 지원하며, 고품질 48kHz 스테레오 출력을 제공합니다.",
+ "title": "MOSS-TTS-Nano",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

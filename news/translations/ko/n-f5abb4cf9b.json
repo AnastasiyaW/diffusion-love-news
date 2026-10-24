@@ -1,0 +1,10 @@
+{
+ "id": "n-f5abb4cf9b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "316bc609f3e399cd45d911b023f24168ca1b5f9d551e5ed1107bceeb92c81515",
+ "summary": "2026-07-01, Anthropic은 Claude Fable 5의 재배포와 관련된 뉴스 항목을 링크했으며, 이는 해당 프로젝트에 새로운 배포 수명주기 단계가 도입되었음을 나타낸다. 날짜가 기재된 링크만으로는 재배포의 이유, 기술적 변경 사항, 출시 범위, 또는 사용자에게 미치는 영향을 확인할 수 없다.",
+ "title": "Claude Fable 5가 다시 서비스에 투입됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

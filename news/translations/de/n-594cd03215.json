@@ -1,0 +1,10 @@
+{
+ "id": "n-594cd03215",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2e36494a9bdeb49b8309cfa91170faec19fd22c3ebb1acfcc9e37d383ecfa4a6",
+ "summary": "Am 22.07.2026 war Mage-Flow durch verlinkte Projektdokumentation und ein öffentliches Quell-Repository vertreten. Dieselbe datierte Linkliste enthielt außerdem Hugging-Face-Seiten zur Auffindbarkeit und Demonstrationsseiten, was auf einen zugänglichen Einstiegspunkt für Entwicklung und Evaluation des Projekts hindeutet. Allein anhand der angegebenen Links lassen sich weder eine genaue Release-Version noch technische Aussagen oder Benchmark-Ergebnisse belegen.",
+ "title": "Projektressourcen zu Mage-Flow sind verfügbar geworden",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

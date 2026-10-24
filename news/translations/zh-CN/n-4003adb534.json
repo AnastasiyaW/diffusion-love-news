@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖记录称，演示空间在前一天出现故障后已恢复，用户无需本地安装即可进行试用。",
+ "id": "n-4003adb534",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2f050bf3ab8905151b5d652a5b54fc0f7a1b61da8488dc71cf63bc6b9fc5e5e2",
+ "summary": "该新闻帖记录称，演示空间在前一天出现故障后已恢复，用户无需本地安装即可进行试用。",
+ "title": "ACE-Step 1.5 演示恢复正常运行",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

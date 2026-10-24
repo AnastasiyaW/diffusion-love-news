@@ -1,0 +1,10 @@
+{
+ "id": "n-66b11f2c1c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b04820a0b410c67ee71460f8d87f751fbb6e2856bf135cd5f4a05bbc2d1bc55c",
+ "summary": "2026-07-22 날짜의 기록에서 FedorAiToolkit GitHub 저장소가 bodyrec 저장소와 함께 연결되어 있었습니다. 현재 확인 가능한 근거로는 이 두 저장소 참조가 존재한다는 사실만 확인되며, 해당 기록에서 함께 등장한 것 이상의 릴리스, 코드 변경, 통합 또는 소유 관계는 확인되지 않습니다.",
+ "title": "FedorAiToolkit가 bodyrec 저장소와 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

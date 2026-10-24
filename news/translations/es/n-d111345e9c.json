@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto introdujo el escalado en tiempo de inferencia para modelos multimodales y un sistema modular de 'Skill', que permite que modelos más pequeños superen a grandes modelos propietarios como GPT-Image.",
+ "id": "n-d111345e9c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utiliza Sglang para el servicio de MLLM y Diffusers para los backends de generación de imágenes; la documentación está disponible en gems-gen.github.io.",
+ "source_sha256": "db9a72146669e76b357d7b269b4164d97e5a1417287818c55187a4010de8dade",
+ "summary": "GEMS es un marco multiagente que trata la generación de contenido multimodal como una tarea de optimización iterativa. Incorpora un sistema de bucle cerrado de planificación, verificación y refinamiento, respaldado por una memoria jerárquica y por habilidades de dominio extensibles.",
+ "title": "GEMS: generación multimodal nativa para agentes, con memoria",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

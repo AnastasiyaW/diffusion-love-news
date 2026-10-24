@@ -1,0 +1,10 @@
+{
+ "id": "n-49188c7915",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5fa77183b63927212af9a91bcd56b52313b7bade77bbbf78872875b0359a6eb9",
+ "summary": "Le 24 mars 2026, la fiche a enregistré un lien vers un dépôt Hugging Face de NVIDIA dont le chemin identifie NVPanoptix-3D v1.1 pour Matterport3D. Ce point est proposé comme une étape historique notable, car il renvoie à un artefact de modèle versionné pour le projet. Le lien seul ne permet pas de déterminer s'il s'agit d'une publication, d'une mise à jour ou d'une republication ; aucune affirmation sur les capacités ou la disponibilité n'est donc formulée.",
+ "title": "Lien vers le modèle NVPanoptix-3D v1.1 pour Matterport3D enregistré",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

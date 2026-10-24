@@ -1,0 +1,11 @@
+{
+ "id": "n-66869cc4a0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "打开 ElevenCreative Music Video Editor，上传视频，然后生成带音效的配乐；也可以选择将视频已有的音频作为配乐的参考。\n\n将音效作为独立的时间线图层进行审查，调整时间点或替换音乐，然后导出结果。\n\n若在视频工作流之外创作音乐，请用自然语言提示描述流派、情绪、配器、结构和使用场景，然后编辑段落或重新生成。\n\n使用详细的提示，将流派、情绪、配器、节奏和使用场景结合起来，而不要只用笼统的流派标签。\n\n创作较长的作品时，应先生成并确认前奏，再逐段构建后续部分并优化提示，而不是从头重新生成整首曲目。\n\n使用独立的音效图层检查提示点的时间，并在导出前逐个修改具体片段。",
+ "source_sha256": "072a78b651bfd1a26e511f373b87868ff5812d6f0d4b42eeb602ae015a308cfd",
+ "summary": "Instant Soundtracks 可根据上传的视频生成配乐以及带时间戳的音效，将音效呈现为可编辑的图层，并可通过 API 分别返回音乐文件和音效文件。",
+ "title": "ElevenLabs 为上传的视频新增 Instant Soundtracks 功能",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

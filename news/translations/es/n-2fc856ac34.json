@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto fue aceptado en CVPR 2026 y representa un cambio desde las \"carreras armamentísticas\" adversariales hacia modelos coevolutivos. Está construido sobre la arquitectura BAGEL-7B-MoT y demuestra un rendimiento state-of-the-art en la generalización de la detección entre generadores distintos.",
+ "id": "n-2fc856ac34",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por investigadores de la Universidad de Tsinghua; los pesos están alojados en Hugging Face, bajo la organización Yanran21.",
+ "source_sha256": "b8e1d19642995c38ceaa8afab8ff6e87fb69bd9cf074e687019513c5ba93b7de",
+ "summary": "UniGenDet es una arquitectura de bucle cerrado que conecta la generación de imágenes con la detección de imágenes generadas por IA. Permite que el generador y el detector evolucionen de forma sincronizada, utilizando los priors generativos para mejorar la robustez de la detección y la retroalimentación del detector para aumentar el realismo de las imágenes.",
+ "title": "UniGenDet: marco unificado generativo-discriminativo para la generación y detección coevolutiva de imágenes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

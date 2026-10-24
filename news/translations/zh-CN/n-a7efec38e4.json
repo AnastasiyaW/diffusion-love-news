@@ -1,0 +1,10 @@
+{
+ "id": "n-a7efec38e4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "98ca83430c55bdcd4cac9c6c658d753a5d281341da408c67f6c84c171d14cd85",
+ "summary": "2026年6月30日，Qwen 开发线纳入了一个指向 Hugging Face 仓库 Qwen/Qwen3-ASR-1.7B-hf 的链接。其以 ASR 为导向的模型名称表明，这是已记录的 Qwen 产品线向语音识别领域的实质性延伸；但不会从随附的记录链接中得出任何额外结论。",
+ "title": "Qwen3-ASR-1.7B-hf 检查点参考",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

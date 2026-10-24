@@ -1,0 +1,11 @@
+{
+ "id": "n-c6ff419784",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "L'aperçu officiel de première main, daté du 2026-08-14, ajoute Soundtrack, Music, SFX et Speech au Pika API Club.",
+ "source_sha256": "cc26bc71b72bab101d8dd1b7293bc5848a543101cefc69434175019a35ddb745",
+ "summary": "Le 2026-08-17, Pika a publié des pages officielles consacrées à ses modèles Pika Audio, à la documentation de son API pour développeurs et à un terrain de jeu Pika Music. Ces liens montrent que Pika a élargi son offre produit publique avec un accès à des modèles audio et à la génération de musique. Les seuls liens fournis n'établissent toutefois ni les spécifications des modèles, ni la tarification, ni les conditions de disponibilité.",
+ "title": "Pika publie la famille de modèles Pika Audio et le terrain de jeu Pika Music",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

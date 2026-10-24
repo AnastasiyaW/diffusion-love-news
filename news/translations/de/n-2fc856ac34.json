@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde für die CVPR 2026 angenommen und markiert einen Wandel von adversarialen „Rüstungswettläufen“ hin zu ko-evolutionären Modellen. Es baut auf der Architektur BAGEL-7B-MoT auf und erzielt state-of-the-art-Ergebnisse bei der Generalisierung der Erkennung über verschiedene Generatoren hinweg.",
+ "id": "n-2fc856ac34",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt wurde das Modell von Forschenden der Tsinghua-Universität; die Gewichte werden auf Hugging Face unter der Organisation Yanran21 bereitgestellt.",
+ "source_sha256": "b8e1d19642995c38ceaa8afab8ff6e87fb69bd9cf074e687019513c5ba93b7de",
+ "summary": "UniGenDet ist eine geschlossene Architektur, die Bildgenerierung und die Erkennung KI-generierter Bilder miteinander verbindet. Generator und Detektor entwickeln sich dabei synchron weiter: Generative Priors stärken die Robustheit der Erkennung, und das Feedback des Detektors verbessert den Realismus der erzeugten Bilder.",
+ "title": "UniGenDet: Ein vereinheitlichtes generativ-diskriminatives Framework für die ko-evolutionäre Bildgenerierung und -erkennung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

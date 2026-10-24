@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'un script Python orienté recherche à un runtime C++ natif accéléré par le matériel. Il prend désormais en charge NVIDIA TensorRT sous Windows et Apple Silicon via MLX, avec une intégration complète dans les NLE modernes comme DaVinci Resolve 19.",
+ "id": "n-169e12a080",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par Alexandre Alvaro en collaboration avec Corridor Digital. Comprend une interface graphique de bureau autonome et une CLI pour le traitement par lots.",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "Une solution native de détourage par fond vert fondée sur l'IA, conçue pour une exécution locale hautes performances. Elle fournit un matting de qualité professionnelle sous forme de plugin OFX pour DaVinci Resolve et Foundry Nuke, sans nécessiter d'environnement Python complexe.",
+ "title": "CorridorKey-Runtime : détoureur IA pour fond vert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-2222547f97",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast 支持文生视频和图生视频，Pro 新增音频生视频、Retake 和 Extend 功能；22B 的 dev 与 distilled 权重以及潜空间上采样器同步发布。",
+ "source_sha256": "0332afcf4f1322905920ce4cfb7fd721dd86b080ab6d6e73bf64be33d2f42540",
+ "summary": "2026年3月5日，LTX-2.3 与其模型页面、快速入门文档以及文生视频体验平台建立了关联。此举标志着 LTX-2.3 系列迈出了公开可用和用户上手的一步，既提供参考资料，也提供了可直接交互的入口。",
+ "title": "LTX-2.3 发布，配套文档与文生视频体验平台上线",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

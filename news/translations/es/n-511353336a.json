@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde scripts individuales hasta convertirse en un estudio de cine agéntico completo, que utiliza Ollama para la dirección y LTX-Video para la síntesis. Ahora admite la planificación automatizada de escenas, la generación de múltiples tomas y herramientas de edición integradas.",
+ "id": "n-511353336a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integra modelos basados en Gemma para la escritura de guiones y LTX 2.3/LTX-AV para la generación de vídeo; forma parte del ecosistema AgentSkills.",
+ "source_sha256": "f67285c736bff3dd75febc740648f0fe381c39ade97fba88e3395af9b722562c",
+ "summary": "Un pipeline local y autónomo que convierte prompts de texto o guiones en vídeos cinematográficos producidos, mediante LLM agénticos. Orquesta el análisis del guion, la creación de storyboards y la generación de vídeo dentro de un entorno unificado basado en ComfyUI.",
+ "title": "KupkaProd Cinema Pipeline: estudio de cine local con IA agéntica",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

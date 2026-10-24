@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Elle est passée d'un simple outil de texturage à une suite de raffinement spécialisée destinée aux artistes 3D. Les mises à jour majeures récentes incluent la prise en charge de la cohérence multi-vues, l'in-painting ciblé de textures sur des zones spécifiques du maillage et la segmentation PBR automatisée.",
+ "id": "n-c8fc3fe21e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Intégrée couramment dans les flux de travail professionnels comme étape de post-traitement pour les assets générés par des outils tels que Trellis ou Tripo AI.",
+ "source_sha256": "bc911750eb3df5c05fb11103929f22d1f64d045d7844c6469885cff632a406d0",
+ "summary": "Modddif est une plateforme fondée sur l'IA, conçue pour texturer, raffiner et nettoyer des modèles 3D. Elle se spécialise dans la génération de textures multi-vues, l'in-painting de textures et la création de cartes PBR afin d'améliorer les maillages bruts générés par IA.",
+ "title": "Modddif — Boîte à outils IA de texturage et de raffinement de modèles 3D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

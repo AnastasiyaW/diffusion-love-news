@@ -1,0 +1,10 @@
+{
+ "id": "n-b636bdc989",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fbd2e2fe17bf0475e3d5804316695e5df01944274b425a2e70e0919e38f6f792",
+ "summary": "Le 2026-05-19, un lien public associé à Starchild-1 renvoyait à un article d'Odyssey, identifié par son URL comme une présentation du projet. Il est proposé de l'inscrire comme nouvel événement historique, car il semble marquer la première présentation publique du projet. Les éléments scellés ne fournissent aucun détail technique, de disponibilité ou de performance ; aucun n'est donc affirmé.",
+ "title": "Annonce publique initiale de Starchild-1",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

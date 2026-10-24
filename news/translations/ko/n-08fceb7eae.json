@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 도구는 기본적인 미리보기 도구에서 본격적인 제어 센터로 발전했습니다. 분리 가능한 다중 모니터 지원, 시퀀스 타임라인 스크러빙, 그리고 뷰어 내에서 노드를 직접 조작할 수 있는 Parameters Panel이 추가되었습니다.",
+ "id": "n-08fceb7eae",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "개인 사용은 여전히 무료이지만, 상업적 사용에는 bEpic GmbH의 라이선스가 필요합니다. 이 도구는 ComfyUI에서 전문적인 품질 管理를 위한 표준으로 자리 잡고 있습니다.",
+ "source_sha256": "6e2f80cfb6677314416b35b87e4c32f60cc7b5fe6bff4f7856b58f6a57d83582",
+ "summary": "전문 VFX 스타일 리뷰 워크플로를 위해 설계된 ComfyUI용 고성능 시각 검사 및 비교 도구입니다. 실시간 노출 조정, RGB 채널 분리, 고급 스냅샷 버전 관리 기능을 갖추고 있습니다.",
+ "title": "bEpic Viewer Professional ComfyUI Review Suite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

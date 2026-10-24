@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die Plattform hat sich von älteren GAN-basierten Modellen zum diffusionsbasierten Lipsync-2 und dem aktuellen Flaggschiff Sync-3 entwickelt. Sync-3 führt native 4K-Verarbeitung, eine verbesserte Erkennung von Verdeckungen sowie visuelles Dubbing über die gesamte Einstellung ein, das Hauttexturen und Lichtkonsistenz beibehält.",
+ "id": "n-d883c4c40c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Zu den Funktionen gehören Active Speaker Detection (ASD-1) für Szenen mit mehreren Personen sowie die Integration in professionelle Workflows über ein Adobe-Premiere-Pro-Plugin und eine robuste API.",
+ "source_sha256": "f1f2dfe7b3b441b63dc37690cd85d49b68a326962a4fc993ffb309d2de37a8c8",
+ "summary": "Sync.so ist eine AI-Plattform auf Studioniveau, die hochpräzises visuelles Dubbing und Lip-Syncing für professionelle Videoproduktionen bereitstellt. Sie ermöglicht nahtloses Voice Cloning und Alignment und bewahrt dabei die Mimik und emotionalen Nuancen der Schauspielerinnen und Schauspieler über mehrere Sprachen hinweg.",
+ "title": "Sync.so AI Visual Dubbing und Lip-Sync Studio",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

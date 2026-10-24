@@ -1,0 +1,10 @@
+{
+ "id": "n-98db5e9f27",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e0c72c24b0638754b2ffc43e61e16d994ce684aefc6a5962bbdbc75684114051",
+ "summary": "El 2026-07-30 se vincularon un repositorio de Hugging Face llamado SeedVR2-1.4B y su directorio de ComfyUI. Esto documenta una vía de distribución práctica orientada a ComfyUI para el modelo mencionado, aunque los enlaces con fecha por sí solos no verifican su procedencia, integridad ni compatibilidad.",
+ "title": "Se vinculó el paquete de SeedVR2-1.4B para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

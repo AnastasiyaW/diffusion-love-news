@@ -1,0 +1,10 @@
+{
+ "id": "n-86023c7979",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a7acd5be618e57ab93f6c52cd77fc43a76fb16c2d52ddd21c7f0551494c1d293",
+ "summary": "2026년 7월 15일, SAM2Matting이 공식 프로젝트 페이지, 소스 코드, 모델 호스팅, 인터랙티브 데모 등 연결된 리소스를 통해 공개되었습니다. 독자들이 연결된 리소스를 통해 구현물을 찾고 직접 평가할 수 있게 되었으므로, 이는 이 프로젝트의 공개 접근성에서 의미 있는 진전입니다.",
+ "title": "SAM2Matting 공개 프로젝트 리소스 제공 시작",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

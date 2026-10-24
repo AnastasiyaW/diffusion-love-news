@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从基础的立体实用节点发展为一套综合性的全景外绘系统，并与 LTX-Video 2.3 集成，用于扩展视场角。",
+ "id": "n-af1e479850",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含一个感知显存的安装程序，以及用于并排（SBS）3D 深度生成的专用节点。",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "一套 ComfyUI 节点，可通过对标准视频内容进行外绘（outpainting）来创建沉浸式 VR 全景。它利用 LTX-Video 2.3 进行全景扩展，并支持 VR180、360 等距柱状投影（equirectangular）和鱼眼投影。",
+ "title": "Muffins Flat 2：ComfyUI VR 全景节点",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

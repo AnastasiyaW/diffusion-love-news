@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de un repositorio viral en GitHub a un framework completo con un artículo técnico en arXiv y soporte para Model Context Protocol (MCP). La actualización v3.x introdujo el dialecto de compresión AAAK y mejoró el rendimiento local-first.",
+ "id": "n-a3583f87c7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Creado conjuntamente por la actriz Milla Jovovich y el desarrollador Ben Sigman; destaca por evitar la 'deriva por resumen' (summarization drift) presente en otros sistemas de memoria para IA.",
+ "source_sha256": "29883f5dfd027546efde73b0a57dd5755b2377c288766b41ebcedc2315dfaa6f",
+ "summary": "Un sistema de memoria para IA de tipo local-first que utiliza una ruta de escritura sin inferencia de LLM y almacenamiento jerárquico para mantener un contexto de largo plazo con prioridad en el texto literal. Emplea un dialecto de compresión propio, AAAK, para alcanzar una densidad de datos de 30x legible por LLM.",
+ "title": "MemPalace: compresión infinita y eficiente de memoria para LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement un simple script d'automatisation, il est devenu une compétence d'agent spécialisée, avec un rendu en local par défaut, la suppression automatique des mots parasites et la prise en charge d'incrustations programmatiques via HyperFrames et Remotion.",
+ "id": "n-047f61d312",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimisé pour les agents fonctionnant en terminal ; intègre « 12 hard rules » pour des coupes de qualité professionnelle, et a récemment été mis à jour pour prendre en charge l'encodage UTF-8 et la préservation de l'orientation portrait.",
+ "source_sha256": "60b6f9112b9eaa58b79539cca7b019e32d090513e3b38734f37170cd1a001224",
+ "summary": "Un framework open source permettant à des agents IA comme Claude Code d'effectuer un montage vidéo automatisé à partir de consignes en langage naturel. Il s'appuie sur des composites visuels et des métadonnées structurées pour guider FFmpeg, dans une production précise et économe en tokens.",
+ "title": "video-use : boîte à outils de montage vidéo pour agents IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-d6f1ea9ec7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "503b99be2b964f7d9c464ccc11287b8e568b3048f8347d418bfdf6694db77eae",
+ "summary": "2026년 3월 24일자 기록에는 GlyphPrinter의 GitHub 저장소와 Hugging Face 페이지가 링크되어 있었다. 현재 확보된 근거로는 이 두 프로젝트 리소스가 참조되었다는 사실만 확인할 수 있으며, 릴리스 버전, 모델 내용, 성능 주장, 또는 해당 리소스가 그날 새로 공개되었는지 여부는 확인되지 않는다.",
+ "title": "GlyphPrinter 공개 프로젝트 리소스가 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

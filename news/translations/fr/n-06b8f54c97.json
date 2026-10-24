@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Actuellement en extension, du fine-tuning de modèles de diffusion d'images statiques vers les modèles de génération vidéo ; publication prochaine du code d'entraînement complet et des scripts multi-nœuds.",
+ "id": "n-06b8f54c97",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construit à partir de DiffusionNFT ; utilise le Multiple Gradient Descent Algorithm (MGDA) pour harmoniser les gradients de récompenses en conflit.",
+ "source_sha256": "2b82737cd05a9285b97a889994964999a133a006aba6cd9002e05afd87c53056",
+ "summary": "MARBLE est un cadre d'apprentissage par renforcement conçu pour affiner des modèles de diffusion en équilibrant simultanément plusieurs critères de qualité. Il remplace la pondération manuelle des récompenses par une harmonisation dans l'espace des gradients afin d'améliorer l'esthétique, l'alignement textuel et la sécurité en une seule session d'entraînement.",
+ "title": "MARBLE : cadre d'apprentissage par renforcement pour l'alignement multi-aspect des modèles de diffusion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

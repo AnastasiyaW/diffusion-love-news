@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Développé à partir d'un workflow ComfyUI manuel pour devenir un outil autonome unifié, doté d'une interface graphique et d'une interface en ligne de commande, afin de résoudre les problèmes de scintillement et d'espace colorimétrique dans les pipelines VFX professionnels. Les mises à jour récentes ont intégré SAM 3 pour un affinement d'alpha et un masquage sémantique de haute précision.",
+ "id": "n-23270485c3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Conçue spécifiquement pour les compositeurs Nuke, afin de fournir des passes IA fiables et multicanaux sans la complexité des graphes IA basés sur des nœuds.",
+ "source_sha256": "4a7d3b4250755fe03f4e9be839a8c4eb174042ebb6e51743148ad8f5a9902ffc",
+ "summary": "Une application autonome open source qui génère des passes VFX de haute qualité, telles que la profondeur, les normales et les masques de segmentation, à partir de séquences filmées en prise de vues réelle. Elle automatise la création de fichiers EXR d'accompagnement compatibles avec Nuke, tout en gérant les conversions d'espace colorimétrique scene-linear et le traitement par lots.",
+ "title": "Outil autonome LiveActionAOV pour la génération par lots de passes VFX",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

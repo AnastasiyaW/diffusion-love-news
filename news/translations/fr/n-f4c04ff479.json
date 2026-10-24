@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Plateforme passée d'un outil de capture en version bêta à un moteur spatial unifié intégrant l'automatisation par IA. Les itérations actuelles proposent Spatial Sense AI pour l'analyse de scène et le streaming LOD, permettant d'afficher du 3DGS haute fidélité dans les navigateurs mobiles.",
+ "id": "n-f4c04ff479",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utilisée pour de grandes démonstrations commerciales, comme le Singapore Air Show 2026 ; prend en charge des formats de splats optimisés, tels que .spz et .sogs.",
+ "source_sha256": "7f462b464d26d070797d027c61d9287c8d6763684ea16f12d1f336c7a25267c3",
+ "summary": "Spatial Studio est une plateforme SaaS permettant de créer des visualisations 3D immersives grâce à la technologie Gaussian Splatting. Elle se spécialise dans le marketing immobilier en combinant des scans à l'échelle d'un site avec Google 3D Maps et des panoramas à 360° haute résolution.",
+ "title": "Spatial Studio : Gaussian Splatting 3D par Real Horizons",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

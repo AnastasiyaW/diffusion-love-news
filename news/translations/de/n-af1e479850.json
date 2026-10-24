@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt sich von einfachen Stereo-Hilfsknoten zu einem umfassenden System für panoramisches Outpainting, das für die Erweiterung des Sichtfelds in LTX-Video 2.3 integriert ist.",
+ "id": "n-af1e479850",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält einen VRAM-bewussten Installer sowie spezialisierte Knoten zur Erzeugung von 3D-Tiefen im Side-by-Side-Format (SBS).",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "Eine Sammlung von ComfyUI-Knoten zur Erstellung immersiver VR-Panoramen durch Outpainting von herkömmlichen Videoinhalten. Für die panoramische Erweiterung wird LTX-Video 2.3 eingesetzt; unterstützt werden die Projektionen VR180, 360 equirectangular und Fisheye.",
+ "title": "Muffins Flat 2: ComfyUI-Knoten für VR-Panoramen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

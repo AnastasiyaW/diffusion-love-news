@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié comme cadre de recherche en vogue sur ArXiv (ID : 2604.08546) en avril 2026 ; il est actuellement en cours d'intégration en tant que module plug-and-play pour des modèles tels qu'OpenSora et Wan2.1.",
+ "id": "n-e3abad048f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par le groupe H-EmbodVis de l'Université des sciences et technologies de Huazhong ; il apporte une amélioration significative de la précision numérique sans nécessiter de réentraînement du modèle.",
+ "source_sha256": "a12540d5c96851a2ee85169c291a6dd1701214608d7f5ca64d4a0f7ff61884e9",
+ "summary": "Un cadre sans entraînement qui améliore la précision du comptage d'objets dans les modèles de diffusion vidéo à partir de texte. Il identifie des têtes d'attention spécifiques afin de créer des dispositions latentes dénombrables, garantissant que la vidéo générée correspond au nombre exact d'instances indiqué dans le prompt.",
+ "title": "NUMINA : alignement numérique pour la diffusion vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

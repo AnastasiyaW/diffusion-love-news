@@ -1,0 +1,10 @@
+{
+ "id": "n-cf8c575ede",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1265471d9a6940bd63505d931380fcdf195e5165fa49b22ba129531c8f84d0ec",
+ "summary": "El 14 de agosto de 2026, un registro de SCoPE vinculó su sitio del proyecto, el repositorio de código de TencentARC y su página en Hugging Face. En conjunto, estos enlaces ofrecieron puntos de entrada públicos a la información del proyecto, al código fuente y a los materiales de alojamiento de modelos. No establecen una fecha de publicación, una versión, la autoría ni las capacidades.",
+ "title": "Se vincularon los recursos del proyecto SCoPE",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-c51396234c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用 Cosmos Curator 整理多模态视频和传感器数据集,过滤掉损坏或不符合物理规律的序列。\n\n在云端 GPU 基础设施上部署 Cosmos Data Factory 蓝图,生成合成的物理场景和边缘情况片段。\n\n使用 NVIDIA NeMo Framework,在特定领域的机器人或车辆传感器布局数据上微调基础 checkpoint。\n\n使用容器化的 NVIDIA NIM 微服务部署经过优化的世界模型 checkpoint,以实现高吞吐量推理。\n\n在微调之前使用 Cosmos Curator,剔除会削弱物理一致性的损坏或不符合物理规律的相机轨迹。\n\n使用 Cosmos Data Factory 蓝图合成罕见的危险场景和边缘情况场景,这些场景在实际测试中不安全或难以采集。\n\n通过容器化的 NVIDIA NIM 微服务部署训练好的世界模型,以利用企业级 GPU 上的硬件加速批处理能力。",
+ "source_sha256": "2c517d7192fc653db7363620eb484ca3debc0607f159a153c0250044cf01fbb2",
+ "summary": "NVIDIA 扩展了其 Cosmos 世界模型平台,新增 Cosmos Data Factory 合成数据蓝图、Cosmos Curator 过滤工具、NeMo 后训练流水线,以及用于物理 AI 开发的 NIM 微服务部署容器。",
+ "title": "NVIDIA 扩展 Cosmos 平台,新增训练与部署工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

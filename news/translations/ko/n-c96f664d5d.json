@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 65개의 고품질 장면과 함께 정식 공개되었다. 2026년 5월 기준으로 인터랙티브 Gaussian 장면이 추가되었으며, 자연어 내비게이션을 지원하는 LLM 기반 HabitatAgent 데모가 업데이트되었다.",
+ "id": "n-c96f664d5d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "시각 내비게이션 분리(visual-navigation decoupling)를 도입한다. 3DGS는 외관을 담당하고 NavMesh는 충돌 처리를 담당한다. 사람을 고려한 내비게이션 학습을 위해 GaussianAvatar 기반의 동적 휴머노이드 아바타를 지원한다.",
+ "source_sha256": "3e17b7c6d0a0db7a9d0f70f9f5832a231b9aa09629ea45209781204a94eb04fa",
+ "summary": "3D Gaussian Splatting을 Meta Habitat 생태계에 통합한 고충실도 내비게이션 시뮬레이터다. 기존 내비게이션 메시 및 물리 엔진과의 호환성을 유지하면서, 자율 에이전트 학습을 위한 사실적인 RGB 및 깊이 렌더링을 지원한다.",
+ "title": "Habitat-GS: 로봇 내비게이션을 위한 Gaussian Splatting 시뮬레이터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

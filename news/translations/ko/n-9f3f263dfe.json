@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 ArXiv에 처음 공개된 이후 SIGGRAPH 2026에서 정식 발표되었습니다. StyleBench-H 및 StyleBench-S 데이터셋의 공개로 프로젝트가 확장되었으며, 아이덴티티 보존 확산 모델을 위한 벤치마크로 자리 잡고 있습니다.",
+ "id": "n-9f3f263dfe",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "스타일화와 무관한 인식(stylization-agnostic recognition)을 위한 평가 지표를 포함하며, 비상업적 연구용 라이선스로 공개되었습니다.",
+ "source_sha256": "7afa2e1e5c3f320a0bcd0a7c07eacefebf6c270973a0df71a6d1370727c954d3",
+ "summary": "StyleID는 극단적인 예술 스타일 전반에서 얼굴 일관성을 유지하도록 설계된 CLIP 기반의 전용 아이덴티티 인코더입니다. StyleBench 데이터셋을 통해 기계의 임베딩을 인간의 지각과 정렬함으로써 생성 모델의 '아이덴티티 드리프트(identity drift)' 문제를 해결합니다.",
+ "title": "StyleID: 포트레이트 개인화를 위한 인지 인식 아이덴티티 인코더",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

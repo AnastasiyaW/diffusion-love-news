@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelte sich von einem Forschungsprototyp zu einem produktionsreifen lokalen Dienst mit MCP-Integration. Er unterstützt nun große Agentenplattformen wie Claude Code und Gemini CLI und bietet eine detaillierte Nachvollziehbarkeit von durch Agenten vorgenommenen Änderungen.",
+ "id": "n-cfec66a95b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verwendet das Model Context Protocol (MCP), um Werkzeuge für Agenten bereitzustellen; die Bereitstellung wird über das npm-Paket 'aose-main' verwaltet.",
+ "source_sha256": "b577bc25e3e52600334b70504210960a31892d9bf919a8a0a00c0daa5feb0f1a",
+ "summary": "Eine lokal ausgerichtete Büroanwendung, die für die Echtzeit-Zusammenarbeit zwischen Menschen und KI-Agenten bei Dokumenten, Datenbanken, Präsentationen und Flussdiagrammen konzipiert ist. Agenten können direkt mit laufenden Objekten interagieren, statt nur statische Chatnachrichten zu senden, und die Anwendung bietet eine umfassende, für Agenten nachvollziehbare Versionshistorie.",
+ "title": "AgentOfficeSuite (AOSE) — kollaborative Büroanwendung für Menschen und KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

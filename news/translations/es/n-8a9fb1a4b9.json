@@ -1,0 +1,10 @@
+{
+ "id": "n-8a9fb1a4b9",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "75657c6ddf90450f0b7a205716f9ac76c987bf0b15779e3c5f24554cc5b76682",
+ "summary": "El 2026-07-21, un miembro de la rama de Lucida vinculó el repositorio de GitHub del proyecto, la página del modelo en Hugging Face y dos Spaces de Hugging Face. En conjunto, esos enlaces fechados marcan un punto de referencia público relevante para los recursos de código, modelo, demostración y showcase de Lucida. Por sí solos, los enlaces no permiten establecer cuál de esos recursos se publicó por primera vez ese día ni describir sus capacidades.",
+ "title": "Se vincularon los recursos de desarrollo de Lucida",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3554d5183b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "34253fde6d436bb7d2e721f0f0cbdc151f43cd8e009ed2ec4b3b7d08bc645e17",
+ "summary": "Am 03.08.2026 wurde PrunaVAED im Entwicklungsthread zu LTX Video festgehalten, zusammen mit Verweisen auf sein Hugging-Face-Repository und einen Pull Request für ComfyUI. Dies ist ein wesentlicher, integrationsrelevanter Meilenstein, wobei die vorliegenden Belege jedoch weder den Ausgang des Pull Requests noch dessen Version oder Laufzeitverhalten belegen.",
+ "title": "PrunaVAED wird im LTX-Video-Integrationsthread erwähnt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

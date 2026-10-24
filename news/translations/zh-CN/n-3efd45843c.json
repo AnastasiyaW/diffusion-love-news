@@ -1,0 +1,11 @@
+{
+ "id": "n-3efd45843c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "打开ElevenCreative界面，选择角色生成工作室。\n\n上传角色参考图像，或使用文本提示生成视觉主体。\n\n为角色选择Eleven v4语音，或分配克隆语音配置文件。\n\n在脚本编辑器中输入对白，并插入方括号形式的情感标签（如[whispers]或[laughs]），以引导语音表达和面部表情。\n\n执行生成渲染，导出口型同步的角色视频。\n\n将情感标签置于目标句子或词语之前，确保语音模型与视频生成器将相应的面部表情与语音语调对齐。\n\n使用高分辨率、正面朝向且面部特征清晰的参考肖像，以避免在复杂情感表达时出现口型同步失真。\n\n保持单个对白片段简短，以维持面部一致性，并防止在长时间视频渲染过程中出现漂移。",
+ "source_sha256": "292224175f65dec200edb8ce53fbfa21553f03249e6298fc14ce8a3b6cdd4796",
+ "summary": "ElevenLabs推出Chimera，将其Eleven v4情感语音引擎与Seedance 2.5视频生成模型相结合，可直接根据文本脚本、情感标签和参考图像生成口型同步的说话角色。",
+ "title": "ElevenLabs将Chimera AI角色系统集成至ElevenCreative",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

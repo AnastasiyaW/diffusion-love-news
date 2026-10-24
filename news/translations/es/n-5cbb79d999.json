@@ -1,0 +1,10 @@
+{
+ "id": "n-5cbb79d999",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8f394d1b6cce0ec13a20465efeb4e1c66d0bf7742b29dee452c1bc9d4e6baef3",
+ "summary": "El 19 de mayo de 2026, SIMART apareció vinculado tanto a su sitio web del proyecto como al repositorio de Hugging Face ByteDance-Seed/SimArt. Se considera un hito relevante de distribución porque una referencia fechada a un repositorio de modelos aparece junto a la página del proyecto. La evidencia disponible no permite establecer el contenido del repositorio, la licencia ni el estado exacto de la publicación.",
+ "title": "Repositorio de Hugging Face de SIMART referenciado",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

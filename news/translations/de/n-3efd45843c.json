@@ -1,0 +1,11 @@
+{
+ "id": "n-3efd45843c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Öffnen Sie die ElevenCreative-Oberfläche und wählen Sie das Studio zur Charaktergenerierung aus.\n\nLaden Sie ein Referenzbild des Charakters hoch oder erzeugen Sie ein visuelles Motiv mithilfe eines Textprompts.\n\nWählen Sie eine Eleven-v4-Stimme aus oder weisen Sie dem Charakter ein geklontes Stimmprofil zu.\n\nGeben Sie Dialoge im Skripteditor ein und fügen Sie in eckigen Klammern stehende Emotions-Tags wie [whispers] oder [laughs] ein, um die stimmliche Umsetzung und den Gesichtsausdruck zu steuern.\n\nRendern Sie den Generierungsdurchlauf, um das lippensynchrone Charaktervideo zu exportieren.\n\nPlatzieren Sie Emotions-Tags unmittelbar vor dem betreffenden Satz oder Wort, damit das Sprachmodell und der Videogenerator den entsprechenden Gesichtsausdruck auf den stimmlichen Ton abstimmen.\n\nVerwenden Sie hochauflösende, frontal ausgerichtete Referenzporträts mit klar erkennbaren Gesichtszügen, um Verzerrungen der Lippensynchronisation bei komplexen emotionalen Darbietungen zu vermeiden.\n\nHalten Sie einzelne Dialogsegmente kurz, um die Gesichtskonsistenz zu wahren und ein Abdriften über längere Videorendering-Durchläufe zu verhindern.",
+ "source_sha256": "292224175f65dec200edb8ce53fbfa21553f03249e6298fc14ce8a3b6cdd4796",
+ "summary": "ElevenLabs stellte Chimera vor, das die emotionale Sprachengine Eleven v4 mit dem Videogenerierungsmodell Seedance 2.5 kombiniert, um synchronisierte sprechende Charaktere direkt aus Textskripten, Emotions-Tags und Referenzbildern zu erzeugen.",
+ "title": "ElevenLabs integriert das Chimera-KI-Charaktersystem in ElevenCreative",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

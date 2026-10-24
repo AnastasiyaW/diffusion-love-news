@@ -1,0 +1,10 @@
+{
+ "id": "n-b63f0f79e7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "292b1d7925d14f240054daba868ee5aa40c52d38cb33bb76b58fb4dfac7af6d5",
+ "summary": "2026-08-03, Qwen 스레드에서 qwen3.8로 식별되는 Qwen 블로그 URL이 공유되었다. 이는 Qwen3.8-Max와 연관된 날짜가 명시된 공개 참조 자료로, 새로운 히스토리 이벤트로 기록할 필요가 있다. 발표 내용, 출시 상태, 기술적 변경 사항은 추가 조사 전까지 검증되지 않았다.",
+ "title": "Qwen3.8 관련 Qwen 블로그 게시물",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

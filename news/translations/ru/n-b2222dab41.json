@@ -1,0 +1,10 @@
+{
+ "id": "n-b2222dab41",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e2cec07812ade1a3f7ba6c49993ce5259b6e22706d1a05e143a316e160dd9413",
+ "summary": "12 июня 2026 года датированная запись связала репозиторий NVIDIA DiffusionGemma-26B-A4B-it-NVFP4 на Hugging Face с репозиторием DiffusionGemma-26B-A4B-it от Google. Это существенная точка распространения в линии развития проекта, поскольку она выделяет отдельный вариант NVFP4, размещённый NVIDIA, в соотношении с исходной моделью.",
+ "title": "Репозиторий NVIDIA DiffusionGemma NVFP4 упомянут вместе с исходной моделью Google",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

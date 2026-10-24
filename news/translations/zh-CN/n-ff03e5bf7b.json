@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从 2024 年底的半成品实用工具发展为 2026 年初的生产就绪套件。v2.0 重构引入了独立悬浮查看器（MFV）、后端与前端分离，并针对海量资产集合优化了 SQLite 索引。",
+ "id": "n-ff03e5bf7b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在隐私保护与运行速度方面进行了高度优化；所有索引与搜索功能均使用 SQLite FTS5 在本地 100% 运行。",
+ "source_sha256": "af4ccbf2763f1a6f32d77e0bb5bde3b690a6023e8f98dfcadf98b3a1d2254da2",
+ "summary": "一款高性能的资产浏览与管理套件，可为本地 ComfyUI 生成的内容建立索引，实现即时搜索与工作流恢复。它具备深度元数据分析能力，用户可以浏览、评分，并将资产直接拖拽到画布上，以还原其完整的节点图。",
+ "title": "Majoor Assets Manager for ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

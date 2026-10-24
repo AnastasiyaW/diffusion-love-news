@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Veröffentlicht im April 2026 mit dem Modell GameCoder-27B und der Evaluierungssuite OpenGame-Bench. Es entwickelte sich von einfacher Codegenerierung zu einem dualen Fähigkeitssystem (Template & Debug) mithilfe von execution-grounded Reinforcement Learning.",
+ "id": "n-7cc366b545",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Forschenden des CUHK MMLab; nutzt VLM-Judges zur Echtzeitprüfung der Spielbarkeit und der visuellen Übereinstimmung.",
+ "source_sha256": "41b49ae87369f0351854c7dd02fa7a493501049335c1f3445fd1d7ef3982e1d2",
+ "summary": "Ein quelloffenes agentisches Framework für die autonome, durchgängige Erstellung von Webspielen mithilfe spezialisierter LLMs. Es generiert aus natürlichsprachlichen Prompts vollständig spielbare 2D-Spiele, indem es Fähigkeiten für Design, Programmierung und automatisiertes Debugging integriert.",
+ "title": "OpenGame: Open Agentic Coding for Web Games",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

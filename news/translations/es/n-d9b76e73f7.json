@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seleccionado como Highlight de CVPR 2026, Vista4D se publicó en abril de 2026 con el código de inferencia de código abierto y los pesos del modelo (384p y 720p). Utiliza el modelo base Wan2.1-T2V-14B y actualmente forma parte de la hoja de ruta de Netflix para el cine impulsado por IA.",
+ "id": "n-d9b76e73f7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por Eyeline Studios (Netflix) en colaboración con investigadores de Columbia, UCLA, Stony Brook y Oxford.",
+ "source_sha256": "c7860a2ef71a1e49377f2af4700d699521b760ee45ddf8678fcc359c679b2cb8",
+ "summary": "Vista4D es un framework de Eyeline Labs, la división de Netflix, que sintetiza metraje de vídeo existente a partir de trayectorias de cámara completamente nuevas utilizando nubes de puntos 4D. Combina la reconstrucción 4D con modelos generativos de vídeo para permitir el encuadre de cámara y la recomposición de escenas en postproducción.",
+ "title": "Vista4D: framework de Netflix para el reencuadre de vídeo en 4D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

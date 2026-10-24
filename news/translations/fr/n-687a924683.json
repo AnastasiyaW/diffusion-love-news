@@ -1,0 +1,11 @@
+{
+ "id": "n-687a924683",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Identifiez la version actuelle de l'instance GitLab auto-hébergée en consultant le tableau de bord d'administration ou en exécutant gitlab-rake gitlab:env:info sur l'hôte.\n\nSélectionnez la cible de correctif correspondant à la branche de version active : passez de 19.5.x à 19.5.1, de 19.4.x à 19.4.3, de 19.3.x à 19.3.6, de 19.2.x à 19.2.9, de 19.1.x à 19.1.9, de 19.0.x à 19.0.10, ou de la version historique 7.0 à 18.11.x vers 18.11.13.\n\nExécutez la commande de mise à jour du gestionnaire de paquets ou le téléchargement de l'image de conteneur pour appliquer le correctif de sécurité, puis redémarrez les services GitLab afin que les binaires mis à jour prennent effet.\n\nInspectez les journaux des workers Puma et les journaux d'erreurs applicatifs à la recherche d'erreurs du compilateur d'expressions régulières ou de terminaisons anormales de workers afin de détecter d'éventuelles tentatives d'exploitation passées.\n\nAppliquez immédiatement les versions de sécurité aux instances GitLab auto-hébergées exposées sur Internet, car l'exécution de code à distance non authentifiée ne nécessite ni identifiants ni interaction de l'utilisateur.\n\nMettez à niveau directement vers la version de correctif désignée au sein de la branche de version mineure active afin d'éviter les migrations de base de données inutiles et de réduire les temps d'indisponibilité du service.\n\nNe vous fiez pas uniquement aux règles du pare-feu applicatif web périmétrique ni aux contournements de configuration, car des motifs d'expressions régulières malveillants peuvent être traités par divers circuits de rendu de documents.",
+ "source_sha256": "0ca3169f3f4816717804ada73462aa3ddef43de11b210cfad05b34f0a72fdc82",
+ "summary": "Les instances GitLab auto-hébergées depuis la version 7.0 ont été invitées à mettre à jour immédiatement vers le correctif 19.5.1 ou les versions de rétroportage désignées, après que le chercheur en sécurité joaxcar a divulgué une vulnérabilité d'exécution de code non authentifiée notée CVSS 10.0.",
+ "title": "GitLab publie des mises à jour de sécurité pour une faille critique d'exécution de code à distance",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

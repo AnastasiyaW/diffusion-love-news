@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 원시 사전학습 기본 모델(raw pre-trained base model)로 공개된 이후, 프로젝트는 DPO/RLHF를 포함한 사후 학습(post-training) 최적화와, 17B 파라미터의 메모리 부담을 소비자용 GPU에서 감당하기 위한 커뮤니티 주도의 양자화(quantization) 작업에 집중하고 있습니다.",
+ "id": "n-af83147e90",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apache-2.0 라이선스로 오픈소스 공개되었으며, MoE 학습을 안정화하기 위한 Text KV Caching 및 Decoupled Routing 같은 기술적 혁신을 특징으로 합니다.",
+ "source_sha256": "dbad89205aa82027e7cff5a039b34176af557dae4d81314acd03f1b3ca2e2a85",
+ "summary": "이미지 생성을 위한 최초의 고품질 희소 혼합 전문가(Sparse Mixture-of-Experts, MoE) 확산 트랜스포머로, 전체 17B 파라미터 중 순전파(forward pass)마다 약 2B만 활성화합니다. 높은 효율성을 달성하면서도 공간 배치와 프롬프트 충실도에서 FLUX.1, SD3.5 같은 고밀도(dense) 모델과 대등하거나 이를 능가합니다.",
+ "title": "Nucleus-Image: 희소 MoE 확산 트랜스포머",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

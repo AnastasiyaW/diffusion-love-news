@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La noticia informaba sobre el modo Plan, el enrutamiento de visión, la autenticación con Zed, los controles de flujo de trabajo, las correcciones de pegado multilínea en Windows y las mejoras de subagentes e interfaz.",
+ "id": "n-ae780669a1",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "db335d4e6e70a017da445430003428e78e2e8e37c2d4989df2b681b4b610fbe5",
+ "summary": "La noticia informaba sobre el modo Plan, el enrutamiento de visión, la autenticación con Zed, los controles de flujo de trabajo, las correcciones de pegado multilínea en Windows y las mejoras de subagentes e interfaz.",
+ "title": "Qwen Code v0.0.12-v0.0.14 añade planificación y visión",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

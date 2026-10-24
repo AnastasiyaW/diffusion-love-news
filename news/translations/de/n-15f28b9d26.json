@@ -1,0 +1,11 @@
+{
+ "id": "n-15f28b9d26",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Wählen Sie für den Workload ein aktuelles Claude-Modell aus und nutzen Sie anschließend dessen dokumentierte Modell-ID und die unterstützte Plattform, um eine Integrationsentscheidung zu treffen.\n\nErstellen Sie eine API-Integration, indem Sie einen ersten Messages-API-Aufruf ausführen; halten Sie Zugangsdaten aus Quellcode-Verwaltung und clientseitigem Code heraus.\n\nFür Arbeiten am Repository installieren Sie Claude Code, authentifizieren Sie sich mit einem berechtigten Konto oder einem unterstützten Anbieter, starten Sie es aus dem Projektverzeichnis und überprüfen Sie die Installation mit `claude --version`.\n\nFormulieren Sie direkte Aufgabenanweisungen, geben Sie das erforderliche Ausgabeformat an und verwenden Sie bei Bedarf Beispiele; wenden Sie die modellspezifischen Prompting-Hinweise für das gewählte Modell an.\n\nLegen Sie für API-Schlüssel ein Ablaufdatum fest, halten Sie sie aus Quellcode-Verwaltung, clientseitigem Code und Prompts heraus und erwägen Sie stattdessen Workload Identity Federation anstelle eines statischen Schlüssels.",
+ "source_sha256": "0217da0b603854b5bea3e1f88fe085bcb1ee6481c23eb17f1e9c1d5603c14653",
+ "summary": "Der D.C. Circuit hat die Klagen von Anthropic gegen die Maßnahme des Department of War abgewiesen, mit der Claude aus dessen Lieferkette entfernt wurde. Die Stellungnahme (Opinion) hält eine Anordnung fest, Anthropic-Produkte aus den Systemen des Ministeriums zu entfernen und Auftragnehmern die Nutzung für Arbeiten des Ministeriums zu untersagen.",
+ "title": "D.C. Circuit lehnt Anthropic-Klagen wegen Ausschluss aus der Lieferkette des Pentagons ab",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

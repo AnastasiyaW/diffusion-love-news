@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于2026年4月作为热门研究框架在 ArXiv 上发布（编号：2604.08546）；目前正被集成为适用于 OpenSora 和 Wan2.1 等模型的即插即用模块。",
+ "id": "n-e3abad048f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由华中科技大学 H-EmbodVis 团队开发；在无需重新训练模型的情况下，显著提升了数值准确性。",
+ "source_sha256": "a12540d5c96851a2ee85169c291a6dd1701214608d7f5ca64d4a0f7ff61884e9",
+ "summary": "一种无需训练的框架，可提升文本到视频扩散模型中的物体计数准确性。它通过识别特定的注意力头来构建可计数的潜在布局，确保生成的视频与提示词中指定的实例数量完全一致。",
+ "title": "NUMINA：面向视频扩散模型的数值对齐",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

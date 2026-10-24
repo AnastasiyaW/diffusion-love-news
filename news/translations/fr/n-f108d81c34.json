@@ -1,0 +1,10 @@
+{
+ "id": "n-f108d81c34",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab1e0f01477501d19a37f2eca291be897ac8a6973d27c39319fc4d3ccd49f6cc",
+ "summary": "Le 2026-03-17, PixVerse a indiqué que ses capacités de génération d'images et de vidéos pouvaient être utilisées via une interface en ligne de commande. Une entrée ClawHub associée laisse penser que cette interface a été distribuée pour être réutilisée dans des flux de travail basés sur le terminal. Il s'agit d'une étape de livraison significative, qui fait passer l'accès, jusqu'ici centré sur le web, vers une utilisation en ligne de commande.",
+ "title": "PixVerse a introduit une interface de génération orientée terminal",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

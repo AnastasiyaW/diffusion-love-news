@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TVP 프레임워크는 2026년 초 잠시 공개되었으나, 이후 추가 개선을 위해 공식 저장소와 논문이 내려갔습니다. 이 핵심 기술은 이후 DeepSeek-V4 기반 모델에 통합되었으며, 현재 고정밀 공간 추론 기능을 구동하고 있습니다.",
+ "id": "n-2244c25f96",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "압축 희소 어텐션(Compressed Sparse Attention, CSA)을 도입해 7056x의 시각 압축률을 달성하고, 이미지당 시각 KV 캐시 점유량을 약 90개 토큰 수준으로 줄였습니다.",
+ "source_sha256": "1528f2bcf3989a45dbe844dee16ab90fb9548fd65a9eac8252a890f132256438",
+ "summary": "사고의 연쇄(Chain-of-Thought) 추론 과정에 공간 좌표와 바운딩 박스를 이산 토큰으로 끼워 넣는 비전-언어 프레임워크입니다. 멀티모달 모델의 '참조 격차(Reference Gap)'를 메우며, 복잡한 시각 과제에서 정밀한 공간 그라운딩과 장문 추론을 가능하게 합니다.",
+ "title": "DeepSeek TVP: Thinking with Visual Primitives",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

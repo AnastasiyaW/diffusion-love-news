@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag berichtete über den Plan-Modus, Vision-Routing, Zed-Authentifizierung, Workflow-Steuerungen, Behebungen für mehrzeiliges Einfügen unter Windows sowie Verbesserungen bei Subagenten und der Benutzeroberfläche.",
+ "id": "n-ae780669a1",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "db335d4e6e70a017da445430003428e78e2e8e37c2d4989df2b681b4b610fbe5",
+ "summary": "Der Nachrichtenbeitrag berichtete über den Plan-Modus, Vision-Routing, Zed-Authentifizierung, Workflow-Steuerungen, Behebungen für mehrzeiliges Einfügen unter Windows sowie Verbesserungen bei Subagenten und der Benutzeroberfläche.",
+ "title": "Qwen Code v0.0.12-v0.0.14 ergänzt Planungs- und Bildverarbeitungsfunktionen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

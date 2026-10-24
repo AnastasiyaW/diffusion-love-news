@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Présenté officiellement à SIGGRAPH 2026, après une première publication sur ArXiv en avril 2026. Le projet s'est enrichi avec la mise à disposition publique des jeux de données StyleBench-H et StyleBench-S, et s'impose comme un benchmark pour les modèles de diffusion préservant l'identité.",
+ "id": "n-9f3f263dfe",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend des métriques d'évaluation de la reconnaissance indépendante du style ; publié sous une licence de recherche non commerciale.",
+ "source_sha256": "7afa2e1e5c3f320a0bcd0a7c07eacefebf6c270973a0df71a6d1370727c954d3",
+ "summary": "StyleID est un encodeur d'identité spécialisé, basé sur CLIP, conçu pour préserver la cohérence faciale à travers des styles artistiques extrêmes. Il s'attaque au problème de la « dérive d'identité » dans les modèles génératifs en alignant les embeddings produits par la machine sur la perception humaine, grâce au jeu de données StyleBench.",
+ "title": "StyleID : encodeur d'identité orienté perception pour la personnalisation de portraits",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-03fea21c65",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unter Linux mit Python 3.12 und uv die dokumentierte virtuelle Umgebung erstellen, das Paket im editierbaren Modus installieren und die ohne Zugangsdaten lauffähige Demo ausführen, bevor ein Modell angebunden wird.\n\nFür einen Lauf mit Modell die aufgeführten Laufzeit- und Benchmark-Abhängigkeiten installieren, Modelleinstellungen und Authentifizierung konfigurieren und dann mit einer einzelnen Benchmark-Aufgabe und einer kleinen Auswahl beginnen.\n\nPrüfung, Verfeinerung, Bewertung und Berichterstellung mit identischem Benchmark, Executor, Teilmenge, Rekursionsbudget, Modus und Seed ausführen; mit Dry-Run lässt sich die Aufgabenauswahl ohne Modellaufrufe prüfen.\n\nParallele Rekursion wählen, um Kandidaten-Harnesses breiter zu erkunden, oder sequenzielle Rekursion, um Verfeinerungen über aufeinanderfolgende Schritte fortzuführen; übernommene Harnesses nur zusammen mit den unterstützenden Ausführungsnachweisen aufbewahren.\n\nNetzwerkbeschränkungen vor der Evaluation konfigurieren, damit öffentliche Benchmark-Bewertungsraster, Antworten oder Bewertungskriterien nicht in einen Executor mit uneingeschränktem Webzugriff gelangen können.\n\nDie Evaluationskonfiguration bei Bewertung und Berichterstellung identisch zum Verfeinerungslauf halten; eine Änderung von Benchmark, Executor, Teilmenge, Rekursionsmodus, Budget oder Seed macht einen vergleichbaren Vergleich ungültig.\n\nGrößere Rekursionsbudgets als ausdrücklichen Kompromiss zwischen Rechenaufwand und Leistung behandeln: Die Arbeit zählt sowohl Ausführungs- als auch Verbesserungs-Tokens, und ihre Gewinne wurden nur in den evaluierten Benchmark-Konfigurationen gemessen.",
+ "source_sha256": "195607ee0d8261c56e36adf4f2f862b85b6d1229156002a15d03b0d0f32d2a91",
+ "summary": "Harness² beschreibt eine zweistufige Methode, die ein Agenten-Harness für eine Aufgabe verfeinert und belegbar erfolgreiche Erkenntnisse für spätere Aufgaben beibehält, ohne die Modellgewichte zu aktualisieren.",
+ "title": "Harness²-Paper beschreibt rekursive Verfeinerung eines Harness bei eingefrorenem Modell",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

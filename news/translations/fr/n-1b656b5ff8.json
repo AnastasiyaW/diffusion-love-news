@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après la proposition initiale de 2024, Kordi-AI a étendu le benchmark au début de 2026 afin de soumettre des modèles de pointe comme GPT-5 à des tests de charge sur des « Multi-Principal Decision Problems ». Les travaux ont depuis évolué vers des applications concrètes telles que Kordra 2.0, un espace de travail de développement autonome et collaboratif par équipe.",
+ "id": "n-1b656b5ff8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par un collectif de recherche issu de Stanford, du MIT, de la KAUST et de l'UT Austin ; il formalise le passage de l'IA mono-utilisateur à des orchestrateurs sociaux et d'entreprise complexes.",
+ "source_sha256": "0f3d2f16a62f98dc8f3779307f8079a86e908b6f854db10ae3f79570b827f03e",
+ "summary": "Un cadre de recherche fondamental et un benchmark pour les agents LLM conçus pour interagir simultanément avec plusieurs utilisateurs humains. Il aborde des défis critiques dans les contextes de groupe, tels que la gestion d'instructions contradictoires, le maintien de hiérarchies d'autorité et la prévention des fuites de données privées entre utilisateurs.",
+ "title": "Agents LLM multi-utilisateurs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

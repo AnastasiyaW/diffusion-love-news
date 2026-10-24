@@ -1,0 +1,10 @@
+{
+ "id": "n-5319c89cd3",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8ee9cb73adec4291934cd5e71ed63ff996ffbc34018f48ee22acac67cc681493",
+ "summary": "El 14 de junio de 2026, la línea de desarrollo del plugin VFS de HuggingFace incluyó un enlace al repositorio de GitHub del proyecto. Esto deja constancia de la referencia al repositorio en el registro histórico, pero las pruebas disponibles no acreditan ningún lanzamiento, cambio de implementación ni capacidad más allá de dicho enlace.",
+ "title": "Se vinculó el repositorio de código fuente del plugin VFS de HuggingFace",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

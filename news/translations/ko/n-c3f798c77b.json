@@ -1,0 +1,10 @@
+{
+ "id": "n-c3f798c77b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "250c3f4e7ab49bdc0c5408c21c76af18a24ffded6c817b02746f1585949f591f",
+ "summary": "2026-06-01 기준, Odysseus 개발 라인에는 GitHub 저장소 pewdiepie-archdaemon/odysseus 및 해당 Git 엔드포인트에 대한 링크가 포함되어 있었다. 이 링크들은 소스 코드의 위치를 확인해 주지만, 그 자체로 저장소의 내용, 릴리스 상태 또는 기능을 검증하지는 않는다.",
+ "title": "Odysseus GitHub 저장소 링크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

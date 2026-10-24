@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 4 月首次发布；该项目表明，研究方向正从扩展大语言模型转向以 Wan2.1 等视频生成器作为多模态智能的基础。",
+ "id": "n-a5ceb23735",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 Wan2.1 Diffusion Transformer 架构构建；引入专门的前馈网络（Feed-Forward Network）专家，在单一流中处理不同模态。",
+ "source_sha256": "48b4fae559d1cf78c6fa50573a69ed312d081434d15e50ea31526e60e540c7f4",
+ "summary": "Uni-ViGU 是一个统一框架，将基于扩散的视频生成器扩展为同时执行视频生成与理解任务。它采用模态驱动的混合专家（Mixture-of-Experts）架构和统一的流匹配（flow matching）机制，以整合连续的视频模态与离散的文本模态。",
+ "title": "Uni-ViGU：统一的视频生成与理解",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

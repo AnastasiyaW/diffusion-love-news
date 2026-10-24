@@ -1,0 +1,11 @@
+{
+ "id": "n-cca527d9ac",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Pour le modèle hébergé, conservez l'intégration API existante et réglez le modèle sur `deepseek-flash` ; il renvoie à la version V4.1 Flash actuelle.\n\nPour l'expérimentation en local, installez des versions à jour de Transformers et Accelerate, puis chargez `deepseek-ai/DeepSeek-V4.1-Flash-1017` via le pipeline image-text-to-text documenté ou le chemin `AutoModelForCausalLM`.\n\nUtilisez le nom d'API stable `deepseek-flash` plutôt que d'intégrer le nom du checkpoint dans les intégrations hébergées, afin que la version actuelle documentée soit sélectionnée sans modifier le format des appels.\n\nEn cas d'auto-hébergement, partez d'un chemin de chargement officiellement documenté pour Transformers ou vLLM plutôt que de supposer qu'une ancienne configuration d'exécution de V4 Flash fonctionne sans modification.",
+ "source_sha256": "b51ed45801ff061b8a88221c7ff5f2e391feae5a9f8b6e4d2e70e49ea0899abf",
+ "summary": "DeepSeek-V4.1-Flash-1017 est disponible sous forme de checkpoint Hugging Face sous licence MIT, et DeepSeek indique que ses déploiements web, application et API utilisent désormais la version mise à jour.",
+ "title": "DeepSeek publie les poids de V4.1-Flash-1017",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

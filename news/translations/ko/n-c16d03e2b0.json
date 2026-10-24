@@ -1,0 +1,10 @@
+{
+ "id": "n-c16d03e2b0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9e59725c3c1c29e5355a7aa6472e207463cf0ceac8ba89ec9ac4e3a3837fa68e",
+ "summary": "2026-08-05에 기록된 링크가 ComfyUI Video Tiler의 GitHub 저장소를 참조했다. 이는 해당 프로젝트에 대한 날짜가 기록된 공개 참조만을 기록하며, 봉인된 증거는 릴리스, 버전, 기능 세트 또는 설치 안내를 확인하지 않는다.",
+ "title": "ComfyUI Video Tiler 저장소가 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

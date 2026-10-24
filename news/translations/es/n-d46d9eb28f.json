@@ -1,0 +1,11 @@
+{
+ "id": "n-d46d9eb28f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configure robots.txt en los dominios web públicos para definir permisos de rastreo explícitos para los rastreadores web de Meta.\n\nRevise los acuerdos de condiciones comerciales del servicio dentro de Meta Business Manager antes de vincular dominios corporativos o publicar recursos empresariales.\n\nMantenga listas de permitidos explícitas para los rastreadores y directivas disallow en el límite del servidor web, en lugar de confiar en las condiciones contractuales por defecto para proteger el contenido.\n\nAudite periódicamente los permisos de las cuentas comerciales para asegurarse de que las URL empresariales están restringidas a las operaciones publicitarias, sin licencias amplias de extracción de contenido.",
+ "source_sha256": "0eb26e0c1a24f1543a6dbdee44950d6701cae4ae56d0dfb78bd8dd4e7f854f85",
+ "summary": "Meta revisó las condiciones comerciales actualizadas de su servicio para eliminar las referencias explícitas al entrenamiento de modelos de IA con contenido web extraído de cuentas empresariales y restringió el uso de datos a la publicidad y a los productos para empresas.",
+ "title": "Meta elimina del lenguaje de sus condiciones comerciales la referencia al entrenamiento de IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

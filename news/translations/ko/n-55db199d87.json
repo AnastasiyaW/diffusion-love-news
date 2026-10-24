@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 2026년 4월 시각적 지시 따르기 평가를 위한 VisPrompt-5M 데이터셋 및 VP-Bench와 함께 공개되었습니다. 작업별로 별도의 아키텍처 분기를 없애는 시각 중심의 'Image-In, Image-Out' 패러다임을 확립합니다.",
+ "id": "n-55db199d87",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프레임워크는 현재 256x256 해상도를 지원하며, CSU, NUS, Microsoft, Tencent의 연구진이 개발했습니다.",
+ "source_sha256": "265b71b017647f9264506cfe65dea62fb8254da3403e377c2af58d10d9b1a049",
+ "summary": "FlowInOne은 이미지 생성이나 복잡한 편집과 같은 다중모달 작업들을 하나의 연속적인 시각 흐름(visual flow)으로 통합하는 프레임워크입니다. Flow Matching 아키텍처를 활용하여 텍스트, 레이아웃, 지시문을 이미지 기반의 시각적 프롬프트로 다룹니다.",
+ "title": "FlowInOne: 통합 시각 중심 다중모달 이미지 생성 및 편집",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-82f8f06562",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c99a345202ccc59e834c31e8567c4e5e65f065eb08b796a724c34ddc336781a9",
+ "summary": "2026-07-06, YaGS 개발 흐름에 프로젝트 GitHub 저장소로의 링크가 포함되었습니다. 봉인된 증거에는 원문 텍스트나 저장소 메타데이터가 없으므로, 이 기록은 날짜가 명시된 저장소 참조만을 담으며 릴리스, 구현 변경, 또는 그 밖의 이정표를 주장하지 않습니다.",
+ "title": "YaGS GitHub 저장소가 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

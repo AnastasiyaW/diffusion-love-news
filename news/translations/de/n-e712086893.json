@@ -1,0 +1,11 @@
+{
+ "id": "n-e712086893",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Den Zugang beantragt man über den Beta-Ablauf von Agents; der Berichterstattung zufolge ist der Zugang anwendungsbasiert.\n\nLade Projektdateien und Referenzen hoch, beschreibe anschließend das gewünschte Ergebnis und wähle die verfügbaren Einstellungen für das Sprachmodell und den Aufwand (Effort) aus.\n\nImportiere ein Pinterest-Moodboard oder eine andere visuelle Referenz und erstelle einen Image-Set-Skill, wenn ein wiederkehrender Stil aus Prompts heraus aufgerufen werden muss.\n\nVerbinde Slack, Figma oder Google Drive, wenn deren Projektmaterial im Agent-Kontext benötigt wird; prüfe generierte Medien, bevor du die angegebene Funktion zum Veröffentlichen in sozialen Netzwerken nutzt.\n\nBewahre Briefing, Referenzen und wiederverwendbares Stilmaterial gemeinsam im Projektkontext auf, bevor du ein mehrstufiges Ergebnis anforderst. Die frühere Dokumentation zum Node Agent von Krea zeigt, dass die Plattform auf Basis des bestehenden Canvas-Zustands plant und Nutzer einen Plan vor der Ausführung prüfen lassen können.\n\nPrüfe den vorgeschlagenen Workflow und die Modellauswahl, bevor du die Generierung startest: Laut der Dokumentation zum Node Agent von Krea wird vor der Ausführung ein Plan mit den Rechenkosten pro Node angezeigt.",
+ "source_sha256": "8fd8120d6a6603be80ea9c623e808c0a63a0c411e15fc90401be02acf549b758",
+ "summary": "Krea Agents soll es Bewerbern ermöglichen, Projektdateien und Referenzen zu organisieren, Pinterest-Moodboards zu importieren, wiederverwendbare bildbasierte Skills zu erstellen und Arbeitswerkzeuge für die kreative Produktion anzubinden.",
+ "title": "Krea Agents öffnet anwendungsbasierte kreative Workflows",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

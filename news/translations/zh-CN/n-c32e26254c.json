@@ -1,0 +1,10 @@
+{
+ "id": "n-c32e26254c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7c5dec4ee7bbb04c752a9967ff72bb585eba48ad94dcd7105401c73c80a11f06",
+ "summary": "2026-04-17，所记录的链接指向 Managed Bots 的官方 Bot API 功能文档。这表明在该日期，该功能已被记入信源所载的 Bot 平台能力之中；现有证据无法确定该日期是否为其首次发布之日。",
+ "title": "信源将 Managed Bots 记录为 Bot 平台功能",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

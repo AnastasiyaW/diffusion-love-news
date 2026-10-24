@@ -1,0 +1,10 @@
+{
+ "id": "n-363a1b03bb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0d34f1b89b4abed8835581884a1e8f050271037a01b6a661662a0a2f695ec447",
+ "summary": "2026-07-26, 공개 The recorded link가 Mage-Flow의 Hugging Face 모델 저장소와 ComfyUI 통합을 위한 GitHub 저장소를 연결했다. 날짜가 기록된 이 링크 세트는 해당 시점에 모델 리소스와 ComfyUI 중심 통합이 공개적으로 연결되어 있었음을 보여 준다. 그러나 특정 릴리스 버전, 제작자, 기술적 기능은 확인되지 않는다.",
+ "title": "Mage-Flow 모델과 ComfyUI 통합 공개 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

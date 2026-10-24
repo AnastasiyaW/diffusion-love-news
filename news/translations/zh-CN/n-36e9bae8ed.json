@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该系列分支出 MiniCPM-o，用于实时全模态交互（音频/视频）；而 V 系列则专注于边缘效率，具备高分辨率 OCR 和先进的视频 token 压缩能力。",
+ "id": "n-36e9bae8ed",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 Qwen3.5 构建；支持最高 1.8M 像素的高分辨率图像处理，并针对 iOS 和 Android 的 NPU/GPU 执行进行了优化。",
+ "source_sha256": "07b2bc1c56145be4a253d5b20c54e9ab9898c3c4bf5c6b1487a08b40da9275f4",
+ "summary": "MiniCPM-V 4.6 是一款面向移动端和边缘设备部署优化的 1.3B 参数视觉语言模型。它采用混合视觉 token 压缩技术，在显著降低手持设备计算成本的同时，实现了与更大模型相当的性能。",
+ "title": "MiniCPM-V 4.6：高效的端侧原生多模态AI模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

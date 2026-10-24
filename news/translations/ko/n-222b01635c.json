@@ -1,0 +1,10 @@
+{
+ "id": "n-222b01635c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "864e94dafb57d77a58a4121311eb2b53ae848e686d06e8a6f8851ed1d433baaf",
+ "summary": "2026년 3월 16일, 해당 기록은 LTX-2.3-GGUF용 Unsloth Hugging Face 저장소와 Dynamic 2.0 GGUF 관련 Unsloth 문서를 함께 연결했습니다. 이는 LTX 2.3 GGUF 아티팩트를 실무자에게 유용한 가이드와 연결한다는 점에서 중요한 배포 및 활용 측면의 이정표입니다. 다만 날짜가 붙은 링크만으로는 정확한 모델 기능, 지원되는 런타임, 출시 상태를 확정할 수 없습니다.",
+ "title": "LTX-2.3-GGUF 배포본 및 Dynamic 2.0 GGUF 가이드 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

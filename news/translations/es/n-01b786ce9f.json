@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Presenta un conjunto de datos a gran escala de 4 millones de fotogramas continuos de juegos AAA con etiquetas G-buffer sincronizadas. El marco establece un flujo de renderizado bidireccional que supera a los métodos anteriores en estabilidad temporal y generalización al mundo real.",
+ "id": "n-01b786ce9f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por Shanda AI Research Tokyo. Emplea un novedoso protocolo de evaluación basado en VLM para medir la consistencia semántica y espacial en ausencia de ground truth.",
+ "source_sha256": "07e69d6e8932d67f28f8b779e7259a15a7655c8b0a538955819b799285a3ff68",
+ "summary": "Un marco nativo de IA que unifica el renderizado directo e inverso mediante modelos de difusión de vídeo. Extrae datos geométricos 3D de vídeos de juegos y permite la edición de escenas de alta fidelidad mediante indicaciones de texto.",
+ "title": "AlayaRenderer: Renderizador generativo de mundos para juegos AAA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

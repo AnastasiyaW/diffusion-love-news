@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen 3.5 시리즈는 A3B Mixture-of-Experts 아키텍처를 도입했고, 이후 Qwen 3.6 업데이트가 빠르게 이어졌습니다. 이 모델은 독점 Claude 4.6 모델의 논리 추적 과정을 오픈 웨이트 아키텍처로 옮기는 '추론 증류(reasoning distillation)'의 정점을 보여줍니다.",
+ "id": "n-b1f4237092",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "GGUF, MLX, Transformers 형식으로 제공되며, 주로 심층 추론과 다단계 논리 처리에 최적화되어 있습니다.",
+ "source_sha256": "b68b8cbfd786ac439dc2486735b15558e133549ab7077f0c7fdb8e2c9e1185b7",
+ "summary": "Qwen 3.5 아키텍처를 기반으로 한 특화 대규모 언어 모델로, Claude 4.6 Opus에서 증류한 chain-of-thought 추론 데이터로 파인튜닝되었습니다. <think> 태그를 통해 구조화된 추론을 구현하여 논리적 투명성과 문제 해결 정확도를 높이는 것을 목표로 합니다.",
+ "title": "Qwen3.5-35B-A3B Claude 4.6 Opus Reasoning Distilled",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

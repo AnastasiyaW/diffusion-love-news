@@ -1,0 +1,10 @@
+{
+ "id": "n-264e8c1717",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "abc37e8994eff75d0ee459dfb4abc5f2d30d7288c9a8dae676c748067ff3e8da",
+ "summary": "2026-03-17, FireRed 스레드의 한 메시지에 FireRed Image Edit 1.1 for ComfyUI로 식별되는 Hugging Face 저장소 링크가 게시되었습니다. 같은 메시지에는 RunningHub URL 세 개도 포함되어 있었습니다. 현재 확인 가능한 자료로는 링크된 내용을 알 수 없으며, 출시, 기능 변경, 워크플로 세부 사항을 입증할 수도 없으므로 이 기록은 해당 리소스 링크가 게시된 날짜만을 남깁니다.",
+ "title": "FireRed Image Edit 1.1용 ComfyUI 리소스 링크가 게시됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026 채택 이후, 프로젝트는 2026년 4월에 v2로 업데이트되었습니다. 이 버전에서는 향상된 conditional VAE 디코더, 4K 비디오 처리를 위해 최적화된 sparse attention, 그리고 분산 multi-GPU 추론 기능이 도입되었습니다.",
+ "id": "n-88b74a7e58",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "USTC와 Alibaba 연구진이 개발했으며, 백본으로 Wan2.1-T2V-1.3B를 사용합니다. 타일형 VAE 인코딩을 적용하여 4K 해상도로의 일반화에도 성공적으로 확장됩니다.",
+ "source_sha256": "93d1cb5025a7d37b0d329fc040de48b0455f94b7281a37bf1b8433e39d48de76",
+ "summary": "Wan2.1 diffusion transformer 아키텍처를 전체 시퀀스 모델링에 맞게 적용한, 최첨단 비디오 프레임 보간 프레임워크입니다. Skip-Concatenate 샘플링과 함께 auto-regressive 생성을 활용하여 긴 비디오와 고해상도 프레임에서도 시간적 일관성을 유지합니다.",
+ "title": "LDF-VFI: 비디오 프레임 보간을 위한 Local Diffusion Forcing",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

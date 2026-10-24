@@ -1,0 +1,10 @@
+{
+ "id": "n-2d08c11049",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "518f3a24316c99798ffd8cba0891c78a9df5e54190d59d798686a52c62e4cb31",
+ "summary": "2026年7月23日，Solar Open 2 通过一篇带日期的 Upstage 公告链接对外发布。相关资源包括 Solar-Open2-250B 的 Hugging Face 页面以及 Upstage Playground，表明此次项目发布同时提供了模型访问途径和可交互的评测入口。",
+ "title": "Solar Open 2 发布，同步上线模型页面与 Playground 体验入口",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

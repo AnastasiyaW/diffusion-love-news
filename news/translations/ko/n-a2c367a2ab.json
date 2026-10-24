@@ -1,0 +1,10 @@
+{
+ "id": "n-a2c367a2ab",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6e4cdcde89cd8b3dff4cf6a24ae5dc677ada0352ad61c20b8c28eb1ab374560c",
+ "summary": "2026년 6월 18일, MolmoMotion 개발 라인에서 MolmoMotion-4B-H3-F30에 대한 Hugging Face 리소스가 기록되었습니다. 날짜가 명시된 링크는 특정 모델 변형을 가리키므로, 프로젝트의 공개 모델 가용성 이력에서 의미 있는 체크포인트에 해당합니다. 원문 출처 텍스트나 독립적인 출시 문서는 제공되지 않았으므로, 이번 사건은 기능, 라이선스, 또는 해당 변형과 다른 릴리스 간의 관계를 주장하지 않습니다.",
+ "title": "MolmoMotion-4B-H3-F30 모델 리소스 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

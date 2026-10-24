@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von einem modularen, fähigkeitsbasierten Harness zu einer standardmäßig gebündelten, autonomen Plattform. Die neuesten Updates führten eine Kanban-artige Orchestrierung mehrerer Agenten sowie eine persistente Zielverfolgung über Sitzungen hinweg ein.",
+ "id": "n-95d245f3eb",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das System umfasst automatisierte Hardwareprüfungen und eine selbstheilende Verwaltung von Abhängigkeiten für komplexe ComfyUI-Custom-Nodes.",
+ "source_sha256": "160ad8888dc434392e1d4cbe562bdc09521e85bc0cb0909710c64c7ffeaf4655",
+ "summary": "Ein Open-Source-Framework für autonome Agenten von NousResearch, das für die Orchestrierung komplexer Aufgaben entwickelt wurde. Es bietet eine tiefe Integration mit ComfyUI und ermöglicht die Steuerung knotenbasierter Workflows zur Bild- und Videogenerierung über natürliche Sprache.",
+ "title": "Hermes Agent: Autonomes System für kreative Workflows",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 CPU 전용 포트에서 CUDA, Metal, Vulkan 지원을 갖춘 성숙한 생태계로 발전했습니다. 최근 업데이트에서는 GGUF 양자화, DAW용 VST3 통합, 오디오-메타데이터 분석을 위한 'Understand Mode'가 추가되었습니다.",
+ "id": "n-a236c67d82",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "작곡을 담당하는 ace-lm과 확산 기반 렌더링을 담당하는 ace-synth로 구성된 2단계 파이프라인을 활용합니다.",
+ "source_sha256": "8c6a6bf6c523f512bf0ba740975e0a3eb4530d2423f38756ee4281d53df0b266",
+ "summary": "GGML 백엔드를 기반으로 구현된, 가볍고 이식성 높은 ACE-Step 1.5 음악 파운데이션 모델의 C++ 구현체입니다. Python 의존성 없이 소비자용 CPU와 GPU에서 고충실도 48kHz 스테레오 음악 생성을 가능하게 합니다.",
+ "title": "ACE-Step 1.5 C++ 포트 (acestep.cpp)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

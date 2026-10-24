@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年初从纯网页服务转向原生 ComfyUI 生态系统。2026 年 4 月的 'Omni' 更新引入了对图像、视频和音频的多模态参考支持,并新增 4K 角色设定图生成功能。",
+ "id": "n-e4d5ff5436",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "闭源的基于 API 的模型,需要来自 MuAPI 或 Sjinn.ai 等服务商的外部密钥;具备严格的安全过滤功能,并支持原生的音视频同步。",
+ "source_sha256": "0216c44ad0ed81f477566fdb292d4f0045b2cc26bc253033328bc7d049468199",
+ "summary": "字节跳动先进的多模态视频生成模型通过基于云端的 API 节点集成到 ComfyUI 中。它支持高保真的文生视频、图生视频以及角色一致性工作流,并提供先进的时序控制。",
+ "title": "Seedance 2.0 ComfyUI 集成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

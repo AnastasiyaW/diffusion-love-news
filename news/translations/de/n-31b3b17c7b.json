@@ -1,0 +1,11 @@
+{
+ "id": "n-31b3b17c7b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Klonen Sie das Repository karpathy-output-style oder kopieren Sie die Skill-Definitionsdatei in das Konfigurationsverzeichnis des Agenten.\n\nKonfigurieren Sie die Agent-Laufzeitumgebung (etwa Claude Code oder Codex) so, dass sie die Skill-Regeln während der Abfrageausführung lädt.\n\nBeauftragen Sie den Agenten mit einer Aufgabe zur Erklärung eines Konzepts oder Codes; der Skill wählt dann zwischen vereinfachtem technischem Text, Excalidraw-Diagrammen, interaktivem HTML oder Erklärvideo-Formaten.\n\nHalten Sie sich strikt an die vierstufige Leiter, indem Sie standardmäßig das einfachste Format verwenden, bevor aufwendige interaktive HTML- oder Videoartefakte angefordert werden.\n\nAchten Sie darauf, dass interaktive HTML-Ausgaben vollständig in einer einzigen Datei mit eingebetteten Styles und Skripten eigenständig sind, damit sie sofort lokal im Browser geprüft werden können.",
+ "source_sha256": "b733489b5751bebdc374d6114b6d5cc3e2c57e790845750421f57531297f7671",
+ "summary": "Das Projekt karpathy-output-style definiert einen Ausführungsworkflow, der KI-Modelle anleitet, zur Klärung komplexer technischer Konzepte zwischen vereinfachtem technischem Englisch, strukturellen Diagrammen, interaktivem HTML oder codegesteuerten Erklärvideos zu wählen.",
+ "title": "karpathy-output-style strukturiert LLM-Erklärungen in mehreren Formaten für Entwickler-Workflows",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

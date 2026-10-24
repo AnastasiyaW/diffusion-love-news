@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "由纯文本的 LLaDA 1.0 和 LLaDA 2.0-Flash 演进而来；于 2026 年 5 月 12 日新增 ComfyUI 支持。2026 年 5 月发布了 FP8 量化版本，以优化消费级 GPU 的显存占用。",
+ "id": "n-64094eafae",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Inclusion AI（蚂蚁集团）开发；采用独特的 SigLIP-VQ 分词器，并基于扩散的“思考模式”（Thinking Mode）进行空间推理。",
+ "source_sha256": "3cbfe9b4a54da41044a1e36ee7d9ed802cbc1acb94f3957d8f9b6c6654a63b40",
+ "summary": "一种统一的离散扩散大语言模型，原生支持图像理解与高保真图像生成。它采用 16B 混合专家（Mixture-of-Experts）骨干网络，无需外部生成模块即可处理交错的多模态推理。",
+ "title": "LLaDA2.0-Uni：统一多模态理解与生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

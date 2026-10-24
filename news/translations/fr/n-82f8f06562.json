@@ -1,0 +1,10 @@
+{
+ "id": "n-82f8f06562",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c99a345202ccc59e834c31e8567c4e5e65f065eb08b796a724c34ddc336781a9",
+ "summary": "Le 2026-07-06, le fil de développement de YaGS comportait un lien vers le dépôt GitHub du projet. Les preuves scellées ne contiennent ni le texte source ni les métadonnées du dépôt ; cette entrée enregistre donc uniquement la référence datée au dépôt et n'affirme ni publication, ni modification d'implémentation, ni autre jalon.",
+ "title": "Référence au dépôt GitHub de YaGS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

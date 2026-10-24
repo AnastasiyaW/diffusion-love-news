@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "是HunyuanVideo(2024年12月)和HunyuanVideo-1.5(2025年11月)的后继模型。它引入了用于智能提示词推理的“Thinking Mode”(思考模式),并在文生视频、图生视频和视频编辑任务上实现了统一能力。",
+ "id": "n-fb32c38877",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "与IntelligentVBench基准同步发布;采用社区许可证,限制在包括欧盟和英国在内的部分地区使用。",
+ "source_sha256": "989989695f6ea22977d3b1eed634673989dd4a6b5bd231a62982abf881bec1cc",
+ "summary": "腾讯混元推出的统一视频生成框架,集成了多模态大语言模型,以实现推理增强的合成。它支持文本、图像和视频交织输入,用于复杂的多模态合成与编辑。",
+ "title": "OmniWeaving统一视频生成模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

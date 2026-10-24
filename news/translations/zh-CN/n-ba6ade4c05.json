@@ -1,0 +1,10 @@
+{
+ "id": "n-ba6ade4c05",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "16db702b1b32c0ccfe5d8b6589e1131541b38a391179b1fdda4cc622c5b5fe31",
+ "summary": "2026-03-24，该记录关联到一个名为 Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 的 Hugging Face 仓库。带日期的链接表明，一个公开的模型项目产物在该名称下可用或被引用；但现有封存证据无法确认其内容、来源或发布细节。",
+ "title": "Hugging Face 上出现 Qwen3.5-27B Claude 4.6 Opus Reasoning Distilled GGUF 仓库",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

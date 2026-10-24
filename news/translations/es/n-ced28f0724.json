@@ -1,0 +1,10 @@
+{
+ "id": "n-ced28f0724",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b98bf6d5e4a0a1df8dac00358f296754206c8f37f255b750de6e46c0ce609de6",
+ "summary": "El 9 de junio de 2026, una publicación fechada de Kimi Code CLI enlazó la documentación en inglés del proyecto y su repositorio de GitHub. Esto establece un punto de referencia público para la documentación y el código fuente de la CLI, pero las pruebas disponibles no identifican una versión, un mecanismo de publicación ni un conjunto de funcionalidades.",
+ "title": "La documentación y el repositorio de código fuente de Kimi Code CLI quedaron enlazados públicamente",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

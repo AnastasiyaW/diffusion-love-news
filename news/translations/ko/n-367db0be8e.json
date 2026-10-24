@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "자율적 스킬 감사를 위한 'The Curator'를 도입했고, 클라우드/로컬 통합 브라우저 게이트웨이를 추가했으며, Xiaomi MiMo-V2-Pro 추론 모델을 기본 지원하도록 했습니다.",
+ "id": "n-367db0be8e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "지속적 학습을 위해 Markdown 스킬 파일(SKILL.md)을 사용하며, 장기 목표 추적을 위한 'Tenacity' 칸반 보드를 제공합니다.",
+ "source_sha256": "f7824d62ff183e10b8049232cd7827474840c6feb7104b8b7eebd3e34ee1d8b3",
+ "summary": "폐쇄형 학습 루프를 활용해 지속적이고 스스로 개선되는 워크플로를 위해 설계된 오픈소스 자율 에이전트 프레임워크입니다. Xiaomi의 MiMo 추론 모델을 활용하며, 견고한 웹 상호작용을 위해 통합된 클라우드 브라우징 기능을 제공합니다.",
+ "title": "Nous Hermes Agent: 자율적으로 진화하는 자기 진화형 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

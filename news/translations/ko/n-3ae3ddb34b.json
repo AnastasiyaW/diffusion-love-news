@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본 LTX-2.3 모델은 텍스처 안정성을 개선한 향상된 VAE를 갖춘 distilled v1.1 버전으로 발전했습니다. 워크플로에서는 모델이 어두운 그림자를 아웃페인팅이 필요한 영역으로 잘못 인식하는 것을 막기 위해 특정 'Gamma Trick'을 사용하게 되었습니다.",
+ "id": "n-3ae3ddb34b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "마스킹을 위해 순수한 검은색(0,0,0)이 필요합니다. ComfyUI에서 저VRAM GPU용 GGUF/FP8 변형과 함께 널리 사용됩니다.",
+ "source_sha256": "0b554fd2c076dbfcf7c7fe2693151e40119da45de542839a767e5c30808036e8",
+ "summary": "검은색 픽셀을 마스크 센티널로 활용해 비디오 아웃페인팅을 수행하는 LTX-2.3 22B 모델용 Input-Conditioned LoRA입니다. 원본 장면의 일관성을 유지하면서 캔버스 크기를 확장할 시간적으로 안정적인 콘텐츠를 생성합니다.",
+ "title": "LTX-2.3-22b-IC-LoRA-Outpaint 비디오 프레임 확장",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

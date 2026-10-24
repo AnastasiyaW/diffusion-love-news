@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从 v1.0（离线 3D 场景）和 v1.5（实时交互式视频）演进为统一的 3D 重建/生成系统。2.0 版本引入了可编辑的 3D 资产，并直接集成了 Unreal Engine、Unity 和 Isaac Sim。",
+ "id": "n-1e0d9b8388",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该框架采用模块化流水线，包括用于生成全景图的 HY-Pano 2.0、用于轨迹规划的 WorldNav，以及用于可交互 3DGS 渲染的 WorldLens。",
+ "source_sha256": "3b114fa3d15e7850ff1b7d05148a9d7b1eccc9f993049dcf240a21cdf3a809fe",
+ "summary": "一个开源多模态框架，可从文本、图像或视频重建和生成可交互的 3D 环境。它能生成可直接投入生产的 3D 资产，例如与主流游戏引擎兼容的网格（Meshes）和高斯泼溅（Gaussian Splatting）。",
+ "title": "HY-World 2.0：腾讯的多模态世界模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

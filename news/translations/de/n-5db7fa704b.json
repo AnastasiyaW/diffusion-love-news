@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 veröffentlicht, führte World-R1 einen Post-Training-Ansatz mit Reinforcement Learning ein, der keine 3D-Assets benötigt. Gegenüber den Basismodellen erzielte er deutliche Verbesserungen der geometrischen Konsistenz (7–10 dB PSNR) und wurde auf der ICML 2026 vorgestellt.",
+ "id": "n-5db7fa704b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt Feedback von Depth Anything 3 und Qwen3-VL, um während des Trainings 3D-Constraints zu verstärken.",
+ "source_sha256": "e9ddb8344cf25665f01002e5a2c9dcdb9ac7aeff40a80c5531da2cd936292d0f",
+ "summary": "Ein Forschungsprojekt von Microsoft, das die geometrische 3D-Konsistenz in Text-zu-Video-Modellen mithilfe des Reinforcement-Learning-Frameworks Flow-GRPO verbessert. Es optimiert Modelle wie Wan 2.1 anhand von Feedback aus 3D-Foundation-Modellen, um Objektverzerrungen und Halluzinationen bei Kamerabewegungen zu verhindern.",
+ "title": "World-R1: 3D-Constraints für Videogenerierung durch Reinforcement Learning verstärken",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

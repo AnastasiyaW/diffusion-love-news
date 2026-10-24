@@ -1,0 +1,10 @@
+{
+ "id": "n-e9d344fa77",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6cbee7c1ad7c2fb11d4fe4a16029863c8a563c9baee90dc018ffc499291d21d2",
+ "summary": "El 2026-07-24, un mensaje asociado a Self Gradient Forcing enlazó su página de proyecto, el repositorio de código fuente y la página del modelo en Hugging Face. Esto hizo que la descripción general del proyecto, la ubicación de la implementación y el recurso del modelo alojado pudieran encontrarse de forma conjunta. Las fechas y los enlaces no permiten establecer si se trató de una publicación inicial, de una actualización con versión o de otro hito técnico concreto.",
+ "title": "Se enlazaron los recursos del proyecto Self Gradient Forcing",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

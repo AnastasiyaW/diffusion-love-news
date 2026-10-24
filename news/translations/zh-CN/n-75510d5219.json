@@ -1,0 +1,10 @@
+{
+ "id": "n-75510d5219",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e912b70dc7e8ccf74d29342552abb9cb0440c128afea55807c2933e50ee8a478",
+ "summary": "2026-08-11，一条带日期的公开引用将 MatrAIx 与其官网、MatrAIx-Persona-8B 代码仓库以及可视化 Playground 的快速入门章节关联起来。这表明截至该日期，Persona 8B 已具备公开的项目入口和使用文档入口。仅凭所提供的链接，无法确定具体发布日期、模型能力或代码变更。",
+ "title": "MatrAIx Persona 8B 已公开引用，并附带可视化 Playground 快速入门",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-8dc4648cdc",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Öffnen Sie die Länderseite, wählen Sie ein Land oder eine Filiale und prüfen Sie anschließend in der Filialtabelle das Eröffnungsdatum und den Umsatz des Vormonats.\n\nFür einen Vergleich setzen Sie die Filter für Marke, Land, Währung und Zeitfenster; betrachten Sie Umsatz, Veränderung gegenüber dem Vorjahr, Bestellungen und Alter der Filiale gemeinsam.\n\nVergleichen Sie vergleichbare Standorte und deuten Sie einen fehlenden oder einen Nullwert beim Vorjahresvergleich einer neueren Filiale als Fehlen einer Vergleichsbasis für denselben Zeitraum, nicht als Beleg für fehlendes Wachstum.\n\nDokumentieren Sie Land, Währung, Zeitraum und verwendete Filter, bevor Sie einen Vergleich teilen, denn das Dashboard zeigt unterschiedliche Netzwerkausschnitte und lokale Währungen.",
+ "source_sha256": "b429ac5872b3824ce4516fe5a2e3f5857afcb96bb5268a41528475c0c2bff7dc",
+ "summary": "Die Filialstatistiken von Dodo Pizza sind öffentlich zugänglich, aufgeschlüsselt nach Land und Standort, und zeigen den Umsatz des Vormonats sowie die Eröffnungsdaten. Laut der Seite wird sie alle 30 Minuten aus der öffentlichen Dodo-IS-API aktualisiert.",
+ "title": "Dodo Pizza: öffentliches Umsatz-Dashboard der Filialen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

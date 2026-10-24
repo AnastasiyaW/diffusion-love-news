@@ -1,0 +1,10 @@
+{
+ "id": "n-38018d5d2d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "52d434e74cd9a5d7830e02f5013d732231f4763fa9f45b842e8774245bf73c9c",
+ "summary": "2026年6月17日，该开发线的一名成员将 SIQ-1-35B 与一个公开的 Hugging Face 模型页面以及一个 Hermes-agent ZeroGPU Space 建立了链接。同时还链接了相关的 autoresearch、parameter-golf 和基准测试代码仓库，将该项目置于实验与评估的语境之中。这些带日期的链接确立了公开的产物与参考资料，但并不能证实原帖关于它们的具体主张。",
+ "title": "SIQ-1-35B 公开模型与智能体演示已建立链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

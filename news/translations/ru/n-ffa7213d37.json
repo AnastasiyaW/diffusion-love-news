@@ -1,0 +1,10 @@
+{
+ "id": "n-ffa7213d37",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1c543d9f01a73497497bae1ab77608bbe96a710c6254a4f021ac5d64dd1cbddf",
+ "summary": "7 июля 2026 года датированное сообщение проекта дало ссылки сразу на репозиторий модели Seamless-Equirectangular LTX-2.3 LoRA и на его репозиторий интеграции с ComfyUI. Это важно, поскольку фиксирует публичную доступность ресурсов модели и рабочего процесса как единого шага в развитии проекта.",
+ "title": "Публичные ресурсы для LoRA Seamless-Equirectangular LTX-2.3",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

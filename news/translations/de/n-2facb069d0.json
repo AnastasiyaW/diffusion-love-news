@@ -1,0 +1,10 @@
+{
+ "id": "n-2facb069d0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7106aa3eb6be4ce85f96a96f0be6be3dd08f165729fe44b7f32cd4b92626318e",
+ "summary": "Am 06.08.2026 verknüpfte der datierte Eintrag im Entwicklungsverlauf eine MiniMax-H3 Turbo LoRA-Modellressource mit einem Demo-Space, einem ComfyUI-Integrations-Repository und einer auf ComfyUI ausgerichteten Modellressource. Dies ist ein wesentlicher Schritt, weil dadurch ein zugänglicher Workflow entsteht, der Modellverteilung, Demonstration und die Nutzung in ComfyUI umfasst. Allein die verlinkten Ressourcen belegen jedoch nicht deren jeweilige Veröffentlichungsdaten, Versionen, Urheberschaft oder Leistungsangaben.",
+ "title": "MiniMax-H3 Turbo LoRA-Ressourcenpaket dokumentiert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

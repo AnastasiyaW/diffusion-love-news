@@ -1,0 +1,10 @@
+{
+ "id": "n-594cd03215",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2e36494a9bdeb49b8309cfa91170faec19fd22c3ebb1acfcc9e37d383ecfa4a6",
+ "summary": "2026年7月22日，Mage-Flow 以相关项目文档和公开源代码仓库的形式出现。同一批带日期的链接还包括 Hugging Face 的发现页面和演示页面，表明该项目提供了一个可访问的开发与评估入口。仅凭所提供的链接，无法确定精确的发布版本、技术论断或基准测试结果。",
+ "title": "Mage-Flow 项目资源已可访问",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

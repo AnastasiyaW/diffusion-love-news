@@ -1,0 +1,10 @@
+{
+ "id": "n-b3f3b611a3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "671d9822808e46f6b14c991442470d2177cd1f82990614002e06845ebee1fb0d",
+ "summary": "2026년 7월 26일, 개발 업데이트에서 Nanbeige4.2-3B Hugging Face 모델 페이지, 관련 양자화 베이스 모델 항목을 필터링한 목록, 그리고 추론 스페이스가 함께 링크되었다. 이로써 해당 모델과 관련 배포 옵션에 대한 날짜가 명시된 공개 접근 지점이 마련되었다.",
+ "title": "Nanbeige4.2-3B 공개 모델 및 추론 리소스 링크 게시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

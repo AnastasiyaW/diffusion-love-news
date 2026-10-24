@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pika 从基于 Discord 的测试版过渡到功能完善的网页平台。近期它推出了 'AI Self' 功能,将 'AI Selfie' 工具发展为一个变现生态系统,用户可从自己的数字分身中获得收益。",
+ "id": "n-807bf78763",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该平台注重电影级画质,并以用于动态物体转换的 'Pikaffects' 为特色。其主域名已从 pika.me 迁移至 pika.art。",
+ "source_sha256": "bd555eab0201ba3cf5faaf3c8be1fe22d452531b187f7142940cb46f632ad9e8",
+ "summary": "Pika 是一个先进的生成式 AI 平台,可基于文本、图像和视频提示词生成高质量的视频与动画。它提供角色一致性、口型同步和基于物理的特效等专用工具。",
+ "title": "Pika 生成式 AI 视频与动画平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

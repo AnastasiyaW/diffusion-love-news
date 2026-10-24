@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Als CVPR-2026-Highlight ausgewählt, wurde das Projekt im April 2026 offiziell gestartet. Es markiert einen grundlegenden Wandel von getrennten Zwei-Stufen-Pipelines hin zu einer einheitlichen diffusionsbasierten Architektur; im Mai 2026 wurden öffentlicher Inferenzcode und Gewichte veröffentlicht.",
+ "id": "n-e33dfb0bdb",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt vom Visual Computing Lab der SNU; nutzt eine neuartige Methode zur synthetischen Triplet-Supervision, um auf ungepaarten Daten zu trainieren.",
+ "source_sha256": "2fab6617fedcc7b173781496aab260be69beb80a44253849142804e2908a811c",
+ "summary": "Vanast ist ein einstufiges Framework, das virtuelle Ganzkörperanprobe mit posengesteuerter Menschenanimation vereint. Es erzeugt direkt aus dem Bild einer Person, Kleidungseingaben und Bewegungssequenzen hochauflösende Videos und gewährleistet dabei zeitliche Konsistenz und Identitätserhalt.",
+ "title": "Vanast: Einheitliche Menschenanimation und virtuelle Anprobe",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

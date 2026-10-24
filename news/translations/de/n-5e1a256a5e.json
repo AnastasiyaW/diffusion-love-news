@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 vorgestellt, nachdem es unter dem Pseudonym „HappyHorse-1.0“ die globalen Text-zu-Video-Benchmarks anführte. Es markiert den Übergang von der Erzeugung kurzer Videos zur dauerhaften Echtzeit-Simulation von Umgebungen.",
+ "id": "n-5e1a256a5e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das System kann bis zu 3 Minuten kontinuierliches Video mit synchronisiertem Audio erzeugen und physikalische Eigenschaften wie Schwerkraft und Beleuchtung modellieren.",
+ "source_sha256": "a0b625c7f2f59f2b792f5514b980eb82167acf06856d0034de4a863e234e8308",
+ "summary": "Ein fortschrittliches KI-Weltmodell von Alibaba, das interaktive, unendliche virtuelle Umgebungen mit konsistenter Physik in Echtzeit simuliert. Es unterstützt sowohl einen Ego-Perspektive-Explorationsmodus als auch einen Regiemodus zur Live-Steuerung von Szenen und Figuren.",
+ "title": "Happy Oyster: Alibabas interaktives Echtzeit-KI-Weltmodell",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

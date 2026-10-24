@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die Liste wurde um moderne neuronale Text-to-Speech-Frameworks wie Vosk-TTS und Matcha-TTS erweitert. Im Mittelpunkt stehen nun leichtgewichtige, offline-first ausgelegte Lösungen auf Basis von ONNX sowie die Integration mit Sherpa-ONNX für leistungsstarkes Streaming-ASR auf Edge-Geräten.",
+ "id": "n-78ccc63365",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält zahlreiche Verweise auf das Werkzeug ru-normalizr zur Textvorverarbeitung sowie auf die speechinfo-Community mit Neuigkeiten aus der russischen ML-Forschung.",
+ "source_sha256": "77cdf9ef6cb52711fc51839827a061d19aed00baeafe2e77b347bf39adaca7af",
+ "summary": "Ein umfassendes, kuratiertes Repository mit Datensätzen, Werkzeugen und Open-Source-Modellen für die Spracherkennung und Sprachsynthese in der russischen Sprache. Es wird von Alpha Cephei gepflegt, dem Team hinter dem Spracherkennungs-Toolkit Vosk.",
+ "title": "Awesome Russian Speech: Russian Speech Technology Resources",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

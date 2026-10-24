@@ -1,0 +1,10 @@
+{
+ "id": "n-c5e93c1d3a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fa41026ae0d140da4d03ca12cb37e4ac2e8a9dbe24147d8763f56fd44d03471f",
+ "summary": "Le 2026-07-07, cette ligne de développement a relié les arborescences publiques des dépôts Hugging Face de NVIDIA Nemotron-Labs-Audex-30B-A3B et Nemotron-Labs-Audex-2B. Ces liens marquent une étape significative de disponibilité publique pour deux variantes du modèle Audex, bien que les modalités précises de leur publication ne soient pas établies ici.",
+ "title": "Les dépôts de modèles Audex sont devenus publiquement accessibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

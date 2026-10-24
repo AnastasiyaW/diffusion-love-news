@@ -1,0 +1,10 @@
+{
+ "id": "n-3554d5183b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "34253fde6d436bb7d2e721f0f0cbdc151f43cd8e009ed2ec4b3b7d08bc645e17",
+ "summary": "2026 年 8 月 3 日，PrunaVAED 出现在 LTX Video 开发讨论线程中，并附有其 Hugging Face 仓库和一个 ComfyUI 拉取请求（pull request）的链接。这是一个与集成直接相关的重要里程碑，但现有证据无法确定该拉取请求的结果、版本或运行时行为。",
+ "title": "PrunaVAED 进入 LTX Video 集成讨论线程",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

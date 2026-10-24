@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié officiellement en mai 2026 et accepté à SIGGRAPH 2026. Le cadre a été lancé avec deux modèles spécialisés : UniVid-Intrinsic pour les propriétés physiques et UniVid-Alpha pour la décomposition en couches.",
+ "id": "n-70e759ac2b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construit sur le backbone Wan2.1, en utilisant Stochastic Condition Masking et Decoupled Gated LoRA afin de maintenir la cohérence entre les modalités avec un minimum de données d'entraînement.",
+ "source_sha256": "e207a63bd072333e1cd083c11bb5d7e17dbedce818e81762f5a3ffc5c526daec",
+ "summary": "Un cadre de diffusion vidéo « any-to-any » unifié, conçu pour plus de 15 tâches, dont le matting vidéo, le relighting et le rendu inverse. Il traite des modalités variées comme le RGB, la profondeur et l'alpha comme des conditions ou des cibles interchangeables au sein d'une même architecture.",
+ "title": "UniVidX : cadre unifié de diffusion vidéo multimodale",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

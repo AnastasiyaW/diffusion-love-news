@@ -1,0 +1,10 @@
+{
+ "id": "n-80bd00594d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "da7553c4b9c0916a62e0f21276e4fec378251011a3f77eb512fea64a4455eca1",
+ "summary": "El 2026-07-01, un mensaje de la línea de desarrollo enlazó el repositorio de GitHub y la página de Hugging Face de ASASR. Solo a partir de los enlaces fechados, esto es un paso de publicación de recursos orientado al proyecto. No establece una versión, un conjunto de funcionalidades, un estado de publicación ni capacidad alguna del modelo.",
+ "title": "Se enlazaron los recursos del proyecto ASASR",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

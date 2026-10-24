@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월에 출시된 Gemma 4 모델 계열을 활용하며, 이 모델들은 'Thinking Mode'를 도입하고 에이전트형 추론 능력을 크게 향상시켰습니다. 이 프로젝트는 현재 온디바이스 성능 최적화를 위해 양자화된 E2B 및 E4B 모델을 지원합니다.",
+ "id": "n-ae3f3a3876",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Chrome 확장 프로그램을 활용한 프라이버시 우선 아키텍처이며, WebGPU를 지원하는 브라우저가 필요합니다.",
+ "source_sha256": "e3ffc3ef72729aca69e5c58165b0267646e466017b7654392c6cefc0c4530b33",
+ "summary": "하드웨어 가속 WebGPU와 Google의 Gemma 4 모델을 사용해 브라우저에서 로컬로 실행되는 완전 자율 AI 에이전트입니다. 외부 API 키나 클라우드 연결 없이 웹 탐색, 양식 작성, JS 실행을 수행합니다.",
+ "title": "Gemma Gem: WebGPU 기반 로컬 브라우저 AI 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

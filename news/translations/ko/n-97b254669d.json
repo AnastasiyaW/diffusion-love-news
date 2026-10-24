@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "처음에는 ERNIE-ViLG라는 이름으로 출시되었으며, 이 프로젝트는 2026년 초 오픈 웨이트 ERNIE-Image 8B 및 Turbo 변형 모델로 발전했습니다. 초기 diffusion 실험에서 출발하여, 텍스트 렌더링을 최적화한 효율적인 8B DiT 아키텍처로 전환되었습니다.",
+ "id": "n-97b254669d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "전용 Prompt Enhancer 모델과 Day-0 ComfyUI 지원을 포함합니다. LongText-Bench에서 텍스트 렌더링 정확도 상위권에 올랐습니다.",
+ "source_sha256": "c240dae8239e73491086fff81574d39483fbb7545fef9df2a0bce5171b4a4525",
+ "summary": "ERNIE 멀티모달 프레임워크를 기반으로 한 Baidu의 고도화된 텍스트-이미지 생성 제품군입니다. 고충실도 출력을 위해 Diffusion Transformer 아키텍처를 활용하며, 네이티브 다국어 지원을 제공합니다.",
+ "title": "ERNIE-Image 8B: Baidu의 고성능 DiT 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

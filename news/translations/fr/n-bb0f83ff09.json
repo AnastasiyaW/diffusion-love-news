@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Depuis sa sortie en avril 2026, le projet a publié des poids officiels ainsi qu'une démonstration Gradio interactive sur Hugging Face. Il a établi un nouveau benchmark de référence (state-of-the-art) pour la segmentation vidéo dans des domaines difficiles comme l'anime et le jeu vidéo.",
+ "id": "n-bb0f83ff09",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par le UVA Computer Vision Lab ; il repose sur une approche relationnelle inédite, à la place de la classification traditionnelle image par image.",
+ "source_sha256": "cbc998eeca454fc89e8c30d09e0cc528886ead2204a1aca726b5c0025c1c47c1",
+ "summary": "OmniShotCut est un cadre basé sur les transformers, conçu pour la détection des frontières de plans (Shot Boundary Detection) à haute précision sur divers types de vidéos. Il s'appuie sur une architecture Shot-Query pour identifier de manière holistique les transitions complexes, telles que les fondus enchaînés, les fondus au noir et les sauts brusques.",
+ "title": "OmniShotCut : détection holistique et relationnelle des frontières de plans",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

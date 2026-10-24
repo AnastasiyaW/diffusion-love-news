@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已确立为 ComfyUI 中 Photopea 集成的当前标准，取代了早期基于 iframe 的版本。后续开发聚焦于界面缩放以及在独立应用环境中的稳定性。",
+ "id": "n-39f773b51f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "内置广告拦截开关，支持将单个图层或整个文档导回节点图中。",
+ "source_sha256": "c0485818a23bbf9d45bf3fb27640ddf212962a28c0d0e54534c9deea049e3ce4",
+ "summary": "将 Photopea 图像编辑器集成为 ComfyUI 中的专用侧边栏标签页。支持在工作区与编辑器之间无缝双向传输图像，并可直接导入特定图层。",
+ "title": "ComfyUI-Photopea-tab：ComfyUI 侧边栏图像编辑器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

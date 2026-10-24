@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已从 v3 演进到 v11,新增了用于边界框拖放编辑的专用模型。这些更新通过针对特定架构模块来增强身份锁定能力,并集成到了交互式 Hugging Face Spaces 中。",
+ "id": "n-e5bb396e69",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "最佳推理强度为 0.65–0.75;身份保持功能主要集中在 Klein 架构的 double blocks 6-7 中。",
+ "source_sha256": "24ac5cc0d6fc5b1957b7bb4ea8cb3da2ec88d5ef306b7b3417b410a52a21776e",
+ "summary": "一款专为 FLUX.2 [klein] 9B 模型设计的专用 LoRA,可在生成场景中实现精确的交互式物体移动。在空间编辑过程中,它借助边界框或拖放式工作流保持角色身份和纹理的一致性。",
+ "title": "FLUX.2 [klein] Move:交互式物体重定位 LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

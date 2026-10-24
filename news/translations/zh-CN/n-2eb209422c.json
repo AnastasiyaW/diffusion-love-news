@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型于 2026 年 4 月发布，是微软第一方基础模型体系的一部分，目前通过 Microsoft Foundry 和 Azure AI Foundry 以公开预览（Public Preview）形式提供。它正被集成到 Microsoft Teams 以及 Copilot 的语音模式中。",
+ "id": "n-2eb209422c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在速度和准确率方面均优于 OpenAI 的 Whisper Large v3 和谷歌的 Gemini 1.5 Flash；定价具有竞争力，每小时音频 0.36 美元。",
+ "source_sha256": "3a76f60f985b9c21da6aa729613b4e8e54b6d58c0c96b8ebe1ef0a6517f3b324",
+ "summary": "MAI-Transcribe-1 是微软 AI（Microsoft AI）推出的专有自动语音识别模型，专为高精度的批量转录和实时转录而设计。该模型在 FLEURS 基准测试中取得了领先业界的 3.88% 词错误率（Word Error Rate），并针对嘈杂环境进行了优化。",
+ "title": "Microsoft 推出语音识别模型 MAI-Transcribe-1",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

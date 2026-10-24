@@ -1,0 +1,11 @@
+{
+ "id": "n-3efd45843c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Abre la interfaz de ElevenCreative y selecciona el estudio de generación de personajes.\n\nSube una imagen de referencia del personaje o genera un sujeto visual mediante un prompt de texto.\n\nSelecciona una voz de Eleven v4 o asigna a the personaje un perfil de voz clonada.\n\nIntroduce el diálogo en el editor de guiones e inserta etiquetas de emoción entre corchetes, como [whispers] o [laughs], para guiar la entrega vocal y la expresión facial.\n\nRenderiza el pase de generación para exportar el vídeo del personaje con sincronización labial.\n\nColoca las etiquetas de emoción inmediatamente antes de la frase o palabra objetivo para que el modelo de voz y el generador de vídeo alineen la expresión facial correspondiente con el tono vocal.\n\nUtiliza retratos de referencia frontales de alta resolución, con rasgos faciales claros, para evitar distorsiones en la sincronización labial durante entregas emocionales complejas.\n\nMantén los segmentos de diálogo individuales concisos para conservar la coherencia facial y evitar la deriva a lo largo de pases de renderizado de vídeo extensos.",
+ "source_sha256": "292224175f65dec200edb8ce53fbfa21553f03249e6298fc14ce8a3b6cdd4796",
+ "summary": "ElevenLabs presentó Chimera, que combina su motor de voz expresiva Eleven v4 con el modelo de generación de vídeo Seedance 2.5 para producir personajes parlantes sincronizados directamente a partir de guiones de texto, etiquetas de emoción e imágenes de referencia.",
+ "title": "ElevenLabs integra el sistema de personajes de IA Chimera en ElevenCreative",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

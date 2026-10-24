@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 Netflix VOID 모델 공개 이후, 이 프로젝트는 베타 포트에서 다듬어진 노드 세트로 발전했습니다. 커뮤니티 업데이트를 통해 24GB VRAM 지원을 위한 FP8 양자화와 two-pass 파이프라인을 통한 개선된 시간적 일관성이 도입되었습니다.",
+ "id": "n-08ae804484",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "물리 인식 인페인팅을 위한 quadmask 시스템을 도입했으며, ComfyUI 생태계에서 VOID의 주요 진입점으로 널리 사용되고 있습니다.",
+ "source_sha256": "f11cd38825564e3a3d7a8bf959bebe7f367b4cccd1952168e2fcb29561475f34",
+ "summary": "고급 비디오 인페인팅을 위해 설계된 Netflix VOID 모델의 ComfyUI 구현체입니다. 독자적인 quadmask 시스템을 사용하여 그림자, 반사 등 객체의 물리적 상호작용과 함께 객체를 제거합니다.",
+ "title": "AP Netflix VOID — 비디오 객체 삭제를 위한 ComfyUI 노드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

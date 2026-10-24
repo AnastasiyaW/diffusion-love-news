@@ -1,0 +1,11 @@
+{
+ "id": "n-4d771e5e60",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Créez un environnement virtuel Python 3.11 ou 3.12 et installez les dépendances épinglées du fichier requirements.\n\nExécutez `python its_giving_v2.py --calibrate`, restez neutre pendant la calibration de sept secondes, puis lancez `python its_giving_v2.py`.\n\nInstallez un backend de caméra virtuelle adapté au système d'exploitation, démarrez ItsGiving avant l'application de visioconférence, puis sélectionnez la caméra virtuelle publiée dans les paramètres vidéo de cette application.\n\nConservez les versions épinglées des dépendances inchangées : les contraintes de compatibilité documentées entre MediaPipe, NumPy et OpenCV sont liées.\n\nUtilisez la v2 et recalibrez si nécessaire, car ses seuils d'expression reposent sur la base de référence du visage neutre de l'utilisateur.\n\nLorsque vous ajoutez une pose, vérifiez l'ordre des poses avant d'abaisser les seuils, car la première pose correspondante l'emporte ; utilisez le HUD et un compteur de bras pour ajuster les fausses détections.\n\nTestez les réactions avant de les utiliser en réunion, car la sortie peut se déclencher automatiquement et est visible par tous les participants à l'appel.",
+ "source_sha256": "608431980f7d92040c98ed6e4f36c96775cbfae3da73bbd882b61cfe711e85b7",
+ "summary": "ItsGiving fournit une incrustation webcam en Python qui peut être sélectionnée comme caméra virtuelle dans les logiciels de visioconférence ; son script v2 recommandé calibre les seuils d'expression à partir d'une base de référence d'un visage neutre de sept secondes.",
+ "title": "Incrustation webcam ItsGiving avec détection v2 calibrée",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

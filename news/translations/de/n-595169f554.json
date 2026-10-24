@@ -1,0 +1,11 @@
+{
+ "id": "n-595169f554",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Testen Sie die Canvas-Interaktion und das Gruppieren von Knoten in der Web-Demo, bevor Sie die Desktop-Software installieren.\n\nLaden Sie das paketierte Windows-Executable-Release herunter oder klonen Sie das Repository, um das Studio lokal auszuführen.\n\nHinterlegen Sie in den Einstellungen einen persönlichen fal.ai-API-Schlüssel, um die neuronale Bild- und Videogenerierung auf Canvas-Knoten zu aktivieren.\n\nOrdnen Sie Referenzbilder an, verbinden Sie Makro-Knoten und führen Sie Generierungen direkt über den unendlichen Canvas aus.\n\nNutzen Sie Makro-Knoten, um wiederkehrende Prompt-Unterstützung und Referenztransformationen in wiederverwendbare Workflow-Blöcke zu bündeln.\n\nPrüfen Sie die Logik der Knotenverbindungen in der Browser-Demo, bevor Sie kostenpflichtige Generierungsläufe über fal.ai starten.\n\nÜberwachen Sie beim Ausführen von Batches mit hochauflösenden Bildern und Videos direkt die Nutzungslimits Ihres fal.ai-Kontos und Ihre API-Token-Guthaben.",
+ "source_sha256": "129211acf7036502e1067992b12ff945f7b198db4e485467971bcf5e47d4334e",
+ "summary": "CanAI hat seinen Quellcode und einen Windows-Build als Open-Source-Studio für lokale generative KI veröffentlicht. Es bietet einen unendlichen Canvas für neuronale Generierung und Makro-Knoten, die mit persönlichen fal.ai-API-Zugangsdaten genutzt werden.",
+ "title": "CanAI: lokales KI-Canvas-Studio auf GitHub veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

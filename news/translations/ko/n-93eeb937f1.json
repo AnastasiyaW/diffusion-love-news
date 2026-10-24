@@ -1,0 +1,11 @@
+{
+ "id": "n-93eeb937f1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "호스티드 모델의 경우 기존 API 연동을 그대로 유지하고 모델을 `deepseek-flash`로 설정하면 된다. 이 이름은 현재 V4.1 Flash 릴리스로 연결된다.\n\n로컬 실험을 위해서는 최신 Transformers와 Accelerate를 설치한 뒤, 문서에 나온 image-text-to-text 파이프라인 또는 `AutoModelForCausalLM` 경로를 통해 `deepseek-ai/DeepSeek-V4.1-Flash-1017`을 로드하면 된다.\n\n호스티드 연동에서는 체크포인트 이름을 직접 넣기보다 고정된 `deepseek-flash` API 이름을 사용하라. 그래야 호출 형식을 바꾸지 않고도 문서에 명시된 현재 버전이 선택된다.\n\n자체 호스팅을 할 때는 이전 V4 Flash 런타임 설정이 그대로 동작한다고 가정하지 말고, 공식 문서에 명시된 Transformers 또는 vLLM 로딩 경로에서 시작하라.",
+ "source_sha256": "416d8ef0ca6403d9bb63ee9b02ef1be4ab2391c402c43f01c9bb31ae35f1c594",
+ "summary": "DeepSeek은 `deepseek-flash` 뒤에서 현재 대상이 되는 모델로 V4.1-Flash-1017을 문서화했으며, API 호출 방식과 가격은 그대로 유지된다.",
+ "title": "DeepSeek, Flash API 모델을 V4.1-Flash-1017로 업데이트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

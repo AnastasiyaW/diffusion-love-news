@@ -1,0 +1,10 @@
+{
+ "id": "n-75473141c2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a8126d81d6686d05db60762c160bebd6ba9e08ac294be2baa154c9625a18bd5b",
+ "summary": "El 2026-08-05, la línea de desarrollo de UEmbed remitió a los lectores a la página oficial del proyecto, a su repositorio de código fuente en GitHub y a la página del modelo UEmbed-9B en Hugging Face. Los enlaces con fecha establecen un hito de disponibilidad pública del proyecto y del modelo, pero no establecen una versión concreta, un benchmark ni una afirmación sobre capacidades.",
+ "title": "Se publicaron la página del proyecto UEmbed, su código y los recursos de UEmbed-9B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

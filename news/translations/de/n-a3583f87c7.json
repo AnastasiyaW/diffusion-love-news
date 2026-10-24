@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt aus einem viralen GitHub-Repository zu einem vollwertigen Framework mit einer technischen arXiv-Veröffentlichung und Unterstützung für das Model Context Protocol (MCP). Das Update auf v3.x führte den Kompressionsdialekt AAAK ein und verbesserte die Performance im lokalen Betrieb.",
+ "id": "n-a3583f87c7",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Mitentwickelt von der Schauspielerin Milla Jovovich und dem Entwickler Ben Sigman; bemerkenswert, weil das System den bei anderen KI-Gedächtnissystemen auftretenden „Summarization Drift“ vermeidet.",
+ "source_sha256": "29883f5dfd027546efde73b0a57dd5755b2377c288766b41ebcedc2315dfaa6f",
+ "summary": "Ein lokal ausgeführtes KI-Gedächtnissystem, das einen Schreibpfad ohne LLM-Inferenz und hierarchische Speicherung nutzt, um wortgetreuen Langzeitkontext zu bewahren. Es setzt einen eigens entwickelten Kompressionsdialekt namens AAAK ein, der eine 30x höhere Datendichte bei weiterhin für LLMs lesbarer Darstellung erreicht.",
+ "title": "MemPalace: Effiziente unendliche Speicherkompression für LLMs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

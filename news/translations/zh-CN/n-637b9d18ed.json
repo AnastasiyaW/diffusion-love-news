@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "由阿里巴巴 Z-Image 团队发布，作为强化学习的一种更易上手的替代方案，用于定制高速模型。目前已应用于 Z-Image-Turbo 以及 FLUX.2 系列的实验版本。",
+ "id": "n-637b9d18ed",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "无需借助外部奖励模型，而是利用扩散模型自身的上下文学习能力，在训练过程中充当自身的教师。",
+ "source_sha256": "b6409e2f583660aa1a8ea3ec063b416b87e3f808023119220cc8cc91ffa24931",
+ "summary": "阿里巴巴提出的一种训练范式，用于对 Z-Image-Turbo 等高效少步扩散模型进行持续微调。该方法利用同策略（on-policy）自蒸馏，在不损失生成速度或质量的前提下实现风格与概念适配。",
+ "title": "D-OPSD：面向步数蒸馏扩散模型的持续微调",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

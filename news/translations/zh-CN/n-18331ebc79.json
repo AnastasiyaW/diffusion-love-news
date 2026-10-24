@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从最初的JavisDiT（v0.1）发展为JavisVerse生态系统，通过JavisGPT统一了生成与理解能力。最新的JavisDiT++（v1.0）被ICLR 2026接收，引入了混合专家（Mixture-of-Experts，MoE）设计和时间对齐RoPE（Temporally Aligned RoPE），以实现精确的音视频同步。",
+ "id": "n-18331ebc79",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含JavisBench评测基准套件，并利用音视频直接偏好优化（Audio-Video Direct Preference Optimization，AV-DPO）实现输出对齐。",
+ "source_sha256": "5f4b9c242b12f62c4747a53454f59583abecc973887a2335bff82d7765dfb521",
+ "summary": "一个用于联合音视频生成与理解的多模态生态系统。它采用统一的扩散Transformer（Diffusion Transformer）架构，可根据文本提示生成时间上同步的有声视频。",
+ "title": "JavisDiT：联合音视频扩散Transformer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

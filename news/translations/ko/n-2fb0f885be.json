@@ -1,0 +1,10 @@
+{
+ "id": "n-2fb0f885be",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6aa1e23cba9823136d04c0e9f3d4027c1986b02ab6ec43b1f4b810a591619ebb",
+ "summary": "2026년 7월 23일, Unity는 Unity CLI와 관련된 날짜가 명시된 공식 블로그 게시물을 발표했습니다. 해당 프로젝트 전용 공식 링크가 있어, 이는 Unity CLI 역사에서 의미 있는 도입 이정표로 볼 수 있습니다. 다만 확보된 증거만으로는 해당 도구의 기능, 제공 여부, 기술적 동작을 확인할 수 없습니다.",
+ "title": "Unity, Unity CLI 관련 발표 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

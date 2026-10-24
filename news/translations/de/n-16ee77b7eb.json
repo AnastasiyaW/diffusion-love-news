@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Auf die Qwen-3.5-Serie folgte Mitte Mai 2026 die Qwen-3.6-Familie, die eine verbesserte multimodale Leistung einführte. Gemma 4 bleibt die führende Wahl für mobile KI, während das Qwopus-Projekt mit verbessertem Reasoning per Chain-of-Thought (CoT) auf Version 3.6 fortgeschritten ist.",
+ "id": "n-16ee77b7eb",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Modelle unterstützen llama.cpp und Unsloth Studio nativ; die 35B-MoE-Varianten sind besonders für Generierung mit niedriger Latenz bei lokaler Ausführung optimiert.",
+ "source_sha256": "1f258f8997aeffe6d537dd20cf1d969e5894ec9399e5417430358bed065ca064",
+ "summary": "Eine kuratierte Sammlung GGUF-quantisierter Modelle für lokale Inferenz mit Alibabas Qwen 3.5 MoE, Googles Gemma-4-Serie und dem auf logisches Schlussfolgern ausgerichteten Qwopus. Die Modelle sind für Consumer-GPUs optimiert und bieten hohe Geschwindigkeit sowie multimodale Fähigkeiten.",
+ "title": "Neue GGUF-Modelle: Qwen 3.5, Gemma 4 und Qwopus",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

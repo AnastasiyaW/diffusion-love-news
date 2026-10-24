@@ -1,0 +1,10 @@
+{
+ "id": "n-4621bd0727",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "85683771808c4884661b9d2decd4202fbdc91068645ecb3e60540decb2b8b1c5",
+ "summary": "2026-08-12, VocalRender의 프로젝트 사이트, 소스 저장소, 모델 페이지, 인터랙티브 데모가 연결되어 공개되었습니다. 이는 프로젝트에 대한 의미 있는 공개 단계로, 구현 코드와 실사용 가능한 모델 리소스를 한데 연결합니다.",
+ "title": "VocalRender 프로젝트 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

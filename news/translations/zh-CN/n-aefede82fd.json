@@ -1,0 +1,10 @@
+{
+ "id": "n-aefede82fd",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "aa51edc01a460520f4dc8af1206ff363d02bdf0efd61be2faa5f9d5d8fbc5fb1",
+ "summary": "2026年8月3日，sana 讨论串中的一条消息链接了 Sol-Attn 项目主页以及 NVlabs/Sana 的 `sol-engine` 分支。这些引用共同标记了 Sol-Attn 项目一次公开记录在案的开发步骤，值得纳入其历史记录予以审阅。现有证据无法确定该日期对应的是发布公告、正式版本发布还是代码更新。",
+ "title": "Sol-Attn 项目主页与实现分支引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

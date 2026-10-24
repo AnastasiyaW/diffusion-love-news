@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具最初只是一个简单的节点搜索工具，现已发展为功能全面的实用工具，提供命令、节点导航和工作流模板等专门模式。它现已与 ComfyUI Registry 深度集成，并采用 TypeScript 构建，以符合现代前端标准。",
+ "id": "n-133a0bfd18",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持可扩展的命令机制，允许其他自定义节点在面板中注册各自的操作。",
+ "source_sha256": "59434b6c54bb74f20093334b96c6e314ba94c0c81a2e60177742f56ab1df8dfa",
+ "summary": "一个由键盘驱动的 ComfyUI 命令中心，通过 Ctrl+K 界面集中处理导航与执行。用户可以运行界面命令、跳转到指定节点，并通过基于前缀的搜索系统添加新节点。",
+ "title": "ComfyUI 命令面板",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 TRELLIS 2를 통합한 주요 v0.5 업데이트를 통해 발전했으며, 이를 통해 고해상도 메시 생성과 PBR 머티리얼 지원이 가능해졌습니다. 현재도 CUHK-Shenzhen의 GAP-LAB에서 ICLR 2026에 제출된 연구 프로젝트로서 활발히 유지되고 있습니다.",
+ "id": "n-461304d95b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "소비자용 GPU(24GB VRAM)에 최적화되어 있으며, GLB 및 Gaussian Splatting 형식으로의 내보내기를 지원합니다.",
+ "source_sha256": "d394f40c052f1e08c49d8dd51c91589bbf09ec2d23e8c4986aa24522f5a11e11",
+ "summary": "ReconViaGen은 재구성 및 생성 사전 지식(generative priors)을 결합하여 희소 시점(sparse views)으로부터 정밀한 모델을 만들어내는 3D 재구성 프레임워크입니다. 포즈 정보가 없는 재구성을 위한 VGGT와 고충실도 3D 생성을 위한 TRELLIS를 통합하여, 입력 세부 정보를 보존하면서 환각(hallucination)을 효과적으로 제거합니다.",
+ "title": "ReconViaGen: 생성을 통한 정밀한 다중 시점 3D 재구성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

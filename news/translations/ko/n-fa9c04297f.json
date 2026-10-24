@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "통합 RAG, 실시간 2D 표정, DeepSeek v4 및 Claude 4.7과 같은 멀티모달 추론 모델에 대한 네이티브 지원을 갖춘 포괄적인 'AI 롤플레이 콘솔'로 발전했습니다. 최근 업데이트는 복잡한 도구 호출을 위한 인터리브드 사고(interleaved thinking)와 SSRF 공격에 대한 보안 강화에 중점을 두고 있습니다.",
+ "id": "n-fa9c04297f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "활발하게 업데이트되는 스테이징 브랜치와 함께 롤링 릴리스 모델을 유지합니다. 최신 안정 빌드에는 Node.js 20 이상이 필요합니다.",
+ "source_sha256": "78f38bde1c94430115bd36f2f255436ebd5aad976e0867da36fb64574c8ac4aa",
+ "summary": "롤플레이와 스토리텔링에 최적화된, 대규모 언어 모델(LLM)과 상호작용하기 위한 고도로 사용자 지정 가능한 로컬 우선 프런트엔드입니다. 로컬 실행기, API 제공업체 등 여러 백엔드를 지원하며, 캐릭터 표정과 세계관 구축 도구 같은 고급 기능을 제공합니다.",
+ "title": "SillyTavern: 고급 AI 롤플레이 인터페이스",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

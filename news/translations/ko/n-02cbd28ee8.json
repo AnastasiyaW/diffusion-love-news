@@ -1,0 +1,10 @@
+{
+ "id": "n-02cbd28ee8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1cc22d223c9f63c21fa52d958929a7984cebd1468d02202a764d8a39d0d47407",
+ "summary": "2026-06-28, 기록된 링크가 OpenMontage GitHub 저장소를 가리켰다. 봉인된 증거에는 원문 텍스트, 저장소 스냅샷, 릴리스 기록, 코드 변경에 대한 설명이 포함되어 있지 않다. 따라서 이는 특정 구현 이정표가 아니라 공개 저장소 참조 사실을 기록한 것이다.",
+ "title": "OpenMontage GitHub 저장소 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

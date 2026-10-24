@@ -1,0 +1,10 @@
+{
+ "id": "n-4eb63d4caf",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c7c985c2a61dd840ff95bf506af823eff28c70292ecd3ad5e7aa2c8cdb7bc99",
+ "summary": "6 августа 2026 года по датированной ссылке была зафиксирована GGUF-сборка Qwen3-TTS-12Hz-1.7B-Base на Hugging Face. Это был этап последующего распространения модели, а не выпуск исходной модели от Qwen, однако он существенно расширил путь локального развертывания проекта.",
+ "title": "ggml-org опубликовала GGUF-сборку Qwen3-TTS-12Hz-1.7B-Base",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

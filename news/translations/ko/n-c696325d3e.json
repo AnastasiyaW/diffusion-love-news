@@ -1,0 +1,11 @@
+{
+ "id": "n-c696325d3e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fizgig Training 탭의 Subjects 카드에서 서로 다른 최소 두 개의 정체성에 대한 학습 데이터셋을 각각 별도의 폴더에 준비합니다.\n\n각 이미지의 캡션을 고유 트리거 토큰으로 시작하고 쉼표를 붙인 뒤 클래스 설명어를 이어서 작성합니다(예: 'zwxem, a woman smiling'). 이렇게 하면 Fizgig이 내부적으로 융합 토큰(fused token)을 생성할 수 있습니다.\n\n학습 구성에서 LoRA Isolation을 활성화하고, Differential Output Preservation과 자동 합성 낯선 사람 이미지 페어링을 함께 사용합니다.\n\n장면 속 다른 피사체에 대한 설명과 함께 융합 트리거 토큰을 사용하여 추론 이미지를 생성하면, 얼굴 번짐 없이 정체성 경계를 유지할 수 있습니다.\n\n단일 주요 캐릭터를 대상으로 하더라도 최소 두 개의 서로 다른 캐릭터 정체성을 동시에 학습시켜, 네트워크가 정체성 토큰을 기본 인간 클래스 토큰으로부터 분리하도록 강제합니다.\n\n배경 인물이나 군중을 프롬프트할 때는 트리거 토큰을 완전히 생략하여, 기본 모델이 누출 없이 기본적으로 다양한 얼굴을 렌더링하도록 합니다.\n\n학습 중 다인물 네거티브 합성 이미지를 페어링할 때는 낯선 사람을 설명하는 어구를 앞에 두는 인과 순서로 캡션을 구성합니다.",
+ "source_sha256": "fb1d0168a8af7673ae44ab665ecc4848e5885d004acacf25593c31ff82699576",
+ "summary": "Fizgig v8.4.0에 LoRA Isolation이 도입되었습니다. 이 기능은 차등 출력 보존(differential output preservation), 융합 토큰 클래스 분리(fused-token class decoupling), 네거티브 페어 학습(negative-pair training)을 결합하여 여러 캐릭터가 등장하는 장면을 생성할 때 얼굴이 번지는 현상(face bleeding)을 방지합니다.",
+ "title": "Fizgig, 다중 정체성 학습을 위한 LoRA Isolation 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

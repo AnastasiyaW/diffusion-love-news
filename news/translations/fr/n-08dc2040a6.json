@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Successeur de GaussianAvatars, il introduit les Bias Sinks pour empêcher l'enchevêtrement identité-pose lors de l'entraînement sur des vidéos monoculaires. L'article de recherche a été publié à la fin de 2025 ; le dépôt de code officiel attend encore la publication du code source complet.",
+ "id": "n-08dc2040a6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par la Technische Universität München (TUM) ; il marque un virage significatif vers les Large Reconstruction Models (LRMs) pour les avatars de tête.",
+ "source_sha256": "6bfbc4dde96c5c9e8ae1369691ad4ec9180f6095f5e3c19b251191281d08d887",
+ "summary": "FlexAvatar est un framework de pointe qui génère des avatars de tête 3D animables à partir d'entrées éparses, comme une simple photographie. Il s'appuie sur le 3D Gaussian Splatting et sur un nouveau mécanisme, les Bias Sinks, qui permet d'entraîner le modèle sur des jeux de données variés, aussi bien monoculaires que multi-vues.",
+ "title": "FlexAvatar : avatars de tête 3D haute fidélité grâce aux Bias Sinks",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'outils simples d'ajout de bruit à un moteur sophistiqué pour les workflows RAW/DNG, intégrant une modélisation authentique du bruit de capteur (bruit de grenaille « Shot » et bruit de lecture « Read ») ainsi que des préréglages de métadonnées de appareils photo professionnels.",
+ "id": "n-df8413780a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend des outils spécialement conçus pour faire paraître les images générées par IA comme de véritables photographies, afin de contourner les signatures de détection d'IA.",
+ "source_sha256": "64cf4e3eb354811927f7a7bab7effbd9266141313ab08fa92e92d51d770833c9",
+ "summary": "Une suite de nœuds ComfyUI dédiée au post-traitement avancé, à la manipulation d'images RAW et à la simulation du bruit de capteur. Elle facilite les workflows photographiques professionnels grâce à la prise en charge de la sortie DNG et à l'intégration de métadonnées EXIF propres à chaque appareil photo.",
+ "title": "ComfyUI-zveroboy-photo pour le workflow RAW et le photoréalisme",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

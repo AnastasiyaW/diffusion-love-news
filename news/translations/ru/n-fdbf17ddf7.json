@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "После первоначальной публикации официальный код и веса были выпущены в машиннообучаемом репозитории Apple в начале 2026 года. С тех пор метод был принят как plug-and-play модуль для высокоразрешённого рендеринга в обобщаемых бэкбонах, таких как NoPoSplat и DepthSplat.",
  "id": "n-fdbf17ddf7",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Совместная работа The University of Hong Kong и Apple; примечательно, это первый метод, достигший нативного 4K feed-forward Gaussian Splatting.",
- "source_sha256": "legacy",
- "summary": "Фреймворк 3D-реконструкции, использующий компактные текстурированные гауссовы примитивы для развязки геометрической сложности и разрешения рендеринга. Он обеспечивает высококачественный feed-forward синтез 4K без необходимости пооптимизации каждой сцены.",
- "title": "LGTM: Less Gaussians, Texture More для 3D-реконструкции",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Совместная работа The University of Hong Kong и Apple; примечательно, что это первый метод, который достиг нативного feed-forward Gaussian Splatting в разрешении 4K.",
+ "source_sha256": "0d1a2fcc293f1f76329a682e0e70fd7c96e0471f580a158be87ecf322a4b273f",
+ "summary": "Фреймворк для 3D-реконструкции, который использует компактные текстурированные гауссовы примитивы, чтобы отделить геометрическую сложность от разрешения рендеринга. Он обеспечивает высококачественный feed-forward синтез в разрешении 4K без необходимости оптимизации для каждой сцены.",
+ "title": "LGTM: Less Gaussians, Texture More for 3D Reconstruction",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

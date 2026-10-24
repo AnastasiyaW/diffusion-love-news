@@ -1,0 +1,10 @@
+{
+ "id": "n-6705e4929b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d4492dd03e558a9a7d12526a6ae400d1646bcded303915b3289caf39a4a783c8",
+ "summary": "Le 2026-03-17, la ligne de développement de LuxTTS a consigné des liens vers son dépôt GitHub, sa page de modèle Hugging Face, son Space Hugging Face, son notebook Colab et sa page Pinokio. Les références du projet concernant le code source, le modèle, la démo, le notebook et l’installation sont ainsi disponibles ensemble, sous la forme d’un relevé historique daté.",
+ "title": "Les ressources du projet LuxTTS ont été consignées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

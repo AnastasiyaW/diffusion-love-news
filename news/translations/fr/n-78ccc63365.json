@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La liste s'est étoffée avec des frameworks modernes de synthèse vocale neuronale, comme Vosk-TTS et Matcha-TTS. Elle privilégie désormais des solutions légères, fonctionnant hors ligne en priorité et reposant sur ONNX, ainsi que l'intégration de Sherpa-ONNX pour la reconnaissance automatique de la parole en flux continu à haute performance sur les appareils de périphérie.",
+ "id": "n-78ccc63365",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Il contient de nombreux liens vers l'outil ru-normalizr, dédié au prétraitement de texte, ainsi que vers la communauté speechinfo, qui publie les actualités de la recherche en apprentissage automatique sur le russe.",
+ "source_sha256": "77cdf9ef6cb52711fc51839827a061d19aed00baeafe2e77b347bf39adaca7af",
+ "summary": "Un référentiel complet et organisé de jeux de données, d'outils et de modèles open source pour la reconnaissance et la synthèse de la parole en langue russe. Il est maintenu par Alpha Cephei, l'équipe à l'origine de la boîte à outils de reconnaissance vocale Vosk.",
+ "title": "Awesome Russian Speech : ressources sur les technologies de la parole russe",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

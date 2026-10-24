@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 Microsoft의 자체 개발 파운데이션 모델 스택의 일부로 출시되었으며, 현재 Microsoft Foundry와 Azure AI Foundry를 통해 Public Preview 상태입니다. Microsoft Teams와 Copilot의 Voice 모드에도 통합되고 있습니다.",
+ "id": "n-2eb209422c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "속도와 정확도 모두에서 OpenAI의 Whisper Large v3와 Google의 Gemini 1.5 Flash를 능가하며, 오디오 1시간당 $0.36로 경쟁력 있는 가격이 책정되었습니다.",
+ "source_sha256": "3a76f60f985b9c21da6aa729613b4e8e54b6d58c0c96b8ebe1ef0a6517f3b324",
+ "summary": "MAI-Transcribe-1은 Microsoft AI가 개발한 독점(proprietary) 자동 음성 인식(ASR) 모델로, 고정밀 배치 전사와 실시간 전사를 목표로 설계되었습니다. FLEURS 벤치마크에서 3.88% Word Error Rate(WER)를 기록해 세계 최고 수준을 달성했으며, 소음이 있는 환경에 최적화되어 있습니다.",
+ "title": "Microsoft의 음성 인식 모델 MAI-Transcribe-1",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

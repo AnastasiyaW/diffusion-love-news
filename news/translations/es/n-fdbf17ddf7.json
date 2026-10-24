@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras su publicación inicial, el código oficial y los pesos se publicaron en el repositorio de machine learning de Apple a principios de 2026. Desde entonces se ha adoptado como módulo de renderizado de alta resolución plug-and-play para backbones generalizables como NoPoSplat y DepthSplat.",
+ "id": "n-fdbf17ddf7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Una colaboración entre The University of Hong Kong y Apple; cabe destacar que es el primer método que logra Gaussian Splatting feed-forward en 4K nativo.",
+ "source_sha256": "0d1a2fcc293f1f76329a682e0e70fd7c96e0471f580a158be87ecf322a4b273f",
+ "summary": "Un marco de reconstrucción 3D que utiliza primitivas gaussianas compactas con texturas para desacoplar la complejidad geométrica de la resolución de renderizado. Permite la síntesis feed-forward de alta fidelidad en 4K sin necesidad de optimización por escena.",
+ "title": "LGTM: Less Gaussians, Texture More para la reconstrucción 3D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

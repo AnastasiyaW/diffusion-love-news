@@ -1,0 +1,10 @@
+{
+ "id": "n-aefede82fd",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "aa51edc01a460520f4dc8af1206ff363d02bdf0efd61be2faa5f9d5d8fbc5fb1",
+ "summary": "El 2026-08-03, un mensaje en el hilo de sana enlazaba la página del proyecto Sol-Attn y la rama `sol-engine` de NVlabs/Sana. En conjunto, esas referencias señalan un paso de desarrollo documentado públicamente para el proyecto Sol-Attn que debería revisarse para su inclusión en su historial. Las evidencias disponibles no permiten establecer si la fecha correspondió a un anuncio, una publicación o una actualización de código.",
+ "title": "Página del proyecto Sol-Attn y rama de implementación referenciadas",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

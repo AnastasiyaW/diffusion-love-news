@@ -1,0 +1,10 @@
+{
+ "id": "n-27ad5cb7b0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3c355901691f74eeb773dbe1518f6f10f1848ca353f3e1e10c3a3868a75c0433",
+ "summary": "Am 24.03.2026 hat die Entwicklungslinie Covo-Audio einen Verweis auf die Hugging-Face-Ressource tencent/Covo-Audio-Chat erfasst. Der datierte Verweis belegt eine zugehörige öffentliche Ressource, nicht jedoch deren Funktionsumfang, Version, Veröffentlichungsstatus oder Änderungsdetails. Dieser Verlaufseintrag hält daher lediglich die Zuordnung der Ressource fest.",
+ "title": "Covo-Audio-Chat auf Hugging Face erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

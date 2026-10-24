@@ -1,0 +1,10 @@
+{
+ "id": "n-c8fa19868e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "23ae54e1200b60a6cdc6001e7f824ad729d35d23c2c60e353c28b0174ba686ff",
+ "summary": "2026-03-25, 이 개발 흐름에서 Hugging Face의 hf-mount GitHub 저장소 링크가 기록되었다. 날짜가 적힌 링크만으로는 해당 프로젝트가 그 날짜에 공개적으로 언급되었다는 사실만 확인할 수 있으며, 릴리스, 기능, 사용에 관한 주장은 뒷받침되지 않는다.",
+ "title": "Hugging Face의 hf-mount 저장소가 공개적으로 언급됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

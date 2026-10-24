@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le framework TVP a été brièvement publié au début de 2026, avant que le dépôt officiel et l'article ne soient retirés pour un affinement supplémentaire. Sa technologie centrale a ensuite été intégrée aux modèles fondationnels DeepSeek-V4, où elle alimente actuellement des fonctionnalités de raisonnement spatial de haute précision.",
+ "id": "n-2244c25f96",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduit Compressed Sparse Attention (CSA) pour atteindre un taux de compression visuelle de 7056x, réduisant l'empreinte du cache KV visuel à environ 90 tokens par image.",
+ "source_sha256": "1528f2bcf3989a45dbe844dee16ab90fb9548fd65a9eac8252a890f132256438",
+ "summary": "Un cadre vision-langage qui intercale des coordonnées spatiales et des boîtes englobantes sous forme de tokens discrets au sein du raisonnement en chaîne de pensée (Chain-of-Thought) d'un modèle. Il comble le « Reference Gap » des modèles multimodaux, permettant un ancrage spatial précis et un raisonnement de longue haleine pour des tâches visuelles complexes.",
+ "title": "DeepSeek TVP : Thinking with Visual Primitives",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

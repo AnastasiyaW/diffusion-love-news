@@ -1,0 +1,10 @@
+{
+ "id": "n-63fc70b541",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b49815145e60cd50f91909145aa78748e54cd79f1267bc6fb096354d8db6bcf3",
+ "summary": "Am 13.03.2026 wurden Links verzeichnet, die mit SynthID-Bypass in Verbindung stehen, darunter das öffentliche Repository und ein versioniertes JSON-Workflow-Artefakt mit dem Namen SynthID-Bypass-v2.0.json. Dasselbe datierte Linkset enthielt außerdem eine Hugging-Face-Referenz. Dies dokumentiert einen konkreten Verweis auf ein Projektartefakt, belegt jedoch keine Release-Notes, Fähigkeiten, Urheberschaft oder Verifikationsstatus.",
+ "title": "Workflow-Artefakt SynthID-Bypass v2.0 wurde verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

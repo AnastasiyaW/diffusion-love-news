@@ -1,0 +1,10 @@
+{
+ "id": "n-6e1bdb74a2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e70836e0437736e5f254640ce1ce1cf2e6edf8038364638173ae28cd858ec93f",
+ "summary": "2026-03-20에 날짜가 명시된 SAMA 메시지가 프로젝트의 공개 웹사이트, 소스 저장소, 그리고 SAMA-14B의 Hugging Face 페이지를 연결했습니다. 이 링크들은 해당 날짜에 세 가지 공개 리소스가 SAMA와 연관되어 있었음을 확인해 줄 뿐, 모델이나 프로젝트에 관한 그 밖의 주장을 입증하지는 않습니다.",
+ "title": "SAMA의 공개 프로젝트, 소스 코드, 모델 리소스가 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

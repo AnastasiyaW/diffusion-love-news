@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Als CVPR 2026 Highlight Paper ausgezeichnet; vorgestellt wurde der Persona-MME-Benchmark mit 14 spezialisierten Aufgaben, und in Szenarien mit langfristigem Gedächtnis zeigte das System eine überlegene Leistung gegenüber GPT-4o.",
+ "id": "n-78a59b56b6",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gemeinschaftsprojekt der Nanjing University (MiG-NJU) und ByteDance; nutzt eine mehrstufige Speicherarchitektur, die episodisches und prozedurales Gedächtnis umfasst.",
+ "source_sha256": "342cd6ecd703b017b8231fc341c22e1566b134402d97dd1c0331e8f55f327851",
+ "summary": "Ein Framework für die langfristige Personalisierung multimodaler großer Sprachmodelle, das einen momentumbasierten Personality-Evolving-Mechanismus nutzt. Es ermöglicht KI-Assistenten, Nutzereigenschaften proaktiv zu erlernen und über mehrstufige Interaktionen hinweg konsistent zu bleiben.",
+ "title": "PersonaVLM: Personalisierte multimodale große Sprachmodelle",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

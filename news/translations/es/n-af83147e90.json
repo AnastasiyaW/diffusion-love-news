@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras su lanzamiento en abril de 2026 como modelo base preentrenado sin ajustar, el proyecto se centra en optimizaciones de post-entrenamiento, como DPO/RLHF, y en esfuerzos de cuantización impulsados por la comunidad para manejar la huella de 17B parámetros en GPUs de consumo.",
+ "id": "n-af83147e90",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Publicado como código abierto bajo la licencia Apache-2.0; incorpora innovaciones técnicas como Text KV Caching y Decoupled Routing para estabilizar el entrenamiento de MoE.",
+ "source_sha256": "dbad89205aa82027e7cff5a039b34176af557dae4d81314acd03f1b3ca2e2a85",
+ "summary": "El primer transformer de difusión con Mixture-of-Experts (MoE) disperso de alta calidad para generación de imágenes, que utiliza 17B de parámetros totales con solo ~2B activos por pasada hacia adelante. Logra una alta eficiencia y iguala o supera a modelos densos como FLUX.1 y SD3.5 en disposición espacial y adherencia al prompt.",
+ "title": "Nucleus-Image: Transformer de difusión con MoE disperso",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

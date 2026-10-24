@@ -1,0 +1,10 @@
+{
+ "id": "n-0cf91afec3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7f1422e58d72d8b6d68653d875ad6411c39b7907aef1841488ea3b87967639e7",
+ "summary": "2026-07-21, 날짜가 표기된 한 메시지가 Qwen-Image 3.0을 qwen-image-3.0이라는 Qwen 호스팅 블로그 URL 및 Qwen Chat 사이트와 연관지었다. 이는 프로젝트 라인에 대한 공개적 참조 지점을 기록하는 것으로, 제공된 링크만으로는 입증되지 않는 기능, 제공 여부 또는 출시 조건에 대해서는 주장하지 않는다.",
+ "title": "Qwen-Image 3.0 공개 Qwen 링크 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

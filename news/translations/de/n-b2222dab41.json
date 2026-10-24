@@ -1,0 +1,10 @@
+{
+ "id": "n-b2222dab41",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e2cec07812ade1a3f7ba6c49993ce5259b6e22706d1a05e143a316e160dd9413",
+ "summary": "Am 12.06.2026 verzeichnete ein datierter Eintrag das Hugging-Face-Repository DiffusionGemma-26B-A4B-it-NVFP4 von NVIDIA zusammen mit dem Repository DiffusionGemma-26B-A4B-it von Google. Das ist ein wichtiger Verbreitungspunkt in der Entwicklungslinie des Projekts, weil er eine eigenständige, von NVIDIA gehostete NVFP4-Variante im Bezug zum Upstream-Modell ausweist.",
+ "title": "NVIDIA-DiffusionGemma-NVFP4-Repository neben Googles Upstream-Modell verzeichnet",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

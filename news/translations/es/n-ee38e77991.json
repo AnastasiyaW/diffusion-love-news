@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aceptado en ICML 2026. El proyecto está actualmente en transición hacia el código abierto con la publicación del conjunto de datos PhysDB, que contiene 150.000 activos con anotaciones físicas.",
+ "id": "n-ee38e77991",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Colaboración entre HKU y Tencent Hunyuan; diseñado específicamente para la manipulación robótica y los simuladores de IA encarnada (embodied AI).",
+ "source_sha256": "1e27c052f07beda0c36af26c45930e5a818faafd31b0955408ad7846ffb374bf",
+ "summary": "PhysForge es un marco de investigación para generar activos 3D listos para simulación, con partes funcionales y restricciones cinemáticas. Utiliza modelos de visión y lenguaje para el diseño previo (blueprinting) y un mecanismo especializado de difusión para sintetizar geometría físicamente consistente y lógica interactiva.",
+ "title": "PhysForge: generación interactiva de activos 3D con fundamento físico",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-2facb069d0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7106aa3eb6be4ce85f96a96f0be6be3dd08f165729fe44b7f32cd4b92626318e",
+ "summary": "2026年8月6日，带日期的开发动态条目将 MiniMax-H3 Turbo LoRA 模型资源与一个演示 Space、一个 ComfyUI 集成代码仓库，以及一个面向 ComfyUI 的模型资源关联起来。这一步意义重大，因为它构建了一条可用的工作流，涵盖模型分发、功能演示和 ComfyUI 使用。仅凭这些关联资源，无法确定各自的发布日期、版本、作者归属或性能声明。",
+ "title": "MiniMax-H3 Turbo LoRA 资源包已完成记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

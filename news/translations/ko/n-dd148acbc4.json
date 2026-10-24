@@ -1,0 +1,10 @@
+{
+ "id": "n-dd148acbc4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9c052e2e15feb20ae8a4612bc6c0324ba6124d789cd1571e84a3b32900ed5d3e",
+ "summary": "2026-08-07, Sand AI는 블로그 페이지, 소스 저장소, 모델 페이지, API 문서 링크를 통해 MAGI-2 프리뷰 자료를 공개했다. 구현, 모델 배포, 통합 채널 전반에 걸쳐 날짜가 명시된 프리뷰 공개 지점을 확보했다는 점에서 의미 있는 공개 개발 단계다. 다만 공개된 링크만으로는 프리뷰의 세부 기능, 제공 여부, 이용 조건을 확인할 수 없다.",
+ "title": "Sand AI, MAGI-2 프리뷰 자료 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

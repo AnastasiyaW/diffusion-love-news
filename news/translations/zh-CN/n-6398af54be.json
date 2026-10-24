@@ -1,0 +1,11 @@
+{
+ "id": "n-6398af54be",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "推理代码以及需要授权的 FP8/NF4 权重已公开，并支持通过结构化 JSON 控制文本、调色板和边界框布局；ComfyUI 宣布了首日（day-zero）支持。",
+ "source_sha256": "012cfceaf4d2265756ce07cb4721efee917aa55566b6098048e670c8d5e55983",
+ "summary": "2026年6月4日，带日期的链接集合将 Ideogram 4 与一个源代码仓库、多个模型分发版本以及一则 ComfyUI 集成公告关联起来。这是一个实质性的进展，因为它同时记录了模型分发和一条集成途径。这些链接还标明了低精度变体和带有转换标签的变体，但并未确定它们的确切状态或行为。",
+ "title": "Ideogram 4 源代码、模型变体与 ComfyUI 集成已被记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

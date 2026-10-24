@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "UniGeo aborda la 'deformación' estructural habitual en los modelos de difusión de imágenes tradicionales mediante el uso de priors de vídeo y la inyección de nubes de puntos 3D. Actualmente representa un enfoque del estado del arte, superando a benchmarks como ViewCrafter y CAT3D.",
+ "id": "n-7c1f689c14",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El proyecto incluye un mecanismo especializado de 'Geometric Anchor Attention' y una supervisión en el punto final de la trayectoria para evitar la deriva geométrica durante movimientos de cámara complejos.",
+ "source_sha256": "3c0375578bc89db608aab08b59a28311872e63bf718fdbaa3387ecbc82cf9bc7",
+ "summary": "UniGeo es un marco de trabajo para la edición de imágenes controlable por cámara con alta fidelidad, que utiliza modelos de difusión de vídeo como priors. Introduce una guía geométrica unificada a nivel de representación, arquitectura y función de pérdida para mantener una consistencia estructural estricta durante los cambios de punto de vista.",
+ "title": "UniGeo: edición de imágenes controlable por cámara mediante modelos de vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

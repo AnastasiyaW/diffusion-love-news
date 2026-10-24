@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "프로젝트는 처음에 Direct3D-S2 백본으로 공개되었으나, 2026년 5월에 더 우수한 형상 및 텍스처 품질을 위해 TRELLIS.2 백본을 도입하도록 업그레이드되었습니다. 이 연구는 SIGGRAPH 2026에 공식 채택되었으며, 현재는 다중 뷰 생성과 모듈형 장면 수준 합성 지원을 포함합니다.",
+ "id": "n-9e0a0fba7f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "SIGGRAPH 2026 채택 논문이며, 최신 추론 모델을 사용하려면 TRELLIS.2 환경이 필요합니다.",
+ "source_sha256": "3365975205ad08d6256fb1c75c167bf15f208a043a1f2c80a8b9d65bce82d86e",
+ "summary": "Tencent ARC Lab이 개발한 최첨단 프레임워크로, 픽셀 정렬 역투영(back-projection) 방식을 사용해 단일 이미지로부터 PBR 텍스처가 입혀진 고충실도 3D 모델을 생성합니다. 2D 특징을 3D 공간으로 직접 끌어올림으로써 재구성에 근접한 충실도를 달성합니다.",
+ "title": "Pixal3D: Tencent의 픽셀 정렬 3D 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

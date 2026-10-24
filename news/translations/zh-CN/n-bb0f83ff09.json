@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "自 2026 年 4 月发布以来，该项目已在 Hugging Face 上公开了官方权重和交互式 Gradio 演示。它在动漫和游戏等高难度领域的视频分割任务上确立了新的最先进基准（state-of-the-art benchmark）。",
+ "id": "n-bb0f83ff09",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 UVA Computer Vision Lab 开发；采用一种新颖的关系式方法，而非传统的逐帧分类。",
+ "source_sha256": "cbc998eeca454fc89e8c30d09e0cc528886ead2204a1aca726b5c0025c1c47c1",
+ "summary": "OmniShotCut 是一个基于 Transformer 的框架，专为在多种视频类型上实现高精度镜头边界检测（Shot Boundary Detection）而设计。它采用 Shot-Query 架构，整体性地识别溶解（dissolve）、淡入淡出（fade）和突变跳切（sudden jump）等复杂转场。",
+ "title": "OmniShotCut：整体关系式镜头边界检测",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

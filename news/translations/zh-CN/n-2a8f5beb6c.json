@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Codex 于 2023 年被弃用后，于 2025 年 4 月以以 CLI 为中心的平台形式重新推出。它转向基于 Rust 的架构，并支持 Model Context Protocol（MCP），目前由 GPT-5 模型系列驱动，具备原生的计算机使用能力。",
+ "id": "n-2a8f5beb6c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该生态目前包括用于自动化漏洞修复的 'Codex Security'，并集成支持 VS Code、Cursor 和 Xcode。",
+ "source_sha256": "0588ea38f14c24511eeea4dc7bfb9f98b1ca608cf187af10bbb920c5081b4ac1",
+ "summary": "一款终端原生的智能体编程系统，通过本地代码仓库访问、多模态输入和多智能体编排，实现自主软件工程。它代表了原始 Codex 模型在 2025 年的演进，从简单的代码补全转向主动的、由工具支持的任务执行。",
+ "title": "OpenAI Codex CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}
