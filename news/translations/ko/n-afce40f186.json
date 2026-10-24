@@ -1,0 +1,10 @@
+{
+ "id": "n-afce40f186",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "51ef0e3a1010d98be8dd817898a5867f93b187eb81f09de5f8599a4e29221c34",
+ "summary": "2026-07-15, SuperSplat 개발 라인은 스플랫 애플리케이션 구축에 관한 PlayCanvas 공지를 예제 장면, 데모, 영상, 그리고 Splat Transform v3.0.0 릴리스와 함께 연결했다. 이 날짜가 기록된 링크들을 종합하면, 인터랙티브 Gaussian 스플랫 경험을 만들고 변환하는 데 있어 의미 있는 진전을 보여준다. 다만 정확한 기능 범위와 연결된 자료들 간의 관계는 기록만으로는 확인할 수 없다.",
+ "title": "SuperSplat, 인터랙티브 스플랫 애플리케이션을 위한 워크플로 확장",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

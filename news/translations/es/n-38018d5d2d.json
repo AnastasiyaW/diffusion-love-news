@@ -1,0 +1,10 @@
+{
+ "id": "n-38018d5d2d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "52d434e74cd9a5d7830e02f5013d732231f4763fa9f45b842e8774245bf73c9c",
+ "summary": "El 17 de junio de 2026, este miembro de la línea de desarrollo vinculó SIQ-1-35B con una página pública de modelo en Hugging Face y con un Space de ZeroGPU que ejecuta Hermes-agent. También enlazó repositorios relacionados de autoresearch, parameter-golf y benchmarks, situando el proyecto en un contexto de experimentación y evaluación. Los enlaces fechados establecen los artefactos públicos y las referencias, pero no las afirmaciones precisas de la publicación original sobre ellos.",
+ "title": "Se vincularon el modelo público SIQ-1-35B y la demo del agente",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

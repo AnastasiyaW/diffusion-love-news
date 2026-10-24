@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型由开源的 Wan2.1 系列（2025 年）演进而来，新增原生 1080p 支持、基于指令的编辑功能，以及用于减少幻觉的规划层。它的能力已从单纯的视频生成扩展到完整的叙事控制。",
+ "id": "n-d745776a36",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型以 Apache 2.0 协议开源权重。主要创新包括：通过多参考图输入实现角色一致性，以及用于精确运动过渡的「首尾帧」模式。",
+ "source_sha256": "fc949f5835ffe41d253bdd21e82ac2e9e2cb8a5c05ac919828a212f3d9fa4eff",
+ "summary": "这是阿里云推出的一套综合性视频生成框架，支持 1080p 文生视频、带转场控制的图生视频，以及自然语言指令编辑。它采用「思考模式」（Thinking Mode）来增强逻辑连贯性和物理准确性。",
+ "title": "Wan2.7-Video——导演级视频生成与编辑套件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

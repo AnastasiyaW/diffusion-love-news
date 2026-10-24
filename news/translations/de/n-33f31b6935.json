@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der ersten Veröffentlichung von MOSS-Audio im April 2026 erweiterte das Team die Modellfamilie im Mai 2026 um MOSS-Music-8B für spezialisierte Musik-QA. Inzwischen wurde das Projekt um vollständige Unterstützung für SGLang-Serving und umfassende LoRA-Fine-Tuning-Workflows erweitert.",
+ "id": "n-33f31b6935",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erreicht State-of-the-art-Ergebnisse in Benchmarks zur Audio-Schlussfolgerung und übertrifft dabei deutlich größere Modelle wie Step-Audio-R1 33B.",
+ "source_sha256": "99db82653c8b52ddbf95e2d7f8f5cd3598e58a3d431bfb8a294d427f4f8ed0ac",
+ "summary": "Ein quelloffenes Audio-Foundation-Modell für komplexe Audio-Schlussfolgerungen und zeitgestempelte Transkription, das Chain-of-Thought-Fähigkeiten nutzt. Es basiert auf einem Qwen3-8B-Backbone und setzt Cross-Layer-Feature-Injection ein, um hochpräzise akustische Details zu erhalten.",
+ "title": "MOSS-Audio-8B-Thinking",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

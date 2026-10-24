@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde Seed3D 1.0 al pasar a un pipeline DiT de dos etapas y a un motor de materiales basado en MoE. Añadió soporte para exportación a URDF para simulación en robótica, descomposición de partes funcionales y capacidades de generación a nivel de escena.",
+ "id": "n-ea73b925dc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Logró ventajas de rendimiento significativas frente a Hunyuan3D y Tripo en precisión geométrica; disponible a través de la API de Volcano Engine de ByteDance.",
+ "source_sha256": "b12a1aa845690fafc7e06156471f3de37c68dcf9f54ddab29ae06095bdcae2af",
+ "summary": "Seed3D 2.0 es un modelo generativo de última generación para crear activos 3D de alta fidelidad con texturas de renderizado basado en física (PBR). Utiliza una arquitectura DiT de grueso a fino y un escalado mediante Mixture-of-Experts (MoE) para producir modelos listos para simulación, adecuados para flujos de trabajo de robótica e industriales.",
+ "title": "Seed3D 2.0: el modelo fundacional 3D de ByteDance listo para producción",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

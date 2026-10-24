@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Vercel 내부 도구에서 공개 오픈소스 프로젝트로 전환되었으며, 현재는 Claude 3.5 Sonnet과 Vercel Sandbox를 활용해 정밀한 코드 분석과 PR 직접 수정을 수행합니다.",
+ "id": "n-efaa00d50b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Next.js와 같은 특정 프레임워크에 관련된 전문 지침을 해당 상황일 때만 불러오는 점진적 스킬 시스템을 採用하고 있습니다.",
+ "source_sha256": "15f56f17ce6a52d927daa75978a1156369b77155d76454def24d7d237bcf98c2",
+ "summary": "온디맨드 풀 리퀘스트 분석과 자동 수정을 제공하는 오픈소스 자체 호스팅 AI 코드 리뷰 어시스턴트입니다. Claude 3.5 Sonnet과 Vercel Workflow를 사용해 샌드박스 환경에서 리뷰를 실행하며, 이를 통해 린터와 테스트를 구동할 수 있습니다.",
+ "title": "OpenReview: Vercel Labs의 AI 기반 코드 리뷰 봇",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

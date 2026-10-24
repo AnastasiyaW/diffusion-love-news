@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé comme plateforme de calibration en direct, dotée d'un éditeur de titres itératif et d'un registre en temps réel qui suit la précision par rapport au Top 30 de Hacker News.",
+ "id": "n-541dc74a2e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entraîné sur 148 421 récits ; l'inférence s'exécute en moins d'une milliseconde grâce à des modèles LightGBM compilés en JavaScript.",
+ "source_sha256": "c8f51900e1b7a7db17ae053d1e0562608445e0c923b98108cccff3996ed80783",
+ "summary": "Un outil fondé sur l'IA qui prévoit la viralité et l'engagement des soumissions à Hacker News à l'aide d'un modèle LightGBM. Il fournit des prédictions de score, des intervalles de confiance et un simulateur de commentaires original pour anticiper les réactions de la communauté.",
+ "title": "Prédicteur de viralité Foresyn pour HackerNews",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

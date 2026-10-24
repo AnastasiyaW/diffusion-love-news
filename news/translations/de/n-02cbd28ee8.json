@@ -1,0 +1,10 @@
+{
+ "id": "n-02cbd28ee8",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1cc22d223c9f63c21fa52d958929a7984cebd1468d02202a764d8a39d0d47407",
+ "summary": "Am 28.06.2026 verwies der erfasste Link auf das GitHub-Repository von OpenMontage. Die gesicherten Belege enthalten weder Quelltext, Snapshot des Repositorys, Release-Eintrag noch eine Beschreibung einer Codeänderung. Daher dokumentiert dieser Eintrag lediglich den öffentlichen Verweis auf das Repository und keinen konkreten Meilenstein der Implementierung.",
+ "title": "Auf das OpenMontage-GitHub-Repository wurde verwiesen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

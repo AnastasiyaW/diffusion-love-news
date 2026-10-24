@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aus einem manuellen ComfyUI-Workflow entwickelt zu einem einheitlichen Standalone-Tool mit GUI und CLI, um Flackern und Farbraumprobleme in professionellen VFX-Pipelines zu lösen. Neuere Updates integrierten SAM 3 für hochpräzise Alpha-Verfeinerung und semantisches Masking.",
+ "id": "n-23270485c3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Speziell für Nuke-Compositing entwickelt, um zuverlässige, mehrkanalige KI-Passes bereitzustellen, ohne die Komplexität node-basierter KI-Graphen.",
+ "source_sha256": "4a7d3b4250755fe03f4e9be839a8c4eb174042ebb6e51743148ad8f5a9902ffc",
+ "summary": "Eine Open-Source-Standalone-Anwendung, die hochwertige VFX-Passes wie Tiefe, Normalen und Segmentierungsmasken aus Live-Action-Material erzeugt. Sie automatisiert die Erstellung von Nuke-kompatiblen Sidecar-EXR-Dateien und übernimmt dabei die Konvertierung in den Scene-Linear-Farbraum sowie die Stapelverarbeitung.",
+ "title": "LiveActionAOV Standalone-Tool für die Batch-Generierung von VFX-Passes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

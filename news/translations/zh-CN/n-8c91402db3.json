@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从基础的安全脚本演进为一个健壮的形式化方法与进攻性安全框架。主要新增内容包括基于 Kani 的 Rust 验证、用于 Lean 4 证明修复的 Axiom，以及隔离式渗透测试环境 'Kage'。",
+ "id": "n-8c91402db3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 workers.io 开发；可通过 'npx skills add workersio/spec' 直接安装，并包含 /fuzzer 和 /solana-audit 等专用命令。",
+ "source_sha256": "99d8c87cb47ab55ca544c213f1afc848d78f1b07137c5a4fd78bdc3605e366c7",
+ "summary": "一套高性能的安全与形式化验证插件套件，旨在通过智能体工作流扩展 Claude Code CLI。它可自动完成复杂任务，包括覆盖率引导的模糊测试（coverage-guided fuzzing）、在 Kali Linux 中进行的沙箱渗透测试，以及针对 Solana 的智能合约审计。",
+ "title": "为 Claude Code 提供的安全规约插件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

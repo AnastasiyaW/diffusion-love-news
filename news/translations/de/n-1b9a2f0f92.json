@@ -1,0 +1,11 @@
+{
+ "id": "n-1b9a2f0f92",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Open-Weight-Modell-Checkpoints und Community-Quantisierungs-Shards, die unter der MIT-Lizenz verteilt werden, beziehen.\n\nDas Modell auf MoE-kompatiblen Inferenz-Engines bereitstellen, die für spärliche Aktivierung und komprimierten Key-Value-Cache über Kontextfenster mit einer Million Token konfiguriert sind.\n\nEntwickler-Harnesses an den Modell-Endpunkt anbinden und die eigenen Such- und Fetch-APIs für die Webanbindung integrieren.\n\nMit Serving-Harnesses bereitstellen, die die Verwaltung des komprimierten KV-Caches unterstützen, um über lange Kontextsitzungen hinweg praktikable Speicherbedarfe zu halten.\n\nDen Checkpoint mit spezialisierten Entwickler-Harnesses wie DeepSeek Harness kombinieren, um von der kürzeren Ausgabeausführlichkeit und der schnelleren Terminal-Ausführung zu profitieren.",
+ "source_sha256": "e5c179ab62faf138134aa40424dbbcbda7406b7282a81cf662e6ad76eebc5562",
+ "summary": "DeepSeek hat den Open-Weight-Checkpoint V4.1-Flash-1017 unter einer MIT-Lizenz veröffentlicht. Das Modell optimiert das spärliche Routing von Mixture-of-Experts für Terminal-Aufgaben, Coding-Workflows und kürzere Ausgabelängen.",
+ "title": "DeepSeek veröffentlicht das Open-Weight-Modell V4.1-Flash-1017 mit Optimierungen für agentische Werkzeugnutzung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

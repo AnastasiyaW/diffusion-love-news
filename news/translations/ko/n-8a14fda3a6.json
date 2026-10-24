@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "리서치 수집 배치를 통해 공개 기사 21건이 추가되었습니다.",
+ "id": "n-8a14fda3a6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "배치 규모와 워크플로 레이블은 변경 불가능한 커밋 제목에서 그대로 가져왔으며, 비공개 프롬프트나 대화 기록은 공개되지 않습니다.",
+ "source_sha256": "a57ab157fdbd05ac92fb3f275de149ab58a218e0e0efbc0b51c08bbd55bcd56b",
+ "summary": "리서치 수집 배치로 21건의 기사가 공개 지식 베이스에 추가되었습니다.",
+ "title": "Gemini 3 Flash CLI를 활용한 배치 리서치 수집: 기사 21건",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

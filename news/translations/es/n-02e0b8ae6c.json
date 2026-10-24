@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La herramienta evolucionó desde un visor básico de metadatos PNG hasta incluir soporte para vídeos MP4, extracción de fotogramas mediante FFmpeg incluido y detección de workflows de múltiples pasadas para pipelines complejos como WAN e img2vid.",
+ "id": "n-02e0b8ae6c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye integración con el menú contextual del Explorador de Windows y permite exportar directamente los workflows JSON de ComfyUI.",
+ "source_sha256": "2c38a096de1b76278313b4ce3126b16630312cd8df167b54054e1b4761ee0415",
+ "summary": "Una utilidad portátil para Windows diseñada para extraer y visualizar metadatos de generación, incluidos los prompts y las seeds, de imágenes y vídeos generados por IA sin necesidad de abrir el software de generación.",
+ "title": "AI Metadata Inspector — Visor de metadatos para Windows",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

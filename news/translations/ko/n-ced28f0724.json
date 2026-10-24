@@ -1,0 +1,10 @@
+{
+ "id": "n-ced28f0724",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b98bf6d5e4a0a1df8dac00358f296754206c8f37f255b750de6e46c0ce609de6",
+ "summary": "2026-06-09자 게시물에서 Kimi Code CLI의 영문 문서와 GitHub 저장소가 링크되었다. 이로써 CLI의 문서와 소스에 대한 공개적인 참조 지점이 마련되었지만, 제공된 근거만으로는 버전, 릴리스 방식, 기능 범위를 확인할 수 없다.",
+ "title": "Kimi Code CLI 문서와 소스 저장소가 공개적으로 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

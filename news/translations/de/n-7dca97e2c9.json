@@ -1,0 +1,10 @@
+{
+ "id": "n-7dca97e2c9",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "225c81c4c5f2d32c4adf0d6441454767c1960e8504e42bdb15965b89ab6d401d",
+ "summary": "Am 2026-08-03 verlinkte ein datierter Eintrag die Modellseite von Qwythos-27B-v1 auf Hugging Face sowie eine Hugging-Face-Übersicht, die mit quantisierten Basismodellen in Verbindung steht. Dabei handelt es sich um einen wesentlichen öffentlichen Bezugspunkt in der dokumentierten Entwicklungsgeschichte des Projekts.",
+ "title": "Qwythos-27B-v1 auf Hugging Face verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

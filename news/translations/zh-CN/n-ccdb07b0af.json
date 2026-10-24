@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "LTX-2.3（22B）系列是该系列在转向 LTX-3 之前的开源巅峰版本。尽管 LTX-2.3 仍是本地 ComfyUI 工作流的标准选择，但生态系统已逐步转向 LTX-3，以用于专业级长视频生成。",
+ "id": "n-ccdb07b0af",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Oumoumad Mohamed 创建；是一套实用工具型 IC-LoRA 的组成部分，该套件还包括扩图（outpainting）和 HDR 转换。",
+ "source_sha256": "0ea89d88c04080377eae41c5453609b1bc4cf75b88582ed8e0df66c7220bf477",
+ "summary": "一款专为 LTX-2.3 视频基础模型设计的专用 In-Context LoRA，用于去除电影式调色与对比度。它通过处理输入视频来还原自然光照与中性色彩平衡，可作为“去调色”工具服务于后续制作流程。",
+ "title": "LTX-2.3-22b-IC-LoRA-Ungrade 中性色彩还原",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-69ec3b0aaa",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "af8b33c0cec1a1a4cb9c92b6575085798616868496a9b2666ef64292f09f4e82",
+ "summary": "Le 2026-03-13, la lignée de développement NVILA-HD-Video a été présentée à travers des liens vers son emplacement source VILA, un checkpoint de modèle hébergé par NVIDIA et des ressources AutoGaze associées. Ensemble, ces liens ont établi un point d'entrée public et concret permettant d'examiner l'implémentation et d'obtenir le modèle référencé.",
+ "title": "NVILA-HD-Video a été présenté avec ses ressources source, modèle et démo associées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

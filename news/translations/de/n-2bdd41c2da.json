@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aus dem Forschungspapier \"From Skills to Talent\" hervorgegangen, entwickelte sich das Projekt im Mai 2026 zu einem produktionsreifen \"Agent Operating System\". Es führte einen Talent Market für die modulare Bereitstellung von Agenten ein sowie eine automatisierte HR-Pipeline, die Agenten-Retrospektiven durchführt und leistungsbasierte Entlassungen (Offboarding) vornimmt.",
+ "id": "n-2bdd41c2da",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erzielt eine Erfolgsquote von 85 % im PRD-Bench-Benchmark und bietet eine markante Pixel-Art-\"Büro\"-Oberfläche zur Verwaltung.",
+ "source_sha256": "03db44d2521249daf7610c461dbb44fff7ca30bf21695d5a6c1a6dae966e8410",
+ "summary": "Ein Open-Source-Framework, das heterogene KI-Agenten zu einer hierarchischen Unternehmensstruktur zusammenführt. Es nutzt eine Talent-Container-Architektur, die kognitive Rollen von den Ausführungsumgebungen entkoppelt, und wird über eine webbasierte Pixel-Art-Oberfläche verwaltet.",
+ "title": "OneManCompany: Selbstorganisierendes KI-Agenten-Betriebssystem",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

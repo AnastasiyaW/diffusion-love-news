@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La herramienta ha evolucionado de un visor básico a un centro de control de gran alcance, con soporte para múltiples monitores mediante paneles desacoplables, desplazamiento por la línea de tiempo de secuencias y el Parameters Panel para manipular nodos directamente desde el visor.",
+ "id": "n-08fceb7eae",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El uso personal sigue siendo gratuito, mientras que el uso comercial requiere una licencia de bEpic GmbH; la herramienta es un estándar para el control de calidad profesional en ComfyUI.",
+ "source_sha256": "6e2f80cfb6677314416b35b87e4c32f60cc7b5fe6bff4f7856b58f6a57d83582",
+ "summary": "Una herramienta de inspección y comparación visual de alto rendimiento para ComfyUI, diseñada para flujos de trabajo de revisión profesionales al estilo VFX. Incluye ajuste de exposición en tiempo real, aislamiento de canales RGB y control avanzado de versiones mediante instantáneas.",
+ "title": "Suite de revisión bEpic Viewer Professional para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

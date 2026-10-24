@@ -1,0 +1,10 @@
+{
+ "id": "n-1027303bd3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "58b62911d37ad1ec919ec1aab9c39e96ea95fe3bd047fb0beb516fd1982518b2",
+ "summary": "2026-06-30, LiveEdit 개발 라인 항목에서 프로젝트 웹사이트, 소스 저장소, Hugging Face 페이지가 연결되었습니다. 이처럼 날짜가 기록된 링크들은 프로젝트에 대한 중요한 공개 참조 지점을 형성하지만, 특정 릴리스, 모델 버전 또는 기능 집합을 확정하지는 않습니다.",
+ "title": "LiveEdit 프로젝트 리소스가 공개적으로 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

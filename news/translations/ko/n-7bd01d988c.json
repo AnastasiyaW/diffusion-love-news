@@ -1,0 +1,10 @@
+{
+ "id": "n-7bd01d988c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d9caf02e48b7ba43b970585810e659361cbd9530a5c93942c1df655c645c9ed8",
+ "summary": "2026-08-04 기준 기록은 QuerySplat을 공개 프로젝트 웹사이트, GitHub 저장소, Hugging Face 페이지와 연결하였다. 이는 연계된 프로젝트 자원을 확립했다는 점에서 의미 있는 공개 개발 이정표이지만, 현재 확보된 근거만으로는 릴리스 버전, 기능, 결과에 관한 주장을 뒷받침하기 어렵다.",
+ "title": "2026-08-04에 QuerySplat이 프로젝트 사이트, GitHub 저장소, Hugging Face 페이지를 통해 연결되었다.",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

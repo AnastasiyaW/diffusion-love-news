@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目引入了 Model Context Protocol（MCP）集成、Docker 支持以及精简的 CLI 安装流程。近期更新侧重于复杂的情感建模，通过信任、好感和烦躁等专用计数器来实现。",
+ "id": "n-db7fee9bb2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持 MTProto 用户机器人（userbot）以及标准的 Telegram Bot API。",
+ "source_sha256": "b5f20b19fa4f78308bdde645ff9657e5f90db4296398530ce42e2b1b7c0df5c8",
+ "summary": "girl-agent 是一个开源框架，旨在在 Telegram 中模拟逼真的 AI 人格，具备接近人类的作息安排和不断演化的关系动态。它摒弃了标准 AI 助手的常见套路，转而支持自主的角色行为，包括睡眠模式和情绪心境状态。",
+ "title": "girl-agent：以人设为先的 Telegram AI 角色引擎",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

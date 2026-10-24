@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于2026年初由静态的扩散模型演进为完全自主的智能体系统。目前它具备经过优化的流程，能够自主识别提示词中的知识缺口，并在合成前通过网络搜索获取真实世界的视觉证据作为依据。",
+ "id": "n-c9e1e40a9c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了FactIP基准，用于评估多模态模型的事实保真度；该工作由腾讯混元与加州大学洛杉矶分校（UCLA）的研究人员合作开发。",
+ "source_sha256": "1d55b8f14757c2450b39192e04ca77d13baa46e4312f7578a53db0e2b155e89e",
+ "summary": "一个端到端的多模态智能体框架，通过实时网络检索解决图像生成中的“闭卷”问题。它采用“思考-检索-重述-生成”（Think-Research-Recaption-Generate）流程，使视觉合成基于真实的外部证据，从而显著减少对罕见概念或长尾概念的幻觉。",
+ "title": "Unify-Agent：开放书本的智能体图像合成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-2171fbda3c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Testez l'interaction avec le canevas et le regroupement de nœuds dans la démonstration web avant d'installer le logiciel de bureau.\n\nTéléchargez la version exécutable Windows empaquetée ou clonez le dépôt pour lancer le studio en local.\n\nConfigurez une clé d'API fal.ai personnelle dans les paramètres pour activer la génération neuronale d'images et de vidéos sur les nœuds du canevas.\n\nDisposez les images de référence, connectez les macro-nœuds et exécutez les générations directement sur le canevas infini.\n\nUtilisez les macro-nœuds pour regrouper l'aide à la rédaction de prompts et les transformations de références répétitives en blocs de flux de travail réutilisables.\n\nVérifiez la logique de connexion des nœuds dans la démo du navigateur avant de lancer des exécutions de génération facturées via fal.ai.\n\nSurveillez directement les limites d'utilisation de votre compte fal.ai et les soldes de jetons d'API lors de l'exécution de lots d'images et de vidéos en haute résolution.",
+ "source_sha256": "80fa67de9dee46f9305ea93badee03e600c532b3108d3627aca133a989b64482",
+ "summary": "CanAI est lancé en tant que studio local open source proposant un canevas infini pour les flux de travail image et vidéo, des macro-nœuds, une aide à la rédaction de prompts, une démo web et des binaires Windows nécessitant une clé fal.ai fournie par l'utilisateur.",
+ "title": "CanAI, un studio canvas local open source désormais disponible avec une intégration fal.ai",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

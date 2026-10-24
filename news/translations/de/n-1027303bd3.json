@@ -1,0 +1,10 @@
+{
+ "id": "n-1027303bd3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "58b62911d37ad1ec919ec1aab9c39e96ea95fe3bd047fb0beb516fd1982518b2",
+ "summary": "Am 30.06.2026 verlinkte ein Eintrag der LiveEdit-Entwicklungslinie die Projektwebsite, das Quellcode-Repository und die Hugging-Face-Seite. Diese datierten Links bilden einen wesentlichen öffentlichen Bezugspunkt für das Projekt, ohne jedoch eine bestimmte Veröffentlichung, Modellversion oder einen bestimmten Funktionsumfang festzulegen.",
+ "title": "LiveEdit-Projektressourcen wurden öffentlich verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

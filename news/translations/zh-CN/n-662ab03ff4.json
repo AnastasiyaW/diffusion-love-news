@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从一个简单的角色扮演实验演进为可用于生产环境的“目标到 DAG”编排框架。主要更新包括 MCP 集成、用于安全的上下文隔离,以及面向企业应用的严格 token 预算管理。",
+ "id": "n-662ab03ff4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "坚持“三个运行时依赖”原则,以实现极致的可移植性,并将自身定位为 LangGraph 的 TypeScript 原生、目标优先的替代方案。",
+ "source_sha256": "b48d907ba4a40c348018c771a99bae818eb2cdb1c3e5f35ef3029ee1b6c46362",
+ "summary": "一个面向目标驱动的 TypeScript 编排引擎,用于构建自主多智能体团队。它会动态地将高层目标分解为任务有向无环图(DAG),并通过并行化执行与结果综合来完成这些任务。",
+ "title": "Open Multi-Agent(OMA)框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

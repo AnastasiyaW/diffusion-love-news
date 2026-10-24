@@ -1,0 +1,10 @@
+{
+ "id": "n-d3641add96",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "875529f777cacaff2db6e780aaa7ada668dd23eb51a4590347ca2e8f6823b4e4",
+ "summary": "2026年6月8日，Higgs Audio v3 TTS 的公开资源陆续上线，相关链接覆盖 Boson AI 博客页面、Hugging Face 模型页面、演示空间、产品工作区和文档。同一批带日期的链接还包括一个独立的 ComfyUI 集成仓库，因此这被视为该项目一次具有实质意义的公开开发事件。",
+ "title": "Higgs Audio v3 TTS 公开资源已发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

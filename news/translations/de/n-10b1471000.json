@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Vorgestellt wurde das Projekt im April 2026 zusammen mit dem Paper arXiv:2604.06870. Veröffentlicht wurden Inference-Skripte, Modell-Checkpoints und eine Live-Demo auf Hugging Face. Seitdem wurde es in ComfyUI integriert und erhielt wichtige Updates zur Festlegung der Umgebung (Environment Pinning), um Farbverschiebungen zu beheben.",
+ "id": "n-10b1471000",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aufgebaut auf der Architektur von Qwen-Image-Edit-2511; zeichnet sich durch eine eigens entwickelte Boundary Consistency Loss aus, die für ein nahtloses Einblenden der verfeinerten Patches in das Originalbild sorgt.",
+ "source_sha256": "64b708af7f99e33a5df587dfeba2da437d9cfc0b18ec46df62981c3e1796d98a",
+ "summary": "Ein diffusionsbasiertes Framework für hochpräzises lokales Bildbearbeiten und Restaurieren. Es ist darauf spezialisiert, feine Details wie Text, Logos und komplexe Strukturen zu korrigieren, und sorgt dabei durch eine Fokussieren-und-Verfeinern-Strategie für eine einwandfreie Konsistenz des Hintergrunds.",
+ "title": "RefineAnything: Multimodale regionsspezifische Bildverfeinerung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

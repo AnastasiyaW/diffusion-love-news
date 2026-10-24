@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖报道了个性化、细节/提示词改进、注意力区域与参考 latent 控制，以及低显存模式。",
+ "id": "n-b65d8e8b42",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "08eafe2593a632baa5922f901118ad46ca4b08c92381c4601b73e8740665c49a",
+ "summary": "该新闻帖报道了个性化、细节/提示词改进、注意力区域与参考 latent 控制，以及低显存模式。",
+ "title": "Flux2Klein Enhancer 扩展其控制套件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

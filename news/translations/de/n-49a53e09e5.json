@@ -1,0 +1,10 @@
+{
+ "id": "n-49a53e09e5",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b0ddabe118bb65e9d5dc428768ceb72b3a3ff7b236e4c75b8dd9848561e6d4ee",
+ "summary": "Am 23.08.2026 enthielt diese Entwicklungslinie einen Link zum Hugging-Face-Repository von Qwen3.8-27B-Uncensored-MLX. Der datierte Link belegt einen öffentlichen Projektverweis, lässt aber weder Rückschlüsse auf den Inhalt des Repositories noch auf den Veröffentlichungsstatus oder konkrete Modelländerungen zu.",
+ "title": "Hugging-Face-Repository zu Qwen3.8-27B-Uncensored-MLX",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

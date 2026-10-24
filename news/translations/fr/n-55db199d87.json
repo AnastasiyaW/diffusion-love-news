@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet a été lancé en avril 2026 avec le jeu de données VisPrompt-5M et VP-Bench, un benchmark d'évaluation du suivi d'instructions visuelles. Il établit un paradigme centré sur la vision, « Image-In, Image-Out », qui supprime les branches architecturales distinctes propres à chaque tâche.",
+ "id": "n-55db199d87",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le cadre prend actuellement en charge une résolution de 256x256 et a été développé par des chercheurs de CSU, NUS, Microsoft et Tencent.",
+ "source_sha256": "265b71b017647f9264506cfe65dea62fb8254da3403e377c2af58d10d9b1a049",
+ "summary": "FlowInOne est un cadre qui unifie des tâches multimodales telles que la génération d'images et l'édition complexe au sein d'un flux visuel continu unique. Il s'appuie sur une architecture de Flow Matching qui traite le texte, les mises en page et les instructions comme des invites visuelles sous forme d'images.",
+ "title": "FlowInOne : génération et édition d'images multimodales centrées sur la vision, unifiées dans un même cadre",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

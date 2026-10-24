@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "단순한 Mac 받아쓰기 유틸리티에서 로컬 및 클라우드 LLM과 깊이 통합된 멀티플랫폼 에이전트 생태계로 발전했습니다. 작업별 형식 지정을 위한 'Modes'를 추가했고, 기업 사용을 위해 SOC 2/HIPAA 규정 준수를 갖추었습니다.",
+ "id": "n-08bc14aa3d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apple Silicon에서 오프라인 처리를 지원하며, GPT-5.5 및 Claude 4.7 같은 모델에 대해 BYOK(Bring Your Own Key) 방식을 지원합니다.",
+ "source_sha256": "b2549600b48d47afb3eba03f7e81c62fde2b73ea8706cf3df97755f99001f9ac",
+ "summary": "Whisper 모델을 사용해 여러 플랫폼에서 음성을 텍스트로 변환하는 오프라인 우선(offline-first) AI 전사 도구입니다. 로컬 또는 클라우드 LLM을 활용해 텍스트를 특정 형식으로 다듬는 맞춤형 모드와 에이전트형 워크플로를 제공합니다.",
+ "title": "Superwhisper: 데스크톱과 모바일을 위한 범용 AI 음성-텍스트 변환",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

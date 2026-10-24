@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "В проверенной ревизии обёртки описаны пути U1.5 preview/formal и GGUF, INT8, FP8 и BF16, а инструкции по старому LoRA на восемь шагов зачёркнуты.",
+ "id": "n-84255b9cc3",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fea5003884ead1e4a5306206154db7075ccb6d176ab2c63a09153178bcdbadef",
+ "summary": "В проверенной ревизии обёртки описаны пути U1.5 preview/formal и GGUF, INT8, FP8 и BF16, а инструкции по старому LoRA на восемь шагов зачёркнуты.",
+ "title": "Обёртка SenseNova U1 переходит на U1.5 и актуальные пути квантования",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

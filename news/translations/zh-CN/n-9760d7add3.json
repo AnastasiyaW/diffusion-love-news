@@ -1,0 +1,10 @@
+{
+ "id": "n-9760d7add3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "71ed3f1974a7a844a9f9f1aa1dea3b6f22d64e35f9c6544ca141529d995b45e1",
+ "summary": "2026年5月14日，一条 MemPrivacy 开发动态条目引用了该项目的 GitHub 仓库及其 Hugging Face 模型合集。所链接的公开页面提供源代码和模型合集，但现有证据并未确认任何具体的发布、版本、能力、基准测试或技术变更。",
+ "title": "MemPrivacy 源代码与模型合集已被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé en mai 2026, le projet passe de la simple analyse de vulnérabilités à la correction autonome grâce à son harnais agentique Codex Security. Il est actuellement en phase de déploiement contrôlé, avec des partenaires industriels clés comme Cloudflare et Cisco.",
+ "id": "n-e92b026fad",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "L'initiative repose sur un modèle d'accès à plusieurs niveaux pour gérer les risques à double usage, la variante « Cyber » étant réservée au red-teaming vérifié et à la rétro-ingénierie binaire avancée.",
+ "source_sha256": "ca6317a0f6a1ee0a3d4c1e9eab1dc26e56bd1c44276d0924a8d78edc0b19ac16",
+ "summary": "OpenAI Daybreak est une plateforme de cybersécurité spécialisée qui s'appuie sur des agents IA pour détecter et corriger de manière autonome les vulnérabilités logicielles. Elle fonctionne comme une surface de contrôle de sécurité gérée, construite sur un déploiement à plusieurs niveaux de l'architecture GPT-5.5.",
+ "title": "OpenAI Daybreak",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

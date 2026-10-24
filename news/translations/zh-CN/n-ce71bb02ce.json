@@ -1,0 +1,11 @@
+{
+ "id": "n-ce71bb02ce",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast 版支持文本/图像生成视频，Pro 版新增音频生成视频、Retake 和 Extend 功能；同时发布了 22B 的 dev 与 distilled 权重以及潜空间上采样器（latent upscalers）。",
+ "source_sha256": "f9cc3d7eeeccb580b6cdea5fb8101846aa3a2a451481db82743e55622f8240b0",
+ "summary": "2026年3月5日，Hugging Face 上的 LTX-2.3 模型文件与 ComfyUI 文生视频工作流模板被关联发布。这是一个重要的集成步骤，因为它将该模型系列与可复现的本地工作流路径连接起来，便于从业者使用。",
+ "title": "LTX-2.3 模型文件与 ComfyUI 文生视频工作流已关联发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Présenté à CVPR 2026, C-MET a introduit une capacité zero-shot pour des émotions étendues en s'appuyant sur des encodeurs audio auto-supervisés. Il constitue actuellement un module plug-and-play à l'état de l'art pour la synthèse de têtes parlantes émotionnelles.",
+ "id": "n-70f82f82ae",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par des chercheurs de l'UNIST et du KAIST ; utilise emotion2vec+ pour l'extraction de caractéristiques audio sémantiques de haute fidélité.",
+ "source_sha256": "899d771c9b52fa0f12a402b98bcdef84e84fe76893c4cb18630b087ff4747218",
+ "summary": "Un cadre modulaire pour l'édition fine des émotions dans les vidéos de visage parlant, par mise en correspondance des caractéristiques de la parole avec les expressions faciales. Il prend en charge des états émotionnels complexes, comme le sarcasme ou l'empathie, au-delà des catégories de base, et s'intègre aux générateurs existants fondés sur le démêlage (disentanglement).",
+ "title": "C-MET : transfert d'émotions inter-modal pour les vidéos de visage parlant",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

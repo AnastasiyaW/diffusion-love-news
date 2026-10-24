@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从简单的噪声添加工具演进为功能完善的 RAW/DNG 工作流引擎，包括真实的传感器噪声建模（Shot 噪声和 Read 噪声）以及专业相机元数据预设。",
+ "id": "n-df8413780a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含专门设计的工具，用于让 AI 生成的图像看起来像真实照片，从而绕过 AI 检测特征。",
+ "source_sha256": "64cf4e3eb354811927f7a7bab7effbd9266141313ab08fa92e92d51d770833c9",
+ "summary": "一套用于高级后期处理、RAW 图像处理和传感器噪声模拟的 ComfyUI 节点。它支持 DNG 输出以及特定相机的 EXIF 元数据集成，便于专业摄影工作流的实现。",
+ "title": "用于 RAW 工作流与照片级真实感的 ComfyUI-zveroboy-photo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

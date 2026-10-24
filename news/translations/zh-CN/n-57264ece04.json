@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "作为 LTX-2.3 更新的一部分发布,用于展示 IC-LoRA 在定向视频到视频编辑和对焦校正方面的能力。",
+ "id": "n-57264ece04",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "专门针对光学镜头模糊进行优化;不适用于运动模糊或高斯模糊的修复。",
+ "source_sha256": "1e5340e460f3b1052395e9bfdfa027fca040a85af193d6d07edbb8db30f957f4",
+ "summary": "这是一款面向 LTX-2.3 22B 模型的专用 In-Context LoRA,用于校正视频中的镜头模糊。它能够通过恢复清晰的光学细节,精确修复失焦素材。",
+ "title": "LTX-2.3 22B IC-LoRA ReFocus 视频修复工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

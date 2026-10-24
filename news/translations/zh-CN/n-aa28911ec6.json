@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Sapiens2 将 2024 年的原始项目扩展到 10 亿张训练图像和 50 亿参数。它在姿态与分割任务上性能显著提升，同时引入了点图（pointmap）和反照率（albedo）估计。",
+ "id": "n-aa28911ec6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型可追踪 308 个关键点，并以 Sapiens2 License 发布，权重已在 Hugging Face 上提供。",
+ "source_sha256": "a8f67d0fbec944da4fb15707439905db0052aba09b93c6a978f6156f012651b7",
+ "summary": "Sapiens2 是 Meta AI 推出的一套基础模型，专为从单张图像中进行精确的人体重建与分析而设计。它支持 2D 姿态估计、人体部位分割、表面法线以及最高 4K 分辨率的 3D 几何恢复。",
+ "title": "Sapiens2：Meta 面向以人为中心视觉的基础模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

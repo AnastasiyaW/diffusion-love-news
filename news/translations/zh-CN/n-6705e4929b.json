@@ -1,0 +1,10 @@
+{
+ "id": "n-6705e4929b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d4492dd03e558a9a7d12526a6ae400d1646bcded303915b3289caf39a4a783c8",
+ "summary": "2026-03-17，LuxTTS 开发线记录了其 GitHub 代码仓库、Hugging Face 模型页面、Hugging Face Space、Colab 笔记本和 Pinokio 页面的链接。这使项目的源代码、模型、演示、笔记本和安装参考资料得以汇总在一起，形成一份带日期的历史记录。",
+ "title": "LuxTTS 项目资源已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

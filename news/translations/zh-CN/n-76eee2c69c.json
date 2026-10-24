@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Echo-2 于 2026 年 4 月下旬发布，通过 Gaussian Splatting 引入了空间持久性和对象级编辑功能。它取代了早期原型，重点关注“基于物理”的几何结构，以消除导航过程中的漂移问题。",
+ "id": "n-76eee2c69c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型由总部位于慕尼黑的初创公司 SpAItial AI 开发；生成结果可导出为 .ply 点云或标准网格格式，用于 Unreal Engine 5 等游戏引擎。",
+ "source_sha256": "a082b7173bd43ab53fc748489fb6a44c372bd94157034091373eb170ddfe2bf9",
+ "summary": "Echo-2 是一种生成式世界模型，可将文本提示或单张图像转换为可导航、空间一致的 3D 环境。它利用 3D Gaussian Splatting 确保几何结构稳定，并可直接在网页浏览器中实现实时性能。",
+ "title": "Echo-2：SpAItial AI 的 3D 世界生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

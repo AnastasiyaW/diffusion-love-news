@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'une v1.0 centrée sur Minecraft à un simulateur de monde en temps réel en v3.0, avec l'introduction d'une mémoire à long horizon et d'une architecture MoE de 28B pour résoudre les problèmes de cohérence sur les séquences étendues.",
+ "id": "n-5f36799f6d",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Atteint le 720p à 40 FPS à l'aide d'un modèle de 5B paramètres ; intègre des Diffusion Transformers augmentés par une mémoire et prend en charge AMD ROCm via AITER CK.",
+ "source_sha256": "88efca9ce1525b2fbdf5b3bc4d1f3544dee9ae1b4a668072253902fbd339d511",
+ "summary": "Un modèle de monde interactif open source qui permet le streaming en temps réel et préserve la cohérence spatio-temporelle sur le long terme. Il fonctionne comme un simulateur de monde haute performance, générant des environnements en haute résolution à une cadence allant jusqu'à 40 FPS.",
+ "title": "Matrix-Game 3.0 : le modèle de monde interactif de Skywork AI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

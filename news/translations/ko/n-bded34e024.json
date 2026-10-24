@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 초기 릴리스에서 시작해, APEX(Adaptive Precision for EXpert Models) 양자화를 적용한 '안정성 우선' 버전으로 발전했습니다. 현재도 엔지니어링 참고용으로 유지되고 있으나, 개발자는 이후 프로덕션 수준의 성능을 위해 Qwopus-3.5 시리즈로 초점을 옮긴 상태입니다.",
+ "id": "n-bded34e024",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "총 26B 파라미터 중 4B가 활성화되는 혼합 전문가(MoE) 아키텍처(A4B)를 갖추고 있습니다. 256K 토큰 컨텍스트 윈도우를 지원하며, 특정 프롬프트 토큰으로 활성화되는 네이티브 'Thinking Mode'를 포함합니다.",
+ "source_sha256": "3c7255d5650aa9fbb334a2f11e8f2b81942cfa0929f081b3193f4c36c11a8a08",
+ "summary": "Gemma 4 26B를 기반으로 한 명령어 튜닝(instruction-tuned) 혼합 전문가(Mixture-of-Experts) 모델로, 안정성과 대화의 자연스러움을 개선하도록 다듬어졌습니다. 공격적인 증류(distillation) 대신 보수적인 파인튜닝을 택해 기본 모델의 추론 능력을 보존하면서 어조와 구조적 명확성을 높였습니다.",
+ "title": "Gemopus-4-26B 대규모 언어 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

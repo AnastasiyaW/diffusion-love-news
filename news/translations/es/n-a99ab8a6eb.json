@@ -1,0 +1,10 @@
+{
+ "id": "n-a99ab8a6eb",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f55dc22ffdef287662296158ef1ee6c5540cb519e5d3443bd9d460ec01519fdd",
+ "summary": "El 26/08/2026 se registró Qwen3.8-Flash-Next junto con enlaces a un repositorio del proyecto, recursos de Hugging Face, una demo pública y Qwen Cloud. El conjunto de enlaces fechado incluía también una búsqueda en Hugging Face de modelos cuantizados basados en este tema. Esto establece un hito público de recursos del proyecto, sin establecer una fecha de lanzamiento, capacidades ni estado de despliegue.",
+ "title": "Se documentaron los recursos del proyecto Qwen3.8-Flash-Next",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

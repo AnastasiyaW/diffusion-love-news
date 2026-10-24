@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Se pasó de un modelo basado únicamente en API en la nube al soporte de Virtual Private Cloud (VPC) en AWS y Google Cloud, y después a la introducción de despliegues on-premise y on-device (sin conexión) reales. Estas versiones locales utilizan computación confidencial para garantizar que los datos permanezcan aislados y cifrados durante el procesamiento.",
+ "id": "n-f5dbfdb346",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Diseñada específicamente para sectores muy regulados, como la sanidad, las finanzas y la defensa, donde el procesamiento de IA en la nube está restringido por requisitos de cumplimiento normativo o de seguridad.",
+ "source_sha256": "069166b4b298b1f18df0fa18f0c8e0cc693ee710769093d3ebbfc923a308cfa8",
+ "summary": "ElevenLabs ofrece opciones de despliegue local de nivel empresarial para sus modelos de voz generativa, que permiten realizar síntesis y procesamiento de voz de alta calidad en servidores locales o dispositivos de borde. La solución se centra en la soberanía de los datos, la latencia ultrabaja y el soporte para entornos air-gapped.",
+ "title": "ElevenLabs: despliegue de IA de voz on-premise y on-device",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

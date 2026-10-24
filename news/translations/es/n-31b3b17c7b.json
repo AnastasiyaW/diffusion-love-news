@@ -1,0 +1,11 @@
+{
+ "id": "n-31b3b17c7b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Clone el repositorio karpathy-output-style o copie el archivo de definición de la skill en el directorio de configuración del agente.\n\nConfigure el entorno de ejecución del agente (como Claude Code o Codex) para que cargue las reglas de la skill durante la ejecución de las consultas.\n\nPida al agente una tarea de explicación de un concepto o de código, permitiendo que la skill elija entre texto técnico simplificado, diagramas de Excalidraw, HTML interactivo o formatos de video explicativo.\n\nSiga estrictamente la escalera de cuatro niveles, usando por defecto el formato más sencillo antes de solicitar artefactos pesados de HTML interactivo o de video.\n\nAsegúrese de que los resultados en HTML interactivo sean totalmente autocontenidos en un único archivo, con estilos y scripts incrustados, para permitir la inspección inmediata en el navegador local.",
+ "source_sha256": "b733489b5751bebdc374d6114b6d5cc3e2c57e790845750421f57531297f7671",
+ "summary": "El proyecto karpathy-output-style define un flujo de ejecución que guía a los modelos de IA para elegir entre inglés técnico simplificado, diagramas estructurales, HTML interactivo o videos explicativos generados mediante código, con el fin de aclarar conceptos técnicos complejos.",
+ "title": "karpathy-output-style estructura explicaciones de LLM en múltiples formatos para flujos de trabajo de desarrolladores",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-22448a4fd0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0115b3d987d3384ce28dfc4b73519f331793583973e894b5a7b8447ad176d5d9",
+ "summary": "2026-07-22, TimeLens2 개발 라인 메시지가 공개 프로젝트 페이지, GitHub 소스 저장소, Hugging Face 컬렉션, 그리고 시간적 그라운딩(temporal grounding) Space를 함께 연결했습니다. 이처럼 상호 연결된 공개 표면은 프로젝트의 배포 및 접근 경로에서 의미 있는 진전입니다. 현재 확보된 근거만으로는 특정 버전, 모델 구성 또는 기능에 대한 주장은 확인되지 않습니다.",
+ "title": "TimeLens2 공개 프로젝트 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

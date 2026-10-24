@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de ser una herramienta interna de Vercel a un proyecto público de código abierto; actualmente utiliza Claude 3.5 Sonnet y Vercel Sandbox para un análisis de código de alta fidelidad y para aplicar correcciones directas en los PR.",
+ "id": "n-efaa00d50b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Emplea un sistema de habilidades progresivo que carga instrucciones especializadas para frameworks concretos, como Next.js, solo cuando resultan pertinentes.",
+ "source_sha256": "15f56f17ce6a52d927daa75978a1156369b77155d76454def24d7d237bcf98c2",
+ "summary": "Un asistente de revisión de código con IA de código abierto y autoalojado que ofrece análisis de pull requests bajo demanda y correcciones automatizadas. Utiliza Claude 3.5 Sonnet y Vercel Workflow para ejecutar las revisiones en entornos aislados (sandboxed), lo que le permite ejecutar linters y tests.",
+ "title": "OpenReview: bot de revisión de código con IA de Vercel Labs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Die offizielle Release-Oberfläche hat v0.22.2 veröffentlicht; die aktuelle Dokumentation setzt Node.js 22+ voraus und vermerkt die Ablösung von Qwen OAuth zugunsten unterstützter Anbieter- bzw. API-Key-Wege.",
+ "id": "n-6b5646e730",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "723492578a4fc18259cbe0d83e4c7e605a09101541e0ad3fed7151bdc5de26d6",
+ "summary": "Die offizielle Release-Oberfläche hat v0.22.2 veröffentlicht; die aktuelle Dokumentation setzt Node.js 22+ voraus und vermerkt die Ablösung von Qwen OAuth zugunsten unterstützter Anbieter- bzw. API-Key-Wege.",
+ "title": "Qwen Code erreicht v0.22.2 unter dem aktuellen Anbietervertrag",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

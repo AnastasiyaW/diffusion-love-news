@@ -1,0 +1,11 @@
+{
+ "id": "n-8f82aff737",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Klonen Sie das Repository karpathy-output-style oder kopieren Sie die Skill-Definitionsdatei in das Konfigurationsverzeichnis des Agenten.\n\nKonfigurieren Sie die Agent-Laufzeitumgebung (etwa Claude Code oder Codex) so, dass die Skill-Regeln während der Abfrageausführung geladen werden.\n\nBeauftragen Sie den Agenten mit einer Aufgabe zur Erklärung eines Konzepts oder Codes. Der Skill wählt dann zwischen vereinfachtem technischem Text, Excalidraw-Diagrammen, interaktivem HTML und Erklärvideo-Formaten.\n\nHalten Sie sich strikt an die vierstufige Leiter, indem Sie zuerst das einfachste Format wählen, bevor aufwendige interaktive HTML- oder Video-Artefakte angefordert werden.\n\nStellen Sie sicher, dass interaktive HTML-Ausgaben vollständig in einer einzigen Datei mit eingebetteten Stilen und Skripten gekapselt sind, damit sie sofort lokal im Browser geprüft werden können.",
+ "source_sha256": "5f3808f5e22da4a8dded3b29afaa58782a3cb1e1e3a6069e012c3b9ae00b8c05",
+ "summary": "Das Open-Source-Repository karpathy-output-style bündelt Andrej Karpathys visuelle Erklärungshierarchie in wiederverwendbare Agenten-Skills. Damit können Coding-Assistenten statt Standardtext Excalidraw-Diagramme, interaktive Einzeldatei-HTML-Seiten und vertonte Video-Animationen erzeugen.",
+ "title": "Open-Source-Projekt karpathy-output-style implementiert visuelle Output-Leiter für KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Originalmente publicado con el backbone Direct3D-S2, el proyecto se actualizó en mayo de 2026 para incorporar el backbone TRELLIS.2, con mejor calidad de geometría y textura. La investigación fue aceptada oficialmente en SIGGRAPH 2026 e incluye ahora soporte para generación multivista y síntesis modular a nivel de escena.",
+ "id": "n-9e0a0fba7f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aceptado en SIGGRAPH 2026; requiere el entorno de TRELLIS.2 para los modelos de inferencia más recientes.",
+ "source_sha256": "3365975205ad08d6256fb1c75c167bf15f208a043a1f2c80a8b9d65bce82d86e",
+ "summary": "Un framework de vanguardia desarrollado por Tencent ARC Lab que genera modelos 3D de alta fidelidad con texturas PBR a partir de imágenes individuales, mediante un esquema de retroproyección alineado a nivel de píxel. Logra una fidelidad cercana a la de la reconstrucción al elevar directamente las características 2D al espacio 3D.",
+ "title": "Pixal3D: generación 3D con alineación a nivel de píxel por Tencent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

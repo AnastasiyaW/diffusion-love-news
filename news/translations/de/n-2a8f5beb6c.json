@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nachdem Codex 2023 eingestellt worden war, wurde es im April 2025 als CLI-zentrierte Plattform neu aufgesetzt. Es wurde auf eine Rust-basierte Architektur umgestellt, unterstützt das Model Context Protocol (MCP) und wird derzeit von der GPT-5-Modellreihe angetrieben, die native Computer-Use-Fähigkeiten bietet.",
+ "id": "n-2a8f5beb6c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Ökosystem umfasst inzwischen 'Codex Security' für die automatisierte Behebung von Schwachstellen sowie integrierte Unterstützung für VS Code, Cursor und Xcode.",
+ "source_sha256": "0588ea38f14c24511eeea4dc7bfb9f98b1ca608cf187af10bbb920c5081b4ac1",
+ "summary": "Ein terminalnatives agentisches Coding-System, das autonomes Software-Engineering durch lokalen Repository-Zugriff, multimodale Eingaben und Multi-Agenten-Orchestrierung ermöglicht. Es steht für die Weiterentwicklung des ursprünglichen Codex-Modells im Jahr 2025, weg von reiner Code-Vervollständigung hin zur proaktiven, werkzeuggestützten Ausführung von Aufgaben.",
+ "title": "OpenAI Codex CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde im April 2026 offiziell auf arXiv (2604.14004) veröffentlicht. Es markiert einen Wandel von der Selbstentwicklung innerhalb einer einzelnen Domäne hin zu einheitlichen domänenübergreifenden Speicherpools; validiert wurde es an Modellen der nächsten Generation wie GPT-5-mini und Qwen3-Coder.",
+ "id": "n-73e5608506",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von KAIST AI in Zusammenarbeit mit NYU und DeepAuto.ai; zeigt eine Leistungssteigerung von 3,7 % über mehrere Coding-Benchmarks hinweg.",
+ "source_sha256": "007dcebaa6fd1a70320e5ddd5c142a27086a93b59642f31a8bfc540a837823c6",
+ "summary": "Ein Framework von KAIST, das KI-Coding-Agenten ermöglicht, Wissen über heterogene Domänen hinweg zu übertragen. Die Leistung wird verbessert, indem übergeordnete strategische Erkenntnisse aus Aufgabenverläufen (Trajektorien) extrahiert werden, statt Spuren auf niedriger Ebene wiederzuverwenden.",
+ "title": "Memory Transfer Learning (MTL) für KI-Coding-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

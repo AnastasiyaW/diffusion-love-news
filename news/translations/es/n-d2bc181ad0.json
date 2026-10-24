@@ -1,0 +1,10 @@
+{
+ "id": "n-d2bc181ad0",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1250c7e739b49bd442a7f3d6ff9e14e037eeebbc68858e9b67b4ff6cb64bf4cc",
+ "summary": "El 2026-06-13, MiniMax M3 quedó vinculado a través de un repositorio público de proyecto en GitHub, una página de modelo en Hugging Face y la documentación de generación de texto de MiniMax. En conjunto, estas referencias marcan un avance público significativo al conectar las superficies del proyecto: código fuente, distribución del modelo y documentación de uso.",
+ "title": "Aparecen los recursos públicos de MiniMax M3: proyecto, modelo y API",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

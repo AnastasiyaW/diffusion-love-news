@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 텍스처링 도구에서 3D 아티스트를 위한 전문 정제 스위트로 발전해 왔습니다. 최근의 주요 업데이트로는 다중 뷰 일관성 지원, 특정 메시 영역을 대상으로 한 텍스처 인페인팅, 자동화된 PBR 세그멘테이션이 추가되었습니다.",
+ "id": "n-c8fc3fe21e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Trellis나 Tripo AI 같은 도구로 생성된 에셋의 후처리 단계로, 전문 작업 워크플로에 흔히 통합되어 사용됩니다.",
+ "source_sha256": "bc911750eb3df5c05fb11103929f22d1f64d045d7844c6469885cff632a406d0",
+ "summary": "Modddif는 3D 모델의 텍스처링, 정제, 클린업을 위해 설계된 AI 기반 플랫폼입니다. 다중 뷰 텍스처 생성, 텍스처 인페인팅, PBR 맵 생성에 특화되어 있으며, 이를 통해 AI가 생성한 원시 메시를 개선합니다.",
+ "title": "Modddif — AI 3D 모델 텍스처링 및 정제 툴킷",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

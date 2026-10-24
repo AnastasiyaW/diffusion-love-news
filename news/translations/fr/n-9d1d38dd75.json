@@ -1,0 +1,10 @@
+{
+ "id": "n-9d1d38dd75",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "908a49347eda2871747c41a759df62d70af890ed0de03ec1eb951bdcaf687ff4",
+ "summary": "Le 2026-06-13, la lignée LTX2.3 Audio Reactive LoRA a été consignée avec un lien direct vers Hugging Face sous fal. Il s'agit d'un point de référence public important pour cette lignée, mais les éléments fournis n'établissent pas les capacités du modèle, les détails de version, les données d'entraînement ni les conditions d'utilisation.",
+ "title": "Le LoRA LTX2.3 Audio Reactive est entré dans le registre de développement daté",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

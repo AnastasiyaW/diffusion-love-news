@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在 Unity 6 中,该功能已从测试版过渡为核心的生产就绪状态。Muse 新增了视频到动作和文本到动作的能力,而截至 2026 年,Sentis 已支持直接导入原生 PyTorch 和 LiteRT 模型,无需转换。",
+ "id": "n-e60825c137",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unity Muse 的生成式功能需要付费订阅,而 Unity Sentis 是随引擎附带的免费运行时工具,用于本地 AI 推理。",
+ "source_sha256": "872e45ee395359a8460a5d3f897a565b499ddfee8e668844bbb6f6187c91ef10",
+ "summary": "一套面向生产环境的 AI 工具套件,已集成到 Unity 6 中,用于游戏开发。其中包括用于生成式资产创作和基于对话的助手工作流的 Unity Muse,以及用于高性能跨平台本地神经网络推理的 Unity Sentis。",
+ "title": "Unity AI(Muse 与 Sentis)适用于 Unity 6",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개 이후 이 프로젝트는 MegaStyle-1.4M 데이터셋과, 기존 CSD 모델을 크게 능가하는 전용 스타일 인코더를 포함하도록 확장되었습니다. 공식 ComfyUI 노드는 출시 직후 메인 저장소에 직접 통합되었습니다.",
+ "id": "n-edad1a10a0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Tencent와 퉁지대학교(Tongji University)의 공동 연구 결과물이며, 예술적 일관성을 평가하기 위한 독자적인 스타일 점수(style-score) 계산 체계를 포함합니다.",
+ "source_sha256": "b7c26e914fe576e4c78f321e302caa9d92b5799598a64fae7d0bb9fee37774a0",
+ "summary": "Tencent가 개발한 최첨단 스타일 전이 시스템으로, SigLIP 기반 인코더와 FLUX.1-dev 아키텍처를 활용합니다. 텍스트-이미지 프롬프트에 고충실도의 예술적 스타일 전이를 적용하며, 참조 이미지로부터의 콘텐츠 누수(content leakage)를 효과적으로 제거합니다.",
+ "title": "MegaStyle 스타일 전이 프레임워크와 ComfyUI 노드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

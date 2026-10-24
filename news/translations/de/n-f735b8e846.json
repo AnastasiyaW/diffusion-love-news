@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der ursprünglichen Veröffentlichung im November 2024 wurde das Konzept räumlich variierender Gaussians mit dem Projekt SVG-IR auf die inverse Rendering erweitert, das auf der CVPR 2025 angenommen wurde. Die zentrale SVGS-Implementierung bleibt die grundlegende Arbeit für ausdrucksstarke Gaussian-Primitive.",
+ "id": "n-f735b8e846",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt baut auf 2D Gaussian Surfels auf und verbessert die Darstellung feiner Details im Vergleich zum standardmäßigen 3D Gaussian Splatting deutlich.",
+ "source_sha256": "3714fd1658154fe12f911a940c742ab6b3243baf9b8e1dd75f8851004db8a605",
+ "summary": "Stellt Gaussian-Primitive mit räumlich variierenden Farben und Opazität vor, um die 3D-Rekonstruktion und die Synthese neuer Ansichten zu verbessern. Die Methode nutzt Funktionen wie die bilineare Interpolation und winzige neuronale Netze, um einzelne Primitive ausdrucksstärker und zugleich kompakter zu machen.",
+ "title": "SVGS: Spatially Varying Gaussian Splatting für die Szenenrekonstruktion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

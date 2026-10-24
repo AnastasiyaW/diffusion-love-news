@@ -1,0 +1,10 @@
+{
+ "id": "n-264e8c1717",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "abc37e8994eff75d0ee459dfb4abc5f2d30d7288c9a8dae676c748067ff3e8da",
+ "summary": "2026年3月17日，FireRed 讨论串中的一条消息链接了一个 Hugging Face 仓库，其 URL 表明该仓库对应适用于 ComfyUI 的 FireRed Image Edit 1.1。同一条消息还包含三个 RunningHub 链接。现有证据无法揭示所链接的具体内容，也不能证明存在新版本发布、能力变更或工作流细节，因此本文仅记录这些资源链接在该日期的发布情况。",
+ "title": "一个 FireRed Image Edit 1.1 的 ComfyUI 资源被发布链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

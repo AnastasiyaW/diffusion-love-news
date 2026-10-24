@@ -1,0 +1,10 @@
+{
+ "id": "n-412ff5547f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5edfbeb8389399bec9844a7d761f1b2dd20affa1e73653fe39f31c7488da0f6b",
+ "summary": "Le 2026-08-14, Google a publié un lien vers une annonce officielle présentant Gemini 3.7 Flash, ainsi qu'une URL de prompt AI Studio sélectionnant ce modèle. Il s'agit d'une étape importante, tant pour la sortie du modèle que pour sa disponibilité auprès des développeurs. Les liens fournis ne permettent pas d'établir le statut final du modèle, ses limites ou sa disponibilité régionale.",
+ "title": "Google présente Gemini 3.7 Flash pour AI Studio",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

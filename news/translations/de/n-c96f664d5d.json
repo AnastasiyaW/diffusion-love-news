@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 offiziell veröffentlicht, mit 65 hochwertigen Szenen. Im Mai 2026 wurde es um interaktive Gaussian-Szenen sowie eine LLM-gestützte HabitatAgent-Demo erweitert, die Navigation per natürlicher Sprache unterstützt.",
+ "id": "n-c96f664d5d",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Stellt eine visuell-navigatorische Entkopplung vor, bei der 3DGS das Erscheinungsbild übernimmt, während NavMeshes die Kollisionen behandeln. Unterstützt dynamische humanoide Avatare aus GaussianAvatar für das Training menschenbewusster Navigation.",
+ "source_sha256": "3e17b7c6d0a0db7a9d0f70f9f5832a231b9aa09629ea45209781204a94eb04fa",
+ "summary": "Ein hochauflösender Navigationssimulator, der 3D Gaussian Splatting in das Meta-Habitat-Ökosystem integriert. Er ermöglicht fotorealistisches RGB- und Tiefen-Rendering zum Training autonomer Agenten und bleibt dabei mit herkömmlichen Navigationsmeshes und Physik kompatibel.",
+ "title": "Habitat-GS: Gaussian-Splatting-Simulator für Roboternavigation",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

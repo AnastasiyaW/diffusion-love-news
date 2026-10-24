@@ -1,0 +1,10 @@
+{
+ "id": "n-b8d5334397",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "45bf09e9bb8d92fe865499bcfef5319a959c08da1ff889fab51b13a32c856eb1",
+ "summary": "2026-08-15，OpenVuln 开发线中的一名封存成员直接链接到该项目的 Hugging Face Space。这记录了该日期的一次公开项目空间引用，但仅凭该链接无法确定该 Space 的发布状态、功能，或项目是否有任何变更。",
+ "title": "OpenVuln 的公开 Hugging Face Space 被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-1e7e01ddd7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6b2cd91caf082a48f67a6b97d87693b5c9ad3601aea151c0050b3652b2dd28c4",
+ "summary": "El 2026-03-29, un registro fechado de Calibri remitía a los lectores a su página del proyecto, a su repositorio de GitHub y a su colección de modelos en Hugging Face. En conjunto, estos enlaces documentan un hito de desarrollo de cara al público: la información del proyecto, el código fuente y los artefactos del modelo estaban disponibles para su consulta. La evidencia aportada no permite establecer una versión concreta, el estado de publicación ni las capacidades del sistema.",
+ "title": "Los recursos del proyecto Calibri pasaron a ser públicamente localizables",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

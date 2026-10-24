@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Die verifizierte Wrapper-Revision dokumentiert U1.5-Preview/Formal sowie GGUF-, INT8-, FP8- und BF16-Pfade, während die älteren Anleitungen zum Acht-Schritt-LoRA durchgestrichen sind.",
+ "id": "n-84255b9cc3",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fea5003884ead1e4a5306206154db7075ccb6d176ab2c63a09153178bcdbadef",
+ "summary": "Die verifizierte Wrapper-Revision dokumentiert U1.5-Preview/Formal sowie GGUF-, INT8-, FP8- und BF16-Pfade, während die älteren Anleitungen zum Acht-Schritt-LoRA durchgestrichen sind.",
+ "title": "Der SenseNova-U1-Wrapper wechselt zu U1.5 und zu aktuellen Quantisierungspfaden",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

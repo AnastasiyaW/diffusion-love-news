@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen3.5 시리즈의 후속 모델로, 더 빠른 장문맥 처리를 위한 Gated DeltaNet 하이브리드 어텐션과 안정적인 다중 턴 추론을 위한 Thinking Preservation을 도입했습니다.",
+ "id": "n-04529e7d46",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "에이전트형 코딩(SWE-bench 73.4%)과 수학(AIME 2026 92.6%) 분야에서 최상위권 오픈 웨이트 모델에 속하며, Apache 2.0 라이선스로 공개되었습니다.",
+ "source_sha256": "bd3caceaa2a648b958f75addc718835b9567edfb0db9eccd80759bfa7cfd2db2",
+ "summary": "전체 35B, 활성 3B 파라미터를 갖춘 오픈 웨이트 멀티모달 모델로, 희소 Mixture-of-Experts(MoE) 아키텍처를 사용합니다. 에이전트형 코딩과 수학에 최적화되어 있으며, 효율적인 장문맥 추론을 위해 하이브리드 선형 어텐션 메커니즘을 채택했습니다.",
+ "title": "Qwen3.6-35B-A3B: Alibaba의 멀티모달 희소 MoE 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

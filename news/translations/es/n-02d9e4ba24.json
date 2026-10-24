@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Partiendo de las capacidades de grounding del proyecto SeeClick, anterior a este, OpenMobile evolucionó hasta convertirse en una canalización completa de ejecución de tareas. A fecha de 2026, las versiones ajustadas con Qwen3-VL han alcanzado tasas de éxito de vanguardia (state of the art) en el benchmark AndroidWorld.",
+ "id": "n-02d9e4ba24",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por la Universidad de Nanjing y SenseTime; la publicación incluye 34K pasos de acción y herramientas para visualizar las trayectorias de los agentes.",
+ "source_sha256": "4a0a913af14e2cd2aecf80af7d155c493b316974de5662d634bb8873b619d03d",
+ "summary": "Un marco de trabajo y un conjunto de datos integrales para entrenar agentes móviles que naveguen de forma autónoma y realicen tareas de varios pasos en entornos Android. Introduce una canalización escalable de síntesis de tareas y estrategias de despliegue con cambio de política (policy-switching) para mejorar el rendimiento del agente y su capacidad de recuperación ante errores.",
+ "title": "OpenMobile: marco de trabajo de agentes móviles de código abierto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié en avril 2026 dans le cadre de la pile de modèles de fondation propriétaire de Microsoft, il est actuellement en Public Preview via Microsoft Foundry et Azure AI Foundry. Il est en cours d'intégration dans Microsoft Teams et dans le mode Voice de Copilot.",
+ "id": "n-2eb209422c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Il surpasse Whisper Large v3 d'OpenAI et Gemini 1.5 Flash de Google en vitesse et en précision ; son prix est compétitif, à 0,36 $ par heure d'audio.",
+ "source_sha256": "3a76f60f985b9c21da6aa729613b4e8e54b6d58c0c96b8ebe1ef0a6517f3b324",
+ "summary": "MAI-Transcribe-1 est un modèle propriétaire de reconnaissance automatique de la parole développé par Microsoft AI, conçu pour la transcription par lots et en temps réel à haute précision. Il atteint un taux d'erreur de mots (Word Error Rate) de 3,88 % sur le benchmark FLEURS, un résultat à l'état de l'art mondial, et est optimisé pour les environnements bruyants.",
+ "title": "Le modèle de reconnaissance vocale MAI-Transcribe-1 de Microsoft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

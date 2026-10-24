@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 도구는 Wan2GP용 단순 JSON 큐 유틸리티에서 Vite/Express 기반의 포괄적인 풀스택 워크스페이스로 발전했습니다. 현재는 시각적 스토리보드, 타임라인, 'take'를 위한 버전 기록, 그리고 AI 뮤직비디오 동기화를 위한 특화된 도구를 갖추고 있습니다.",
+ "id": "n-19adc0c7af",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Wan2GP/LTX-2 생태계에 특화되도록 최적화되었으며, ByteSound 브랜드 아래에서 개발되었습니다.",
+ "source_sha256": "3f5b12312b9880de61c604c109acd07d0410d43c1216461206f8875f32c5accf",
+ "summary": "복잡한 AI 영상 워크플로, 스토리보드 정리, 일괄 생성을 관리하도록 설계된 오픈소스 'Director's Console'입니다. LTX-2 같은 모델을 위한 구조화된 프런트엔드 역할을 하며, 타임라인 기반 샷 관리와 계층적(cascading) 파라미터 제어를 제공합니다.",
+ "title": "ByteCut Director: AI 영상 제작 워크스페이스",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

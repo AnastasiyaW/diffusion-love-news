@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Der Übergang von der Beta-Phase zum produktionsreifen Kernbestandteil erfolgte in Unity 6. Muse wurde um die Funktionen Video-zu-Bewegung und Text-zu-Bewegung erweitert, während Sentis seit 2026 den nativen Import von PyTorch- und LiteRT-Modellen ohne Konvertierung unterstützt.",
+ "id": "n-e60825c137",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unity Muse erfordert für die generativen Funktionen ein kostenpflichtiges Abonnement, während Unity Sentis ein kostenloses Laufzeit-Werkzeug ist, das im Engine-Paket enthalten ist und für lokale KI-Inferenz genutzt werden kann.",
+ "source_sha256": "872e45ee395359a8460a5d3f897a565b499ddfee8e668844bbb6f6187c91ef10",
+ "summary": "Eine produktionsreife Suite von KI-Werkzeugen, die in Unity 6 für die Spieleentwicklung integriert ist. Sie umfasst Unity Muse für die generative Erstellung von Assets und chatbasierte Assistenz-Workflows sowie Unity Sentis für leistungsstarke, plattformübergreifende lokale Inferenz neuronaler Netze.",
+ "title": "Unity AI (Muse & Sentis) für Unity 6",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

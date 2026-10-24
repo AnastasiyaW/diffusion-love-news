@@ -1,0 +1,11 @@
+{
+ "id": "n-c696325d3e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在 Fizgig Training 标签页的 Subjects 卡片中，为至少两个不同身份分别准备训练数据集，并放入不同的文件夹。\n\n为每张图片添加标题，以唯一的触发 token 开头，后接逗号和类别描述词（例如 'zwxem, a woman smiling'），以便 Fizgig 生成内部融合 token。\n\n在训练配置中启用 LoRA Isolation，将差分输出保持与自动合成的陌生人图像配对相结合。\n\n生成推理图像时，使用融合触发 token，并同时描述场景中的其他主体，以在不出现人脸串扰的情况下保持身份边界。\n\n即使只针对单个主要角色，也要同时使用至少两个不同的角色身份进行训练，迫使网络将身份 token 与基础人类类别 token 解耦。\n\n在提示背景人物或人群时，完全省略触发 token，使基础模型能够渲染默认的多样化人脸，避免信息泄露。\n\n在训练中对多人负样本合成图进行配对时，将标题按因果顺序组织，并将陌生人描述词置于最前。",
+ "source_sha256": "fb1d0168a8af7673ae44ab665ecc4848e5885d004acacf25593c31ff82699576",
+ "summary": "Fizgig v8.4.0 引入了 LoRA Isolation，结合差分输出保持（Differential Output Preservation）、融合 token 类别解耦和负样本对训练，以防止在生成包含多个角色的场景时出现人脸串扰。",
+ "title": "Fizgig 发布用于多身份训练的 LoRA Isolation",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

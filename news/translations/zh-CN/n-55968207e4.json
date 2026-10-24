@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "继 2026 年 3 月发布 ComfyUI 节点之后，官方团队于 2026 年 4 月发布了训练代码，使用户能够创建自定义表情 LoRA。随后，ComfyUI 实现进行了更新，以支持同时混合多种表情，并改进了针对 Qwen-Image-Edit-2511 基础模型的强度范围。",
+ "id": "n-55968207e4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目的显著特点是其“降低语义纠缠”的方法，确保改变笑容时不会影响背景或角色的相似度。ComfyUI 节点的最初开发得到了 Gemini AI 的显著协助。",
+ "source_sha256": "6210ccecbe8af7568c16931aa2e69469c997be0fd05bb465d29eefe282e93bbc",
+ "summary": "PixelSmile 是一款条件插值工具，可在 ComfyUI 中对角色的面部表情和笑容进行细粒度控制。它在嵌入（embedding）层面对中性表情与目标表情进行数学混合，在基于 Qwen 的模型上保留角色身份特征，同时将语义纠缠降至最低。",
+ "title": "PixelSmile for ComfyUI：精确的面部表情控制",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Devenue une « console de jeu de rôle avec l'IA » complète, intégrant le RAG, des expressions 2D en temps réel et la prise en charge native de modèles de raisonnement multimodaux comme DeepSeek v4 et Claude 4.7. Les mises à jour récentes portent sur le raisonnement entrelacé (interleaved thinking) pour l'appel d'outils complexe et sur un renforcement de la sécurité contre les attaques SSRF.",
+ "id": "n-fa9c04297f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Adopte un modèle de publication en flux continu (rolling release) avec une branche de préproduction (staging) très active ; les builds stables actuels nécessitent Node.js 20+.",
+ "source_sha256": "78f38bde1c94430115bd36f2f255436ebd5aad976e0867da36fb64574c8ac4aa",
+ "summary": "Une interface locale très personnalisable pour interagir avec les grands modèles de langage, optimisée pour le jeu de rôle et la narration. Elle prend en charge plusieurs backends, notamment les exécuteurs locaux, les fournisseurs d'API, ainsi que des fonctionnalités avancées comme les expressions de personnages et les outils de construction d'univers.",
+ "title": "SillyTavern : interface avancée de jeu de rôle avec l'IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

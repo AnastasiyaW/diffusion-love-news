@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Эволюционировал от базовых узлов стереообработки до комплексной системы панорамного outpainting, интегрированной с LTX-Video 2.3 для расширения поля зрения.",
  "id": "n-af1e479850",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Включает инсталлятор с учётом VRAM и специализированные ноды для генерации side-by-side (SBS) 3D-глубины.",
- "source_sha256": "legacy",
- "summary": "Набор нод ComfyUI для создания иммерсивных VR-панорам путём outpainting обычного видеоконтента. Использует LTX-Video 2.3 для панорамного расширения и поддерживает проекции VR180, 360 equirectangular и fisheye.",
- "title": "Muffins Flat 2: ноды ComfyUI для VR-панорам",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Включает установщик с учётом объёма VRAM и специализированные узлы для генерации 3D-глубины в формате side-by-side (SBS).",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "Набор узлов ComfyUI для создания иммерсивных VR-панорам путём outpainting обычного видеоконтента. Использует LTX-Video 2.3 для расширения панорамы и поддерживает проекции VR180, 360 equirectangular и fisheye.",
+ "title": "Muffins Flat 2: узлы ComfyUI для VR-панорам",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Originalmente una implementación de investigación, Prompt-Relay se ha convertido en una utilidad estándar integrada en los ecosistemas de Wan 2.2 y LTX 2.3. Actualmente es un componente central del editor de línea de tiempo LTX Director y de diversos nodos de ComfyUI para narrativas de múltiples eventos.",
+ "id": "n-d4f61075f4",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Resuelve de forma efectiva el enredo temporal en modelos de vídeo basados en difusión, sin requerir entrenamiento ni fine-tuning adicional.",
+ "source_sha256": "2638b1ba202c81f97652585019ad84adddf392e3971abcfc075e67503c5ca473",
+ "summary": "Un método de inferencia sin entrenamiento que permite un control cronológico preciso en la generación de vídeo al dirigir cada prompt a segmentos temporales concretos. Suprime la fuga semántica entre eventos aplicando penalizaciones basadas en la distancia al mecanismo de atención cruzada.",
+ "title": "Prompt Relay: control temporal en vídeo durante la inferencia",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

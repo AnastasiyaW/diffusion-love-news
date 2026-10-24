@@ -1,0 +1,10 @@
+{
+ "id": "n-d83223a468",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "52e52016c5ecc9b6dbb78b169482ec70d13d7eb35a7c8a7177d6779081bc5ff4",
+ "summary": "29 июня 2026 года была зафиксирована страница модели Qwen3.6-34B-80L-Fable-5-Heretic на Hugging Face. Сопутствующая ссылка на поиск Hugging Face связывала название модели с фильтром quantized-base-model. Это веха в распространении проекта, тогда как его содержание, авторство, сведения о релизе и технические изменения остаются не подтверждёнными.",
+ "title": "Страница модели Qwen3.6-34B-80L-Fable-5-Heretic зафиксирована на Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

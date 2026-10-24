@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde un simple experimento de juego de roles hasta convertirse en un framework de orquestación «Goal-to-DAG» listo para producción. Las actualizaciones principales incluyen la integración de MCP, el aislamiento de contexto para la seguridad y un presupuesto estricto de tokens para uso empresarial.",
+ "id": "n-662ab03ff4",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Mantiene una regla de «three runtime dependencies» para una portabilidad extrema y se posiciona como la alternativa nativa de TypeScript, centrada en objetivos, a LangGraph.",
+ "source_sha256": "b48d907ba4a40c348018c771a99bae818eb2cdb1c3e5f35ef3029ee1b6c46362",
+ "summary": "Un motor de orquestación en TypeScript orientado a objetivos para construir equipos autónomos de múltiples agentes. Descompone dinámicamente objetivos de alto nivel en grafos acíclicos dirigidos (DAG) de tareas y los ejecuta con paralelización y síntesis.",
+ "title": "Open Multi-Agent (OMA) Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

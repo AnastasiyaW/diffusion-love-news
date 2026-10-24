@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "클라우드 전용 API 모델에서 출발해 AWS와 Google Cloud의 가상 사설 클라우드(VPC) 지원으로 전환했고, 이후 진정한 의미의 온프레미스 및 온디바이스(오프라인) 배포를 도입했습니다. 이러한 로컬 버전은 기밀 컴퓨팅(confidential computing)을 활용하여 처리 과정에서 데이터가 격리되고 암호화된 상태로 유지되도록 합니다.",
+ "id": "n-f5dbfdb346",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "의료, 금융, 국방 등 규제가 엄격한 산업을 위해 특별히 설계되었으며, 규정 준수나 보안 요건으로 인해 클라우드 기반 AI 처리가 제한된 환경을 대상으로 합니다.",
+ "source_sha256": "069166b4b298b1f18df0fa18f0c8e0cc693ee710769093d3ebbfc923a308cfa8",
+ "summary": "ElevenLabs는 자사의 생성형 음성 모델을 위해 엔터프라이즈급 로컬 배포 옵션을 제공하며, 이를 통해 로컬 서버나 엣지 디바이스에서 고품질 음성 합성 및 처리를 가능하게 합니다. 이 솔루션은 데이터 주권, 초저지연, 그리고 에어 갭(air-gapped) 환경 지원에 중점을 둡니다.",
+ "title": "ElevenLabs: 온프레미스 및 온디바이스 음성 AI 배포",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目为多模态模型引入了推理时扩展，并构建了模块化的“Skill”系统，使较小的模型能够超越 GPT-Image 等更大的专有模型。",
+ "id": "n-d111345e9c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用 Sglang 进行 MLLM 服务部署，并使用 Diffusers 作为图像生成后端；文档位于 gems-gen.github.io。",
+ "source_sha256": "db9a72146669e76b357d7b269b4164d97e5a1417287818c55187a4010de8dade",
+ "summary": "GEMS 是一个多智能体框架，将多模态内容生成视为一项迭代优化任务。它采用由规划、验证与精修组成的闭环系统，并由分层记忆和可扩展的领域技能提供支持。",
+ "title": "GEMS：具备记忆能力的智能体原生多模态生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

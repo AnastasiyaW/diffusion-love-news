@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après la sortie initiale de MOSS-Audio en avril 2026, l'équipe a élargi la famille avec MOSS-Music-8B en mai 2026, dédié aux questions-réponses sur la musique. Le projet a depuis ajouté une prise en charge complète du service avec SGLang ainsi que des workflows de fine-tuning LoRA complets.",
+ "id": "n-33f31b6935",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Atteint des performances state-of-the-art sur les benchmarks de raisonnement audio, surpassant des modèles nettement plus volumineux comme Step-Audio-R1 33B.",
+ "source_sha256": "99db82653c8b52ddbf95e2d7f8f5cd3598e58a3d431bfb8a294d427f4f8ed0ac",
+ "summary": "Un modèle de fondation audio open source conçu pour le raisonnement audio complexe et la transcription horodatée, grâce à des capacités de Chain-of-Thought. Il s'appuie sur une architecture Qwen3-8B et sur une injection de caractéristiques inter-couches afin de préserver des détails acoustiques d'une grande fidélité.",
+ "title": "MOSS-Audio-8B-Thinking",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

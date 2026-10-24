@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 4 月发布，提供推理代码和模型权重；2026 年 4 月下旬扩展，发布了完整训练代码以及包含超过 100 万张图像的大规模数据集 WildDet3D-Data。同时还发布了配套的 iPhone 应用，可在设备端实时进行 3D 检测。",
+ "id": "n-c5207bfa4a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 SAM 3 主干网络和 LingBot-Depth 构建；在 Argoverse 2 和 ScanNet 上取得了最先进的零样本性能。",
+ "source_sha256": "37d37e5e414bf8e7d21dd29122c659494b93bc2bd32485f7b72534930a8cfb46",
+ "summary": "一种统一的几何感知架构，用于从单张 RGB 图像进行开放词汇的单目 3D 目标检测。它支持包括文本、点和框在内的多模态提示，作为一种类似 SAM 的可提示检测器运行。",
+ "title": "WildDet3D：在真实场景中扩展可提示的 3D 检测",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

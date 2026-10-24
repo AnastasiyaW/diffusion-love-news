@@ -1,0 +1,11 @@
+{
+ "id": "n-288cee31b2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "相关的 Google 页面（发布于 2026-07-21）推出了 Gemini 3.6 Flash、3.5 Flash-Lite，以及 3.5 Flash Cyber 的有限试点；3.6 和 3.5 Flash-Lite 已通过 Gemini API 和 AI Studio 提供。",
+ "source_sha256": "743bde1d6ba6946dd2d3915d0ecb7330436ccb55c01fe128bbc6ea2822c4e826",
+ "summary": "2026-07-22 时，该记录关联了一个 Google Blog 官方 Gemini 模型页面，其 URL 标明了 Gemini 3.6 Flash、Gemini 3.5 Flash Lite 和 Gemini 3.5 Flash Cyber。该记录还关联了一个为 Gemini 3.6 Flash 配置的 AI Studio 新建对话 URL，从而建立了同期的模型选择参考。所提供的证据不足以确认发布细节、能力、地区或条款，因此本文不作说明。",
+ "title": "Gemini 3.6 Flash 关联到多个更新的 Flash 模型变体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

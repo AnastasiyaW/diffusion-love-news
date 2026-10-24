@@ -1,0 +1,10 @@
+{
+ "id": "n-b48ae23ef5",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c37f8a2af049abcc31c948fb71bfaa1c4b05c8ad19a1389fe64a3e45cf3eb71a",
+ "summary": "El 30 de julio de 2026, un mensaje fechado del proyecto vinculó LATO.2 con su sitio web del proyecto, su repositorio de GitHub y su página en Hugging Face. Estos enlaces establecen puntos de entrada públicos al proyecto, pero por sí solos no permiten determinar una versión de lanzamiento, capacidades ni un cambio específico en el código fuente.",
+ "title": "Se hicieron públicas referencias a los recursos del proyecto LATO.2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

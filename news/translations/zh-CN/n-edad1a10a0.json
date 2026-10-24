@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "项目于 2026 年 4 月发布后，扩展了 MegaStyle-1.4M 数据集和一个专用风格编码器，其表现显著优于此前的 CSD 模型。官方 ComfyUI 节点在发布后不久即直接集成进主仓库。",
+ "id": "n-edad1a10a0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由腾讯与同济大学合作完成；其特色是采用独特的风格评分计算系统，用于评估艺术风格的一致性。",
+ "source_sha256": "b7c26e914fe576e4c78f321e302caa9d92b5799598a64fae7d0bb9fee37774a0",
+ "summary": "一套来自腾讯、达到业界领先水平的风格迁移系统，采用基于 SigLIP 的编码器和 FLUX.1-dev 架构。它能够将高保真的艺术风格迁移到文生图提示词中，同时有效消除参考图像中的内容泄漏。",
+ "title": "MegaStyle 风格迁移框架与 ComfyUI 节点",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

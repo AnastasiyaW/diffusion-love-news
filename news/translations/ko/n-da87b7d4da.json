@@ -1,0 +1,10 @@
+{
+ "id": "n-da87b7d4da",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0d93ba883f6d057e8f4f18945caf061733a4d6cae0675bdb599464a533d64b9a",
+ "summary": "2026년 3월 12일, Hugging Face Space인 Voxtral-Realtime-WebGPU와 연결된 개발 기록이 확인되었습니다. 날짜가 명시된 링크는 Voxtral 프로젝트를 위한 WebGPU 지향 데모 산출물을 가리키며, 이는 공개 개발 이력에서 의미 있는 단계입니다. 제공된 근거만으로는 연결된 리소스 이외의 데모 모델 버전, 기능, 공개 상태 또는 제작자를 확정할 수 없습니다.",
+ "title": "Voxtral Realtime WebGPU 데모 문서화 완료",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

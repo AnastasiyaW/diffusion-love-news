@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé d'un projet purement de recherche à un dépôt open source actif en avril 2026. Les mises à jour récentes ont introduit la génération vidéo conditionnée par la vitesse ainsi que la publication du jeu de données SloMo-44K, comprenant 18 millions d'images.",
+ "id": "n-b1f200df41",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utilise les décalages de hauteur audio pour superviser l'apprentissage temporel et impose une équivariance du mouvement afin de résoudre les hallucinations temporelles dans la génération vidéo.",
+ "source_sha256": "5b1166a2b8947c09a4afc227fdaa6ed4c170cffa9bb95db99cc962f039d362b9",
+ "summary": "Un cadre d'apprentissage profond conçu pour percevoir et contrôler la dynamique temporelle de la vidéo grâce à une auto-supervision audio-visuelle. Il permet un réglage précis de la vitesse de lecture ainsi qu'une super-résolution temporelle haute fidélité, en apprenant des contraintes physiques du mouvement.",
+ "title": "Seeing Fast and Slow : apprendre le flux du temps",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

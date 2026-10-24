@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已被 CVPR 2026 接收，并将支持范围扩展至 FLUX.1、Wan2.1 和 HunyuanVideo。它也已通过社区开发的节点集成到 ComfyUI 生态中。",
+ "id": "n-58225bc7d0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Stanford 与 ByteDance 联合开发；采用全局谱预测，以防止推理过程中的误差累积。",
+ "source_sha256": "bfe047e3b8e58da7d1fd978dd4f43fe373fbddc687b0c7923c929ee0adf19f1b",
+ "summary": "一种无需训练的框架，通过切比雪夫多项式对潜在特征的演化进行建模，从而加速扩散采样。它可为 FLUX.1 和 Wan2.1 等模型带来显著加速，同时保持较高的图像与视频保真度。",
+ "title": "Spectrum：面向扩散加速的自适应谱特征预测",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

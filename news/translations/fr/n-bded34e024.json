@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'une version initiale à une variante « stability-first » dotée de la quantification APEX (Adaptive Precision for EXpert Models). Bien qu'il reste maintenu comme référence d'ingénierie, le développeur a depuis concentré ses efforts sur la série Qwopus-3.5 pour des performances de niveau production.",
+ "id": "n-bded34e024",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Repose sur une architecture à mélange d'experts (MoE) comptant 26B de paramètres au total et 4B de paramètres actifs (A4B). Prend en charge une fenêtre de contexte de 256K tokens et intègre un « Thinking Mode » natif, déclenché par des tokens spécifiques dans le prompt.",
+ "source_sha256": "3c7255d5650aa9fbb334a2f11e8f2b81942cfa0929f081b3193f4c36c11a8a08",
+ "summary": "Un modèle à mélange d'experts (Mixture-of-Experts) ajusté aux instructions, basé sur Gemma 4 26B, affiné pour la stabilité et la naturalité conversationnelle. Il évite une distillation agressive au profit d'un fine-tuning conservateur, afin de préserver le raisonnement de base tout en améliorant le ton et la clarté structurelle.",
+ "title": "Modèle de langage de grande taille Gemopus-4-26B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

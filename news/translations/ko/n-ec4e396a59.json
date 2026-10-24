@@ -1,0 +1,10 @@
+{
+ "id": "n-ec4e396a59",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "45120234214950c0d1078df22a40731c5a980f9ad1c2f924f51edf081f4a53a4",
+ "summary": "2026-06-04, KVarN 개발 라인에 프로젝트의 공개 GitHub 저장소를 참조한 기록이 남았다. 원문 텍스트나 뒷받침 자료가 제공되지 않았으므로, 이 이력 항목은 저장소 참조 사실만 기록할 뿐 검증되지 않은 릴리스, 기능 또는 프로젝트 상태를 주장하지 않는다.",
+ "title": "KVarN 공개 소스 저장소 참조 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

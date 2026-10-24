@@ -1,0 +1,10 @@
+{
+ "id": "n-a14c05d0aa",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e15f5b14d2f2833023860977011350624f40bc6b3d6b7e3f94c15ab86fe21203",
+ "summary": "2026년 3월 17일, NanoVDR의 개발 흐름이 Hugging Face 블로그 글, NanoVDR 프로젝트 페이지, 공개 NanoVDR 데모 스페이스와 연결되었다. 이는 검색 가능한 프로젝트 및 데모 리소스가 마련되었다는 점에서 의미 있는 공개 단계이지만, 이번 검토에서 해당 리소스의 내용은 조사하지 않았다.",
+ "title": "NanoVDR, 공개 Hugging Face 리소스 및 데모와 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

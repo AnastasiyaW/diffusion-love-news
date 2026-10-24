@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "실험적인 모바일 스캐닝에서 2026년까지 전문가급 3DGS-to-mesh 솔루션으로 발전했습니다. 3.0 버전에서는 얇은 디테일 보존, 향상된 표면 안정성, 3D 프린팅 워크플로를 위한 통합 스케일링 도구가 도입되었습니다.",
+ "id": "n-9db878fd06",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모바일 환경에서 3DGS-to-mesh 변환을 처음으로 구현했으며, 노멀 예측과 반사 제거 기능을 포함합니다.",
+ "source_sha256": "90da1914704be363495e7b9f83dc7213d0f86f67fd6bd27c1fe407d6c99fd7ca",
+ "summary": "동영상과 사진 촬영 데이터를 고품질 Gaussian Splat과 폴리곤 메시로 변환하는 모바일 3D 스캐닝 플랫폼입니다. 3DGS 데이터를 편집 가능하고 실무에 바로 쓸 수 있는 에셋으로 변환하는 전용 파이프라인을 제공합니다.",
+ "title": "KIRI Engine: Gaussian Splatting에서 메시로",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

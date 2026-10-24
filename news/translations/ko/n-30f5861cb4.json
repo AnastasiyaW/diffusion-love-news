@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 초에 공개된 이 프로젝트는 RetinaFace 정렬을 사용한 전체 이미지 복원을 지원하도록 빠르게 확장되었습니다. 2026년 5월의 최근 업데이트는 ComfyUI 통합 개선과 장치별 LoRA 배치 문제 수정에 중점을 두었습니다.",
+ "id": "n-30f5861cb4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "높은 VRAM(22GB 이상)과 양자화되지 않은 FLUX.2-klein-base-4B 모델이 필요합니다. ComfyUI-Flux-FaceIR 저장소를 통해 널리 쓰이는 ComfyUI 구현체를 이용할 수 있습니다.",
+ "source_sha256": "78edfeafc2a375dd3c633bf6c675606caaa86a4ae1c4d27e10c39d9b2aa72aff",
+ "summary": "Flux FaceIR은 FLUX.2-klein 모델을 기반으로 구축된 특화 복원 프레임워크로, 블라인드 얼굴 향상과 참조 이미지 기반 얼굴 향상을 모두 지원합니다. LoRA 어댑터를 활용하여 세밀한 디테일을 복원하고, 단일 또는 여러 참조 이미지에 걸쳐 신원(identity)을 유지합니다.",
+ "title": "Flux FaceIR: Flux를 위한 고품질 얼굴 복원",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

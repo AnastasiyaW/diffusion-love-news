@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag berichtete über Personalisierung, Verbesserungen bei Details und Prompts, Steuerungen für Aufmerksamkeitsbereiche und Reference-Latents sowie einen Low-VRAM-Modus.",
+ "id": "n-b65d8e8b42",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "08eafe2593a632baa5922f901118ad46ca4b08c92381c4601b73e8740665c49a",
+ "summary": "Der Nachrichtenbeitrag berichtete über Personalisierung, Verbesserungen bei Details und Prompts, Steuerungen für Aufmerksamkeitsbereiche und Reference-Latents sowie einen Low-VRAM-Modus.",
+ "title": "Flux2Klein Enhancer erweitert sein Steuerungspaket",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

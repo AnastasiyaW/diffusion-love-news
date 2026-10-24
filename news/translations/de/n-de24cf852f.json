@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Auf das ursprüngliche TIPS-Modell folgte TIPSv2, das iBOT++-Pretraining und synthetische Bildunterschriften mit mehreren Granularitätsstufen einführte, um das räumliche Bewusstsein zu verbessern. Das Modell wurde in die Transformers-Bibliothek von Hugging Face integriert, mit spezialisierten DPT-Heads für dichte Vorhersageaufgaben.",
+ "id": "n-de24cf852f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt umfasst einen offiziellen Feature-Explorer auf Hugging Face Spaces und übertrifft frühere selbstüberwachte Modelle wie DINOv2 bei Zero-Shot-Aufgaben.",
+ "source_sha256": "01af5038d28554b22399b2b3acfc4228c056ad6ed29752087e1a9d602a7ceb8c",
+ "summary": "Eine Familie von Vision-Language-Modellen von Google DeepMind, die die Lücke zwischen Bild-Text-Alignment und dichtem räumlichem Verständnis schließt. Sie ermöglicht präzise monokulare Tiefenschätzung, Oberflächennormalenvorhersage und Zero-Shot-semantische Segmentierung auf Basis von Alignment auf Patch-Ebene.",
+ "title": "TIPSv2: Text-Image-Pretraining mit räumlichem Bewusstsein",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-30436dd38f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "73349b71de52afa36ee70764fd3430d048684bdb1b344106bc21d4a56407e2d8",
+ "summary": "Le 24 mars 2026, cette ligne de développement a enregistré des liens vers un dépôt LTX-LoRAs sur Hugging Face et une page LTX LoRAs sur Civitai. Ces liens indiquent une étape de distribution ou de découverte publique liée au projet, mais l'enregistrement ne permet pas d'établir la variante exacte du modèle, le comportement en inpainting, la compatibilité, la provenance ni les détails de publication.",
+ "title": "Liens de distribution de LoRA LTX enregistrés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

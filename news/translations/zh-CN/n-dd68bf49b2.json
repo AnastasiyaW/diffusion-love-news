@@ -1,0 +1,10 @@
+{
+ "id": "n-dd68bf49b2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9b53a22ff7330ade831c17a4cddeb5d1849650cd667f9e1c72aad9019c4f0747",
+ "summary": "2026-06-11，Langswap 发布了多个源码路径的链接，涵盖语音转文字管理器、ASR/VAD 客户端、Llama.cpp 翻译客户端、OmniVoice TTS 客户端以及 FFmpeg 支持模块。该日期的链接集还包括项目代码库和一篇关于 AI 配音的文章，将这些组件置于语音翻译与配音的语境之中。现有链接无法确定所引用的文件是否在该日期被新增或修改。",
+ "title": "Langswap 推出模块化语音翻译与配音技术栈",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

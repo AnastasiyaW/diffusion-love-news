@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Der Ansatz entwickelte sich von einem reinen Cloud-API-Modell hin zur Unterstützung von Virtual Private Clouds (VPC) auf AWS und Google Cloud, gefolgt von der Einführung echter On-Premise- und On-Device-(Offline-)Bereitstellungen. Diese lokalen Versionen nutzen Confidential Computing, um sicherzustellen, dass die Daten während der Verarbeitung isoliert und verschlüsselt bleiben.",
+ "id": "n-f5dbfdb346",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Speziell für stark regulierte Branchen wie Gesundheitswesen, Finanzwesen und Verteidigung konzipiert, in denen die cloudbasierte KI-Verarbeitung aufgrund von Compliance- oder Sicherheitsanforderungen eingeschränkt ist.",
+ "source_sha256": "069166b4b298b1f18df0fa18f0c8e0cc693ee710769093d3ebbfc923a308cfa8",
+ "summary": "ElevenLabs bietet unternehmenstaugliche lokale Bereitstellungsoptionen für seine generativen Sprachmodelle an, die hochwertige Sprachsynthese und -verarbeitung auf lokalen Servern oder Edge-Geräten ermöglichen. Die Lösung konzentriert sich auf Datensouveränität, extrem niedrige Latenz und die Unterstützung von Air-Gap-Umgebungen.",
+ "title": "ElevenLabs: On-Premise- und On-Device-Bereitstellung von Sprach-KI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

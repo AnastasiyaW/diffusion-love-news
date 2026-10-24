@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto evolucionó desde las primeras adaptaciones de la comunidad hasta la implementación estabilizada de Saganaki22, que incorporó soporte para SageAttention, optimizaciones de memoria para Windows y un etiquetado avanzado de diálogos para expresiones no verbales.",
+ "id": "n-661e84940d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Requiere PyTorch 2.8.0 o posterior; se recomienda instalar mediante ComfyUI Manager o usar la opción --no-deps para evitar conflictos de dependencias con el entorno principal de ComfyUI.",
+ "source_sha256": "de882ca356533eea6a617c4a9088bc21afb0493406b5f053b9ea647c2cf2aeb3",
+ "summary": "Una integración de ComfyUI para el modelo de clonación de voz sin entrenamiento previo (zero-shot) OmniVoice, que permite síntesis de texto a voz de alta calidad y diseño de voces dentro de flujos de trabajo basados en nodos. Admite más de 600 idiomas y alcanza factores de tiempo real tan bajos como 0,025.",
+ "title": "Nodos personalizados de OmniVoice para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

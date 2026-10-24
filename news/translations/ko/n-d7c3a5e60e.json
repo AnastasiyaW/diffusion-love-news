@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TRELLIS.2는 원본 2B 파라미터 버전을 계승하며, Omni-Voxel(O-Voxel)과 완전한 PBR(Physically Based Rendering) 지원을 도입했습니다. 해상도 처리 능력을 확장했고, 비다양체(non-manifold) 표면에 대한 기하학적 정확도를 개선했습니다.",
+ "id": "n-d7c3a5e60e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "shivampkumar/trellis-mac 저장소는 MPS 백엔드를 이용해 이 모델을 Apple Silicon으로 이식하며, 다만 텍스처 베이킹 등 일부 CUDA 전용 기능은 제한됩니다.",
+ "source_sha256": "1f34ba4a9e016de61ca71ffa9dff40e0e4c5f1d4c366e1720361d6d9808cec4b",
+ "summary": "이미지 또는 텍스트로부터 PBR 머티리얼을 갖춘 정교한 3D 에셋을 생성하는 4B 파라미터 파운데이션 모델입니다. 임의의 위상(topology)과 복잡한 표면 기하 구조를 처리하기 위해 Omni-Voxel 표현을 사용합니다.",
+ "title": "TRELLIS.2: Mac에서 구현하는 고충실도 3D 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

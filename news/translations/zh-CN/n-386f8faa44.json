@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "2026-06-29，Sonilo v1.1 开发进展被记录在一组链接中，包括 Sonilo 新闻链接、fal.ai 上 sonilo/v1.1/text-to-music 的链接，以及 Sonilo 平台链接。这组带日期的链接表明，一个带版本号的 Sonilo 文生音乐端点是本次里程碑的一部分；但未审阅帖子正文，也未核实任何功能或可用性细节。",
+ "title": "Sonilo v1.1 关联文生音乐端点",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

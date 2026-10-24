@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "El 2026-06-29 se registró la línea de desarrollo de Sonilo v1.1 con una URL de noticias de Sonilo, una URL de fal.ai para sonilo/v1.1/text-to-music y la URL de la plataforma de Sonilo. El conjunto de enlaces fechado identifica un endpoint versionado de texto a música de Sonilo como parte de este hito; no se revisaron el cuerpo de la publicación ni los detalles sobre funcionalidades o disponibilidad.",
+ "title": "Sonilo v1.1 vinculado a un endpoint de texto a música",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

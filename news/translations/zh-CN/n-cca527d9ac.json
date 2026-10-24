@@ -1,0 +1,11 @@
+{
+ "id": "n-cca527d9ac",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "对于托管模型,请保留现有的 API 集成,并将模型设置为 `deepseek-flash`;它会解析为当前的 V4.1 Flash 发布版本。\n\n如需本地实验,请安装更新版的 Transformers 和 Accelerate,然后通过官方文档中的 image-text-to-text 流水线或 `AutoModelForCausalLM` 路径加载 `deepseek-ai/DeepSeek-V4.1-Flash-1017`。\n\n在托管集成中,请使用稳定的 `deepseek-flash` API 名称,而不是在代码中嵌入 checkpoint 名称。这样无需更改调用格式,即可选中官方文档中标明的当前版本。\n\n自行部署时,请从官方文档记载的 Transformers 或 vLLM 加载路径开始,不要假定旧版 V4 Flash 的运行时配置可以原样使用。",
+ "source_sha256": "b51ed45801ff061b8a88221c7ff5f2e391feae5a9f8b6e4d2e70e49ea0899abf",
+ "summary": "DeepSeek-V4.1-Flash-1017 现已以 MIT 许可证的 Hugging Face checkpoint 形式提供,DeepSeek 表示其网页端、应用端和 API 部署现已使用更新后的版本。",
+ "title": "DeepSeek 发布 V4.1-Flash-1017 权重",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

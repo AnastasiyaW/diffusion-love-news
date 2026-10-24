@@ -1,0 +1,11 @@
+{
+ "id": "n-e69923fb8b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unter Linux mit Python 3.12 und uv die dokumentierte virtuelle Umgebung anlegen, das Paket im Editable-Modus installieren und die zugangsdatenfreie Demo ausführen, bevor ein Modell angebunden wird.\n\nFür einen modellgestützten Lauf die aufgeführten Laufzeit- und Benchmark-Abhängigkeiten installieren, Modelleinstellungen und Authentifizierung konfigurieren und dann mit einer einzelnen Benchmark-Aufgabe und einer kleinen Auswahl beginnen.\n\nCheck-, Refinement-, Judging- und Reporting-Schritte mit identischem Benchmark, Executor, Teilmenge, Rekursionsbudget, Modus und Seed ausführen; mit Dry-Run lässt sich die Aufgabenauswahl prüfen, ohne Modellaufrufe auszulösen.\n\nParallele Rekursion wählen, um Kandidaten-Harnesses breiter zu erkunden, oder sequenzielle Rekursion, um Verbesserungen über aufeinanderfolgende Schritte weiterzuführen; übernommene Harnesses nur zusammen mit der sie stützenden Ausführungsevidenz aufbewahren.\n\nNetzwerkbeschränkungen vor der Evaluation konfigurieren, damit öffentliche Benchmark-Rubriken, Antworten oder Bewertungskriterien nicht in einen Executor mit uneingeschränktem Webzugriff gelangen können.\n\nDie Evaluationskonfiguration beim Judging und Reporting identisch zum Refinement-Lauf halten; eine Änderung von Benchmark, Executor, Teilmenge, Rekursionsmodus, Budget oder Seed macht einen Vergleich unter gleichen Bedingungen ungültig.\n\nGrößere Rekursionsbudgets als expliziten Zielkonflikt zwischen Rechenaufwand und Leistung behandeln: Die Arbeit zählt sowohl Ausführungs- als auch Verbesserungs-Tokens, und ihre Gewinne wurden nur in den evaluierten Benchmark-Konfigurationen gemessen.",
+ "source_sha256": "f2a2ba802e0e0519b32a6dc609b19e33ecc1ac21e3f4221c3b8b877bd09eaf80",
+ "summary": "Das öffentliche Repository enthält eine lokale, deterministische Demo und eine dokumentierte Einrichtung für modellgestützte Benchmark-Läufe.",
+ "title": "Harness²-Quellcode unter Apache-2.0 verfügbar",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

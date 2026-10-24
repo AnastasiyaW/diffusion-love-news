@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Unity 6에서 베타 단계를 벗어나 핵심 기능으로서 프로덕션 준비 완료 상태가 되었습니다. Muse는 비디오-모션 및 텍스트-모션 기능을 추가했고, Sentis는 2026년 기준으로 변환 과정 없이 네이티브 PyTorch 및 LiteRT 모델 가져오기를 지원합니다.",
+ "id": "n-e60825c137",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unity Muse의 생성형 기능은 유료 구독이 필요한 반면, Unity Sentis는 엔진에 포함된 무료 런타임 도구로 로컬 AI 추론에 사용할 수 있습니다.",
+ "source_sha256": "872e45ee395359a8460a5d3f897a565b499ddfee8e668844bbb6f6187c91ef10",
+ "summary": "게임 개발을 위해 Unity 6에 통합된, 프로덕션에 바로 쓸 수 있는 AI 도구 모음입니다. 생성형 에셋 제작과 채팅 기반 어시스턴트 워크플로를 위한 Unity Muse와, 고성능 크로스 플랫폼 로컬 신경망 추론을 위한 Unity Sentis를 포함합니다.",
+ "title": "Unity AI (Muse & Sentis) for Unity 6",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

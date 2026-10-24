@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "LongCat-Next ging aus der LongCat-Flash-Reihe hervor und hat sich von einem sprachzentrierten Ansatz hin zu einem wirklich vereinheitlichten Any-to-any-Paradigma entwickelt. Es integriert den visuellen Tokenizer dNaViT und unterstützt Voice Cloning mit niedriger Latenz sowie die Generierung hochwertiger Medieninhalte.",
+ "id": "n-5d03d1bfa4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt das DiNA-Paradigma (Discrete Native Autoregression); technische Details sind im arXiv-Bericht 2603.27538 dokumentiert.",
+ "source_sha256": "90815d0592f8500f58a6350f5da245b89ddd022ce825e9eec07c595e3e1fa591",
+ "summary": "LongCat-Next ist ein nativ multimodales Any-to-any-Modell, das Text, Bilder und Audio in einem gemeinsamen Satz diskreter Tokens vereint. Entwickelt wird es von Meituan. Es nutzt eine Mixture-of-Experts-Architektur, um nahtloses Verstehen und Generieren über verschiedenartige Datentypen hinweg zu ermöglichen.",
+ "title": "LongCat-Next: Nativ multimodales MoE-KI-Modell",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

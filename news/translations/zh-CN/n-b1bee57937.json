@@ -1,0 +1,10 @@
+{
+ "id": "n-b1bee57937",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bed48dfd4907c01c24ae1e2bc85594de31786502308d27a23ddf321ed295d4cf",
+ "summary": "2026 年 5 月 13 日，该记录新增了指向 NVIDIA 托管的 Hugging Face 仓库的链接，这些仓库提供 Wan2.2 T2V A14B 的 FP8 和 NVFP4 Diffusers 变体。这是一个重要的量化步骤，因为它明确了可用于运行该项目的低精度模型变体。",
+ "title": "Wan2.2 T2V A14B 的 Diffusers FP8 与 NVFP4 变体已有文档说明",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

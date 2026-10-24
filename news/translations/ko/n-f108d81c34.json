@@ -1,0 +1,10 @@
+{
+ "id": "n-f108d81c34",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab1e0f01477501d19a37f2eca291be897ac8a6973d27c39319fc4d3ccd49f6cc",
+ "summary": "2026년 3월 17일, PixVerse는 이미지 및 비디오 생성 기능을 명령줄 인터페이스(CLI)를 통해 이용할 수 있다고 밝혔습니다. 연결된 ClawHub 항목을 보면, 이 인터페이스는 터미널 기반 워크플로에서 재사용할 수 있도록 배포된 것으로 보입니다. 이는 웹 중심 접근 방식에서 명령줄 사용으로 나아가는 의미 있는 전달 단계입니다.",
+ "title": "PixVerse, 터미널에서 사용할 수 있는 생성 인터페이스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

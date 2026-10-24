@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passé de simples scripts de sécurité à un framework robuste de méthodes formelles et de sécurité offensive. Parmi les ajouts notables figurent la vérification Rust basée sur Kani, Axiom pour la réparation de preuves en Lean 4, et l'environnement de pentesting isolé 'Kage'.",
+ "id": "n-8c91402db3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par workers.io ; installable directement via 'npx skills add workersio/spec' et incluant des commandes spécialisées telles que /fuzzer et /solana-audit.",
+ "source_sha256": "99d8c87cb47ab55ca544c213f1afc848d78f1b07137c5a4fd78bdc3605e366c7",
+ "summary": "Une suite haute performance de plugins de sécurité et de vérification formelle, conçue pour étendre la CLI Claude Code avec des workflows agentiques. Elle automatise des tâches complexes, notamment le fuzzing guidé par la couverture, les tests d'intrusion sandboxés sous Kali Linux et l'audit de smart contracts pour Solana.",
+ "title": "Spec Security Plugins pour Claude Code",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

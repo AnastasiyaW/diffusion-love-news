@@ -1,0 +1,10 @@
+{
+ "id": "n-97fff052b7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4bf2baa930bb274c138adc63be44d7746c584285ff75b3355aaa32111d89ef0a",
+ "summary": "El 2026-06-19, el hilo sobre AudioX enlazó la página del proyecto de AudioX-Turbo, su repositorio de código fuente y su página de modelo en Hugging Face, junto con la página del proyecto AudioX relacionada. Esto establece una referencia pública fechada a los recursos del proyecto, pero no establece una versión de lanzamiento, afirmaciones técnicas ni instrucciones de instalación.",
+ "title": "Se enlazaron los recursos públicos del proyecto y del modelo AudioX-Turbo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

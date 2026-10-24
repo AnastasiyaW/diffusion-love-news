@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement projet de 2025 centré sur le raisonnement collaboratif entre LLM, il a évolué au début de 2026 en plateforme de recherche autonome. Il prend désormais en charge une « organisation spontanée » dans laquelle les agents forment des alliances et affinent eux-mêmes leurs structures de collaboration afin de résoudre des tâches complexes d'ingénierie et de mathématiques.",
+ "id": "n-f771c01e06",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Obtention de nouveaux résultats SOTA en ingénierie de kernels et en optimisation mathématique, dont un gain de performance de 20 % par rapport aux références de niveau humain sur le benchmark de kernels d'Anthropic.",
+ "source_sha256": "a6fe1d72662debf7bed5c8d0f5c88b70f65ea88a8d25dcc46f5e0826ff74ee67",
+ "summary": "CORAL est un framework open source développé par Human-Agent-Society, conçu pour construire des organisations multi-agents à auto-évolution. Il permet à des agents autonomes de mener des expériences dans des worktrees isolés, tout en partageant un hub de connaissances persistant afin de favoriser la découverte scientifique ouverte et l'optimisation de systèmes.",
+ "title": "CORAL : infrastructure pour l'évolution autonome de systèmes multi-agents",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

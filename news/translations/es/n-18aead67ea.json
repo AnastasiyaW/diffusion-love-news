@@ -1,0 +1,10 @@
+{
+ "id": "n-18aead67ea",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ae48c2bb7856559f084fc06cb82b2138758cabb77c29768c95d64ae0117a7541",
+ "summary": "El 2026-03-30, esta línea de desarrollo registró una URL de Civitai específica por versión para el LoRA GalaxyAce, que identifica el modelo 2200329 y la versión 2808759. Proporciona un ancla de identidad fechada para esa versión del modelo, mientras que su contexto de lanzamiento, los detalles de entrenamiento y la compatibilidad siguen sin verificarse.",
+ "title": "Registrada una referencia de Civitai específica por versión para el LoRA GalaxyAce",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

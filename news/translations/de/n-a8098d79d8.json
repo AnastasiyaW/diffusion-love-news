@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aufbauend auf der Grundlage von CameraBench (2025) führte CHAI eine skalierbare Aufsichtsschleife und ein strukturiertes filmisches Vokabular ein. Die Entwicklung wird in Richtung Moodio und CameraBench-Pro für professionelle Filmproduktionsanwendungen fortgesetzt.",
+ "id": "n-a8098d79d8",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt mehr als 200 professionelle visuelle Grundelemente; die 8B-Modellvariante übertrifft größere proprietäre Systeme wie GPT-5 in bestimmten Captioning-Aufgaben deutlich.",
+ "source_sha256": "4cfff856b825c26c2cb8c50bceab7892631824c1048445e1fbe1c8cdd7afa408",
+ "summary": "Ein hochpräzises Framework zum Videoverständnis, das einen Human-in-the-Loop-Kritikprozess einsetzt, um KI-generierte Beschreibungen zu verfeinern. Es ist auf filmische Grundelemente wie Kamerabewegung und räumliche Dynamik spezialisiert und ermöglicht kompakten Modellen eine überlegene Genauigkeit.",
+ "title": "CHAI: Critique-basierte Mensch-KI-Aufsicht für Video-Captioning",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

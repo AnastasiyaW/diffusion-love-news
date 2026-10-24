@@ -1,0 +1,10 @@
+{
+ "id": "n-c2e38d5935",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a5dc02d5e6243ed80b70365568f6990d0b5ad8af8842b56a67eac80925e87bb1",
+ "summary": "2026-03-31 기준으로 해당 기록은 Base44 Superagent 페이지와 Base44 문서에 연결되어 있었다. 이는 그 날짜에 Superagent라는 이름이 붙은 Base44 화면이 참조되고 있었음을 보여준다. 다만 이 링크만으로는 제품 출시나 새로운 기능, 또는 해당 화면이 실제로 어떻게 사용되었는지는 확인되지 않는다.",
+ "title": "Base44의 Superagent 페이지와 문서가 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

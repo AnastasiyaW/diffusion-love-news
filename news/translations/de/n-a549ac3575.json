@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lyra 2.0 löst das ursprüngliche Lyra-Modell ab und entwickelt die feedforward-basierte Rekonstruktion weiter zu einer Schleife aus Abrufen, Generieren und Aktualisieren für die kontinuierliche Welterzeugung. Neu eingeführt wird selbstaugmentiertes Training, um zeitliche Drift zu verhindern, und unterstützt werden hochauflösende Exporte als 3D-Gaussian-Splatting-Daten.",
+ "id": "n-a549ac3575",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Integration mit NVIDIA Isaac Sim ermöglicht das Training von Embodied AI; enthalten ist außerdem eine interaktive GUI zur Planung von Kamerapfaden und zur Erkundung der Welt in Echtzeit.",
+ "source_sha256": "98560a687c15c55b3576e812df12069bc286334367f28cddf47cb12a479d91a6",
+ "summary": "Entwickelt vom Spatial Intelligence Lab von NVIDIA, erzeugt Lyra 2.0 aus einem einzelnen Bild persistente und explorierbare 3D-Umgebungen. Dabei kommt ein frameweiser 3D-Geometriespeicher zum Einsatz, der die räumliche Konsistenz während der Navigation über lange Zeithorizonte aufrechterhält.",
+ "title": "Lyra 2.0: Explorierbare generative 3D-Welten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

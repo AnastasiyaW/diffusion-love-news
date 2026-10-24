@@ -1,0 +1,10 @@
+{
+ "id": "n-f5a3ca876d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b73315b8e7c1fd4e9b3d8ad32bed6f7a5de843c96cbdedbe3d6e00d9833e7487",
+ "summary": "El 2026-03-26, la línea de desarrollo de Kimodo enlazó su página de investigación de NVIDIA, el repositorio de código fuente, la colección de modelos en Hugging Face y el Space de Hugging Face. En conjunto, estos recursos oficiales del proyecto establecen una superficie pública de implementación, distribución de modelos y demostración para Kimodo, lo que lo convierte en un hito de desarrollo significativo.",
+ "title": "Se anunciaron los recursos públicos del proyecto Kimodo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-3e5c539778",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ein 3D-Asset aus einer Textbeschreibung oder einem 2D-Bild-Prompt innerhalb von Tripo generieren.\n\nAutomatisierte Retopologie ausführen, um das dichte generierte Mesh in eine optimierte Quad- oder Triangle-Struktur mit benutzerdefinierten Polygonlimits umzuwandeln.\n\nAutomatisches UV-Unwrapping anwenden, um Seams zu berechnen, 2D-UV-Islands zu packen und Texturmaps auf das entfaltete Mesh neu zu backen.\n\nDas optimierte Asset im Format FBX, OBJ oder USD exportieren, zur Integration in Game-Engines oder digitale Content-Creation-Tools.\n\nZielwerte für die Polygonanzahl festlegen, bevor die Retopologie gestartet wird, damit die Asset-Dichte direkt auf die Performance-Budgets der Engine abgestimmt ist.\n\nDas erzeugte 2D-UV-Island-Layout und die Seam-Positionen über stark gekrümmten Bereichen prüfen, bevor die finalen Texturmaps gebacken werden.",
+ "source_sha256": "007560e49e3dcfd82aa51014a3f87ea18eff8491ad905d2c97c5ce55c602da42",
+ "summary": "Tripo hat den Early Access für automatisiertes UV-Unwrapping und Retopologie-Werkzeuge geöffnet. Sie integrieren die Umwandlung in Low-Poly-Meshes und die Erzeugung von UV-Layouts direkt in den 3D-Modellierungsworkflow.",
+ "title": "Tripo startet Early Access für UV-Unwrapping und Retopologie",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

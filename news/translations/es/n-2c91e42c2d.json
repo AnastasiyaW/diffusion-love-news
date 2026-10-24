@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aceptado en CVPR 2026; publicó en abril de 2026 el código, los pesos de BAGEL-7B-MoT y el benchmark 21-Tasks-Bench.",
+ "id": "n-2c91e42c2d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduce la recompensa CoT-Editing Consistency (CEC) y Flow-GRPO para cerrar la brecha entre el razonamiento del modelo y la salida a nivel de píxel.",
+ "source_sha256": "5911a7a66a1fd4304bcaa0475776407ccf9bff8530d1bb6ea9ae6d760f47fc39",
+ "summary": "Un marco de razonamiento jerárquico que descompone las instrucciones de edición de imágenes en tripletas estructuradas y en cinco metatareas fundamentales. Alinea modelos de lenguaje multimodales de gran tamaño con las salidas de modelos de difusión mediante aprendizaje por refuerzo, para lograr una generalización de última generación.",
+ "title": "Meta-CoT: Cadena de pensamiento jerárquica para la edición de imágenes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

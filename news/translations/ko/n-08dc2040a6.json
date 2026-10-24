@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "GaussianAvatars의 후속작으로, 단안 비디오로 학습할 때 정체성-포즈 얽힘(identity-pose entanglement)을 방지하기 위해 Bias Sinks를 도입했습니다. 연구 논문은 2025년 말에 공개되었으며, 공식 코드 저장소는 현재 전체 소스 코드 공개를 기다리고 있습니다.",
+ "id": "n-08dc2040a6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "뮤นิ크 공과대학교(Technical University of Munich, TUM)에서 개발되었습니다. 헤드 아바타 분야에서 Large Reconstruction Models(LRM)으로의 중요한 전환을 보여줍니다.",
+ "source_sha256": "6bfbc4dde96c5c9e8ae1369691ad4ec9180f6095f5e3c19b251191281d08d887",
+ "summary": "FlexAvatar는 단일 사진과 같은 희소한 입력으로부터 애니메이션 가능한 3D 헤드 아바타를 생성하는 최첨단 프레임워크입니다. 3D Gaussian Splatting과 새로운 Bias Sinks 메커니즘을 활용하여 다양한 단안(monocular) 및 다중 시점(multi-view) 데이터셋으로 학습할 수 있도록 합니다.",
+ "title": "FlexAvatar: Bias Sinks를 활용한 고충실도 3D 헤드 아바타",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

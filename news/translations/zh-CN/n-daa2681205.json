@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该模型已演进为一项应需求而来的标准功能，可集成到 Wan2GP 等主流视频生成流水线中。模型已从简单的前景移除，过渡到复杂的完整背景重建任务。",
+ "id": "n-daa2681205",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "推荐强度从 1.25 开始；在处理前将输入视频插帧至 50fps，性能可显著提升。",
+ "source_sha256": "b1d32b157b73ad1fe4ca0a25885cb0ac8b7a926024c2e6f20fb0d23843e8b8ab",
+ "summary": "一款专用于视频到视频编辑的 LoRA，通过去除植物、烟雾或雾霾等前景遮挡物来重建背景场景。它利用深度特征幻觉（deep feature hallucination）来填补被遮挡物体背后缺失的视觉信息。",
+ "title": "Obscura Remova LTX23 视频到视频 LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

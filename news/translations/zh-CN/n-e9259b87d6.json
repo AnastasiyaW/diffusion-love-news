@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工作发表于ICLR 2026，项目脱胎于苹果此前的DiffuCoder研究。官方ml-cadd代码仓库和模型检查点于2026年4月下旬发布，标志着该项目转变为稳定、可复现的研究平台。",
+ "id": "n-e9259b87d6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型基于Qwen2.5-Coder-7B架构构建；CADD方法被设计为正交的，可集成到其他掩码扩散框架中。",
+ "source_sha256": "a207be1630bc642870b7b23a529ebc68ff99eeb5fc881ecbd153961037e6542b",
+ "summary": "苹果推出的一款7B参数代码生成模型，采用连续增强离散扩散（CADD）进行分类生成建模。它在标准掩码扩散的基础上，于嵌入空间中加入连续的流匹配信号，以提升token预测的准确率。",
+ "title": "CADD-Base-7B：苹果推出的用于代码生成的掩码扩散模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

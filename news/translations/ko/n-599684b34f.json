@@ -1,0 +1,10 @@
+{
+ "id": "n-599684b34f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0ea1f64cb96001fb1f327f0c1fe872c93c09ac098c0266ca77a664894b581b4c",
+ "summary": "2026-06-13 기준으로 연결된 Google 자료들은 Gemini 3.5 Live Translate를 Gemini Live의 실시간 번역을 위한 프리뷰 모델로 명시했습니다. 날짜가 표시된 링크 묶음에는 Live API 가이드, AI Studio Live 프리뷰 URL, 그리고 LiveKit 및 Pipecat 연동 참고 자료도 포함되어 있어, 이번 발표는 의미 있는 개발 소식으로 볼 만합니다.",
+ "title": "Google, Gemini 3.5 Live Translate 프리뷰 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

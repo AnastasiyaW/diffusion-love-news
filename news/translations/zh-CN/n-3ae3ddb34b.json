@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "基础版 LTX-2.3 模型演进为蒸馏版 v1.1，其改进的 VAE 提升了纹理稳定性。目前的工作流程采用特定的“Gamma Trick”，以防止模型将深色阴影误判为需要外绘的区域。",
+ "id": "n-3ae3ddb34b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要使用纯黑色 (0,0,0) 进行掩码；在 ComfyUI 中广泛使用，并配有适用于低显存 GPU 的 GGUF/FP8 变体。",
+ "source_sha256": "0b554fd2c076dbfcf7c7fe2693151e40119da45de542839a767e5c30808036e8",
+ "summary": "一种面向 LTX-2.3 22B 模型的输入条件 LoRA，通过将黑色像素用作掩码哨兵来实现视频外绘（outpainting）。它能生成时间上稳定的内容，在扩展画布尺寸的同时保持原始场景的一致性。",
+ "title": "LTX-2.3-22b-IC-LoRA-Outpaint 视频帧扩展",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

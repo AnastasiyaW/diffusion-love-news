@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 v3에서 v11까지 발전해 왔으며, 바운딩 박스 드래그 앤 드롭 편집을 위한 특화 모델이 추가되었습니다. 이러한 업데이트는 특정 아키텍처 블록을 대상으로 삼아 정체성 고정을 개선하고, 대화형 Hugging Face Spaces에 통합되었습니다.",
+ "id": "n-e5bb396e69",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "최적 추론 강도는 0.65–0.75이며, 정체성 보존은 Klein 아키텍처의 더블 블록 6–7에 집중되어 있습니다.",
+ "source_sha256": "24ac5cc0d6fc5b1957b7bb4ea8cb3da2ec88d5ef306b7b3417b410a52a21776e",
+ "summary": "FLUX.2 [klein] 9B 모델을 위한 특화 LoRA로, 생성된 장면 안에서 객체를 정밀하게 대화형으로 이동할 수 있게 합니다. 바운딩 박스 또는 드래그 앤 드롭 워크플로를 사용해 공간 편집을 하는 동안 캐릭터 정체성과 질감 일관성을 유지합니다.",
+ "title": "FLUX.2 [klein] Move: 대화형 객체 위치 이동 LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

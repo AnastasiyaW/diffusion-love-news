@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "继 Cloudflare 于 2026 年初收购 Astro 之后，Flue 演变为一个原生适配 Cloudflare 的平台，利用 Workers AI 和 R2。它现已支持模型上下文协议（MCP），并针对自主 CI/CD 工作流提供了专门的模式。",
+ "id": "n-99e3cb59c2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用基于 Markdown 的配置文件（AGENTS.md）定义智能体行为，并通过 just-bash 支持高速虚拟沙箱。",
+ "source_sha256": "36751fe12b42059dac24099fafc0c4f5981ab45481830b99c27b44134c60ae90",
+ "summary": "由 Astro 团队开发的无头（headless）TypeScript 框架，专为构建和部署自主 AI 智能体而设计。它采用“智能体驾驭层”（agent harness）架构，将大语言模型与可编程逻辑以及虚拟沙箱环境结合起来。",
+ "title": "Flue — 面向自主 AI 智能体的 TypeScript 框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

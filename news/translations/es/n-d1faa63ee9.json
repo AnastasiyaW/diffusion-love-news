@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras su lanzamiento en abril de 2026, el proyecto añadió checkpoints preentrenados, guías de entrenamiento y un módulo de inferencia guiado por pose para un control avanzado del movimiento.",
+ "id": "n-d1faa63ee9",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por investigadores de la Universidad de Tsinghua; emplea un novedoso mecanismo de enrutamiento espacial para la síntesis a nivel de token.",
+ "source_sha256": "532642119a046abaf8a2942eb758cea43c851ea837cfaf33cb79b839429f9cab",
+ "summary": "CoInteract es un marco de IA para generar vídeos con interacciones realistas entre humanos y objetos, controladas mediante voz y disposiciones espaciales. Utiliza un mecanismo de mezcla de expertos (MoE) consciente de la presencia humana para sincronizar los movimientos humanos con las interacciones con objetos.",
+ "title": "CoInteract: generación de vídeo de interacciones interactivas entre humanos y objetos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

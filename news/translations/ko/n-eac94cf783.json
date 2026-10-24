@@ -1,0 +1,10 @@
+{
+ "id": "n-eac94cf783",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "15343093560a4f0c2c8c9d9ea6e90b55bd09bee01b358f445464d87e4cd398c5",
+ "summary": "2026-06-30, 개발 라인은 North-Mini-Code-1.0과 w4a16 변형 모델의 Hugging Face 페이지를 가리킨다. 기본 모델 아티팩트와 별도로 이름이 붙은 변형 모델을 함께 명시한다는 점에서 North Mini Code 라인의 중요한 배포 단계이다.",
+ "title": "CohereLabs가 Hugging Face에 North Mini Code 1.0 모델 페이지를 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

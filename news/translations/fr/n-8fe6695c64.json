@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "S'appuyant sur les travaux initiaux de ThinkSound, PrismAudio introduit des modules CoT spécialisés pour les caractéristiques audio sémantiques, temporelles, esthétiques et spatiales, optimisés par apprentissage par renforcement via Fast-GRPO afin d'améliorer l'alignement sur la perception humaine.",
+ "id": "n-8fe6695c64",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Accepté à ICLR 2026 ; capable de générer 9 secondes d'audio spatial haute fidélité en moins de 0,7 seconde, tout en réduisant les hallucinations fréquentes dans les modèles monolithiques.",
+ "source_sha256": "0ac2a3d54994243ec7f7338959afbfd0787121c2f5777b7b9c4682a7cc1cfdb8",
+ "summary": "Un cadre de pointe permettant de générer des effets sonores stéréo synchronisés à partir de vidéos, grâce à un raisonnement en chaîne de pensée (Chain-of-Thought) décomposé selon quatre dimensions. Développé par l'équipe FunAudioLLM d'Alibaba, il s'appuie sur l'apprentissage par renforcement pour garantir une grande précision perceptuelle et un bon alignement temporel.",
+ "title": "PrismAudio : génération audio à partir de vidéo via une chaîne de raisonnement (CoT) décomposée",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

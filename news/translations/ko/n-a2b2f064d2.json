@@ -1,0 +1,10 @@
+{
+ "id": "n-a2b2f064d2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8ced0c9c4af0b3a91dfa2e712dbc580c9abe35b1c706af8d2576aeed2f07a74c",
+ "summary": "2026-03-11, agent_tools 스레드에 HKUDS/CLI-Anything GitHub 저장소가 링크되었다. 이로써 검토된 출처에서 해당 프로젝트에 대한 날짜가 명시된 참조가 확인된다. 현재 확보된 근거만으로는 릴리스, 버전, 기능 변경 또는 기타 프로젝트 이정표를 확인할 수 없다.",
+ "title": "agent_tools 스레드에 공유된 CLI-Anything GitHub 저장소",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

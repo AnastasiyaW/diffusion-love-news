@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Derzeit wird das Framework von der Feinabstimmung statischer Bild-Diffusionsmodelle auf Videogenerierungsmodelle erweitert; vollständiger Trainingscode und Multi-Node-Skripte werden veröffentlicht.",
+ "id": "n-06b8f54c97",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aufbauend auf DiffusionNFT; verwendet den Multiple Gradient Descent Algorithm (MGDA), um konfligierende Belohnungsgradienten zu harmonisieren.",
+ "source_sha256": "2b82737cd05a9285b97a889994964999a133a006aba6cd9002e05afd87c53056",
+ "summary": "MARBLE ist ein Reinforcement-Learning-Framework, das entwickelt wurde, um Diffusionsmodelle feinzujustieren, indem es mehrere Qualitätskriterien gleichzeitig ausbalanciert. Anstelle einer manuellen Gewichtung der Belohnungen setzt es auf eine Harmonisierung im Gradientenraum, um Ästhetik, Textausrichtung und Sicherheit in einem einzigen Trainingslauf zu verbessern.",
+ "title": "MARBLE: Ein Reinforcement-Learning-Framework für Multi-Aspect-Diffusion-Alignment",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

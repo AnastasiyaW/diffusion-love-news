@@ -1,0 +1,10 @@
+{
+ "id": "n-f49e4ee649",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4f000a7ccfa44647302e848b920dfb2d86f1fca88069f1b9e2abb4a1ddb3aa7c",
+ "summary": "2026-03-15, Reka Edge는 전용 Reka 앱 페이지를 통해 Reka의 채팅 개요 문서 및 연결된 외부 리소스와 함께 소개되었다. 이는 Reka Edge에 대해 의미 있는 진전으로, 이름이 지정된 제품을 접근 가능한 제품 화면 및 사용 문서와 연결한다는 점에서 중요하다. 정확한 기능, 출시 상태, 그리고 외부 링크의 내용은 아직 검증되지 않았다.",
+ "title": "Reka Edge, 채팅 문서 및 연결된 모델 리소스와 함께 공개되다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

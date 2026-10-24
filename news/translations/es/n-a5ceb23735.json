@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzamiento inicial en abril de 2026; el proyecto evidencia un cambio hacia el uso de generadores de vídeo como Wan2.1 como base para la inteligencia multimodal, en lugar de ampliar modelos de lenguaje de gran tamaño.",
+ "id": "n-a5ceb23735",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construido sobre la arquitectura Wan2.1 Diffusion Transformer; introduce expertos especializados de Red Feed-Forward (FFN) para manejar distintas modalidades dentro de un único flujo.",
+ "source_sha256": "48b4fae559d1cf78c6fa50573a69ed312d081434d15e50ea31526e60e540c7f4",
+ "summary": "Uni-ViGU es un marco unificado que amplía un generador de vídeo basado en difusión para realizar tanto tareas de generación como de comprensión de vídeo. Utiliza una arquitectura de Mezcla de Expertos guiada por modalidad y un mecanismo unificado de flow matching para integrar las modalidades continua (vídeo) y discreta (texto).",
+ "title": "Uni-ViGU: generación y comprensión de vídeo unificadas",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

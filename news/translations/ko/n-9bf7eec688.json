@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "이 뉴스 게시물은 텍스트 렌더링과 일관된 편집에 중점을 둔 Qwen-Image를 소개했으며, 연결된 저장소, 가중치, 데모 페이지를 함께 안내했다.",
+ "id": "n-9bf7eec688",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "10c1544c89ea9a8d439a9a0fe69437aa1a1ba043df249af39c932da81d2ea13b",
+ "summary": "이 뉴스 게시물은 텍스트 렌더링과 일관된 편집에 중점을 둔 Qwen-Image를 소개했으며, 연결된 저장소, 가중치, 데모 페이지를 함께 안내했다.",
+ "title": "Qwen-Image, 네이티브 텍스트 렌더링 기능과 함께 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

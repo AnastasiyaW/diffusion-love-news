@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von einem forschungsorientierten Python-Skript zu einer nativen C++-Laufzeitumgebung mit Hardwarebeschleunigung. Unterstützt werden nun NVIDIA TensorRT unter Windows und Apple Silicon über MLX, mit vollständiger Integration in moderne NLEs wie DaVinci Resolve 19.",
+ "id": "n-169e12a080",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Alexandre Alvaro in Zusammenarbeit mit Corridor Digital. Enthalten sind eine eigenständige Desktop-GUI und eine CLI für die Stapelverarbeitung.",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "Eine native, KI-gestützte Lösung zum Green-Screen-Keying, die für leistungsstarke lokale Ausführung ausgelegt ist. Sie bietet Matting in professioneller Qualität als OFX-Plugin für DaVinci Resolve und Foundry Nuke und macht komplexe Python-Umgebungen überflüssig.",
+ "title": "CorridorKey-Runtime: KI-gestützter Green-Screen-Keyer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

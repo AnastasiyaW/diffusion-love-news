@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CuTR 아키텍처를 기반으로 Boxer는 견고성 향상을 위해 aleatoric uncertainty와 median depth patch encoding을 도입했다. 2026년 초 공개 이후에는 Boxer3D라는 이름으로 모바일 기기에 이식되었으며, iOS에서 실시간 3D 객체 검출을 위해 YOLO11을 활용한다.",
+ "id": "n-2938402642",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트에는 122만 개의 고유한 3D 바운딩 박스로 구성된 대규모 데이터셋이 포함되어 있으며, Project Aria 안경 및 ScanNet과의 통합을 지원한다.",
+ "source_sha256": "59be5c9dc08f7bb5be995b8fd6475d2a66af0991c1152899063eccff1a0b2219",
+ "summary": "Meta Reality Labs의 연구 프로젝트로, 포즈가 주어진 이미지와 선택적 희소 깊이(sparse depth)를 사용하여 오픈 어휘(open-vocabulary) 2D 객체 검출 결과를 전역적으로 일관된 3D 방향성 바운딩 박스로 리프팅한다. 트랜스포머 기반 네트워크인 BoxerNet을 적용해 에고센트릭 및 실내 데이터셋 전반에서 7-DoF 박스를 예측한다.",
+ "title": "Boxer: 오픈 월드 2D-to-3D 바운딩 박스 리프팅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

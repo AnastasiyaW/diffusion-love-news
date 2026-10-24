@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt hat die großskalige neuronale Kartierung des Mondes vorangebracht und beeinflusste nachfolgende spezialisierte Frameworks wie Moon-GS und AstroSplat, die auf spärliche Aufnahmen von Rover-Daten und auf die planetare Reflektanz optimiert sind.",
+ "id": "n-60f7bb3300",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erstellt von Nicolas Diolez auf Grundlage von über 300 NASA-Fotos, verarbeitet mit RealityScan und LichtFeld Studio; gehostet auf PlayCanvas SuperSplat.",
+ "source_sha256": "f082fe32a17ac0dc0195876a14fc737b2fd85877501d403db83e35ebe0d4da55",
+ "summary": "Eine hochauflösende 3D-Gaussian-Splatting-Rekonstruktion der Mondoberfläche auf Basis von Bildmaterial der NASA-Mission Artemis II. Sie ermöglicht eine interaktive, detailreiche 3D-Visualisierung und zeigt das Potenzial von Neural Rendering für die Planetenforschung.",
+ "title": "3DGS-Rekonstruktion der Mondoberfläche (NASA Artemis II)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

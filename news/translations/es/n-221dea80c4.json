@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Actualizado en abril de 2026 con TTRL en streaming para el ajuste de estrategia en tiempo real y publicado como skill en Clawhub. El repositorio de código incluye ahora un pipeline de entrenamiento completo con veRL, así como modelos preentrenados y benchmarks.",
+ "id": "n-221dea80c4",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado conjuntamente por ECNU y el Shanghai Institute of Intelligence para abordar la saturación del contexto en flujos de trabajo de investigación complejos.",
+ "source_sha256": "18f37a4bef89f1d707607e20deb50d92366df13a71bef7c8a161f2468458026a",
+ "summary": "Un sistema especializado de gestión de memoria para agentes de IA de investigación profunda que utiliza una arquitectura de tres niveles Manager-Planner-Executor. Optimiza el razonamiento con contexto largo pasando del almacenamiento pasivo a la planificación estratégica activa mediante Continual Test-Time Learning.",
+ "title": "MIA: Memory In Intelligence Agent Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

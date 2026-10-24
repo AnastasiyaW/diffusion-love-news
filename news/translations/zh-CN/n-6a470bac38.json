@@ -1,0 +1,10 @@
+{
+ "id": "n-6a470bac38",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1c56899a2bcdf57698b1bf60de7f4da3e924541a93940088b54a8ab8da112acf",
+ "summary": "2026-07-01，一个 Hugging Face 仓库公开了面向 Flux2-Klein-9B True V3 的 INT8 ConvRot 检查点。相关日期链接还关联到一个专注于 ComfyUI 的 INT8 集成仓库，标志着本地推理用户在分发方面迈出了实用的一步。",
+ "title": "INT8 版 Flux2-Klein 检查点及 ComfyUI 集成已可用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

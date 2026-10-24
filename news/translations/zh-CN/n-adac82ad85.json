@@ -1,0 +1,11 @@
+{
+ "id": "n-adac82ad85",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "从 Hugging Face 或 ModelScope 上的 InternScience/Sage-A1.5 仓库下载模型权重。\n\n使用 vLLM 或 SGLang 部署模型，采用标准的 Qwen MoE 架构配置，以暴露与 OpenAI 兼容的 API 端点。\n\n在智能体执行运行时中启用子智能体派生功能，使模型能够在隔离的上下文中并行处理子任务。\n\n在生成参数或系统提示词中启用原生验证，使模型在复杂的执行轨迹中进行自我审查和错误恢复。\n\n对并行的调查分支使用隔离的子智能体上下文，以防止中间阶段嘈杂的工具输出干扰根智能体。\n\n在处理超出原生 256K 令牌上下文窗口的代码仓库或科学文献集合时，应用 YaRN 上下文扩展参数。\n\n使用 SGLang 或 vLLM 部署 FP8/INT4 量化版本，在保持 MoE 路由效率的同时降低显存占用。",
+ "source_sha256": "f1deef105e5981b35e4c995753350ecc082e91e879a4dfe76659f2a38125f8f9",
+ "summary": "InternScience 团队发布了 Sage-A1.5 的模型权重。该模型具备 256K 上下文窗口，通过 YaRN 可扩展至 512K，内置思维链自我纠错机制，并提供与 OpenAI 兼容的服务配置。",
+ "title": "Sage-A1.5 在 Hugging Face 发布，原生支持智能体自我验证",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

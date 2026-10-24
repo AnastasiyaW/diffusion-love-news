@@ -1,0 +1,10 @@
+{
+ "id": "n-5b5558fedd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b6af61f73c1469e6ea14fe5e772ffae0ad2a47fc718cd69cbea87ea24ca68387",
+ "summary": "2026-07-08, ThinkingCap-Qwen3.6-27B 및 여러 대체 배포 형식의 공개 저장소가 연결되었습니다. 연결된 형식에는 GGUF, NVFP4, int4 AutoRound 변형이 포함되며, 이는 해당 모델 라인과 관련 배포 옵션이 공개적으로 제공되었음을 나타냅니다.",
+ "title": "ThinkingCap-Qwen3.6-27B 저장소와 배포 변형들이 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

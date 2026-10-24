@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从一组实用工具节点集合，发展为面向 LTX-Video 的完整训练生态系统，并引入了条件安全的 LoRA，以及与 MOSS-TTS 的集成，以支持音视频同步工作流。",
+ "id": "n-c66b8c38b0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目采用 RichServo 自主开发的无状态 PyTorch 自定义优化器 Rose，与 8-bit AdamW 相比，可显著降低内存开销。",
+ "source_sha256": "a7698278459a152263fb6e53bfa33bddbe35a0a724a5e338e9214ec104e94ae1",
+ "summary": "一套面向高性能视频生成与显存高效 LoRA 训练优化的 ComfyUI 自定义节点，专为 LTX-Video 模型设计。其核心是专有的 Rose 优化器，最低仅需 11GB 显存的消费级 GPU 即可完成训练。",
+ "title": "RS Nodes：面向视频的 ComfyUI LoRA 训练",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

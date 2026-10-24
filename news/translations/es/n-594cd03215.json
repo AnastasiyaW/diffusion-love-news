@@ -1,0 +1,10 @@
+{
+ "id": "n-594cd03215",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2e36494a9bdeb49b8309cfa91170faec19fd22c3ebb1acfcc9e37d383ecfa4a6",
+ "summary": "El 22 de julio de 2026, Mage-Flow se presentó mediante documentación del proyecto enlazada y un repositorio de código público. El mismo conjunto de enlaces, con fecha, incluía páginas de descubrimiento y demostración en Hugging Face, lo que indica un punto de acceso disponible para el desarrollo y la evaluación del proyecto. Los enlaces proporcionados, por sí solos, no establecen una versión de lanzamiento precisa, afirmaciones técnicas ni resultados de benchmark.",
+ "title": "Los recursos del proyecto Mage-Flow quedaron disponibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

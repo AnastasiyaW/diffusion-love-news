@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Sapiens2 escala el proyecto original de 2024 a 1000 millones de imágenes de entrenamiento y 5000 millones de parámetros. Introduce la estimación de pointmaps y de albedo, junto con mejoras significativas en el rendimiento en las tareas de pose y segmentación.",
+ "id": "n-aa28911ec6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El modelo sigue 308 puntos clave y se publica bajo la Sapiens2 License, con los pesos disponibles en Hugging Face.",
+ "source_sha256": "a8f67d0fbec944da4fb15707439905db0052aba09b93c6a978f6156f012651b7",
+ "summary": "Sapiens2 es una suite de modelos fundacionales de Meta AI diseñada para la reconstrucción y el análisis precisos del cuerpo humano a partir de imágenes individuales. Admite la estimación de pose 2D, la segmentación de partes del cuerpo, las normales de superficie y la recuperación de geometría 3D con resolución de hasta 4K.",
+ "title": "Sapiens2: los modelos fundacionales de Meta para visión centrada en el ser humano",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

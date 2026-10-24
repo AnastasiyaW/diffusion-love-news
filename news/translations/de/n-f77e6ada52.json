@@ -1,0 +1,10 @@
+{
+ "id": "n-f77e6ada52",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "256ddf1659655dbc76b65a0b11d715cb1a6290f85dfbf55ba1545de8af42de38",
+ "summary": "Am 24.08.2026 enthielt die Entwicklungslinie von macOS Harness einen Verweis auf das GitHub-Repository browser-use/macos-harness. Die gesicherten Belege belegen Datum und Repository-Verweis, nicht aber ein Release, eine Implementierungsänderung oder die Reife des Projekts. Dieses Verlaufsereignis dokumentiert ausschließlich den datierten Repository-Verweis.",
+ "title": "macOS Harness: GitHub-Repository verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

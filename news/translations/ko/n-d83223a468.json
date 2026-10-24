@@ -1,0 +1,10 @@
+{
+ "id": "n-d83223a468",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "52e52016c5ecc9b6dbb78b169482ec70d13d7eb35a7c8a7177d6779081bc5ff4",
+ "summary": "2026-06-29에 Qwen3.6-34B-80L-Fable-5-Heretic의 Hugging Face 모델 페이지가 링크되었다. 함께 제시된 Hugging Face 검색 링크는 이 모델명을 양자화된 기반 모델(quantized base model) 필터와 연결해 보여주었다. 이는 해당 프로젝트의 배포 측면에서의 이정표이지만, 그 내용, 저작자, 릴리스 세부 사항, 기술적 변경 사항은 아직 검증되지 않았다.",
+ "title": "Hugging Face에 기록된 Qwen3.6-34B-80L-Fable-5-Heretic 모델 페이지",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

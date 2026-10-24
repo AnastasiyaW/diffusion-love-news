@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seleccionado como Highlight de CVPR 2026, el proyecto se lanzó formalmente en abril de 2026. Representa un cambio importante, al pasar de canalizaciones desarticuladas de dos etapas a una arquitectura unificada basada en difusión, con el código de inferencia público y los pesos publicados en mayo de 2026.",
+ "id": "n-e33dfb0bdb",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el SNU Visual Computing Lab; utiliza un método novedoso de supervisión mediante tripletes sintéticos para entrenar con datos no emparejados.",
+ "source_sha256": "2fab6617fedcc7b173781496aab260be69beb80a44253849142804e2908a811c",
+ "summary": "Vanast es un marco de una sola etapa que unifica la prueba virtual de ropa de cuerpo completo con la animación humana guiada por pose. Genera vídeos de alta fidelidad directamente a partir de la imagen de una persona, las prendas de entrada y las secuencias de movimiento, garantizando la consistencia temporal y la preservación de la identidad.",
+ "title": "Vanast: Unified Human Animation and Virtual Try-On",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

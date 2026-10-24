@@ -1,0 +1,10 @@
+{
+ "id": "n-0a5ac285d9",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8d009722d533a836a3b058385fe092ed669058c51b978406c69df55ef2f0a5a6",
+ "summary": "2026-07-16 기준 Bonsai 27B는 PrismML 뉴스 페이지, GitHub 데모 저장소, Hugging Face 컬렉션과 연결되어 있다. 이 날짜가 명시된 링크들은 프로젝트 정보, 데모 코드, 모델 리소스를 잇는 공개 개발 이정표를 보여준다. 기저 자료를 조사하지 않았으므로 기술적 역량, 버전, 출시 상태에 대해서는 어떠한 주장도 하지 않는다.",
+ "title": "Bonsai 27B, 공개 프로젝트·데모·모델 컬렉션 진입점 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

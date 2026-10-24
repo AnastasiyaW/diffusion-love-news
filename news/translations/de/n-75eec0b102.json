@@ -1,0 +1,10 @@
+{
+ "id": "n-75eec0b102",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "54bc94f452e4a89bfffb6b4a898f5fd30f52b32a10f7083927df978fa6335a8b",
+ "summary": "Am 08.06.2026 wurde die WavTTS-Entwicklungslinie mit Links zu ihrer Projektwebsite, ihrem Quellcode-Repository, ihrer Modellseite, einer Demo und einer ComfyUI-Integration erfasst. Dies liefert einen datierten öffentlichen Bezugspunkt, um das Projekt und die zugehörigen Werkzeuge aufzufinden. Die vorliegenden Belege lassen nicht erkennen, welches Release oder welche Codeänderung die Links gegebenenfalls begleitet hat.",
+ "title": "WavTTS: Öffentliche Projektressourcen wurden erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

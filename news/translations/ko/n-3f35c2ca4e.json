@@ -1,0 +1,10 @@
+{
+ "id": "n-3f35c2ca4e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6c587a66caac966afb77150fdd1039e067873f84dd281706e4947bfcaf33bcae",
+ "summary": "2026-03-31에 해당 기록은 Qwen 3.6 Plus Preview를 무료 엔드포인트로 표시된 OpenRouter URL과 연결했습니다. 이 제안은 검증된 모델 출시가 아니라 날짜가 기록된 공개 가용성 신호를 기록하자는 것입니다. 제출된 근거만으로는 운영 주체, 기능, 이용 약관, 그리고 해당 날짜에 엔드포인트가 실제로 가동 중이었는지 여부를 확인할 수 없습니다.",
+ "title": "Qwen 3.6 Plus Preview의 OpenRouter 공개 가용성 신호",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

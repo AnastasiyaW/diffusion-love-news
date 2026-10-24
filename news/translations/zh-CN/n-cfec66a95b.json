@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已从研究原型演进为具备 MCP 集成的生产级本地服务。目前支持 Claude Code 和 Gemini CLI 等主流智能体平台，并为智能体所做的编辑提供深度可追溯能力。",
+ "id": "n-cfec66a95b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "使用模型上下文协议（Model Context Protocol，MCP）向智能体暴露工具；部署通过 'aose-main' npm 包进行管理。",
+ "source_sha256": "b577bc25e3e52600334b70504210960a31892d9bf919a8a0a00c0daa5feb0f1a",
+ "summary": "一款本地优先的办公套件，专为人类与 AI 智能体在文档、数据库、幻灯片和流程图之间的实时协作而设计。智能体可以直接与实时对象交互，而不是仅通过静态聊天消息；并具备完整的、可追溯到智能体的版本历史。",
+ "title": "AgentOfficeSuite（AOSE）——面向人类与 AI 智能体的协同办公套件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

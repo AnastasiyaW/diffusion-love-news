@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt entwickelte sich von einfachen Stiltransfers zu einem ausgereiften IC-LoRA, das bestimmte Aktionsverben erkennt (Add, Remove, Replace, Convert). Derzeit wird es durch verlängerte Trainingsschritte verfeinert, um die zeitliche Konsistenz und die Prompt-Treue zu verbessern.",
+ "id": "n-69cc1d969e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimale Ergebnisse erfordern bestimmte Prompt-Strukturen und CFG-Einstellungen (typischerweise CFG 1.0); häufig wird es mit spezialisierten ComfyUI-Workflows für den Betrieb mit wenig VRAM gebündelt.",
+ "source_sha256": "ff7213b93084a20c6c2821564901b2296d2539cf8bda7387d186b7e5fe90afae",
+ "summary": "Ein experimentelles In-Context-LoRA für das Videomodell LTX-2.3, das promptgesteuerte Videobearbeitung ermöglicht. Nutzer können mit gezielten natürlichsprachlichen Anweisungen Objekte hinzufügen, entfernen oder ersetzen sowie Stile verändern – ohne manuelles Maskieren.",
+ "title": "LTX-2.3 EditAnything IC-LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

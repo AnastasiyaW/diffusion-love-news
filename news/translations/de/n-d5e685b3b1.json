@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hat sich von der 1.5-Serie zu einer leistungsorientierten Architektur entwickelt, die auf traditionelles SSML verzichtet und stattdessen auf intuitive, szenenbasierte Beschreibungen setzt. Sie markiert einen Wandel hin zu kontextbezogener stimmlicher Meisterschaft und Skalierbarkeit auf Unternehmensniveau.",
+ "id": "n-d5e685b3b1",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integriert SynthID zur Nachverfolgung von Inhalten und bietet über 200 Tags für feingranulare Steuerung von Emotion und Rhythmus.",
+ "source_sha256": "2d7fcbb50c980d8605e3a3b94b947a54d155481ffc8ea7e0f54dfa607083a432",
+ "summary": "Ein fortschrittliches Text-to-Speech-Modell von Google, das durch natürlichsprachliche Prompts und Inline-Emotions-Tags eine „gerichtete Darbietung“ ermöglicht. Es unterstützt hochpräzise, latenzarme Audiogenerierung mit nativen Fähigkeiten für Dialoge mehrerer Sprecher für interaktive Anwendungen.",
+ "title": "Gemini 3.1 Flash TTS: Präzise Sprachsteuerung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

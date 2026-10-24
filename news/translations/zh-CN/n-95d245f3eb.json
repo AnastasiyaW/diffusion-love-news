@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已从模块化的基于技能的 harness 转变为默认捆绑的自主平台。最新更新引入了看板式多智能体编排，以及跨会话的持久化目标跟踪。",
+ "id": "n-95d245f3eb",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该系统包含自动化硬件检查，并可对复杂的 ComfyUI 自定义节点进行自愈式依赖管理。",
+ "source_sha256": "160ad8888dc434392e1d4cbe562bdc09521e85bc0cb0909710c64c7ffeaf4655",
+ "summary": "由 NousResearch 开发的开源自主智能体框架，专为复杂任务编排而设计。它与 ComfyUI 深度集成，支持以自然语言控制基于节点的图像和视频生成工作流。",
+ "title": "Hermes Agent：自主创意工作流系统",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé en avril 2026 après avoir pris la tête des benchmarks mondiaux de génération de vidéo à partir de texte sous le pseudonyme « HappyHorse-1.0 ». Il marque le passage de la génération de vidéos courtes à la simulation environnementale persistante et en temps réel.",
+ "id": "n-5e1a256a5e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Capable de générer jusqu'à 3 minutes de vidéo continue avec un son synchronisé, tout en modélisant des propriétés physiques telles que la gravité et l'éclairage.",
+ "source_sha256": "a0b625c7f2f59f2b792f5514b980eb82167acf06856d0034de4a863e234e8308",
+ "summary": "Un modèle de monde avancé développé par Alibaba, qui simule en temps réel des environnements virtuels interactifs et infinis, dotés d'une physique cohérente. Il prend en charge à la fois un mode d'exploration à la première personne et un mode réalisateur permettant de contrôler en direct les scènes et les personnages.",
+ "title": "Happy Oyster : le modèle de monde interactif en temps réel d'Alibaba",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

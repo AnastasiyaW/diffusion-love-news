@@ -1,0 +1,10 @@
+{
+ "id": "n-2facb069d0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7106aa3eb6be4ce85f96a96f0be6be3dd08f165729fe44b7f32cd4b92626318e",
+ "summary": "2026-08-06, 날짜가 기록된 개발 라인 항목은 MiniMax-H3 Turbo LoRA 모델 리소스를 데모 Space, ComfyUI 통합 저장소, 그리고 ComfyUI 지향 모델 리소스와 연결했다. 이는 모델 배포, 데모, ComfyUI 활용을 아우르는 접근 가능한 워크플로가 확립되었다는 점에서 의미 있는 진전이다. 다만 연결된 리소스만으로는 각 리소스의 개별 출시일, 버전, 제작자, 성능 주장은 확인되지 않는다.",
+ "title": "MiniMax-H3 Turbo LoRA 리소스 번들 문서화",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-66869cc4a0",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Abre el ElevenCreative Music Video Editor, sube un vídeo y genera una banda sonora con efectos de sonido; opcionalmente, usa el audio existente del vídeo como referencia para la música.\n\nRevisa los efectos de sonido como capas separadas de la línea de tiempo, ajusta la sincronización o sustituye la música y, después, exporta el resultado.\n\nPara crear música fuera del flujo de trabajo de vídeo, describe el género, el estado de ánimo, la instrumentación, la estructura y el uso previsto en un prompt en lenguaje natural; luego edita las secciones o regenera.\n\nUtiliza un prompt detallado que combine género, estado de ánimo, instrumentación, tempo y caso de uso, en lugar de una etiqueta de género genérica.\n\nPara composiciones largas, genera y aprueba primero una introducción, después construye las secciones sucesivas y refina los prompts en lugar de volver a empezar toda la pista.\n\nUtiliza capas de efectos de sonido separadas para comprobar la sincronización de los cues y revisar momentos concretos antes de exportar.",
+ "source_sha256": "072a78b651bfd1a26e511f373b87868ff5812d6f0d4b42eeb602ae015a308cfd",
+ "summary": "Instant Soundtracks genera una banda sonora y efectos de sonido con marcas de tiempo a partir de un vídeo subido, expone los efectos como capas editables y puede devolver archivos separados de música y de efectos de sonido a través de la API.",
+ "title": "ElevenLabs añade Instant Soundtracks para vídeo subido",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

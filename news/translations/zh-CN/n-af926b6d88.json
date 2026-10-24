@@ -1,0 +1,10 @@
+{
+ "id": "n-af926b6d88",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a9736fda5d51340abc4525768e4277aa900ea61f60a6b88ea8256b5ceafdf41d",
+ "summary": "2026年7月31日，Qwen Audio 开发线与阿里云 Model Studio 的三份 Fun ASR API 参考文档相关联，分别涵盖实时识别、录音文件 HTTP 识别和非实时识别。此记录仅代表一个 API 文档参考节点，并非经过验证的模型发布或能力变更。",
+ "title": "Qwen Audio 语音识别 API 参考文档已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

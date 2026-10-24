@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于2026年4月正式发布；作为一种最先进的免训练方法确立下来，它通过解决信号渗漏（signal bleeding）和信号衰减（fading）问题，改进了 Wan-Edit 基线。它延续了 CUC-MIPG 此前的研究，包括 Edit-Transfer 和 IC-Effect。",
+ "id": "n-a74ee42caa",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该框架专门针对多目标和快速运动场景中的挑战，这些场景下传统的基于反演的方法往往失效或效率低下。",
+ "source_sha256": "9db928760533f732082915319093a0b5058fbb17aef0bff28f74ebc3ba99c209",
+ "summary": "FlowAnchor 是一个免训练、无需反演的视频编辑框架，专为高质量的视频到视频变换而设计。它利用空间感知的注意力精修和自适应幅度调制，以确保时间一致性和精确的编辑信号。",
+ "title": "FlowAnchor：无需反演的稳定视频编辑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

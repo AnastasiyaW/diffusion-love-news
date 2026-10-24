@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde zu einem breiteren Ökosystem erweitert, zu dem ClawsBench für die Sicherheit bei Büroproduktivität, WildClawBench für hochschwierige Agentenaufgaben „in the wild“ und ResearchClawBench für autonome wissenschaftliche Entdeckung gehören.",
+ "id": "n-c15c8a5410",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Der Benchmark fällt dadurch auf, dass er auf live betriebenen, sich ständig verändernden Websites arbeitet und nicht auf statischen Momentaufnahmen, und dass er einen Request Interceptor verwendet, der den abschließenden Absendeschritt blockiert.",
+ "source_sha256": "38b9329a312a01615fe368746e4255fe335f4c677cf94af014df46821dca36ce",
+ "summary": "Eine Evaluierungssuite, die KI-Agenten anhand von 153 alltäglichen Aufgaben auf 144 live betriebenen Produktionswebsites testet. Sie setzt einen spezialisierten Mechanismus zum Abfangen von Requests ein, um Aktionen wie Flugbuchungen und Online-Shopping sicher zu bewerten, ohne irreversible Zahlungen abzuschließen.",
+ "title": "ClawBench: Realistischer Benchmark für Live-Web-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

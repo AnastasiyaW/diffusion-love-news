@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die Plattform entwickelte sich Anfang 2026 von der einfachen Clip-Generierung hin zu einer einheitlichen multimodalen Architektur. Das Seedance-2.0-Update von ByteDance brachte native Lip-Sync-Funktionen, Kamerasteuerung auf Regisseursniveau und die Fähigkeit, bis zu 9 Referenzbilder zu verarbeiten, um Figuren über verschiedene Szenen hinweg konsistent darzustellen.",
+ "id": "n-49e8a26e33",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Flova.ai orchestriert mehrere Modelle, darunter Seedance 2.0 und Skriptschreib-Agenten, um die Erstellung langer narrativer Inhalte zu automatisieren. Zu Beginn sah sich die Plattform einer deutlichen Kritik aus der Branche wegen der Nachbildung ultrarealistischer Schauspieler gegenüber.",
+ "source_sha256": "9e666a03144a5e0b8a9495fc737718ea4c30db3ab297ae4b96f3e03fd6ad4515",
+ "summary": "Eine Full-Stack-Plattform für KI-gestützte Filmproduktion, die die multimodale Engine Seedance 2.0 für die Produktion narrativer Videos nutzt. Sie unterstützt Multi-Shot-Kontinuität, Figurenkonsistenz und integrierte Audiosynchronisation für filmisches Storytelling.",
+ "title": "flova.ai: KI-Videoagent auf Basis von Seedance 2.0",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

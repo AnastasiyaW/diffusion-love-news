@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto pasó de ser un framework centrado en la memoria a un ecosistema integral de 'Digital Partner' con visualización de memoria en 3D y orquestación autónoma de flujos de trabajo.",
+ "id": "n-dd8d68b69f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Creado por Pavel Muntyan (creador de Mr. Freeman); enfatiza un enfoque 'sovereign-by-design' en el que todos los datos permanecen en una base de datos SQLite local.",
+ "source_sha256": "81c3fb5dc215544b503288d04fdd39a8e62621e8c9c00f6b606e54256fc0f476",
+ "summary": "Un orquestador de agentes de IA de código abierto, local-first, que utiliza grafos de conocimiento 3D jerárquicos y resúmenes acumulativos de conversaciones para gestionar la memoria a largo plazo. Da prioridad a la privacidad de los datos y admite múltiples proveedores de LLM mediante el Model Context Protocol.",
+ "title": "MF0-1984: memoria a largo plazo para agentes de IA multimodales",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

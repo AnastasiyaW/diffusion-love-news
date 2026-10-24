@@ -1,0 +1,10 @@
+{
+ "id": "n-253f50a66d",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6f6247897c64aea21449a1c09c6e731929ec8a0dda218ccb3ac31217063a0aa0",
+ "summary": "Am 21.07.2026 veröffentlichte TheStageAI ein Projekt-Update mit Verweisen auf ein Modell-Repository zu Elastic-Wan2.2-I2V, einen zugehörigen Blogartikel und das Repository ComfyUI-Qlip. Die verlinkten Materialien deuten auf einen Entwicklungsmeilenstein für den Image-to-Video-Workflow des Projekts hin. Die genauen Modelländerungen, Konfigurationen und Leistungsangaben lassen sich anhand der verlinkten Metadaten allein nicht bestätigen.",
+ "title": "TheStageAI hat Projektmaterialien zu Elastic-Wan2.2-I2V veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

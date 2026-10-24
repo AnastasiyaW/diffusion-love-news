@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado como parte de la actualización de LTX-2.3 para demostrar la capacidad de IC-LoRA en la edición dirigida de vídeo a vídeo y la corrección del enfoque.",
+ "id": "n-57264ece04",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimizado específicamente para el desenfoque óptico de lente; no está pensado para la restauración de desenfoque por movimiento ni de desenfoque gaussiano.",
+ "source_sha256": "1e5340e460f3b1052395e9bfdfa027fca040a85af193d6d07edbb8db30f957f4",
+ "summary": "Un IC-LoRA especializado para el modelo LTX-2.3 22B que corrige el desenfoque de lente en vídeo. Permite restaurar con precisión metraje desenfocado mediante la recuperación de detalles ópticos nítidos.",
+ "title": "Herramienta de restauración de vídeo ReFocus con IC-LoRA para LTX-2.3 22B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

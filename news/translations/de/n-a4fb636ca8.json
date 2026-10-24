@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 veröffentlicht, befindet sich das Projekt derzeit in der Phase der Vorbereitung von öffentlichem Code und Modellgewichten für GitHub. Es setzt neue Maßstäbe im Gesichtstracking und übertrifft frühere Methoden wie Sapiens und V-DPM deutlich.",
+ "id": "n-a4fb636ca8",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Stellt einen groß angelegten dynamischen 3D-Gesichtsdatensatz vor, der aus NeRSemble abgeleitet wurde, für hochauflösendes Training.",
+ "source_sha256": "41e4be416aea9b15f0b665e087115f79db19eddd314aedf8e05b93c4f5b10f68",
+ "summary": "Ein transformerbasiertes Framework für die einheitliche 4D-Gesichtsrekonstruktion und dichtes Tracking aus monokularen Videosequenzen. Es sagt gemeinsam kanonische Koordinaten, Tiefenkarten und Normalenkarten voraus, um auch bei extremen Blickwinkelwechseln eine hohe zeitliche Konsistenz zu gewährleisten.",
+ "title": "Face Anything: Einheitliche 4D-Gesichtsrekonstruktion und -Tracking",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

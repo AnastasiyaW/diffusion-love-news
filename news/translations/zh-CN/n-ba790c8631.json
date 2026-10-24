@@ -1,0 +1,11 @@
+{
+ "id": "n-ba790c8631",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": ".com — 适用于 SFW 内容，包含卡片、会员资格和 Creator Program；.red — 包含完整目录、NSFW 内容和加密货币相关内容。账户、上传内容和关注关系为两者共用。",
+ "source_sha256": "5bd2c58c9766eb9b8171f27c62c54d6b642f78367108b80440bccaf4046733b3",
+ "summary": "2026年4月13日，Civitai 发布一篇文章，将 Civitai.com 和 Civitai.red 描述为两个访问入口，并说明了二者未来的发展方向。该链接证实了这一第一方公告的存在，但现有证据不足以说明二者在运营上的区别或对用户的影响。",
+ "title": "Civitai 说明 .com 与 .red 两个独立入口",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

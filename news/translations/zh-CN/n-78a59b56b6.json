@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "入选CVPR 2026 Highlight论文；提出了包含14项专项任务的Persona-MME基准，并在长期记忆场景中展现出优于GPT-4o的性能。",
+ "id": "n-78a59b56b6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目由南京大学（MiG-NJU）与字节跳动合作完成；采用多层级记忆架构，包括情景记忆和程序记忆。",
+ "source_sha256": "342cd6ecd703b017b8231fc341c22e1566b134402d97dd1c0331e8f55f327851",
+ "summary": "一个用于多模态大语言模型长期个性化的框架，采用基于动量的人格演化机制（Momentum-based Personality Evolving Mechanism）。它使AI助手能够主动学习用户特征，并在多轮交互中保持一致性。",
+ "title": "PersonaVLM：个性化多模态大语言模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

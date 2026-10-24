@@ -1,0 +1,10 @@
+{
+ "id": "n-4aa029af73",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "04a206bc16b756695a9c7e6331a2bb6b83ab9f1f7cab380b891917f5b0e5877e",
+ "summary": "El 2026-06-12, el registro documentó un enlace al repositorio de Hugging Face de LMX-Omni-52B-Halo. Esto establece que, en esa fecha, el repositorio figuraba como artefacto del proyecto, pero no establece su estado de publicación, sus capacidades, su licencia ni su uso previsto.",
+ "title": "LMX-Omni-52B-Halo se vinculó con su repositorio de modelos en Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

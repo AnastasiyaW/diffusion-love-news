@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TRELLIS.2 取代了最初的 2B 参数版本，引入了 Omni-Voxel（O-Voxel）和完整的基于物理的渲染（PBR）支持。它扩展了分辨率能力，并提升了非流形表面的几何精度。",
+ "id": "n-d7c3a5e60e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "shivampkumar/trellis-mac 仓库使用 MPS 后端将该模型移植到 Apple Silicon 上，但部分 CUDA 专属功能（如纹理烘焙）受到限制。",
+ "source_sha256": "1f34ba4a9e016de61ca71ffa9dff40e0e4c5f1d4c366e1720361d6d9808cec4b",
+ "summary": "一个拥有 4B 参数的基础模型，可根据图像或文本生成带有 PBR 材质的精细 3D 资产。它采用 Omni-Voxel 表示，能够处理任意拓扑结构和复杂的表面几何。",
+ "title": "TRELLIS.2：在 Mac 上实现高保真 3D 生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

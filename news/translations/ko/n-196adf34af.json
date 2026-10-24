@@ -1,0 +1,10 @@
+{
+ "id": "n-196adf34af",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c4f239f7a6ac236228861e8f2748959b5c365ecb2af03cbfb4d7a6968415832",
+ "summary": "2026-08-16에 Inline Studio가 GitHub 릴리스 v1.2.71을 공개했다. 날짜가 명시된 근거에는 프로젝트의 characters 페이지 링크도 포함되어 있어, 버전이 지정된 개발 체크포인트임은 확인되지만 이 릴리스의 구체적인 내용은 확인되지 않는다.",
+ "title": "Inline Studio, v1.2.71 릴리스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

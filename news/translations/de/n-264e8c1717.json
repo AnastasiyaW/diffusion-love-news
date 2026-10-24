@@ -1,0 +1,10 @@
+{
+ "id": "n-264e8c1717",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "abc37e8994eff75d0ee459dfb4abc5f2d30d7288c9a8dae676c748067ff3e8da",
+ "summary": "Am 17.03.2026 verlinkte eine Nachricht im FireRed-Thread ein Hugging-Face-Repository, dessen URL es als FireRed Image Edit 1.1 für ComfyUI ausweist. Dieselbe Nachricht enthielt drei RunningHub-URLs. Die verfügbaren Belege geben weder Aufschluss über die verlinkten Inhalte noch belegen sie eine Veröffentlichung, eine Änderung der Fähigkeiten oder Details zum Workflow. Dieser Beitrag dokumentiert daher nur die datierte Veröffentlichung dieser Ressourcenlinks.",
+ "title": "Eine ComfyUI-Ressource für FireRed Image Edit 1.1 wurde verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

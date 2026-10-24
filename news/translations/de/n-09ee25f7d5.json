@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "HyDRA wurde im März 2026 veröffentlicht und baut auf der Architektur Wan2.1-T2V-1.3B auf. Außerdem führt es den Datensatz HM-World ein, mit dem Modelle für komplexe Szenarien trainiert werden, in denen Objekte wieder ins Bild eintreten.",
+ "id": "n-09ee25f7d5",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt umfasst einen bewegungsbewussten Speicher-Tokenizer und ist besonders für Simulatoren für autonomes Fahren sowie für Weltmodelle im Bereich Embodied AI optimiert.",
+ "source_sha256": "0548b801e3538dc55c0432006be5380d131fcf7bf08d3b35c2abba0a4d46c77f",
+ "summary": "HyDRA ist eine spezialisierte Speicherarchitektur für die Videogenerierung, die stabiles Objekt-Tracking und die konsistente Wiederkehr von Objekten sicherstellt. Mithilfe eines raumzeitlichen Abrufmechanismus kann das System Subjekte „erinnern“, selbst wenn sie den Bildbereich verlassen oder verdeckt werden.",
+ "title": "HyDRA: Hybrider Speicher für dynamische Video-Weltmodelle",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

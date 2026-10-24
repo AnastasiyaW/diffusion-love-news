@@ -1,0 +1,10 @@
+{
+ "id": "n-6607af2693",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7d9b2d8109b5572bc3abcfa0257a03e8ae3f385439e5d337d71597e287baae07",
+ "summary": "19 июня 2026 года линейка разработки TSANTSALIZE зафиксировала ссылку на репозиторий Hugging Face https://huggingface.co/TheBurgstall/tsantsalize. Это рассматривается как существенная веха публичной доступности модели, однако зафиксированные данные не позволяют установить версию модели, её возможности или сведения о релизе.",
+ "title": "Зафиксирован ресурс модели TSANTSALIZE на Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

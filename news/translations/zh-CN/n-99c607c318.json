@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从 Dream Machine 视频模型（2024 年）和 Ray2 多模态架构（2025 年）发展为统一的自回归 Transformer 系统。2026 年 5 月发布的 Uni-1.1 更新将该技术转变为可用于生产的 API，具备更出色的空间推理能力和多语言文字渲染能力。",
+ "id": "n-99c607c318",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用推理优先的方法，模型在渲染前先规划画面构图；目前已被 Adobe 和 Freepik 等行业领先企业集成。",
+ "source_sha256": "403d77b76088ebf5b67d25cd251ba4cf1c8887cee07d08a8232d5741d0633610",
+ "summary": "Luma Uni-1.1 是一款面向生产环境的多模态智能 API，采用统一推理架构，用于高精度图像生成与编辑。它支持复杂任务，例如最多 9 个输入的多参考图定位，以及基于自然语言的图像修改。",
+ "title": "Luma Uni-1.1 统一智能 API",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

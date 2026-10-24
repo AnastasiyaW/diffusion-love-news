@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im Mai 2026 als größeres Upgrade von Version 1.5 eingeführt, das über reine Audiotreue hinaus auf emotionales Kontextverständnis abzielt. Derzeit befindet sich das System in einer Research Preview und dient als Referenzmaßstab für Latenz und Ausdrucksstärke konversationeller KI.",
+ "id": "n-2ffed2d338",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Inworld AI; das System rangiert im Artificial Analysis Speech Arena durchgehend an der Spitze und konkurriert direkt mit der Realtime API von OpenAI.",
+ "source_sha256": "e540ba8706d00d3d01b8938bb1e4a0a93ec57d08940ae8b69e33affb2cf82caa",
+ "summary": "Ein latenzarmes konversationelles Sprach-KI-System, das seinen Tonfall und seinen emotionalen Ausdruck dynamisch an die Audioeingabe des Nutzers anpasst. Es verfügt über eine „Verhaltensschicht“ für soziales Schließen und unterstützt die Steuerung über natürliche Sprache in mehr als 100 Sprachen.",
+ "title": "Inworld Realtime TTS-2: Emotionale KI-Sprachsynthese",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

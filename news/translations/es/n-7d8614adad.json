@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicó en código abierto los pesos de 8B en mayo de 2026, como un cambio importante desde los modelos de difusión latente hacia modelos de razonamiento nativos en píxeles. Las variantes actuales incluyen un modelo 'Dev' destilado y una versión de investigación 'Pro' de alto número de parámetros.",
+ "id": "n-7d8614adad",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Se sitúa entre los mejores modelos de código abierto en los principales benchmarks. Integra un agente de razonamiento para la planificación de la composición y la expansión de prompts.",
+ "source_sha256": "b1492b7803ea23b9c758265f205c3f3f86442819af380a5092299fdfaf017803",
+ "summary": "Un transformer de píxeles de 8B, unificado de forma nativa, para la generación de imágenes de alta calidad y la edición basada en instrucciones. Procesa texto y píxeles en un espacio de tokens compartido, lo que permite la síntesis nativa en 2K sin artefactos de VAE.",
+ "title": "HiDream-O1-Image: transformer unificado de 8B en espacio de píxeles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-c51396234c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Curar conjuntos de datos multimodales de vídeo y sensores con Cosmos Curator para filtrar secuencias corruptas o no físicas.\n\nGenerar escenarios físicos sintéticos y clips de casos límite mediante blueprints de Cosmos Data Factory desplegados en infraestructura de GPU en la nube.\n\nAjustar checkpoints fundacionales con distribuciones de sensores específicas de un dominio, ya sean robóticos o de vehículos, usando NVIDIA NeMo Framework.\n\nDesplegar checkpoints de modelos del mundo optimizados para inferencia de alto rendimiento mediante microservicios NVIDIA NIM en contenedores.\n\nUtilizar Cosmos Curator antes del ajuste fino para eliminar trayectorias de cámara corruptas o no físicas que degradan la consistencia física.\n\nUsar los blueprints de Cosmos Data Factory para sintetizar escenarios raros de peligro y casos límite que son inseguros o poco prácticos de capturar en pruebas físicas.\n\nDesplegar los modelos del mundo entrenados mediante microservicios NVIDIA NIM en contenedores para aprovechar el procesamiento por lotes acelerado por hardware en GPU empresariales.",
+ "source_sha256": "2c517d7192fc653db7363620eb484ca3debc0607f159a153c0250044cf01fbb2",
+ "summary": "NVIDIA amplió su plataforma de modelos del mundo Cosmos con los blueprints de datos sintéticos Cosmos Data Factory, las herramientas de filtrado Cosmos Curator, los pipelines de post-entrenamiento de NeMo y los contenedores de microservicios de despliegue NIM para el desarrollo de IA física.",
+ "title": "NVIDIA amplía la plataforma Cosmos con herramientas de entrenamiento y despliegue",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

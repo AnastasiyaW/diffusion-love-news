@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lyra 2.0 是原始 Lyra 模型的后继版本，从前馈式重建演进为用于持续世界生成的“检索-生成-更新”循环。它引入自增强训练以防止时间漂移，并支持高保真 3D Gaussian Splatting 导出。",
+ "id": "n-a549ac3575",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "可与 NVIDIA Isaac Sim 集成，用于具身 AI 训练；提供交互式 GUI，支持相机路径规划和实时世界探索。",
+ "source_sha256": "98560a687c15c55b3576e812df12069bc286334367f28cddf47cb12a479d91a6",
+ "summary": "Lyra 2.0 由 NVIDIA 空间智能实验室开发，可从单张图像生成持久且可探索的 3D 环境。它利用逐帧 3D 几何记忆，在长时域导航过程中保持空间一致性。",
+ "title": "Lyra 2.0：可探索的生成式 3D 世界",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

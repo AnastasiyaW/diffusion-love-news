@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Se añadieron seis artículos, se corrigieron dos enlaces wiki y el recuento de publicaciones subió de 828 a 834.",
+ "id": "n-048b3192a0",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El evento solo registra el asunto público del commit y las pruebas inmutables del repositorio.",
+ "source_sha256": "15a5eb2cbe4101e7eff92b75fdf1e923d1f3eeea053e7b22133b71b91da93484",
+ "summary": "Un lote de contenido añadió seis artículos, corrigió dos enlaces wiki rotos y actualizó el recuento de publicaciones de 828 a 834.",
+ "title": "Lote 2026-06-04: seis artículos y correcciones de enlaces wiki",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-dbba09c3a2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5920d66db0b9869f1cfbac31245c04d6819c77366e5aa405f5b60882c5c51257",
+ "summary": "El 31 de marzo de 2026, un miembro de ShotStream con fecha documentada remitió a los lectores a su página pública del proyecto, a su repositorio de GitHub y a su página en Hugging Face. Esto registra un punto de referencia público en la línea de desarrollo del proyecto, pero las pruebas disponibles no establecen una versión publicada, sus capacidades, su autoría ni el texto exacto del mensaje original.",
+ "title": "Se vincularon la página pública del proyecto ShotStream, su código y su página del modelo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

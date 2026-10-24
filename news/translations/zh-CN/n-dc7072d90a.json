@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 4 月下旬更新，以与 Qwen3.6 官方版本保持一致，并稳定了数学与代码方面的权重。该模型现已成为 DGX Spark v4 生态系统的核心组件。",
+ "id": "n-dc7072d90a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该仓库为受限访问（gated）仓库。需要 FP16 或高精度量化以保持效率；专门针对 NVIDIA Blackwell 和 Ada 架构进行了优化。",
+ "source_sha256": "bf35123bcab17c1f4b0c16e4a91b8b99bb47c18e56f7599b4798c2b5d6ca46ab",
+ "summary": "一款基于块扩散（block-diffusion）的推测解码草稿模型，专为 Qwen3.6-27B 系列量身打造，可显著提升推理速度。该项目包含经过优化和无审查（uncensored）的变体，适用于多样化的本地部署。",
+ "title": "Qwen3.6-27B-DFlash 推测解码模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

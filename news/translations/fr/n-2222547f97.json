@@ -1,0 +1,11 @@
+{
+ "id": "n-2222547f97",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast gère la vidéo à partir de texte ou d'image, tandis que Pro ajoute la vidéo à partir de l'audio, Retake et Extend ; les poids 22B dev/distilled et les upscalers latents ont été publiés.",
+ "source_sha256": "0332afcf4f1322905920ce4cfb7fd721dd86b080ab6d6e73bf64be33d2f42540",
+ "summary": "Le 2026-03-05, LTX-2.3 a été relié à sa page de modèle, à sa documentation de démarrage rapide et à une aire de jeu texte-vers-vidéo. Cette étape marque une mise à disposition publique et un premier contact pour la gamme LTX-2.3, avec à la fois une documentation de référence et un point d'entrée interactif.",
+ "title": "LTX-2.3 a été présenté avec sa documentation et une aire de jeu texte-vers-vidéo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

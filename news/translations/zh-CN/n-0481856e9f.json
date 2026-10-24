@@ -1,0 +1,10 @@
+{
+ "id": "n-0481856e9f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "054cbd5545b6202f1bbd2c096544ad9b7a4c14dcf7e419a45a4a138801d947eb",
+ "summary": "2026年3月18日，OpenSeeker 的帖子链接到了该项目的 GitHub 仓库以及 OpenSeeker-v1-30B-SFT 的 Hugging Face 页面。仅从这些带日期的链接来看，这是一个实质性的公开源代码与模型可用性里程碑。这些链接并未说明发布说明、能力、许可协议、基准测试结果，也未说明额外的 hf.ru 链接的用途。",
+ "title": "OpenSeeker 公开了源代码仓库和 30B SFT 模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

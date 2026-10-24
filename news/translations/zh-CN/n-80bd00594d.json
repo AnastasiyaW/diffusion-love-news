@@ -1,0 +1,10 @@
+{
+ "id": "n-80bd00594d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "da7553c4b9c0916a62e0f21276e4fec378251011a3f77eb512fea64a4455eca1",
+ "summary": "2026 年 7 月 1 日，一条开发线消息链接了 ASASR 的 GitHub 仓库和 Hugging Face 页面。仅从带日期的链接来看，这是一次面向项目的资源发布步骤。它并不能说明版本、功能集、发布状态或模型能力。",
+ "title": "ASASR 项目资源已公开链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

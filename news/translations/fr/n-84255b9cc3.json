@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La révision vérifiée du wrapper documente les variantes U1.5 preview/formal ainsi que les chemins GGUF, INT8, FP8 et BF16, tout en barrant les anciennes instructions LoRA en huit étapes.",
+ "id": "n-84255b9cc3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fea5003884ead1e4a5306206154db7075ccb6d176ab2c63a09153178bcdbadef",
+ "summary": "La révision vérifiée du wrapper documente les variantes U1.5 preview/formal ainsi que les chemins GGUF, INT8, FP8 et BF16, tout en barrant les anciennes instructions LoRA en huit étapes.",
+ "title": "Le wrapper SenseNova U1 passe à U1.5 et aux chemins de quantification actuels",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在仅支持英文的 v1 基础上,v2 引入了对多种文字体系中超过 14,000 个字符的支持。此后,它已集成到统一的 Nemotron-3 Nano Omni 多模态模型中,用于实时智能体工作流。",
+ "id": "n-6a0618307a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "针对 RAG 及文档密集型 AI 智能体进行了优化;包含一个关系模块,用于精确的阅读顺序与逻辑分组。",
+ "source_sha256": "4005379b5dfb5022e41f5d671c137dc0dbd6b04781d7aaf5943512205f3eff99",
+ "summary": "一款高速、可用于生产环境的 OCR 模型,专注于多语言文本识别与复杂文档结构解析。它采用模块化 Transformer 架构,以高精度每秒处理超过 30 页文档。",
+ "title": "Nemotron-OCR v2:NVIDIA 多语言文档智能系统",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

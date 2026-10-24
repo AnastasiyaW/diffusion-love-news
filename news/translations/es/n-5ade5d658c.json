@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lanzado originalmente como alternativa a un estudio de vídeo cinematográfico, el proyecto fue renombrado Open Generative AI para reflejar su expansión hacia una plataforma completa que admite modelos de imagen, vídeo y audio. Introdujo un Workflow Studio basado en nodos y añadió capacidades de inferencia de modelos en local mediante un motor en C++.",
+ "id": "n-5ade5d658c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El proyecto tiene licencia MIT, pero por defecto depende del servicio de pago Muapi del creador; no obstante, las versiones más recientes admiten servidores locales autoalojados para la inferencia.",
+ "source_sha256": "b94244fdd535a325a1e457ff041571018616d47ac9e56338a56ff13d7eb09c50",
+ "summary": "Un estudio multimodelo de código abierto para la generación de imágenes, vídeo y audio que funciona como interfaz unificada para diversos modelos SOTA. Admite más de 200 modelos, entre ellos Flux, Kling y Wan, e incorpora estudios especializados para sincronización labial y producción de vídeo cinematográfico.",
+ "title": "Open Generative AI (antes Open Higgsfield AI)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

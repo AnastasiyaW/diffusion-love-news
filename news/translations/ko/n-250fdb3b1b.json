@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 ModelScope LoRA 학습 대회에서 우승작으로 선정되었으며, 이후 Qwen-Image-Edit(QIE-2511) 생태계의 핵심 구성 요소가 되었습니다. 현재 로컬 추론 애플리케이션을 지원하며, 정기적인 호환성 업데이트를 받고 있습니다.",
+ "id": "n-250fdb3b1b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "ovi054(Avi Pal)이 개발했으며, 1초 미만의 추론 속도와 높은 충실도의 '참조-팔레트' 매칭을 위해 최적화되었습니다.",
+ "source_sha256": "6396632ea05019125494921beca37d1a8a5d33c86ba16439adcada941eddf647",
+ "summary": "참조 이미지를 활용한 고충실도 자동 색보정 및 팔레트 정렬을 위해 설계된 전용 LoRA입니다. Qwen-Image-Edit 아키텍처에 최적화되어 있으며, 시네마틱 스타일 전이와 이미지 시퀀스 전반의 일관된 조명 구현을 지원합니다.",
+ "title": "정밀 색상 매칭을 위한 Color-Grade-Transfer-LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

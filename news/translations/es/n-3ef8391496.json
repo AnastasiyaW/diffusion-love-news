@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en mayo de 2026 por Fastino Labs, GLiGuard aprovecha la arquitectura GLiNER2 para ofrecer clasificación de seguridad estructurada. Logra una latencia significativamente menor y un mayor rendimiento que modelos del estado del arte como ShieldGemma-27B, manteniendo una precisión competitiva.",
+ "id": "n-3ef8391496",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ajustado a partir de GLiNER2-base-v1; licencia Apache 2.0; optimizado para despliegue prioritariamente en CPU y en el edge; alcanza 87.7 F1 en benchmarks de seguridad.",
+ "source_sha256": "5b13b513202b55cb53eb63550336cc4f4de6f850ecd05bcb145c9de4a99d58a9",
+ "summary": "GLiGuard es un modelo de código abierto basado en un codificador, con 300M de parámetros, diseñado para la moderación de seguridad de LLM con alto rendimiento. Sirve como alternativa rápida y eficiente a modelos de guardrail grandes basados en decodificadores, como LlamaGuard.",
+ "title": "GLiGuard: modelo compacto de moderación de seguridad para LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

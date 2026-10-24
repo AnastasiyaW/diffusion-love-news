@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2.6 版本推出了主打功能 AI 翻唱（AI Cover），新增精确的 BPM 和调式（key）控制，并将生成延迟降至 20 秒以内。同时，它还发布了开源的 MusicSkill 模块，以将音乐生成集成到 AI 智能体（agent）生态系统中。",
+ "id": "n-dfe5e1e7a6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持高保真 44.1kHz 音频，以及最长 6 分钟的完整曲目。",
+ "source_sha256": "9a922f258549c3151ebf35bda29020e6ad3404949de84e8bd397960f135dd658",
+ "summary": "MiniMax Music 是一款专业级 AI 音乐创作平台，可根据文本提示词和歌词生成高保真音频。目前它作为一个功能全面的创作伙伴运行，提供 AI 翻唱（AI Cover）和专业音乐结构编排等工具。",
+ "title": "MiniMax Music 2.6 AI 音乐生成平台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

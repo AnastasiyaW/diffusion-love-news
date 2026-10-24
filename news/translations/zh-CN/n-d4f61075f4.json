@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Prompt-Relay 最初是一个研究性实现，现已成为集成在 Wan 2.2 和 LTX 2.3 生态系统中的标准工具。它现在是 LTX Director 时间线编辑器以及多种用于多事件叙事的 ComfyUI 节点的核心组件。",
+ "id": "n-d4f61075f4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "有效解决了基于扩散的视频模型中的时序纠缠问题，且无需额外训练或微调。",
+ "source_sha256": "2638b1ba202c81f97652585019ad84adddf392e3971abcfc075e67503c5ca473",
+ "summary": "一种无需训练的推理时方法，通过将提示词路由到特定时间片段，实现视频生成中精确的时间顺序控制。该方法对交叉注意力机制施加基于距离的惩罚，以抑制事件之间的语义泄漏。",
+ "title": "Prompt Relay：面向视频生成的推理时时序控制",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

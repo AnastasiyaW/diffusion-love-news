@@ -1,0 +1,10 @@
+{
+ "id": "n-a5a6f42edd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "cbf5efa7a5cc46bf723df22b4fe04a498adb0a7090285c76f533fa3506709703",
+ "summary": "2026-03-15 기준으로 GLM-OCR은 연결된 프로젝트 저장소, 모델 페이지, 호스팅된 데모, 공식 문서를 통해 소개되고 있다. 프로젝트를 살펴보고, 평가하고, 활용할 수 있는 공개 경로가 마련되었다는 점에서 의미 있는 진전이지만, 정확한 릴리스 주장에 대해서는 아직 확인되지 않았다.",
+ "title": "GLM-OCR 프로젝트 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-181f36a473",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2fad68eae3f302ed117c6601cb859567fc955deac3a5f44aa8e878220340692f",
+ "summary": "2026 年 6 月 30 日的存档记录中收录了 OpenMOSS 的 MOSS-Transcribe-preview-2B 模型页面以及 Mosi Studio 音频转录服务。这些链接表明 OpenMOSS 在语音转录研发路线上迈出了一步，且该模型被明确标注为预览版。",
+ "title": "OpenMOSS 发布预览版 2B 语音转录模型及转录服务",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

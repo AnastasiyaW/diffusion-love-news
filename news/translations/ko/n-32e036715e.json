@@ -1,0 +1,10 @@
+{
+ "id": "n-32e036715e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d7ef66d469ed1e4d7b26b631d152e6e1483bb8fdac8fac7a3161a015bbc46a7",
+ "summary": "2026-08-17자 기록에는 TeraTTSv2 Hugging Face 모델과 TeraTTS 데모 스페이스가 연결되어 있었습니다. 또한 이 참조 세트는 Supertonic 기반 음성 복제 및 믹싱을 다루는 두 개의 GitHub 프로젝트와도 연결되어 있었습니다. 현재 확인 가능한 기록은 해당 시점의 연결 관계만 입증할 뿐, 그 밖의 릴리스, 기능 변경, 벤치마크 또는 기술적 관계는 확인하지 못합니다.",
+ "title": "TeraTTSv2가 연결된 모델, 데모 및 관련 음성 도구와 함께 문서화됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

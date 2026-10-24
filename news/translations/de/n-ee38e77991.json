@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Akzeptiert für ICML 2026. Das Projekt befindet sich derzeit im Übergang zu Open Source mit der Veröffentlichung des PhysDB-Datensatzes, der 150.000 physikalisch annotierte Assets umfasst.",
+ "id": "n-ee38e77991",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Kollaboration zwischen HKU und Tencent Hunyuan; speziell entwickelt für robotische Manipulation und Simulatoren für verkörperte KI (Embodied AI).",
+ "source_sha256": "1e27c052f07beda0c36af26c45930e5a818faafd31b0955408ad7846ffb374bf",
+ "summary": "PhysForge ist ein Forschungsframework zur Generierung simulationsbereiter 3D-Assets mit funktionalen Teilen und kinematischen Constraints. Es nutzt Vision-Language-Modelle für die Blueprint-Erstellung und einen spezialisierten Diffusionsmechanismus, um physikalisch konsistente Geometrie und interaktive Logik zu synthetisieren.",
+ "title": "PhysForge: Physikalisch fundierte interaktive 3D-Asset-Generierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

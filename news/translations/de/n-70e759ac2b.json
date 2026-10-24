@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Offiziell im Mai 2026 veröffentlicht und für die SIGGRAPH 2026 angenommen. Das Framework debütierte mit zwei spezialisierten Modellen: UniVid-Intrinsic für physikalische Eigenschaften und UniVid-Alpha für die Schichtzerlegung.",
+ "id": "n-70e759ac2b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aufgebaut auf dem Wan2.1-Backbone, verwendet es Stochastic Condition Masking und Decoupled Gated LoRA, um die Konsistenz zwischen den Modalitäten mit minimalen Trainingsdaten zu wahren.",
+ "source_sha256": "e207a63bd072333e1cd083c11bb5d7e17dbedce818e81762f5a3ffc5c526daec",
+ "summary": "Ein einheitliches „Any-to-Any“-Video-Diffusion-Framework für über 15 Aufgaben, darunter Video-Matting, Relighting und inverses Rendering. Es behandelt verschiedene Modalitäten wie RGB, Tiefe und Alpha als austauschbare Konditionen oder Ziele innerhalb einer einzigen Architektur.",
+ "title": "UniVidX: Unified Multimodal Video Diffusion Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-d46d9eb28f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Konfigurieren Sie robots.txt auf öffentlichen Webdomains, um explizite Crawl-Berechtigungen für die Web-Crawler von Meta festzulegen.\n\nPrüfen Sie die kommerziellen Nutzungsbedingungen im Meta Business Manager, bevor Sie Unternehmensdomains verknüpfen oder geschäftliche Assets veröffentlichen.\n\nPflegen Sie explizite Crawler-Allowlists und Disallow-Direktiven auf Ebene des Webservers, anstatt beim Schutz von Inhalten auf vertragliche Standardbedingungen zu vertrauen.\n\nPrüfen Sie die Berechtigungen kommerzieller Konten regelmäßig, um sicherzustellen, dass geschäftliche URLs auf Werbeaktivitäten beschränkt sind und keine weitreichenden Lizenzen zur umfassenden Inhaltsextraktion bestehen.",
+ "source_sha256": "0eb26e0c1a24f1543a6dbdee44950d6701cae4ae56d0dfb78bd8dd4e7f854f85",
+ "summary": "Meta hat seine überarbeiteten kommerziellen Nutzungsbedingungen so angepasst, dass ausdrückliche Verweise auf das Training von KI-Modellen mit aus Geschäftskonten gesammelten Webinhalten entfernt wurden. Zugleich wurde die Datennutzung auf Werbung und Geschäftsprodukte beschränkt.",
+ "title": "Meta streicht KI-Training aus geschäftlichen Nutzungsbedingungen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

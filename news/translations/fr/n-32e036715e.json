@@ -1,0 +1,10 @@
+{
+ "id": "n-32e036715e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d7ef66d469ed1e4d7b26b631d152e6e1483bb8fdac8fac7a3161a015bbc46a7",
+ "summary": "Le 17 août 2026, la fiche datée a relié le modèle TeraTTSv2 sur Hugging Face et un espace de démonstration TeraTTS. Elle a également associé ce corpus de référence à deux projets GitHub portant sur le clonage et le mixage vocaux basés sur Supertonic. Les éléments disponibles établissent les liens contemporains, mais ni une sortie, ni une modification de fonctionnalité, ni un benchmark, ni une relation technique au-delà de ces liens.",
+ "title": "TeraTTSv2 a été documenté avec son modèle, sa démo et des outils vocaux connexes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

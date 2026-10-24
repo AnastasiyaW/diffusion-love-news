@@ -1,0 +1,10 @@
+{
+ "id": "n-a5bfdf92c1",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "902803f476c74eefb4e44ff6401f1b3ddeee692b8651a6c399a701fb076bd7a7",
+ "summary": "2026年3月28日，一条带日期的 X-Dub 条目关联了该项目的网站、GitHub 仓库和 Hugging Face 页面。这表明截至当时，该项目已有面向公众的展示入口，并关联了相应的代码和模型资源位置。现有证据并未表明具体的发布、版本、能力或技术变更。",
+ "title": "X-Dub 项目公开资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

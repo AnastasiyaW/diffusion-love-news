@@ -1,0 +1,10 @@
+{
+ "id": "n-ca4cb3b16f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bbbb9ece5b41ad582f360a7e842bbc69789bdd5fce0e7d23b01338016359d622",
+ "summary": "Le 2026-04-01, Google a publié Veo 3.1 Lite en version préliminaire via son blog et la documentation des modèles de l'API Gemini. La route AI Studio associée renvoie à un point d'entrée de création correspondant. Les liens fournis n'établissent pas, à eux seuls, la disponibilité en production, les quotas ou les limites de service.",
+ "title": "Google a annoncé la version préliminaire de Veo 3.1 Lite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach seinem Start im April 2026 ergänzte das Projekt vortrainierte Checkpoints, Trainingsleitfäden und ein posegesteuertes Inferenzmodul für erweiterte Bewegungssteuerung.",
+ "id": "n-d1faa63ee9",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Forschenden der Tsinghua-Universität; verwendet einen neuartigen räumlichen Routing-Mechanismus für die Token-level-Synthese.",
+ "source_sha256": "532642119a046abaf8a2942eb758cea43c851ea837cfaf33cb79b839429f9cab",
+ "summary": "CoInteract ist ein KI-Framework zur Erzeugung von Videos mit realistischen Mensch-Objekt-Interaktionen, die durch Sprache und räumliche Layouts gesteuert werden. Es nutzt einen Human-Aware Mixture-of-Experts (MoE)-Mechanismus, um die Bewegungen des Menschen mit den Objektinteraktionen zu synchronisieren.",
+ "title": "CoInteract: Interaktive Mensch-Objekt-Videogenerierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

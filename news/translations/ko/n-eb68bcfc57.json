@@ -1,0 +1,11 @@
+{
+ "id": "n-eb68bcfc57",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "오픈 웨이트 버전은 Medium에 해당하며, moodboard 및 style reference 모듈은 공개 릴리스에 포함되지 않았다.",
+ "source_sha256": "1df7d50a2442821dfa2ab243f5d572655687af17cdf64ab0d7fe4eb19e9a2f4f",
+ "summary": "2026-06-24 기준으로 수집된 Krea 2 공식 링크에는 오픈소스 페이지와 리포지토리, 공식 Raw 및 Turbo 모델 리포지토리, API 및 플레이그라운드 인터페이스, 기술 보고서가 포함되었다. 이 자료들과 함께 ComfyUI Krea 2 Turbo 텍스트-투-이미지 워크플로 템플릿이 제공되어 로컬 워크플로를 위한 명명된 진입점 역할을 했다. 연결된 페이지들은 독자적으로 검증되지 않았으므로, 정확한 제공 여부, 라이선스, 기술적 주장은 확인되지 않은 상태이다.",
+ "title": "Krea, Krea 2의 공식 오픈소스 및 배포 자료를 공개하다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

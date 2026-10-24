@@ -1,0 +1,11 @@
+{
+ "id": "n-7127c15c53",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "MiniMax hat H3 mit multimodalem Kontext und nativem Stereo-Video bis 2K/15 Sekunden eingeführt; die Gewichte wurden für eine spätere Veröffentlichung in Aussicht gestellt.",
+ "source_sha256": "fe0d0f98da0c015cbedfd852874a6d10d6153e844864f7f7e32952bf3852db06",
+ "summary": "Am 31.07.2026 veröffentlichte MiniMax einen offiziellen Blogbeitrag im Zusammenhang mit MiniMax H3. Der datierte Link belegt eine öffentliche Projektkommunikation, die versiegelten Belege belegen jedoch nicht die dort beschriebene konkrete Produktänderung, Funktionen oder Verfügbarkeit.",
+ "title": "MiniMax veröffentlicht einen offiziellen Blogbeitrag zu MiniMax H3",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

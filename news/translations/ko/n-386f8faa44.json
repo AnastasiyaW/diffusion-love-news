@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "2026-06-29 기준으로 Sonilo v1.1 개발 라인이 Sonilo 뉴스 URL, sonilo/v1.1/text-to-music용 fal.ai URL, Sonilo 플랫폼 URL과 함께 기록되었다. 날짜가 붙은 링크 묶음은 버전이 지정된 Sonilo 텍스트-투-뮤직 엔드포인트가 이번 마일스톤의 일부임을 나타낸다. 게시글 본문과 기능 또는 제공 여부에 관한 세부 사항은 검토하지 않았다.",
+ "title": "Sonilo v1.1, 텍스트-투-뮤직 엔드포인트와 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

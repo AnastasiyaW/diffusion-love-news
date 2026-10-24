@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该框架于 2026 年 5 月正式发布，并被 SIGGRAPH 2026 接收。框架初次亮相时包含两个专用模型：面向物理属性的 UniVid-Intrinsic，以及面向图层分解的 UniVid-Alpha。",
+ "id": "n-70e759ac2b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该框架基于 Wan2.1 骨干网络构建，采用随机条件掩码（Stochastic Condition Masking）与解耦门控 LoRA（Decoupled Gated LoRA），以在极少训练数据下保持各模态之间的一致性。",
+ "source_sha256": "e207a63bd072333e1cd083c11bb5d7e17dbedce818e81762f5a3ffc5c526daec",
+ "summary": "一种统一的“任意到任意”（any-to-any）视频扩散框架，面向视频抠像、重打光和逆向渲染等 15 项以上任务。它将 RGB、深度和 alpha 等多种模态视为单一架构内可互换的条件或目标。",
+ "title": "UniVidX：统一多模态视频扩散框架",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

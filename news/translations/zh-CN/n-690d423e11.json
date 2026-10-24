@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已更正已发布的文章、领域和内部链接统计数据。",
+ "id": "n-690d423e11",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "这些数值与不可变提交主题中记录的内容完全一致，保持不变。",
+ "source_sha256": "bd750aa6b998361ded62744dbbc9da9f230671312faea39fddc3ef04ac22e199",
+ "summary": "已将已发布的项目统计数据更正为 785 篇文章、26 个领域以及超过 3,987 个内部链接。",
+ "title": "修正文章与统计数据不一致的问题",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

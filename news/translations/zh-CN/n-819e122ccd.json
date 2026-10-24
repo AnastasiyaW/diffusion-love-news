@@ -1,0 +1,10 @@
+{
+ "id": "n-819e122ccd",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d843bf90c5c0ab92dfbdcbd977afb294b20bf9dca3c5cdcf1924a5543b8c1e59",
+ "summary": "2026-07-29，相关记录将 Vidu 的开发者平台与留存相关路径关联起来，表明在面向网页端创作者的渠道之外，还存在一条面向开发者的分发渠道。所提供的操作演示与留存页面均无法读取，因此本条目不会将任何具体的 API、模型或定价发布归因于该日期。",
+ "title": "Vidu 的开发者平台成为有据可查的产品渠道",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

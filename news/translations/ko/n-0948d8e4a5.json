@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 3월 논문과 함께 공개된 이후 이 프로젝트는 생태계 통합 방향으로 나아가고 있습니다. 현재 로드맵의 우선순위는 계산 비용 절감을 위한 ARC-Chapter 통합, 저비용 선택적 영상 읽기 모드, 그리고 향후 Claude Code MCP 지원입니다.",
+ "id": "n-0948d8e4a5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 시스템은 모델 오케스트레이션을 위해 LiteLLM을 사용하며, 편집이 리듬 변화와 정확히 맞물리도록 음악의 비트와 에너지 신호를 추출합니다.",
+ "source_sha256": "1070f63ecdcc26b9572a2da5a02aad606445178f593c37d27ec4814b19dda105",
+ "summary": "CutClaw는 수 시간 분량의 영상 소스를 음악에 동기화된 숏폼 영상으로 자동 편집하는 엔드투엔드 다중 에이전트 프레임워크입니다. 서사 기획과 리듬 정렬을 담당하도록 Playwriter, Editor, Reviewer라는 전문화된 에이전트들의 파이프라인을 채택하고 있습니다.",
+ "title": "CutClaw: 에이전트 기반 다중 에이전트 음악 동기화 영상 편집",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

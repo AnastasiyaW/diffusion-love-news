@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Mis à jour fin avril 2026 pour s'aligner sur la sortie officielle de Qwen3.6, ce qui a stabilisé les poids pour les mathématiques et le code. Il constitue désormais un composant principal de l'écosystème DGX Spark v4.",
+ "id": "n-dc7072d90a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Dépôt à accès restreint. Nécessite une quantification en FP16 ou en haute précision pour préserver l'efficacité ; optimisé spécifiquement pour les architectures NVIDIA Blackwell et Ada.",
+ "source_sha256": "bf35123bcab17c1f4b0c16e4a91b8b99bb47c18e56f7599b4798c2b5d6ca46ab",
+ "summary": "Un drafter de décodage spéculatif fondé sur la diffusion par blocs, conçu pour la série Qwen3.6-27B, offrant des accélérations d'inférence significatives. Le projet comprend des variantes optimisées et non censurées pour un déploiement local polyvalent.",
+ "title": "Modèle de décodage spéculatif Qwen3.6-27B-DFlash",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

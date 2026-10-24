@@ -1,0 +1,10 @@
+{
+ "id": "n-d3641add96",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "875529f777cacaff2db6e780aaa7ada668dd23eb51a4590347ca2e8f6823b4e4",
+ "summary": "El 2026-06-08, los recursos públicos de Higgs Audio v3 TTS se difundieron mediante enlaces en una página del blog de Boson AI, una página de modelo en Hugging Face, un space de demostración, el espacio de trabajo del producto y la documentación. El mismo conjunto de enlaces fechado incluía además un repositorio independiente de integración con ComfyUI, lo que convierte este hecho en un avance público relevante para el proyecto.",
+ "title": "Se publicaron los recursos públicos de Higgs Audio v3 TTS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

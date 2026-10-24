@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从监督微调（SFT）演进到使用带有双奖励反馈的组相对策略优化（GRPO）的智能体强化学习。它还推出了KnowGen，一个专门用于搜索增强图像生成的基准。",
+ "id": "n-eaa27c5213",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该系统支持多跳推理以识别知识缺口，并利用视觉参考将生成过程锚定到现实世界实体上。",
+ "source_sha256": "1c3652d6dbb540d8de0b02cc1662c50d0aa18575f8f9d393024ad91f2b9f5798",
+ "summary": "一种自主多模态智能体，在生成图像之前执行实时网络搜索和视觉搜索。它采用先搜索后生成的工作流程，以确保文生图合成的事实准确性和视觉一致性。",
+ "title": "Gen-Searcher：基于搜索增强的多模态深度研究智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

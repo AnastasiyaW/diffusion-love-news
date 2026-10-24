@@ -1,0 +1,10 @@
+{
+ "id": "n-ced223aa89",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f9ce84403b8c4186cc2bf34739c36e97b8f68dd576ebb13348c9e8d17dc9ca76",
+ "summary": "Le 2026-07-29, la ligne de développement de MLSLabsRenderer-Lite a été consignée avec des liens vers son site web public de projet et vers le dépôt MLSLabs Gaussian Splatting Renderer UE. Sur la seule base de ces liens datés, cela établit un point de référence public traçable pour le développement du moteur de rendu du projet, mais n'établit ni une version précise, ni un ensemble de fonctionnalités, ni un numéro de version particulier.",
+ "title": "Référence publique du projet et du dépôt pour MLSLabsRenderer-Lite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

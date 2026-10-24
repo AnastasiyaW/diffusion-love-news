@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article d'actualité décrit les architectures SANA-Video 2.0 de 5B et 14B ainsi que les performances annoncées, et indique explicitement qu'aucun poids du nouveau modèle n'était disponible à ce moment-là.",
+ "id": "n-95cbbfe193",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f0cb562fec8157490da8b509a322663bec1ff23b315abe9ce2b5d3205df9fae7",
+ "summary": "L'article d'actualité décrit les architectures SANA-Video 2.0 de 5B et 14B ainsi que les performances annoncées, et indique explicitement qu'aucun poids du nouveau modèle n'était disponible à ce moment-là.",
+ "title": "SANA-Video 2.0 est annoncé sans poids",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-a1265a873f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a4d69ce6041b374269b9a54cc9d08daa46864cf7f1cbd1304fbf750c84cb5aeb",
+ "summary": "2026年6月18日,项目历史记录中出现了一个指向 Unsloth 的 Hugging Face 仓库(标题为 GLM-5.2-GGUF)的链接。该带日期的链接表明存在一个用于 GGUF 分发的公开仓库引用,但并不能证明该日期上仓库中的文件、内容或发布状态。",
+ "title": "GLM-5.2-GGUF Hugging Face 仓库引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

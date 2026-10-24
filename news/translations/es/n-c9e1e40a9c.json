@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto evolucionó desde un modelo estático basado en difusión hasta convertirse en un sistema agéntico completamente autónomo a comienzos de 2026. Ahora cuenta con un pipeline optimizado que identifica de forma autónoma las lagunas de conocimiento en los prompts y adquiere evidencia visual del mundo real mediante anclaje en búsqueda web antes de la síntesis.",
+ "id": "n-c9e1e40a9c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Presentó el benchmark FactIP para evaluar la fidelidad factual en modelos multimodales; desarrollado en colaboración entre los investigadores de Tencent Hunyuan y UCLA.",
+ "source_sha256": "1d55b8f14757c2450b39192e04ca77d13baa46e4312f7578a53db0e2b155e89e",
+ "summary": "Un marco agéntico multimodal de extremo a extremo que resuelve el problema del «libro cerrado» en la generación de imágenes mediante investigación web en tiempo real. Utiliza un pipeline Think-Research-Recaption-Generate (pensar, investigar, redescribir, generar) para anclar la síntesis visual en evidencia factual externa, reduciendo significativamente las alucinaciones en conceptos raros o de larga cola.",
+ "title": "Unify-Agent: síntesis de imágenes agéntica de libro abierto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

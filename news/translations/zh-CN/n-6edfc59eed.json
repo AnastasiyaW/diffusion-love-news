@@ -1,0 +1,10 @@
+{
+ "id": "n-6edfc59eed",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ea7bb7afe3940dcb9dd9beafcba3d394d2e2ba225ed85f9c25ffc4479aae675b",
+ "summary": "2026年6月26日，DomainShuttle的一则开发更新关联了其项目页面、源代码仓库和Hugging Face权重页面。这是一个重要的历史节点，因为它使该项目的公开实现和权重可以被检索到；但仅凭这些带日期的链接，无法确定版本、功能或发布内容。",
+ "title": "DomainShuttle项目资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

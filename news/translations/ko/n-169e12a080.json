@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 연구 중심의 Python 스크립트에서 하드웨어 가속을 지원하는 네이티브 C++ 런타임으로 발전했습니다. 현재 Windows에서는 NVIDIA TensorRT를, Apple Silicon에서는 MLX를 지원하며, DaVinci Resolve 19를 비롯한 최신 NLE와 완전히 통합되었습니다.",
+ "id": "n-169e12a080",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Alexandre Alvaro가 Corridor Digital과 협력하여 개발했습니다. 독립 실행형 데스크톱 GUI와 일괄 처리를 위한 CLI를 포함합니다.",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "고성능 로컬 실행을 위해 설계된 네이티브 AI 기반 그린스크린 키잉 솔루션입니다. 복잡한 Python 환경을 거치지 않고, DaVinci Resolve와 Foundry Nuke용 OFX 플러그인 형태로 전문가 수준의 매팅 기능을 제공합니다.",
+ "title": "CorridorKey-Runtime: AI 그린스크린 키어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

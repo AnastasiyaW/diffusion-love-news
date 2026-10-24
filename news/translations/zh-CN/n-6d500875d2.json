@@ -1,0 +1,10 @@
+{
+ "id": "n-6d500875d2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "41e0bff3a271ed512308d1e3117fa64f15258429c598ac31fb1701e57f86d75f",
+ "summary": "2026-03-11，NVIDIA 发布了一则面向 GDC 2026 的 GeForce RTX 公告。所提供的 NVIDIA 官方链接被归类在 DLSS 4.5 的开发脉络下，因此在完成源级审查之前，应将其作为一个历史性里程碑予以保留。仅凭带日期的链接，并不能确认 DLSS 4.5 的具体功能、可用性或性能声明。",
+ "title": "NVIDIA 发布了其 GDC 2026 GeForce RTX 相关公告",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월, Huawei Research와 CUHK MMLab의 공동 프로젝트로 공개되었습니다. StreamingBench 리더보드에서 새로운 최고 성능(state-of-the-art)을 달성했으며, 실시간 시각 추론과 선제적 알림 측면에서 기존의 상용 독점 모델들을 능가했습니다.",
+ "id": "n-5e356466d0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Qwen3-VL-8B-Instruct 백본을 기반으로 구축되었으며, 무한한 비디오 스트림을 처리하기 위해 이중 슬라이딩 윈도우 컨텍스트 관리 시스템을 활용합니다.",
+ "source_sha256": "a27c541dfd6e27428449a82269a078db7e4e8cc2ada1010df428ebd9dd1e5eb9",
+ "summary": "AURA는 연속적인 비디오 이해와 실시간 어시스턴스를 위한 엔드투엔드 스트리밍 시각 상호작용 프레임워크입니다. ASR, VLM, TTS를 하나의 비동기 파이프라인으로 통합하여 2 FPS로 실시간 비디오를 처리합니다. 이 시스템은 선제적 QA와 다중 응답 상호작용을 지원하며, 1초 미만의 지연 시간을 구현합니다.",
+ "title": "AURA — 상시 이해 및 실시간 어시스턴스(Always-On Understanding and Real-Time Assistance)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-2540f877eb",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2529c20ad08c54707b907123178bb403fe0fe69839cead4cd764688017933534",
+ "summary": "Le 2026-05-18, le registre a enregistré un dépôt Hugging Face pour une distribution GGUF de Qwopus3.5-9B-Coder. Il s'agit d'une étape de distribution significative, car elle identifie un artefact de modèle orienté inférence pour le projet. Le lien fourni ne permet pas à lui seul d'établir la quantification exacte de l'artefact, sa provenance ni son lien avec une version amont.",
+ "title": "Distribution GGUF de Qwopus3.5-9B-Coder enregistrée sur Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

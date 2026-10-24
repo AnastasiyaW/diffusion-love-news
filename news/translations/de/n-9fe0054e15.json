@@ -1,0 +1,10 @@
+{
+ "id": "n-9fe0054e15",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9dec0065393db90b77e563674c92a0227a3efc6cd7108d12c595d9468b29ee1f",
+ "summary": "Am 02.08.2026 verknüpfte der historische Datensatz VibeVoice-ASR-BitNet mit einem Quellcode-Repository von VibeASR.cpp, einer Modellseite auf Hugging Face und einem Demo-Space auf Hugging Face. Das stellt einen wesentlichen Meilenstein für die öffentliche Zugänglichkeit des Projekts dar, wobei die datierten Verknüpfungen allein jedoch weder die genaue Release-Version noch die Fähigkeiten klären noch belegen, ob diese Ressourcen an diesem Tag erstmals veröffentlicht wurden.",
+ "title": "VibeVoice-ASR-BitNet wurde mit öffentlichen Code-, Modell- und Demo-Ressourcen verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

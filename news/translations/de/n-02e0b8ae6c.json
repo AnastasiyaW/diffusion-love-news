@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Werkzeug entwickelte sich von einem einfachen PNG-Metadaten-Viewer zu einem Tool mit MP4-Videounterstützung, Frame-Extraktion über das mitgelieferte FFmpeg und der Erkennung von Multi-Pass-Workflows für komplexe Pipelines wie WAN und img2vid.",
+ "id": "n-02e0b8ae6c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Umfasst die Integration in das Kontextmenü des Windows-Explorers und ermöglicht den direkten Export von ComfyUI-JSON-Workflows.",
+ "source_sha256": "2c38a096de1b76278313b4ce3126b16630312cd8df167b54054e1b4761ee0415",
+ "summary": "Ein portables Windows-Dienstprogramm, das Generierungsmetadaten wie Prompts und Seeds aus KI-generierten Bildern und Videos extrahiert und anzeigt, ohne dass die Generierungssoftware geöffnet werden muss.",
+ "title": "AI Metadata Inspector — Windows-Metadaten-Viewer",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

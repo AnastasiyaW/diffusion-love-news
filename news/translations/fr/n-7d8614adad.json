@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publication open source des poids de 8B en mai 2026, marquant un virage majeur de la diffusion latente vers des modèles de raisonnement natifs au niveau des pixels. Les variantes actuelles comprennent un modèle distillé « Dev » et une version de recherche à grand nombre de paramètres, « Pro ».",
+ "id": "n-7d8614adad",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Se classe parmi les meilleurs modèles open source sur les principaux benchmarks. Intègre un agent de raisonnement pour la planification de la mise en page et l'expansion des prompts.",
+ "source_sha256": "b1492b7803ea23b9c758265f205c3f3f86442819af380a5092299fdfaf017803",
+ "summary": "Un transformeur de 8B paramètres unifié nativement dans l'espace des pixels, destiné à la génération d'images de haute qualité et à l'édition d'images guidée par instructions. Il traite le texte et les pixels dans un espace de tokens partagé, permettant la synthèse native en 2K sans artefacts liés au VAE.",
+ "title": "HiDream-O1-Image : Transformeur unifié de 8B dans l'espace des pixels",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

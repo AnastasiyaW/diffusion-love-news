@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "C-MET在CVPR 2026上发表，通过利用自监督音频编码器，引入了对扩展情绪的零样本（zero-shot）能力。目前，它是情绪化说话头合成领域最先进的即插即用模块。",
+ "id": "n-70f82f82ae",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由UNIST和KAIST的研究人员开发；利用emotion2vec+提取高保真的语义音频特征。",
+ "source_sha256": "899d771c9b52fa0f12a402b98bcdef84e84fe76893c4cb18630b087ff4747218",
+ "summary": "一个模块化框架，通过将语音特征映射到面部表情，实现说话人脸视频中细粒度的情绪编辑。它支持讽刺、共情等超出基本情绪类别的复杂情绪状态，并可与现有的基于解耦的生成器集成。",
+ "title": "C-MET：面向说话人脸视频的跨模态情绪迁移",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

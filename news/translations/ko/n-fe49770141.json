@@ -1,0 +1,10 @@
+{
+ "id": "n-fe49770141",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a144805c3ef6e9a2a99b1f0ef8915ac1ab2a97df9f031f30df04daf478f5ebaf",
+ "summary": "2026-08-10, xAI는 날짜가 표기된 제품 뉴스 항목을 Grok Imagine Image 2.0과 연결하고, 독자들을 Grok Imagine으로 안내했다. 공개 제품 라인의 이정표를 확립한다는 점에서 이는 중요한 진전이지만, 제공된 근거만으로는 해당 모델의 기능, 제공 여부, 출시 조건을 확인할 수 없다.",
+ "title": "Grok Imagine Image 2.0이 xAI 제품 뉴스 항목을 통해 소개됐다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

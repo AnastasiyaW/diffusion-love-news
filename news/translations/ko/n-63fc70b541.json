@@ -1,0 +1,10 @@
+{
+ "id": "n-63fc70b541",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b49815145e60cd50f91909145aa78748e54cd79f1267bc6fb096354d8db6bcf3",
+ "summary": "2026년 3월 13일, SynthID-Bypass와 관련된 링크에는 공개 저장소와 SynthID-Bypass-v2.0.json이라는 버전이 명시된 JSON 워크플로 아티팩트가 포함되어 있었습니다. 같은 날짜의 링크 묶음에는 Hugging Face 참조도 함께 있었습니다. 이는 구체적인 프로젝트 아티팩트 참조를 기록한 것이지만, 릴리스 노트, 기능, 제작자, 검증 상태를 확인해 주지는 않습니다.",
+ "title": "SynthID-Bypass v2.0 워크플로 아티팩트 링크 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3faf75a3a8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "33ec81ccdc8c3905c00b187d5b7cc567067ee4d66c657126f918b83e118cd77b",
+ "summary": "Le 2026-03-25, une entrée datée renvoyait vers l'application Gemini et vers une page de génération musicale d'AI Studio dont l'URL identifie le modèle `lyria-3-pro-preview`. Ces liens attestent d'une voie d'accès en préversion à Lyria 3 Pro, mais ils n'établissent pas à eux seuls une publication officielle, ses capacités ou les conditions de disponibilité.",
+ "title": "Une voie d'accès en préversion à Lyria 3 Pro a été relevée",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

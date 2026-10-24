@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 시리즈는 전문화된 V1.0/V2.0 모델에서 V2.5의 통합 아키텍처로 전환되었으며, 2026년 4월 MIT 라이선스로 오픈소스화되었고 HyperOS 생태계에 통합되어 모바일 기기에서 1초 미만의 응답을 제공합니다.",
+ "id": "n-768295e164",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "1조 개 이상의 파라미터(활성 42B)를 가진 MiMo-V2.5-Pro를 포함하며, SWE-bench Pro 벤치마크에서 경쟁력 있는 성능을 보입니다.",
+ "source_sha256": "21e464be89ccbfe5bde442ad609c8a03a401f08460cbabf96753172e41b9e2c0",
+ "summary": "텍스트, 이미지, 비디오, 오디오 입력 전반에 걸쳐 100만 토큰 컨텍스트 윈도우를 갖춘 Xiaomi의 통합 네이티브 멀티모달 모델 패밀리입니다. 희소 Mixture-of-Experts 아키텍처와 하이브리드 어텐션을 활용하여 복잡한 에이전트 작업에서 높은 효율을 달성합니다.",
+ "title": "Xiaomi MiMo V2.5 Omnimodal Reasoning Models",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

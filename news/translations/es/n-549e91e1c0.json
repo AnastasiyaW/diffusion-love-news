@@ -1,0 +1,10 @@
+{
+ "id": "n-549e91e1c0",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a2cda1cd372b9daa2471bd6b741fe89868d73c7a0aaccd72b8d443a3510313da",
+ "summary": "El 4 de junio de 2026, los enlaces registrados apuntaban a repositorios de NVIDIA con los formatos BF16 y NVFP4 de Nemotron 3 Ultra 550B A55B, junto a un repositorio GGUF de Unsloth. Es un paso relevante en cuanto a disponibilidad, ya que la misma línea de modelos se ofrece en formatos adaptados a distintas rutas de inferencia y despliegue.",
+ "title": "Los artefactos de Nemotron 3 Ultra 550B A55B ya están disponibles en varios formatos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

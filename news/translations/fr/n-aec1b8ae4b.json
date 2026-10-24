@@ -1,0 +1,11 @@
+{
+ "id": "n-aec1b8ae4b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configurez les graines de génération globales et les priors environnementaux pour initialiser la couche de planification Macro dédiée à l'écologie régionale, à l'hydrologie et aux réseaux de transport.\n\nFournissez les vecteurs de position et de cap de l'agent pour projeter le couloir de déplacement, déclenchant la planification Micro anticipée pour les tuiles spatiales imminentes.\n\nInvoquez la compilation procédurale locale et déterministe pour traduire les décisions du plan Micro approuvé en terrain 3D, végétation et actifs d'implantations prêts à être rendus.\n\nÉmettez des commandes en langage naturel pour mettre à jour les entités d'exécution ou les attributs des tuiles, en persistant les états modifiés dans la base de données des enregistrements du monde par tuile.\n\nDissociez les horizons de planification de la compilation géométrique le long des couloirs prédits afin de maintenir des fréquences d'images stables et d'éviter les pics de calcul.\n\nImposez des engagements stricts aux frontières entre tuiles dans le planificateur Micro afin d'éviter les coutures visuelles et topologiques entre cellules compilées indépendamment.\n\nAppuyez-vous sur la recompilation à partir des enregistrements de graine et de mutation par tuile plutôt que sur la mise en cache de maillages à haute densité de polygones en mémoire lorsque l'agent parcourt de grandes distances.",
+ "source_sha256": "ddf424d568ff57c47cb526b79601c302d38255e52099a4b19c28b62b2c5b6ea8",
+ "summary": "WorldStream présente une architecture de modèle de monde 3D en streaming qui combine une planification hiérarchique macro et micro avec une compilation locale déterministe, en maintenant un terrain infini et des modifications persistantes le long du couloir de déplacement du joueur.",
+ "title": "WorldStream diffuse des mondes 3D sans fin grâce à une planification hiérarchique",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

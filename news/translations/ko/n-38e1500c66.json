@@ -1,0 +1,10 @@
+{
+ "id": "n-38e1500c66",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "39d743d5eaa3229d2d0eb7a4d3197687c7365bfa08a30bd4f4f8632c095d6856",
+ "summary": "2026년 6월 7일, TripoSplat이 연구 페이지, 오픈소스 저장소, 모델 체크포인트, 대화형 데모, ComfyUI 워크플로 템플릿을 통해 소개되었다. 이들 리소스를 통해 이 프로젝트는 기술적 연구와 이미지-투-가우시안 스플랫(image-to-Gaussian-splat) 실험에 활용할 수 있게 되었다.",
+ "title": "TripoSplat 연구, 모델, 데모 및 워크플로 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

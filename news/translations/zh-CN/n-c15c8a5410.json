@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目已扩展为更广泛的生态体系,包括面向办公效率安全的 ClawsBench、面向高难度“野外”智能体任务的 WildClawBench,以及面向自主科学发现的 ResearchClawBench。",
+ "id": "n-c15c8a5410",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该基准的显著特点在于它直接运行于实时、持续变化的网站上,而非静态快照;并利用 Request Interceptor(请求拦截器)阻断最终提交步骤。",
+ "source_sha256": "38b9329a312a01615fe368746e4255fe335f4c677cf94af014df46821dca36ce",
+ "summary": "一个评测套件,用于测试 AI 智能体在 144 个在线生产网站上完成 153 项日常任务的能力。它采用专门的请求拦截机制,在不完成不可逆付款的前提下安全地评估机票预订、网购等操作。",
+ "title": "ClawBench:面向真实网络环境的在线网页智能体基准",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

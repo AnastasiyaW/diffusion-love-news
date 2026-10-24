@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 연산 추적 기록을 포함한 최초의 대규모 Photoshop 기반 데이터셋인 CreativePSD를 도입했다. 블랙박스 방식의 생성에서 벗어나 모듈형 아키텍처(AssetCollector, GraphicPlanner, ToolExecutor)로 발전했으며, CVPR 2026에 채택되었다.",
+ "id": "n-da24004da2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델이 전문가의 디자인 절차를 학습할 수 있도록 CreativePSD 데이터셋을 도입했으며, FudanCVL 연구 그룹이 개발했다.",
+ "source_sha256": "63435318bb854de62c86f0d22d39c6bd0c26cfa652969d2b20715629f832dec5",
+ "summary": "에셋 수집, 그래픽 기획, 반복적 개선을 통해 인간의 창작 과정을 모사하는 자동화 그래픽 디자인 시스템이다. 평면 이미지를 생성하는 대신 PSD 레이어를 조작하여 전문적인 레이어 구조의 디자인 파일을 생성한다.",
+ "title": "PSDesigner: 사람의 작업 흐름을 닮은 자동화 그래픽 디자인",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3f35c2ca4e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6c587a66caac966afb77150fdd1039e067873f84dd281706e4947bfcaf33bcae",
+ "summary": "El 2026-03-31, el registro vinculó Qwen 3.6 Plus Preview a una URL de OpenRouter marcada como endpoint gratuito. Esta propuesta consiste en registrar esa señal de disponibilidad pública con fecha, en lugar de un lanzamiento verificado del modelo: las pruebas aportadas no establecen el operador, las capacidades, los términos de uso ni si el endpoint estaba activo en esa fecha.",
+ "title": "Señal de disponibilidad en OpenRouter para Qwen 3.6 Plus Preview",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

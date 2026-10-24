@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Issu du modèle LLaDA 1.0, limité au texte, et de LLaDA 2.0-Flash ; ajout de la prise en charge de ComfyUI le 12 mai 2026. Une version quantifiée en FP8 a été publiée en mai 2026 afin d'optimiser l'utilisation de la VRAM sur les GPU grand public.",
+ "id": "n-64094eafae",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par Inclusion AI (Ant Group) ; il utilise un tokeniseur SigLIP-VQ original et un « Thinking Mode » fondé sur la diffusion pour le raisonnement spatial.",
+ "source_sha256": "3cbfe9b4a54da41044a1e36ee7d9ed802cbc1acb94f3957d8f9b6c6654a63b40",
+ "summary": "Un grand modèle de langage à diffusion discrète unifié, capable d'effectuer nativement à la fois la compréhension d'images et la génération haute fidélité. Il s'appuie sur une architecture Mixture-of-Experts de 16B paramètres pour gérer le raisonnement multimodal entrelacé, sans recourir à des modules de génération externes.",
+ "title": "LLaDA2.0-Uni : unifier la compréhension et la génération multimodales",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

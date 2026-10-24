@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet s'est élargi en un écosystème plus vaste, incluant ClawsBench pour la sécurité en matière de productivité bureautique, WildClawBench pour une évaluation de l'agentivité « in the wild » à haute difficulté, et ResearchClawBench pour la découverte scientifique autonome.",
+ "id": "n-c15c8a5410",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le benchmark se distingue par son fonctionnement sur des sites web en direct et en perpétuelle évolution, plutôt que sur des instantanés statiques, et par l'utilisation d'un Request Interceptor qui bloque l'étape finale de soumission.",
+ "source_sha256": "38b9329a312a01615fe368746e4255fe335f4c677cf94af014df46821dca36ce",
+ "summary": "Une suite d'évaluation qui teste des agents IA sur 153 tâches du quotidien à travers 144 sites web de production en activité. Elle s'appuie sur un mécanisme spécialisé d'interception des requêtes permettant d'évaluer en toute sécurité des actions telles que la réservation de vols ou les achats, sans jamais finaliser de paiements irréversibles.",
+ "title": "ClawBench : un benchmark en conditions réelles pour les agents web en ligne",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

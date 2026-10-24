@@ -1,0 +1,10 @@
+{
+ "id": "n-a0e40ff5d8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2a5b7a2b10ab1fa09d4a6061a9da7e129d1a3fafdf4601aa747a10e0b8ad89f7",
+ "summary": "2026-05-26，DAR 开发线记录了对 Hugging Face 论文 2605.20708 的一次引用。该记录作为研究引用里程碑保留在项目历史中。已封存的证据并未确定该论文的标题、作者、研究结论，也未确定 DAR 与该论文之间的具体关系。",
+ "title": "DAR 记录了一篇 Hugging Face 研究论文引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

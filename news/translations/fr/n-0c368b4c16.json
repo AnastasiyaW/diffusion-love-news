@@ -1,0 +1,10 @@
+{
+ "id": "n-0c368b4c16",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6a9256a74ee719cbc7d35bbad736a4d5f4f2fe262dccc1e118034253442333f",
+ "summary": "Le 30 mars 2026, Geometric Latent Diffusion a été présenté via une page de projet et un dépôt de code source, avec également un lien vers la publication du modèle sur Hugging Face et une démo interactive. Il s'agit d'une étape importante en matière de mise à disposition publique du code, de l'artefact modèle et de la démonstration du projet.",
+ "title": "Ressources, modèle et démo du projet Geometric Latent Diffusion rendus publics",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

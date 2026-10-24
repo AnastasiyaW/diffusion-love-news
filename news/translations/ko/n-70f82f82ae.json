@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026에서 발표된 C-MET은 자기지도 학습 오디오 인코더를 활용하여 확장된 감정에 대한 zero-shot 능력을 도입했다. 현재 감정이 담긴 talking head 합성을 위한 최첨단(state-of-the-art) plug-and-play 모듈로 활용되고 있다.",
+ "id": "n-70f82f82ae",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "UNIST와 KAIST 연구진이 개발했으며, 고충실도 의미 기반 오디오 특징 추출을 위해 emotion2vec+를 활용한다.",
+ "source_sha256": "899d771c9b52fa0f12a402b98bcdef84e84fe76893c4cb18630b087ff4747218",
+ "summary": "음성 특징을 얼굴 표정으로 매핑하여 말하는 얼굴 비디오의 세밀한 감정 편집을 수행하는 모듈형 프레임워크다. 기본 감정 범주를 넘어 풍자(sarcasm)와 공감(empathy)과 같은 복합적인 감정 상태를 지원하며, 기존의 disentanglement 기반 생성기와 통합될 수 있다.",
+ "title": "C-MET: 말하는 얼굴 비디오를 위한 교차 모달 감정 전이",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

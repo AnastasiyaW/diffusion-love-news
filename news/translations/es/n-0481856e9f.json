@@ -1,0 +1,10 @@
+{
+ "id": "n-0481856e9f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "054cbd5545b6202f1bbd2c096544ad9b7a4c14dcf7e419a45a4a138801d947eb",
+ "summary": "El 18 de marzo de 2026, el hilo de OpenSeeker enlazó el repositorio del proyecto en GitHub y la página de Hugging Face de OpenSeeker-v1-30B-SFT. Solo a partir de los enlaces con fecha, se trata de un hito material en la disponibilidad pública del código fuente y del modelo. Los enlaces no permiten determinar las notas de la versión, las capacidades, la licencia, los resultados de benchmarks ni la finalidad del enlace adicional a hf.ru.",
+ "title": "OpenSeeker enlazó su repositorio de código fuente y el modelo SFT de 30B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

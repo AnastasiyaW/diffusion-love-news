@@ -1,0 +1,10 @@
+{
+ "id": "n-8cc344a285",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e16645bf0c3927c7d2005331a0280f70db0c16deb26b5ed7928a5b18bc29149a",
+ "summary": "2026-07-18，Decart 发布了 Lucy 2.5 的公开页面，并附上了一个公开的产品端点链接。这是 Lucy 系列的一次重要公开进展，因为带日期的官方链接表明这是一个独立版本，而非转载。仅凭所提供的链接，无法确定其具体能力、性能、可用性，或其与早期 Lucy 版本之间的关系。",
+ "title": "Decart 公开发布 Lucy 2.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

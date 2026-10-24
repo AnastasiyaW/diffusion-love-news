@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月随论文 arXiv:2604.06870 一同发布，同时公开了推理脚本、模型检查点以及可在线体验的 Hugging Face 演示。此后，它已被集成到 ComfyUI 中，并收到了用于固定运行环境的关键更新，以解决色偏问题。",
+ "id": "n-10b1471000",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "基于 Qwen-Image-Edit-2511 架构构建；其独特之处在于提出了边界一致性损失（Boundary Consistency Loss），以确保精修后的图像块与原图无缝融合。",
+ "source_sha256": "64b708af7f99e33a5df587dfeba2da437d9cfc0b18ec46df62981c3e1796d98a",
+ "summary": "一种基于扩散模型的框架，专为高精度局部图像编辑与修复而设计。它擅长修正文字、标识（logo）和复杂结构等细粒度细节，并通过“聚焦-精修”策略确保背景保持高度一致。",
+ "title": "RefineAnything：多模态区域级图像精修",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

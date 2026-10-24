@@ -1,0 +1,11 @@
+{
+ "id": "n-66869cc4a0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ouvrez l'éditeur de clips musicaux ElevenCreative, importez une vidéo et générez une bande-son avec des effets sonores ; vous pouvez également utiliser l'audio existant de la vidéo comme référence pour la musique.\n\nVérifiez les effets sonores sous forme de calques distincts sur la timeline, ajustez leur timing ou remplacez la musique, puis exportez le résultat.\n\nPour créer de la musique en dehors du flux vidéo, décrivez le genre, l'ambiance, l'instrumentation, la structure et l'usage prévu dans une consigne en langage naturel, puis modifiez les sections ou régénérez.\n\nUtilisez une consigne détaillée combinant genre, ambiance, instrumentation, tempo et usage plutôt qu'une simple étiquette de genre générale.\n\nPour les compositions longues, générez et validez d'abord une introduction, puis construisez les sections successives et affinez les consignes plutôt que de recommencer l'ensemble du morceau.\n\nUtilisez des calques d'effets sonores séparés pour vérifier le timing des repères et revoir des moments précis avant l'export.",
+ "source_sha256": "072a78b651bfd1a26e511f373b87868ff5812d6f0d4b42eeb602ae015a308cfd",
+ "summary": "Instant Soundtracks génère une musique de fond et des effets sonores synchronisés à partir d'une vidéo importée, présente les effets sous forme de calques modifiables et peut renvoyer via l'API des fichiers séparés pour la musique et les effets sonores.",
+ "title": "ElevenLabs ajoute Instant Soundtracks pour les vidéos importées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Die 8B-Gewichte wurden im Mai 2026 als Open Source veröffentlicht, ein deutlicher Schritt weg von latenter Diffusion hin zu pixelnativen Reasoning-Modellen. Aktuelle Varianten umfassen ein destilliertes „Dev“-Modell und eine Forschungsversion „Pro“ mit höherer Parameterzahl.",
+ "id": "n-7d8614adad",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gehört auf gängigen Benchmarks zu den besten Open-Source-Modellen. Integriert einen auf logischem Schlussfolgern basierenden Agenten für Layoutplanung und Prompt-Erweiterung.",
+ "source_sha256": "b1492b7803ea23b9c758265f205c3f3f86442819af380a5092299fdfaf017803",
+ "summary": "Ein nativ vereinheitlichter 8B-Transformer im Pixelraum für hochwertige Bilderzeugung und instruktionsbasierte Bearbeitung. Er verarbeitet Text und Pixel in einem gemeinsamen Token-Raum und ermöglicht so die native 2K-Synthese ohne VAE-Artefakte.",
+ "title": "HiDream-O1-Image: Einheitlicher 8B-Transformer im Pixelraum",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

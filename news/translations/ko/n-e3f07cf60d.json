@@ -1,0 +1,10 @@
+{
+ "id": "n-e3f07cf60d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "59ed1d1fed4efa78c668c8fb4d9bc88d710842613a70442ec69e38503ef1c7b9",
+ "summary": "2026-07-20 기준으로 MetaView는 공개 프로젝트 사이트, 소스 저장소, Hugging Face 모델 페이지, 호스팅된 데모와 연결되어 있었다. 이러한 날짜가 명시된 링크들을 종합하면 해당 프로젝트의 공개 가용성 이정표를 가리킨다. 다만 링크만으로는 버전, 기능 범위, 배포 조건을 확정할 수 없다.",
+ "title": "MetaView 공개 프로젝트 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

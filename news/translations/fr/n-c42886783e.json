@@ -1,0 +1,11 @@
+{
+ "id": "n-c42886783e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Créez un environnement virtuel Python 3.11 ou 3.12 et installez les dépendances figées dans le fichier de requirements.\n\nExécutez `python its_giving_v2.py --calibrate`, restez neutre pendant la calibration de sept secondes, puis lancez `python its_giving_v2.py`.\n\nInstallez un backend de caméra virtuelle adapté au système d'exploitation, démarrez ItsGiving avant l'application de réunion, puis sélectionnez la caméra virtuelle publiée dans les paramètres vidéo de cette application.\n\nConservez les versions figées des dépendances sans modification : les contraintes de compatibilité documentées entre MediaPipe, NumPy et OpenCV sont liées.\n\nUtilisez la v2 et recalibrez si nécessaire, car ses seuils d'expression reposent sur la référence du visage neutre de l'utilisateur.\n\nLorsque vous ajoutez une posture, vérifiez l'ordre des postures avant d'abaisser les seuils, car la première posture correspondante l'emporte ; utilisez l'ATH (affichage tête haute) et un compteur de bras pour ajuster les fausses détections.\n\nTestez les réactions avant de les utiliser en réunion, car la sortie peut se déclencher automatiquement et est visible par tous les participants à l'appel.",
+ "source_sha256": "74e7cd4373cfea8835cc7ded287bc144095e8057a47b92761f1656ef651896b2",
+ "summary": "ItsGiving associe les expressions du visage et les postures des mains et du corps à des incrustations de mèmes, puis diffuse le résultat sous forme de caméra virtuelle pour les logiciels de visioconférence ; le dépôt documente 14 réactions intégrées et un détecteur v2 calibré.",
+ "title": "Incrustation de mèmes ItsGiving pour la webcam lors des réunions",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-9fce4f9cd3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f097517e22c9e88ed8fbe206ca1b4a0f6d86312eccf0d15156f7a378bb8b60e9",
+ "summary": "2026年7月9日,xAI 发布了一则 Grok 4.5 的新闻条目,标志着 Grok 产品线的一项具名进展。相关带日期的链接还指向 xAI 文档、其 CLI 以及 Grok 服务,表明这是一次面向产品的更新,而非评论或转载。现有证据并未确定具体功能、可用性或性能方面的说法。",
+ "title": "xAI 发布 Grok 4.5 产品更新",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

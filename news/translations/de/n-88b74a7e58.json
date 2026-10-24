@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der Annahme zur CVPR 2026 wurde das Projekt im April 2026 auf Version v2 aktualisiert. Diese Version führte einen verbesserten konditionalen VAE-Decoder, optimierte Sparse Attention für die Verarbeitung von 4K-Videos sowie verteilte Inferenzfähigkeiten auf mehreren GPUs ein.",
+ "id": "n-88b74a7e58",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Forschenden der USTC und von Alibaba; das Framework verwendet Wan2.1-T2V-1.3B als Backbone und verallgemeinert erfolgreich auf 4K-Auflösung mithilfe von tiled VAE-Encoding.",
+ "source_sha256": "93d1cb5025a7d37b0d329fc040de48b0455f94b7281a37bf1b8433e39d48de76",
+ "summary": "Ein hochmodernes Framework für Video-Frame-Interpolation, das die Diffusion-Transformer-Architektur Wan2.1 für eine ganzheitliche Sequenzmodellierung adaptiert. Es nutzt auto-regressive Generierung mit Skip-Concatenate-Sampling, um die zeitliche Konsistenz in langen Videos und bei hochauflösenden Frames zu wahren.",
+ "title": "LDF-VFI: Local Diffusion Forcing für Video-Frame-Interpolation",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

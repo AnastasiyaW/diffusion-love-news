@@ -1,0 +1,10 @@
+{
+ "id": "n-22448a4fd0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0115b3d987d3384ce28dfc4b73519f331793583973e894b5a7b8447ad176d5d9",
+ "summary": "2026年7月22日，TimeLens2 开发线发布消息，链接了公开项目页面、GitHub 源代码仓库、Hugging Face 合集以及一个时间定位（temporal grounding）Space。这一相互链接的公开入口是该项目在分发与访问方面的重要一步。现有证据尚不能确定具体版本、模型配置或任何功能声明。",
+ "title": "TimeLens2 公开项目资源已上线链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

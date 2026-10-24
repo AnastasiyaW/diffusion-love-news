@@ -1,0 +1,10 @@
+{
+ "id": "n-c8fa19868e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "23ae54e1200b60a6cdc6001e7f824ad729d35d23c2c60e353c28b0174ba686ff",
+ "summary": "2026-03-25，该开发动态记录了一条指向 Hugging Face 的 hf-mount GitHub 仓库的链接。仅凭这条带日期的链接，只能确定该项目在当天被公开引用；无法支持任何关于发布、功能或使用情况的论断。",
+ "title": "Hugging Face 的 hf-mount 仓库被公开引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

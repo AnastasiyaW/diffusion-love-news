@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "비공개 스토리보드 도구에서 출발해 다중 트랙 지원, 키프레이밍, 체계적인 제작을 위한 'Director Mode'를 갖춘 완전한 기능의 AI 비디오 워크스테이션으로 발전했다. 최근 업데이트에서는 노드 및 모델의 자동 탐색과 설치를 위한 Workflow Manager가 추가되었다.",
+ "id": "n-18e6b47885",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "VRAM을 고려한 생성을 위한 'Hardware Tiers' 기능을 제공하며, 프롬프트 보조와 스토리보드 기획을 위한 로컬 LLM을 내장하고 있다.",
+ "source_sha256": "c7b7f97971741a4b7da6608f0b0941d9b368bf033e2f10cb7ae40c26019d5a16",
+ "summary": "ComfyUI 위에 구축된 오픈소스 비선형 비디오 편집기(NLE)다. 기존의 타임라인 편집 방식과 AI 생성 워크플로를 통합하여, 반복적인 영상 제작, 샷 계획, 다중 트랙 편집을 가능하게 한다.",
+ "title": "ComfyStudio: ComfyUI 기반의 타임라인 방식 AI 비디오 편집기",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

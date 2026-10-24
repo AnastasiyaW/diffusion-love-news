@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从零散的脚本演变为功能完备的智能体电影工作室:使用 Ollama 负责导演决策,使用 LTX-Video 负责视频合成。目前支持自动化场景规划、多次拍摄(multi-take)生成以及内置剪辑工具。",
+ "id": "n-511353336a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "集成了基于 Gemma 的模型用于剧本创作,并使用 LTX 2.3/LTX-AV 进行视频生成;属于 AgentSkills 生态系统的一部分。",
+ "source_sha256": "f67285c736bff3dd75febc740648f0fe381c39ade97fba88e3395af9b722562c",
+ "summary": "一条自主运行的本地流水线,利用智能体型大语言模型(LLM)将文本提示或剧本转化为成片的电影级视频。它在统一的、基于 ComfyUI 的环境中协调剧本分析、分镜制作与视频生成。",
+ "title": "KupkaProd Cinema Pipeline:本地智能体 AI 电影工作室",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

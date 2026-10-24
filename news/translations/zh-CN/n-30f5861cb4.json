@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月初发布，随后迅速扩展，支持使用 RetinaFace 对齐进行全图修复。2026 年 5 月的近期更新重点改进了 ComfyUI 集成，并修复了与设备相关的 LoRA 放置问题。",
+ "id": "n-30f5861cb4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要较高的显存（22GB 及以上），并使用未量化的 FLUX.2-klein-base-4B 模型。已有一个广受欢迎的 ComfyUI 实现，可通过 ComfyUI-Flux-FaceIR 仓库获取。",
+ "source_sha256": "78edfeafc2a375dd3c633bf6c675606caaa86a4ae1c4d27e10c39d9b2aa72aff",
+ "summary": "Flux FaceIR 是一个基于 FLUX.2-klein 模型构建的专用修复框架，支持盲修复和参考引导的人脸增强。它利用 LoRA 适配器恢复细粒度细节，并在单张或多张参考图像之间保持人物身份一致。",
+ "title": "Flux FaceIR：面向 Flux 的高质量人脸修复",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

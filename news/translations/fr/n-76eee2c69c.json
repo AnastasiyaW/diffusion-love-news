@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé fin avril 2026, Echo-2 introduit la persistance spatiale et l'édition au niveau des objets via le Gaussian Splatting, succédant aux prototypes antérieurs en mettant l'accent sur une géométrie « ancrée physiquement », qui élimine la dérive pendant la navigation.",
+ "id": "n-76eee2c69c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par la startup munichoise SpAItial AI ; les résultats peuvent être exportés sous forme de nuages de points .ply ou dans des formats de maillage standards destinés à être utilisés dans des moteurs de jeu comme Unreal Engine 5.",
+ "source_sha256": "a082b7173bd43ab53fc748489fb6a44c372bd94157034091373eb170ddfe2bf9",
+ "summary": "Echo-2 est un modèle de monde génératif qui transforme des prompts textuels ou des images uniques en environnements 3D navigables et cohérents sur le plan spatial. Il utilise le 3D Gaussian Splatting pour garantir une géométrie stable et des performances en temps réel directement dans les navigateurs web.",
+ "title": "Echo-2 : génération de mondes 3D par SpAItial AI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-25eed24e0d",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "24da5dbd4f9e393360a913f0a5542c3c9b7a73f065926296084700e85da278e2",
+ "summary": "El 2026-06-22, el registro disponible vinculó el repositorio de GitHub Windows-Copilot-API junto con el sitio web de Copilot de Microsoft. Esto establece un punto de referencia público y fechado para la línea de desarrollo del proyecto, pero no establece una versión, un conjunto de funciones, la propiedad ni el estado de despliegue. No se proporcionó el texto fuente original ni evidencia independiente que lo corrobore.",
+ "title": "El repositorio Windows-Copilot-API y el sitio de Microsoft Copilot quedaron vinculados",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

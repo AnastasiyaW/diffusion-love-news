@@ -1,0 +1,10 @@
+{
+ "id": "n-a99ab8a6eb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f55dc22ffdef287662296158ef1ee6c5540cb519e5d3443bd9d460ec01519fdd",
+ "summary": "2026-08-26에 Qwen3.8-Flash-Next가 프로젝트 저장소, Hugging Face 리소스, 공개 데모, Qwen Cloud 링크와 함께 기록되었다. 날짜가 붙은 링크 목록에는 이 주제를 기반으로 한 양자화 모델을 찾는 Hugging Face 검색 링크도 포함되어 있었다. 이는 공개된 프로젝트 리소스 측면의 이정표를 확인하는 것이며, 출시일, 기능, 배포 상태를 확인하지는 않는다.",
+ "title": "Qwen3.8-Flash-Next 프로젝트 리소스가 문서화되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

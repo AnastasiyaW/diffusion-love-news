@@ -1,0 +1,10 @@
+{
+ "id": "n-2d08c11049",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "518f3a24316c99798ffd8cba0891c78a9df5e54190d59d798686a52c62e4cb31",
+ "summary": "2026-07-23, Solar Open 2가 날짜가 명시된 Upstage 공지 링크를 통해 소개되었다. 연결된 자료에는 Solar-Open2-250B의 Hugging Face 페이지와 Upstage 플레이그라운드가 포함되어 있으며, 이는 모델 접근과 대화형 평가 경로를 함께 제공하는 프로젝트 출시임을 시사한다.",
+ "title": "Solar Open 2, 모델 페이지와 플레이그라운드 접근 권한과 함께 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

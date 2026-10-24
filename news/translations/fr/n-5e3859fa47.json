@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article annonçait la publication du code et des poids de SANA-Video, des démonstrations, des liens vers Hugging Face et Diffusers, une utilisation possible avec ComfyUI, ainsi qu'une impression négative après un essai en quatre étapes.",
+ "id": "n-5e3859fa47",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0fe01ac2f4beeb88d36b62beea462f6ddc8e72c3c58312cde3b0d0cdc3eb39c6",
+ "summary": "L'article annonçait la publication du code et des poids de SANA-Video, des démonstrations, des liens vers Hugging Face et Diffusers, une utilisation possible avec ComfyUI, ainsi qu'une impression négative après un essai en quatre étapes.",
+ "title": "Le code et les poids de SANA-Video sont disponibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

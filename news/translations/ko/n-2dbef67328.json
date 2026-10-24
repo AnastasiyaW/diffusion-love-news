@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "원래 'AI 슬롭(slop)'에 대한 풍자적 논평으로 공개되었으나, 이후 로컬 우선 브라우저 기반 에이전트를 위한 실용적인 템플릿으로 발전했습니다. 'Vibe Coding'과 저품질 자율 AI 시스템의 확산을 다루는 논의에서 자주 언급됩니다.",
+ "id": "n-2dbef67328",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "PasiKoodaa가 Chat-with-Screen, Screen-Analysis-Overlay 등 다른 로컬 우선(local-first) 도구들과 함께 관리하고 있습니다.",
+ "source_sha256": "e874aba0efa9e4e2a942dfcea5e9de1fb0f8975d83f7f9c3758f01f0fcd4a4bc",
+ "summary": "외부 API 키 없이 브라우저에서 곧바로 자율적인 AI 기반 프로그래밍을 가능하게 하는 경량 오픈소스 도구입니다. 로컬 모델 실행을 활용해 에이전트형 코딩 작업과 빠른 실험을 위한 단순화된 환경을 제공합니다.",
+ "title": "SlopLobster: 로컬 브라우저 기반 AI 코딩 어시스턴트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

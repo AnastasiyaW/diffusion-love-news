@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "출시 이후 이 프로젝트는 기본적인 에이전트 어댑터에서 세션 간 메모리와 'Critique Theater' 리플레이 시스템을 갖춘 정교한 플랫폼으로 발전했습니다. 주요 업데이트를 통해 Devin, DeepSeek, Mistral을 포함한 다양한 에이전트를 지원하게 되었으며, 아티팩트 관리를 위한 시각적 갤러리도 추가되었습니다.",
+ "id": "n-ff21b44ef5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apache-2.0 및 MIT 라이선스로 이중 배포됩니다. 'Bring Your Own Key' 모델을 따르며, Markdown을 통해 에이전트 기능을 확장하는 독특한 'Skills are files' 시스템을 갖추고 있습니다.",
+ "source_sha256": "2fcdc9ad0323b6fcaca284e0e6d2b7d5017f59f02aa2341b6aeac267f5551efa",
+ "summary": "Open Design은 여러 코딩 에이전트 CLI와 연동되어 Claude Design의 오픈소스 대안을 제공하는 로컬 우선 디자인 아티팩트 생성기입니다. 스킬 기반 아키텍처를 사용하며, 사용자 시스템에서 사용 가능한 AI 에이전트를 탐색하여 오프라인 생성을 지원합니다.",
+ "title": "Open Design: 로컬 우선 오픈소스 AI 디자인 엔진",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

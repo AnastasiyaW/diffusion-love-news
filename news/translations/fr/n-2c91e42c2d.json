@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Accepté à CVPR 2026 ; code, poids BAGEL-7B-MoT et benchmark 21-Tasks-Bench publiés en avril 2026.",
+ "id": "n-2c91e42c2d",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduit la récompense CoT-Editing Consistency (CEC) et Flow-GRPO pour combler l'écart entre le raisonnement du modèle et la sortie au niveau du pixel.",
+ "source_sha256": "5911a7a66a1fd4304bcaa0475776407ccf9bff8530d1bb6ea9ae6d760f47fc39",
+ "summary": "Un cadre de raisonnement hiérarchique qui décompose les instructions d'édition d'images en triplets structurés et en cinq méta-tâches fondamentales. Il aligne les grands modèles de langage multimodaux sur les sorties de diffusion grâce à l'apprentissage par renforcement, afin d'atteindre une généralisation à l'état de l'art.",
+ "title": "Meta-CoT : raisonnement en chaîne hiérarchique pour l'édition d'images",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

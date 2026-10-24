@@ -1,0 +1,10 @@
+{
+ "id": "n-02ff6518d6",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b261e274f7a5c0fad5bba9db97037b253524cd82c21f2e779b9f24173d268938",
+ "summary": "Am 29.06.2026 enthielt die Entwicklungsdokumentation von Anti-Vocale einen Link auf das öffentliche GitHub-Repository des Projekts. Der datierte Link belegt somit einen Verweis auf das Projekt-Repository, nennt aber keine konkrete Version, keinen Commit, kein Feature oder sonstige Änderung.",
+ "title": "Öffentliches GitHub-Repository von Anti-Vocale erwähnt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

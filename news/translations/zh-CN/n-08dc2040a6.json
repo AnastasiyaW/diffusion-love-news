@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "作为 GaussianAvatars 的后继工作，它引入了 Bias Sinks，以防止在单目视频训练时出现身份与姿态的纠缠。该研究论文于 2025 年底发布，官方代码仓库目前仍在等待完整源代码的发布。",
+ "id": "n-08dc2040a6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由慕尼黑工业大学（TUM）开发；代表了头部虚拟形象研究向大型重建模型（LRMs）的重要转变。",
+ "source_sha256": "6bfbc4dde96c5c9e8ae1369691ad4ec9180f6095f5e3c19b251191281d08d887",
+ "summary": "FlexAvatar 是一个领先水平的框架，可从单张照片等稀疏输入生成可驱动的 3D 头部虚拟形象。它采用 3D Gaussian Splatting 和一种新颖的 Bias Sinks 机制，使其能够在多样的单目与多视角数据集上进行训练。",
+ "title": "FlexAvatar：基于 Bias Sinks 的高保真 3D 头部虚拟形象",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

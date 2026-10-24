@@ -1,0 +1,10 @@
+{
+ "id": "n-d7ef7b4828",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3400a385f67be8a27c7192f78a1192572077d42740732608377d275f10711dc1",
+ "summary": "Am 2026-08-02 verlinkte ein Eintrag zu Ouroboros das GitHub-Repository des Projekts und dessen Seite releases/latest zusammen mit externen technischen und Community-Referenzen. Das datierte Linkbündel dokumentiert einen öffentlichen Referenzpunkt des Projekts, lässt jedoch das konkrete Release, den Änderungsumfang und die Urheberschaft unverifiziert.",
+ "title": "Ouroboros: öffentliches Quellcode- und Release-Referenzpunkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

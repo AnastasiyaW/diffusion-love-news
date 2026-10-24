@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet Z-Image est passé de modèles DiT lourds à la version distillée « Turbo », afin de permettre un détaillage en temps réel. Il a depuis été intégré à l'écosystème « Z-Image Power Nodes », prenant en charge des fonctionnalités avancées telles que le détaillage à faible sigma et des LoRA faciaux spécialisés.",
+ "id": "n-9744e9b73c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nécessite l'encodeur de texte Qwen 2.5 VL et un VAE spécifique pour des résultats optimaux ; il surpasse nettement les détailleurs SDXL traditionnels en termes de rapport vitesse/qualité.",
+ "source_sha256": "e69dedc1ccec3eb56078e0d1aa0b93140328f25592e675aa8245e6e9a443a3b4",
+ "summary": "Un workflow ComfyUI haute performance optimisé pour l'amélioration du visage, utilisant le modèle DiT Z-Image Turbo 6B d'Alibaba. Il s'appuie sur un pipeline précis de recadrage et d'inpainting combinant YOLOv8 et SAM pour restituer des textures de peau haute fidélité en seulement 8 à 10 étapes.",
+ "title": "Workflow de détaillage facial Z-Image Turbo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

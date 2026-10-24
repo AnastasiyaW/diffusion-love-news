@@ -1,0 +1,10 @@
+{
+ "id": "n-1651c3d215",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8afda37dfa234a99b744f83c5cf8162b2826a40242052def56b0dfd2b55f06be",
+ "summary": "Am 13.05.2026 identifizierten verlinkte öffentliche Materialien jina-embeddings-v5-omni als Embedding-Modell von Jina AI, dessen Schwerpunkt auf der Indexierung mehrerer Medientypen in einem gemeinsamen Index liegt. Der verlinkte Elastic-Artikel, die Hugging-Face-Sammlung, die ModelScope-Organisationsseite und die WebGPU-Demo zeigen, dass zu diesem Zeitpunkt öffentliche Dokumentations- und Verfügbarkeitsangebote existieren, die mit dem Modell verbunden sind. Genaue Angaben zum Launch und technische Spezifikationen müssen vor der Veröffentlichung überprüft werden.",
+ "title": "Jina AI stellt jina-embeddings-v5-omni vor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

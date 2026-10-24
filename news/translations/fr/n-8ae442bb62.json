@@ -1,0 +1,10 @@
+{
+ "id": "n-8ae442bb62",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5f4753f6d94c23dc801ebeb17433d0dacaaa5a94ed7b1785daae5a913cdcbdf7",
+ "summary": "Le 2026-05-19, la ligne de développement mm-ctx a fait référence à un espace public Hugging Face à l'adresse https://huggingface.co/spaces/vlm-run/mm-ctx. Les éléments disponibles établissent cette référence à un projet public, mais ne permettent pas de dire si elle marquait un lancement, une mise à jour, une démo ou un autre jalon précis.",
+ "title": "Référence à l'espace public Hugging Face mm-ctx",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

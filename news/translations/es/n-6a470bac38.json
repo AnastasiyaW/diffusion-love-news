@@ -1,0 +1,10 @@
+{
+ "id": "n-6a470bac38",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1c56899a2bcdf57698b1bf60de7f4da3e924541a93940088b54a8ab8da112acf",
+ "summary": "El 2026-07-01, un repositorio de Hugging Face publicó un checkpoint INT8 ConvRot para Flux2-Klein-9B True V3. Los enlaces con fecha también vincularon este checkpoint con un repositorio de integración INT8 centrado en ComfyUI, lo que supone un paso práctico de distribución para los usuarios de inferencia local.",
+ "title": "Un checkpoint INT8 de Flux2-Klein y una integración con ComfyUI quedaron disponibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

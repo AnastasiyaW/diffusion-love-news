@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 도구 호출(tool-calling) LLM에서 발전하여, QwenPaw 생태계 내에서 완전 자율적인 '에이전트형' 프레임워크로 진화했으며, 사람의 프롬프트 없이도 다단계 작업 수행과 자기 교정이 가능하다.",
+ "id": "n-ea5cb3e3f2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Alibaba의 AgentScope 팀이 개발했으며, 특정 LoRA 어댑터 및 vLLM 실행 환경과 함께 사용할 때 최적의 성능을 보인다.",
+ "source_sha256": "a392fd936c26f296fcb4e8f82fd10a99c34714bca65636433a3359ba94ec2061",
+ "summary": "Qwen3.5-9B 아키텍처를 기반으로 하며, 에이전트 궤적(trajectory) 데이터를 사용해 자율적인 데이터 과학 워크플로우에 특화되도록 파인튜닝된 전문 에이전트 모델이다. 데이터 정제, 통계적 프로파일링, Python을 통한 시각화 생성 등 분석 전 과정을 독립적으로 처리한다.",
+ "title": "CoPaw-Flash-9B: 자율 데이터 분석 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

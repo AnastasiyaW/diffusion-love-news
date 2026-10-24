@@ -1,0 +1,11 @@
+{
+ "id": "n-5353f88f44",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델 페이지와 빠른 시작 페이지에는 날짜가 표시되어 있지 않으며, 관련 플레이그라운드 경로는 현재 오류를 반환한다.",
+ "source_sha256": "4851a9638715d575e9894a3597c16c3283957fc8779324cd03a58ce0a8bed153",
+ "summary": "2026-08-05, FLUX 3가 Black Forest Labs의 모델 페이지, 빠른 시작 문서, 프롬프트-이미지 플레이그라운드 URL에 연결되었다. 이 날짜가 표시된 링크들은 제품 화면에서 의미 있는 진전이 있었음을 나타내지만, 그 자체로 모델 사양, 출시 범위, 접근 조건을 확인해 주지는 않는다.",
+ "title": "FLUX 3가 Black Forest Labs의 여러 제품 화면에 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

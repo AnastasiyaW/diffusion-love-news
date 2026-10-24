@@ -1,0 +1,11 @@
+{
+ "id": "n-66869cc4a0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Öffnen Sie den ElevenCreative Music Video Editor, laden Sie ein Video hoch und erzeugen Sie einen Soundtrack mit Soundeffekten; optional können Sie die vorhandene Audiospur des Videos als Referenz für den Score verwenden.\n\nPrüfen Sie die Soundeffekte als separate Timeline-Ebenen, passen Sie das Timing an oder ersetzen Sie die Musik, und exportieren Sie anschließend das Ergebnis.\n\nFür die Musikerstellung außerhalb des Videoworkflows beschreiben Sie Genre, Stimmung, Instrumentierung, Struktur und Verwendungszweck in einem Prompt in natürlicher Sprache und bearbeiten dann Abschnitte oder generieren neu.\n\nVerwenden Sie einen detaillierten Prompt, der Genre, Stimmung, Instrumentierung, Tempo und Verwendungszweck kombiniert, statt eines allgemeinen Genre-Labels.\n\nFür längere Kompositionen generieren und genehmigen Sie zuerst ein Intro, bauen dann aufeinanderfolgende Abschnitte auf und verfeinern die Prompts, anstatt den gesamten Track neu zu starten.\n\nNutzen Sie separate Soundeffekt-Ebenen, um das Timing der Cues zu prüfen, und überarbeiten Sie einzelne Momente vor dem Export.",
+ "source_sha256": "072a78b651bfd1a26e511f373b87868ff5812d6f0d4b42eeb602ae015a308cfd",
+ "summary": "Instant Soundtracks erzeugt aus hochgeladenen Videos einen Score und zeitlich synchronisierte Soundeffekte, stellt die Effekte als bearbeitbare Ebenen bereit und kann über die API separate Musik- und Soundeffekt-Dateien zurückgeben.",
+ "title": "ElevenLabs führt Instant Soundtracks für hochgeladene Videos ein",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-253f50a66d",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6f6247897c64aea21449a1c09c6e731929ec8a0dda218ccb3ac31217063a0aa0",
+ "summary": "2026 年 7 月 21 日，TheStageAI 发布了一则项目更新，链接指向 Elastic-Wan2.2-I2V 模型仓库、一篇相关博客文章以及 ComfyUI-Qlip 仓库。这些链接材料表明该项目的图像到视频工作流取得了一个开发里程碑。仅凭已封存的链接元数据，无法确认具体的模型改动、配置以及性能声明。",
+ "title": "TheStageAI 发布 Elastic-Wan2.2-I2V 项目相关材料",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

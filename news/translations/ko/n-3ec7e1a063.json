@@ -1,0 +1,11 @@
+{
+ "id": "n-3ec7e1a063",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "FLUX 3는 통합 멀티모달 모델로 얼리 액세스(Early Access)에 진입했으며, Video, Image, Action, Dev 액세스는 각각 단계적으로 제공되었다.",
+ "source_sha256": "84836c0d45e3b475a45fb978674def1f7a5fa0cdcfa93a35267368e8237032b0",
+ "summary": "2026년 7월 24일, Black Forest Labs는 FLUX 3 URL로 식별되는 블로그 페이지를 게시하고 Tally 양식 링크를 함께 연결했다. 이는 FLUX 3에 대한 의미 있는 공개 개발 신호이지만, 날짜가 포함된 링크만으로는 해당 양식의 구체적인 기능, 출시 상태, 목적을 확인할 수 없다.",
+ "title": "Black Forest Labs, FLUX 3 블로그 업데이트 게시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

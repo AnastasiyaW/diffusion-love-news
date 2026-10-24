@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "IC-LoRA의 타깃형 비디오-투-비디오 편집 및 초점 보정 능력을 선보이기 위해 LTX-2.3 업데이트의 일환으로 공개되었습니다.",
+ "id": "n-57264ece04",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "광학적 렌즈 블러에 특화되어 최적화되었으며, 모션 블러나 가우시안 블러 복원에는 적합하지 않습니다.",
+ "source_sha256": "1e5340e460f3b1052395e9bfdfa027fca040a85af193d6d07edbb8db30f957f4",
+ "summary": "렌즈 블러(lens blur)를 보정하도록 설계된 LTX-2.3 22B 모델용 특화 In-Context LoRA입니다. 초점이 맞지 않은 영상에서 선명한 광학적 디테일을 복원하여 정밀한 영상 복구를 가능하게 합니다.",
+ "title": "LTX-2.3 22B IC-LoRA ReFocus 영상 복원 도구",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

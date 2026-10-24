@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "El proyecto oficial publicó el código de entrenamiento e inferencia, así como un checkpoint de 5B a 720p; en el momento de la verificación, el checkpoint de 14B seguía sin estar disponible.",
+ "id": "n-a78b2b7401",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "74e4d6d2fa112ba42901075ae1898b3c70b70fbaea9ff125a2a9658d02bac472",
+ "summary": "El proyecto oficial publicó el código de entrenamiento e inferencia, así como un checkpoint de 5B a 720p; en el momento de la verificación, el checkpoint de 14B seguía sin estar disponible.",
+ "title": "Se publican el código y el checkpoint de 5B de SANA-Video2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

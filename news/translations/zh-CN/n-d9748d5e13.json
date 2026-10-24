@@ -1,0 +1,10 @@
+{
+ "id": "n-d9748d5e13",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fe7f2355e8ce4babfa58d0b845ac9bad9b82e86e194fb55fa2efd8ceebb5a970",
+ "summary": "2026-08-19，Cursor 带日期的更新日志链接标识了一项与 Origin 代码托管相关的开发事项。这对 Origin 的发展历程具有实质意义，因为它标志着一个明确的开发方向；但仅凭所提供的链接，尚无法确定其功能、可用性或迁移影响。",
+ "title": "Origin 达到代码托管开发里程碑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

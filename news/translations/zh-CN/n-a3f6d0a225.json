@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已发布的站点标识已变更为 Happyin Knowledge Space。",
+ "id": "n-a3f6d0a225",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该论断同时得到不可变提交记录以及该修订版本中原始 mkdocs.yml 文件的支持。",
+ "source_sha256": "91a9b74fd16fc378d011120b0d5642debb7d65a842045cb18d7702a99844dbac",
+ "summary": "MkDocs 配置已将站点名称更改为 Happyin Knowledge Space，并将 https://happyin.space/ 声明为其规范站点 URL。",
+ "title": "将站点名称从 Knowledge Space 更名为 Happyin Knowledge Space",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

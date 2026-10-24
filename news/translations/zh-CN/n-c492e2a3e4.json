@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在初始 v1 版本发布之后，该模型针对 LTX-2.3 Distilled 1.1 进行了优化，并通过专用节点集成到 ComfyUI 中。目前，它常与 Union Control IC-LoRA 搭配使用，以实现更高级的视频到视频迁移。",
+ "id": "n-c492e2a3e4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Cseti 使用 77 组高质量视频对、训练 10,500 步完成。该模型的秩为 32，通常以 0.7–1.0 的 LoRA 强度使用。",
+ "source_sha256": "77a09b8204d18ee0932abed002d994970b4602268ca2bebc517f69445c8aa527",
+ "summary": "这是一款专为 LTX-Video 2.3 设计的 In-Context LoRA，可将参考视频中的镜头运动复现到由文本提示描述的场景中。通过运动条件控制，它能够对变焦、平移和环绕运镜实现精确的电影级控制。",
+ "title": "面向 LTX-Video 2.3 的 IC-LoRA Cameraman",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

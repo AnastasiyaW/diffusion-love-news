@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026에 채택되었으며, 프로젝트는 FLUX.1, Wan2.1, HunyuanVideo를 지원하도록 확장되었습니다. 또한 커뮤니티에서 개발한 노드를 통해 ComfyUI 생태계에 통합되었습니다.",
+ "id": "n-58225bc7d0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Stanford와 ByteDance가 개발했으며, 추론 과정에서 오차가 누적되는 것을 방지하기 위해 전역 스펙트럼 예측(global spectral forecasting)을 사용합니다.",
+ "source_sha256": "bfe047e3b8e58da7d1fd978dd4f43fe373fbddc687b0c7923c929ee0adf19f1b",
+ "summary": "Chebyshev 다항식으로 잠재 특징(latent feature)의 변화를 모델링하여 디퓨전 샘플링을 가속하는, 학습이 필요 없는(training-free) 프레임워크입니다. FLUX.1 및 Wan2.1과 같은 모델에서 상당한 속도 향상을 가능하게 하면서도 높은 이미지 및 영상 충실도를 유지합니다.",
+ "title": "Spectrum: 디퓨전 가속을 위한 적응형 스펙트럼 특징 예측",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

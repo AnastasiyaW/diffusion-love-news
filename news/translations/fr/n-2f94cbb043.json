@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Cinq articles de recherche sur les agents llm ont été enrichis.",
+ "id": "n-2f94cbb043",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le nombre de fichiers concernés a été vérifié à partir de la liste de fichiers du commit immuable.",
+ "source_sha256": "cb5440c7c06174c1189c4e54254e91dfc5c9177b32393858396b68c4533c56c8",
+ "summary": "Cinq articles publics du domaine llm-agents ont été enrichis dans le dépôt.",
+ "title": "Enrichir les articles de recherche sur les agents",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto se expandió rápidamente hasta convertirse en un ecosistema completo, con variantes 'Thinking' para razonamiento complejo y modelos 'Instruct' para flujos de trabajo en producción. Actualmente incluye MOSS-TTS para generación de alta fidelidad y tokenizadores especializados entrenados con 3 millones de horas de audio.",
+ "id": "n-8da3cc43df",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el equipo OpenMOSS (Universidad Fudan); incorpora una representación temporal con conciencia del tiempo, única en su género, para el análisis temporal, y admite despliegue en dispositivos de borde mediante GGUF/ONNX.",
+ "source_sha256": "ac714693238d5377f66b693dd16c66a02eb5229e8d2c517f5ae2b4ff0836c8e0",
+ "summary": "MOSS-Audio es un modelo base modular que unifica la comprensión de voz, sonidos ambientales y música dentro de una única arquitectura. Emplea un codificador de audio CAT entrenado a medida y un backbone de LLM para realizar tareas de razonamiento complejo y de seguimiento de instrucciones sobre datos de audio sin procesar.",
+ "title": "MOSS-Audio: modelo base de audio unificado y de código abierto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具已从实验性工具过渡为 2026 年 4 月发布的稳定正式版。重大更新引入了用于突出显示活动连接的“Lasers”视觉高亮功能，以及便于快速验证节点的自动画布跳转功能。",
+ "id": "n-c2a141200b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用纯 JavaScript/TypeScript 实现以获得高性能；避免了大型 ComfyUI 工作流中的“doom scroll”问题。",
+ "source_sha256": "eb39a4719b3ae015bbdcb640b0ec707eaef551dd889007f0e925bc74ff558ea7",
+ "summary": "这是一款面向 ComfyUI 的效率扩展，提供侧边栏界面，无需在画布上拖拽连线即可连接节点。它采用基于搜索的连接机制，不依赖任何外部依赖项，并与标准工作流 JSON 格式保持完全兼容。",
+ "title": "ConnectTheDots：适用于 ComfyUI 的侧边栏节点连接工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

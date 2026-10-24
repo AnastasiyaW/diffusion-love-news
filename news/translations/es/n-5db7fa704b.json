@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026, World-R1 introdujo un enfoque de aprendizaje por refuerzo de post-entrenamiento que no requiere activos 3D. Logró mejoras significativas en la consistencia geométrica (7-10 dB de PSNR) frente a los modelos base y se presentó en ICML 2026.",
+ "id": "n-5db7fa704b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utiliza retroalimentación de Depth Anything 3 y Qwen3-VL para reforzar las restricciones 3D durante el entrenamiento.",
+ "source_sha256": "e9ddb8344cf25665f01002e5a2c9dcdb9ac7aeff40a80c5531da2cd936292d0f",
+ "summary": "Un proyecto de investigación de Microsoft que mejora la consistencia geométrica 3D en modelos de texto a vídeo mediante el marco de aprendizaje por refuerzo Flow-GRPO. Optimiza modelos como Wan 2.1 usando retroalimentación de modelos fundacionales 3D para evitar la deformación de objetos y las alucinaciones durante los movimientos de cámara.",
+ "title": "World-R1: reforzando restricciones 3D para la generación de vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

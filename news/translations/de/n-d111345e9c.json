@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt führte Inference-Time-Scaling für multimodale Modelle ein sowie ein modulares 'Skill'-System, das es kleineren Modellen ermöglicht, größere proprietäre Modelle wie GPT-Image zu übertreffen.",
+ "id": "n-d111345e9c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verwendet Sglang für die Bereitstellung von MLLMs und Diffusers als Backends für die Bildgenerierung; die Dokumentation ist unter gems-gen.github.io verfügbar.",
+ "source_sha256": "db9a72146669e76b357d7b269b4164d97e5a1417287818c55187a4010de8dade",
+ "summary": "GEMS ist ein Multi-Agenten-Framework, das die Generierung multimodaler Inhalte als iterative Optimierungsaufgabe begreift. Es umfasst ein geschlossenes Regelkreissystem aus Planung, Verifikation und Verfeinerung, unterstützt durch hierarchisches Gedächtnis und erweiterbare domänenspezifische Skills.",
+ "title": "GEMS: Agent-nativ gestützte multimodale Generierung mit Gedächtnis",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

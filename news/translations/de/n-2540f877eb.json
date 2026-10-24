@@ -1,0 +1,10 @@
+{
+ "id": "n-2540f877eb",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2529c20ad08c54707b907123178bb403fe0fe69839cead4cd764688017933534",
+ "summary": "Am 18.05.2026 hat der Datensatz ein Hugging-Face-Repository für eine GGUF-Distribution von Qwopus3.5-9B-Coder erfasst. Dies ist ein wesentlicher Distributionsschritt, da damit ein inferenzorientiertes Modellartefakt für das Projekt identifiziert wird. Allein der angegebene Link belegt jedoch nicht die genaue Quantisierung des Artefakts, seine Herkunft oder seine Beziehung zu einer vorgelagerten Veröffentlichung.",
+ "title": "GGUF-Distribution von Qwopus3.5-9B-Coder auf Hugging Face erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-77aec57904",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72420b947bb892ee5df99835f9416300a3503c5f6efd81bc7c605e12ad50bdd3",
+ "summary": "Le 9 mars 2026, un message daté de Penguin-VL a publié les liens vers le site web du projet, son dépôt de code source, sa collection Hugging Face et son Space Hugging Face interactif. Il s'agit d'une étape importante en matière de disponibilité publique, car elle offre aux lecteurs des moyens d'examiner le projet, de localiser ses ressources publiées et d'en essayer la démonstration. Les seuls liens datés ne permettent toutefois pas d'établir la version exacte du modèle, les affirmations techniques, la licence ni le périmètre de la publication.",
+ "title": "Les ressources publiques du projet Penguin-VL ont été partagées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "S'appuyant sur les travaux fondateurs de CameraBench (2025), CHAI a introduit une boucle de supervision évolutive ainsi qu'un vocabulaire cinématographique structuré. Le développement se poursuit vers Moodio et CameraBench-Pro, destinés aux applications de production cinématographique professionnelle.",
+ "id": "n-a8098d79d8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Exploite plus de 200 primitives visuelles professionnelles ; la variante de modèle à 8B surpasse nettement des systèmes propriétaires plus grands, comme GPT-5, sur certaines tâches de description.",
+ "source_sha256": "4cfff856b825c26c2cb8c50bceab7892631824c1048445e1fbe1c8cdd7afa408",
+ "summary": "Un cadre de compréhension vidéo à haute précision qui s'appuie sur un processus de critique impliquant un humain dans la boucle pour affiner les descriptions générées par l'IA. Il se spécialise dans les primitives cinématographiques, telles que le mouvement de caméra et la dynamique spatiale, ce qui permet à des modèles compacts d'atteindre une précision supérieure.",
+ "title": "CHAI : supervision humaine par critique pour la description de vidéos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

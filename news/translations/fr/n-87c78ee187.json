@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article annonçait les quotas Qwen OAuth, la recherche web, une édition floue améliorée, des contrôles de modèle, l'intégration Zed, des modifications de la sortie et de la recherche, ainsi que des corrections de plateforme.",
+ "id": "n-87c78ee187",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac2bfec48aa5f7b2625bb4617647c0ed1f219b9c717a988f5f442f7777240d6b",
+ "summary": "L'article annonçait les quotas Qwen OAuth, la recherche web, une édition floue améliorée, des contrôles de modèle, l'intégration Zed, des modifications de la sortie et de la recherche, ainsi que des corrections de plateforme.",
+ "title": "Qwen Code v0.2.1 étend la recherche, l'édition et la prise en charge des IDE",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

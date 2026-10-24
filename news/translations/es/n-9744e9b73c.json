@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto Z-Image evolucionó desde modelos DiT pesados hasta la versión destilada 'Turbo', para permitir el detallado en tiempo real. Posteriormente se integró en el ecosistema 'Z-Image Power Nodes', con soporte para funciones avanzadas como el detallado con sigma bajo y LoRAs faciales especializados.",
+ "id": "n-9744e9b73c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Requiere el codificador de texto Qwen 2.5 VL y un VAE específico para obtener resultados óptimos; supera de forma notable a los detailers tradicionales basados en SDXL en la relación entre velocidad y calidad.",
+ "source_sha256": "e69dedc1ccec3eb56078e0d1aa0b93140328f25592e675aa8245e6e9a443a3b4",
+ "summary": "Un flujo de trabajo de alto rendimiento para ComfyUI, optimizado para la mejora facial con el modelo DiT Z-Image Turbo 6B de Alibaba. Utiliza una canalización de recorte e inpainting de precisión con YOLOv8 y SAM para lograr texturas de piel de alta fidelidad en solo 8-10 pasos.",
+ "title": "Flujo de trabajo de detallado facial con Z-Image Turbo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

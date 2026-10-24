@@ -1,0 +1,10 @@
+{
+ "id": "n-7f6dd4a0bc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1392fbd308a351edbab7f86434f7d13cd915d49ee296fb34c7b2d10063439460",
+ "summary": "El 16 de junio de 2026, la línea de desarrollo de Orchestra-o1 incluyó enlaces a su repositorio de GitHub, a una página de modelo de 8B en Hugging Face y a una página de modelo en GGUF. Se trata de un hito de disponibilidad relevante, ya que vincula el proyecto con artefactos de código fuente y de modelos desplegables, aunque las pruebas disponibles no permiten determinar si se trató de una publicación inicial, de una actualización o de una republicación.",
+ "title": "Se enlazaron los artefactos de código fuente y de modelo de Orchestra-o1",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

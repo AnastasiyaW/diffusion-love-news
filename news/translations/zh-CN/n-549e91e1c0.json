@@ -1,0 +1,10 @@
+{
+ "id": "n-549e91e1c0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a2cda1cd372b9daa2471bd6b741fe89868d73c7a0aaccd72b8d443a3510313da",
+ "summary": "截至 2026-06-04，记录的链接指向英伟达托管的 Nemotron 3 Ultra 550B A55B 的 BF16 和 NVFP4 仓库，以及 Unsloth 提供的一个 GGUF 仓库。这是一个重要的可用性进展，因为同一模型系列已提供适用于不同推理和部署路径的多种格式。",
+ "title": "Nemotron 3 Ultra 550B A55B 模型文件已推出多种格式",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

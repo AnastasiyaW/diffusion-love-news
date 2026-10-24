@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "项目于2026年4月发布，目前处于准备公开代码和模型权重并发布到GitHub的阶段。该工作在人脸跟踪任务上树立了新的基准，显著优于Sapiens和V-DPM等已有方法。",
+ "id": "n-a4fb636ca8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了一个源自NeRSemble的大规模动态3D人脸数据集，用于高保真训练。",
+ "source_sha256": "41e4be416aea9b15f0b665e087115f79db19eddd314aedf8e05b93c4f5b10f68",
+ "summary": "一种基于Transformer的框架，用于从单目视频序列中实现统一的4D人脸重建与稠密跟踪。该方法联合预测规范坐标、深度图和法线图，即使在极端视角变化下也能保证高时间一致性。",
+ "title": "Face Anything：统一的4D人脸重建与跟踪",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

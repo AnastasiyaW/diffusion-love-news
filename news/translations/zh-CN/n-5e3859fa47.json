@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖报道了 SANA-Video 的代码与权重已发布，并提供了演示、Hugging Face 与 Diffusers 链接，提到可能在 ComfyUI 中使用，以及一次对四步采样的负面试用印象。",
+ "id": "n-5e3859fa47",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0fe01ac2f4beeb88d36b62beea462f6ddc8e72c3c58312cde3b0d0cdc3eb39c6",
+ "summary": "该新闻帖报道了 SANA-Video 的代码与权重已发布，并提供了演示、Hugging Face 与 Diffusers 链接，提到可能在 ComfyUI 中使用，以及一次对四步采样的负面试用印象。",
+ "title": "SANA-Video 代码与权重发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

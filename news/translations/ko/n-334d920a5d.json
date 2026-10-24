@@ -1,0 +1,10 @@
+{
+ "id": "n-334d920a5d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c6b71a758c558e23d4fb0963bf6e82324f62bf2ac2b265def74b9a829c20c9d3",
+ "summary": "2026년 3월 25일, 날짜가 명시된 OccAny 참고 자료에 프로젝트 페이지, GitHub 저장소, Hugging Face 페이지 링크가 포함되었습니다. 이는 프로젝트의 공개 가용성 측면에서 중요한 이정표로 간주되지만, 제공된 링크만으로는 릴리스 버전, 기술적 결과 또는 라이선스 조건을 확인할 수 없습니다.",
+ "title": "OccAny 공개 프로젝트 자료 공유",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

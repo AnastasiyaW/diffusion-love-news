@@ -1,0 +1,10 @@
+{
+ "id": "n-8ae442bb62",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5f4753f6d94c23dc801ebeb17433d0dacaaa5a94ed7b1785daae5a913cdcbdf7",
+ "summary": "Am 19.05.2026 verwies die Entwicklungslinie mm-ctx auf einen öffentlichen Hugging Face Space unter https://huggingface.co/spaces/vlm-run/mm-ctx. Der vorliegende Nachweis belegt diesen öffentlichen Projektverweis, lässt jedoch nicht erkennen, ob damit ein Launch, ein Update, eine Demo oder ein anderer konkreter Meilenstein markiert wurde.",
+ "title": "mm-ctx: Verweis auf öffentlichen Hugging Face Space",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

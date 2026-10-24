@@ -1,0 +1,10 @@
+{
+ "id": "n-aefede82fd",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "aa51edc01a460520f4dc8af1206ff363d02bdf0efd61be2faa5f9d5d8fbc5fb1",
+ "summary": "Am 03.08.2026 verlinkte eine Nachricht im sana-Thread die Sol-Attn-Projektseite und den Branch `sol-engine` des Repositorys NVlabs/Sana. Zusammen markieren diese Verweise einen öffentlich dokumentierten Entwicklungsschritt des Sol-Attn-Projekts, der für die Aufnahme in dessen Verlauf geprüft werden sollte. Die vorliegenden Belege lassen nicht erkennen, ob es sich bei dem Datum um eine Ankündigung, eine Veröffentlichung oder ein Code-Update handelte.",
+ "title": "Sol-Attn-Projektseite und referenzierter Implementierungs-Branch",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der Übernahme von Astro durch Cloudflare Anfang 2026 entwickelte sich Flue zu einer Cloudflare-nativen Plattform, die Workers AI und R2 nutzt. Inzwischen unterstützt es das Model Context Protocol (MCP) und bietet spezialisierte Muster für autonome CI/CD-Workflows.",
+ "id": "n-99e3cb59c2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verwendet Markdown-basierte Konfiguration (AGENTS.md) für das Verhalten von Agenten und unterstützt hochperformante virtuelle Sandboxing-Umgebungen über just-bash.",
+ "source_sha256": "36751fe12b42059dac24099fafc0c4f5981ab45481830b99c27b44134c60ae90",
+ "summary": "Ein headless TypeScript-Framework des Astro-Teams, das für den Aufbau und Betrieb autonomer KI-Agenten entwickelt wurde. Es nutzt eine „Agent-Harness“-Architektur, um LLMs mit programmierbarer Logik und virtuellen, isolierten Sandbox-Umgebungen zu kombinieren.",
+ "title": "Flue — TypeScript-Framework für autonome KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

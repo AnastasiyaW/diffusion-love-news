@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras su lanzamiento en abril de 2026, el proyecto fue portado a llama.cpp (triattention-ggml) e integrado en SGLang. Actualmente es compatible con las arquitecturas AMD/ROCm y NVIDIA Blackwell, y con frecuencia funciona como componente estándar de las pilas locales para modelos de razonamiento, junto con herramientas de cuantización.",
+ "id": "n-e96d2e151b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por investigadores del MIT y NVIDIA; logra una reducción de más de 10x en la memoria KV sin pérdida de precisión en benchmarks como AIME25.",
+ "source_sha256": "e2ed3cce20e220c2845ef42966afee8ad87a340347f404de22bf62d4212f4698",
+ "summary": "TriAttention es un framework de código abierto que optimiza la compresión de la caché KV modelando las puntuaciones de atención pre-RoPE mediante representaciones trigonométricas. Reduce significativamente la sobrecarga de memoria de los modelos de razonamiento con contexto largo, lo que permite un despliegue local de alto rendimiento en hardware de consumo.",
+ "title": "TriAttention: Razonamiento largo eficiente mediante compresión KV trigonométrica",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-d0e1053814",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "abe48a88a77e09680db053860e2f10056153c189e2a00d84e8a2abe4ffa80ce1",
+ "summary": "Le 13 mars 2026, la branche de développement FLUX.2 Klein 9B KV a été reliée à une page de modèle Hugging Face, à un espace de démonstration et à des fichiers de checkpoints téléchargeables. Les ressources datées comprenaient également une conversion GGUF et un workflow ComfyUI, documentant des voies d'inférence locale alternatives pour le modèle.",
+ "title": "Disponibilité du modèle FLUX.2 Klein 9B KV et ressources pour une utilisation locale",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

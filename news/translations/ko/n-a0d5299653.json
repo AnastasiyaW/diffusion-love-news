@@ -1,0 +1,10 @@
+{
+ "id": "n-a0d5299653",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e81bbf04afcbd909e7c99f436a8855e14d358316efec9b2d13c9ec8eceef13c4",
+ "summary": "2026-07-19 날짜가 붙은 업데이트에서 Krea 2 Outpaint의 Hugging Face 모델 저장소, Hugging Face Space 두 곳, 그리고 ComfyUI 연동 기능이 연결되었다. 연결된 리소스들은 이 프로젝트를 찾아보고, 직접 시험해 보고, 통합하는 실용적인 경로를 제시하지만, 현재 확보된 근거만으로는 각 리소스의 정확한 공개 상태나 상호 관계는 확인되지 않는다.",
+ "title": "Krea 2 Outpaint 관련 리소스가 Hugging Face와 ComfyUI에 걸쳐 정리됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

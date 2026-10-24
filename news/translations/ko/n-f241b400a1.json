@@ -1,0 +1,10 @@
+{
+ "id": "n-f241b400a1",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "493e99caa0b490a593319a4e5d9f6ef73148c816bac027706752027ca150b30d",
+ "summary": "2026년 7월 25일, Cursor는 Router와 관련된 공개 블로그 글을 게시했다. 이 글의 존재는 Cursor Router 개발 흐름에서 의미 있는 공개적 이정표이지만, 봉인된 증거만으로는 글의 세부 기능, 배포 현황, 사용자 영향은 확인되지 않는다.",
+ "title": "Cursor, Router 관련 공개 업데이트 발표",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

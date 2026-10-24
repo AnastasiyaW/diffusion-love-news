@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Превратился в полноценного локального агента в 2026 году с выходом Gemma 4: добавлено Multi-Token Prediction (MTP), дающее ускорение инференса на 37%, и глубокая интеграция с iOS HealthKit и Contacts.",
  "id": "n-f3c22d2162",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Позиционируется как основной референс для Gemma 4 на iOS из-за задержки официальной поддержки платформы в Google AI Edge Gallery; для оптимальной производительности требуется iPhone 15 Pro или новее.",
- "source_sha256": "legacy",
- "summary": "Open-source приложение для iOS, запускающее модели Gemma 4 локально с помощью LiteRT-LM и Metal-ускорения для офлайн-инференса. Поддерживает мультимодальное зрение, агентное использование инструментов с нативными iOS-приложениями и оптимизированный speculative decoding.",
- "title": "PhoneClaw: локальный on-device агент Gemma 4 для iOS",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Позиционируется как основной справочный материал по Gemma 4 на iOS из-за задержки официальной поддержки платформы в Google AI Edge Gallery; для оптимальной производительности требуется iPhone 15 Pro или новее.",
+ "source_sha256": "c9c1cc5393bfc2b235f01d96fb0aeb1ed89f8bea0f620e52e104dd8d45f28c27",
+ "summary": "Открытое iOS-приложение, которое запускает модели Gemma 4 локально с помощью LiteRT-LM и ускорения через Metal для офлайн-инференса. Поддерживает мультимодальное зрение, агентное использование инструментов с нативными iOS-приложениями и оптимизированное speculative decoding.",
+ "title": "PhoneClaw: локальный on-device агент на Gemma 4 для iOS",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

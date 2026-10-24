@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TheBurgstall 持续为 LTX-2.3 发布专用结构型 LoRA，功能从身体修改扩展到 'Edit Anything' 能力。该模型现已支持 a1.art 等网页界面，使用更加简便。",
+ "id": "n-492f7ebf1e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "触发词：'bodypositivity'。推荐的 LoRA 强度为 1.0，可在变换效果与身份保持之间达到最佳平衡。",
+ "source_sha256": "9f5f51cac0214c4c19e932f4918c96937f24a83af6fcb70fe27e1f16f58f1478",
+ "summary": "一款面向 LTX-2.3 模型的专用图像生视频适配器，可在保留主体身份与运动的同时修改其体型。它是一个 IC-LoRA，基于人工精心筛选的合成数据集训练而成。",
+ "title": "TheBurgstall LTX-2.3 身体积极性 LoRA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

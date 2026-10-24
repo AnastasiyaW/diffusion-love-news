@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Nach der Veröffentlichung von GLM-5V-Turbo im April 2026 stellte Zhipu AI im Mai 2026 GLM-5.1 vor. Das Update rückte das Thema „Agentic Engineering“ in den Mittelpunkt und ermöglicht die autonome Generierung ganzer Repositories von Anfang bis Ende sowie komplexe terminalbasierte Entwicklungsaufgaben.",
+ "id": "n-b2b9ca697e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erreichte auf dem Design2Code-Benchmark einen Wert von 94,8 und übertraf dabei Claude Opus 4.6 deutlich. Das Modell wurde vollständig auf einem heimischen chinesischen Hardware-Stack mit Huawei-Ascend-Chips trainiert.",
+ "source_sha256": "572b74b1806380978dda7f6b88452da6d6365237ba8fe770ad9a88317deb216e",
+ "summary": "Ein nativ multimodales Mixture-of-Experts-Modell von Zhipu AI, das für die autonome Generierung von Frontend-Code aus Layouts entwickelt wurde. Es eignet sich besonders gut, um Screenshots oder Skizzen in funktionalen Code zu überführen, und unterstützt komplexe Aufgaben beim visuellen Debugging.",
+ "title": "GLM-5V-Turbo: Multimodales Engineering-Modell für Design-zu-Code",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

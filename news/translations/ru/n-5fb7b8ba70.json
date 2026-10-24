@@ -1,0 +1,10 @@
+{
+ "id": "n-5fb7b8ba70",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "786f0884887b6157880de5baea9720f0b544c2cb0b1879ce3af070ef0cc60994",
+ "summary": "15 июня 2026 года обновление проекта дало ссылки на репозиторий TensorForger с нодой Flow Upscaler для ComfyUI и связанный с ним ресурс на Hugging Face. Это существенная публичная точка распространения для линейки разработки Flow Upscaler, однако сами датированные ссылки не подтверждают версию, набор функций или статус релиза.",
+ "title": "TensorForger опубликовал ресурсы Flow Upscaler для ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

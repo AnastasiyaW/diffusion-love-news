@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 ArXiv(ID: 2604.08546)에 트렌딩 연구 프레임워크로 공개되었으며, 현재 OpenSora 및 Wan2.1과 같은 모델에 플러그앤플레이(plug-and-play) 모듈로 통합되고 있습니다.",
+ "id": "n-e3abad048f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "화중과학기술대학교(Huazhong University of Science and Technology)의 H-EmbodVis 그룹이 개발했으며, 모델을 재학습하지 않고도 수치 정확도를 크게 향상시킵니다.",
+ "source_sha256": "a12540d5c96851a2ee85169c291a6dd1701214608d7f5ca64d4a0f7ff61884e9",
+ "summary": "텍스트-투-비디오 디퓨전 모델에서 객체 수 세기의 정확도를 높이는, 학습이 필요 없는(training-free) 프레임워크입니다. 특정 어텐션 헤드를 식별하여 셀 수 있는 잠재 레이아웃(latent layout)을 만들고, 생성된 비디오가 프롬프트에 명시된 인스턴스 수와 정확히 일치하도록 보장합니다.",
+ "title": "NUMINA: 비디오 디퓨전을 위한 수치 정렬",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-0e3939a347",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c7fdc90bdc2b1a37918dab2d13f83b10bc04808d7dbabc788bc5444e2dd29266",
+ "summary": "Le 2026-06-26, la page du modèle Qwen3-ForcedAligner-0.6B-hf sur Hugging Face a été citée dans le fil consacré à Qwen3 ASR. Il s'agit d'un événement notable pour le suivi de cette filière, car il identifie un artefact précis, un modèle d'alignement forcé. Le message d'origine et le contenu de la fiche modèle n'ont pas été fournis ; aucune capacité, aucune affirmation de publication ni aucun détail d'usage n'est donc avancé.",
+ "title": "Qwen3-ForcedAligner-0.6B-hf a été relié sur Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

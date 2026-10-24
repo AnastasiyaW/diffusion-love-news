@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "于 2026 年 4 月发布，是 Netflix 首个重要的开源 AI 工具。此后它已集成到 CogVideoX 生态系统中，并更新为支持使用 SAM3 自动生成掩码。",
+ "id": "n-83af6888de",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要大量硬件资源（40GB+ 显存），并采用多阶段流程，其中涉及用于场景推理的 Google Gemini 以及用于生成掩码的 SAM3。",
+ "source_sha256": "4a8f1c61e850b167725f799e70a3548f112b4011d50fb28353a923ee2c42731a",
+ "summary": "一种具备物理感知能力的视频修复框架，可移除对象及其次级因果效应。它采用独特的“quadmask”（四值掩码）策略来确保物理一致性，例如在移除一个球的同时，也移除其对其他物体的撞击影响。",
+ "title": "VOID：来自 Netflix 的视频对象与交互删除",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

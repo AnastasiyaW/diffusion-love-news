@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Originalmente basado en modelos densos Qwen, el proyecto evolucionó mediante Fine-grained Sub-matrix Splitting y Drop-Upcycling. Las iteraciones actuales, como Marco-Mini-Global, admiten 64 idiomas y se orientan a comunidades lingüísticas desatendidas.",
+ "id": "n-15fd6206af",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Presentaron el benchmark CulturAll para la evaluación multilingüe; su despliegue es más adecuado mediante vLLM, ya que gestiona correctamente las capas de embeddings enlazadas (tied embeddings).",
+ "source_sha256": "4056ee1607ef99968bac997e5728e74b7e3c57b36c3f3c27cf5d30568533e791",
+ "summary": "Una serie de modelos Mixture-of-Experts hiperdispersos diseñados para un rendimiento multilingüe eficiente. Desarrollados por Alibaba AIDC, estos modelos activan solo entre el 5 % y el 7,5 % de sus parámetros por token, lo que les permite funcionar con rapidez en hardware de consumo.",
+ "title": "Marco-MoE: modelos MoE multilingües y abiertos de Alibaba AIDC",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

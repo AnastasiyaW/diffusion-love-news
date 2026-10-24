@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 플랫폼은 레거시 GAN 기반 모델에서 디퓨전 기반의 Lipsync-2를 거쳐 현재의 주력 모델인 Sync-3로 발전해 왔습니다. Sync-3는 네이티브 4K 처리, 고도화된 가림(obstruction) 감지, 그리고 피부 질감과 조명 일관성을 유지하는 풀샷 비주얼 더빙을 도입했습니다.",
+ "id": "n-d883c4c40c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "다인원 장면을 위한 Active Speaker Detection (ASD-1)과 Adobe Premiere Pro 플러그인 및 견고한 API를 통한 전문 워크플로 통합 기능을 제공합니다.",
+ "source_sha256": "f1f2dfe7b3b441b63dc37690cd85d49b68a326962a4fc993ffb309d2de37a8c8",
+ "summary": "Sync.so는 전문 영상 제작을 위한 고충실도 비주얼 더빙과 립싱크를 제공하는 스튜디오급 AI 플랫폼입니다. 음성 복제와 정렬을 매끄럽게 지원하며, 여러 언어에 걸쳐 배우의 습관적 동작과 감정의 미묘한 뉘앙스를 보존합니다.",
+ "title": "Sync.so AI 비주얼 더빙 및 립싱크 스튜디오",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

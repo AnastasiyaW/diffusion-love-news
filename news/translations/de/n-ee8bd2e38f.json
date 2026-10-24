@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Vom einstigen Prompt-Framework hin zu einer eigenständigen CLI auf Supervisor-Ebene, die auf dem Pi SDK aufbaut. Jüngste Updates ergänzten Zustandsabgleich, Drift-Erkennung und automatisierte Verwaltung des Workspace-Lebenszyklus.",
+ "id": "n-ee8bd2e38f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Hat über sein Ökosystem hinweg mehr als 62.000 GitHub-Sterne erreicht und wird über das npm-Paket gsd-pi verteilt.",
+ "source_sha256": "f846dfad830739d7772a8f4354cb75dbf8cdd1d67426ba0869a24d8d8a216f88",
+ "summary": "Ein autonomer, CLI-basierter Agent, der komplexe Software-Engineering-Workflows mithilfe zustandsverwalteter Aufgabenzerlegung automatisiert. Er verwaltet Git-Operationen, Kontextfenster und Verifikationsschleifen, um zuverlässige, weitgehend unbeaufsichtigte Entwicklung zu ermöglichen.",
+ "title": "GSD 2: Autonomer CLI-Agent für Software Engineering",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

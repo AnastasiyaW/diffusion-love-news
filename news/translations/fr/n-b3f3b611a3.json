@@ -1,0 +1,10 @@
+{
+ "id": "n-b3f3b611a3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "671d9822808e46f6b14c991442470d2177cd1f82990614002e06845ebee1fb0d",
+ "summary": "Le 26/07/2026, une mise à jour de développement a publié la page du modèle Nanbeige4.2-3B sur Hugging Face, une liste filtrée des entrées de modèles de base quantifiés associés, ainsi qu'un espace d'inférence. Cela établit un point d'accès public daté au modèle et aux options de déploiement qui s'y rattachent.",
+ "title": "Les ressources publiques du modèle Nanbeige4.2-3B et de l'inférence ont été mises en ligne",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

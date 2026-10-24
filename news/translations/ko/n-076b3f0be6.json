@@ -1,0 +1,10 @@
+{
+ "id": "n-076b3f0be6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fd6a26f4f295d5b1271cba4dca86215b6c86e2f18a0be23080197e6cc52174af",
+ "summary": "2026-06-20에 날짜가 적힌 한 메시지가 HyperFrames를 HeyGen의 빌더 워크플로에 관한 커뮤니티 행사 및 Claude 커넥터 페이지와 연결했다. 이 링크들을 종합하면 단순한 언급이라기보다 HyperFrames의 실용적인 워크플로 및 통합 측면에서 의미 있는 이정표로 볼 수 있다. 다만 근거가 되는 페이지와 원본 메시지는 조사하지 않았으므로, 구체적인 기능, 제공 여부, 구현 세부사항은 확인되지 않은 상태다.",
+ "title": "HeyGen, 빌더 워크플로에서 HyperFrames 소개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

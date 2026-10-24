@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto pasó de un arnés modular basado en habilidades a una plataforma autónoma incluida por defecto. Las últimas actualizaciones introdujeron una orquestación multiagente al estilo Kanban y un seguimiento persistente de objetivos entre sesiones.",
+ "id": "n-95d245f3eb",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El sistema incluye comprobaciones automatizadas de hardware y una gestión autorreparable de dependencias para nodos personalizados complejos de ComfyUI.",
+ "source_sha256": "160ad8888dc434392e1d4cbe562bdc09521e85bc0cb0909710c64c7ffeaf4655",
+ "summary": "Un framework de agentes autónomos de código abierto desarrollado por NousResearch, diseñado para la orquestación de tareas complejas. Incorpora una integración profunda con ComfyUI, lo que permite controlar mediante lenguaje natural los flujos de trabajo de generación de imágenes y vídeo basados en nodos.",
+ "title": "Hermes Agent: sistema autónomo para flujos de trabajo creativos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

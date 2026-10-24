@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 3월에 공개된 HyDRA는 Wan2.1-T2V-1.3B 아키텍처를 기반으로 하며, 복잡한 객체 재등장 시나리오에서 모델을 학습하기 위한 HM-World 데이터셋을 도입했습니다.",
+ "id": "n-09ee25f7d5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트에는 모션 인식 메모리 토크나이저가 포함되어 있으며, 자율주행 시뮬레이터와 Embodied AI 월드 모델에 특히 최적화되어 있습니다.",
+ "source_sha256": "0548b801e3538dc55c0432006be5380d131fcf7bf08d3b35c2abba0a4d46c77f",
+ "summary": "HyDRA는 비디오 생성을 위한 특수 메모리 아키텍처로, 안정적인 객체 추적과 재등장 일관성을 보장합니다. 시공간 검색 메커니즘을 사용하여 피사체가 화면 밖으로 벗어나거나 가려진 경우에도 이를 '기억'합니다.",
+ "title": "HyDRA: 동적 비디오 월드 모델을 위한 하이브리드 메모리",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

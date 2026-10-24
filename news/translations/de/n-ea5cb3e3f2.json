@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt von einfachen, Tool-Calling-fähigen LLMs hin zu einem vollständig autonomen „agentischen“ Framework innerhalb des QwenPaw-Ökosystems, das mehrstufige Aufgabenausführung und Selbstkorrektur ohne menschliche Prompts ermöglicht.",
+ "id": "n-ea5cb3e3f2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt vom AgentScope-Team von Alibaba; erreicht die optimale Leistung in Kombination mit spezifischen LoRA-Adaptern und der vLLM-Ausführungsumgebung.",
+ "source_sha256": "a392fd936c26f296fcb4e8f82fd10a99c34714bca65636433a3359ba94ec2061",
+ "summary": "Ein spezialisiertes agentisches Modell auf Basis der Qwen3.5-9B-Architektur, das gezielt für autonome Data-Science-Workflows mit Agent-Trajektoriedaten feinabgestimmt wurde. Es bewältigt eigenständig den gesamten Analysezyklus, einschließlich Datenbereinigung, statistischer Profilerstellung und der Erzeugung von Visualisierungen per Python.",
+ "title": "CoPaw-Flash-9B: Autonomer Data-Analyst-Agent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Führt einen groß angelegten Datensatz mit 4 Millionen zusammenhängenden AAA-Frames und synchronisierten G-Buffer-Labels ein. Das Framework etabliert eine bidirektionale Rendering-Pipeline, die frühere Methoden hinsichtlich zeitlicher Stabilität und Generalisierung auf reale Daten übertrifft.",
+ "id": "n-01b786ce9f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Shanda AI Research Tokyo. Nutzt ein neuartiges, VLM-basiertes Evaluationsprotokoll, um semantische und räumliche Konsistenz ohne Ground Truth zu messen.",
+ "source_sha256": "07e69d6e8932d67f28f8b779e7259a15a7655c8b0a538955819b799285a3ff68",
+ "summary": "Ein KI-nativ konzipiertes Framework, das Forward- und Inverse-Rendering mithilfe von Video-Diffusionsmodellen vereint. Es extrahiert geometrische 3D-Daten aus Spielevideos und ermöglicht die hochwertige Bearbeitung von Szenen über Textprompts.",
+ "title": "AlayaRenderer: Generatives Welt-Rendering-Framework für AAA-Spiele",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article de presse décrivait un modèle compact de génération de vidéo à partir de texte ou d'image, développé sous la direction de NVIDIA, visant une résolution de 720p à 16 ips, pour des séquences pouvant atteindre une minute, et rapportait des temps d'exécution sur RTX 5090 alors que le code n'était pas encore disponible.",
+ "id": "n-04bc8d2a40",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ebb644ab62a8ee25dea8d4174629315384e3f923735f81913a50c3fe37586294",
+ "summary": "L'article de presse décrivait un modèle compact de génération de vidéo à partir de texte ou d'image, développé sous la direction de NVIDIA, visant une résolution de 720p à 16 ips, pour des séquences pouvant atteindre une minute, et rapportait des temps d'exécution sur RTX 5090 alors que le code n'était pas encore disponible.",
+ "title": "SANA-Video est présenté en avant-première",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

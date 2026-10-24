@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具最初是一个角色摆姿工具，现已发展为完整的 3D 合成器，支持导入 FBX/GLB 环境模型、摄像机跟踪以及面部动作捕捉。最新更新集成了用于生成逼真阴影的路径追踪引擎，并原生支持高斯泼溅（Gaussian Splatting，.ply/.spz）。",
+ "id": "n-501487aec4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持最多 16 个独立角色，并使用 Mixamo 标准骨骼命名进行自动绑定（auto-rigging）。",
+ "source_sha256": "8999e0286eaaeaebe1f2128da1bb095708dff7953130e5e4af2ed18d35e16589",
+ "summary": "面向 ComfyUI 的高级 3D 视口与动画系统，支持交互式角色摆姿和场景合成。它可直接从带动画的 3D 资产生成多通道 ControlNet 数据，包括 Depth、Normal 和 OpenPose。",
+ "title": "ComfyUI Yedp Action Director — 3D 场景合成器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

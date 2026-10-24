@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto fue pionero en el mapeo neuronal lunar a gran escala e influyó en marcos especializados posteriores como Moon-GS y AstroSplat, que optimizan para datos de rover con vistas dispersas y para la reflectancia planetaria.",
+ "id": "n-60f7bb3300",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Creada por Nicolas Diolez a partir de más de 300 fotografías de la NASA procesadas con RealityScan y LichtFeld Studio; alojada en PlayCanvas SuperSplat.",
+ "source_sha256": "f082fe32a17ac0dc0195876a14fc737b2fd85877501d403db83e35ebe0d4da55",
+ "summary": "Una reconstrucción de alta fidelidad de la superficie lunar mediante 3D Gaussian Splatting, basada en imágenes de la misión Artemis II de la NASA. Ofrece una visualización 3D interactiva y detallada que demuestra el potencial del renderizado neuronal para la ciencia planetaria.",
+ "title": "Reconstrucción de la superficie lunar con 3DGS (NASA Artemis II)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

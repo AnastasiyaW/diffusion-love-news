@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 Dream Machine 비디오 모델(2024)과 Ray2 멀티모달 아키텍처(2025)에서 출발하여 통합 자기회귀(autoregressive) 트랜스포머 시스템으로 발전했습니다. 2026년 5월에 출시된 Uni-1.1 업데이트는 이 기술을 뛰어난 공간 추론 능력과 다국어 텍스트 렌더링을 갖춘 프로덕션 준비 완료 API로 전환했습니다.",
+ "id": "n-99c607c318",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델이 렌더링에 앞서 구도를 먼저 계획하는 추론 우선(reasoning-first) 접근 방식을 활용합니다. 현재 Adobe, Freepik을 비롯한 업계 선두 기업들이 이를 통합하여 사용하고 있습니다.",
+ "source_sha256": "403d77b76088ebf5b67d25cd251ba4cf1c8887cee07d08a8232d5741d0633610",
+ "summary": "Luma Uni-1.1은 고정밀 이미지 생성 및 편집을 위해 통합 추론 아키텍처를 활용하는 프로덕션급 멀티모달 인텔리전스 API입니다. 최대 9개의 입력을 활용한 다중 참조 그라운딩과 자연어 기반 이미지 수정과 같은 복잡한 작업을 지원합니다.",
+ "title": "Luma Uni-1.1 Unified Intelligence API",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

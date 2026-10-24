@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "기본적인 자동 완성에서 Background Agents와 Composer 2.0을 갖춘 자율 플랫폼으로 전환했습니다. 자체 개발한 코딩 모델을 도입했고, BugBot을 통한 자동 PR 리뷰 기능을 선보였습니다. 2026년 初 기준 연간 반복 매출(ARR) 20억 달러를 넘어서며 시장에서 뚜렷한 지배적 입지를 확보했습니다.",
+ "id": "n-a6a4ba2d0f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "개발자가 아키텍처 의도에 집중하고 자율 에이전트가 end-to-end 구현을 담당하는 '바이브 코딩(vibe coding)'을 대중화한 것으로 평가받고 있습니다.",
+ "source_sha256": "1fbb41c17566b029c99b2966611b0539c48adf7383ef6c00f0b50395ba2d3fee",
+ "summary": "VS Code를 포크하여 만든 AI 기반 통합 개발 환경으로, 깊이 있는 코드베이스 컨텍스트를 제공하도록 설계되었습니다. 클라우드 기반 에이전트, 다중 파일 편집, 실시간 AI 지원을 통해 자율적인 소프트웨어 엔지니어링을 가능하게 합니다.",
+ "title": "Cursor: AI 네이티브 코드 에디터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

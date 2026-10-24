@@ -1,0 +1,10 @@
+{
+ "id": "n-36fa065b79",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "467ca0765d3b98c922f2429db62c853037ed9339ce01acb6882f60d7ebcdca1f",
+ "summary": "El 3 de julio de 2026, el hilo del proyecto sobre LoRAs de Flux 2 Klein registró un enlace a su recurso en Hugging Face. La evidencia sellada no contiene el cuerpo de la publicación ni el contenido de la model card, por lo que este evento solo establece la referencia fechada al recurso y no hace ninguna afirmación sobre la versión publicada, la configuración de entrenamiento, la licencia ni el rendimiento.",
+ "title": "Referencia al recurso de la LoRA Sun Direction para Flux 2 Klein 9B registrada",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

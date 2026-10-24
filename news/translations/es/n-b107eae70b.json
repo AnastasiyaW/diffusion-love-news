@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto sigue siendo el principal marco de código abierto para procesar audio conversacional 'in-the-wild'; se utiliza ampliamente para generar conjuntos de datos destinados a modelos conversacionales full-duplex como Moshi.",
+ "id": "n-b107eae70b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por KAIST AI y NAVER Cloud; incluye un conjunto de ASR basado en mezcla de expertos que utiliza los modelos Whisper, Parakeet y Canary.",
+ "source_sha256": "3a72d3d029e65332b51750821350f4ae25129f5fcfaf19c2f0526bec481ac043",
+ "summary": "Un pipeline modular de código abierto diseñado para transformar audio conversacional sin procesar en datos de entrenamiento de alta calidad para modelos de lenguaje de habla full-duplex. Integra diarización de hablantes, una mezcla de expertos (Mixture of Experts) para ASR y eliminación de ruido de fondo para preservar la dinámica natural del diálogo.",
+ "title": "Sommelier: pipeline de procesamiento de audio de código abierto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

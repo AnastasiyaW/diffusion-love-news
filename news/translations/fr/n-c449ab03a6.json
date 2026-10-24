@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié officiellement début 2026 en tant que cadre unifié de génération raw, une première dans son genre. Il est actuellement intégré aux feuilles de route de l'ISP neuronal et de l'AI Experience (AX) de Samsung, en vue de la photographie mobile future.",
+ "id": "n-c449ab03a6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Utilise FLUX comme modèle de base ; prend en charge des opérations ISP en temps réel, telles que la balance des blancs et l'exposition, sur la sortie raw linéaire.",
+ "source_sha256": "cd07d49dcd7f84d603f8d14539671b743dea205deedd8fae5220db4dc648f366",
+ "summary": "Un cadre unifié fondé sur la diffusion, développé par Samsung, qui génère des images raw de caméra physiquement cohérentes à partir de textes ou d'entrées sRGB. Il permet une édition haute fidélité et une synthèse propre à chaque appareil, pour des capteurs de caméra arbitraires.",
+ "title": "RawGen : apprentissage de la génération d'images raw de caméra",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

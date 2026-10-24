@@ -1,0 +1,10 @@
+{
+ "id": "n-9e6857e8a9",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fdca17036711e9f9063039f634ab8d6fd1eca6194f952ea920595caaa2ade36d",
+ "summary": "2026-06-11，该记录链接了一个名为 leejet/ideogram-4-GGUF 的 Hugging Face 仓库。这是 Ideogram 4 项目一个重要的分发相关步骤，因为它明确了一个用于 GGUF 格式发布的特定公开仓库。",
+ "title": "Hugging Face 上链接的 Ideogram 4 GGUF 仓库",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Una ingesta de investigación por lotes añadió 21 artículos públicos.",
+ "id": "n-8a14fda3a6",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El tamaño del lote y la etiqueta del flujo de trabajo se conservan del asunto del commit inmutable; no se publican prompts privados ni transcripciones.",
+ "source_sha256": "a57ab157fdbd05ac92fb3f275de149ab58a218e0e0efbc0b51c08bbd55bcd56b",
+ "summary": "Una ingesta de investigación por lotes añadió 21 artículos a la base de conocimiento pública.",
+ "title": "Ingesta de investigación por lotes: 21 artículos mediante Gemini 3 Flash CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-c696325d3e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prepara conjuntos de datos de entrenamiento para al menos dos identidades distintas, en carpetas separadas, dentro de la tarjeta Subjects de la pestaña Fizgig Training.\n\nDescribe cada imagen comenzando con el token disparador único, seguido de una coma y el descriptor de clase (por ejemplo, 'zwxem, a woman smiling') para que Fizgig genere tokens fusionados internos.\n\nActiva LoRA Isolation en la configuración de entrenamiento, combinando Differential Output Preservation con el emparejamiento automatizado de imágenes sintéticas de desconocidos.\n\nGenera las imágenes de inferencia usando el token disparador fusionado junto con descripciones de otros sujetos de la escena para preservar los límites de identidad sin filtración de rostros.\n\nEntrena con al menos dos identidades de personajes distintas de forma simultánea, incluso cuando se dirija a un único personaje principal, para obligar a la red a desacoplar los tokens de identidad de los tokens de clase humana base.\n\nOmite por completo el token disparador al solicitar personajes de fondo o multitudes, para que el modelo base genere rostros diversos por defecto sin filtración.\n\nEstructura los subtítulos en orden causal, con los descriptores de desconocidos colocados primero al emparejar composiciones negativas de varias personas durante el entrenamiento.",
+ "source_sha256": "fb1d0168a8af7673ae44ab665ecc4848e5885d004acacf25593c31ff82699576",
+ "summary": "Fizgig v8.4.0 introduce LoRA Isolation, que combina la preservación diferencial de salidas, el desacoplamiento de clases mediante tokens fusionados y el entrenamiento con pares negativos para evitar la filtración de rostros al generar escenas con varios personajes.",
+ "title": "Fizgig lanza LoRA Isolation para el entrenamiento de múltiples identidades",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

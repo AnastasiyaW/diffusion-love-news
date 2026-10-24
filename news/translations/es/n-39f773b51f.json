@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Se ha consolidado como el estándar actual para la integración de Photopea en ComfyUI, sustituyendo a las versiones anteriores basadas en iframe. El desarrollo en curso aborda el escalado de la interfaz y la estabilidad en entornos de aplicación independiente.",
+ "id": "n-39f773b51f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye un interruptor integrado para bloquear anuncios y admite la importación de capas individuales o de documentos completos de vuelta al grafo.",
+ "source_sha256": "c0485818a23bbf9d45bf3fb27640ddf212962a28c0d0e54534c9deea049e3ce4",
+ "summary": "Integra el editor de imágenes Photopea como una pestaña dedicada en la barra lateral de ComfyUI. Permite transferencias de imágenes bidireccionales y fluidas, así como importaciones de capas específicas, directamente entre el espacio de trabajo y el editor.",
+ "title": "ComfyUI-Photopea-tab: editor de imágenes en barra lateral para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

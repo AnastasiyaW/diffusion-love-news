@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt startete im April 2026 mit dem Datensatz VisPrompt-5M und VP-Bench zur Evaluation der Befolgung visueller Anweisungen. Es etabliert ein vision-zentriertes Paradigma „Image-In, Image-Out“, das separate, aufgabenspezifische architektonische Zweige überflüssig macht.",
+ "id": "n-55db199d87",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Framework unterstützt derzeit eine Auflösung von 256x256 und wurde von Forschenden der CSU, der NUS, von Microsoft und von Tencent entwickelt.",
+ "source_sha256": "265b71b017647f9264506cfe65dea62fb8254da3403e377c2af58d10d9b1a049",
+ "summary": "FlowInOne ist ein Framework, das multimodale Aufgaben wie Bildgenerierung und komplexe Bildbearbeitung in einem einzigen kontinuierlichen visuellen Fluss vereint. Es nutzt eine Flow-Matching-Architektur, um Text, Layouts und Anweisungen als bildbasierte visuelle Prompts zu behandeln.",
+ "title": "FlowInOne: Einheitliche, vision-zentrierte multimodale Bildgenerierung und Bildbearbeitung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

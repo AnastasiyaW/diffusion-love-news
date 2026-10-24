@@ -1,0 +1,11 @@
+{
+ "id": "n-c724eb9e4c",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "权重卸载更加节省，RAM 占用和 OOM 风险随之降低。",
+ "source_sha256": "47a955f6010bdb0428afd134015f8532d4bd4ac5e92f8edfdea5a156a47cd7aa",
+ "summary": "2026-03-26，ComfyUI 记录了 Dynamic VRAM 作为一种稳定机制，可在受支持的 Nvidia 系统上降低显存压力和显存不足（OOM）故障。其指南强调应衡量整个工作流的总耗时，而不是孤立的单次迭代速度。",
+ "title": "ComfyUI 推出稳定的 Dynamic VRAM 显存管理",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

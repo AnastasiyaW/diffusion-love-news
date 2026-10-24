@@ -1,0 +1,10 @@
+{
+ "id": "n-11ae14ece9",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1a62900e42934f79fff26955a1e67e08f3ec963afb4d8a1c413993f3999bfe02",
+ "summary": "2026-08-20，Muse 开发讨论串将读者指向其 GitHub 代码仓库。封存的证据确立了一条带日期的公开源码位置引用，但并未证实任何具体的发布、功能、版本或代码变更。该事件作为该项目的历史仓库参考予以保留。",
+ "title": "Muse 的 ComfyUI 代码仓库已被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

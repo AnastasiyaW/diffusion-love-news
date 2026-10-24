@@ -1,0 +1,11 @@
+{
+ "id": "n-adac82ad85",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Hugging Face 또는 ModelScope의 InternScience/Sage-A1.5 저장소에서 모델 가중치를 다운로드합니다.\n\n표준 Qwen MoE 아키텍처 구성을 사용하여 vLLM 또는 SGLang으로 모델을 배포하면 OpenAI 호환 API 엔드포인트를 노출할 수 있습니다.\n\n모델이 격리된 컨텍스트에서 하위 작업을 병렬화할 수 있도록 하위 에이전트 생성(subagent spawning)을 활성화하여 에이전트 실행 런타임을 구성합니다.\n\n복잡한 궤적을 처리하는 동안 모델이 자체 검토와 오류 복구를 수행하도록 생성 파라미터 또는 시스템 프롬프트에서 네이티브 검증을 활성화합니다.\n\n병렬 조사 분기에는 격리된 하위 에이전트 컨텍스트를 사용하여, 중간 단계의 잡음이 섞인 도구 출력이 루트 에이전트의 주의를 흩뜨리지 않도록 합니다.\n\n네이티브 256K 토큰 컨텍스트 창을 초과하는 저장소나 과학 문헌 모음을 처리할 때는 YaRN 컨텍스트 스케일링 파라미터를 적용합니다.\n\nSGLang 또는 vLLM에서 FP8/INT4 양자화를 사용하여 배포하면 MoE 라우팅 효율을 유지하면서 메모리 사용량을 줄일 수 있습니다.",
+ "source_sha256": "f1deef105e5981b35e4c995753350ecc082e91e879a4dfe76659f2a38125f8f9",
+ "summary": "InternScience 그룹이 Sage-A1.5의 가중치를 공개했습니다. 이 모델은 YaRN을 통해 512K까지 확장 가능한 256K 컨텍스트 창, 내장된 사고 연쇄(chain-of-thought) 자기 수정 메커니즘, 그리고 OpenAI 호환 서빙 구성을 특징으로 합니다.",
+ "title": "Sage-A1.5, 네이티브 에이전틱 자기 검증 기능을 갖춘 모델로 Hugging Face에 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

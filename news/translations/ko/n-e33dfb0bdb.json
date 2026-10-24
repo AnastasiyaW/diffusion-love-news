@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026 Highlight로 선정되었으며, 2026년 4월 공식 공개되었습니다. 분리된 2단계 파이프라인에서 통합 확산(diffusion) 기반 아키텍처로의 주요 전환을 보여주며, 2026년 5월에 공개 추론 코드와 가중치가 배포되었습니다.",
+ "id": "n-e33dfb0bdb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "SNU Visual Computing Lab에서 개발했으며, 쌍을 이루지 않은(unpaired) 데이터로 학습하기 위해 새로운 합성 트리플렛 지도(synthetic triplet supervision) 방법을 활용합니다.",
+ "source_sha256": "2fab6617fedcc7b173781496aab260be69beb80a44253849142804e2908a811c",
+ "summary": "Vanast는 전신 가상 피팅과 포즈 기반 인체 애니메이션을 하나의 단일 단계(single-stage) 프레임워크로 통합한 기술입니다. 인물 이미지, 의류 입력, 모션 시퀀스로부터 고품질 영상을 직접 생성하며, 시간적 일관성과 정체성 보존을 보장합니다.",
+ "title": "Vanast: 통합 인체 애니메이션 및 가상 피팅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

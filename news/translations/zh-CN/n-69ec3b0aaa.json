@@ -1,0 +1,10 @@
+{
+ "id": "n-69ec3b0aaa",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "af8b33c0cec1a1a4cb9c92b6575085798616868496a9b2666ef64292f09f4e82",
+ "summary": "2026 年 3 月 13 日，NVILA-HD-Video 的开发版本通过以下链接公开：VILA 源代码位置、英伟达托管的模型 checkpoint，以及相关的 AutoGaze 资源。这些链接共同提供了一个实用的公开入口，便于查阅其实现并获取所引用的模型。",
+ "title": "NVILA-HD-Video 连同源代码、模型与相关演示资源一并发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

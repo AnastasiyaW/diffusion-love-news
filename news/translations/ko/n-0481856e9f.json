@@ -1,0 +1,10 @@
+{
+ "id": "n-0481856e9f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "054cbd5545b6202f1bbd2c096544ad9b7a4c14dcf7e419a45a4a138801d947eb",
+ "summary": "2026년 3월 18일, OpenSeeker 스레드는 프로젝트의 GitHub 저장소와 OpenSeeker-v1-30B-SFT의 Hugging Face 페이지로 연결되는 링크를 게시했다. 날짜가 기록된 링크만으로 판단하면, 이는 소스 코드와 모델을 공개적으로 이용할 수 있게 된 중요한 이정표다. 다만 이 링크들만으로는 릴리스 노트, 기능, 라이선스, 벤치마크 결과, 그리고 추가로 포함된 hf.ru 링크의 목적은 확인할 수 없다.",
+ "title": "OpenSeeker, 소스 저장소와 30B SFT 모델 링크 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

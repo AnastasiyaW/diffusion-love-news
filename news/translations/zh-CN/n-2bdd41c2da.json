@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目由论文《From Skills to Talent》演化而来，于 2026 年 5 月发展为可用于生产环境的“智能体操作系统”。它引入了用于模块化智能体部署的 Talent Market，以及一条自动化的人事流程，可执行智能体复盘并根据绩效进行解雇。",
+ "id": "n-2bdd41c2da",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在 PRD Bench 基准上达到 85% 的成功率，并具有独特的像素风“办公室”管理界面。",
+ "source_sha256": "03db44d2521249daf7610c461dbb44fff7ca30bf21695d5a6c1a6dae966e8410",
+ "summary": "一个开源框架，可将异构 AI 智能体编排为层级化的公司结构。它采用 Talent-Container 架构，将认知角色与执行环境解耦，并通过基于网页的像素风 UI 进行管理。",
+ "title": "OneManCompany：自组织 AI 智能体操作系统",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

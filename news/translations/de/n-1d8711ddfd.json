@@ -1,0 +1,10 @@
+{
+ "id": "n-1d8711ddfd",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "298577fa7ccd93e0971cc2aef07d7544bfb3f5879fcbd6cc6e269c319b027a26",
+ "summary": "Am 15.06.2026 umfasste die versiegelte Entwicklungsdokumentation der ZCode-IDE die englischsprachige Installationsdokumentation von Z.ai zu ZCode. Da die offizielle URL speziell auf die Installation ausgerichtet ist, stellt dies einen wesentlichen Meilenstein beim Onboarding für die ZCode-3.0-Reihe dar. Die vorliegenden Belege lassen jedoch keine Aussagen zu den Details der Produktveröffentlichung, den unterstützten Plattformen oder darüber zu, ob die Anleitung selbst an diesem Tag erstmals veröffentlicht wurde.",
+ "title": "ZCode-Installationsdokumentation wurde in die Entwicklungsdokumentation aufgenommen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-97e1334295",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "133629bbe5d3ba6e252186a476ba5e58518882e3f08068648b31997f55cf1c8b",
+ "summary": "Le 2026-07-01, la lignée de développement de GELab-Zero a enregistré une référence Hugging Face vers GELab-Zero-4B-preview-Sico-Evolution. La fiche du modèle liée renvoyait également vers une vue Hugging Face associée aux modèles basés sur des adaptateurs, ce qui en fait un point de contrôle de développement public pour le projet.",
+ "title": "Le modèle préliminaire GELab-Zero Sico Evolution apparaît sur Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

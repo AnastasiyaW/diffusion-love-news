@@ -1,0 +1,10 @@
+{
+ "id": "n-675f824e2a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e62510c58ce1b4bae48e1dffd8a7ff04082e649fe63e8becc67dc611dd1ec7ca",
+ "summary": "Le 2026-03-26, la ligne de développement z-image-turbo-sda a été liée au dépôt Hugging Face F16/z-image-turbo-sda. Il s'agit d'une étape significative de référencement public, car elle identifie un point de distribution concret du modèle pour ce projet. Ce lien daté ne permet pas à lui seul d'établir les capacités, la provenance, la version ou le statut de publication du modèle.",
+ "title": "z-image-turbo-sda a été lié à un dépôt de modèle sur Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

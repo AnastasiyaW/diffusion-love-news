@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 offiziell veröffentlicht; etablierte sich als State-of-the-Art-Methode ohne Training, die die Baseline Wan-Edit verbessert, indem sie die Probleme des Signal-Bleedings und des Signal-Fadings löst. Sie knüpft an frühere Arbeiten der CUC-MIPG an, darunter Edit-Transfer und IC-Effect.",
+ "id": "n-a74ee42caa",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Framework adressiert gezielt die Herausforderungen in Szenarien mit mehreren Objekten und schneller Bewegung, in denen traditionelle inversionsbasierte Methoden oft versagen oder ineffizient sind.",
+ "source_sha256": "9db928760533f732082915319093a0b5058fbb17aef0bff28f74ebc3ba99c209",
+ "summary": "FlowAnchor ist ein trainingsfreies und inversionsfreies Framework zur Videobearbeitung, das für hochwertige Video-zu-Video-Transformationen konzipiert ist. Es nutzt eine raumbewusste Verfeinerung der Aufmerksamkeit (Attention) und eine adaptive Magnitudenmodulation, um zeitliche Konsistenz und präzise Bearbeitungssignale zu gewährleisten.",
+ "title": "FlowAnchor: Inversionsfreie, stabile Videobearbeitung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

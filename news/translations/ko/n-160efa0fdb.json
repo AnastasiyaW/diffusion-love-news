@@ -1,0 +1,11 @@
+{
+ "id": "n-160efa0fdb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "연결된 AMA에서 프롬프트/워크플로 가이드와 향후 로컬 릴리스 계획을 설명했으며, 새로운 버전의 모델 릴리스는 아니었다.",
+ "source_sha256": "34b726effe1d50111f678decdcc64ecab07a72ff0c615876592449b46e34689a",
+ "summary": "연결된 AMA에서 프롬프트/워크플로 가이드와 향후 로컬 릴리스 계획을 설명했으며, 새로운 버전의 모델 릴리스는 아니었다.",
+ "title": "MiniMax H3: 연결된 AMA에서 프롬프트/워크플로 가이드와 향후 로컬 릴리스 계획을 설명했으며, 새로운 버전 모델은 아니었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

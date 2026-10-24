@@ -1,0 +1,10 @@
+{
+ "id": "n-6cdd78c533",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "166c7eaedcb24ab8f3ab182066d01b1f718efa468b1bcea3f6a333433550e4cd",
+ "summary": "2026년 6월 30일, 한 프로젝트 메시지가 Agents-A1 웹사이트, GitHub 저장소, Hugging Face 페이지를 연결했습니다. 이 링크들이 독자를 프로젝트의 웹, 소스 코드, 배포 채널로 안내했다는 점에서 중요한 공개 개발 단계의 이정표입니다. 다만 링크만으로는 특정 릴리스, 버전 또는 기능이 확인되지는 않습니다.",
+ "title": "Agents-A1 공개 프로젝트 리소스 링크 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

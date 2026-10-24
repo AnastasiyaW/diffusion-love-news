@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt aus Qwen2.5-Coder zu einem vollständigen agentischen Ökosystem mit einem „Thinking Mode“ für logisches Schlussfolgern und nativer multimodaler Unterstützung für das Verstehen von UIs und Diagrammen.",
+ "id": "n-7e83db4168",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unterstützt das Model Context Protocol (MCP) und verarbeitet Kontextfenster von bis zu 1 Million Tokens für umfangreiche Codebasen.",
+ "source_sha256": "fe0c96d18c76851d37a765af9f8fc6b1f9aad46ae6d1d72baab800752454a459",
+ "summary": "Ein Open-Source-KI-Agent für das Terminal sowie eine Modellfamilie, die auf Softwareentwicklung spezialisiert ist. Er automatisiert komplexe Aufgaben auf Repository-Ebene, etwa Debugging, Refactoring und die multimodale Analyse von Dokumentation.",
+ "title": "Qwen Code: Autonomer KI-Coding-Agent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

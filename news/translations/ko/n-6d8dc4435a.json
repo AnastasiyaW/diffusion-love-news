@@ -1,0 +1,10 @@
+{
+ "id": "n-6d8dc4435a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "2c4aa79e2a90f76a6013092813779dfb0b8504f44fe8336748b4414a2f34ae86",
+ "summary": "2026-07-15자 기록에는 Krea2 TextFusion Refusal-Reduction LoRA로 식별되는 Civitai 모델 페이지 링크가 남아 있다. 이 날짜가 찍힌 링크는 외부 프로젝트 산출물의 존재를 보여줄 뿐, 해당 산출물의 공개 시점, 학습 방식, 버전, 성능에 관한 세부 사항은 확인해 주지 않는다.",
+ "title": "Krea2 TextFusion Refusal-Reduction LoRA용 Civitai 참조 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

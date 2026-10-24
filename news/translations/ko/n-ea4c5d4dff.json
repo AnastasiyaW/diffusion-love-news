@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2024년 말 Genie 출시와 함께 스마트 어쿠스틱 기타에서 완전한 디지털 무줄 플랫폼으로 전환했습니다. 현재 생태계는 LAVA+ 앱의 AI 곡 해독 기능과 모듈형 하드웨어 확장을 중심으로 구성되어 있습니다.",
+ "id": "n-ea4c5d4dff",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "접이식 디자인과 내장된 32W 서브우퍼 시스템이 특징입니다. 고급 AI 기능은 LAVA+ 구독이 필요합니다.",
+ "source_sha256": "806c483a5a2a62f28157e9f521a369c18339c831c4cf7d7677aaff82437e162e",
+ "summary": "터치 감응형 인터페이스와 AI 기반 작곡 도구를 결합한 모듈형 무줄 디지털 악기입니다. 간소화된 코드 모드와 실시간 AI 반주 트랙을 활용해 사용자가 곡을 해독하고, 채보하며, 연주할 수 있도록 합니다.",
+ "title": "LAVA Genie: AI 통합형 무줄 스마트 기타",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

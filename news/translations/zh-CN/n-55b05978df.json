@@ -1,0 +1,10 @@
+{
+ "id": "n-55b05978df",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "071a85fa80f933769ea279eb0783a2894778e9b3e6ba3f539d79da4cd1df5455",
+ "summary": "2026 年 5 月 13 日，相关链接报道了一起据称与 Claude Code 有关的事件，涉及意外扣费以及某项目环境中的 Anthropic API 密钥。现有链接未能确定事件的成因、影响范围或补救措施，因此在进一步调查前，暂将其作为一起已报道的用户影响事件予以记录。",
+ "title": "报道描述一起与 Claude Code 相关的意外扣费事件",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

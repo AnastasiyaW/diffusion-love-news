@@ -1,0 +1,10 @@
+{
+ "id": "n-77aec57904",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72420b947bb892ee5df99835f9416300a3503c5f6efd81bc7c605e12ad50bdd3",
+ "summary": "Am 09.03.2026 verlinkte eine datierte Mitteilung von Penguin-VL die Projektwebsite, das Quellcode-Repository, die Hugging-Face-Sammlung und den interaktiven Hugging-Face-Space des Projekts. Das ist ein wesentlicher Meilenstein für die öffentliche Verfügbarkeit, weil Leserinnen und Leser nun Wege erhalten, das Projekt zu prüfen, dessen veröffentlichte Assets zu finden und die Demonstration auszuprobieren. Allein die datierten Links belegen jedoch nicht die genaue Modellversion, die technischen Aussagen, die Lizenz oder den Umfang der Veröffentlichung.",
+ "title": "Penguin-VL: Öffentliche Projektressourcen wurden veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

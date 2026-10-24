@@ -1,0 +1,10 @@
+{
+ "id": "n-79465fc2da",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f9c3c3a1de299184ffdf9326625c815254cf02a170a2773426888efcbd9ddb18",
+ "summary": "2026-07-30에 ComfyUI Model Resolver 개발 라인에 GitHub 저장소 링크가 포함되었다. 봉인된 증거는 날짜가 기록된 공개 저장소 언급이 있었음을 입증하지만, 릴리스, 기능 세트 또는 구현 이정표는 입증하지 않는다.",
+ "title": "ComfyUI Model Resolver 저장소가 공개적으로 언급되었음",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

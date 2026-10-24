@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "UniGeo adressiert das strukturelle „Warping“, das bei traditionellen Bild-Diffusionsmodellen häufig auftritt, indem es Video-Priors und die Injektion von 3D-Punktwolken nutzt. Derzeit stellt es einen State-of-the-art-Ansatz dar und übertrifft Benchmarks wie ViewCrafter und CAT3D.",
+ "id": "n-7c1f689c14",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt umfasst einen spezialisierten Mechanismus namens „Geometric Anchor Attention“ sowie eine Supervision am Trajektorienendpunkt, um geometrische Drift bei komplexen Kamerabewegungen zu verhindern.",
+ "source_sha256": "3c0375578bc89db608aab08b59a28311872e63bf718fdbaa3387ecbc82cf9bc7",
+ "summary": "UniGeo ist ein Framework für hochgetreue, kamerasteuerbare Bildbearbeitung, das Video-Diffusionsmodelle als Priors nutzt. Es führt eine einheitliche geometrische Steuerung auf Repräsentations-, Architektur- und Verlustebene ein, um während Blickwinkelwechseln eine strikte strukturelle Konsistenz zu gewährleisten.",
+ "title": "UniGeo: Kamerasteuerbare Bildbearbeitung mithilfe von Videomodellen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

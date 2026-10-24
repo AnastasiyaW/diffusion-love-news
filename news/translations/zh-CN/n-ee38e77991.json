@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已被 ICML 2026 接收。该项目目前正处于向开源过渡的阶段，将随 PhysDB 数据集一同发布，该数据集包含 150,000 个经过物理标注的资产。",
+ "id": "n-ee38e77991",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由香港大学（HKU）与腾讯混元合作完成；专为机器人操作和具身智能仿真器设计。",
+ "source_sha256": "1e27c052f07beda0c36af26c45930e5a818faafd31b0955408ad7846ffb374bf",
+ "summary": "PhysForge 是一个研究框架，用于生成具有功能部件和运动学约束、可直接用于仿真的3D资产。它利用视觉-语言模型进行蓝图规划，并采用专门设计的扩散机制，合成物理一致的几何结构和交互逻辑。",
+ "title": "PhysForge：基于物理约束的可交互3D资产生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

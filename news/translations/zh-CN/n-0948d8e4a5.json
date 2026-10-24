@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "自该项目于 2026 年 3 月随论文一同发布以来，其发展重心已转向生态系统集成。当前路线图的优先事项包括：集成 ARC-Chapter 以降低计算成本、推出低成本的选择性素材读取模式，以及未来支持 Claude Code MCP。",
+ "id": "n-0948d8e4a5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该系统使用 LiteLLM 进行模型编排，并提取音乐节拍和能量信号，以确保剪辑与节奏变化保持一致。",
+ "source_sha256": "1070f63ecdcc26b9572a2da5a02aad606445178f593c37d27ec4814b19dda105",
+ "summary": "CutClaw 是一个端到端的多智能体框架，可将长达数小时的视频素材自动剪辑为与音乐同步的短视频。它采用由 Playwriter、Editor 和 Reviewer 等专门化智能体组成的流水线，分别负责叙事规划与节奏对齐。",
+ "title": "CutClaw：基于智能体的多智能体音乐同步视频剪辑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

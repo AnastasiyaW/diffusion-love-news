@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "원시 모델 래퍼에서 출발해 OS 수준의 받아쓰기 위젯과 MCP 서버 통합 기능을 갖춘 완전한 Tauri 기반 데스크톱 제품군으로 발전했습니다. 현재는 제로 의존성 로컬 부트스트랩을 위해 'uv' 패키지 관리자를 사용합니다.",
+ "id": "n-0124eabefd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "오디오 분리를 위해 Demucs를 통합했으며, 영상 더빙의 사실감을 높이기 위한 Wav2Lip v2 통합 로드맵을 갖추고 있습니다.",
+ "source_sha256": "806b1dc9c6d906c0e49719a87cd2e8152ee9feb3ed81a80a0247556499541933",
+ "summary": "제로샷 음성 복제, 시네마틱 더빙, 600개 이상의 언어를 지원하는 실시간 받아쓰기를 제공하는 개인정보 보호 중심의 데스크톱 애플리케이션입니다. 100% 로컬에서 실행되며 NVIDIA, Apple Silicon, AMD 가속기를 지원합니다.",
+ "title": "OmniVoice Studio: 로컬 음성 복제 및 더빙",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

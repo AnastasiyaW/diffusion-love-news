@@ -1,0 +1,10 @@
+{
+ "id": "n-8b5f11bc11",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "216fb272d393b4e2732522e1d56928f5da9110db2055468aa5d1e243f5cadf0e",
+ "summary": "2026-06-18，记录了一个 Qwopus3.6-27B-Coder-MTP GGUF 模型、Qwopus3.6-27B-v2 模型以及一份 Qwen MTP 转 GGUF 指南的链接。综合来看，这些带日期的参考信息表明存在一个可分发的 Coder-MTP GGUF 变体及其直接相关的模型转换背景。这是一个重要的进展步骤，但仅凭这些链接无法确定性能、训练细节、许可证或发布状态。",
+ "title": "Qwopus3.6-27B-Coder-MTP GGUF 产物已链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

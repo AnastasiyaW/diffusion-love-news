@@ -1,0 +1,10 @@
+{
+ "id": "n-a7efec38e4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "98ca83430c55bdcd4cac9c6c658d753a5d281341da408c67f6c84c171d14cd85",
+ "summary": "Am 2026-06-30 enthielt die Qwen-Entwicklungslinie einen Link auf das Hugging-Face-Repository Qwen/Qwen3-ASR-1.7B-hf. Der ASR-orientierte Modellname macht dies zu einer wesentlichen Erweiterung der erfassten Qwen-Linie in Richtung Spracherkennung; aus dem begleitenden The recorded link wird jedoch keine weitere Aussage abgeleitet.",
+ "title": "Qwen3-ASR-1.7B-hf-Checkpoint-Referenz",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

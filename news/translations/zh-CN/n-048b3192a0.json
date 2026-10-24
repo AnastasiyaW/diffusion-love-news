@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "新增六篇文章，修复两个维基链接，已发布数量从 828 增至 834。",
+ "id": "n-048b3192a0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该事件仅记录公开的提交标题以及不可变的代码仓库证据。",
+ "source_sha256": "15a5eb2cbe4101e7eff92b75fdf1e923d1f3eeea053e7b22133b71b91da93484",
+ "summary": "本次内容批次新增了六篇文章，修复了两个失效的维基链接，并将已发布数量从 828 更新为 834。",
+ "title": "2026-06-04 批次：六篇文章与维基链接修复",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

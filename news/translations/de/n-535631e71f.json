@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt ist der direkte Nachfolger des Unity-abhängigen Frameworks AI4Animation. Es überführt die gesamte Pipeline nach Python und unterstützt fortgeschrittene Verfahren wie Flow Matching und Codebook Matching, während es Backpropagation durch die Inferenz- und Visualisierungsschritte erlaubt.",
+ "id": "n-535631e71f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Bietet eine Entity-Component-System-(ECS)-Architektur und unterstützt die Serialisierung von Bewegungsdaten in hochperformante .npz-Formate aus GLB-, FBX- und BVH-Quellen.",
+ "source_sha256": "73871b622dce6fa0c3e7372e84d4aa70f287832588b5f39251b7ecdc5ce34fdf",
+ "summary": "Ein Python-natives Framework von Meta Research für KI-gesteuerte Charakteranimation, das Datenverarbeitung, Training und Echtzeit-Visualisierung vereint. Es macht Game-Engines wie Unity überflüssig, indem es ein reines NumPy- und PyTorch-Backend mit einem integrierten Raylib-Renderer nutzt.",
+ "title": "AI4AnimationPy: Python-Framework für intelligente Charakteranimation",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

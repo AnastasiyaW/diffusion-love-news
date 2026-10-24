@@ -1,0 +1,10 @@
+{
+ "id": "n-1a1b209e8f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "24896cedf8a10d5b3ba0f301bf8da29b022e00d11be4458b16613c766bcd0196",
+ "summary": "2026 年 8 月 21 日，Black Forest Labs 发布了 FLUX Video Upscale 的官方博客公告、产品文档以及一个 playground 模型链接。这是一个重要进展，因为带日期的官方链接确立了该产品的公开发布。仅凭所提供的链接，无法确定其详细功能、可用性、定价或性能。",
+ "title": "Black Forest Labs 推出 FLUX Video Upscale",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

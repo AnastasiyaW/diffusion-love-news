@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "llm-agents 연구 기사 5건이 보강되었습니다.",
+ "id": "n-2f94cbb043",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "영향받은 파일 수는 변경 불가능한 커밋 파일 목록을 기준으로 검증되었습니다.",
+ "source_sha256": "cb5440c7c06174c1189c4e54254e91dfc5c9177b32393858396b68c4533c56c8",
+ "summary": "llm-agents 도메인의 공개 기사 5건이 저장소에서 보강되었습니다.",
+ "title": "에이전트 연구 기사 보강",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

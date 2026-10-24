@@ -1,0 +1,11 @@
+{
+ "id": "n-aa7ac5b27f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Examiner les frontières réglementaires régionales et les directives de conformité fédérales avant d'intégrer l'API DeepSeek ou ses poids de modèles dans les flux de travail institutionnels.\n\nPrévoir un accès API commercial ou des clusters de calcul privés reposant sur une infrastructure indépendante, afin de préserver la continuité opérationnelle.\n\nIsoler les pipelines de déploiement des fournisseurs de modèles dont le siège est en Chine des environnements de données fédéraux et réglementés occidentaux, afin de se conformer aux restrictions en matière de marchés publics.",
+ "source_sha256": "28b9b2562d9dab185d0994f2eac46e4c3349b306dfe08f1f21fe810d6b940f93",
+ "summary": "DeepSeek aurait clôturé un tour de financement de 15 milliards de dollars sur la base d'une valorisation estimée à 100 milliards de dollars, destinant ces capitaux à l'expansion de ses capacités de calcul et à l'entraînement de modèles de nouvelle génération, afin de rivaliser avec les laboratoires américains de pointe.",
+ "title": "DeepSeek boucle une levée de 15 milliards de dollars à une valorisation de 100 milliards de dollars",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

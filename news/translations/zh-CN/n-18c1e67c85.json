@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该产品从一款移动端照片重混应用演变为面向直播的精密身份层。近期新增了基于云端的桌面客户端，以降低本地硬件负载，并扩展了更多 Twitch/Kick 互动集成功能。",
+ "id": "n-18c1e67c85",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Decart.AI 开发。以其“身份层”（Identity Layer）概念而闻名，主播可根据观众互动或个人预设在实时状态下进行形象变换。",
+ "source_sha256": "6ebc41b8a2261b90d943cf31769c04f62c9ffb5dde305e4fa36446e56f7b9ace",
+ "summary": "一款面向直播主播的实时 AI 变换层，可即时更换外观、服装和背景。它与 OBS 集成，并允许观众通过互动聊天指令在直播中触发实时变化。",
+ "title": "Delulu Stream 实时视频操控",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aufbauend auf den Grounding-Fähigkeiten des früheren SeeClick-Projekts entwickelte sich OpenMobile zu einer vollständigen Pipeline zur Aufgabenausführung. Stand 2026 haben feinabgestimmte Versionen auf Basis von Qwen3-VL auf dem AndroidWorld-Benchmark Erfolgsraten erreicht, die dem aktuellen Stand der Technik entsprechen.",
+ "id": "n-02d9e4ba24",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von der Nanjing University und SenseTime; das Release umfasst 34K Aktionsschritte sowie Werkzeuge zur Visualisierung von Agenten-Trajektorien.",
+ "source_sha256": "4a0a913af14e2cd2aecf80af7d155c493b316974de5662d634bb8873b619d03d",
+ "summary": "Ein umfassendes Framework und ein Datensatz zum Training mobiler Agenten, die in Android-Umgebungen eigenständig navigieren und mehrstufige Aufgaben ausführen können. Es führt eine skalierbare Pipeline zur Aufgabensynthese sowie Policy-Switching-Rollout-Strategien ein, um die Leistung der Agenten und die Fehlerbehebung zu verbessern.",
+ "title": "OpenMobile: Open-Source-Framework für mobile Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

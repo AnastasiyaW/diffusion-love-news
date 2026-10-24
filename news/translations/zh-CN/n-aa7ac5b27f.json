@@ -1,0 +1,11 @@
+{
+ "id": "n-aa7ac5b27f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在将 DeepSeek API 或模型权重集成到机构工作流程之前，请审查相关地区的监管边界和联邦合规指令。\n\n提供商业 API 访问权限，或依托独立基础设施的私有计算集群，以保持运营连续性。\n\n将中国总部模型提供商的部署流水线与联邦及受监管的西方数据环境隔离，以符合公共采购限制。",
+ "source_sha256": "28b9b2562d9dab185d0994f2eac46e4c3349b306dfe08f1f21fe810d6b940f93",
+ "summary": "据报道，DeepSeek 已完成一轮 $15 billion 融资，估值约为 $100 billion。资金将用于扩大算力规模和下一代模型训练，以与美国前沿实验室竞争。",
+ "title": "DeepSeek 以 $100 billion 估值完成 $15 billion 融资轮",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-b8d5334397",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "45bf09e9bb8d92fe865499bcfef5319a959c08da1ff889fab51b13a32c856eb1",
+ "summary": "El 2026-08-15, un miembro sellado de la línea de desarrollo de OpenVuln enlazó directamente al Space del proyecto en Hugging Face. Esto registra una referencia pública al espacio del proyecto en esa fecha, pero el enlace por sí solo no establece el estado de publicación del Space, sus funciones ni ningún cambio en el proyecto.",
+ "title": "Se hizo referencia al Space público de OpenVuln en Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Eine Weiterentwicklung des X-SAM-Modells, die Videounterstützung über ein zeitliches Gedächtnis ergänzt und den Video Visual Grounded (V-VGD) Benchmark für interaktive Videosegmentierung einführt.",
+ "id": "n-1c50287b34",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aufgebaut auf den Architekturen von Qwen3-VL und SAM2; unterstützt gleichzeitige Textanweisungen und visuelle Prompts wie Punkte oder Bounding Boxes.",
+ "source_sha256": "88af168ade3f00a96c886e683495e60cb1b8914a03a51df4abf8a0bdf3572aa5",
+ "summary": "Ein einheitliches Framework auf Basis eines multimodalen großen Sprachmodells, das universelle Segmentierungsfähigkeiten von statischen Bildern auf dynamische Videosequenzen erweitert. Es nutzt ein Mask-Memory-Modul, um die zeitliche Konsistenz über 14 unterschiedliche Vision-Language-Aufgaben hinweg zu wahren.",
+ "title": "X2SAM — multimodales Modell für Bild- und Videosegmentierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

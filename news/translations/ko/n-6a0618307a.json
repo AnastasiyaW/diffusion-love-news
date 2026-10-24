@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "영어 전용 v1을 기반으로, v2에서는 여러 문자 체계에 걸친 14,000자 이상의 문자를 지원하도록 도입되었습니다. 이후 실시간 에이전트 워크플로를 위해 통합 멀티모달 모델인 Nemotron-3 Nano Omni에 통합되었습니다.",
+ "id": "n-6a0618307a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "RAG 및 문서 중심 AI 에이전트에 최적화되어 있으며, 정확한 읽기 순서와 논리적 그룹화를 위한 관계 모듈을 포함합니다.",
+ "source_sha256": "4005379b5dfb5022e41f5d671c137dc0dbd6b04781d7aaf5943512205f3eff99",
+ "summary": "다국어 텍스트 인식과 복잡한 문서 구조 파싱에 특화된 고속 프로덕션 준비형 OCR 모델입니다. 모듈식 트랜스포머 아키텍처를 활용하여 높은 정확도로 초당 30페이지 이상을 처리합니다.",
+ "title": "Nemotron-OCR v2: NVIDIA 다국어 문서 인텔리전스 시스템",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

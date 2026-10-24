@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "由扁平的提示词列表转向结构化的 Atlas 架构，按类别拆分文件，以减少智能体的 token 消耗。新增可通过 uv 安装的专用 CLI 工具，并正式支持 Claude Code 与 Codex 插件。",
+ "id": "n-df001e7bab",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "包含独特的预算调节器功能，用于控制 API 开销，并提供针对科研图表、UI 设计稿以及复杂场景编辑的专用提示词。",
+ "source_sha256": "c023c622284b72b80b6872a2afab91356c8bd8e98e5cc7a799996b239a4d7b2a",
+ "summary": "一套精选的 160 余条高价值提示词，以及面向 OpenAI GPT Image 2 模型的智能体技能包。它采用“参考图库图谱”（Reference Gallery Atlas）架构，以提升 AI 助手与自主智能体的上下文窗口利用效率。",
+ "title": "GPT Image 2 提示词库与技能包",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

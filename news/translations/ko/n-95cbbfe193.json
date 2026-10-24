@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "해당 뉴스 게시물은 5B 및 14B SANA-Video 2.0 아키텍처와 성능 주장을 설명했으며, 당시에는 새 모델의 가중치를 사용할 수 없다고 명시적으로 보고했다.",
+ "id": "n-95cbbfe193",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f0cb562fec8157490da8b509a322663bec1ff23b315abe9ce2b5d3205df9fae7",
+ "summary": "해당 뉴스 게시물은 5B 및 14B SANA-Video 2.0 아키텍처와 성능 주장을 설명했으며, 당시에는 새 모델의 가중치를 사용할 수 없다고 명시적으로 보고했다.",
+ "title": "SANA-Video 2.0이 가중치 공개 없이 발표됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

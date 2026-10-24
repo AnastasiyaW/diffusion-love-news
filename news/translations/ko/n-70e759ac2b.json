@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 5월에 공식 공개되었으며 SIGGRAPH 2026에 채택되었습니다. 이 프레임워크는 물리적 속성을 다루는 UniVid-Intrinsic과 레이어 분해를 담당하는 UniVid-Alpha라는 두 가지 특화 모델과 함께 처음 공개되었습니다.",
+ "id": "n-70e759ac2b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Wan2.1 백본 위에 구축되었으며, Stochastic Condition Masking과 Decoupled Gated LoRA를 사용하여 최소한의 학습 데이터로도 모달리티 간 일관성을 유지합니다.",
+ "source_sha256": "e207a63bd072333e1cd083c11bb5d7e17dbedce818e81762f5a3ffc5c526daec",
+ "summary": "비디오 매팅, 리라이팅, 역렌더링을 포함해 15개 이상의 태스크를 처리하도록 설계된 통합 'any-to-any' 비디오 디퓨전 프레임워크입니다. RGB, 깊이(depth), 알파(alpha) 등 다양한 모달리티를 단일 아키텍처 안에서 상호 교환 가능한 조건(condition) 또는 타깃(target)으로 다룹니다.",
+ "title": "UniVidX: 통합 멀티모달 비디오 디퓨전 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

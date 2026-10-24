@@ -1,0 +1,10 @@
+{
+ "id": "n-55b05978df",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "071a85fa80f933769ea279eb0783a2894778e9b3e6ba3f539d79da4cd1df5455",
+ "summary": "Le 2026-05-13, des signalements associés ont décrit un incident présumé lié à Claude Code, impliquant des frais inattendus et une clé d'API Anthropic dans un contexte de projet. Les liens disponibles n'établissent ni la cause, ni la portée, ni la remédiation de l'incident ; il est donc conservé comme un événement signalé d'impact sur les utilisateurs, en attente d'investigation.",
+ "title": "Des signalements décrivent un incident de facturation inattendue lié à Claude Code",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aufbauend auf der CuTR-Architektur führte Boxer aleatorische Unsicherheit und eine Kodierung über Median-Tiefenpatches ein, um die Robustheit zu verbessern. Seit der Veröffentlichung Anfang 2026 wurde es als Boxer3D auf mobile Geräte portiert und nutzt YOLO11 für die Echtzeit-3D-Objekterkennung auf iOS.",
+ "id": "n-2938402642",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt umfasst einen umfangreichen Datensatz mit 1.22 Millionen eindeutigen 3D-Bounding-Boxen und unterstützt die Integration mit den Project-Aria-Brillen und ScanNet.",
+ "source_sha256": "59be5c9dc08f7bb5be995b8fd6475d2a66af0991c1152899063eccff1a0b2219",
+ "summary": "Ein Forschungsprojekt von Meta Reality Labs, das Open-Vocabulary-2D-Objekterkennungen mithilfe von Bildern mit bekannten Kameraposen und optionalen spärlichen Tiefeninformationen in global konsistente, orientierte 3D-Bounding-Boxen überführt. Dafür kommt ein Transformer-basiertes Netzwerk namens BoxerNet zum Einsatz, das 7-DoF-Boxen über egozentrische und Innenraum-Datensätze hinweg vorhersagt.",
+ "title": "Boxer: Open-World 2D-to-3D Bounding Box Lifting",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

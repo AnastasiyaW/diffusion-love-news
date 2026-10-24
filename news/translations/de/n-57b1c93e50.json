@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag beschreibt die lokale Ausführung und Feinabstimmung von Modellen unter Windows, macOS und Linux auf CPU und mehreren Beschleuniger-Backends sowie Funktionen für Agenten, Suche, RAG, MCP und Export.",
+ "id": "n-57b1c93e50",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a37f33ca11a03f62174647f6f13c89b4ed6a94d80cfb4b709aae60f5cd43852f",
+ "summary": "Der Nachrichtenbeitrag beschreibt die lokale Ausführung und Feinabstimmung von Modellen unter Windows, macOS und Linux auf CPU und mehreren Beschleuniger-Backends sowie Funktionen für Agenten, Suche, RAG, MCP und Export.",
+ "title": "Unsloth Desktop wird vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

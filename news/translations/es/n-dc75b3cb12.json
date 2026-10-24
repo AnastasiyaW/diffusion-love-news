@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La noticia informaba de un LoRA de infografías de ocho pasos con texto en chino e inglés, diseños estructurados, uso en GPU de consumo y modos de fallo con texto repetido y fondo blanco.",
+ "id": "n-dc75b3cb12",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f2ee2e44107ab209c5b4a7434af3397d9ff18eb8010d2661a9963d0c2f20051e",
+ "summary": "La noticia informaba de un LoRA de infografías de ocho pasos con texto en chino e inglés, diseños estructurados, uso en GPU de consumo y modos de fallo con texto repetido y fondo blanco.",
+ "title": "El LoRA de infografías para SenseNova U1 reporta una ruta de ocho pasos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

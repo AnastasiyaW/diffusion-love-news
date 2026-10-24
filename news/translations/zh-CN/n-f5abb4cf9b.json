@@ -1,0 +1,10 @@
+{
+ "id": "n-f5abb4cf9b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "316bc609f3e399cd45d911b023f24168ca1b5f9d551e5ed1107bceeb92c81515",
+ "summary": "2026-07-01，Anthropic 链接了一则关于 Claude Fable 5 重新部署的新闻，表明该项目进入了新的部署生命周期阶段。仅凭这一带日期的链接，无法确定重新部署的原因、技术变更、推出范围或对用户的影响。",
+ "title": "Claude Fable 5 重新上线",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

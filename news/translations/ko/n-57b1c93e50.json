@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "이 뉴스 게시물은 Windows, macOS, Linux에서 CPU 및 여러 가속기 백엔드를 활용한 로컬 모델 실행과 파인튜닝, 그리고 에이전트, 검색, RAG, MCP, 내보내기 기능을 소개했다.",
+ "id": "n-57b1c93e50",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a37f33ca11a03f62174647f6f13c89b4ed6a94d80cfb4b709aae60f5cd43852f",
+ "summary": "이 뉴스 게시물은 Windows, macOS, Linux에서 CPU 및 여러 가속기 백엔드를 활용한 로컬 모델 실행과 파인튜닝, 그리고 에이전트, 검색, RAG, MCP, 내보내기 기능을 소개했다.",
+ "title": "Unsloth Desktop 출시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

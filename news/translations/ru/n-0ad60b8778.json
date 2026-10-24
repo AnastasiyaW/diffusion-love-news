@@ -1,0 +1,10 @@
+{
+ "id": "n-0ad60b8778",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f1ad0343cccc1e6edbd3877d15d3b0e80e61ac4cec9ccdcf26b053b8be80ff3d",
+ "summary": "12 августа 2026 года линейка разработки Nemotron 3.5 Lightning была задокументирована через публичные ссылки на страницы моделей NVIDIA на Hugging Face, результаты поиска связанных моделей и размещённый NVIDIA playground. Тот же набор ссылок связывал линейку с репозиторием NVIDIA-NeMo Switchyard и вариантом DSpark, что демонстрирует её публичное распространение и сопутствующие инструменты на тот момент в истории проекта.",
+ "title": "Публичная модель Nemotron 3.5 Lightning и ресурсы playground стали доступны",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

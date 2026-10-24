@@ -1,0 +1,10 @@
+{
+ "id": "n-1402aca572",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5ac0d2118dee3af8da445ca1fd4ac20c25a3d88da9065895929a23bad24e3144",
+ "summary": "Am 04.08.2026 verlinkte eine Nachricht aus der Entwicklungslinie das GitHub-Repository TencentCloud/TencentDB-Agent-Memory. Der datierte Link belegt einen projektbezogenen Verweis, doch es wurden weder Quelltext noch ein Snapshot des Repositorys bereitgestellt. Daher lassen sich Implementierung, Veröffentlichungsstatus und Funktionsumfang auf Basis der historischen Aufzeichnung nicht belastbar beschreiben.",
+ "title": "TencentDB Agent Memory: Projektreferenz geteilt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

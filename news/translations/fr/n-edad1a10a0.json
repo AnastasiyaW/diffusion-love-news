@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après sa publication en avril 2026, le projet s'est enrichi du jeu de données MegaStyle-1.4M et d'un encodeur de style spécialisé qui surpasse nettement les modèles CSD antérieurs. Les nœuds ComfyUI officiels ont été intégrés directement au dépôt principal peu après le lancement.",
+ "id": "n-edad1a10a0",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Travail collaboratif entre Tencent et l'Université de Tongji ; le projet se distingue par un système original de calcul de score de style permettant d'évaluer la cohérence artistique.",
+ "source_sha256": "b7c26e914fe576e4c78f321e302caa9d92b5799598a64fae7d0bb9fee37774a0",
+ "summary": "Un système de transfert de style de pointe développé par Tencent, reposant sur un encodeur basé sur SigLIP et sur l'architecture FLUX.1-dev. Il permet d'appliquer un style artistique haute fidélité à des prompts text-to-image tout en éliminant efficacement la fuite de contenu depuis l'image de référence.",
+ "title": "MegaStyle : framework de transfert de style et nœuds ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

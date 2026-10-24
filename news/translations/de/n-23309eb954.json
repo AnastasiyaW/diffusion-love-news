@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde für die CVPR 2026 angenommen und erweiterte sich von der ursprünglichen ArXiv-Veröffentlichung um vollständigen Trainingscode und den Synth4K-Benchmark. Seitdem kamen Unterstützung für DINOv3-Backbones, Tiefeninferenz aus mehreren Ansichten sowie der direkte Export in 3D-Gaussian-Splatting-Formate hinzu.",
+ "id": "n-23309eb954",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von der Zhejiang University (zju3dv); führt die Infinite-Depth-Query-(IDQ-)Strategie ein, um die Synthese neuer Ansichten (Novel View Synthesis) zu verbessern.",
+ "source_sha256": "18f8d7d9baedbfa97600bd63558e3c102d11a05b57d4525db432817511807aab",
+ "summary": "Ein Framework zur monokularen Tiefenschätzung, das neuronale implizite Felder nutzt, um die Tiefe an kontinuierlichen 2D-Koordinaten vorherzusagen. Es unterstützt Ausgaben mit beliebiger Auflösung bis zu 4K/8K und erfasst feine Strukturen wie Geländer und Kabel, die traditionelle gitterbasierte Verfahren häufig glätten.",
+ "title": "InfiniDepth: monokulare Tiefenschätzung mit beliebiger Auflösung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

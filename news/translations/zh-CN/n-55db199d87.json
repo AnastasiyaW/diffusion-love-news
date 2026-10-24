@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月启动，同时发布了 VisPrompt-5M 数据集和用于评估视觉指令遵循能力的 VP-Bench。它确立了以视觉为中心的“图像输入，图像输出”范式，消除了针对各任务单独设置的架构分支。",
+ "id": "n-55db199d87",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该框架目前支持 256x256 分辨率，由来自 CSU、NUS、Microsoft 和 Tencent 的研究人员共同开发。",
+ "source_sha256": "265b71b017647f9264506cfe65dea62fb8254da3403e377c2af58d10d9b1a049",
+ "summary": "FlowInOne 是一个将图像生成和复杂编辑等多模态任务统一到单一连续视觉流中的框架。它采用 Flow Matching 架构，将文本、版式和指令都视为基于图像的视觉提示。",
+ "title": "FlowInOne：统一的以视觉为中心的多模态图像生成与编辑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

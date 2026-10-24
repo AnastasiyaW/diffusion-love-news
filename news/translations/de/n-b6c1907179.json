@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Offiziell im April 2026 als Kooperation zwischen LeapLabTHU und Tencent Hunyuan veröffentlicht. Es verschiebt das Paradigma von ‚Bearbeitung‘ hin zu ‚Regeneration‘ und zeigt deutliche Verbesserungen bei Benchmarks wie GeneralEval und UniGeneralBench++.",
+ "id": "n-b6c1907179",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Verwendet ViT-basierte semantische Tokens, um den zentralen Kontext zu bewahren, während das Modell strukturelle Details vollständig neu zeichnen kann.",
+ "source_sha256": "369ddf6f222587561439b9695f19255c404658fa22513e367387e80bd82eddd4",
+ "summary": "RvR ist ein Framework, das die Bildqualität und die semantische Übereinstimmung verbessert, indem Bilder aus semantischen Tokens auf hoher Ebene neu generiert werden, anstatt sie auf Pixelebene zu bearbeiten. Es nutzt ein Mixture-of-Tokens-(MoT-)Modell mit 7B Parametern, um strukturelle Fehler und stilistische Inkonsistenzen zu beheben, die herkömmliche Methoden nicht adressieren können.",
+ "title": "RvR: Refinement via Regeneration für hochwertige Bildverfeinerung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

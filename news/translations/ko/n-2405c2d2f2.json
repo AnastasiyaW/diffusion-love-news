@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 5월 5일부로 ChatGPT의 기본 모델로 전환되었으며, GPT-5.3 시리즈를 대체했다. GPT-4.5 이후 처음으로 완전히 재학습된 기반 모델이며, 네이티브 옴니모달리티와 심층적인 Codex 통합을 특징으로 한다.",
+ "id": "n-2405c2d2f2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Terminal-Bench 2.0에서 82.7%라는 기록적인 점수를 달성했다. 가이드는 최적의 성능을 위해 프롬프트 압축과 '프로세스 노이즈'의 제거를 강조한다.",
+ "source_sha256": "43e78fca2784068578bf3da3e2cec63971d8a696ec044c97b542ae9e5950b803",
+ "summary": "2026년 4월 출시된 OpenAI의 플래그십 멀티모달 모델 GPT-5.5의 공식 기술 매뉴얼이다. 단계별 지시보다 성공 기준의 정의를 우선하는 '결과 우선(Outcome-First)' 프롬프팅 패러다임을 제시한다.",
+ "title": "GPT-5.5: OpenAI 공식 프롬프팅 가이드",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-0abfd5c1ff",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3dd7ffaf7aa5e8665937c98dee5d91c0a685b5c71d0add7a088b3fd4b02b7d8c",
+ "summary": "El 25 de julio de 2026, la página de noticias de NVIDIA sobre SIGGRAPH 2026 enlazó a una página específica del Synthetic Video Detector en NVIDIA Build. Se trata de un hito material de divulgación pública y disponibilidad para el proyecto, ya que vincula el detector con la plataforma pública para desarrolladores de NVIDIA. Los enlaces facilitados no permiten determinar sus capacidades, su madurez de publicación ni los detalles de despliegue.",
+ "title": "NVIDIA presenta su Synthetic Video Detector en los materiales de SIGGRAPH 2026",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

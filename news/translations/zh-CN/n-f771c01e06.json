@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目最初是一个专注于大语言模型之间协作推理的 2025 年项目，并于 2026 年初演变为一个自主研究平台。现在它支持“自发组织”，智能体可以结成联盟，并自我优化其协作结构，以解决复杂的工程和数学任务。",
+ "id": "n-f771c01e06",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在内核工程和数学优化领域取得了新的 SOTA 结果，其中在 Anthropic 的内核基准测试中，相比人类水平基线实现了 20% 的性能提升。",
+ "source_sha256": "a6fe1d72662debf7bed5c8d0f5c88b70f65ea88a8d25dcc46f5e0826ff74ee67",
+ "summary": "CORAL 是由 Human-Agent-Society 开发的开源框架，用于构建可自我演化的多智能体组织。它使自主智能体能够在隔离的 worktree 中开展实验，同时共享一个持久化知识中心，以推动开放式科学发现和系统优化。",
+ "title": "CORAL：面向自主多智能体演化的基础设施",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

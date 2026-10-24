@@ -1,0 +1,10 @@
+{
+ "id": "n-4f107b5ebf",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "beffbe4d9d3b890b56d2176e0a8113f7a210038615fab3ff0eb12d48c7dde473",
+ "summary": "2026-03-25 有一条带日期的记录链接到该 GGUF 模型系列的一个 Hugging Face 页面。该 URL 提供了 mradermacher 账户下一个具体的公开分发参考。仅凭这一带日期的链接，无法确定该模型的来源、内容、可用性或技术变更。",
+ "title": "GGUF 模型系列的 Hugging Face 参考记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

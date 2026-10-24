@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 최초 공개되었으며, 이 프로젝트는 대규모 언어 모델을 확장하는 방식 대신 Wan2.1과 같은 비디오 생성기를 멀티모달 지능의 기반으로 삼는 방향으로의 전환을 보여준다.",
+ "id": "n-a5ceb23735",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Wan2.1 Diffusion Transformer 구조를 기반으로 하며, 단일 flow 내에서 서로 다른 모달리티를 처리하기 위해 전용 Feed-Forward Network 전문가(expert)를 도입한다.",
+ "source_sha256": "48b4fae559d1cf78c6fa50573a69ed312d081434d15e50ea31526e60e540c7f4",
+ "summary": "Uni-ViGU는 확산 기반 비디오 생성기를 확장하여 비디오 생성과 이해 과제를 모두 수행하도록 한 통합 프레임워크이다. 모달리티 기반 Mixture-of-Experts 구조와 통합 flow matching 메커니즘을 활용하여 연속적인 비디오 모달리티와 이산적인 텍스트 모달리티를 통합한다.",
+ "title": "Uni-ViGU: 비디오 생성과 이해의 통합",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

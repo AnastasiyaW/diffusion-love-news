@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该列表已扩展，纳入了 Vosk-TTS 和 Matcha-TTS 等现代神经网络语音合成框架。目前该列表优先推荐轻量级、离线优先且基于 ONNX 的解决方案，并支持与 Sherpa-ONNX 集成，以在边缘设备上实现高性能流式自动语音识别（ASR）。",
+ "id": "n-78ccc63365",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "收录了大量链接，包括用于文本预处理的 ru-normalizr 工具，以及用于跟踪俄语机器学习研究动态的 speechinfo 社区。",
+ "source_sha256": "77cdf9ef6cb52711fc51839827a061d19aed00baeafe2e77b347bf39adaca7af",
+ "summary": "这是一个全面整理的资源库，收录了用于俄语语音识别与语音合成的数据集、工具和开源模型。该资源库由 Alpha Cephei 维护，该团队是 Vosk 语音识别工具包的开发者。",
+ "title": "Awesome Russian Speech：俄语语音技术资源",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

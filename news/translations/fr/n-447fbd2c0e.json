@@ -1,0 +1,11 @@
+{
+ "id": "n-447fbd2c0e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configurer les graines de génération globales et les priors environnementaux pour initialiser la couche de planification Macro dédiée à l'écologie régionale, à l'hydrologie et aux réseaux de transport.\n\nFournir les vecteurs de position et de cap de l'agent pour projeter le corridor de déplacement, ce qui déclenche la planification Micro anticipée pour les tuiles spatiales imminentes.\n\nInvoquer la compilation procédurale locale et déterministe pour traduire les décisions de plan Micro approuvées en terrain 3D, végétation et actifs d'implantations pouvant être rendus.\n\nÉmettre des commandes en langage naturel pour mettre à jour les entités d'exécution ou les attributs des tuiles, en persistant les états modifiés dans la base de données du registre du monde par tuile.\n\nDécoupler les horizons de planification de la compilation géométrique le long des corridors prédits afin de maintenir des fréquences d'images stables et d'éviter les pics de calcul.\n\nImposer des engagements stricts de frontière entre tuiles dans le planificateur Micro afin d'éviter les coutures visuelles et topologiques entre cellules compilées indépendamment.\n\nS'appuyer sur la recompilation à partir de la graine par tuile et des enregistrements de mutations plutôt que sur la mise en cache de maillages à haute densité de polygones en mémoire lorsque l'agent parcourt de grandes distances.",
+ "source_sha256": "6050376c24394dfb6ad593f24bffeee199095466037377eabd50cfbd1ec985e3",
+ "summary": "Un préprint arXiv précise le modèle de décision typé de WorldStream, qui découple la planification de corridor anticipée (ahead-of-time) de la compilation just-in-time et stocke l'état par tuile (graine, frontières et PNJ) dans un registre persistant du monde.",
+ "title": "Un préprint arXiv détaille l'architecture de WorldStream et son registre persistant du monde",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

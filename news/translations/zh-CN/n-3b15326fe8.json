@@ -1,0 +1,10 @@
+{
+ "id": "n-3b15326fe8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c2fc8c5fde2a90ae81948e94e09b72457e292cecf0389dc034995fc95845a4e3",
+ "summary": "2026年8月11日，Muse 相关帖子将 Muse Glimmer 与三个 Hugging Face 链接关联起来：一个名为 Muse-Glimmer-30B 的模型仓库、一个基于该模型的量化模型页面，以及一个以其命名的 Space。这些带日期的链接共同记录了截至该日期可见的模型页面及相关量化和 Space 引用。但它们并不能证实该模型的发布日期、能力、归属，也不能说明该消息是否宣布了新的变更。",
+ "title": "Muse Glimmer 30B 的 Hugging Face 相关链接已被记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

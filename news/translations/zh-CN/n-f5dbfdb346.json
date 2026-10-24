@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该产品从纯云端API模式转向支持AWS和Google Cloud上的虚拟私有云（VPC），随后推出真正的本地部署和端侧（离线）部署。这些本地版本采用机密计算技术，确保数据在处理过程中保持隔离并处于加密状态。",
+ "id": "n-f5dbfdb346",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "专为医疗、金融和国防等高度监管行业量身打造，这些行业因合规或安全要求，通常限制基于云端的AI处理。",
+ "source_sha256": "069166b4b298b1f18df0fa18f0c8e0cc693ee710769093d3ebbfc923a308cfa8",
+ "summary": "ElevenLabs 为其生成式语音模型提供企业级本地部署选项，可在本地服务器或边缘设备上实现高质量语音合成与处理。该方案聚焦数据主权、超低延迟以及对隔离网络（air-gapped）环境的支持。",
+ "title": "ElevenLabs：本地部署与端侧部署的语音AI方案",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

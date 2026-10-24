@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 2026년 초 정적 확산(diffusion) 기반 모델에서 완전 자율 에이전트 시스템으로 발전했습니다. 현재는 프롬프트에서 지식 공백을 자동으로 식별하고, 합성 전에 웹 검색 기반 그라운딩을 통해 실제 시각적 근거를 확보하는 최적화된 파이프라인을 갖추고 있습니다.",
+ "id": "n-c9e1e40a9c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "멀티모달 모델의 사실 충실도(factual fidelity)를 평가하기 위한 FactIP 벤치마크를 도입했으며, Tencent Hunyuan과 UCLA 연구진의 협업으로 개발되었습니다.",
+ "source_sha256": "1d55b8f14757c2450b39192e04ca77d13baa46e4312f7578a53db0e2b155e89e",
+ "summary": "이미지 생성의 '클로즈드북' 문제를 해결하기 위해 실시간 웹 리서치를 수행하는 엔드투엔드 멀티모달 에이전트 프레임워크입니다. Think-Research-Recaption-Generate 파이프라인을 활용해 시각 합성을 사실에 기반한 외부 근거에 연결하며, 희귀하거나 롱테일 개념에 대한 환각(hallucination)을 크게 줄입니다.",
+ "title": "Unify-Agent: 오픈북 에이전트형 이미지 합성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

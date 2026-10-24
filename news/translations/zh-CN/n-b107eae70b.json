@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目仍是处理“野外”（'in-the-wild'）对话音频的主要开源框架；它被广泛用于为 Moshi 等全双工对话模型生成数据集。",
+ "id": "n-b107eae70b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 KAIST AI 与 NAVER Cloud 共同开发；采用混合专家 ASR 集成方案，结合 Whisper、Parakeet 和 Canary 模型。",
+ "source_sha256": "3a72d3d029e65332b51750821350f4ae25129f5fcfaf19c2f0526bec481ac043",
+ "summary": "一个开源的模块化流水线，旨在将原始对话音频转化为全双工语音语言模型的高质量训练数据。它集成了说话人日志（speaker diarization）、ASR 混合专家（Mixture of Experts）以及背景噪声去除功能，以保留自然的对话动态。",
+ "title": "Sommelier：开源音频处理流水线",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

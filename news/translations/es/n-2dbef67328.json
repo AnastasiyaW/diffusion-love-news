@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado originalmente como una crítica satírica sobre el 'AI slop', el proyecto evolucionó hasta convertirse en una plantilla funcional para agentes locales basados en navegador. Se cita con frecuencia en debates sobre el 'Vibe Coding' y la proliferación de sistemas de IA autónomos de bajo esfuerzo.",
+ "id": "n-2dbef67328",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Mantenida por PasiKoodaa junto a otras herramientas que priorizan lo local, como Chat-with-Screen y Screen-Analysis-Overlay.",
+ "source_sha256": "e874aba0efa9e4e2a942dfcea5e9de1fb0f8975d83f7f9c3758f01f0fcd4a4bc",
+ "summary": "Una herramienta ligera y de código abierto que permite la programación autónoma impulsada por IA directamente en el navegador, sin necesidad de claves de API externas. Aprovecha la ejecución de modelos en local para ofrecer un entorno simplificado destinado a tareas de programación agéntica y experimentación rápida.",
+ "title": "SlopLobster: asistente de programación con IA local en el navegador",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

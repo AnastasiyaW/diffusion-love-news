@@ -1,0 +1,10 @@
+{
+ "id": "n-6ab0eb34ad",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3ed5a9d649b9b582c97f0f4363ae395b19d91c18a1e2a41cbb1c67ed780dff83",
+ "summary": "2026년 3월 20일자 메시지에 S3T-Former의 GitHub 저장소 링크가 게시되었다. 이는 해당 프로젝트에 대한 같은 시기의 공개 코드 참조가 존재함을 확인해 주지만, 현재 확보된 근거만으로는 릴리스, 논문 버전, 벤치마크 결과 또는 특정 코드 변경 사항을 확인할 수 없다. 따라서 이력 항목에는 저장소의 공개 가용성만 기록해야 한다.",
+ "title": "S3T-Former 소스 저장소 공유",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

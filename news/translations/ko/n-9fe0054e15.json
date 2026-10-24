@@ -1,0 +1,10 @@
+{
+ "id": "n-9fe0054e15",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9dec0065393db90b77e563674c92a0227a3efc6cd7108d12c595d9468b29ee1f",
+ "summary": "2026-08-02, 역사 기록은 VibeVoice-ASR-BitNet을 VibeASR.cpp 소스 저장소, Hugging Face 모델 페이지, Hugging Face 데모 스페이스와 연결했습니다. 이는 해당 프로젝트의 공개 접근성에서 중요한 이정표가 되지만, 날짜가 기록된 링크만으로는 정확한 릴리스 버전이나 기능, 그리고 이 리소스들이 그날 처음 공개되었는지는 확인할 수 없습니다.",
+ "title": "VibeVoice-ASR-BitNet이 공개 코드, 모델, 데모 리소스와 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

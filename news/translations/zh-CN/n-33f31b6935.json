@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "在 2026 年 4 月发布首个 MOSS-Audio 版本之后，团队于 2026 年 5 月推出 MOSS-Music-8B，以扩展该系列，用于专业化的音乐问答。此后，项目进一步增加了对 SGLang 推理服务的全面支持，以及完善的 LoRA 微调工作流。",
+ "id": "n-33f31b6935",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在音频推理基准测试中取得了最先进的性能，超越了 Step-Audio-R1 33B 等规模大得多的模型。",
+ "source_sha256": "99db82653c8b52ddbf95e2d7f8f5cd3598e58a3d431bfb8a294d427f4f8ed0ac",
+ "summary": "一款面向复杂音频推理与带时间戳转写的开源音频基础模型，借助思维链（Chain-of-Thought）能力实现音频推理。该模型以 Qwen3-8B 为骨干网络，并通过跨层特征注入来保持高保真的声学细节。",
+ "title": "MOSS-Audio-8B-Thinking",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

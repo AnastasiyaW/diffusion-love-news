@@ -1,0 +1,10 @@
+{
+ "id": "n-833da82530",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "cf775c8aae3f059a957404cdf135ea7cad2210fcb49712a846eb2513014b8919",
+ "summary": "2026-06-10 기준으로 MOSS-Video-Preview 개발 라인이 공개 GitHub 저장소 및 Hugging Face 컬렉션과 연결되어 있었다. 날짜가 명시된 링크들은 공개 프로젝트의 기준 시점을 확인해 주지만, 그 자체로 특정 릴리스, 모델 기능, 또는 버전 변경을 입증하지는 않는다.",
+ "title": "MOSS-Video-Preview 공개 프로젝트 리소스 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

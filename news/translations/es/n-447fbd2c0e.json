@@ -1,0 +1,11 @@
+{
+ "id": "n-447fbd2c0e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Configure las semillas globales de generación y los priors ambientales para inicializar la capa de planificación Macro para la ecología regional, la hidrología y las redes de transporte.\n\nProporcione los vectores de posición y de orientación del agente para proyectar el corredor de movimiento, lo que activa la planificación Micro anticipada para las teselas espaciales inminentes.\n\nInvoque la compilación procedural local y determinista para traducir las decisiones del plan Micro aprobado en activos renderizables de terreno 3D, vegetación y asentamientos.\n\nEmita comandos en lenguaje natural para actualizar entidades de ejecución o atributos de teselas, persistiendo los estados modificados en la base de datos del registro del mundo por teselas.\n\nDesacople los horizontes de planificación de la compilación geométrica a lo largo de los corredores previstos para mantener tasas de fotogramas estables y evitar picos de cómputo.\n\nAplique compromisos estrictos de frontera de teselа a teselа en el planificador Micro para evitar costuras visuales y topológicas entre celdas compiladas de forma independiente.\n\nConfíe en la recompilación a partir de la semilla por teselа y de los registros de mutaciones, en lugar de almacenar en caché en memoria mallas de alto número de polígonos, cuando el agente recorre grandes distancias.",
+ "source_sha256": "6050376c24394dfb6ad593f24bffeee199095466037377eabd50cfbd1ec985e3",
+ "summary": "Un preprint de arXiv especifica el modelo de decisiones tipado de WorldStream, que desacopla la planificación de corredores anticipada (ahead-of-time) de la compilación just-in-time y almacena el estado de la semilla, de los límites y de los PNJ de cada teselа en un registro persistente del mundo.",
+ "title": "Un preprint de arXiv detalla la arquitectura de WorldStream y su registro persistente del mundo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

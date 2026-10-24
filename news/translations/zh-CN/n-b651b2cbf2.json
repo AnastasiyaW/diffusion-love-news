@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已被CVPR 2026接收。该工作是对AvatarArtist和HeadArtist等早期工作的演进，从基于模板或蒸馏的方法转向纯自回归生成方法。公开代码发布有待内部审核通过。",
+ "id": "n-b651b2cbf2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "香港科技大学与蚂蚁集团的合作项目；利用3D高斯溅射（3D Gaussian Splatting）实现实时、逼真的渲染与动画。",
+ "source_sha256": "65cb8f16ec783347b37c98558f6414e0b16a1d206039b674da236201112aecb3",
+ "summary": "一个从单张人像图像生成可驱动4D高斯数字人的框架，采用仅解码器（decoder-only）的Transformer。该方法将数字人生成视为序列预测任务，以实现高保真的几何细节和表情表现。",
+ "title": "AvatarPointillist：基于图像的自回归4D高斯数字人",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

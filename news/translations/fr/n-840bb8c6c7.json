@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Chandra OCR 2 a été publié en mars 2026 comme mise à jour majeure du modèle original. Il réduit le nombre de paramètres de 9B à 4B tout en améliorant les performances sur les benchmarks de 12 %. Il introduit de nouvelles capacités d'extraction de diagrammes au format Mermaid et de structures moléculaires en chimie.",
+ "id": "n-840bb8c6c7",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prend en charge plus de 90 langues, avec des améliorations spécifiques pour les écritures d'Asie du Sud. Développé par Datalab, il est actuellement considéré comme une alternative open source de premier plan aux solutions OCR propriétaires.",
+ "source_sha256": "150ac5215f89ee565644307d6ef606fff88be13f6c588d6b7d8b53bbaf7b2189",
+ "summary": "Un modèle vision-langage de pointe conçu pour convertir des images et des PDF en Markdown, HTML ou JSON structurés. Il préserve les mises en page complexes, notamment les textes sur plusieurs colonnes, les tableaux avec cellules fusionnées et les équations mathématiques.",
+ "title": "Chandra OCR 2 : un modèle open source de compréhension de documents",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 3월 공개 이후 Kimodo는 Unitree G1과 같은 휴머노이드 로봇을 위한 합성 학습 데이터를 생성하기 위해 NVIDIA의 ProtoMotions 프레임워크에 통합되었다. 현재 산업용 디지털 트윈 시뮬레이션을 위해 NVIDIA Omniverse에서 사용할 수 있도록 확장되고 있다.",
+ "id": "n-61c8c02fec",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 모델은 루트 모션과 사지 움직임을 분리하는 2단계 디퓨전 아키텍처를 채택하여, 발 미끄러짐과 같은 아티팩트를 효과적으로 제거한다.",
+ "source_sha256": "004d2fb47be0593fb60bd986d31c41cc391df04f8acf214be802f328f1747a68",
+ "summary": "NVIDIA Kimodo는 텍스트 프롬프트로부터 고충실도의 3D 인간 및 로봇 애니메이션을 생성하는 키네매틱 모션 디퓨전 모델이다. 독점 Rigplay (RP) 데이터셋과 SOMA 스켈레톤 모델을 활용하여 전문가 수준의 모션 품질을 달성한다.",
+ "title": "Nvidia Kimodo: 3D 애니메이션을 위한 키네매틱 모션 디퓨전",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

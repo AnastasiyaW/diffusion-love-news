@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Qwen2.5-Coder에서 진화하여, 추론을 위한 'Thinking Mode'와 UI 및 다이어그램 이해를 위한 네이티브 멀티모달 지원을 갖춘 완전한 에이전트 생태계로 발전했다.",
+ "id": "n-7e83db4168",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Model Context Protocol(MCP)을 지원하며, 대규모 코드베이스를 위해 최대 100만 토큰에 달하는 방대한 컨텍스트 윈도우를 처리한다.",
+ "source_sha256": "fe0c96d18c76851d37a765af9f8fc6b1f9aad46ae6d1d72baab800752454a459",
+ "summary": "소프트웨어 엔지니어링에 특화된 오픈소스 터미널 기반 AI 에이전트이자 모델 패밀리이다. 디버깅, 리팩터링, 멀티모달 문서 분석과 같은 복잡한 리포지토리 단위 작업을 자동화한다.",
+ "title": "Qwen Code: 자율형 AI 코딩 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Angenommen zur CVPR 2026; im April 2026 wurden Code, die BAGEL-7B-MoT-Gewichte und der 21-Tasks-Bench veröffentlicht.",
+ "id": "n-2c91e42c2d",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Arbeit führt die CoT-Editing Consistency (CEC) Reward und Flow-GRPO ein, um die Lücke zwischen dem Reasoning des Modells und der Ausgabe auf Pixelebene zu schließen.",
+ "source_sha256": "5911a7a66a1fd4304bcaa0475776407ccf9bff8530d1bb6ea9ae6d760f47fc39",
+ "summary": "Ein hierarchisches Reasoning-Framework, das Anweisungen zur Bildbearbeitung in strukturierte Tripel und fünf grundlegende Meta-Aufgaben zerlegt. Es richtet multimodale große Sprachmodelle mithilfe von Reinforcement Learning an Diffusion-Ausgaben aus und erreicht eine State-of-the-Art-Generalisierung.",
+ "title": "Meta-CoT: Hierarchisches Chain-of-Thought für Bildbearbeitung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

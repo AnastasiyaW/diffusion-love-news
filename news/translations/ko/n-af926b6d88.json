@@ -1,0 +1,10 @@
+{
+ "id": "n-af926b6d88",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a9736fda5d51340abc4525768e4277aa900ea61f60a6b88ea8256b5ceafdf41d",
+ "summary": "2026년 7월 31일, Qwen Audio 개발 라인은 Fun ASR용 Alibaba Cloud Model Studio API 참조 문서 세 가지와 연결되었다. 세 가지는 실시간 인식, 녹음 음성 HTTP 인식, 비실시간 인식이다. 이는 검증된 모델 출시나 기능 변경이 아니라 API 문서상의 기준점을 기록한 것이다.",
+ "title": "Qwen Audio 음성 인식 API 참조 문서 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

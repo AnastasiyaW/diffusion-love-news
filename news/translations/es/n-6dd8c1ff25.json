@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026, el marco aborda la fragmentación de la investigación en agentes GUI al ofrecer un flujo de trabajo unificado desde el entrenamiento hasta la producción. El modelo ClawGUI-2B incluido supera actualmente de forma significativa a modelos de mayor tamaño, como UI-Venus-72B, en los principales benchmarks.",
+ "id": "n-6dd8c1ff25",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el laboratorio ZJU-REAL; incluye una aplicación Android especializada para el despliegue en el propio dispositivo mediante Shizuku.",
+ "source_sha256": "1c9a07d6ace730d04e078adf9513dce4a2ff2b5b392a5c894b31d96e167765e2",
+ "summary": "Un marco de código abierto y de pila completa para todo el ciclo de vida de los agentes GUI, que abarca el entrenamiento por aprendizaje por refuerzo, la evaluación estandarizada y el despliegue multiplataforma. Permite que los agentes controlen dispositivos Android, iOS y HarmonyOS mediante optimización de políticas avanzada y modelos de recompensa de proceso.",
+ "title": "ClawGUI: marco unificado para el entrenamiento y despliegue de agentes GUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

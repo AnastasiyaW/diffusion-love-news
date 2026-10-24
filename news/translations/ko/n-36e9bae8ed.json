@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 시리즈는 실시간 옴니모달 상호작용(오디오/비디오)을 위한 MiniCPM-o로 분기되었으며, V 시리즈는 고해상도 OCR과 고급 비디오 토큰 압축을 갖춘 엣지 효율성에 특화되었습니다.",
+ "id": "n-36e9bae8ed",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Qwen3.5를 기반으로 구축되었으며, 최대 1.8M 픽셀의 고해상도 이미지 처리를 지원하고 iOS 및 Android NPU/GPU 실행에 최적화되어 있습니다.",
+ "source_sha256": "07b2bc1c56145be4a253d5b20c54e9ab9898c3c4bf5c6b1487a08b40da9275f4",
+ "summary": "MiniCPM-V 4.6은 모바일 및 엣지 배포에 최적화된 1.3B 파라미터 비전-언어 모델입니다. 혼합 시각 토큰 압축을 활용하여 더 큰 모델과 동등한 성능을 달성하면서도 휴대용 기기에서의 연산 비용을 크게 줄입니다.",
+ "title": "MiniCPM-V 4.6: 효율적인 엣지 네이티브 멀티모달 AI 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

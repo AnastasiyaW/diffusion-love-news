@@ -1,0 +1,10 @@
+{
+ "id": "n-7bf964cae8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a584e377a41eb46cce8b93751de9978eba10d0ef7d5419bed83d2423e8a6c72f",
+ "summary": "2026년 7월 23일, 이 개발 라인에 Hugging Face에 있는 Baseten의 GLM-5.2-Vision-NVFP4 페이지 링크가 기록되었습니다. 이 링크는 해당 명명된 모델 아티팩트가 그 날짜에 라인 내에서 공개적으로 노출되었음을 보여주며, 이는 중요한 가용성 및 발견 이벤트임을 의미합니다.",
+ "title": "Baseten GLM-5.2-Vision-NVFP4 모델 페이지 공개 확인",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

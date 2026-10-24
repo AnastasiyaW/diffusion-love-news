@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de ser una utilidad experimental a una versión final estable en abril de 2026. Las principales actualizaciones introdujeron 'Lasers', un resaltado visual para las conexiones activas, y una función de salto automático en el lienzo para verificar rápidamente los nodos.",
+ "id": "n-c2a141200b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Implementada en JavaScript/TypeScript puro para un alto rendimiento; evita el problema del 'doom scroll' en workflows masivos de ComfyUI.",
+ "source_sha256": "eb39a4719b3ae015bbdcb640b0ec707eaef551dd889007f0e925bc74ff558ea7",
+ "summary": "Una extensión de productividad para ComfyUI que introduce una interfaz en barra lateral para conectar nodos sin arrastrar cables a través del lienzo. Incluye un sistema de conexión basado en búsqueda, no requiere dependencias externas y mantiene plena compatibilidad con los formatos estándar de workflow en JSON.",
+ "title": "ConnectTheDots: herramienta de conexión de nodos en barra lateral para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

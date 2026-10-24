@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Veröffentlicht im Rahmen des LTX-2.3-Updates, um die Fähigkeit von IC-LoRA für gezielte Video-zu-Video-Bearbeitung und Fokuskorrektur zu demonstrieren.",
+ "id": "n-57264ece04",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Speziell für optische Objektivunschärfe optimiert; nicht für die Wiederherstellung von Bewegungsunschärfe oder Gaußscher Unschärfe vorgesehen.",
+ "source_sha256": "1e5340e460f3b1052395e9bfdfa027fca040a85af193d6d07edbb8db30f957f4",
+ "summary": "Ein spezialisiertes In-Context-LoRA für das LTX-2.3-22B-Modell, das Objektivunschärfe in Videos korrigiert. Es ermöglicht die präzise Wiederherstellung unscharfer Aufnahmen, indem scharfe optische Details rekonstruiert werden.",
+ "title": "LTX-2.3 22B IC-LoRA ReFocus Video-Restoration-Tool",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

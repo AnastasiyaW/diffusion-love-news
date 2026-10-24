@@ -1,0 +1,10 @@
+{
+ "id": "n-386f8faa44",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab45b2820cafe2c99e14a5df427fcb1681209daba1553385aa93d34e5a7a25a0",
+ "summary": "Le 29 juin 2026, la ligne de développement Sonilo v1.1 a été enregistrée avec une URL d'actualité Sonilo, une URL fal.ai pour sonilo/v1.1/text-to-music et l'URL de la plateforme Sonilo. L'ensemble de liens daté indique qu'un point de terminaison text-to-music de Sonilo versionné fait partie de cette étape ; le corps de l'article et les détails éventuels sur les fonctionnalités ou la disponibilité n'ont pas été examinés.",
+ "title": "Sonilo v1.1 associé à un point de terminaison text-to-music",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

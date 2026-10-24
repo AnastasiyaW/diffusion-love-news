@@ -1,0 +1,10 @@
+{
+ "id": "n-dd9a3a9b07",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "90d3681aec225619cb968808d2c10ce9cdc79c3f67918fd935d2abd3518d2162",
+ "summary": "2026-05-15에 WhatModels 스레드의 한 메시지가 이 프로젝트의 공개 웹사이트를 링크했습니다. 이로써 WhatModels에 대한 날짜가 명시된 공개 참조 지점이 확보되었지만, 현재 확보된 근거만으로는 출시, 릴리스 또는 기능 변경을 확인할 수 없습니다.",
+ "title": "WhatModels 공개 웹사이트 문서화",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó a partir de una aplicación móvil de remezcla de fotos hasta convertirse en una sofisticada capa de identidad para la transmisión en directo. Recientemente añadió un cliente de escritorio basado en la nube para reducir la carga del hardware local y amplió sus integraciones interactivas con Twitch y Kick.",
+ "id": "n-18c1e67c85",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por Decart.AI. Conocido por su concepto de 'Identity Layer', con el que los streamers pueden transformarse en tiempo real según la participación de los espectadores o preajustes personales.",
+ "source_sha256": "6ebc41b8a2261b90d943cf31769c04f62c9ffb5dde305e4fa36446e56f7b9ace",
+ "summary": "Una capa de transformación de IA en tiempo real para streamers que cambia el aspecto, la ropa y los fondos al instante. Se integra con OBS y permite a los espectadores activar cambios en directo mediante comandos interactivos en el chat.",
+ "title": "Delulu Stream: manipulación de vídeo en tiempo real",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

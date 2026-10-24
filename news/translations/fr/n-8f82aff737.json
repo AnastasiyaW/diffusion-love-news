@@ -1,0 +1,11 @@
+{
+ "id": "n-8f82aff737",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Clonez le dépôt karpathy-output-style ou copiez le fichier de définition de la compétence dans le répertoire de configuration de l'agent.\n\nConfigurez le runtime de l'agent (comme Claude Code ou Codex) pour qu'il charge les règles de la compétence pendant l'exécution des requêtes.\n\nDemandez à l'agent une tâche d'explication d'un concept ou d'un code ; la compétence choisit alors entre un texte technique simplifié, des diagrammes Excalidraw, une page HTML interactive ou une vidéo explicative.\n\nRespectez strictement l'échelle à quatre niveaux en privilégiant par défaut le format le plus simple avant de demander des artefacts HTML interactifs ou vidéo, plus lourds.\n\nVeillez à ce que les sorties HTML interactives soient entièrement autonomes, dans un seul fichier avec styles et scripts intégrés, afin de permettre une consultation locale immédiate dans le navigateur.",
+ "source_sha256": "5f3808f5e22da4a8dded3b29afaa58782a3cb1e1e3a6069e012c3b9ae00b8c05",
+ "summary": "Le dépôt open source karpathy-output-style regroupe la hiérarchie des explications visuelles d'Andrej Karpathy dans des compétences d'agent réutilisables, permettant aux assistants de programmation de produire des diagrammes Excalidraw, des pages HTML interactives en un seul fichier et des animations vidéo commentées, au lieu du texte standard.",
+ "title": "karpathy-output-style, un outil open source qui implémente une échelle de sortie visuelle pour les agents IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

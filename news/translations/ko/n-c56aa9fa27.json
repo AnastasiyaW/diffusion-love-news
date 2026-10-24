@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "출시 직후 Hugging Face Diffusers에 통합되었으며, 기본 지원과 소비자 하드웨어를 위한 GGUF 양자화 덕분에 폭넓게 채택되고 있습니다.",
+ "id": "n-c56aa9fa27",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "VBench 점수 83.76%를 달성했으며, 훨씬 적은 연산량을 사용하면서도 14B 파라미터의 Wan2.1 모델을 능가했습니다.",
+ "source_sha256": "363ba103b0f466cacfad215a6588b80cb831792e4cc7c791af7b1e907940fe72",
+ "summary": "Motif-Video 2B는 Decoupled Diffusion Transformer(DDT) 아키텍처와 Wan2.1 VAE를 기반으로 구축된 오픈소스 텍스트-투-비디오 모델입니다. 공유 교차 어텐션(shared cross-attention)과 특징 정렬(feature alignment)을 활용하여 20억(2B) 개의 파라미터만으로 고품질 비디오 합성을 구현합니다.",
+ "title": "Motif-Video 2B: 효율적인 분리형 확산 트랜스포머 비디오 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

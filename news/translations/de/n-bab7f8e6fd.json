@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Offiziell für SIGGRAPH 2026 angenommen. Im April 2026 wurde Version 2 auf arXiv veröffentlicht, mit überarbeiteten Benchmarks und präzisierten Architekturdetails. Das Projekt umfasst nun die vollständige Veröffentlichung des AudioEdit-Datensatzes, der Modellgewichte und des Inferenzcodes.",
+ "id": "n-bab7f8e6fd",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Basiert auf Qwen2.5-Omni; stellt AudioEdit vor, einen umfangreichen Datensatz mit über 1 Million kuratierten Audiobearbeitungspaaren.",
+ "source_sha256": "ee10a6d466f3c0c276b24be78cb549dc94e7b4019957e0b9033f692d5999d032",
+ "summary": "Ein umfassendes End-to-End-System, das Sprache, Musik und Soundeffekte in einem einzigen Modell vereint, sowohl für das Verstehen als auch für die hochwertige Generierung von Audio. Es nutzt ein Qwen2.5-Omni-Backbone und eine Diffusion-Transformer-Synthese-Engine, um komplexe Audiobearbeitung und Schlussfolgerungen per natürlicher Sprache zu ermöglichen.",
+ "title": "Audio-Omni: ein einheitliches Framework für Audioverständnis und Audiogenerierung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

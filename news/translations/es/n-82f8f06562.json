@@ -1,0 +1,10 @@
+{
+ "id": "n-82f8f06562",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c99a345202ccc59e834c31e8567c4e5e65f065eb08b796a724c34ddc336781a9",
+ "summary": "El 2026-07-06, la línea de desarrollo de YaGS incluyó un enlace al repositorio de GitHub del proyecto. Las pruebas selladas no contienen el texto fuente ni los metadatos del repositorio, por lo que este registro solo documenta la referencia al repositorio con fecha y no afirma ningún lanzamiento, cambio de implementación u otro hito.",
+ "title": "Se hizo referencia al repositorio de GitHub de YaGS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

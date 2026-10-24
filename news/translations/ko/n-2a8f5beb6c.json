@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2023년 지원이 중단된 이후, Codex는 2025년 4월 CLI 중심 플랫폼으로 재출시되었다. Rust 기반 아키텍처로 전환되었고 Model Context Protocol(MCP)을 지원하며, 현재는 네이티브 컴퓨터 사용 기능을 갖춘 GPT-5 모델 시리즈를 기반으로 동작한다.",
+ "id": "n-2a8f5beb6c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "현재 생태계에는 자동화된 취약점 패치를 위한 'Codex Security'와 VS Code, Cursor, Xcode에 대한 통합 지원이 포함되어 있다.",
+ "source_sha256": "0588ea38f14c24511eeea4dc7bfb9f98b1ca608cf187af10bbb920c5081b4ac1",
+ "summary": "로컬 저장소 접근, 멀티모달 입력, 멀티 에이전트 오케스트레이션을 통해 자율적인 소프트웨어 엔지니어링을 가능하게 하는 터미널 네이티브 에이전트형 코딩 시스템이다. 단순 코드 완성에서 능동적이고 도구를 활용한 작업 수행으로 전환된, 2025년 기준 원조 Codex 모델의 진화형이다.",
+ "title": "OpenAI Codex CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

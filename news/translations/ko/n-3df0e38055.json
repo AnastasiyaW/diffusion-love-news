@@ -1,0 +1,10 @@
+{
+ "id": "n-3df0e38055",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "62161e118a9c6b8bfd3eb00a7e5c880ef12a178d2fe4d6f4e800f74c239d68f0",
+ "summary": "2026-05-29에 Bodycount Detector 페이지(ditto.ai/bodycount)와 연결된 프로젝트 관련 기록이 확인되었다. 이로써 해당 프로젝트에 대한 날짜가 명시된 공개 참조가 확보되었으나, 현재 확보된 근거만으로는 릴리스, 기능 변경 또는 기타 제품 이정표가 있었다고 확인되지는 않는다.",
+ "title": "Bodycount Detector 공개 프로젝트 참조 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

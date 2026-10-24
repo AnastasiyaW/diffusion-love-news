@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从仅支持本地的编排模式转向 2.0 版本的远程优先模式,新增了 Cloud Workspaces 和独立 CLI。其支持范围也从 Claude Code 和 Codex 扩展为涵盖 Cursor 和 Gemini CLI 的通用生态系统。",
+ "id": "n-73d2d5938e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "主要技术特性包括:基于 Git worktree 的隔离机制,实现分支级别的任务分离;以及借助 Electric SQL 实现跨工作区的实时同步。",
+ "source_sha256": "a7d61e426aa57a2102be39e0f8136d3fbd6dc3ce6437615597408b2097d5736a",
+ "summary": "一款开源的终端与 IDE 编排器,专为并行运行多个 AI 编程智能体而设计。它利用 Git worktree 隔离智能体任务,避免并发开发过程中的文件冲突与上下文混淆。",
+ "title": "Superset 并行 AI 智能体编排器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

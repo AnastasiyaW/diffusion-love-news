@@ -1,0 +1,10 @@
+{
+ "id": "n-a14c05d0aa",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e15f5b14d2f2833023860977011350624f40bc6b3d6b7e3f94c15ab86fe21203",
+ "summary": "Am 17.03.2026 wurde die Entwicklungslinie von NanoVDR mit einem Blogbeitrag auf Hugging Face, einer NanoVDR-Projektseite und einem öffentlichen NanoVDR-Demo-Space in Verbindung gebracht. Dies ist ein wesentlicher öffentlicher Veröffentlichungsschritt, weil dadurch auffindbare Projekt- und Demonstrationsressourcen entstehen; deren Inhalte wurden für diese Übersicht jedoch nicht geprüft.",
+ "title": "NanoVDR verlinkte öffentliche Hugging-Face-Ressourcen und eine Demo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

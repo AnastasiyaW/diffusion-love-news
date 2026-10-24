@@ -1,0 +1,11 @@
+{
+ "id": "n-ce71bb02ce",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast gérait la génération texte-vers-vidéo et image-vers-vidéo, tandis que Pro ajoutait la génération audio-vers-vidéo, Retake et Extend ; les poids 22B dev/distilled et les upscalers latents ont été publiés.",
+ "source_sha256": "f9cc3d7eeeccb580b6cdea5fb8101846aa3a2a451481db82743e55622f8240b0",
+ "summary": "Le 2026-03-05, les fichiers de modèle LTX-2.3 sur Hugging Face et un modèle de workflow ComfyUI de génération texte-vidéo ont été liés. Il s'agit d'une étape d'intégration importante, car elle relie la lignée de modèles à un parcours de workflow local reproductible pour les praticiens.",
+ "title": "Les fichiers de modèle LTX-2.3 et un workflow ComfyUI de génération texte-vidéo ont été liés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

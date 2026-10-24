@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于2026年初在 GitHub 上获得6万颗星标，并引入 OASIS 框架，以将仿真规模扩展至数百万个智能体，同时集成 GraphRAG 以实现有据可依的实体记忆。社区主导开发的 MiroFish-Offline 版本随后发布，支持本地运行。",
+ "id": "n-e4b7a4de7b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目因一次仿真而迅速走红：研究者将《红楼梦》前80回输入引擎的智能体焦点小组，以预测其散佚的结局。",
+ "source_sha256": "6863a5822ea7a2b21265a095416b7cd4791fcafdafe0d4d03a8289a982cf28c4",
+ "summary": "MiroFish 是一个群体智能引擎，可构建由 AI 智能体组成的并行数字世界，用于模拟社会动态与市场趋势。它采用 GraphRAG 实现有据可依的交互，并支持动态变量注入，以实现实时的社会预测建模。",
+ "title": "MiroFish：开源多智能体社会行为仿真引擎",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-7314a6bcc8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "40000fe376f8d76e8d695959eebe1a5f96f4b4a127f06ceec46d42f8f5f6f7be",
+ "summary": "Le 2026-08-24, le fil de développement d'UPAL comportait une référence au dépôt GitHub du projet. Les éléments datés identifient github.com/francois141/upal, mais n'établissent ni version, ni commit, ni fonctionnalité, ni autre jalon. Cette référence, rattachée à sa source, est conservée dans l'attente d'une recherche sur le dépôt.",
+ "title": "Dépôt GitHub d'UPAL référencé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

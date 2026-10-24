@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet a été officiellement publié sur arXiv (2604.14004) en avril 2026. Il marque un passage de l'auto-évolution mono-domaine à des réservoirs de mémoire unifiés et inter-domaines, validés sur des modèles de nouvelle génération tels que GPT-5-mini et Qwen3-Coder.",
+ "id": "n-73e5608506",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par KAIST AI en collaboration avec NYU et DeepAuto.ai ; démontre une amélioration des performances de 3,7 % sur plusieurs benchmarks de programmation.",
+ "source_sha256": "007dcebaa6fd1a70320e5ddd5c142a27086a93b59642f31a8bfc540a837823c6",
+ "summary": "Un cadre développé par KAIST qui permet aux agents de programmation IA de transférer des connaissances entre domaines hétérogènes. Il améliore les performances en extrayant des enseignements stratégiques de haut niveau à partir des trajectoires de tâches, plutôt qu'en réutilisant des traces de bas niveau.",
+ "title": "Memory Transfer Learning (MTL) pour les agents de programmation IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

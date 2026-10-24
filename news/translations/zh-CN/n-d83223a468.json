@@ -1,0 +1,10 @@
+{
+ "id": "n-d83223a468",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "52e52016c5ecc9b6dbb78b169482ec70d13d7eb35a7c8a7177d6779081bc5ff4",
+ "summary": "2026 年 6 月 29 日，有链接指向 Hugging Face 上的 Qwen3.6-34B-80L-Fable-5-Heretic 模型页面。一个配套的 Hugging Face 搜索链接将该模型名称与量化基础模型（quantized base model）筛选条件关联起来。这标志着该项目在分发方面的一个里程碑，但其内容、作者身份、发布细节和技术改动均尚未得到证实。",
+ "title": "Qwen3.6-34B-80L-Fable-5-Heretic 模型页面已在 Hugging Face 上被记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

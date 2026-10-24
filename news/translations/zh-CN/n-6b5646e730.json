@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "官方发布渠道已发布 v0.22.2；当前文档要求 Node.js 22+，并记录了 Qwen OAuth 已停用，改由受支持的 provider/API-key 途径取代。",
+ "id": "n-6b5646e730",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "723492578a4fc18259cbe0d83e4c7e605a09101541e0ad3fed7151bdc5de26d6",
+ "summary": "官方发布渠道已发布 v0.22.2；当前文档要求 Node.js 22+，并记录了 Qwen OAuth 已停用，改由受支持的 provider/API-key 途径取代。",
+ "title": "Qwen Code 更新至 v0.22.2，适配当前提供方约定",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

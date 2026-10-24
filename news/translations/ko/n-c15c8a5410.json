@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 사무 생산성 안전성을 다루는 ClawsBench, 난이도 높은 'in the wild' 환경의 에이전트 능력을 평가하는 WildClawBench, 자율적 과학적 발견을 다루는 ResearchClawBench를 포함하는 더 넓은 생태계로 확장되었다.",
+ "id": "n-c15c8a5410",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 벤치마크는 정적 스냅샷이 아니라 지속적으로 변하는 실시간 웹사이트에서 동작한다는 점에서 주목할 만하다. 최종 제출 단계를 차단하기 위해 Request Interceptor를 활용한다.",
+ "source_sha256": "38b9329a312a01615fe368746e4255fe335f4c677cf94af014df46821dca36ce",
+ "summary": "144개의 실제 운영 중인 웹사이트에서 153개의 일상적인 작업을 AI 에이전트가 수행하도록 평가하는 벤치마크 스위트다. 비가역적인 결제를 완료하지 않고도 항공권 예약, 쇼핑 같은 행동을 안전하게 평가할 수 있도록 특수한 요청 가로채기(request-interception) 메커니즘을 사용한다.",
+ "title": "ClawBench: 실시간 웹 에이전트를 위한 실제 환경 벤치마크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

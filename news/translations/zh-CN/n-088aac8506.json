@@ -1,0 +1,11 @@
+{
+ "id": "n-088aac8506",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在Canva编辑器中打开项目，从侧边栏工具中选择Dream Lab。\n\n输入描述性提示词，详细说明预期的主体、构图和视觉风格。\n\n可选择上传风格参考图像，或应用美学预设以引导视觉输出。\n\n生成视觉候选图，并将选定的图像直接放置到画布上，作为可编辑的布局元素。\n\n在文本提示词之外提供参考图像，以锚定特定的品牌美学色板和布局结构。\n\n针对结构化的商业布局使用经模板训练的原生模型，在这类场景中，空间层级和文字排版优先于写实的图库照片。",
+ "source_sha256": "4a53a487f5283a172c8a8c53feaa3c9048926f8e295cf047232cfb2b4d66b8dd",
+ "summary": "Canva已在其平台全面推出Dream Lab，该功能采用Leonardo.ai的技术，并推出了Craft——一款专为模板布局和2K渲染优化的专有基础模型。",
+ "title": "Canva推出Dream Lab及其首个自研图像生成模型Craft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

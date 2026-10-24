@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "반복적인 제목 편집기와 Hacker News Top 30 대비 정확도를 실시간으로 추적하는 원장(ledger)을 갖춘 실시간 보정 플랫폼으로 출시되었다.",
+ "id": "n-541dc74a2e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "148,421개의 스토리로 학습되었으며, JavaScript로 컴파일된 LightGBM 모델을 통해 밀리초 미만의 추론 속도를 구현한다.",
+ "source_sha256": "c8f51900e1b7a7db17ae053d1e0562608445e0c923b98108cccff3996ed80783",
+ "summary": "LightGBM 모델을 사용해 Hacker News 게시물의 확산성과 참여도를 예측하는 AI 기반 도구이다. 점수 예측값, 신뢰구간, 그리고 커뮤니티 반응을 미리 가늠하는 독특한 댓글 시뮬레이터를 제공한다.",
+ "title": "Foresyn AI HackerNews Virality Predictor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto se reconstruyó por completo en la versión 2.0 para pasar de la edición manual de JSON a un diseño \"agent-first\". Las actualizaciones posteriores al lanzamiento se han centrado en ampliar la biblioteca de plantillas para los modelos de vídeo más recientes y en mejorar la indexación de nodos personalizados de terceros.",
+ "id": "n-6b3a93f373",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Emplea una bifurcación de ComfyUI instalable con pip, lo que convierte todo el motor generativo en una dependencia estándar de Python que puede incrustarse directamente en scripts.",
+ "source_sha256": "fe025e6452db5a55d1752ed6463eb3da36433cdba1e7be25ebda8db48116d3a1",
+ "summary": "Una interfaz centrada en agentes para ComfyUI que sustituye la edición manual de grafos de nodos por un entorno Python orientado al código. Utiliza una representación intermedia especializada que permite a los agentes de IA orquestar de forma programática pipelines de generación de medios.",
+ "title": "VibeComfy 2.0: interfaz Python agéntica para ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement un simple outil de recherche de nœuds, il s'est transformé en un utilitaire complet doté de modes spécialisés pour les commandes, la navigation entre nœuds et les modèles de workflows. Il intègre désormais en profondeur le ComfyUI Registry et repose sur TypeScript afin de correspondre aux standards modernes du frontend.",
+ "id": "n-133a0bfd18",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Inclut une prise en charge extensible des commandes, permettant aux autres nœuds personnalisés d'enregistrer leurs propres actions dans la palette.",
+ "source_sha256": "59434b6c54bb74f20093334b96c6e314ba94c0c81a2e60177742f56ab1df8dfa",
+ "summary": "Un centre de commandes piloté au clavier pour ComfyUI, qui centralise la navigation et l'exécution via une interface Ctrl+K. Il permet de lancer des commandes de l'interface, d'accéder directement à des nœuds spécifiques et d'ajouter de nouveaux nœuds grâce à un système de recherche basé sur des préfixes.",
+ "title": "Palette de commandes pour ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

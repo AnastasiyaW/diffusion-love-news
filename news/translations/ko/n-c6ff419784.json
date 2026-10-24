@@ -1,0 +1,11 @@
+{
+ "id": "n-c6ff419784",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "연결된 자사 개요 페이지는 2026-08-14자로, Pika API Club에 Soundtrack, Music, SFX, Speech를 추가한다는 내용을 담고 있다.",
+ "source_sha256": "cc26bc71b72bab101d8dd1b7293bc5848a543101cefc69434175019a35ddb745",
+ "summary": "2026-08-17, Pika는 Pika Audio 모델의 공식 페이지, 개발자 API 문서, Pika Music 플레이그라운드를 공개했다. 이 링크들은 Pika가 오디오 모델과 음악 생성 기능에 대한 접근을 추가하며 공개 제품 범위를 넓혔음을 보여준다. 다만 제공된 링크만으로는 모델 사양, 가격, 이용 조건을 확인할 수 없다.",
+ "title": "Pika, Pika Audio 모델 패밀리와 Pika Music 플레이그라운드 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

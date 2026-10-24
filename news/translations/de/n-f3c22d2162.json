@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hat sich 2026 mit der Veröffentlichung von Gemma 4 zu einem umfassenden lokalen Agenten weiterentwickelt. Hinzu kamen Multi-Token Prediction (MTP) für um 37 % schnellere Inferenz sowie eine tiefe Integration in iOS HealthKit und Contacts.",
+ "id": "n-f3c22d2162",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gilt als wichtigste Referenz für Gemma 4 auf iOS, da Googles AI Edge Gallery die Plattform erst verzögert offiziell unterstützt. Für optimale Leistung ist ein iPhone 15 Pro oder neuer erforderlich.",
+ "source_sha256": "c9c1cc5393bfc2b235f01d96fb0aeb1ed89f8bea0f620e52e104dd8d45f28c27",
+ "summary": "Eine Open-Source-iOS-App, die Gemma-4-Modelle lokal mit LiteRT-LM und Metal-Beschleunigung ausführt und so Offline-Inferenz ermöglicht. Sie unterstützt multimodale Bildverarbeitung, agentische Tool-Nutzung mit nativen iOS-Apps sowie optimiertes spekulatives Decoding.",
+ "title": "PhoneClaw: Lokaler Gemma-4-Agent für On-Device-Betrieb auf iOS",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

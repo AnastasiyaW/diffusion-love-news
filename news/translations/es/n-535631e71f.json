@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto es el sucesor directo del marco AI4Animation, que dependía de Unity. Traslada todo el pipeline a Python, con soporte para técnicas avanzadas como Flow Matching y Codebook Matching, y permite la retropropagación a través de los pasos de inferencia y visualización.",
+ "id": "n-535631e71f",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incorpora una arquitectura Entity-Component-System (ECS) y permite serializar datos de movimiento en formatos .npz de alto rendimiento a partir de fuentes GLB, FBX y BVH.",
+ "source_sha256": "73871b622dce6fa0c3e7372e84d4aa70f287832588b5f39251b7ecdc5ce34fdf",
+ "summary": "Un marco de trabajo nativo de Python desarrollado por Meta Research para la animación de personajes impulsada por IA, que unifica el procesamiento de datos, el entrenamiento y la visualización en tiempo real. Elimina la necesidad de motores de juego como Unity mediante un backend puro basado en NumPy y PyTorch, con un renderizador Raylib integrado.",
+ "title": "AI4AnimationPy: marco de trabajo en Python para animación inteligente de personajes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

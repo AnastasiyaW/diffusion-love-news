@@ -1,0 +1,10 @@
+{
+ "id": "n-05fe00f082",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "673105e77d701253d588d669a3e124e13def96463933a057972c212ab9e5bc2c",
+ "summary": "Le 2026-05-21, la lignée de développement de Marlin-2B a partagé une page de modèle sur Hugging Face ainsi qu'un site web VLM associé. Cette étape est considérée comme significative en termes de disponibilité publique, car elle relie le projet à des ressources publiques de modèles et d'utilisation. Les seuls liens datés n'établissent pas la version exacte de publication, les capacités, la licence, ni si l'une ou l'autre ressource est apparue pour la première fois à cette date.",
+ "title": "La page de modèle Marlin-2B et le site VLM associé ont été partagés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

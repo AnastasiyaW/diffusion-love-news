@@ -1,0 +1,10 @@
+{
+ "id": "n-920abfb1e3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d9ffd26f8ea4bb9e889952ed05636e14285ad1207f153fd52428d45d8088e40",
+ "summary": "2026년 3월 27일, RealRestorer 개발 흐름이 프로젝트 페이지, 소스 저장소, 모델 페이지 및 출처 참조 링크와 함께 기록되었습니다. 이는 관련 코드 및 모델 리소스에 대한 날짜가 명시된 공개 기준점을 확립한다는 점에서 프로젝트 이력에 중요합니다. 다만 제공된 링크만으로는 정확한 공개 상태, 기능, 버전을 확인할 수 없습니다.",
+ "title": "RealRestorer 프로젝트 리소스 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

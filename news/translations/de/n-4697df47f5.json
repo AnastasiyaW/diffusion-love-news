@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde auf der CVPR 2026 angenommen und stellte ViewBench vor, einen Benchmark, der speziell zur Evaluation des Blickwinkel-Schlussfolgerns in MLLMs entwickelt wurde. Der offizielle Inferenz-Code und die Benchmark-Datensätze wurden im Anschluss an die Veröffentlichung freigegeben.",
+ "id": "n-4697df47f5",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von der KAIST Visual AI Group; verwendet backward Token Warping, um robust gegenüber Fehlern der Tiefenschätzung zu bleiben und dabei die semantische Kohärenz zu wahren.",
+ "source_sha256": "470662e6ecc753009aa0c54ab45e03c0ecee920e05432296826570106ac6cf2a",
+ "summary": "Ein trainingsfreies Forschungsprojekt, das Multimodale Large Language Models in die Lage versetzt, über verschiedene Blickwinkel zu schlussfolgern, indem Bild-Tokens innerhalb von Vision Transformers verzerrt werden. Dieser geometrische Manipulationsansatz ermöglicht es Modellen, räumliches Schlussfolgern und mentale Rotation ohne zusätzliches Fine-Tuning durchzuführen.",
+ "title": "Token Warping für die Blickwinkel-Verständnis von MLLMs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

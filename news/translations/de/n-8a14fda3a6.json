@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Eine Batch-Recherche-Aufnahme hat 21 öffentliche Artikel hinzugefügt.",
+ "id": "n-8a14fda3a6",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Batchgröße und die Workflow-Bezeichnung wurden aus dem unveränderlichen Commit-Betreff übernommen; es werden keine privaten Prompts oder Transkripte veröffentlicht.",
+ "source_sha256": "a57ab157fdbd05ac92fb3f275de149ab58a218e0e0efbc0b51c08bbd55bcd56b",
+ "summary": "Eine Batch-Recherche-Aufnahme hat 21 Artikel in die öffentliche Wissensdatenbank aufgenommen.",
+ "title": "Batch-Recherche-Aufnahme: 21 Artikel über die Gemini 3 Flash CLI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

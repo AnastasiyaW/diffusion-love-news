@@ -1,0 +1,10 @@
+{
+ "id": "n-5efefc3953",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bb7028872201754279984311461170d6cdb18db1ab0aa9a8a0476534e862acf9",
+ "summary": "2026-06-26，GLM-5.2-NVFP4 的开发线记录了一条指向 NVIDIA 账户下 Hugging Face 模型页面的链接。这是该项目公开分发路径中的一个重要参照点，但仅凭这条带日期的链接，并不能确定发布日期、模型修订版本或技术规格。",
+ "title": "GLM-5.2-NVFP4 已关联到 NVIDIA 的 Hugging Face 模型页面",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

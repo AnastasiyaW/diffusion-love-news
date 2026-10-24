@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Initialement publié comme une critique satirique du « AI slop », le projet a évolué vers un modèle fonctionnel d'agents local-first dans le navigateur. Il est fréquemment cité dans les discussions autour du « Vibe Coding » et de la prolifération de systèmes d'IA autonomes à faible effort.",
+ "id": "n-2dbef67328",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Maintenu par PasiKoodaa, aux côtés d'autres outils local-first comme Chat-with-Screen et Screen-Analysis-Overlay.",
+ "source_sha256": "e874aba0efa9e4e2a942dfcea5e9de1fb0f8975d83f7f9c3758f01f0fcd4a4bc",
+ "summary": "Un outil léger et open source qui permet la programmation autonome pilotée par l'IA directement dans le navigateur, sans clé d'API externe. Il s'appuie sur une exécution locale des modèles pour offrir un environnement simplifié dédié aux tâches de codage agentique et à l'expérimentation rapide.",
+ "title": "SlopLobster : assistant de codage IA local dans le navigateur",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

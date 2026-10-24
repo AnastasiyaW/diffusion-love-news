@@ -1,0 +1,10 @@
+{
+ "id": "n-18aead67ea",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ae48c2bb7856559f084fc06cb82b2138758cabb77c29768c95d64ae0117a7541",
+ "summary": "2026年3月30日，该开发线记录了 GalaxyAce LoRA 的一个特定版本 Civitai 链接，对应模型 2200329 与版本 2808759。它为该模型版本提供了一个带日期的身份锚点，而其发布背景、训练细节和兼容性仍未经核实。",
+ "title": "GalaxyAce LoRA 特定版本 Civitai 参考记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

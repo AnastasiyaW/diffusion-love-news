@@ -1,0 +1,10 @@
+{
+ "id": "n-5b5558fedd",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b6af61f73c1469e6ea14fe5e772ffae0ad2a47fc718cd69cbea87ea24ca68387",
+ "summary": "2026年7月8日，ThinkingCap-Qwen3.6-27B 及多个替代部署格式的公开代码仓库已被关联发布。已关联的格式包括 GGUF、NVFP4 以及 int4 AutoRound 变体，标志着该模型系列及其相关分发选项已公开可用。",
+ "title": "ThinkingCap-Qwen3.6-27B 的代码仓库与部署变体已关联上线",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

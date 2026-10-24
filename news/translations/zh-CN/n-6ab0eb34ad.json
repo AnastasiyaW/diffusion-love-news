@@ -1,0 +1,10 @@
+{
+ "id": "n-6ab0eb34ad",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3ed5a9d649b9b582c97f0f4363ae395b19d91c18a1e2a41cbb1c67ed780dff83",
+ "summary": "2026年3月20日，一条带日期的消息链接到了S3T-Former的GitHub仓库。这证明了该项目在当时已有可公开查阅的代码参考，但现有证据并未说明具体版本发布、论文版本、基准测试结果或任何具体代码变更。因此，该历史条目应仅记录仓库的可访问情况。",
+ "title": "S3T-Former源代码仓库已被分享",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

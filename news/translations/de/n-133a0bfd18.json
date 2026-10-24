@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Ursprünglich ein einfaches Werkzeug zur Node-Suche, hat es sich zu einem umfassenden Hilfsprogramm mit spezialisierten Modi für Befehle, Node-Navigation und Workflow-Vorlagen entwickelt. Es bietet nun eine tiefe Integration mit der ComfyUI Registry und ist in TypeScript umgesetzt, um modernen Frontend-Standards zu entsprechen.",
+ "id": "n-133a0bfd18",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Umfasst erweiterbare Befehlsunterstützung, sodass andere Custom Nodes eigene Aktionen innerhalb der Palette registrieren können.",
+ "source_sha256": "59434b6c54bb74f20093334b96c6e314ba94c0c81a2e60177742f56ab1df8dfa",
+ "summary": "Ein tastaturgesteuertes Befehlszentrum für ComfyUI, das Navigation und Ausführung über eine Ctrl+K-Oberfläche bündelt. Nutzer können UI-Befehle ausführen, gezielt zu bestimmten Nodes springen und neue Nodes über ein präfixbasiertes Suchsystem hinzufügen.",
+ "title": "ComfyUI Command Palette",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "DALL-E 3를 공식적으로 계승했으며, OpenAI는 이미지 생성을 GPT 멀티모달 아키텍처로 통합하기 위해 2026년 5월 12일 DALL-E 브랜드 전체를 종료했습니다. 현재 Image Arena 리더보드에서 1위를 차지하고 있습니다.",
+ "id": "n-af7e0341d4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "복잡한 공간 계획과 자기 수정을 위한 네이티브 추론 단계를 갖춘 최초의 이미지 생성 모델입니다. API를 통해 gpt-image-2로 제공됩니다.",
+ "source_sha256": "37f1c01e524093c901a3588d281c1436d768dd3840912ab4658c31006b29ecf4",
+ "summary": "2026년 4월 공개된 OpenAI의 통합 멀티모달 파운데이션 모델로, DALL-E 시리즈를 대체했습니다. 네이티브 추론 기능('Thinking Mode'), 여러 문자 체계에 걸친 거의 완벽한 타이포그래피, 네이티브 4K 해상도 지원을 도입했습니다.",
+ "title": "GPT Image 2 (OpenAI)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

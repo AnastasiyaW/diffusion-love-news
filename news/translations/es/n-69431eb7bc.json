@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La publicación de noticias informó sobre fine-tuning local o en Colab y un requisito de 5 GB de VRAM para Qwen3.5 2B.",
+ "id": "n-69431eb7bc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72aa2773e29a27aa7412c4fa2285d094ec9f581950059f9d46a578c17bc05fb2",
+ "summary": "La publicación de noticias informó sobre fine-tuning local o en Colab y un requisito de 5 GB de VRAM para Qwen3.5 2B.",
+ "title": "Unsloth publica una guía de fine-tuning de Qwen3.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

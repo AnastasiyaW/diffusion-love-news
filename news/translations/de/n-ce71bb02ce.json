@@ -1,0 +1,11 @@
+{
+ "id": "n-ce71bb02ce",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast verarbeitete Text- bzw. Bild-zu-Video, während Pro zusätzlich Audio-zu-Video, Retake und Extend unterstützte; 22B-dev/distilled-Gewichte und Latent-Upscaler wurden veröffentlicht.",
+ "source_sha256": "f9cc3d7eeeccb580b6cdea5fb8101846aa3a2a451481db82743e55622f8240b0",
+ "summary": "Am 05.03.2026 wurden LTX-2.3-Modelldateien auf Hugging Face und eine ComfyUI-Vorlage für einen Text-zu-Video-Workflow verknüpft. Dies ist ein wesentlicher Integrationsschritt, da er die Modellreihe mit einem reproduzierbaren lokalen Workflow-Pfad für Praktiker verbindet.",
+ "title": "LTX-2.3-Modelldateien und ein ComfyUI-Workflow für Text-zu-Video wurden verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "초기 출시 이후 v0.1.9까지 빠르게 반복 개선되었으며, Auto-Compaction과 Skill Workflows 같은 기능이 추가되었습니다. 향후 로드맵은 ClawTeam 통합과 향상된 멀티 에이전트 통신 프로토콜에 초점을 맞추고 있습니다.",
+ "id": "n-44c547a245",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "HKU Data Science Lab에서 개발했으며, 자동화된 저장소 관리와 코딩 작업을 수행하는 개인 에이전트 'ohmo'를 포함합니다.",
+ "source_sha256": "8090bd850deecfbf39273226e5fa339bdf963061d317dd1e5de3ab734f5c1bc4",
+ "summary": "LLM에 자율 에이전트 워크플로를 위한 도구, 메모리, 거버넌스를 제공하는 오픈소스 Python 프레임워크입니다. 모듈식 스킬 시스템을 갖추고 있으며, 다양한 모델 제공자에 걸친 멀티 에이전트 오케스트레이션을 지원합니다.",
+ "title": "OpenHarness: LLM을 위한 경량 멀티 에이전트 인프라",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

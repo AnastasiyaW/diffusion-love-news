@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Début 2026, le projet a publié l'Animation Base Model V2.0, qui améliore nettement la trajectoire des mouvements et gère mieux les actions complexes en l'air. Il intègre désormais Physics Optimization 2.0 pour éviter le glissement des pieds, et prend en charge le suivi de plusieurs sujets ainsi qu'une intégration native avec iClone.",
+ "id": "n-2fd5e60740",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend une offre gratuite de 50 crédits par mois et des plugins d'export direct pour Unreal Engine 5.6+ et Blender.",
+ "source_sha256": "caad73cece9cf631d0864654c42df16147618528a92d69e9a907371a468547d5",
+ "summary": "QuickMagic est une plateforme pilotée par l'IA qui convertit une vidéo standard en données de capture de mouvement 3D haute fidélité pour le corps, les mains et le visage. Elle offre aux créateurs une alternative économique aux combinaisons de mocap matérielles, pour le développement de jeux et l'animation.",
+ "title": "QuickMagic AI : service professionnel de vidéo vers mocap et avatars",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

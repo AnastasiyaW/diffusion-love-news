@@ -1,0 +1,10 @@
+{
+ "id": "n-43108a28d7",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c3deb61d8b40b915e6f019c74ac7bbed8568fae74182497920de57ea3f24bfe",
+ "summary": "El 2026-03-30, un registro con fecha vinculó una página de modelo en Hugging Face de Qwen3.5-9B-Uncensored-HauhauCS-Aggressive junto con un Space de pruebas en Hugging Face. Se trata de una referencia importante de disponibilidad pública y de pruebas para el proyecto, aunque las evidencias aportadas no permiten establecer más detalles sobre la publicación.",
+ "title": "Enlace a modelo en Hugging Face y espacio de pruebas para Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

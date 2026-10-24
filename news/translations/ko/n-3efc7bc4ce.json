@@ -1,0 +1,10 @@
+{
+ "id": "n-3efc7bc4ce",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c6bea20727bd8d5990a8870f437b221f5d91b0a1b38b17113414f16ef74fe7f4",
+ "summary": "2026-07-04, 추적 중인 개발 라인에 Neural Render Proxies와 연관된 Disney Research 공식 페이지 링크가 추가되었습니다. 해당 페이지는 2026-07-01자로 게시되었으며, 맥락으로 인터랙티브 및 미분 가능한 조명(interactive and differentiable lighting)을 명시하고 있습니다. 이는 검토되지 않은 기술적 세부 사항을 단정하지 않고, 중요한 프로젝트 개발 참고 자료로 기록됩니다.",
+ "title": "Neural Render Proxies에 관한 Disney Research 참고 자료",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

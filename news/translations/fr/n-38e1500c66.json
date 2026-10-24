@@ -1,0 +1,10 @@
+{
+ "id": "n-38e1500c66",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "39d743d5eaa3229d2d0eb7a4d3197687c7365bfa08a30bd4f4f8632c095d6856",
+ "summary": "Le 2026-06-07, TripoSplat a été relié à sa page de recherche, à son dépôt open-source, à son checkpoint de modèle, à une démo interactive et à un modèle de workflow ComfyUI. Ensemble, ces ressources ont rendu le projet accessible pour une étude technique et des expérimentations de conversion d'image en Gaussian splats.",
+ "title": "Ressources de recherche, modèle, démo et workflow autour de TripoSplat mises en avant",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

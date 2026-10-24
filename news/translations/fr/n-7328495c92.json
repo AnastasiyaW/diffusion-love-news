@@ -1,0 +1,10 @@
+{
+ "id": "n-7328495c92",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8e38aea5329e773d702f83474758df21a3d4da41857ee2f00b3a317109fb0757",
+ "summary": "Le 2026-08-17, le lien enregistré dans le fil de développement d'OrbitSheets renvoyait au dépôt GitHub du projet. Cela établit une référence publique datée vers l'emplacement du code source, mais les éléments fournis n'identifient ni version, ni fonctionnalité, ni autre jalon de mise en œuvre.",
+ "title": "Dépôt GitHub d'OrbitSheets lié dans le fil de développement",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hervorgegangen aus der Forschungslinie von VLM-3R (Mai 2025) und weiterentwickelt zu einem spezialisierten Framework für geometrisches räumliches Schließen. Im März 2026 wurden einheitlicher Code und Modellgewichte veröffentlicht, wobei Masking und adaptive Fusion eingeführt wurden, um auf räumlichen Benchmarks eine State-of-the-art-Leistung zu erreichen.",
+ "id": "n-1b0490d011",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält spezialisierte Zweige für statische 3D-Szenen und dynamische monokulare Videos. Hat neue SOTA-Ergebnisse auf VSI-Bench und DSR-Bench erzielt.",
+ "source_sha256": "598205f98406c31c1c2187021c4f588785bca964041eaec1713000b79953dc60",
+ "summary": "GeoSR ist ein Framework, das das räumliche Schließen in Vision-Language-Modellen durch die Integration geometrischer 3D-Hinweise verbessert. Es setzt Geometry-Unleashing-Masking und gesteuerte Fusion ein, damit Modelle sich sowohl in statischen als auch in dynamischen Umgebungen nicht auf visuelle 2D-Abkürzungen verlassen.",
+ "title": "GeoSR: Geometrisches räumliches Schließen für VLMs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

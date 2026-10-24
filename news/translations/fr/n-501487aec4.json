@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "À l'origine un outil de pose de personnages, il a évolué en un compositeur 3D complet, avec prise en charge des environnements importés au format FBX/GLB, suivi de caméra et mocap faciale. Les dernières mises à jour ont intégré un moteur de path tracing pour des ombres réalistes, ainsi que la prise en charge native des Gaussian Splatting (.ply/.spz).",
+ "id": "n-501487aec4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prend en charge jusqu'à 16 personnages indépendants et utilise la nomenclature squelettique standard de Mixamo pour le rigging automatique.",
+ "source_sha256": "8999e0286eaaeaebe1f2128da1bb095708dff7953130e5e4af2ed18d35e16589",
+ "summary": "Système avancé de fenêtre de visualisation 3D et d'animation pour ComfyUI, permettant la pose interactive de personnages et la composition de scènes. Il génère directement à partir des assets 3D animés des données ControlNet multi-passes, incluant Depth, Normal et OpenPose.",
+ "title": "ComfyUI Yedp Action Director — compositeur de scènes 3D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

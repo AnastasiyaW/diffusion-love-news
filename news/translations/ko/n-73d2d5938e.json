@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 2.0 버전에서 로컬 전용 오케스트레이션에서 원격 우선(remote-first) 모델로 전환했으며, Cloud Workspaces와 독립형 CLI를 추가했습니다. 지원 범위도 Claude Code와 Codex에서 Cursor, Gemini CLI까지 포괄하는 에이전트 비종속(agnostic) 생태계로 확장되었습니다.",
+ "id": "n-73d2d5938e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "주요 기술적 특징으로는 브랜치 단위로 작업을 분리하는 Git worktree 격리와, 여러 워크스페이스 간 실시간 동기화를 위한 Electric SQL이 있습니다.",
+ "source_sha256": "a7d61e426aa57a2102be39e0f8136d3fbd6dc3ce6437615597408b2097d5736a",
+ "summary": "여러 AI 코딩 에이전트를 병렬로 실행하도록 설계된 오픈소스 터미널 및 IDE 오케스트레이터입니다. Git worktree를 사용해 에이전트 작업을 격리하므로, 동시 개발 과정에서 파일 충돌과 컨텍스트 혼재를 방지합니다.",
+ "title": "Superset 병렬 AI 에이전트 오케스트레이터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

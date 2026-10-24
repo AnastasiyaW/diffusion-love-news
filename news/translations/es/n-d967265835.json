@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto evolucionó de un prototipo de investigación a un conjunto de modelos listo para producción, que incluye variantes de 3.5B y 1B. Introdujo Adaptive Projection Guidance (APG) e logró una integración completa en el ecosistema ComfyUI.",
+ "id": "n-d967265835",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Supera a Seed-TTS en benchmarks de similitud de hablante y naturalidad; se publicó bajo la licencia MIT para un acceso amplio.",
+ "source_sha256": "40c885a19554cac8ac60145c957d1ba52ac67d924283ac13d3afedd83b7d268a",
+ "summary": "Un marco de síntesis de voz basado en difusión de última generación que opera directamente en el espacio latente de forma de onda mediante Wav-VAE. Permite la clonación de voz zero-shot de alta fidelidad y la generación de habla natural con una inferencia optimizada.",
+ "title": "LongCat-AudioDiT: TTS de difusión en espacio latente de forma de onda de alta fidelidad",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "macOS 데스크톱 클라이언트에서 출발해 풀스택 플랫폼으로 발전했다. 다중 에이전트 협업을 위한 'Squads' 시스템과 표준화된 Agent Client Protocol(ACP)을 갖추고 있다. 최근에는 에이전트 패턴을 패키징하는 스킬 프레임워크와 원클릭 배포를 위한 템플릿 카탈로그를 추가했다.",
+ "id": "n-63cbd51a4a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트는 Multics 운영체제의 이름을 따왔으며, 협업 소프트웨어 개발을 위한 Human-AI Operating System으로 기능하는 것을 목표로 한다.",
+ "source_sha256": "58158f0705320c8d7363672746ea6e69e1ce7435f44218c6ffcb006c45084184",
+ "summary": "자율형 코딩 에이전트를 사람의 워크플로에 일급 팀원(first-class teammate)으로 통합하는 오픈소스 관리형 에이전트 플랫폼이다. 로컬 데몬과 클라우드 런타임을 조율하는 벤더 중립적 운영 계층을 제공하며, Claude Code, Gemini, GitHub Copilot CLI 등의 에이전트를 지원한다.",
+ "title": "Multica: 오픈소스 AI 에이전트 관리 플랫폼",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

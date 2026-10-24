@@ -1,0 +1,10 @@
+{
+ "id": "n-6a470bac38",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1c56899a2bcdf57698b1bf60de7f4da3e924541a93940088b54a8ab8da112acf",
+ "summary": "1 июля 2026 года в репозитории Hugging Face появился INT8-чекпоинт ConvRot для Flux2-Klein-9B True V3. Ссылки с датами также связывают его с репозиторием интеграции INT8 для ComfyUI, что стало практическим шагом в распространении решения для пользователей локального инференса.",
+ "title": "Стала доступна INT8-версия чекпоинта Flux2-Klein и интеграция с ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

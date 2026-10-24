@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet a atteint 60,000 étoiles sur GitHub début 2026, avec l'introduction du framework OASIS permettant de faire passer les simulations à des millions d'agents, et l'intégration de GraphRAG pour une mémoire d'entités ancrée. Une version MiroFish-Offline, lancée par la communauté, a été publiée pour une exécution en local.",
+ "id": "n-e4b7a4de7b",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Devenu viral grâce à une simulation qui prédisait la fin perdue de « Le Rêve dans le pavillon rouge », en injectant ses 80 premiers chapitres dans les groupes de discussion d'agents du moteur.",
+ "source_sha256": "6863a5822ea7a2b21265a095416b7cd4791fcafdafe0d4d03a8289a982cf28c4",
+ "summary": "MiroFish est un moteur d'intelligence en essaim qui crée des mondes numériques parallèles peuplés d'agents IA pour simuler les dynamiques sociales et les tendances du marché. Il utilise GraphRAG pour des interactions ancrées dans des données et prend en charge l'injection dynamique de variables pour la modélisation prédictive sociale en temps réel.",
+ "title": "MiroFish : moteur open source de simulation de comportements sociaux multi-agents",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

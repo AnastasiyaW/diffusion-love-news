@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entstanden aus v1.0 (offline 3D-Szenen) und v1.5 (Echtzeit-Videos mit Interaktion) hin zu einem einheitlichen System für 3D-Rekonstruktion und -Generierung. Das Update 2.0 führte bearbeitbare 3D-Assets und die direkte Integration in Unreal Engine, Unity und Isaac Sim ein.",
+ "id": "n-1e0d9b8388",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Framework umfasst eine modulare Pipeline mit HY-Pano 2.0 für Panoramen, WorldNav für die Trajektorienplanung und WorldLens für das interaktive 3DGS-Rendering.",
+ "source_sha256": "3b114fa3d15e7850ff1b7d05148a9d7b1eccc9f993049dcf240a21cdf3a809fe",
+ "summary": "Ein quelloffenes multimodales Framework zur Rekonstruktion und Generierung interaktiver 3D-Umgebungen aus Text, Bildern oder Videos. Es erzeugt produktionsreife 3D-Assets wie Meshes und Gaussian Splatting, die mit gängigen Game-Engines kompatibel sind.",
+ "title": "HY-World 2.0: Tencents multimodales Weltmodell",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

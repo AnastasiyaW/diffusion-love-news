@@ -1,0 +1,10 @@
+{
+ "id": "n-ced28f0724",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b98bf6d5e4a0a1df8dac00358f296754206c8f37f255b750de6e46c0ce609de6",
+ "summary": "2026年6月9日，一篇带日期的 Kimi Code CLI 帖子链接了该项目的英文文档和 GitHub 代码仓库。这为 CLI 的文档和源代码提供了一个公开的参考入口，但现有证据并未说明其版本、发布机制或功能集。",
+ "title": "Kimi Code CLI 文档与源代码仓库已公开链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

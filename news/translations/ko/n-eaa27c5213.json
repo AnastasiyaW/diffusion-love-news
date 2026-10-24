@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 지도 미세 조정(Supervised Fine-Tuning, SFT)에서 이중 보상 피드백을 사용하는 Group Relative Policy Optimization(GRPO) 기반의 에이전트형 강화학습으로 발전하였다. 또한 검색 기반 이미지 생성을 위한 전문 벤치마크인 KnowGen을 도입하였다.",
+ "id": "n-eaa27c5213",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 시스템은 다중 홉(multi-hop) 추론을 지원하여 지식 공백을 식별하며, 시각적 참조를 활용해 생성 결과를 실제 세계의 개체에 근거하도록 한다.",
+ "source_sha256": "1c3652d6dbb540d8de0b02cc1662c50d0aa18575f8f9d393024ad91f2b9f5798",
+ "summary": "이미지를 생성하기 전에 실시간 웹 검색과 시각적 검색을 수행하는 자율형 다중모달 에이전트이다. 검색 후 생성(search-then-generate) 워크플로를 활용하여 텍스트-이미지 합성에서 사실적 정확성과 시각적 일관성을 보장한다.",
+ "title": "Gen-Searcher: 검색 기반 다중모달 심층 리서치 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "该新闻帖介绍了 5B 和 14B 两种 SANA-Video 2.0 架构及其性能宣称，并明确指出截至发布时，新模型的权重尚不可用。",
+ "id": "n-95cbbfe193",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f0cb562fec8157490da8b509a322663bec1ff23b315abe9ce2b5d3205df9fae7",
+ "summary": "该新闻帖介绍了 5B 和 14B 两种 SANA-Video 2.0 架构及其性能宣称，并明确指出截至发布时，新模型的权重尚不可用。",
+ "title": "SANA-Video 2.0 公布，但未提供权重",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

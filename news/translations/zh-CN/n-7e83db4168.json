@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从 Qwen2.5-Coder 演进而来，发展为完整的智能体生态系统，具备用于推理的“Thinking Mode”（思考模式），并原生支持 UI 与图表理解的多模态能力。",
+ "id": "n-7e83db4168",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持 Model Context Protocol（MCP），并可处理高达 100 万 token 的超长上下文窗口，适用于大规模代码库。",
+ "source_sha256": "fe0c96d18c76851d37a765af9f8fc6b1f9aad46ae6d1d72baab800752454a459",
+ "summary": "一款面向软件工程的开源终端 AI 智能体及模型系列。它能够自动完成复杂的仓库级任务，例如调试、重构以及多模态文档分析。",
+ "title": "Qwen Code：自主式 AI 编程智能体",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

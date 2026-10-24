@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "공개된 기사, 도메인, 내부 링크 통계를 수정했습니다.",
+ "id": "n-690d423e11",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "해당 값들은 변경할 수 없는(immutable) 커밋 제목에 기록된 그대로 유지됩니다.",
+ "source_sha256": "bd750aa6b998361ded62744dbbc9da9f230671312faea39fddc3ef04ac22e199",
+ "summary": "공개된 프로젝트 통계를 기사 785건, 도메인 26개, 내부 링크 3,987개 이상으로 수정했습니다.",
+ "title": "기사 및 통계 집계 불일치 수정",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

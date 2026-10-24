@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Z-Image 프로젝트는 무거운 DiT 모델에서 출발해 실시간 디테일링을 가능하게 하는 증류된 'Turbo' 버전으로 발전했다. 이후 'Z-Image Power Nodes' 생태계에 통합되어 low-sigma 디테일링, 전문 얼굴 LoRA 등 고급 기능을 지원하고 있다.",
+ "id": "n-9744e9b73c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "최적의 결과를 얻으려면 Qwen 2.5 VL 텍스트 인코더와 전용 VAE가 필요하다. 속도 대비 품질 비율 측면에서 기존 SDXL 디테일러를 크게 앞선다.",
+ "source_sha256": "e69dedc1ccec3eb56078e0d1aa0b93140328f25592e675aa8245e6e9a443a3b4",
+ "summary": "Alibaba의 Z-Image Turbo 6B DiT 모델을 활용해 얼굴 보정에 최적화된 고성능 ComfyUI 워크플로다. YOLOv8과 SAM을 결합한 정밀 크롭 및 인페인팅 파이프라인을 사용하여 단 8~10 스텝만으로 고충실도 피부 질감을 구현한다.",
+ "title": "Z-Image Turbo 얼굴 디테일링 워크플로",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

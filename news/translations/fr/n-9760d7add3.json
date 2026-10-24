@@ -1,0 +1,10 @@
+{
+ "id": "n-9760d7add3",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "71ed3f1974a7a844a9f9f1aa1dea3b6f22d64e35f9c6544ca141529d995b45e1",
+ "summary": "Le 14 mai 2026, une entrée de la ligne de développement de MemPrivacy faisait référence au dépôt GitHub du projet et à sa collection Hugging Face. Les ressources publiques liées fournissent du code source et une collection de modèles, mais les éléments disponibles n'établissent aucune version, publication, capacité, benchmark ni modification technique précise.",
+ "title": "Code source et collection de modèles de MemPrivacy référencés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

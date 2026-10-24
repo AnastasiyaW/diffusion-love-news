@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Veröffentlicht im April 2026 und zur CVPR 2026 angenommen. Das Projekt stellt einen wesentlichen Fortschritt im Bereich 4D Gaussian Splatting dar, da es eine hochwertige Rekonstruktion aus lediglich vier Ansichten ermöglicht.",
+ "id": "n-9dd20d8e0c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Nutzt MASt3R für die Initialisierung einer dichten Punktwolke, da das traditionelle COLMAP bei so spärlichen Eingaben scheitert.",
+ "source_sha256": "0114f5919e813fa038f47fb4e58bc5b5737825cb7487d0ff56c823424b77350a",
+ "summary": "Ein Framework zur 4D-Rekonstruktion dynamischer Szenen, das nur vier portable Kameras benötigt. Es führt eine Neural Decaying Function ein, die geometrische Struktur gegenüber dem Erscheinungsbild priorisiert und so Overfitting bei extrem spärlichen Kamera-Setups verhindert.",
+ "title": "4C4D: 4 Camera 4D Gaussian Splatting",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

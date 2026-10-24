@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CosyVoice 从 v1.0 和 v2.0 演进至 v3.0，其中引入了用于强化学习的可微分奖励模型（DiffRO），并将训练规模扩展至 100 万小时语音数据。当前的开发重点是通过 TensorRT-LLM 和 vLLM 集成进行运行时优化。",
+ "id": "n-7de8349cd0",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "支持包括俄语在内的 9 种主要语言，具备 18 种以上中国方言能力，并在流式应用场景中保持极低的首包延迟，仅为 150ms。",
+ "source_sha256": "f481bf63d809db1b66ce0116d73540d272544ac43daa1aacaa21fb3ce836755b",
+ "summary": "这是由阿里巴巴 FunAudioLLM 开发的一款先进多语言语音生成模型，面向实时合成与零样本语音克隆。该模型借助海量数据扩展和强化学习，在九种主要语言上实现了高保真的韵律与情感表达。",
+ "title": "CosyVoice 3.0：多语言语音生成与克隆",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

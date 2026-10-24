@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "PICO-fit(2025)의 최적화 기반 접근법에서 출발하여 단일 패스(single-pass) 트랜스포머 모델로 발전했습니다. 자연어 질의를 가능하게 하는 'Referential Contact'를 도입했으며, 대규모 비디오 처리를 위한 추론 처리량(throughput)을 크게 향상시켰습니다.",
+ "id": "n-4694b833dd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "MMHOI 및 DAMON 데이터셋에서 새로운 최고 성능(state-of-the-art)을 달성했으며, InteractVLM과 같은 기존 Vision-Language Model들을 능가했습니다.",
+ "source_sha256": "146069b4e05a3df672cd00ebe4bfb1a845f339a5e5c3dfa242cbd077bf3ddb31",
+ "summary": "단일 이미지로부터 조밀한 3D 사람-객체 접촉을 예측하는 인스턴스 인지(instance-aware) 프레임워크입니다. InteractionFormer 아키텍처와 SAM 기반 디코더를 활용하여, 다인(multi-person) 장면에서 접촉 마스크를 SMPL 사람 메쉬에 매핑합니다.",
+ "title": "Pi-HOC: 쌍별 3D 사람-객체 접촉 예측",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

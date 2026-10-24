@@ -1,0 +1,10 @@
+{
+ "id": "n-f0c1036242",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0b55e01089dbf8798126dbbdbafc0b2c3fd56b72c64bafe77cc2647acdd45c8b",
+ "summary": "2026년 8월 24일, MiniMax-H3 x Z-Image 개발 라인이 네이티브 저장소와 GGUF 저장소의 Hugging Face 링크와 연결되었다. 이는 두 가지 모델 포맷의 접근 지점을 식별한다는 점에서 의미 있는 배포 단계이지만, 현재 확인 가능한 기록으로는 공개 여부, 내용, 호환성을 확정할 수 없다.",
+ "title": "MiniMax-H3 x Z-Image 네이티브 및 GGUF 저장소 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

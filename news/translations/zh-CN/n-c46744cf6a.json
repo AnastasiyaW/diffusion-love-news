@@ -1,0 +1,10 @@
+{
+ "id": "n-c46744cf6a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "20df25e44f5592476b5d945d1f08b39f9e81855bae95f2d87835fe6d3d29fd52",
+ "summary": "2026-08-04，Liquid AI 链接了一篇博客文章以及 LFM2.5-2.6B 的 Hugging Face 资源。相关链接包括模型页面、量化模型发现页、一个 WebGPU Space 以及一个 Playground，标志着该模型系列迈出了公开可用的一步。",
+ "title": "Liquid AI 发布 LFM2.5-2.6B 模型系列",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

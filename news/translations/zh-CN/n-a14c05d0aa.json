@@ -1,0 +1,10 @@
+{
+ "id": "n-a14c05d0aa",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e15f5b14d2f2833023860977011350624f40bc6b3d6b7e3f94c15ab86fe21203",
+ "summary": "2026 年 3 月 17 日，NanoVDR 的开发进展与一篇 Hugging Face 博客文章、一个 NanoVDR 项目页面以及一个公开的 NanoVDR 演示 Space 相关联。这是一次实质性的公开发布步骤，因为它使项目与演示资源可被发现；不过，本次审查并未研究这些资源的具体内容。",
+ "title": "NanoVDR 关联的 Hugging Face 公开资源与演示",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

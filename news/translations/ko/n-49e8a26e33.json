@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 플랫폼은 2026년 초 단순한 클립 생성에서 통합 멀티모달 아키텍처로 전환했다. ByteDance의 Seedance 2.0 업데이트는 네이티브 립싱크, 감독 수준의 카메라 제어, 그리고 서로 다른 장면에서도 일관된 캐릭터를 렌더링하기 위해 최대 9장의 참조 이미지를 처리하는 기능을 도입했다.",
+ "id": "n-49e8a26e33",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Flova.ai는 Seedance 2.0과 스크립트 작성 에이전트를 포함한 여러 모델을 조율하여 장편 서사형 콘텐츠 제작을 자동화한다. 초기에는 초사실적 배우 복제와 관련해 업계의 면밀한 검토를 받았다.",
+ "source_sha256": "9e666a03144a5e0b8a9495fc737718ea4c30db3ab297ae4b96f3e03fd6ad4515",
+ "summary": "Seedance 2.0 멀티모달 엔진을 활용해 서사형 영상 제작을 수행하는 풀스택 AI 필름메이킹 플랫폼이다. 다중 샷 연속성, 캐릭터 일관성, 통합 오디오 동기화를 지원하여 영화적 스토리텔링을 가능하게 한다.",
+ "title": "flova.ai: Seedance 2.0 기반 AI 비디오 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

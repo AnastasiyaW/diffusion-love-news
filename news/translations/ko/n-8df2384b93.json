@@ -1,0 +1,11 @@
+{
+ "id": "n-8df2384b93",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "다운로드 파일은 독립적인 563 MB 설치본이 아니라 Qwen-Image-Edit-2511의 어댑터 의존성으로 취급할 것.\n\n어댑터 크기로 최소 하드웨어 사양을 추론하지 말 것. 워크플로 기록에는 정확한 베이스 체크포인트와 어댑터 식별 정보를 그대로 남길 것.",
+ "source_sha256": "9c38e3f84c68dbc3b8dad4cc0be123ffa01c87e73a99406c9dd6adb893c49401",
+ "summary": "ScottzillaSystems 카드는 MCNL v1을 Qwen-Image-Edit-2511용 커뮤니티 어댑터로 소개합니다. 약 563 MB의 다운로드 파일은 완전한 모델 설치본이 아니라 어댑터이며, 더 넓은 콘텐츠 허용 동작은 배포자의 주장으로만 남아 있고, 통제된 동작 테스트는 확인되지 않았습니다.",
+ "title": "MCNL v1은 Qwen-Image-Edit-2511용 커뮤니티 어댑터입니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

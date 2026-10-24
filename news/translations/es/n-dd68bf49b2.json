@@ -1,0 +1,10 @@
+{
+ "id": "n-dd68bf49b2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9b53a22ff7330ade831c17a4cddeb5d1849650cd667f9e1c72aad9019c4f0747",
+ "summary": "El 2026-06-11, Langswap enlazó rutas de código fuente de un gestor de speech-to-text, un cliente ASR/VAD, un cliente de traducción con Llama.cpp, un cliente TTS de OmniVoice y el soporte de FFmpeg. El conjunto de enlaces con fecha incluía también el repositorio del proyecto y un artículo sobre doblaje con IA, lo que sitúa estos componentes en un contexto de traducción de voz y doblaje. Los enlaces disponibles no permiten establecer si los archivos referenciados se añadieron o modificaron en esa fecha.",
+ "title": "Langswap presenta una pila modular de traducción de voz y doblaje",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

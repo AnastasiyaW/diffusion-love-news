@@ -1,0 +1,10 @@
+{
+ "id": "n-f108d81c34",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab1e0f01477501d19a37f2eca291be897ac8a6973d27c39319fc4d3ccd49f6cc",
+ "summary": "Am 17.03.2026 teilte PixVerse mit, dass seine Funktionen zur Bild- und Videogenerierung über eine Kommandozeilenschnittstelle genutzt werden können. Ein verlinkter ClawHub-Eintrag deutet darauf hin, dass die Schnittstelle zur Wiederverwendung in terminalbasierten Workflows bereitgestellt wurde. Dies markiert einen wesentlichen Schritt weg von webbasiertem Zugriff hin zur Nutzung über die Kommandozeile.",
+ "title": "PixVerse stellte eine terminalbasierte Schnittstelle zur Bilder- und Videogenerierung vor",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

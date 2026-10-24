@@ -1,0 +1,11 @@
+{
+ "id": "n-aec1b8ae4b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Globale Generierungs-Seeds und Umweltpriors konfigurieren, um die Makro-Planungsebene für regionale Ökologie, Hydrologie und Verkehrsnetze zu initialisieren.\n\nAgentenposition und Blickrichtungsvektoren bereitstellen, um den Bewegungskorridor zu projizieren und die vorausschauende Mikroplanung für unmittelbar bevorstehende räumliche Kacheln auszulösen.\n\nLokale deterministische prozedurale Kompilierung aufrufen, um genehmigte Entscheidungen der Mikroplanung in renderbare 3D-Assets für Terrain, Vegetation und Siedlungen zu übersetzen.\n\nNatürlichsprachliche Befehle ausgeben, um Laufzeitentitäten oder Kachelattribute zu aktualisieren und die geänderten Zustände in der Datenbank der Welteinträge pro Kachel zu persistieren.\n\nPlanungshorizonte von der Geometriekompilierung entlang prognostizierter Korridore entkoppeln, um stabile Bildraten zu gewährleisten und Rechenspitzen zu verhindern.\n\nIn der Mikroplanung strikte Randbindungen von Kachel zu Kachel durchsetzen, um visuelle und topologische Nahtstellen zwischen unabhängig kompilierten Zellen zu vermeiden.\n\nBei großen Distanzen, die der Agent zurücklegt, auf die Neukompilierung aus Seed- und Änderungsprotokollen pro Kachel setzen, statt hochpolygonale Meshes im Speicher zwischenzuspeichern.",
+ "source_sha256": "ddf424d568ff57c47cb526b79601c302d38255e52099a4b19c28b62b2c5b6ea8",
+ "summary": "WorldStream stellt eine Streaming-Architektur für 3D-Weltmodelle vor, die hierarchische Makro- und Mikroplanung mit deterministischer lokaler Kompilierung kombiniert und entlang des Bewegungskorridors des Spielers ein unendliches Terrain sowie persistente Änderungen aufrechterhält.",
+ "title": "WorldStream streamt offene 3D-Welten mit hierarchischer Planung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

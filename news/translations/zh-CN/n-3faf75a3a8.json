@@ -1,0 +1,10 @@
+{
+ "id": "n-3faf75a3a8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "33ec81ccdc8c3905c00b187d5b7cc567067ee4d66c657126f918b83e118cd77b",
+ "summary": "2026-03-25 有一条带日期的记录，链接指向 Gemini 应用以及一个 AI Studio 音乐生成页面，该页面的 URL 标识了 `lyria-3-pro-preview` 模型。这些链接记录了 Lyria 3 Pro 的一条预览访问路径，但仅凭它们本身，并不能确定其为正式发布，也无法说明其功能或可用条件。",
+ "title": "Lyria 3 Pro 预览版访问路径已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-0dea9b891a",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3b4219a9a098d8ebdcab7ca5c577cc5ee3d2a841f60b8e9ddf8c4b91df35e003",
+ "summary": "Le 31 mars 2026, la ligne de développement d'EUPE a enregistré des liens vers le dépôt facebookresearch/eupe et vers la ressource facebook/EUPE-ViT-S sur Hugging Face. Ce fait est considéré comme une étape importante en matière de disponibilité, car il identifie à la fois un emplacement de l'implémentation et une ressource de modèle nommée. Les éléments fournis n'établissent ni numéro de version, ni capacités, ni état des artefacts au-delà de ces liens datés.",
+ "title": "Implémentation d'EUPE et ressource du modèle EUPE-ViT-S liées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt von einem internen HeyGen-Werkzeug zu einem großen Open-Source-Ökosystem mit über 12.000 Sternen. Neuere Updates führten einen 'Agentic Video Stack' und die Integration mit KI-Coding-Assistenten ein.",
+ "id": "n-963305f6b7",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Positioniert als vollständig quelloffene Alternative zu Remotion mit Apache-2.0-Lizenz und erstklassiger Unterstützung für KI-native Workflows zur Videogenerierung.",
+ "source_sha256": "40095e12800612f0136089c4f59f0a9c22b45b30f9d447f511de6a464e045ea7",
+ "summary": "Ein Open-Source-Framework unter Apache-2.0-Lizenz für die Erstellung hochwertiger Videos mit Web-Technologien wie HTML, CSS und React. Es ist für Rendering mit hoher Leistung ausgelegt und für die programmatische Steuerung durch KI-Agenten optimiert.",
+ "title": "HyperFrames: HeyGens programmatisches Videoframework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

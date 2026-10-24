@@ -1,0 +1,10 @@
+{
+ "id": "n-daa3090ac6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c88cbebc6adf7914b655984cb9d74e74b197ffa0eb10adb8f00c53b50757fdb6",
+ "summary": "2026-06-02，一条带日期的 Bernini 条目链接了项目网站以及 Hugging Face 上的 ByteDance/Bernini 模型仓库。该条目还链接了一个 Bernini 测试工作流 JSON 文件，以及 Kijai 的 WanVideo Comfy FP8 scaled 仓库中的 Bernini 目录。综合来看，这些资源标志着模型获取和面向 ComfyUI 使用方面迈出了实质性的一步。",
+ "title": "Bernini 模型与 ComfyUI 工作流资源已链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Étendu du fine-tuning de LLM à la prise en charge des variantes multimodales vision/audio de Gemma 4 ainsi qu'à l'apprentissage par renforcement GRPO. Intégré à l'écosystème PyTorch officiel en mai 2026.",
+ "id": "n-a3aa871dfa",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Prend en charge les GPU T4 gratuits de Google Colab pour les modèles Gemma 4 E2B et E4B.",
+ "source_sha256": "924ddc8b9e8a6c48814cfaae72541ec6aca1d724e90ffcf8cf532c979be303a3",
+ "summary": "Framework hautement optimisé pour le fine-tuning de la famille Gemma 4 de Google sur des GPU grand public et sur Google Colab. Il permet un entraînement 2x plus rapide et une consommation de VRAM réduite de 70 % grâce à des kernels spécialisés.",
+ "title": "Unsloth Studio pour le fine-tuning de Gemma 4 sur Colab",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

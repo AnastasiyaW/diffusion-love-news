@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已发展为功能全面的“AI 角色扮演控制台”，集成了 RAG、实时 2D 表情，并原生支持 DeepSeek v4、Claude 4.7 等多模态推理模型。近期更新重点包括面向复杂工具调用的交错思考（interleaved thinking），以及针对 SSRF 攻击的安全加固。",
+ "id": "n-fa9c04297f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用滚动发布模式，staging 分支非常活跃；当前稳定版本的构建需要 Node.js 20+。",
+ "source_sha256": "78f38bde1c94430115bd36f2f255436ebd5aad976e0867da36fb64574c8ac4aa",
+ "summary": "一款高度可定制、以本地优先为设计理念的大语言模型交互前端，专为角色扮演和故事创作优化。它支持多种后端，包括本地运行器、API 服务商，并提供角色表情、世界观构建工具等高级功能。",
+ "title": "SillyTavern：先进的 AI 角色扮演界面",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

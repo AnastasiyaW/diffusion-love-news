@@ -1,0 +1,11 @@
+{
+ "id": "n-eb68bcfc57",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La version à poids ouverts correspond à Medium, et les modules moodboard et style reference ne sont pas inclus dans la publication ouverte.",
+ "source_sha256": "1df7d50a2442821dfa2ab243f5d572655687af17cdf64ab0d7fe4eb19e9a2f4f",
+ "summary": "Le 2026-06-24, les liens officiels rassemblés sur Krea 2 renvoyaient vers une page et un dépôt open source, les dépôts officiels des modèles Raw et Turbo, une interface API et playground, ainsi qu'un rapport technique. Un modèle de workflow texte-vers-image ComfyUI Krea 2 Turbo accompagnait ces ressources, offrant un point d'entrée nommé pour un workflow en local. Les pages liées n'ont pas fait l'objet d'une vérification indépendante ; la disponibilité exacte, les licences et les affirmations techniques restent donc non vérifiées.",
+ "title": "Krea a publié les ressources officielles open source et de déploiement de Krea 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

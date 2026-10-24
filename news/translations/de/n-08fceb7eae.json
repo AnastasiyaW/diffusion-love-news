@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Tool hat sich von einem einfachen Previewer zu einer vollwertigen Steuerzentrale entwickelt. Hinzugekommen sind abtrennbare Unterstützung für mehrere Monitore, das Durchfahren von Sequenzen über eine Zeitleiste sowie das Parameters Panel für die direkte Bearbeitung von Nodes im Viewer.",
+ "id": "n-08fceb7eae",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die private Nutzung bleibt kostenlos, für kommerzielle Nutzung ist eine Lizenz der bEpic GmbH erforderlich; das Tool gilt in ComfyUI als Standard für die professionelle Qualitätskontrolle.",
+ "source_sha256": "6e2f80cfb6677314416b35b87e4c32f60cc7b5fe6bff4f7856b58f6a57d83582",
+ "summary": "Ein leistungsstarkes Werkzeug zur visuellen Inspektion und zum Vergleich für ComfyUI, ausgelegt auf professionelle Review-Workflows im Stil von VFX-Produktionen. Es bietet Belichtungsanpassung in Echtzeit, RGB-Kanalisolation und fortgeschrittene Snapshot-Versionierung.",
+ "title": "bEpic Viewer Professional ComfyUI Review Suite",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

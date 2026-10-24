@@ -1,0 +1,11 @@
+{
+ "id": "n-1b9a2f0f92",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "获取以 MIT 许可证分发的开放权重模型检查点及社区量化分片。\n\n在为稀疏激活和压缩键值缓存（KV cache）配置的 MoE 兼容推理引擎上部署该模型，支持百万 token 级别的上下文窗口。\n\n将开发者工具框架连接到模型端点，并集成官方提供的 Search 和 Fetch API，以实现网页信息落地（web grounding）。\n\n使用支持压缩 KV 缓存管理的服务框架进行部署，以在长上下文会话中保持可接受的内存占用。\n\n将该检查点与 DeepSeek Harness 等专用开发者工具框架搭配使用，以利用更短的输出冗长度和更快的终端执行速度。",
+ "source_sha256": "e5c179ab62faf138134aa40424dbbcbda7406b7282a81cf662e6ad76eebc5562",
+ "summary": "DeepSeek 以 MIT 许可证发布了 V4.1-Flash-1017 开放权重检查点，针对终端任务、代码工作流以及缩短输出长度，优化了混合专家（mixture-of-experts）稀疏路由。",
+ "title": "DeepSeek 发布 V4.1-Flash-1017 开放权重模型，优化智能体工具调用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras el lanzamiento de la versión 2.0, el motor añadió SparkXr para compatibilidad inmersiva con WebXR y skinning por combinación lineal de carácter experimental para splats animados. Pasó de ser un renderizador sencillo a una plataforma de streaming completa para mundos 3D compuestos.",
+ "id": "n-110bebc860",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Presenta un formato de archivo .RAD personalizado que admite solicitudes HTTP Range para la carga progresiva, y un constructor de LoD desarrollado en Rust para procesar miles de millones de splats.",
+ "source_sha256": "120c6fa8d811db4544383d46cfa5dcb91084b7a59fdf441cdbda9b970848451d",
+ "summary": "Spark 2.0 es un motor de renderizado web de alto rendimiento desarrollado por World Labs para escenas masivas de 3D Gaussian Splatting. Implementa Level-of-Detail (LoD) jerárquico y el formato transmisible .RAD para visualizar entornos con miles de millones de splats en tiempo real.",
+ "title": "Spark 2.0: motor de renderizado web a gran escala para Gaussian Splatting",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

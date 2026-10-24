@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "После приобретения Astro компанией Cloudflare в начале 2026 года Flue превратился в платформу, нативно работающую в экосистеме Cloudflare и использующую Workers AI и R2. Сейчас он поддерживает Model Context Protocol (MCP) и включает специализированные паттерны для автономных CI/CD-workflow.",
  "id": "n-99e3cb59c2",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Использует конфигурацию на основе Markdown (AGENTS.md) для поведения агентов и поддерживает высокоскоростную виртуальную изоляцию через just-bash.",
- "source_sha256": "legacy",
- "summary": "Headless TypeScript-фреймворк от команды Astro для построения и развёртывания автономных AI-агентов. Использует архитектуру 'agent harness' для объединения LLM с программируемой логикой и виртуальными изолированными окружениями.",
- "title": "Flue — TypeScript-фреймворк для автономных AI-агентов",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Использует конфигурацию на основе Markdown (AGENTS.md) для описания поведения агентов и поддерживает высокоскоростные виртуальные песочницы на базе just-bash.",
+ "source_sha256": "36751fe12b42059dac24099fafc0c4f5981ab45481830b99c27b44134c60ae90",
+ "summary": "Headless-фреймворк на TypeScript от команды Astro, предназначенный для создания и развёртывания автономных ИИ-агентов. Он использует архитектуру «agent harness», которая объединяет LLM с программируемой логикой и виртуальными изолированными песочницами (sandbox).",
+ "title": "Flue — TypeScript-фреймворк для автономных ИИ-агентов",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

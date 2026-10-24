@@ -1,0 +1,10 @@
+{
+ "id": "n-f0c1036242",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0b55e01089dbf8798126dbbdbafc0b2c3fd56b72c64bafe77cc2647acdd45c8b",
+ "summary": "Am 24.08.2026 wurde die Entwicklungslinie MiniMax-H3 x Z-Image mit Hugging-Face-Links für ein natives Repository und ein GGUF-Repository in Verbindung gebracht. Dies ist ein wesentlicher Verbreitungsschritt, da er zwei Zugangspunkte für Modellformate benennt; die verfügbare Quelle belegt jedoch weder deren Veröffentlichungsstatus, Inhalte noch Kompatibilität.",
+ "title": "MiniMax-H3 x Z-Image: Native- und GGUF-Repositories verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

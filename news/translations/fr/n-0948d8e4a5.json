@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Depuis sa publication avec l'article en mars 2026, le projet a évolué vers l'intégration dans un écosystème. Les priorités actuelles de la feuille de route comprennent l'intégration d'ARC-Chapter pour réduire les coûts de calcul, un mode de lecture sélective des rushes à faible coût, et la prise en charge future de Claude Code MCP.",
+ "id": "n-0948d8e4a5",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le système utilise LiteLLM pour l'orchestration des modèles et extrait les temps forts musicaux (beats) ainsi que les signaux d'énergie afin que les montages suivent les changements rythmiques.",
+ "source_sha256": "1070f63ecdcc26b9572a2da5a02aad606445178f593c37d27ec4814b19dda105",
+ "summary": "CutClaw est un cadre multi-agents de bout en bout qui automatise le montage de rushes vidéo de plusieurs heures en courts formats synchronisés sur la musique. Il s'appuie sur un pipeline d'agents spécialisés — Playwriter, Editor et Reviewer — chargés de la planification narrative et de l'alignement rythmique.",
+ "title": "CutClaw : montage vidéo multi-agents et agentique synchronisé sur la musique",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

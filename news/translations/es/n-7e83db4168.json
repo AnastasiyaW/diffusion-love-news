@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó desde Qwen2.5-Coder hacia un ecosistema agéntico completo que incorpora 'Thinking Mode' para razonamiento y soporte multimodal nativo para la comprensión de interfaces de usuario y diagramas.",
+ "id": "n-7e83db4168",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Admite Model Context Protocol (MCP) y maneja ventanas de contexto masivas de hasta 1 millón de tokens para bases de código de gran escala.",
+ "source_sha256": "fe0c96d18c76851d37a765af9f8fc6b1f9aad46ae6d1d72baab800752454a459",
+ "summary": "Un agente de IA de código abierto basado en terminal y una familia de modelos especializada en ingeniería de software. Automatiza tareas complejas a nivel de repositorio, como depuración, refactorización y análisis multimodal de documentación.",
+ "title": "Qwen Code: agente de programación autónomo basado en IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

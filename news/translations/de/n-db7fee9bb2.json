@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt hat eine Integration des Model Context Protocol (MCP), Docker-Unterstützung und einen vereinfachten CLI-Installationsprozess eingeführt. Aktuelle Updates konzentrieren sich auf komplexe emotionale Modellierung durch spezifische Zähler für Vertrauen, Anziehung und Gereiztheit.",
+ "id": "n-db7fee9bb2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unterstützt sowohl MTProto-Userbots als auch die standardmäßige Telegram Bot API.",
+ "source_sha256": "b5f20b19fa4f78308bdde645ff9657e5f90db4296398530ce42e2b1b7c0df5c8",
+ "summary": "girl-agent ist ein Open-Source-Framework, das realistische KI-Persönlichkeiten in Telegram simulieren soll. Es bietet menschenähnliche Tagesabläufe und sich entwickelnde Beziehungsdynamiken. Standardmuster klassischer KI-Assistenten werden bewusst vermieden; stattdessen steht autonomes Charakterverhalten im Vordergrund, einschließlich Schlafmustern und emotionaler Stimmungszustände.",
+ "title": "girl-agent: Personality-First Telegram-KI-Persona-Engine",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

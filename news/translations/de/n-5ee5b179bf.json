@@ -1,0 +1,10 @@
+{
+ "id": "n-5ee5b179bf",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "86a0ef3fd7693f898b572cb18b714fb069fb1656b42855ce4c155bae13191562",
+ "summary": "Am 26.07.2026 verlinkte ein datierter Eintrag die Projektwebseite von UniD und das zugehörige GitHub-Repository. Dies schafft einen öffentlichen Referenzpunkt für das Projekt und dessen Quellcode-Standort zu diesem Zeitpunkt. Die verfügbaren Belege nennen weder ein Release, ein Paper, ein Modell noch eine Funktionsänderung, weshalb keine solchen Aussagen aufgenommen wurden.",
+ "title": "Projektseite und Quellcode-Repository von UniD wurden öffentlich verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-32e036715e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d7ef66d469ed1e4d7b26b631d152e6e1483bb8fdac8fac7a3161a015bbc46a7",
+ "summary": "El 17 de agosto de 2026, el registro fechado enlazó el modelo TeraTTSv2 en Hugging Face y un space de demostración de TeraTTS. También relacionó este conjunto de referencias con dos proyectos de GitHub sobre clonación y mezcla de voces basadas en Supertonic. El registro disponible establece los enlaces contemporáneos, pero no una publicación, un cambio de funcionalidades, un benchmark ni una relación técnica más allá de ellos.",
+ "title": "TeraTTSv2 se documentó con enlaces a su modelo, demo y herramientas de voz relacionadas",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

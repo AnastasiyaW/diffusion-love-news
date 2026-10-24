@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Il a officiellement succédé à DALL-E 3 ; OpenAI a retiré l'ensemble de la marque DALL-E le 12 mai 2026 afin de regrouper la génération d'images au sein de l'architecture multimodale GPT. Il est actuellement en tête du classement Image Arena.",
+ "id": "n-af7e0341d4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Premier modèle de génération d'images doté d'une étape de raisonnement native pour la planification spatiale complexe et l'auto-correction. Disponible via l'API sous le nom gpt-image-2.",
+ "source_sha256": "37f1c01e524093c901a3588d281c1436d768dd3840912ab4658c31006b29ecf4",
+ "summary": "Un modèle fondation multimodal unifié d'OpenAI, publié en avril 2026, qui a remplacé la série DALL-E. Il introduit un raisonnement natif (« Thinking Mode »), une typographie quasi parfaite dans plusieurs systèmes d'écriture et la prise en charge native de la résolution 4K.",
+ "title": "GPT Image 2 (OpenAI)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

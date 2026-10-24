@@ -1,0 +1,11 @@
+{
+ "id": "n-6398af54be",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "추론 코드와 게이트가 걸린 FP8/NF4 가중치가 공개되었고, 텍스트, 팔레트, 바운딩 박스 레이아웃에 대한 구조화된 JSON 제어를 지원한다. ComfyUI는 출시 당일 지원을 발표했다.",
+ "source_sha256": "012cfceaf4d2265756ce07cb4721efee917aa55566b6098048e670c8d5e55983",
+ "summary": "2026-06-04 날짜가 붙은 링크 모음은 Ideogram 4를 소스 저장소, 여러 모델 배포본, ComfyUI 통합 발표와 연결했다. 배포와 통합 경로를 동시에 기록했다는 점에서 의미 있는 진전이다. 이 링크들은 정밀도가 낮은 변형과 변환 용도로 표시된 변형도 가리키지만, 이들의 정확한 상태나 동작은 확정하지 않는다.",
+ "title": "Ideogram 4 소스, 모델 변형, ComfyUI 통합이 기록되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

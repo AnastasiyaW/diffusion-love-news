@@ -1,0 +1,11 @@
+{
+ "id": "n-088aac8506",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ouvrez un projet dans l'éditeur Canva et sélectionnez Dream Lab dans les outils du panneau latéral.\n\nSaisissez une invite descriptive détaillant le sujet, la composition et le style visuel souhaités.\n\nVous pouvez éventuellement importer une image de référence de style ou appliquer des préréglages esthétiques pour guider le rendu visuel.\n\nGénérez des propositions visuelles et placez l'image retenue directement sur le canevas en tant qu'élément de mise en page modifiable.\n\nFournissez des images de référence avec les invites textuelles pour ancrer des palettes esthétiques de marque et une structure de mise en page spécifiques.\n\nUtilisez des modèles natifs entraînés sur des modèles de mise en page pour des mises en page commerciales structurées, lorsque la hiérarchie spatiale et le placement du texte priment sur les photographies de stock photoréalistes.",
+ "source_sha256": "4a53a487f5283a172c8a8c53feaa3c9048926f8e295cf047232cfb2b4d66b8dd",
+ "summary": "Canva déploie Dream Lab sur l'ensemble de sa plateforme, en s'appuyant sur la technologie de Leonardo.ai, et présente Craft, un modèle de fondation propriétaire optimisé pour les mises en page de modèles et le rendu en 2K.",
+ "title": "Canva lance Dream Lab et Craft, son premier modèle de génération d'images maison",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

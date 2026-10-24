@@ -1,0 +1,10 @@
+{
+ "id": "n-412ff5547f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5edfbeb8389399bec9844a7d761f1b2dd20affa1e73653fe39f31c7488da0f6b",
+ "summary": "2026年8月14日，谷歌发布了一篇官方公告，介绍 Gemini 3.7 Flash，并附上一个在 AI Studio 中选择该模型的提示词链接。这是一次重要的模型发布和开发者可用性推进。所提供的链接无法确定该模型的最终状态、使用限制或地区可用性。",
+ "title": "谷歌推出 Gemini 3.7 Flash，登陆 AI Studio",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

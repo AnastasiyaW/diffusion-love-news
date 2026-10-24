@@ -1,0 +1,10 @@
+{
+ "id": "n-b977739627",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "70df76e9a127769dc579cc402c73aa3fedaf03d7665573f2945db9767e50d258",
+ "summary": "2026年3月18日，Zeta-Chroma 开发线记录了一个指向项目 Hugging Face 仓库中 Safetensors 工件的链接。所附的社交媒体和仓库讨论链接将该条目与同一项目线相关联。所提供的链接并不能确定该工件的能力、训练方式、许可或发布条款。",
+ "title": "Zeta-Chroma 基础模型工件已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-3b15326fe8",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c2fc8c5fde2a90ae81948e94e09b72457e292cecf0389dc034995fc95845a4e3",
+ "summary": "El 11 de agosto de 2026, el hilo de Muse asoció Muse Glimmer con tres URL de Hugging Face: un repositorio de modelo llamado Muse-Glimmer-30B, una página de modelos cuantizados basados en él y un Space que lleva su nombre. En conjunto, los enlaces con fecha documentan una página de modelo y referencias relacionadas de cuantización y de Space visibles en esa fecha. No establecen la fecha de lanzamiento del modelo, sus capacidades, su titularidad ni si el mensaje anunciaba un cambio nuevo.",
+ "title": "Se registraron referencias de Hugging Face para Muse Glimmer 30B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

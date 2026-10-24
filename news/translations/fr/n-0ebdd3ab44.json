@@ -1,0 +1,10 @@
+{
+ "id": "n-0ebdd3ab44",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e6a2d2ee118853ff921e0d2e78e7833774610a6f19d5bc67ec2a7061ba8099a8",
+ "summary": "Le 14 août 2026, MiniMax Music 3 a été documenté via des ressources liées : code source, modèle, guide de génération musicale, démo et ComfyUI. L'ensemble de liens daté reliait le projet entre GitHub, Hugging Face, la plateforme MiniMax et ComfyUI. C'est important, car cela marque une étape de développement public avec plusieurs points d'entrée pratiques pour le projet.",
+ "title": "MiniMax Music 3 dispose désormais de points d'entrée publics : projet, modèle, plateforme, démo et ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

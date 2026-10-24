@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im Februar 2026 von Foundry übernommen. Das Projekt entwickelte sich von einem allgemein einsetzbaren KI-Agenten-Framework in Python zur zentralen Infrastrukturschicht für Foundrys KI-first-Strategie im VFX-Bereich und für die Nuke-Integration.",
+ "id": "n-ebeab9837a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integriert VOID zur automatisierten Clean-Plate-Erzeugung und SAM3.1 für Echtzeit-Tracking mehrerer Objekte (Object-Multiplex-Architektur).",
+ "source_sha256": "8975201a98c982097726691084af3761fffdd4fc79f3cf7d83913cd82226f13d",
+ "summary": "Ein Framework und eine visuelle Orchestrierungsplattform zum Aufbau komplexer KI-Pipelines in der professionellen visuellen Effekterstellung. Sie ermöglicht knotenbasierte Workflows für fortgeschrittene Modelle wie Netflixs VOID für Video-Inpainting und Metas SAM3.1 für Hochgeschwindigkeits-Segmentierung.",
+ "title": "Griptape-KI-Orchestrierungsplattform für VFX",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

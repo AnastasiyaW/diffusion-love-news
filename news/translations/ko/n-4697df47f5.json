@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 CVPR 2026에 채택되었으며, MLLM의 시점 추론을 평가하기 위해 특별히 설계된 벤치마크 ViewBench를 소개했습니다. 논문 발표 이후 공식 추론 코드와 벤치마크 데이터셋이 공개되었습니다.",
+ "id": "n-4697df47f5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "KAIST Visual AI Group이 개발했으며, 의미적 일관성을 유지하면서도 깊이 추정 오류에 강건하도록 역방향 토큰 워핑(backward token warping)을 사용합니다.",
+ "source_sha256": "470662e6ecc753009aa0c54ab45e03c0ecee920e05432296826570106ac6cf2a",
+ "summary": "Vision Transformer 내부의 이미지 토큰을 워핑(warping)하여 Multimodal Large Language Model이 서로 다른 시점을 추론할 수 있도록 하는 학습 없는(training-free) 연구 프로젝트입니다. 이러한 기하학적 조작 방식을 통해 추가적인 fine-tuning 없이도 모델이 공간 추론과 mental rotation을 수행할 수 있습니다.",
+ "title": "MLLM 시점 이해를 위한 토큰 워핑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "HyDRA 于 2026 年 3 月发布,基于 Wan2.1-T2V-1.3B 架构构建,并引入了 HM-World 数据集,用于训练模型处理复杂的目标重入场景。",
+ "id": "n-09ee25f7d5",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该项目包含一个运动感知记忆分词器,并特别针对自动驾驶模拟器和具身智能(Embodied AI)世界模型进行了优化。",
+ "source_sha256": "0548b801e3538dc55c0432006be5380d131fcf7bf08d3b35c2abba0a4d46c77f",
+ "summary": "HyDRA 是一种面向视频生成的专用记忆架构,可确保稳定的目标跟踪与重新出现时的一致性。它采用时空检索机制,即使主体移出画面或被遮挡,也能“记住”这些主体。",
+ "title": "HyDRA:面向动态视频世界模型的混合记忆",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

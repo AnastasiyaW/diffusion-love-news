@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2024년 말 작업 중이던 임시 도구에서 출발하여 2026년 초에는 프로덕션 환경에 적합한 제품군으로 발전했습니다. v2.0 리팩터링에서는 분리된 플로팅 뷰어(MFV), 백엔드/프론트엔드 분리, 대규모 에셋 컬렉션을 위한 최적화된 SQLite 색인 기능이 도입되었습니다.",
+ "id": "n-ff03e5bf7b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "개인정보 보호와 속도에 매우 최적화되어 있으며, 모든 색인 생성 및 검색 기능은 SQLite FTS5를 사용해 100% 로컬에서 실행됩니다.",
+ "source_sha256": "af4ccbf2763f1a6f32d77e0bb5bde3b690a6023e8f98dfcadf98b3a1d2254da2",
+ "summary": "로컬 ComfyUI 생성 결과물을 색인하여 즉각적인 검색과 워크플로 복구를 지원하는 고성능 에셋 브라우저 및 관리 제품군입니다. 심층 메타데이터 분석 기능을 갖추고 있어, 사용자는 에셋을 탐색하고 평가하며, 캔버스로 직접 드래그하여 정확한 노드 그래프를 복원할 수 있습니다.",
+ "title": "ComfyUI용 Majoor Assets Manager",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

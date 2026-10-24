@@ -1,0 +1,10 @@
+{
+ "id": "n-29022e4fd2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ed69c599d59fff09b74724c1cb714a390e3284d0c94b48d20a673c79165c1898",
+ "summary": "Am 20.08.2026 wurde ein Link zu einem Hugging-Face-Repository geteilt, das ein Artefakt namens Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF enthält. Der datierte Link belegt ein eigenständiges, benanntes Artefakt in der Reihe der Qwen-Derivate, legt jedoch für sich genommen weder dessen technische Änderungen, Herkunft noch Leistung fest.",
+ "title": "Qwen3.8-27B-Cold-Fusion-GGUF-Artefakt verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

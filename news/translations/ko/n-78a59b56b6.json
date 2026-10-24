@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026 하이라이트 논문으로 선정되었으며, 14개의 전문화된 과제로 구성된 Persona-MME 벤치마크를 도입했고, 장기 기억 시나리오에서 GPT-4o보다 우수한 성능을 입증했다.",
+ "id": "n-78a59b56b6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "난징대학교(MiG-NJU)와 ByteDance의 공동 프로젝트이며, 에피소드 기억(episodic memory)과 절차 기억(procedural memory)을 포함한 다계층 메모리 아키텍처를 활용한다.",
+ "source_sha256": "342cd6ecd703b017b8231fc341c22e1566b134402d97dd1c0331e8f55f327851",
+ "summary": "Momentum 기반 성격 진화 메커니즘(Momentum-based Personality Evolving Mechanism)을 활용하여 멀티모달 대규모 언어 모델을 장기적으로 개인화하는 프레임워크다. 이를 통해 AI 어시스턴트가 사용자의 특성을 능동적으로 학습하고 다중 턴 상호작용 전반에서 일관성을 유지할 수 있다.",
+ "title": "PersonaVLM: 개인화된 멀티모달 대규모 언어 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

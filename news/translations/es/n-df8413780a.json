@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de herramientas sencillas para añadir ruido a un motor sofisticado para flujos de trabajo RAW/DNG, que incluye la modelización auténtica del ruido de sensor (ruido de disparo y de lectura, Shot y Read) y preajustes profesionales de metadatos de cámara.",
+ "id": "n-df8413780a",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye herramientas diseñadas específicamente para que las imágenes generadas por IA parezcan fotografías auténticas y así eludir las firmas de detección de IA.",
+ "source_sha256": "64cf4e3eb354811927f7a7bab7effbd9266141313ab08fa92e92d51d770833c9",
+ "summary": "Un conjunto de nodos de ComfyUI para el posprocesado avanzado, la manipulación de imágenes RAW y la simulación de ruido de sensor. Facilita los flujos de trabajo de fotografía profesional al admitir la salida en DNG y la integración de metadatos EXIF específicos de cada cámara.",
+ "title": "ComfyUI-zveroboy-photo para flujos de trabajo RAW y fotorrealismo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

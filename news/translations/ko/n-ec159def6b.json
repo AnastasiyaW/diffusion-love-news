@@ -1,0 +1,10 @@
+{
+ "id": "n-ec159def6b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d82b37571103756d7ad6a4aac3ed363fd4bfd1e3b8aeef98d1a71f4173f032d0",
+ "summary": "2026-03-15에 ID-LoRA는 프로젝트 웹사이트, 소스 저장소, 모델 관련 호스팅 프로필을 연결했습니다. 이는 독자들을 프로젝트의 주요 리소스로 안내한다는 점에서 프로젝트 개발 이력상 의미 있는 공개 가용성 단계입니다. 날짜가 기재된 링크만으로는 특정 릴리스, 버전, 기능 또는 라이선스를 확인할 수 없습니다.",
+ "title": "ID-LoRA 공개 프로젝트 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

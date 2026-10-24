@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 메모리 중심 프레임워크에서 3D 메모리 시각화와 자율 워크플로 오케스트레이션을 갖춘 포괄적인 'Digital Partner' 생태계로 전환되었습니다.",
+ "id": "n-dd8d68b69f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Mr. Freeman의 제작자인 Pavel Muntyan이 만들었으며, 모든 데이터가 로컬 SQLite 데이터베이스에 보관되는 '설계 단계부터의 주권(sovereign-by-design)' 접근 방식을 강조합니다.",
+ "source_sha256": "81c3fb5dc215544b503288d04fdd39a8e62621e8c9c00f6b606e54256fc0f476",
+ "summary": "계층형 3D 지식 그래프와 대화 롤업(rollup)을 활용해 장기 메모리를 관리하는 오픈소스, 로컬 우선(local-first) AI 에이전트 오케스트레이터입니다. 데이터 프라이버시를 우선시하며, Model Context Protocol을 통해 여러 LLM 제공자를 지원합니다.",
+ "title": "MF0-1984: 멀티모달 AI 에이전트를 위한 장기 메모리",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

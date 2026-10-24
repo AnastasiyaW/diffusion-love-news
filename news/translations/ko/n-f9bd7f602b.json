@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Meta의 TRansformative Inference for Behavioral Evaluation(TRIBE) v2 프레임워크를 기반으로 하며, 이 도구에는 로컬 Whisper 전사 기능과 Ollama 기반의 크리에이티브 전략 편집 권장 사항이 포함되어 있습니다.",
+ "id": "n-f9bd7f602b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "NVIDIA GPU(VRAM 6GB 이상)와 Windows 환경이 필요합니다. 바이럴 영상의 훅과 구조적 패턴을 역설계하도록 특별히 설계되었습니다.",
+ "source_sha256": "490a94b437ac6dfb6a8b6c2656665dcdde1c76b6699aeb7dd856c95d89d73c5c",
+ "summary": "Meta 동영상 광고를 분석하기 위한 로컬 웹 애플리케이션으로, TRIBE v2 행동 추론 모델을 사용합니다. 원시 뇌 반응 예측 결과를 시각적 검토 형식으로 변환하여 영상 구조와 크리에이티브 훅을 최적화하는 데 도움을 줍니다.",
+ "title": "TRIBE Review MVP",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

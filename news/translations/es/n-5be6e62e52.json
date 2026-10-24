@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado a principios de 2026, el proyecto introdujo una codificación latente no compresiva y una memoria de nube de puntos basada en visibilidad para resolver el emborronamiento estructural en la reconstrucción 3D de vistas dispersas.",
+ "id": "n-5be6e62e52",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aprovecha el modelo base Wan2.1 I2V 14B y reporta una aceleración de la inferencia de 10-20x frente a los baselines anteriores del estado del arte.",
+ "source_sha256": "9a1eb4c10bbed39eb75871ebb0eee332bd5d7281491190c233c0c1674f647556",
+ "summary": "AnyRecon es un marco para la reconstrucción 3D de objetos de alta calidad a partir de conjuntos dispersos y desordenados de fotografías. Utiliza un modelo de video diffusion y una memoria global de escena para mantener la consistencia geométrica entre puntos de vista arbitrarios.",
+ "title": "AnyRecon: reconstrucción 3D desde vistas arbitrarias con video diffusion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

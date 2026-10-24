@@ -1,0 +1,10 @@
+{
+ "id": "n-3efc7bc4ce",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c6bea20727bd8d5990a8870f437b221f5d91b0a1b38b17113414f16ef74fe7f4",
+ "summary": "Le 2026-07-04, la ligne de développement suivie a reçu un lien vers une page officielle de Disney Research associée aux Neural Render Proxies. La page liée est datée du 2026-07-01 et identifie l'éclairage interactif et différentiable comme contexte. Cet élément est consigné comme une référence matérielle pour le projet en cours de développement, sans affirmer de détails techniques non vérifiés.",
+ "title": "Référence Disney Research pour les Neural Render Proxies",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

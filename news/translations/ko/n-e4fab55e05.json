@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "PlayCanvas 기반으로 v2.0을 재구축한 이후, 플랫폼은 SOG 압축과 LOD 스트리밍을 도입했습니다. v2.2와 v2.3의 최신 업데이트에서는 Image-to-Splat 생성, 3D 측정 도구, 임베드 가능한 NPM 뷰어가 추가되었으며, 호환성을 위해 기존 장면을 다시 내보내야 하도록 변경되었습니다.",
+ "id": "n-e4fab55e05",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "파일 크기를 줄이기 위한 독자적 SOG 압축을 포함하며, 4D 가우시안 스플래팅 재생을 지원합니다.",
+ "source_sha256": "ecf04409db9b04241bf19bb32320495c0d249634db28d1b65477ca5af43dd41a",
+ "summary": "가우시안 스플래팅(Gaussian Splatting) 기술을 사용해 인터랙티브 3D 장면을 만들고, 호스팅하고, 임베드할 수 있는 웹 기반 플랫폼입니다. PlayCanvas 기반 엔진을 탑재해 LOD 스트리밍, 동적 조명, 그리고 캡처된 환경 내부에서의 1인칭 탐색을 지원합니다.",
+ "title": "StorySplat v2.3: 인터랙티브 3D 가우시안 스플래팅 에디터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

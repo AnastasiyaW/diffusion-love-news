@@ -1,0 +1,11 @@
+{
+ "id": "n-088aac8506",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Öffnen Sie ein Projekt im Canva-Editor und wählen Sie in der seitlichen Werkzeugleiste Dream Lab aus.\n\nGeben Sie einen beschreibenden Prompt ein, der das gewünschte Motiv, die Komposition und den visuellen Stil festlegt.\n\nOptional können Sie ein Stilreferenzbild hochladen oder ästhetische Voreinstellungen anwenden, um die visuelle Ausgabe zu steuern.\n\nGenerieren Sie visuelle Kandidaten und platzieren Sie das ausgewählte Bild direkt auf der Arbeitsfläche als bearbeitbares Layoutelement.\n\nStellen Sie Referenzbilder zusammen mit den Textprompts bereit, um bestimmte Markenästhetik-Paletten und die Layoutstruktur zu verankern.\n\nVerwenden Sie vorlagentrainierte native Modelle für strukturierte kommerzielle Layouts, bei denen räumliche Hierarchie und Textplatzierung wichtiger sind als fotorealistische Stockfotos.",
+ "source_sha256": "4a53a487f5283a172c8a8c53feaa3c9048926f8e295cf047232cfb2b4d66b8dd",
+ "summary": "Canva hat Dream Lab auf seiner gesamten Plattform eingeführt. Dabei kommt Technologie von Leonardo.ai zum Einsatz. Außerdem stellt Canva Craft vor, ein proprietäres Foundation-Modell, das für Vorlagenlayouts und 2K-Rendering optimiert ist.",
+ "title": "Canva veröffentlicht Dream Lab und das erste eigene Bildgenerierungsmodell Craft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

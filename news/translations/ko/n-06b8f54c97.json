@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "정적 이미지 디퓨전 미세 조정에서 비디오 생성 모델로 적용 범위를 확장하는 중이며, 전체 학습 코드와 다중 노드 스크립트를 공개하고 있습니다.",
+ "id": "n-06b8f54c97",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "DiffusionNFT를 기반으로 구축되었으며, 상충하는 보상 그래디언트를 조화시키기 위해 Multiple Gradient Descent Algorithm(MGDA)을 사용합니다.",
+ "source_sha256": "2b82737cd05a9285b97a889994964999a133a006aba6cd9002e05afd87c53056",
+ "summary": "MARBLE은 여러 품질 기준을 동시에 균형 있게 반영하여 디퓨전 모델을 미세 조정하도록 설계된 강화학습 프레임워크입니다. 수동 보상 가중치 설정을 그래디언트 공간 조화(gradient-space harmonization)로 대체하여, 단일 학습 실행에서 미적 품질, 텍스트 정합성, 안전성을 함께 개선합니다.",
+ "title": "MARBLE: 다측면 디퓨전 정렬을 위한 강화학습 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

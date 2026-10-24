@@ -1,0 +1,10 @@
+{
+ "id": "n-4f107b5ebf",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "beffbe4d9d3b890b56d2176e0a8113f7a210038615fab3ff0eb12d48c7dde473",
+ "summary": "El 2026-03-25, un registro fechado quedó vinculado a una página de Hugging Face para esta línea de modelos GGUF. La URL proporciona una referencia pública concreta de distribución bajo la cuenta mradermacher. El enlace fechado por sí solo no establece la procedencia, el contenido, la disponibilidad ni los cambios técnicos del modelo.",
+ "title": "Referencia en Hugging Face registrada para la línea de modelos GGUF",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

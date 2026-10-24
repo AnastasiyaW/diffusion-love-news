@@ -1,0 +1,10 @@
+{
+ "id": "n-d4f7f53653",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0bcd9ede72e069a073288842f649dda6f269c633151f78db684498024a3312de",
+ "summary": "Am 24.06.2026 wurden die Repositories Qwopus3.6-27B-v2-GGUF und Qwopus3.6-27B-v2-FP8 als Teil der Linie Qwopus3.6-27B-v2 verlinkt. Dies stellt einen wesentlichen Verteilungsschritt dar, da benannte Artefakte in zwei inferenzorientierten Formaten verfügbar gemacht wurden. Ein zeitgleicher Der aufgezeichnete Link begleitete die Repository-Links, seine Inhalte wurden jedoch nicht geprüft.",
+ "title": "Qwopus3.6-27B-v2-Artefakte in GGUF- und FP8-Repositories veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

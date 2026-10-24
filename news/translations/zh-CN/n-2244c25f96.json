@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "TVP 框架于 2026 年初短暂发布，随后官方代码库和论文在进一步修订期间被撤下。其核心技术此后被整合进 DeepSeek-V4 基础模型，目前为其高精度空间推理功能提供支持。",
+ "id": "n-2244c25f96",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了压缩稀疏注意力（Compressed Sparse Attention，CSA），实现了 7056x 的视觉压缩比，将视觉 KV 缓存的占用降低至每张图像约 90 个 token。",
+ "source_sha256": "1528f2bcf3989a45dbe844dee16ab90fb9548fd65a9eac8252a890f132256438",
+ "summary": "一种视觉-语言框架，将空间坐标和边界框以离散 token 的形式穿插于模型的思维链（Chain-of-Thought）推理过程中。它弥合了多模态模型中的“指代鸿沟”（Reference Gap），使模型能够为复杂视觉任务提供精确的空间定位与长篇幅推理能力。",
+ "title": "DeepSeek TVP：以视觉原语进行思考（Thinking with Visual Primitives）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

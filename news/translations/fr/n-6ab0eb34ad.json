@@ -1,0 +1,10 @@
+{
+ "id": "n-6ab0eb34ad",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3ed5a9d649b9b582c97f0f4363ae395b19d91c18a1e2a41cbb1c67ed780dff83",
+ "summary": "Le 2026-03-20, un message daté renvoyait vers le dépôt GitHub de S3T-Former. Cela établit une référence publique au code du projet, contemporaine de l'événement, mais les éléments disponibles n'identifient ni version publiée, ni version d'article, ni résultat de benchmark, ni modification de code précise. L'entrée d'historique ne doit donc consigner que la disponibilité du dépôt.",
+ "title": "Le dépôt source de S3T-Former a été partagé",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

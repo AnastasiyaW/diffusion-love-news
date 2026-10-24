@@ -1,0 +1,11 @@
+{
+ "id": "n-1b28d58410",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ermitteln Sie die aktuelle Version der selbst verwalteten GitLab-Instanz, indem Sie das Administrations-Dashboard prüfen oder auf dem Host gitlab-rake gitlab:env:info ausführen.\n\nWählen Sie das passende Patch-Ziel für die aktive Versionslinie: Aktualisieren Sie 19.5.x auf 19.5.1, 19.4.x auf 19.4.3, 19.3.x auf 19.3.6, 19.2.x auf 19.2.9, 19.1.x auf 19.1.9, 19.0.x auf 19.0.10 oder ältere Versionen von 7.0 bis 18.11.x auf 18.11.13.\n\nFühren Sie den Update-Befehl des Paketmanagers oder den Pull des Container-Images aus, um den Sicherheitspatch einzuspielen, und starten Sie die GitLab-Dienste neu, damit die aktualisierten Binärdateien wirksam werden.\n\nPrüfen Sie die Logs der Puma-Worker und die Anwendungs-Fehlerlogs auf Fehler des Regular-Expression-Compilers oder auf unregelmäßige Beendigungen von Workern, um frühere Ausnutzungsversuche zu erkennen.\n\nSpielen Sie Sicherheitsreleases unverzüglich auf aus dem Internet erreichbaren, selbst verwalteten GitLab-Instanzen ein, da die unauthentifizierte Remote Code Execution weder Zugangsdaten noch eine Interaktion des Benutzers erfordert.\n\nAktualisieren Sie direkt auf das vorgesehene Patch-Release innerhalb des aktiven Minor-Versionszweigs, um unnötige Datenbankmigrationen zu vermeiden und Ausfallzeiten des Dienstes zu verringern.\n\nVerlassen Sie sich nicht allein auf Regeln der Web Application Firewall am Perimeter oder auf Konfigurationsumgehungen, da schädliche Muster für reguläre Ausdrücke über verschiedene Pfade zur Dokumentenaufbereitung verarbeitet werden können.",
+ "source_sha256": "3260980ac476416dbf01519ee745742759a4c39907daef5733d2aa1508e43e7e",
+ "summary": "GitLab hat das Notfall-Patch-Release 19.5.1 sowie Backports bis zur Version 18.11.13 veröffentlicht, um CVE-2026-110264 zu beheben, einen Integer-Overflow mit höchstem Schweregrad im Regular-Expression-Compiler, der unauthentifizierte Remote Code Execution auf selbst verwalteten Servern ermöglicht.",
+ "title": "GitLab schließt kritische unauthentifizierte RCE-Sicherheitslücke in den Versionen 7.0 bis 19.5",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

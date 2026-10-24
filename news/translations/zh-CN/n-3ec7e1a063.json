@@ -1,0 +1,11 @@
+{
+ "id": "n-3ec7e1a063",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "FLUX 3 以统一多模态模型的形式进入抢先体验（Early Access）阶段，而视频、图像、Action 和 Dev 的访问权限则分阶段单独开放。",
+ "source_sha256": "84836c0d45e3b475a45fb978674def1f7a5fa0cdcfa93a35267368e8237032b0",
+ "summary": "2026-07-24，Black Forest Labs 发布了一篇博客页面，该页面以 FLUX 3 为标识并链接了一份 Tally 表单。这是 FLUX 3 的一个重要公开开发信号，但仅凭带日期的链接，尚无法确定具体能力、发布状态或该表单的用途。",
+ "title": "Black Forest Labs 发布 FLUX 3 博客更新",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-6d500875d2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "41e0bff3a271ed512308d1e3117fa64f15258429c598ac31fb1701e57f86d75f",
+ "summary": "NVIDIA는 2026-03-11에 GDC 2026을 위한 GeForce RTX 발표문을 공개했습니다. 제공된 공식 NVIDIA 링크는 DLSS 4.5 개발 흐름에 분류되어 있으므로, 출처 단위의 검토가 이뤄질 때까지 역사적 이정표로 보존해야 합니다. 날짜가 기재된 링크만으로는 DLSS 4.5의 구체적인 기능, 출시 일정, 성능 주장을 확인할 수 없습니다.",
+ "title": "NVIDIA, GDC 2026 GeForce RTX 발표 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

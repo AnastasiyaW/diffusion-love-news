@@ -1,0 +1,10 @@
+{
+ "id": "n-64db3725b4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f0e4d03524220529f32beeaa1209481cfc261d40ef73ba9e8488ddbc39cd9d6f",
+ "summary": "2026-03-17, Ace Step 개발 스레드에 Civitai 모델 페이지가 연결되었다. 이로써 Ace Step Node Suite와 관련된 날짜가 명시된 공개 참조가 확인되지만, 제공된 근거만으로는 해당 모델의 정체, 버전, 작성자, 그리고 프로젝트에서 맡은 정확한 역할은 확인되지 않는다.",
+ "title": "Ace Step 개발 스레드에 연결된 Civitai 모델 페이지",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

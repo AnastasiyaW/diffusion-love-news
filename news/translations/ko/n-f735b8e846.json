@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2024년 11월 최초 공개 이후, 공간 가변 가우시안의 개념은 SVG-IR 프로젝트를 통해 역렌더링(inverse rendering)으로 확장되었으며, 이 프로젝트는 CVPR 2025에 채택되었다. 핵심 SVGS 구현은 표현력 있는 가우시안 프리미티브를 위한 기초 연구로서 여전히 중요한 위치를 차지한다.",
+ "id": "n-f735b8e846",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트는 2D Gaussian Surfels를 기반으로 하며, 표준 3D Gaussian Splatting에 비해 미세한 디테일 처리를 크게 개선한다.",
+ "source_sha256": "3714fd1658154fe12f911a940c742ab6b3243baf9b8e1dd75f8851004db8a605",
+ "summary": "3D 재구성과 새로운 시점 합성(novel view synthesis)의 성능을 높이기 위해 공간적으로 변하는 색상과 불투명도를 갖는 가우시안 프리미티브를 제안한다. 쌍선형 보간(bilinear interpolation)과 작은 신경망 등의 함수를 사용하여 개별 프리미티브의 표현력을 높이고 더 compact하게 만든다.",
+ "title": "SVGS: 장면 재구성을 위한 공간 가변 가우시안 스플래팅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

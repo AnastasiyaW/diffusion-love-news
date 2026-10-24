@@ -1,0 +1,10 @@
+{
+ "id": "n-1402aca572",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5ac0d2118dee3af8da445ca1fd4ac20c25a3d88da9065895929a23bad24e3144",
+ "summary": "2026-08-04, 개발 라인 메시지가 TencentCloud/TencentDB-Agent-Memory GitHub 저장소를 연결했습니다. 날짜가 기록된 이 링크는 프로젝트 관련 참조가 존재함을 보여 주지만, 원문 텍스트나 저장소 스냅샷이 제공되지 않았으므로 역사적 기록으로서 구현 방식, 릴리스 상태, 기능을 안전하게 서술할 수 없습니다.",
+ "title": "TencentDB Agent Memory 프로젝트 참조 공유",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

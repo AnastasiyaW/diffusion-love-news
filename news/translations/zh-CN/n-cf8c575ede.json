@@ -1,0 +1,10 @@
+{
+ "id": "n-cf8c575ede",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1265471d9a6940bd63505d931380fcdf195e5165fa49b22ba129531c8f84d0ec",
+ "summary": "2026-08-14，一条 SCoPE 记录关联了其项目网站、TencentARC 源代码仓库和 Hugging Face 页面。这些链接共同提供了项目信息、源代码及模型托管材料的公开入口。它们并不能确定发布日期、版本号、作者归属或模型能力。",
+ "title": "SCoPE 项目资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

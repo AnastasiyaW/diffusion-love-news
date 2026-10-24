@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "Der Nachrichtenbeitrag berichtete über Qwen-OAuth-Kontingente, Websuche, verbessertes unscharfes Bearbeiten, Modellsteuerungen, die Zed-Integration, Änderungen an Ausgabe und Suche sowie Plattformkorrekturen.",
+ "id": "n-87c78ee187",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac2bfec48aa5f7b2625bb4617647c0ed1f219b9c717a988f5f442f7777240d6b",
+ "summary": "Der Nachrichtenbeitrag berichtete über Qwen-OAuth-Kontingente, Websuche, verbessertes unscharfes Bearbeiten, Modellsteuerungen, die Zed-Integration, Änderungen an Ausgabe und Suche sowie Plattformkorrekturen.",
+ "title": "Qwen Code v0.2.1 erweitert Suche, Bearbeitung und IDE-Unterstützung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

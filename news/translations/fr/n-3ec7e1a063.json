@@ -1,0 +1,11 @@
+{
+ "id": "n-3ec7e1a063",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "FLUX 3 est entré en accès anticipé en tant que modèle multimodal unifié, tandis que les accès Video, Image, Action et Dev ont été déployés séparément.",
+ "source_sha256": "84836c0d45e3b475a45fb978674def1f7a5fa0cdcfa93a35267368e8237032b0",
+ "summary": "Le 24/07/2026, Black Forest Labs a publié une page de blog identifiée par l'URL FLUX 3 et y a associé un formulaire Tally. Il s'agit d'un signal public important concernant le développement de FLUX 3, même si les seuls liens datés ne permettent pas d'établir la capacité précise, le statut de sortie ni la finalité du formulaire.",
+ "title": "Black Forest Labs a publié une mise à jour de blog sur FLUX 3",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

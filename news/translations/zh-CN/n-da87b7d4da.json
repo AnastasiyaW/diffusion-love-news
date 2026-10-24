@@ -1,0 +1,10 @@
+{
+ "id": "n-da87b7d4da",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0d93ba883f6d057e8f4f18945caf061733a4d6cae0675bdb599464a533d64b9a",
+ "summary": "2026年3月12日,与名为 Voxtral-Realtime-WebGPU 的 Hugging Face Space 相关的开发记录出现。该带日期的链接表明,这是 Voxtral 项目面向 WebGPU 的一个演示产物,是其公开开发历程中的一个重要步骤。现有证据无法确定该演示的模型版本、功能特性、发布状态,也无法确定除所链接资源之外的作者信息。",
+ "title": "Voxtral Realtime WebGPU 演示已有文档说明",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

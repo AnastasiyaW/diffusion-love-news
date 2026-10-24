@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "LongCat-Next는 LongCat-Flash 시리즈에서 발전했으며, 언어 중심 방식에서 진정한 통합 any-to-any 패러다임으로 전환했습니다. dNaViT 시각 토크나이저를 탑재했고, 저지연 음성 복제와 고충실도 미디어 생성을 지원합니다.",
+ "id": "n-5d03d1bfa4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "DiNA(Discrete Native Autoregression) 패러다임을 활용하며, 기술적 세부 사항은 arXiv 보고서 2603.27538에 기술되어 있습니다.",
+ "source_sha256": "90815d0592f8500f58a6350f5da245b89ddd022ce825e9eec07c595e3e1fa591",
+ "summary": "LongCat-Next는 텍스트, 이미지, 오디오를 공유된 이산 토큰 집합으로 통합하는 any-to-any 네이티브 멀티모달 모델입니다. Meituan이 개발했으며, Mixture-of-Experts 아키텍처를 사용해 다양한 데이터 유형에 걸쳐 끊김 없는 이해와 생성을 수행합니다.",
+ "title": "LongCat-Next: 네이티브 멀티모달 MoE AI 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

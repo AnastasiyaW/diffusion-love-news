@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto presentó CreativePSD, el primer conjunto de datos a gran escala basado en Photoshop con trazas de operaciones. Fue más allá de la generación de caja negra hacia una arquitectura modular (AssetCollector, GraphicPlanner, ToolExecutor) y fue aceptado en CVPR 2026.",
+ "id": "n-da24004da2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Presentó el conjunto de datos CreativePSD para que los modelos aprendan los procedimientos de diseño de expertos; desarrollado por el grupo de investigación FudanCVL.",
+ "source_sha256": "63435318bb854de62c86f0d22d39c6bd0c26cfa652969d2b20715629f832dec5",
+ "summary": "Un sistema de diseño gráfico automatizado que emula los procesos creativos humanos mediante la recopilación de recursos, la planificación gráfica y el refinamiento iterativo. Genera archivos de diseño profesionales y por capas manipulando las capas de PSD, en lugar de producir imágenes planas.",
+ "title": "PSDesigner: diseño gráfico automatizado con un flujo de trabajo similar al humano",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

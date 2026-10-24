@@ -1,0 +1,10 @@
+{
+ "id": "n-920abfb1e3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d9ffd26f8ea4bb9e889952ed05636e14285ad1207f153fd52428d45d8088e40",
+ "summary": "2026-03-27，RealRestorer 的开发记录中新增了项目页面、源代码仓库、模型页面以及 The source reference 的链接。这一记录对项目历史具有重要意义，因为它为其相关代码与模型资源确立了一个带日期的公开参考节点。仅凭所提供的链接，无法确定具体的发布状态、功能特性或版本信息。",
+ "title": "RealRestorer 项目资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

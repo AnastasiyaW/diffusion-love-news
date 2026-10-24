@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Проект остаётся основной открытой платформой для обработки разговорного аудио, записанного «в естественных условиях» (in-the-wild); он широко используется для генерации датасетов для full-duplex моделей диалога, таких как Moshi.",
  "id": "n-b107eae70b",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Разработан KAIST AI и NAVER Cloud; использует ASR-ансамбль Mixture of Experts на основе моделей Whisper, Parakeet и Canary.",
- "source_sha256": "legacy",
- "summary": "Open-source модульный пайплайн, предназначенный для превращения сырого разговорного аудио в качественные обучающие данные для full-duplex речевых языковых моделей. Он объединяет диаризацию говорящих, ASR Mixture of Experts и удаление фонового шума, сохраняя естественную динамику диалога.",
- "title": "Sommelier: open-source пайплайн обработки аудио",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Разработан KAIST AI и NAVER Cloud; включает ансамбль ASR на основе Mixture of Experts с использованием моделей Whisper, Parakeet и Canary.",
+ "source_sha256": "3a72d3d029e65332b51750821350f4ae25129f5fcfaf19c2f0526bec481ac043",
+ "summary": "Открытый модульный конвейер, предназначенный для преобразования необработанных записей разговорной речи в высококачественные обучающие данные для full-duplex моделей речи и языка. Он объединяет диаризацию дикторов, ASR на основе Mixture of Experts и удаление фонового шума, чтобы сохранить естественную динамику диалога.",
+ "title": "Sommelier: открытый конвейер обработки аудио",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

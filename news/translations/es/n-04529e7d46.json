@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Sucesor de la serie Qwen3.5, que introduce la atención híbrida Gated DeltaNet para un procesamiento más rápido de contextos largos y Thinking Preservation para un razonamiento estable en conversaciones de varios turnos.",
+ "id": "n-04529e7d46",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Se sitúa entre los mejores modelos de pesos abiertos en programación agéntica (73,4 % en SWE-bench) y matemáticas (92,6 % en AIME 2026); publicado bajo licencia Apache 2.0.",
+ "source_sha256": "bd3caceaa2a648b958f75addc718835b9567edfb0db9eccd80759bfa7cfd2db2",
+ "summary": "Modelo multimodal de pesos abiertos con 35B de parámetros totales y 3B activos, que emplea una arquitectura Mixture-of-Experts (MoE) dispersa. Está optimizado para programación agéntica y matemáticas, e incorpora un mecanismo de atención lineal híbrida para un razonamiento eficiente en contextos largos.",
+ "title": "Qwen3.6-35B-A3B: modelo multimodal MoE disperso de Alibaba",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

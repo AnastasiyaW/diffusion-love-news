@@ -1,0 +1,11 @@
+{
+ "id": "n-29037afbf8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Alibaba Cloud 계정을 생성하고 ModelStudio를 활성화한 뒤 DashScope API 키를 만드세요.\n\nDASHSCOPE_API_KEY를 설정하고, 사용하려는 리전에 맞는 DashScope base URL을 선택하세요.\n\nWan-skills를 클론한 다음, 필요한 스킬 디렉터리(예: skills/wan2.7-image-skill)를 AI 에이전트에 설치하세요.\n\n이미지 작업의 경우 텍스트 요구사항과 선택적으로 이미지 URL을 제공하면, 제공된 스크립트가 비동기 wan2.7-image 작업을 제출하고 작업 상태를 확인합니다.\n\n명시되지 않은 배포 리전에 의존하지 말고 DashScope 리전별 엔드포인트를 명확히 선택하세요.\n\n이미지 생성은 비동기 방식으로 다루고, 상태가 최종 결과에 도달할 때까지 작업 ID를 보관하세요.",
+ "source_sha256": "12c5adec272c16d4340b595669c8b180e57848947f1fc407fb4873855cccacdb",
+ "summary": "검토 당시 인용된 WAN Skills 페이지에 공개적으로 접근할 수 없었습니다. 대신 확인 가능한 공식 문서는 별도의 Wan-skills 에이전트 연동 저장소를 설명하고 있으므로, 주장된 영상 프리셋 공개는 검증되지 않았습니다.",
+ "title": "WAN Skills 공개 세부 정보를 확인할 수 없음",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

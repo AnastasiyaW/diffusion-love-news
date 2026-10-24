@@ -1,0 +1,10 @@
+{
+ "id": "n-22001436c1",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b880485d0dd7664a1a1f1076b37c7afc9d25e6417d764efe9e435cbbb31e6e1c",
+ "summary": "2026年6月17日，Image-to-LoRA 开发线与 ModelScope 上公开的 Image-to-LoRA V2 合集建立了关联。这是一个具有实质意义的版本级里程碑，因为它标明了该项目在该日期的一个具体公开分发入口。现有证据除该关联合集外，尚不能证实该模型的技术变更、作者信息或发布状态。",
+ "title": "Image-to-LoRA V2 合集成为公开项目里程碑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

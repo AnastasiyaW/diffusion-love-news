@@ -1,0 +1,10 @@
+{
+ "id": "n-05fe00f082",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "673105e77d701253d588d669a3e124e13def96463933a057972c212ab9e5bc2c",
+ "summary": "2026年5月21日，Marlin-2B 开发团队分享了一个 Hugging Face 模型页面和一个配套的 VLM 网站。这被视为一次重要的公开可用性举措，因为它将该项目与公开的模型和使用资源联系了起来。仅凭带日期的链接，无法确定具体的发布版本、功能、许可证，也无法判断这两项资源是否首次出现在该日期。",
+ "title": "Marlin-2B 模型页面与配套 VLM 网站已公开分享",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

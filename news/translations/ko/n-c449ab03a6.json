@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 초 정식 공개된 최초의 통합 raw 생성 프레임워크입니다. 현재 향후 모바일 사진 촬영을 위해 삼성의 뉴럴 ISP 및 AI Experience(AX) 로드맵에 통합되는 중입니다.",
+ "id": "n-c449ab03a6",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "백본 모델로 FLUX를 활용하며, 선형 raw 출력에 대해 화이트 밸런스, 노출과 같은 실시간 ISP 연산을 지원합니다.",
+ "source_sha256": "cd07d49dcd7f84d603f8d14539671b743dea205deedd8fae5220db4dc648f366",
+ "summary": "삼성이 선보인 통합 확산(diffusion) 기반 프레임워크로, 텍스트 또는 sRGB 입력으로부터 물리적으로 일관된 카메라 raw 이미지를 생성합니다. 임의의 카메라 센서에 대해 고충실도 편집과 기기별 합성을 가능하게 합니다.",
+ "title": "RawGen: 카메라 Raw 이미지 생성 학습",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

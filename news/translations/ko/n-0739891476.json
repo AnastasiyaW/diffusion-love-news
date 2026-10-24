@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 공개 이후 이 프로젝트는 빠르게 공식 ComfyUI 지원을 추가했고, 2026년 5월에는 Hugging Face Diffusers 라이브러리와 완전히 통합되는 성과를 거두었습니다. 이후 커뮤니티 기여자들이 GGUF 및 FP8 양자화 버전을 공개하여, 30GB 이상의 모델을 일반 소비자용 GPU에서도 사용할 수 있도록 했습니다.",
+ "id": "n-0739891476",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 아키텍처는 폐쇄 루프(closed-loop) 시스템을 사용합니다. 이해 모델이 생성 과정에 정보를 제공하여, 복잡한 공간 변환 중 발생하는 환각(hallucination)을 줄입니다.",
+ "source_sha256": "296625abf3b9536811c68d34346c284f2f7ee8582657f6765f4a0db075aaa674",
+ "summary": "JD.com이 공개한 멀티모달 파운데이션 모델로, 정밀한 이미지 편집을 위해 8B 이해 모델과 16B MMDiT를 결합했습니다. 객체 회전, 카메라 원근 제어, 고충실도 콘텐츠 수정 등 공간 추론 작업에 특화되어 있습니다.",
+ "title": "JoyAI-Image: 공식 ComfyUI 노드와 공간 편집 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

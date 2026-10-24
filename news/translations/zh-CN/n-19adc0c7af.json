@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工具已从一个面向 Wan2GP 的简单 JSON 队列工具，演变为完整的全栈工作台（Vite/Express）。现在它具备可视化分镜、时间线、“take”版本历史记录，以及用于 AI 音乐视频同步的专用工具。",
+ "id": "n-19adc0c7af",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "专门针对 Wan2GP/LTX-2 生态系统进行了优化，由 ByteSound 品牌开发。",
+ "source_sha256": "3f5b12312b9880de61c604c109acd07d0410d43c1216461206f8875f32c5accf",
+ "summary": "一款开源的“导演控制台”，旨在管理复杂的 AI 视频工作流、分镜组织和批量生成。它作为 LTX-2 等模型的结构化前端，提供基于时间线的镜头管理和级联参数控制。",
+ "title": "ByteCut Director：AI 视频制作工作台",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

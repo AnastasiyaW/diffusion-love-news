@@ -1,0 +1,10 @@
+{
+ "id": "n-e613f26dc4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "790e1ba40e3761fd1c88fdff55aee985a1afcab21e768db301bbf382a77d04a9",
+ "summary": "2026-07-05，GEAR 被记录为已有项目主页、公开源代码仓库以及用于其分词器（tokenizer）的 Hugging Face 合集。这是一个重要的公开可用性里程碑，但仅凭带日期的链接，并不能确定具体版本、能力声明或发布范围。",
+ "title": "GEAR 项目资源已发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

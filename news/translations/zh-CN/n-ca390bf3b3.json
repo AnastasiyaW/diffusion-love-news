@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已从基于扩散模型的 DALL-E 转向原生自回归的 GPT Image 系列模型。继 GPT Image 1（2025 年 3 月）和 GPT Image 1.5（2025 年 12 月）之后，GPT Image 2 引入了用于规划构图的推理循环以及高保真排版能力。OpenAI 于 2026 年 5 月退役了 DALL-E 2 和 DALL-E 3。",
+ "id": "n-ca390bf3b3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "原生支持 2K 分辨率，可在多次生成中保持角色渲染的一致性，并具备近乎完美的多语言文字渲染能力，包括西里尔字母。",
+ "source_sha256": "c379a078c70ee9c819dd2142399f128a0badc5696f7d62b88f7a0a9da2b8098a",
+ "summary": "OpenAI 的旗舰原生多模态图像生成模型，已集成到 ChatGPT 中，接替 DALL-E 系列。它采用自回归架构，并包含一个用于创作过程中智能体式推理的“Thinking Mode”（思考模式）。",
+ "title": "GPT Image 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

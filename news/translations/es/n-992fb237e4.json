@@ -1,0 +1,10 @@
+{
+ "id": "n-992fb237e4",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c1b00e85d7e9556a47ce2aca8aa026aaa6884c93e19252e8dc2fba45a5eea4c",
+ "summary": "El 4 de agosto de 2026, el registro enlazaba la rama de desarrollo de Nemotron VoiceChat en NVIDIA-NeMo/Speech y el repositorio del modelo NVIDIA-NemotronLabs-VoiceChat-11B en Hugging Face. En conjunto, esos enlaces fechados indican un hito significativo de disponibilidad pública de los artefactos de código y modelo del proyecto. No se investigaron para esta revisión las afirmaciones exactas de publicación, las capacidades ni el licenciamiento.",
+ "title": "NVIDIA dio a conocer recursos de código y modelo de Nemotron VoiceChat 11B",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

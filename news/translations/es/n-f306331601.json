@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó a partir del benchmark de investigación 'Gameworld 10k' de VERSES AI hasta convertirse en una plataforma impulsada por la comunidad, bajo la organización gameworld-project, en abril de 2026, ampliándose de 10 a 34 juegos.",
+ "id": "n-f306331601",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye un entorno aislado (sandbox) especializado en navegador que pausa el tiempo del juego durante la inferencia del modelo; actualmente se utiliza como benchmark principal para agentes digitales encarnados.",
+ "source_sha256": "faf6f82e154906eb832cc060826096697159271f55243def17fe66ae8aeb5520",
+ "summary": "Una plataforma y un benchmark integrales para evaluar agentes de IA multimodales en 34 juegos basados en navegador. Ofrece un entorno aislado verificable por estado, con acceso al estado de referencia (ground truth), para probar la navegación espacial y la planificación de horizonte largo.",
+ "title": "GameWorld: plataforma estandarizada para la evaluación de agentes de IA multimodales",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

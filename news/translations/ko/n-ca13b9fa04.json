@@ -1,0 +1,10 @@
+{
+ "id": "n-ca13b9fa04",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c3c5d7b2102e5ba39bca6767dea0afe60dac06129787537febb84c7b467a0650",
+ "summary": "2026년 5월 13일, δ-Mem이 이 개발 흐름에서 소개되었으며, Hugging Face Papers 항목과 declare-lab/delta-Mem 저장소 링크가 함께 제시되었습니다. 이는 프로젝트를 논문 기록과 구현 자료 모두에 연결한다는 점에서 연구 공개의 중요한 이정표입니다. 현재 확인 가능한 날짜가 기록된 링크만으로는 이번 공개의 기술적 주장, 저자, 버전, 평가 결과를 확정할 수 없습니다.",
+ "title": "δ-Mem, 논문 및 코드 링크와 함께 공개되다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

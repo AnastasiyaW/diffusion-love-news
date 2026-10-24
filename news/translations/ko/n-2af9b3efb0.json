@@ -1,0 +1,10 @@
+{
+ "id": "n-2af9b3efb0",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "756e56aa7e27b2e1c097aa55161cf0c79c9d3311bb947657b7888206c8ca65c1",
+ "summary": "2026-03-17자 기록에 Mistral Small 4 119B 2603 Eagle의 Hugging Face 저장소 링크가 등록되었다. 저장소 이름은 Mistral Small 4 모델 아티팩트와 그 119B, 2603, Eagle 변형 라벨을 나타낸다. 날짜가 기록된 링크만으로는 출시 상태, 기능, 라이선스 또는 접근 조건을 확인할 수 없다.",
+ "title": "Mistral Small 4 119B 2603 Eagle 저장소가 Hugging Face에 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

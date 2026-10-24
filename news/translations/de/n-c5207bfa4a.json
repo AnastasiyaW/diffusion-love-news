@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Im April 2026 mit Inferenzcode und Modellgewichten veröffentlicht; Ende April 2026 um den vollständigen Trainingscode und den umfangreichen Datensatz WildDet3D-Data mit über 1 Million Bildern erweitert. Außerdem wurde eine begleitende iPhone-App für 3D-Erkennung in Echtzeit direkt auf dem Gerät veröffentlicht.",
+ "id": "n-c5207bfa4a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Aufgebaut auf dem SAM-3-Backbone und LingBot-Depth; erzielt state-of-the-art Zero-Shot-Ergebnisse auf Argoverse 2 und ScanNet.",
+ "source_sha256": "37d37e5e414bf8e7d21dd29122c659494b93bc2bd32485f7b72534930a8cfb46",
+ "summary": "Eine einheitliche, geometriebewusste Architektur für die Open-Vocabulary-monokulare 3D-Objekterkennung aus einem einzelnen RGB-Bild. Sie unterstützt multimodale Prompts, darunter Text, Punkte und Boxen, und arbeitet als promptbarer Detektor ähnlich wie SAM.",
+ "title": "WildDet3D: Skalierung promptbarer 3D-Detektion in freier Wildbahn",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

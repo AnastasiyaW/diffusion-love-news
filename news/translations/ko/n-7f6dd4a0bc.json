@@ -1,0 +1,10 @@
+{
+ "id": "n-7f6dd4a0bc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1392fbd308a351edbab7f86434f7d13cd915d49ee296fb34c7b2d10063439460",
+ "summary": "2026년 6월 16일, Orchestra-o1 개발 라인에 GitHub 저장소, 8B Hugging Face 모델 페이지, GGUF 모델 페이지로의 링크가 포함되었다. 이는 프로젝트를 소스 코드 및 배포 가능한 모델 아티팩트와 연결한다는 점에서 의미 있는 가용성 이정표이지만, 현재 확보된 근거만으로는 이것이 최초 공개인지, 업데이트인지, 재게시인지는 확인되지 않는다.",
+ "title": "Orchestra-o1 소스 및 모델 아티팩트가 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

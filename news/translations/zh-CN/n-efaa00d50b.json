@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从 Vercel 内部工具转变为公开的开源项目；目前使用 Claude 3.5 Sonnet 和 Vercel Sandbox 进行高保真代码分析，并直接修复 PR。",
+ "id": "n-efaa00d50b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用渐进式技能系统，仅在相关时才加载针对 Next.js 等特定框架的专用指令。",
+ "source_sha256": "15f56f17ce6a52d927daa75978a1156369b77155d76454def24d7d237bcf98c2",
+ "summary": "一款开源、可自托管的 AI 代码审查助手，支持按需进行 Pull Request 分析并自动修复问题。它使用 Claude 3.5 Sonnet 和 Vercel Workflow，在沙盒环境中执行审查，从而可以运行 linter 和测试。",
+ "title": "OpenReview：Vercel Labs 推出的 AI 代码审查机器人",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

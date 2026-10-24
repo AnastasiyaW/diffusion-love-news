@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从多节点的实验性配置演进为整合后的「Mesh2Motion Explore」节点。现在它包含基于 iframe 嵌入的 3D 编辑器、支持导入自定义 FBX 资源，并可直接生成 WebM 视频。",
+ "id": "n-2ff0f435cc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "1.2 版本移除了 Vue 等较重的 UI 依赖，以确保与 ComfyUI 前端实现无缝集成。",
+ "source_sha256": "daca227b837e6b1de65a2f6978c8654fe871f5fd0c3edd7788acdd2849694862",
+ "summary": "这是一个用于 ComfyUI 的自定义节点，集成了用于网格动画与绑定（rigging）的交互式 3D 编辑器。它支持实时相机控制、骨架操作，并可为生成式 AI 工作流直接输出视频。",
+ "title": "ComfyUI-mesh2motion：面向 AI 动画的交互式 3D 网格编辑器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

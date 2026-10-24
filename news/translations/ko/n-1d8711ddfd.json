@@ -1,0 +1,10 @@
+{
+ "id": "n-1d8711ddfd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "298577fa7ccd93e0971cc2aef07d7544bfb3f5879fcbd6cc6e269c319b027a26",
+ "summary": "2026년 6월 15일, 봉인된 ZCode IDE 개발 기록에 Z.ai의 영문 ZCode 설치 문서가 포함되었다. 설치에 초점을 맞춘 공식 URL을 고려하면, 이는 ZCode 3.0 라인에 있어 중요한 온보딩 이정표이다. 제공된 근거만으로는 제품 출시 세부 사항, 지원 플랫폼, 그리고 해당 가이드가 그날 처음 공개되었는지 여부는 확인되지 않는다.",
+ "title": "ZCode 설치 문서가 개발 기록에 등록되다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

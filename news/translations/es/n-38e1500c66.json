@@ -1,0 +1,10 @@
+{
+ "id": "n-38e1500c66",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "39d743d5eaa3229d2d0eb7a4d3197687c7365bfa08a30bd4f4f8632c095d6856",
+ "summary": "El 7 de junio de 2026 se difundió TripoSplat a través de su página de investigación, su repositorio de código abierto, el checkpoint del modelo, una demo interactiva y una plantilla de flujo de trabajo para ComfyUI. En conjunto, estos recursos pusieron el proyecto a disposición para su estudio técnico y para la experimentación con la conversión de imagen a splats gaussianos.",
+ "title": "Se publican recursos de investigación, modelo, demo y flujo de trabajo de TripoSplat",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

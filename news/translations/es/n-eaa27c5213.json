@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto evolucionó desde el ajuste fino supervisado (Supervised Fine-Tuning, SFT) hacia el aprendizaje por refuerzo agéntico mediante Group Relative Policy Optimization (GRPO) con retroalimentación de doble recompensa. Introdujo KnowGen, un benchmark especializado para la generación de imágenes basada en búsqueda.",
+ "id": "n-eaa27c5213",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El sistema admite razonamiento de múltiples saltos para identificar lagunas de conocimiento y utiliza referencias visuales para anclar la generación en entidades del mundo real.",
+ "source_sha256": "1c3652d6dbb540d8de0b02cc1662c50d0aa18575f8f9d393024ad91f2b9f5798",
+ "summary": "Un agente multimodal autónomo que realiza búsquedas web y visuales en tiempo real antes de generar imágenes. Emplea un flujo de trabajo de buscar y luego generar para garantizar la precisión factual y la consistencia visual en la síntesis de texto a imagen.",
+ "title": "Gen-Searcher: agente multimodal de investigación profunda basado en búsqueda",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

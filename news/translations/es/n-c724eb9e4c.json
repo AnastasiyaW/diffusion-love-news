@@ -1,0 +1,11 @@
+{
+ "id": "n-c724eb9e4c",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Los pesos se descargan de forma más eficiente, lo que reduce el consumo de RAM y el riesgo de OOM.",
+ "source_sha256": "47a955f6010bdb0428afd134015f8532d4bd4ac5e92f8edfdea5a156a47cd7aa",
+ "summary": "El 26 de marzo de 2026, ComfyUI documentó la VRAM dinámica (Dynamic VRAM) como un mecanismo estable para reducir la presión sobre la memoria y los fallos por falta de memoria (OOM) en sistemas Nvidia compatibles. Su guía insistía en medir el tiempo total del flujo de trabajo en lugar de la velocidad de iteración aislada.",
+ "title": "ComfyUI presenta la gestión dinámica de VRAM como función estable",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

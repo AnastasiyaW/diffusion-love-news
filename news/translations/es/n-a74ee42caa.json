@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado oficialmente en abril de 2026; se consolidó como un método training-free de última generación que mejora la línea base Wan-Edit al resolver los problemas de signal bleeding y fading. Sigue a investigaciones previas de CUC-MIPG, como Edit-Transfer e IC-Effect.",
+ "id": "n-a74ee42caa",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El marco se centra específicamente en los retos de los escenarios con múltiples objetos y movimiento rápido, donde los métodos tradicionales basados en inversión a menudo fallan o carecen de eficiencia.",
+ "source_sha256": "9db928760533f732082915319093a0b5058fbb17aef0bff28f74ebc3ba99c209",
+ "summary": "FlowAnchor es un marco de edición de vídeo sin entrenamiento y sin inversión, diseñado para transformaciones de vídeo a vídeo de alta calidad. Utiliza un refinamiento de la atención consciente del espacio y una modulación adaptativa de la magnitud para garantizar la consistencia temporal y señales de edición precisas.",
+ "title": "FlowAnchor: edición de vídeo estable sin inversión",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

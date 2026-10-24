@@ -1,0 +1,11 @@
+{
+ "id": "n-31b3b17c7b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "karpathy-output-style 저장소를 클론하거나 스킬 정의 파일을 에이전트 설정 디렉터리에 복사합니다.\n\n에이전트 런타임(Claude Code 또는 Codex 등)이 쿼리 실행 중 스킬 규칙을 불러오도록 설정합니다.\n\n개념 또는 코드 설명 작업을 에이전트에 요청하면, 스킬이 단순화된 기술 텍스트, Excalidraw 다이어그램, 대화형 HTML, 설명 영상 형식 중에서 선택하도록 합니다.\n\n대화형 HTML이나 영상 같은 무거운 산출물을 요청하기 전에 가장 단순한 형식을 기본으로 삼아 4단계 사다리 구조를 엄격히 따릅니다.\n\n대화형 HTML 산출물은 스타일과 스크립트를 내장한 단일 파일로 완전히 독립되도록 작성하여, 로컬 브라우저에서 즉시 확인할 수 있게 합니다.",
+ "source_sha256": "b733489b5751bebdc374d6114b6d5cc3e2c57e790845750421f57531297f7671",
+ "summary": "karpathy-output-style 프로젝트는 AI 모델이 복잡한 기술 개념을 명확히 설명하기 위해 단순화된 기술 영어, 구조 다이어그램, 대화형 HTML, 코드 기반 설명 영상 중에서 선택하도록 안내하는 실행 워크플로를 정의합니다.",
+ "title": "karpathy-output-style 기반으로 개발자 워크플로를 위한 다중 형식 LLM 설명 구조화",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

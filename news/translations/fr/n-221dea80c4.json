@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Mis à jour en avril 2026 avec un TTRL en flux continu (streaming TTRL) pour l'ajustement stratégique en temps réel, et publié sous forme de skill sur Clawhub. La base de code fournit désormais un pipeline d'entraînement complet utilisant veRL, ainsi que des modèles pré-entraînés et des benchmarks.",
+ "id": "n-221dea80c4",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé conjointement par l'ECNU et le Shanghai Institute of Intelligence afin de remédier à la saturation du contexte (context bloat) dans les flux de travail de recherche complexes.",
+ "source_sha256": "18f37a4bef89f1d707607e20deb50d92366df13a71bef7c8a161f2468458026a",
+ "summary": "Un système de gestion de mémoire spécialisé pour les agents d'IA de recherche approfondie, reposant sur une architecture à trois niveaux Manager-Planner-Executor. Il optimise le raisonnement sur contexte long en passant d'un stockage passif à une planification stratégique active, grâce à l'apprentissage continu au moment du test (Continual Test-Time Learning).",
+ "title": "MIA : Memory In Intelligence Agent Framework",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

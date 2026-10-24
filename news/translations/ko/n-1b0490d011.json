@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "VLM-3R 연구 계보(2025년 5월)에서 출발하여 기하학적 공간 추론에 특화된 프레임워크로 발전했습니다. 2026년 3월에는 통합 코드와 모델 가중치를 공개했으며, 마스킹과 적응형 융합을 도입해 공간 벤치마크에서 최첨단 성능을 달성했습니다.",
+ "id": "n-1b0490d011",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "정적 3D 장면과 동적 단안 비디오를 각각 처리하는 전용 브랜치를 갖추고 있습니다. VSI-Bench와 DSR-Bench에서 새로운 SOTA를 달성했습니다.",
+ "source_sha256": "598205f98406c31c1c2187021c4f588785bca964041eaec1713000b79953dc60",
+ "summary": "GeoSR은 3D 기하학적 단서를 통합하여 Vision-Language Model의 공간 추론 능력을 향상시키도록 설계된 프레임워크입니다. 정적 및 동적 환경 모두에서 모델이 2D 시각적 지름길에 의존하지 않도록 기하 정보 해제 마스킹(geometry-unleashing masking)과 게이트 융합(gated fusion)을 사용합니다.",
+ "title": "GeoSR: VLM을 위한 기하학적 공간 추론",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

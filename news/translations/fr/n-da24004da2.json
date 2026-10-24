@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet a introduit CreativePSD, le premier jeu de données à grande échelle basé sur Photoshop et comportant des traces d'opérations. Il a dépassé la génération en boîte noire grâce à une architecture modulaire (AssetCollector, GraphicPlanner, ToolExecutor) et a été accepté à CVPR 2026.",
+ "id": "n-da24004da2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Introduction du jeu de données CreativePSD pour permettre aux modèles d'apprendre les procédures de conception des experts ; développé par le groupe de recherche FudanCVL.",
+ "source_sha256": "63435318bb854de62c86f0d22d39c6bd0c26cfa652969d2b20715629f832dec5",
+ "summary": "Un système de conception graphique automatisée qui reproduit les processus créatifs humains à travers la collecte d'actifs, la planification graphique et l'affinement itératif. Il génère des fichiers de design professionnels et en calques en manipulant les calques PSD, plutôt que de produire des images aplaties.",
+ "title": "PSDesigner : conception graphique automatisée avec un flux de travail à la manière humaine",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

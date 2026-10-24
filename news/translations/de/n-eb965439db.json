@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "GBrain hat sich nach dem Start im April 2026 rasch weiterentwickelt und einen autonomen \"Dream Cycle\" für die Pflege und Deduplizierung des Speichers im Hintergrund eingeführt. Inzwischen integriert es BrainBench-Real zur Bewertung des Retrievals und dient als primäre Speicherlaufzeitumgebung für die Agentenarchitekturen OpenClaw und Hermes.",
+ "id": "n-eb965439db",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Garry Tan, um die Zustandslosigkeit von KI-Agenten zu überwinden; betont eine hohe Datendichte durch strukturierte Metadaten und eine über Git versionierte Wissensspeicherung.",
+ "source_sha256": "50c43596ab3a9181ceaee81d8f808e9eca76aaafd4b03ce9829af993288a61cc",
+ "summary": "GBrain ist ein quelloffenes, persistentes Speichersubstrat, das Git-verwaltete Markdown-Repositories mit PostgreSQL/pgvector-Datenbanken kombiniert. Es stellt KI-Agenten eine langfristige, sich kumulativ erweiternde Wissensbasis und hybride Suchfunktionen zur Verfügung.",
+ "title": "GBrain: Speicherschicht für OpenClaw- und Hermes-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

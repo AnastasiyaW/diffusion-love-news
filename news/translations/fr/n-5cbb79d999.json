@@ -1,0 +1,10 @@
+{
+ "id": "n-5cbb79d999",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8f394d1b6cce0ec13a20465efeb4e1c66d0bf7742b29dee452c1bc9d4e6baef3",
+ "summary": "Le 2026-05-19, SIMART a été associé à la fois à son site web de projet et au dépôt Hugging Face ByteDance-Seed/SimArt. Ce fait est considéré comme une étape importante en matière de diffusion, car une référence datée à un dépôt de modèles apparaît aux côtés de la page du projet. Les éléments disponibles n'établissent ni le contenu du dépôt, ni la licence, ni le statut exact de la publication.",
+ "title": "Référence au dépôt Hugging Face de SIMART",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

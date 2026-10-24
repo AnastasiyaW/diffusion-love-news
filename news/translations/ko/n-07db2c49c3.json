@@ -1,0 +1,10 @@
+{
+ "id": "n-07db2c49c3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "18f2ca0f2b207a7341665344ecd5bf1fd049b392b43c52d65564025818f8bf82",
+ "summary": "2026-07-13, SAM-MT에 공식 프로젝트 페이지, GitHub 저장소, Hugging Face 페이지 링크가 기록되었다. 이는 소스 코드와 모델 리소스 진입점을 갖춘 공개 프로젝트가 자리 잡았다는 점에서 개발 이력상 중요한 단계다. 다만 날짜가 찍힌 링크만으로는 구체적인 릴리스 버전, 기능, 이용 조건을 확인할 수 없다.",
+ "title": "SAM-MT 공개 프로젝트 리소스 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

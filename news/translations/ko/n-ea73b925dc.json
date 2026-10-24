@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seed3D 1.0에서 발전하여 2단계 DiT 파이프라인과 MoE 기반 머티리얼 엔진으로 전환했다. 로보틱스 시뮬레이션을 위한 URDF 내보내기, 기능 부품 분해(functional part decomposition), 장면 단위 생성 기능을 추가했다.",
+ "id": "n-ea73b925dc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "기하학적 정밀도에서 Hunyuan3D와 Tripo 대비 유의미한 성능 우위를 달성했으며, ByteDance의 Volcano Engine API를 통해 이용할 수 있다.",
+ "source_sha256": "b12a1aa845690fafc7e06156471f3de37c68dcf9f54ddab29ae06095bdcae2af",
+ "summary": "Seed3D 2.0은 물리 기반 렌더링(PBR) 텍스처를 갖춘 고충실도 3D 에셋을 생성하기 위한 최첨단 생성 모델이다. coarse-to-fine DiT 아키텍처와 Mixture-of-Experts(MoE) 스케일링을 활용하여, 로보틱스 및 산업 워크플로에 적합한 시뮬레이션 준비형 모델을 생성한다.",
+ "title": "Seed3D 2.0: ByteDance의 프로덕션 준비형 3D 파운데이션 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

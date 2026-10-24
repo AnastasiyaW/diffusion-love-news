@@ -1,0 +1,10 @@
+{
+ "id": "n-6bd85df8ed",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4f6ddb4dfd4ee92eeb3bd7b6cd090067f2187624a393499fc319b8dcc5af25dd",
+ "summary": "2026年6月29日，Fast-FoundationStereo 开发线记录了指向 NVlabs 源代码仓库和 NVIDIA Hugging Face 模型页面的链接。这为该项目及其相关模型资源确立了一个带日期的公开参考节点，但并未声明具体的发布版本或技术变更。",
+ "title": "Fast-FoundationStereo 源代码与模型参考已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

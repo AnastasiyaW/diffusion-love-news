@@ -1,0 +1,10 @@
+{
+ "id": "n-ea52f36353",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d1c75f09d270143d50300473095291260bb96dab48b92979356f50b7af46ec7",
+ "summary": "El 22 de julio de 2026, un artículo fechado sobre MuScriptor enlazaba el sitio web del proyecto, el repositorio de código fuente, la página del modelo, la demostración interactiva y los recursos de instalación. En conjunto, estos enlaces establecen un hito de acceso público al proyecto en esa fecha. Por sí solos, no establecen una versión concreta, una capacidad del modelo ni un cambio técnico específico.",
+ "title": "Los recursos públicos del proyecto MuScriptor estuvieron disponibles",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Hervorgegangen aus dem Forschungsbenchmark „Gameworld 10k“ von VERSES AI und im April 2026 zu einer community-getriebenen Plattform unter der Organisation gameworld-project weiterentwickelt, wobei die Zahl der Spiele von 10 auf 34 erweitert wurde.",
+ "id": "n-f306331601",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält eine spezialisierte Browser-Sandbox, die die Spielzeit während der Modellinferenz anhält; wird derzeit als primärer Benchmark für verkörperte digitale Agenten eingesetzt.",
+ "source_sha256": "faf6f82e154906eb832cc060826096697159271f55243def17fe66ae8aeb5520",
+ "summary": "Eine umfassende Plattform und ein Benchmark zur Evaluation multimodaler KI-Agenten in 34 browserbasierten Spielen. Sie bietet eine zustandsverifizierbare Sandbox mit Zugriff auf den Ground-Truth-Zustand, um räumliche Navigation und langfristige Planung zu testen.",
+ "title": "GameWorld: Standardisierte Plattform zur Evaluation multimodaler KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

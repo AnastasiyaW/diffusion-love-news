@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt wurde im April 2026 nach der Annahme auf der Konferenz CVPR 2026 offiziell als Open Source veröffentlicht. Derzeit stellt es eine vollständige PyTorch-Implementierung, Trainingsskripte sowie spezifische Patches für die diffusers-Bibliothek bereit, um die Architektur zu unterstützen.",
+ "id": "n-525a6be75a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erfordert Python 3.11 sowie einen manuellen Patch der diffusers-Bibliothek v0.34.0 (konkret der Datei sana_transformer.py) für die Integration.",
+ "source_sha256": "80216d65baacbe217942738618597c13252478947ddd79d5f7e680eb6a4c650f",
+ "summary": "Entwickelt vom DreamX-Team von Alibaba, ist EMF ein Forschungsframework für hocheffiziente Einschritt-Text-zu-Bild-Generierung. Es nutzt diskriminative Textrepräsentationen, um komplexe Semantik in einen einzigen Generierungsschritt abzubilden, wodurch die Inferenzlatenz deutlich sinkt, ohne die Qualität zu beeinträchtigen.",
+ "title": "EMF: Erweiterung der Einschritt-Bildgenerierung (Alibaba)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

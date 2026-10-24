@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2024년 최초 제안 이후, Kordi-AI는 2026년 초 벤치마크를 확장하여 'Multi-Principal Decision Problems'에서 GPT-5와 같은 최첨단 모델을 스트레스 테스트했다. 이후 이 연구는 자율형 팀 기반 개발자 워크스페이스인 Kordra 2.0과 같은 실제 응용으로 발전했다.",
+ "id": "n-1b656b5ff8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "스탠퍼드대학교, MIT, KAUST, UT 오스틴 소속 연구진이 개발했으며, 단일 사용자 AI에서 복잡한 사회적·기업 오케스트레이터로의 전환을 공식화했다.",
+ "source_sha256": "0f3d2f16a62f98dc8f3779307f8079a86e908b6f854db10ae3f79570b827f03e",
+ "summary": "여러 명의 사람 사용자와 동시에 상호작용하도록 설계된 LLM 에이전트를 위한 기초 연구 프레임워크이자 벤치마크다. 상충하는 지시를 처리하고, 권한 위계를 유지하며, 사용자 간 개인정보 유출을 막는 등 그룹 환경에서 제기되는 핵심 과제를 다룬다.",
+ "title": "다중 사용자 대규모 언어 모델 에이전트",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

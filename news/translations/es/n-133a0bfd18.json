@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Originalmente una simple herramienta de búsqueda de nodos, ha evolucionado hasta convertirse en una utilidad completa con modos especializados para comandos, navegación entre nodos y plantillas de flujos de trabajo. Ahora ofrece una integración profunda con el Registro de ComfyUI y está desarrollada en TypeScript para ajustarse a los estándares actuales del frontend.",
+ "id": "n-133a0bfd18",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Incluye soporte extensible para comandos, que permite a otros nodos personalizados registrar sus propias acciones dentro de la paleta.",
+ "source_sha256": "59434b6c54bb74f20093334b96c6e314ba94c0c81a2e60177742f56ab1df8dfa",
+ "summary": "Un centro de comandos controlado por teclado para ComfyUI que centraliza la navegación y la ejecución mediante una interfaz Ctrl+K. Permite ejecutar comandos de la interfaz, saltar a nodos específicos y añadir nodos nuevos a través de un sistema de búsqueda basado en prefijos.",
+ "title": "Paleta de comandos de ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

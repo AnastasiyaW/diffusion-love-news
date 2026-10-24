@@ -1,0 +1,10 @@
+{
+ "id": "n-369b74ea1a",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7a5d0d5369c5663ba35527a35c944771bf5aba0b0c6934ad09ae6d508371074c",
+ "summary": "9 марта 2026 года в ветке о Flux LoRA была опубликована ссылка на ресурс Flux2-Klein-9B-Enhanced-Details на Hugging Face. В той же датированной записи были также две ссылки на YouTube и ссылка на hf.ru. Это публичная отсылка, связанная с проектом, но она не указывает на конкретные технические изменения.",
+ "title": "Ресурс Flux2-Klein-9B-Enhanced-Details был опубликован по ссылке",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "OmniShow 于 2026 年 4 月随 ICML 会议发布，提出了 RAP2V 框架和 HOIVG-Bench 评测基准。目前，它是视频生成中统一多模态条件控制的主要解决方案之一。",
+ "id": "n-03e4a812c8",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由字节跳动与香港中文大学（CUHK）、香港大学（HKU）等主要研究型大学合作开发。",
+ "source_sha256": "ece3b672c34e72d912aa2220d3b006978d30d3e585222f8b1e407b25094728d0",
+ "summary": "OmniShow 是一个端到端框架，可利用图像、音频和姿态生成人与物体交互的高保真视频。它专注于精确的动作控制和口型同步，面向电子商务和数字虚拟人应用。",
+ "title": "OmniShow：统一多模态人-物交互视频生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

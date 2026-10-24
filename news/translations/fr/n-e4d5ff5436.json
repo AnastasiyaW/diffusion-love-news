@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passage d'un service exclusivement web à un écosystème ComfyUI natif au début de 2026. La mise à jour « Omni » d'avril 2026 a introduit la prise en charge de références multimodales (images, vidéo et audio), ainsi que la génération de planches de personnage en 4K.",
+ "id": "n-e4d5ff5436",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Modèle fermé, accessible uniquement par API, nécessitant des clés externes auprès de fournisseurs comme MuAPI ou Sjinn.ai ; intègre un filtrage de sécurité strict et une synchronisation audio-visuelle native.",
+ "source_sha256": "0216c44ad0ed81f477566fdb292d4f0045b2cc26bc253033328bc7d049468199",
+ "summary": "Le modèle de génération vidéo multimodal de pointe de ByteDance est intégré à ComfyUI via des nœuds d'API hébergés dans le cloud. Il permet des workflows haute fidélité de texte-vers-vidéo, d'image-vers-vidéo et de personnages cohérents, avec un contrôle temporel avancé.",
+ "title": "Intégration de Seedance 2.0 dans ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

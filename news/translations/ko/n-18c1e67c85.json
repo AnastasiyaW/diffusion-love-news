@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "모바일 사진 리믹스 앱에서 출발해 라이브 방송을 위한 정교한 identity layer로 발전했습니다. 최근에는 로컬 하드웨어 부하를 줄이는 클라우드 기반 데스크톱 클라이언트를 추가했고, Twitch 및 Kick과의 대화형 연동 기능도 확장했습니다.",
+ "id": "n-18c1e67c85",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Decart.AI가 개발했습니다. 스트리머가 시청자 참여도나 개인 프리셋에 따라 실시간으로 모습을 변형할 수 있는 'Identity Layer' 개념으로 알려져 있습니다.",
+ "source_sha256": "6ebc41b8a2261b90d943cf31769c04f62c9ffb5dde305e4fa36446e56f7b9ace",
+ "summary": "스트리머를 위해 외모, 의상, 배경을 즉시 바꿔 주는 실시간 AI 변환 레이어입니다. OBS와 연동되며, 시청자가 대화형 채팅 명령으로 방송 중 변화를 실행할 수 있습니다.",
+ "title": "Delulu Stream 실시간 비디오 조작",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

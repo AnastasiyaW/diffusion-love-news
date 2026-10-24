@@ -1,0 +1,10 @@
+{
+ "id": "n-7f6dd4a0bc",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "1392fbd308a351edbab7f86434f7d13cd915d49ee296fb34c7b2d10063439460",
+ "summary": "2026年6月16日，Orchestra-o1 的开发动态中包含其 GitHub 代码仓库、一个 8B 参数的 Hugging Face 模型页面以及一个 GGUF 模型页面的链接。这一进展意义重大，因为它将该项目与源代码及可部署的模型制品连接了起来；不过，现有证据尚无法确定这是首次发布、一次更新还是重新发布。",
+ "title": "Orchestra-o1 的源代码与模型制品已完成关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-da87b7d4da",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0d93ba883f6d057e8f4f18945caf061733a4d6cae0675bdb599464a533d64b9a",
+ "summary": "Le 12 mars 2026, le dossier de développement lié à un Space Hugging Face nommé Voxtral-Realtime-WebGPU a été publié. Le lien daté identifie un artefact de démonstration orienté WebGPU pour le projet Voxtral, ce qui constitue une étape notable de son historique de développement public. Les éléments disponibles n'établissent pas la version du modèle, les capacités, le statut de publication ni l'auteur de la démo au-delà de la ressource liée.",
+ "title": "La démo WebGPU de Voxtral Realtime a été documentée",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

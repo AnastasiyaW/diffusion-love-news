@@ -1,0 +1,11 @@
+{
+ "id": "n-15f28b9d26",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Choisissez un modèle Claude actuel adapté à votre charge de travail, puis utilisez son identifiant de modèle documenté et la plateforme prise en charge pour prendre une décision d'intégration.\n\nCréez une intégration API en effectuant un premier appel à l'API Messages, en gardant les identifiants hors du contrôle de version et du code côté client.\n\nPour les travaux sur un dépôt, installez Claude Code, authentifiez-vous avec un compte éligible ou un fournisseur pris en charge, lancez-le depuis le répertoire du projet et vérifiez l'installation avec `claude --version`.\n\nRédigez des instructions directes, indiquez le format de sortie attendu et utilisez des exemples si nécessaire ; appliquez les recommandations de prompting propres au modèle choisi.\n\nDéfinissez une date d'expiration pour les clés API, gardez-les hors du contrôle de version, du code côté client et des prompts, et envisagez la fédération d'identité de charge de travail plutôt qu'une clé statique.",
+ "source_sha256": "0217da0b603854b5bea3e1f88fe085bcb1ee6481c23eb17f1e9c1d5603c14653",
+ "summary": "La cour d'appel du circuit de Washington (D.C. Circuit) a rejeté les requêtes d'Anthropic contestant la décision du Département de la Guerre de retirer Claude de sa chaîne d'approvisionnement. L'arrêt mentionne une injonction ordonnant de retirer les produits d'Anthropic des systèmes du département et d'interdire aux sous-traitants de les utiliser pour des travaux pour le département.",
+ "title": "La cour d'appel du circuit de Washington rejette les requêtes d'Anthropic contre l'exclusion de la chaîne d'approvisionnement du Pentagone",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-97e1334295",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "133629bbe5d3ba6e252186a476ba5e58518882e3f08068648b31997f55cf1c8b",
+ "summary": "2026年7月1日，GELab-Zero 开发线在 Hugging Face 上登记了模型 GELab-Zero-4B-preview-Sico-Evolution 的引用。所链接的模型页面还指向一个关联的 Hugging Face 页面，用于查看基于适配器的模型，因此这是该项目面向公众的一个开发检查点。",
+ "title": "GELab-Zero Sico Evolution 预览模型已在 Hugging Face 上线",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

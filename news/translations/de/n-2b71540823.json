@@ -1,0 +1,10 @@
+{
+ "id": "n-2b71540823",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e5a517fa29020e1d75247f40a1234ce4240e45e6de2f15a989074dcad2c48b42",
+ "summary": "Am 31.07.2026 enthielt die WAN-Create-Website eine als „realtime“ bezeichnete Playground-Route im Labor-Bereich. Das ist ein wesentlicher Schritt in der Schnittstellenentwicklung, da er auf einen interaktiven Realtime-Einstiegspunkt für WAN hinweist, der sich von einem Download-Link für Modelle oder einem Link zu Batch-Workflows unterscheidet.",
+ "title": "WAN legt eine Realtime-Playground-Route offen",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

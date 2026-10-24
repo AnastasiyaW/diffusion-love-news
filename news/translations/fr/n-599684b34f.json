@@ -1,0 +1,10 @@
+{
+ "id": "n-599684b34f",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0ea1f64cb96001fb1f327f0c1fe872c93c09ac098c0266ca77a664894b581b4c",
+ "summary": "Le 2026-06-13, des documents Google associés ont identifié Gemini 3.5 Live Translate comme un modèle en aperçu destiné à la traduction en temps réel dans Gemini Live. L'ensemble de liens daté comprenait également un guide de l'API Live, une URL d'aperçu Live dans AI Studio, ainsi que des références d'intégration pour LiveKit et Pipecat, ce qui en fait un événement notable.",
+ "title": "Google présente l'aperçu de Gemini 3.5 Live Translate",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

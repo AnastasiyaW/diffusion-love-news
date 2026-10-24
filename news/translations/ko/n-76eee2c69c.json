@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 말 출시된 Echo-2는 Gaussian Splatting 기반의 공간 지속성(spatial persistence)과 객체 단위 편집을 도입했다. 탐색 중 드리프트를 제거하는 '물리적으로 근거한(physically-grounded)' 기하 구조에 초점을 맞춰 앞선 프로토타입들을 계승했다.",
+ "id": "n-76eee2c69c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "뮌헨 기반 스타트업 SpAItial AI가 개발했다. 결과물은 .ply 포인트 클라우드나 표준 메시 형식으로 내보낼 수 있어 Unreal Engine 5 같은 게임 엔진에서 사용할 수 있다.",
+ "source_sha256": "a082b7173bd43ab53fc748489fb6a44c372bd94157034091373eb170ddfe2bf9",
+ "summary": "Echo-2는 텍스트 프롬프트나 단일 이미지를 탐색 가능하고 공간적으로 일관된 3D 환경으로 변환하는 생성형 월드 모델이다. 3D Gaussian Splatting을 활용해 안정적인 기하 구조를 보장하며, 웹 브라우저에서 직접 실시간 성능을 낸다.",
+ "title": "Echo-2: SpAItial AI의 3D 월드 생성",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

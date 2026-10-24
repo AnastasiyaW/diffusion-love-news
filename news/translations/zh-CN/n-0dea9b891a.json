@@ -1,0 +1,10 @@
+{
+ "id": "n-0dea9b891a",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3b4219a9a098d8ebdcab7ca5c577cc5ee3d2a841f60b8e9ddf8c4b91df35e003",
+ "summary": "2026 年 3 月 31 日，EUPE 开发线记录了指向 facebookresearch/eupe 代码仓库与 facebook/EUPE-ViT-S Hugging Face 资源的链接。该事件被视为一个重要的可获取性里程碑，因为它同时明确了实现的位置和一个具名模型资源。现有证据除这些带日期的链接外，并不能确定发布版本、功能能力或制品状态。",
+ "title": "EUPE 实现与 EUPE-ViT-S 模型资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

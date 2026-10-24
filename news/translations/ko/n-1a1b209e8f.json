@@ -1,0 +1,10 @@
+{
+ "id": "n-1a1b209e8f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "24896cedf8a10d5b3ba0f301bf8da29b022e00d11be4458b16613c766bcd0196",
+ "summary": "2026-08-21, Black Forest Labs는 FLUX Video Upscale의 공식 블로그 발표문, 제품 문서, 플레이그라운드 모델 링크를 공개했다. 공식 링크에 날짜가 명시되어 있어 제품의 공개 소개가 확인되므로 의미 있는 진전이다. 다만 제공된 링크만으로는 세부 기능, 제공 여부, 가격, 성능은 확인되지 않는다.",
+ "title": "Black Forest Labs, FLUX Video Upscale 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

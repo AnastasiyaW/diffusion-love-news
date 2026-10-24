@@ -1,0 +1,11 @@
+{
+ "id": "n-d46d9eb28f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "공개 웹 도메인에 robots.txt를 설정하여 Meta 웹 크롤러에 대한 명시적인 크롤링 허용 범위를 정의하십시오.\n\n기업 도메인을 연결하거나 비즈니스 자산을 게시하기 전에 Meta Business Manager 내 상업 서비스 약관 계약을 검토하십시오.\n\n콘텐츠 보호를 위해 기본 계약 조건에 의존하지 말고, 웹 서버 경계에서 명시적인 크롤러 허용 목록과 disallow 지시문을 유지하십시오.\n\n비즈니스 URL이 광범위한 콘텐츠 추출 라이선스 없이 광고 운영으로만 제한되도록 상업 계정 권한을 정기적으로 점검하십시오.",
+ "source_sha256": "0eb26e0c1a24f1543a6dbdee44950d6701cae4ae56d0dfb78bd8dd4e7f854f85",
+ "summary": "Meta가 개정된 상업 서비스 약관에서 스크랩한 비즈니스 계정 웹 콘텐츠로 AI 모델을 학습한다는 명시적 언급을 삭제하고, 데이터 사용 범위를 광고 및 비즈니스 제품으로 좁혔다.",
+ "title": "Meta, 비즈니스 약관에서 AI 학습 관련 문구 삭제",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

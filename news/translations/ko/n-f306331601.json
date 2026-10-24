@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "VERSES AI의 연구용 벤치마크 'Gameworld 10k'에서 발전하여, 2026년 4월 gameworld-project 조직 산하의 커뮤니티 주도 플랫폼으로 전환되었으며, 게임 수가 10종에서 34종으로 확대되었습니다.",
+ "id": "n-f306331601",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "모델 추론 중에 게임 시간을 일시 정지시키는 전용 브라우저 샌드박스를 포함하고 있으며, 현재 구현체 기반 디지털 에이전트(embodied digital agents)를 위한 주요 벤치마크로 사용되고 있습니다.",
+ "source_sha256": "faf6f82e154906eb832cc060826096697159271f55243def17fe66ae8aeb5520",
+ "summary": "브라우저 기반 게임 34종을 대상으로 멀티모달 AI 에이전트를 평가하기 위한 종합 플랫폼이자 벤치마크입니다. 공간 탐색과 장기 계획 능력을 검증하기 위해 정답 상태(ground-truth state)에 접근할 수 있는, 상태 검증이 가능한 샌드박스를 제공합니다.",
+ "title": "GameWorld: 멀티모달 AI 에이전트 평가를 위한 표준화된 플랫폼",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

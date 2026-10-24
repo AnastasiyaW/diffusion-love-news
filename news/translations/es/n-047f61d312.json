@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Evolucionó de un script de automatización básico a una skill especializada para agentes, con renderizado local (local-first), eliminación automatizada de muletillas y soporte para superposiciones programáticas mediante HyperFrames y Remotion.",
+ "id": "n-047f61d312",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimizado para agentes basados en terminal; incluye '12 hard rules' para cortes de calidad profesional y se actualizó recientemente para admitir la codificación UTF-8 y la conservación de la orientación vertical (retrato).",
+ "source_sha256": "60b6f9112b9eaa58b79539cca7b019e32d090513e3b38734f37170cd1a001224",
+ "summary": "Un framework de código abierto que permite a agentes de IA como Claude Code realizar edición automatizada de vídeo mediante lenguaje natural. Utiliza composiciones visuales y metadatos estructurados para guiar a FFmpeg en una producción precisa y eficiente en tokens.",
+ "title": "video-use: kit de edición de vídeo con agentes de IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

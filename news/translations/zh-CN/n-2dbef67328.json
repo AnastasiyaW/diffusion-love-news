@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目最初是一份针对“AI slop”（AI 垃圾内容）的讽刺性评论而发布，后来演变为本地优先的浏览器端智能体的一个可用模板。在关于“Vibe Coding”（氛围编程）以及低投入自主 AI 系统大量涌现的讨论中，它被频繁提及。",
+ "id": "n-2dbef67328",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 PasiKoodaa 与其他本地优先工具 Chat-with-Screen 和 Screen-Analysis-Overlay 一同维护。",
+ "source_sha256": "e874aba0efa9e4e2a942dfcea5e9de1fb0f8975d83f7f9c3758f01f0fcd4a4bc",
+ "summary": "一款轻量级开源工具，无需外部 API 密钥，即可直接在浏览器中实现由 AI 驱动的自主编程。它利用本地模型执行能力，为智能体式编程任务和快速实验提供简化的运行环境。",
+ "title": "SlopLobster：本地运行的浏览器端 AI 编程助手",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

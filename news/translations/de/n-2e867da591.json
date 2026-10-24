@@ -1,0 +1,10 @@
+{
+ "id": "n-2e867da591",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "00ae2dbac48f08e969911fd636691eaf93a0fb6d80d637bb228c33143c39e6ba",
+ "summary": "Am 2026-03-20 verknüpfte eine versiegelte Nachricht die öffentliche FASTER-Website mit dem GitHub-Repository. Dies schafft einen datierten öffentlichen Bezugspunkt für das Projekt, doch die Verknüpfungen allein belegen weder ein Release, ein Feature, ein Ergebnis noch eine andere technische Änderung.",
+ "title": "Öffentliche FASTER-Website und Repository wurden verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

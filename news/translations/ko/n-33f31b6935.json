@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 최초 MOSS-Audio 공개 이후, 팀은 2026년 5월 전문 음악 QA를 위한 MOSS-Music-8B를 추가하며 모델 패밀리를 확장했습니다. 이후 프로젝트는 SGLang 서빙에 대한 완전한 지원과 포괄적인 LoRA 파인튜닝 워크플로를 추가했습니다.",
+ "id": "n-33f31b6935",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "오디오 추론 벤치마크에서 최첨단(state-of-the-art) 성능을 달성했으며, Step-Audio-R1 33B와 같이 훨씬 더 큰 모델들을 능가합니다.",
+ "source_sha256": "99db82653c8b52ddbf95e2d7f8f5cd3598e58a3d431bfb8a294d427f4f8ed0ac",
+ "summary": "복잡한 오디오 추론과 타임스탬프가 포함된 전사를 위해 Chain-of-Thought 능력을 활용하도록 설계된 오픈소스 오디오 파운데이션 모델입니다. Qwen3-8B 백본과 교차 계층 특징 주입(cross-layer feature injection)을 활용하여 고충실도 음향 세부 정보를 유지합니다.",
+ "title": "MOSS-Audio-8B-Thinking",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

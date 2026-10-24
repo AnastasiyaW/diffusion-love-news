@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从基础的自动补全发展为自主平台，推出了后台智能体（Background Agents）和 Composer 2.0。引入了自研编码模型，并通过 BugBot 实现自动化 PR 审查。到 2026 年初，年度经常性收入（ARR）已超过 20 亿美元，取得了显著的市场主导地位。",
+ "id": "n-a6a4ba2d0f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该产品被认为推动了“氛围编程”（vibe coding）的流行，在这种模式下，开发者专注于架构意图，而自主智能体负责端到端的实现。",
+ "source_sha256": "1fbb41c17566b029c99b2966611b0539c48adf7383ef6c00f0b50395ba2d3fee",
+ "summary": "一款基于 VS Code 分支开发的 AI 驱动集成开发环境，旨在提供深层的代码库上下文。它通过基于云的智能体、多文件编辑和实时 AI 辅助，实现自主软件工程。",
+ "title": "Cursor：AI 原生代码编辑器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

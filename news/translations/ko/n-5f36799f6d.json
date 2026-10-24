@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 Minecraft에 초점을 둔 v1.0에서 시작해, v3.0에서는 실시간 월드 시뮬레이터로 발전했다. 확장된 시퀀스에서의 일관성 문제를 해결하기 위해 장기 메모리와 28B MoE 아키텍처를 도입했다.",
+ "id": "n-5f36799f6d",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "5B 파라미터 모델을 사용해 40 FPS로 720p를 구현하며, 메모리 증강 Diffusion Transformer를 특징으로 한다. 또한 AITER CK를 통해 AMD ROCm을 지원한다.",
+ "source_sha256": "88efca9ce1525b2fbdf5b3bc4d1f3544dee9ae1b4a668072253902fbd339d511",
+ "summary": "실시간 스트리밍을 지원하고 장기적인 시공간 일관성을 유지하는 오픈소스 인터랙티브 월드 모델이다. 최대 40 FPS로 고해상도 환경을 생성하는 고성능 월드 시뮬레이터로 기능한다.",
+ "title": "Matrix-Game 3.0: Skywork AI의 인터랙티브 월드 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

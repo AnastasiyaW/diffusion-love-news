@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Passée d'un simple wrapper de modèle à une suite de bureau complète basée sur Tauri, dotée de widgets de dictée au niveau du système d'exploitation et d'une intégration de serveur MCP. Elle utilise désormais le gestionnaire de paquets 'uv' pour un amorçage local sans aucune dépendance.",
+ "id": "n-0124eabefd",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Intègre Demucs pour la séparation audio et prévoit une intégration de Wav2Lip v2 pour améliorer le réalisme du doublage vidéo.",
+ "source_sha256": "806b1dc9c6d906c0e49719a87cd2e8152ee9feb3ed81a80a0247556499541933",
+ "summary": "Application de bureau axée sur la confidentialité, dédiée au clonage vocal zero-shot, au doublage cinématographique et à la dictée en temps réel, dans plus de 600 langues. Elle fonctionne à 100 % en local, avec une prise en charge des accélérateurs NVIDIA, Apple Silicon et AMD.",
+ "title": "OmniVoice Studio : clonage vocal et doublage en local",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

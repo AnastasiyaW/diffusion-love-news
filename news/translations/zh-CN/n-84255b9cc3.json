@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "经过验证的封装版本说明文档已涵盖 U1.5 的 preview/formal 版本，以及 GGUF、INT8、FP8 和 BF16 路径，同时划去了旧的八步 LoRA 使用说明。",
+ "id": "n-84255b9cc3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fea5003884ead1e4a5306206154db7075ccb6d176ab2c63a09153178bcdbadef",
+ "summary": "经过验证的封装版本说明文档已涵盖 U1.5 的 preview/formal 版本，以及 GGUF、INT8、FP8 和 BF16 路径，同时划去了旧的八步 LoRA 使用说明。",
+ "title": "SenseNova U1 封装更新至 U1.5 并支持当前量化路径",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

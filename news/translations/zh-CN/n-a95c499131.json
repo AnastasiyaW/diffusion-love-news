@@ -1,0 +1,11 @@
+{
+ "id": "n-a95c499131",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "请通过 Agents 测试版流程申请访问权限；报道称访问采用申请制。\n\n上传项目文件和参考资料，然后描述预期结果，并选择可用的语言模型和 effort 设置。\n\n导入 Pinterest 情绪板或其他视觉参考，当某种反复出现的风格需要通过提示词调用时，可创建图像集技能。\n\n当智能体上下文需要相关项目材料时，可连接 Slack、Figma 或 Google Drive；在使用生成媒体所宣称的社交发布功能之前，请先审查生成内容。\n\n在请求多步骤结果之前，将简报、参考资料和可复用的风格素材统一保存在项目上下文中。Krea 早期的 Node Agent 文档显示，该平台会基于现有画布状态进行规划，并允许用户在执行前审查计划。\n\n在运行生成之前，请审查拟定的工作流和模型选择。Krea 的 Node Agent 文档称，系统会在执行前展示计划以及每个节点的计算成本。",
+ "source_sha256": "9fd0481a323ad54c2b24a9351dc4d4ad8b969b25acd915a0ba9912f9d940cb18",
+ "summary": "据报道，Krea Agents 在基于申请制的创意智能体工作空间中，整合了项目文件上下文、Pinterest 情绪板、可复用的图像技能以及相连的工作工具。",
+ "title": "Krea Agents 新增项目上下文与 Pinterest 导入功能",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

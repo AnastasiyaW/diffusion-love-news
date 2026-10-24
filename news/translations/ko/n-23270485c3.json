@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "전문 VFX 파이프라인에서 발생하는 플리커와 색공간 문제를 해결하기 위해 수작업 ComfyUI 워크플로에서 출발하여 통합 GUI/CLI 독립 실행형 도구로 발전했습니다. 최근 업데이트에서는 고정밀 알파 정제와 의미론적 마스킹을 위해 SAM 3를 통합했습니다.",
+ "id": "n-23270485c3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "노드 기반 AI 그래프의 복잡성 없이 신뢰할 수 있는 다채널 AI 패스를 제공하기 위해 Nuke 컴포지터를 위해 특별히 제작되었습니다.",
+ "source_sha256": "4a7d3b4250755fe03f4e9be839a8c4eb174042ebb6e51743148ad8f5a9902ffc",
+ "summary": "실사 촬영 영상으로부터 깊이, 노말, 세그멘테이션 마스크와 같은 고품질 VFX 패스를 생성하는 오픈소스 독립 실행형 애플리케이션입니다. Nuke 호환 사이드카 EXR 파일 생성을 자동화하며, 씬 선형(scene-linear) 색공간 변환과 배치 처리를 함께 관리합니다.",
+ "title": "LiveActionAOV 배치 VFX 패스 생성용 독립 실행형 도구",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

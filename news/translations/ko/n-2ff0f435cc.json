@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 여러 개의 노드로 구성된 실험적 설정에서 하나로 통합된 'Mesh2Motion Explore' 노드로 전환되었습니다. 현재는 iframe 기반의 3D 에디터를 내장하고 있으며, 사용자 지정 FBX 에셋 가져오기와 WebM 비디오의 직접 생성을 지원합니다.",
+ "id": "n-2ff0f435cc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "버전 1.2에서는 ComfyUI 프런트엔드와의 원활한 통합을 위해 Vue와 같은 무거운 UI 의존성을 제거했습니다.",
+ "source_sha256": "daca227b837e6b1de65a2f6978c8654fe871f5fd0c3edd7788acdd2849694862",
+ "summary": "ComfyUI용 커스텀 노드로, 메시 애니메이션과 리깅을 위한 인터랙티브 3D 에디터를 통합합니다. 실시간 카메라 제어, 스켈레톤 조작, 생성형 AI 워크플로를 위한 비디오 직접 출력을 지원합니다.",
+ "title": "ComfyUI-mesh2motion: 생성형 AI 애니메이션을 위한 인터랙티브 3D 메시 에디터",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

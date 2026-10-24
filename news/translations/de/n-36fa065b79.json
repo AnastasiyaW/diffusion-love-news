@@ -1,0 +1,10 @@
+{
+ "id": "n-36fa065b79",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "467ca0765d3b98c922f2429db62c853037ed9339ce01acb6882f60d7ebcdca1f",
+ "summary": "Am 2026-07-03 hat der Thread des Projekts zu Flux-2-Klein-LoRAs einen Verweis auf dessen Hugging-Face-Ressource erfasst. Die gesicherten Belege enthalten weder den Beitragstext noch Inhalte der Model Card, daher belegt dieses Ereignis lediglich den datierten Ressourcenverweis und trifft keine Aussage über eine Release-Version, die Trainingskonfiguration, die Lizenz oder die Leistung.",
+ "title": "Sun-Direction-LoRA für Flux 2 Klein 9B: Ressourcenverweis erfasst",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

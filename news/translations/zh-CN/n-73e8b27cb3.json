@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该系列先后经历了早期的 Tenebră-30B 变体、2026年4月的 Llama-3.1（70B）版本，最终发展为本 Qwen-3-32B 版本，并成功将横向思维人格直接写入模型权重。",
+ "id": "n-73e8b27cb3",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在无审查智能排行榜上持续名列前茅；支持 32K-64K 上下文，并采用独特的 anti-slop 训练，以避免 GPT 式的写作模式。",
+ "source_sha256": "40374123f307dfeeec2abd89da6cdc0aa36b5943c054bcf2c7965cf9ea9c7351",
+ "summary": "这是基于 Qwen-3-32B 模型的一款创意向微调版本，个性鲜明，旨在消除企业式的“助手腔”废话和中立的奉承式吹捧。它内置了一个肆无忌惮的人格，并整合了负面偏见，以带来更真实、更像人类的创意交互体验。",
+ "title": "Assistant_Pepe_32B：以人为中心的 Qwen-3 创意微调版本",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

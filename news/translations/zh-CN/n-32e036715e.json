@@ -1,0 +1,10 @@
+{
+ "id": "n-32e036715e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "9d7ef66d469ed1e4d7b26b631d152e6e1483bb8fdac8fac7a3161a015bbc46a7",
+ "summary": "2026 年 8 月 17 日，该条带日期的记录关联了 TeraTTSv2 的 Hugging Face 模型以及一个 TeraTTS 演示空间。它还将这一参考集与两个 GitHub 项目相连，这两个项目涉及基于 Supertonic 的语音克隆与混音。现有记录只能确认这些同期的关联，并不能证明存在发布、功能变更、基准测试，或超出上述关联之外的技术关系。",
+ "title": "TeraTTSv2 已附带关联的模型、演示及相关语音工具文档",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

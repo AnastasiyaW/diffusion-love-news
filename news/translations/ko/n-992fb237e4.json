@@ -1,0 +1,10 @@
+{
+ "id": "n-992fb237e4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0c1b00e85d7e9556a47ce2aca8aa026aaa6884c93e19252e8dc2fba45a5eea4c",
+ "summary": "2026-08-04 기준으로, 해당 기록은 NVIDIA-NeMo/Speech 저장소의 Nemotron VoiceChat 개발 브랜치와 Hugging Face의 NVIDIA-NemotronLabs-VoiceChat-11B 모델 저장소를 연결하고 있다. 이 날짜가 명시된 링크들을 종합하면, 해당 프로젝트의 코드 및 모델 산출물이 공개적으로 이용 가능해진 중요한 이정표임을 알 수 있다. 이번 검토에서는 정확한 릴리스 주장, 기능, 라이선스는 조사하지 않았다.",
+ "title": "NVIDIA, Nemotron VoiceChat 11B 코드 및 모델 리소스 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

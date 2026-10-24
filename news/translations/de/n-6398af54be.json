@@ -1,0 +1,11 @@
+{
+ "id": "n-6398af54be",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Inferenzcode sowie gated FP8/NF4-Gewichte wurden öffentlich verfügbar, mit strukturierter JSON-Steuerung für Text, Farbpaletten und Bounding-Box-Layout; ComfyUI kündigte Unterstützung am ersten Tag an.",
+ "source_sha256": "012cfceaf4d2265756ce07cb4721efee917aa55566b6098048e670c8d5e55983",
+ "summary": "Am 2026-06-04 verknüpfte der datierte Linksatz Ideogram 4 mit einem Quellcode-Repository, mehreren Modellverteilungen und einer Ankündigung zur ComfyUI-Integration. Das ist ein wesentlicher Entwicklungsschritt, weil er sowohl die Verbreitung als auch einen Integrationsweg belegt. Die Links verweisen außerdem auf Varianten mit niedrigerer Genauigkeit und auf solche mit Konvertierungskennzeichnung, ohne deren genauen Status oder Verhalten zu klären.",
+ "title": "Ideogram 4: Quellcode, Modellvarianten und eine ComfyUI-Integration veröffentlicht",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-ce71bb02ce",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast обрабатывал text/image-to-video, а Pro добавил audio-to-video, Retake и Extend; вышли веса 22B dev/distilled и латентные апскейлеры.",
+ "source_sha256": "f9cc3d7eeeccb580b6cdea5fb8101846aa3a2a451481db82743e55622f8240b0",
+ "summary": "5 марта 2026 года файлы модели LTX-2.3 на Hugging Face и шаблон текст-в-видео workflow для ComfyUI были связаны между собой. Это существенный шаг интеграции, поскольку он соединяет линейку моделей с воспроизводимым локальным путём работы с workflow для практиков.",
+ "title": "Файлы модели LTX-2.3 и шаблон текст-в-видео workflow для ComfyUI были связаны между собой",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-15581903e4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4b58f8e221da18d6eec4968386c332fe2b955229a185c0a565f139b6792ec9b1",
+ "summary": "2026-07-08, Wan-Streamer 개발 라인의 sealed 멤버가 프로젝트의 v0.2 버전별 페이지를 연결했다. 이로써 해당 라인에 날짜가 명시된 공개 v0.2 참조가 확보되지만, 현재 확인 가능한 근거만으로는 기능, 출시 상태, 이전 버전과의 변경 사항을 확정할 수 없다.",
+ "title": "Wan-Streamer v0.2 버전 페이지 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

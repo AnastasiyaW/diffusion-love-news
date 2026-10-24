@@ -1,0 +1,10 @@
+{
+ "id": "n-0c368b4c16",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6a9256a74ee719cbc7d35bbad736a4d5f4f2fe262dccc1e118034253442333f",
+ "summary": "2026年3月30日，几何潜在扩散通过项目主页和源代码仓库发布，同时附上了 Hugging Face 模型发布页面与交互式演示的链接。这标志着该项目的代码、模型文件和演示内容实现了重要的公开可用里程碑。",
+ "title": "几何潜在扩散（Geometric Latent Diffusion）项目资源、模型与演示公开发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

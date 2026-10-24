@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó de beta a estado de producción consolidado en Unity 6. Muse ha añadido capacidades de vídeo a movimiento y de texto a movimiento, mientras que Sentis ahora admite la importación nativa de modelos de PyTorch y LiteRT sin conversión desde 2026.",
+ "id": "n-e60825c137",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Unity Muse requiere una suscripción de pago para las funciones generativas, mientras que Unity Sentis es una herramienta de runtime gratuita incluida con el motor para la inferencia de IA local.",
+ "source_sha256": "872e45ee395359a8460a5d3f897a565b499ddfee8e668844bbb6f6187c91ef10",
+ "summary": "Un conjunto de herramientas de IA listo para producción, integrado en Unity 6 para el desarrollo de videojuegos. Incluye Unity Muse, para la creación generativa de assets y flujos de trabajo basados en chat con un asistente, y Unity Sentis, para la inferencia local de redes neuronales multiplataforma y de alto rendimiento.",
+ "title": "Unity AI (Muse y Sentis) para Unity 6",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "목록은 Vosk-TTS, Matcha-TTS와 같은 최신 신경망 기반 음성 합성(TTS) 프레임워크를 포함하도록 확장되었습니다. 현재는 경량이고 오프라인 우선인 ONNX 기반 솔루션을 우선시하며, 엣지 디바이스에서 고성능 스트리밍 ASR을 위한 Sherpa-ONNX와의 통합도 지원합니다.",
+ "id": "n-78ccc63365",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "텍스트 전처리를 위한 ru-normalizr 도구와 러시아어 ML 연구 업데이트를 다루는 speechinfo 커뮤니티에 대한 링크가 폭넓게 포함되어 있습니다.",
+ "source_sha256": "77cdf9ef6cb52711fc51839827a061d19aed00baeafe2e77b347bf39adaca7af",
+ "summary": "러시아어 음성 인식 및 음성 합성을 위한 데이터셋, 도구, 오픈소스 모델을 포괄적으로 정리한 저장소입니다. Vosk 음성 인식 툴킷을 개발한 Alpha Cephei 팀이 관리하고 있습니다.",
+ "title": "Awesome Russian Speech: 러시아어 음성 기술 리소스",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

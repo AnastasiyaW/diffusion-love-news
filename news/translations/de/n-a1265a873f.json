@@ -1,0 +1,10 @@
+{
+ "id": "n-a1265a873f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a4d69ce6041b374269b9a54cc9d08daa46864cf7f1cbd1304fbf750c84cb5aeb",
+ "summary": "Am 18. Juni 2026 verzeichnete die Projekthistorie einen Verweis auf Unsloths Hugging-Face-Repository mit dem Titel GLM-5.2-GGUF. Der datierte Verweis belegt ein öffentliches Repository für die GGUF-Verteilung, lässt aber nicht erkennen, welche Dateien es enthielt, welchen Inhalt es hatte oder ob an diesem Datum ein Release vorlag.",
+ "title": "GLM-5.2-GGUF-Repository auf Hugging Face referenziert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

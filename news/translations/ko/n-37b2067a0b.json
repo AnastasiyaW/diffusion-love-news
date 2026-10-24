@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "이 뉴스 게시글은 의미 기반 편집과 시각적 편집, 그리고 글꼴, 크기, 스타일을 유지한 채 중국어·영어 텍스트를 교체하는 기능을 소개했다.",
+ "id": "n-37b2067a0b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ecb228cf8fba334dc086c573b17f6355303e25d56b8b4ea1844e5a15bad5cf89",
+ "summary": "이 뉴스 게시글은 의미 기반 편집과 시각적 편집, 그리고 글꼴, 크기, 스타일을 유지한 채 중국어·영어 텍스트를 교체하는 기능을 소개했다.",
+ "title": "Qwen-Image-Edit 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

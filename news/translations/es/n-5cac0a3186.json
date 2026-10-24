@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Luma AI pasó de herramientas generativas independientes, como Dream Machine, a una capa de orquestación completa con Luma Agents a comienzos de 2026. El sistema utiliza ahora el modelo de vídeo con razonamiento Ray3 y el transformador multimodal Uni-1 para gestionar contextos de proyecto complejos y persistentes.",
+ "id": "n-5cac0a3186",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Luma Agents han sido adoptados por grandes agencias publicitarias globales como Publicis Groupe para la ejecución de campañas localizadas de alto presupuesto.",
+ "source_sha256": "54be73a23bb10806983a14755154648b03899253e874549f5fc37f610ac85bff",
+ "summary": "Luma Agents son colaboradores de IA autónomos diseñados para gestionar flujos de trabajo creativos de principio a fin, desde el brief inicial hasta la entrega final. Impulsados por el modelo de razonamiento Uni-1, orquestan la generación de texto, imagen, vídeo y audio dentro de un 'Creative Operating System' unificado.",
+ "title": "Luma Agents: colaboradores creativos de IA multimodales",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

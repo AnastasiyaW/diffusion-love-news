@@ -1,0 +1,10 @@
+{
+ "id": "n-18aead67ea",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ae48c2bb7856559f084fc06cb82b2138758cabb77c29768c95d64ae0117a7541",
+ "summary": "2026-03-30, 이 개발 라인은 GalaxyAce LoRA의 버전별 Civitai URL을 기록했으며, 모델 2200329과 버전 2808759를 식별한다. 이는 해당 모델 버전에 대한 날짜가 명시된 식별 기준점을 제공하지만, 출시 맥락, 학습 세부 사항, 호환성은 아직 검증되지 않았다.",
+ "title": "GalaxyAce LoRA 버전별 Civitai 참조 기록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

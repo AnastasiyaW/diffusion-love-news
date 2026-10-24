@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "처음에는 시네마틱 영상 스튜디오의 대안으로 출시되었으며, 이후 이미지, 영상, 오디오 모델을 지원하는 포괄적인 플랫폼으로 확장된 점을 반영하여 Open Generative AI로 리브랜딩되었습니다. 노드 기반의 Workflow Studio를 도입했고, C++ 엔진을 사용한 로컬 모델 추론 기능을 추가했습니다.",
+ "id": "n-5ade5d658c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 프로젝트는 MIT 라이선스이지만, 기본적으로 제작자가 운영하는 유료 서비스 Muapi에 의존합니다. 다만 최신 버전은 추론을 위한 자체 호스팅 로컬 서버를 지원합니다.",
+ "source_sha256": "b94244fdd535a325a1e457ff041571018616d47ac9e56338a56ff13d7eb09c50",
+ "summary": "이미지, 영상, 오디오 생성을 위한 오픈소스 멀티모델 스튜디오로, 다양한 SOTA 모델을 위한 통합 프론트엔드 역할을 합니다. Flux, Kling, Wan 등 200개 이상의 모델을 지원하며, 립싱크와 시네마틱 영상 제작을 위한 전용 스튜디오를 갖추고 있습니다.",
+ "title": "Open Generative AI (구 Open Higgsfield AI)",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

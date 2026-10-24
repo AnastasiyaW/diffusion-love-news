@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "정적 3DGS(2023)와 고정 간격 4DGS(2024)에서 발전하여, Eurographics 2026에서 발표된 적응형 밀도화 모델로 진화했다. 고정된 시간 간격을 모션 인식 기반 정제로 대체하여, 확률적 동적 장면에서의 성능을 크게 향상시켰다.",
+ "id": "n-ccb2a502fb",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "가중 Adam 옵티마이저와 이미지 기반 as-rigid-as-possible(ARAP) 정규화를 도입했으며, 이는 현재 실시간 VR/AR 렌더링 파이프라인에서 널리 사용되고 있다.",
+ "source_sha256": "0377e0b370988b0f512c8c0a70389096f6930f55643f0bdbc24a3d315c6912da",
+ "summary": "바람에 흔들리는 식생이나 물결 무늬처럼 복잡한 진동 운동을 모델링하기 위해 적응형 시공간 밀도화(densification)를 사용하는 동적 장면 재구성 프레임워크이다. 모션 분산과 오차 모멘트를 기준으로 프리미티브를 정제하여 고충실도 4D 렌더링을 달성한다.",
+ "title": "적응형 시공간 3D 가우시안 스플래팅",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

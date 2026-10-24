@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "此版本紧随 Qwen3.6 官方发布之后推出，并引入了用于复杂推理的 'Thinking' 模式。它显著优化了在 Mac 上的推理速度，据报道其速度是早期社区 3-bit 移植版本的两倍。",
+ "id": "n-019c913613",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "需要在聊天模板中启用 'preserve_thinking'；对关键层（嵌入层/预测层）使用 5-bit 精度，以保持语义质量。",
+ "source_sha256": "4b8c1df5dfe20f47715ee3ad8fdf9839ef755f0e492ab0ee3a83414eb26c146d",
+ "summary": "这是对 Qwen3.6-27B 模型的一个高性能 3-bit MLX 量化版本，专为 Apple Silicon 用户优化。它采用混合精度策略，在速度与智能之间取得平衡，使大规模推理能够在 16GB 内存的硬件上运行。",
+ "title": "Qwen3.6-27B-3bit-mlx",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-145acbde64",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4cfb8f526b16af44d24f885a8bb8e433fec24eb0a90d387da2bf451c5dab00fc",
+ "summary": "2026-05-16 기준으로, 날짜가 기록된 근거 자료에는 Resemble AI 문서, Hugging Face 모델 저장소, Hugging Face Space, GitHub 저장소 등 Dramabox 관련 리소스가 연결되어 있었습니다. 이들 공식 프로젝트 리소스를 종합하면 Dramabox의 공개 제공이 이루어진 시점을 나타냅니다. 제공된 근거 자료만으로는 버전, 기능, 라이선스, 또는 연결된 리소스의 최초 공개 날짜를 확인할 수 없습니다.",
+ "title": "Dramabox 공개 모델, 데모, 소스 리소스가 연결되었습니다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

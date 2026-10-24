@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'article de présentation décrivait la compréhension de sons inhabituels, l'analyse d'enregistrements audio pouvant atteindre dix minutes, le dialogue portant sur plusieurs flux audio, le raisonnement, l'interaction vocale et un encodeur partagé pour la parole, les sons et la musique.",
+ "id": "n-d5883c87bf",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "99bdc8b1c562bb193479ec8f92b1bf134b676a45edcbb9a94ad8fcbabcb59aca",
+ "summary": "L'article de présentation décrivait la compréhension de sons inhabituels, l'analyse d'enregistrements audio pouvant atteindre dix minutes, le dialogue portant sur plusieurs flux audio, le raisonnement, l'interaction vocale et un encodeur partagé pour la parole, les sons et la musique.",
+ "title": "Audio Flamingo 3 élargit la compréhension audio-langage",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

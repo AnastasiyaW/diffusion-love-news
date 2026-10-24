@@ -1,0 +1,11 @@
+{
+ "id": "n-8df2384b93",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "应将该下载视为 Qwen-Image-Edit-2511 的适配器依赖项，而非独立的 563 MB 安装包。\n\n不要根据适配器大小推断硬件最低要求；应在工作流记录中保留确切的基础检查点与适配器标识。",
+ "source_sha256": "9c38e3f84c68dbc3b8dad4cc0be123ffa01c87e73a99406c9dd6adb893c49401",
+ "summary": "ScottzillaSystems 的模型卡将 MCNL v1 介绍为面向 Qwen-Image-Edit-2511 的社区适配器。其约 563 MB 的下载文件是适配器，而非完整的模型安装包；关于更宽泛内容行为的说法仍仅是分发方的声明，尚未确立任何受控的运行测试。",
+ "title": "MCNL v1 是面向 Qwen-Image-Edit-2511 的社区适配器",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

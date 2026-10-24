@@ -1,0 +1,11 @@
+{
+ "id": "n-3e5c539778",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Genere un activo 3D a partir de una descripción de texto o de una imagen 2D dentro de Tripo.\n\nEjecute la retopología automatizada para convertir la malla densa generada en una estructura optimizada de cuadriláteros o triángulos, con límites de polígonos definidos por el usuario.\n\nAplique el desenvolvimiento UV automatizado para calcular las costuras, empaquetar las islas UV 2D y volver a hornear los mapas de textura sobre la malla desenvuelta.\n\nExporte el activo optimizado en formato FBX, OBJ o USD para su integración en motores de videojuego o en herramientas de creación de contenido digital.\n\nDefina los límites de recuento de polígonos objetivo antes de iniciar la retopología para alinear la densidad del activo directamente con los presupuestos de rendimiento del motor.\n\nInspeccione la disposición de las islas UV 2D y la posición de las costuras en las zonas de alta curvatura antes de hornear los mapas de textura finales.",
+ "source_sha256": "007560e49e3dcfd82aa51014a3f87ea18eff8491ad905d2c97c5ce55c602da42",
+ "summary": "Tripo abrió el acceso anticipado a herramientas automatizadas de desenvolvimiento UV y retopología, integrando la conversión a malla de bajo polígono y la generación de disposición UV directamente en su flujo de trabajo de modelado 3D.",
+ "title": "Tripo lanza acceso anticipado a desenvolvimiento UV y retopología",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

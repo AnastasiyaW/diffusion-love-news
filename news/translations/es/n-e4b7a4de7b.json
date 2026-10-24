@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "El proyecto alcanzó las 60.000 estrellas en GitHub a principios de 2026, e introdujo el marco OASIS para escalar las simulaciones a millones de agentes, además de integrar GraphRAG para una memoria de entidades fundamentada. Se lanzó también MiroFish-Offline, una versión impulsada por la comunidad para su ejecución en local.",
+ "id": "n-e4b7a4de7b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Ganó fama viral con una simulación que predijo el final perdido de «El sueño del pabellón rojo», al alimentar el motor con los primeros 80 capítulos en los grupos de discusión de sus agentes.",
+ "source_sha256": "6863a5822ea7a2b21265a095416b7cd4791fcafdafe0d4d03a8289a982cf28c4",
+ "summary": "MiroFish es un motor de inteligencia de enjambre que crea mundos digitales paralelos poblados por agentes de IA para simular dinámicas sociales y tendencias de mercado. Utiliza GraphRAG para una interacción fundamentada y admite la inyección dinámica de variables para el modelado predictivo social en tiempo real.",
+ "title": "MiroFish: motor de simulación del comportamiento social multiagente de código abierto",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

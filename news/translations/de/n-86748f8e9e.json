@@ -1,0 +1,10 @@
+{
+ "id": "n-86748f8e9e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8d72deaf901807a146ef2de351ca3c413ffb2e3fde405f0bac5e66fc0316ce1c",
+ "summary": "Am 12.07.2026 wurden ein Colibri-GitHub-Repository und eine Hugging-Face-Seite für ein GLM-5.2 Colibri INT4-Modell miteinander verlinkt. Dies ist ein datierter Beleg dafür, dass der Quellcode des Projekts und ein zugehöriges quantisiertes Modellartefakt als öffentliche Ressourcen bereitgestellt wurden. Der aufgezeichnete Link wurde nicht angegeben; daher lassen sich der genaue Veröffentlichungsstatus, die Urheberschaft und die Funktionalität allein anhand der Links nicht bestätigen.",
+ "title": "Colibri-Quellcode-Repository und INT4-Modell wurden öffentlich verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

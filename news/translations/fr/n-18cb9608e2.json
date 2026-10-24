@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Présentée à NeurIPS 2025, la méthode a servi à publier des versions compressées de Llama 2 et Llama 3.1. Elle reste un outil open source de référence pour la simplification efficace et zero-shot des modèles.",
+ "id": "n-18cb9608e2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Capable d'élaguer jusqu'à 25 % des couches tout en conservant environ 90 % des performances du modèle d'origine.",
+ "source_sha256": "2d773d003d156f082bd7efd5961d01be4c43dc5a6acbe99eb3b23bf31c243dde",
+ "summary": "ReplaceMe est une méthode d'élagage en profondeur sans entraînement, développée par MTS AI, qui remplace les blocs transformer redondants par des transformations linéaires. Elle compresse les modèles sans réentraînement en intégrant ces approximations dans les poids restants.",
+ "title": "ReplaceMe : élagage en profondeur sans entraînement pour les LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

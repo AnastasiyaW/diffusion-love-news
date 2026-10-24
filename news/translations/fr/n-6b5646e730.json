@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La surface de publication officielle a publié la v0.22.2 ; la documentation actuelle exige Node.js 22+ et acte la fin de Qwen OAuth au profit des voies fournisseur/clé API prises en charge.",
+ "id": "n-6b5646e730",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "723492578a4fc18259cbe0d83e4c7e605a09101541e0ad3fed7151bdc5de26d6",
+ "summary": "La surface de publication officielle a publié la v0.22.2 ; la documentation actuelle exige Node.js 22+ et acte la fin de Qwen OAuth au profit des voies fournisseur/clé API prises en charge.",
+ "title": "Qwen Code atteint la v0.22.2 selon le contrat actuel des fournisseurs",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

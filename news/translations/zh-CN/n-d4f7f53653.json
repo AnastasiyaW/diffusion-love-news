@@ -1,0 +1,10 @@
+{
+ "id": "n-d4f7f53653",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0bcd9ede72e069a073288842f649dda6f269c633151f78db684498024a3312de",
+ "summary": "2026年6月24日，名为 Qwopus3.6-27B-v2-GGUF 和 Qwopus3.6-27B-v2-FP8 的仓库作为 Qwopus3.6-27B-v2 系列的一部分被链接。这是一个实质性的分发步骤，因为它使已命名的产物能够以两种面向推理的格式获取。一条同期的记录链接与仓库链接一并出现，但其内容未经审查。",
+ "title": "Qwopus3.6-27B-v2 产物已发布至 GGUF 和 FP8 仓库",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

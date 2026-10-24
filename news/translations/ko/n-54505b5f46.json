@@ -1,0 +1,10 @@
+{
+ "id": "n-54505b5f46",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "677139e97844c89e6e058041fbbaeabe99ee9978a0cd7678673ba06ca4e6c420",
+ "summary": "2026-07-04, 이 개발 흐름은 Cerebras와 Gemma 4 Voice AI 관련 Hugging Face 자료, 음성-음성(speech-to-speech) 코드베이스, 그리고 호스팅된 실시간 음성 데모를 연결했다. 종합하면, 이 날짜가 명시된 참조들은 단순한 재게시가 아니라 실시간 음성 상호작용을 살펴보기 위한 구체적인 리소스 묶음을 기록하고 있다.",
+ "title": "Hugging Face 실시간 음성 AI 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La série Qwen 3.5 a introduit l'architecture Mixture-of-Experts A3B, rapidement suivie de la mise à jour Qwen 3.6. Ce modèle représente l'apogée de la « distillation de raisonnement », où les traces logiques de modèles propriétaires Claude 4.6 sont transférées vers des architectures à poids ouverts.",
+ "id": "n-b1f4237092",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Disponible aux formats GGUF, MLX et Transformers ; optimisé en priorité pour le raisonnement approfondi et la logique en plusieurs étapes.",
+ "source_sha256": "b68b8cbfd786ac439dc2486735b15558e133549ab7077f0c7fdb8e2c9e1185b7",
+ "summary": "Un grand modèle de langage spécialisé, fondé sur l'architecture Qwen 3.5, affiné à partir de données de raisonnement en chaîne de pensée (chain-of-thought) distillées depuis Claude 4.6 Opus. Il met en œuvre un raisonnement structuré via des balises <think> afin d'améliorer la transparence logique et la précision dans la résolution de problèmes.",
+ "title": "Qwen3.5-35B-A3B Claude 4.6 Opus Reasoning Distilled",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

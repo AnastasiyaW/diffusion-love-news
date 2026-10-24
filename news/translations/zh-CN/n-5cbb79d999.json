@@ -1,0 +1,10 @@
+{
+ "id": "n-5cbb79d999",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8f394d1b6cce0ec13a20465efeb4e1c66d0bf7742b29dee452c1bc9d4e6baef3",
+ "summary": "2026 年 5 月 19 日，SIMART 同时关联到其项目网站和 ByteDance-Seed/SimArt Hugging Face 仓库。由于一份带日期的模型仓库引用与项目页面同时出现，这被视为一个重要的分发里程碑。现有证据尚无法确认仓库内容、许可证或确切的发布状态。",
+ "title": "SIMART 的 Hugging Face 仓库已被引用",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

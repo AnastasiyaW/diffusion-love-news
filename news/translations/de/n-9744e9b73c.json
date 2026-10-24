@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Z-Image-Projekt entwickelte sich von schweren DiT-Modellen hin zur destillierten Version „Turbo“, die Detailverbesserung in Echtzeit ermöglicht. Inzwischen wurde es in das Ökosystem der „Z-Image Power Nodes“ integriert, das erweiterte Funktionen wie Detailverbesserung mit niedrigem Sigma und spezialisierte Gesichts-LoRAs unterstützt.",
+ "id": "n-9744e9b73c",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Für optimale Ergebnisse sind der Qwen 2.5 VL Text-Encoder und ein spezifisches VAE erforderlich. Im Verhältnis von Geschwindigkeit zu Qualität übertrifft der Workflow herkömmliche SDXL-Detailer deutlich.",
+ "source_sha256": "e69dedc1ccec3eb56078e0d1aa0b93140328f25592e675aa8245e6e9a443a3b4",
+ "summary": "Ein leistungsstarker ComfyUI-Workflow, optimiert für die Gesichtsverbesserung mit Alibabas Z-Image Turbo 6B DiT-Modell. Er nutzt eine präzise Crop-and-Inpainting-Pipeline mit YOLOv8 und SAM, um hochauflösende Hauttexturen in nur 8–10 Schritten zu erzeugen.",
+ "title": "Z-Image Turbo: Workflow zur Gesichtsverbesserung",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

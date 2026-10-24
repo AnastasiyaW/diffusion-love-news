@@ -1,0 +1,10 @@
+{
+ "id": "n-675f824e2a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e62510c58ce1b4bae48e1dffd8a7ff04082e649fe63e8becc67dc611dd1ec7ca",
+ "summary": "Am 26.03.2026 wurde die Entwicklungslinie z-image-turbo-sda mit dem Hugging-Face-Repository F16/z-image-turbo-sda verknüpft. Dies ist ein wesentlicher öffentlicher Verweis, da er einen konkreten Verteilungspunkt des Modells für das Projekt benennt. Allein die datierte Verknüpfung belegt jedoch weder die Fähigkeiten, die Herkunft, die Version noch den Veröffentlichungsstatus des Modells.",
+ "title": "z-image-turbo-sda wurde mit einem Hugging-Face-Modell-Repository verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

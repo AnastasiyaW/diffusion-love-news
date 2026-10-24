@@ -1,0 +1,10 @@
+{
+ "id": "n-5319c89cd3",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8ee9cb73adec4291934cd5e71ed63ff996ffbc34018f48ee22acac67cc681493",
+ "summary": "2026년 6월 14일, HuggingFace VFS 플러그인 개발 라인에 프로젝트 GitHub 저장소로의 링크가 포함되었다. 이로써 저장소 참조가 기록에 남게 되었으나, 제공된 근거만으로는 해당 링크 외에 릴리스, 구현 변경, 또는 새로운 기능이 있었다고 확인되지 않는다.",
+ "title": "HuggingFace VFS 플러그인 소스 저장소 링크 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

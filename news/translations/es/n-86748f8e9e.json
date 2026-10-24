@@ -1,0 +1,10 @@
+{
+ "id": "n-86748f8e9e",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8d72deaf901807a146ef2de351ca3c413ffb2e3fde405f0bac5e66fc0316ce1c",
+ "summary": "El 12 de julio de 2026, un repositorio de Colibri en GitHub y una página de Hugging Face para un modelo GLM-5.2 Colibri INT4 se vincularon entre sí. Esto constituye una evidencia fechada de que el código fuente del proyecto y un artefacto de modelo cuantizado relacionado se presentaron como recursos públicos. El enlace registrado no se proporcionó, por lo que su estado exacto de publicación, su autoría y su funcionalidad no pueden confirmarse únicamente a partir de los enlaces.",
+ "title": "El repositorio de código de Colibri y el modelo INT4 se vincularon públicamente",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-ce536a0efc",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a6064614b928067e0d1fdfc66fdafd7da20bcd32f3b28656e29b3057ce0b65de",
+ "summary": "Am 06.04.2026 hat NVIDIA Neural Texture Compression öffentlich als Technik zur Reduzierung des Texturspeichers vorgestellt. Der verlinkte Bericht beschrieb einen Vergleich, in dem der gezeigte Ansatz den VRAM-Verbrauch von 6,5 GB auf 970 MB senkte. Damit handelt es sich für das Projekt um eine wesentliche öffentliche Entwicklung.",
+ "title": "NVIDIA demonstrierte Neural Texture Compression mit deutlich geringerem VRAM-Verbrauch",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

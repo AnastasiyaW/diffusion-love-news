@@ -1,0 +1,10 @@
+{
+ "id": "n-0e3939a347",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c7fdc90bdc2b1a37918dab2d13f83b10bc04808d7dbabc788bc5444e2dd29266",
+ "summary": "2026-06-26, Qwen3 ASR 관련 스레드에 Qwen3-ForcedAligner-0.6B-hf Hugging Face 모델 페이지가 링크되었다. 특정 강제 정렬(forced-alignment) 모델 아티팩트를 가리키는 사건이므로 중요한 개발 흐름상의 이벤트이다. 원문 게시글과 모델 카드 내용은 제공되지 않았으므로, 기능, 출시 관련 주장, 사용법에 대해서는 어떠한 내용도 단정하지 않는다.",
+ "title": "Qwen3-ForcedAligner-0.6B-hf가 Hugging Face에 링크됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

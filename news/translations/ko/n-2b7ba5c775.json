@@ -1,0 +1,10 @@
+{
+ "id": "n-2b7ba5c775",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "474dae677a38a0d085c0ec0f099e779c9a03eea2a43b63bcb2eb946cf3ba4dd8",
+ "summary": "2026-06-21에 이 개발 흐름은 OmniVideo-7B_Qwen2.5-Omni의 Hugging Face 리소스 및 OmniVideo-100K 프로젝트 페이지와 연결되었다. 날짜가 명시된 링크들은 이것이 눈에 띄는 프로젝트 이력상의 한 단계임을 보여주지만, 해당 게시물의 정확한 발표 내용, 공개 상태, 기능, 데이터셋 세부 사항을 확정하지는 않는다.",
+ "title": "OmniVideo-7B_Qwen2.5-Omni 모델과 OmniVideo-100K 리소스 연결",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-6ab0eb34ad",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3ed5a9d649b9b582c97f0f4363ae395b19d91c18a1e2a41cbb1c67ed780dff83",
+ "summary": "Am 2026-03-20 verlinkte eine datierte Nachricht auf das GitHub-Repository von S3T-Former. Damit ist ein zeitgleicher öffentlicher Code-Verweis auf das Projekt belegt. Die verfügbaren Belege nennen jedoch weder ein Release, eine Paper-Version, ein Benchmark-Ergebnis noch eine konkrete Codeänderung. Der Verlaufseintrag sollte daher ausschließlich die Verfügbarkeit des Repositorys festhalten.",
+ "title": "Quellcode-Repository von S3T-Former wurde geteilt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目最初基于稠密的 Qwen 模型构建，随后采用细粒度子矩阵切分（Fine-grained Sub-matrix Splitting）和 Drop-Upcycling 方法不断演进。当前的迭代版本（如 Marco-Mini-Global）支持 64 种语言，并面向资源匮乏的语言社区。",
+ "id": "n-15fd6206af",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "提出了用于多语言评测的 CulturAll 基准；最佳部署方式是通过 vLLM 运行，以正确处理绑定的嵌入层（tied embedding layers）。",
+ "source_sha256": "4056ee1607ef99968bac997e5728e74b7e3c57b36c3f3c27cf5d30568533e791",
+ "summary": "一系列为高效多语言性能而设计的超稀疏混合专家（Mixture-of-Experts）模型。这些模型由阿里巴巴 AIDC 开发，每个 token 仅激活 5-7.5% 的参数，因而能在消费级硬件上快速运行。",
+ "title": "Marco-MoE：阿里巴巴 AIDC 推出的开源多语言 MoE 模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

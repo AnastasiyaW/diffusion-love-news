@@ -1,0 +1,10 @@
+{
+ "id": "n-3554d5183b",
+ "lang": "ru",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "34253fde6d436bb7d2e721f0f0cbdc151f43cd8e009ed2ec4b3b7d08bc645e17",
+ "summary": "3 августа 2026 года PrunaVAED была зафиксирована в ветке разработки LTX Video со ссылками на его репозиторий на Hugging Face и pull request в ComfyUI. Это существенная веха с точки зрения интеграции, хотя имеющиеся данные не позволяют установить результат pull request, версию или поведение во время выполнения.",
+ "title": "PrunaVAED появился в ветке интеграции LTX Video",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

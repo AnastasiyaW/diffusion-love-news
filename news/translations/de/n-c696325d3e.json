@@ -1,0 +1,11 @@
+{
+ "id": "n-c696325d3e",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Bereite Trainingsdatensätze für mindestens zwei unterschiedliche Identitäten vor, jeweils in separaten Ordnern auf der Karte Subjects im Tab Fizgig Training.\n\nVersieh jedes Bild mit einer Beschriftung, die mit dem eindeutigen Trigger-Token beginnt, gefolgt von einem Komma und dem Klassendeskriptor (z. B. 'zwxem, a woman smiling'), damit Fizgig interne fusionierte Tokens erzeugen kann.\n\nAktiviere LoRA Isolation in der Trainingskonfiguration und kombiniere Differential Output Preservation mit automatisierter synthetischer Paarung mit Bildern fremder Personen.\n\nErzeuge Inferenzbilder mit dem fusionierten Trigger-Token zusammen mit Beschreibungen der anderen Subjekte in der Szene, um die Identitätsgrenzen zu wahren und Gesichtsvermischung zu vermeiden.\n\nTrainiere mit mindestens zwei unterschiedlichen Figurenidentitäten gleichzeitig, auch wenn nur eine primäre Figur im Fokus steht, damit das Netzwerk die Identitäts-Tokens von den grundlegenden Klassen-Tokens für Menschen entkoppelt.\n\nLasse das Trigger-Token vollständig weg, wenn du Hintergrundfiguren oder Menschenmengen beschreibst, damit das Basismodell ohne Leckage standardmäßig vielfältige Gesichter darstellt.\n\nStrukturiere Beschriftungen in kausaler Reihenfolge, wobei Deskriptoren fremder Personen zuerst stehen, wenn während des Trainings Negativ-Kompositbilder mit mehreren Personen gepaart werden.",
+ "source_sha256": "fb1d0168a8af7673ae44ab665ecc4848e5885d004acacf25593c31ff82699576",
+ "summary": "Fizgig v8.4.0 führt LoRA Isolation ein, das Differential Output Preservation, die Entkopplung von Klassen über fusionierte Tokens und Training mit Negativpaaren kombiniert, um Gesichtsvermischung (face bleeding) bei der Generierung von Szenen mit mehreren Figuren zu verhindern.",
+ "title": "Fizgig veröffentlicht LoRA Isolation für Training mit mehreren Identitäten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

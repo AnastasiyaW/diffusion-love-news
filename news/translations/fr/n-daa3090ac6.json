@@ -1,0 +1,10 @@
+{
+ "id": "n-daa3090ac6",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c88cbebc6adf7914b655984cb9d74e74b197ffa0eb10adb8f00c53b50757fdb6",
+ "summary": "Le 2026-06-02, une entrée datée consacrée à Bernini a renvoyé vers le site du projet et vers le dépôt du modèle ByteDance/Bernini sur Hugging Face. Elle a également renvoyé vers un fichier JSON de workflow de test pour Bernini, ainsi que vers un répertoire Bernini figurant dans le dépôt WanVideo Comfy FP8 scaled de Kijai. Pris ensemble, ces éléments marquent une étape significative vers l'accès au modèle et une utilisation orientée ComfyUI.",
+ "title": "Ressources du modèle Bernini et du workflow ComfyUI désormais liées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

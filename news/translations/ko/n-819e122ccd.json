@@ -1,0 +1,10 @@
+{
+ "id": "n-819e122ccd",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d843bf90c5c0ab92dfbdcbd977afb294b20bf9dca3c5cdcf1924a5543b8c1e59",
+ "summary": "2026-07-29, 이 기록은 Vidu의 개발자 플랫폼 및 리텐션(retention) 경로를 연결하며, 웹 크리에이터와 함께 개발자 대상 배포 채널이 존재함을 기록하고 있다. 제공된 워크스루와 리텐션 페이지는 읽을 수 없었으므로, 이 항목은 해당 날짜에 특정 API, 모델 또는 가격 정책 출시를 명시하지 않는다.",
+ "title": "Vidu의 개발자 플랫폼, 공식 문서화된 제품 채널로 자리 잡다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

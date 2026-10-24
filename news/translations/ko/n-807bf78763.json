@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pika는 Discord 기반 베타에서 강력한 웹 플랫폼으로 전환했습니다. 최근에는 'AI Self' 기능을 도입했으며, 'AI Selfie' 도구를 사용자가 디지털 클론으로 수익을 얻을 수 있는 수익화 생태계로 발전시켰습니다.",
+ "id": "n-807bf78763",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "이 플랫폼은 영화 같은 화질과 동적 객체 변환을 위한 'Pikaffects'에 초점을 맞추고 있습니다. 기본 도메인을 pika.me에서 pika.art로 이전했습니다.",
+ "source_sha256": "bd555eab0201ba3cf5faaf3c8be1fe22d452531b187f7142940cb46f632ad9e8",
+ "summary": "Pika는 텍스트, 이미지, 비디오 프롬프트로부터 고품질 비디오와 애니메이션을 생성하는 고급 생성형 AI 플랫폼입니다. 캐릭터 일관성, 립싱크, 물리 기반 효과를 위한 전문 도구를 제공합니다.",
+ "title": "Pika 생성형 AI 비디오 및 애니메이션 플랫폼",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

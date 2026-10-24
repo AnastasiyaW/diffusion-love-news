@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 말에 공개되었으며, Qwen3.5 MoE 시리즈를 개선한 모델로서 다중 턴 추론의 일관성을 위해 'Thinking Preservation'을 도입했다. 2026년 5월 기준으로 llama.cpp와 같은 로컬 추론 엔진에서 네이티브 Multi-Token Prediction(MTP)을 지원하게 되어, 일반 소비자용 하드웨어에서의 성능이 향상되었다.",
+ "id": "n-97c6278d46",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apache 2.0 라이선스로 배포되며, SWE-bench Verified에서 77.2%의 성공률을 기록해 독점형 코딩 에이전트를 대체할 수 있는 선도적인 로컬 대안으로 자리매김하고 있다.",
+ "source_sha256": "e9f868639484581dbad60ece7025613000708d30b804b90cb400c7b164ed2f2b",
+ "summary": "알리바바가 2026년 4월에 공개한 270억(27B) 파라미터 규모의 덴스(dense) 모델로, 에이전트형 코딩과 복잡한 논리 추론에 특화되어 있다. Gated Attention과 Gated DeltaNet을 결합한 하이브리드 아키텍처를 사용하여 긴 컨텍스트가 필요한 저장소(repository) 단위 작업을 효율적으로 처리한다.",
+ "title": "Qwen3.6-27B: 고성능 오픈 웨이트 코딩 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

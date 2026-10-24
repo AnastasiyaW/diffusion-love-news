@@ -1,0 +1,10 @@
+{
+ "id": "n-1a1adbb4f3",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5743cfb83fa3d368cf5ac465078fe5a7c9b97ce4765e2670ba07d78ab9a4f3ee",
+ "summary": "El 2026-07-21 se registraron el blog de NVIDIA en Hugging Face y los enlaces al repositorio del modelo Cosmos3-Edge. En conjunto, indican un hito oficial de disponibilidad pública del proyecto, lo que lo hace relevante para su historia de desarrollo. Los enlaces proporcionados no establecen detalles sobre capacidades, licencia ni despliegue.",
+ "title": "NVIDIA publicó Cosmos3-Edge en Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于 2026 年 4 月发布后，陆续新增了预训练 checkpoint、训练指南以及用于高级运动控制的姿态驱动推理模块。",
+ "id": "n-d1faa63ee9",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由清华大学的研究人员开发；采用一种新颖的空间路由机制进行 token 级合成。",
+ "source_sha256": "532642119a046abaf8a2942eb758cea43c851ea837cfaf33cb79b839429f9cab",
+ "summary": "CoInteract 是一个 AI 框架，用于生成由语音和空间布局控制、具有真实人-物交互效果的视频。它采用人感知混合专家（Mixture-of-Experts, MoE）机制，使人体动作与物体交互保持同步。",
+ "title": "CoInteract：交互式人-物视频生成",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

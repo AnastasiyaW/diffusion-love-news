@@ -1,0 +1,10 @@
+{
+ "id": "n-ced223aa89",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "f9ce84403b8c4186cc2bf34739c36e97b8f68dd576ebb13348c9e8d17dc9ca76",
+ "summary": "2026年7月29日，MLSLabsRenderer-Lite 开发线被记录下了其公开项目网站和 MLSLabs Gaussian Splatting Renderer UE 代码仓库的链接。仅就这些带日期的链接而言，这为该项目的渲染器开发确立了一个可追溯的公开参考节点，但并不能确定具体的发布版本、功能集或版本号。",
+ "title": "MLSLabsRenderer-Lite 的公开项目与代码仓库参考",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-37729ce27a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "6f6205d3f458aac2fbc75506114161b010530e5e38c1592f99e7a35c1fe4bfd3",
+ "summary": "2026-08-23에 BornSaint/minimax-music3-latent-refiner-v0.10에 대한 Hugging Face 링크가 기록되었다. 버전이 명시된 아티팩트 링크는 MiniMax Music 3 Latent Refiner 개발 라인에서 v0.10이라는 구체적인 단계가 있음을 보여주지만, 이용 가능한 근거로는 그 기능과 변경 사항이 확인되지 않았다.",
+ "title": "MiniMax Music 3 Latent Refiner v0.10가 Hugging Face에 링크되었다",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

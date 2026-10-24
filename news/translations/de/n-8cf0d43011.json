@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "FastGHA markiert einen Wandel von langsamer, subjektspezifischer Optimierung hin zu einer verallgemeinerten, Feed-Forward-basierten 3DGS-Rekonstruktion. Das Verfahren folgt auf das frühere Avat3r (2025) und ist nun mit neueren Disney-Projekten wie RelightAnyone und CANRIG für fortgeschrittene Umgebungsbeleuchtung und Rigging integriert.",
+ "id": "n-8cf0d43011",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Offiziell auf der ICLR 2026 vorgestellt. Nutzt DINOv3- und Stable-Diffusion-VAE-Features für eine verbesserte strukturelle und texturelle Wiedergabetreue.",
+ "source_sha256": "64eec020fa6cb02d9ba5a5a7b4fa84f3e58f118b9d46c291aacb304baa7f5c08",
+ "summary": "FastGHA ist ein Feed-Forward-Verfahren, das aus spärlichen Bildern in weniger als einer Sekunde hochauflösende 3D-Kopf-Avatare rekonstruiert. Es nutzt transformerbasierte Feature-Fusion und vortrainierte Priors, um Echtzeit-Animation und präzise Ausdruckssteuerung für unbekannte Identitäten zu ermöglichen.",
+ "title": "FastGHA: Generalized Few-Shot 3D Gaussian Head Avatars",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Pasó a ser el modelo predeterminado de ChatGPT el 5 de mayo de 2026, sustituyendo a la serie GPT-5.3. Es el primer modelo base reentrenado por completo desde GPT-4.5, e incorpora omnimodalidad nativa y una integración profunda con Codex.",
+ "id": "n-2405c2d2f2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Logró un récord del 82,7 % en Terminal-Bench 2.0; la guía hace hincapié en la compresión de prompts y en la eliminación del «ruido de proceso» para obtener un rendimiento óptimo.",
+ "source_sha256": "43e78fca2784068578bf3da3e2cec63971d8a696ec044c97b542ae9e5950b803",
+ "summary": "El manual técnico oficial de GPT-5.5, el modelo multimodal insignia de OpenAI lanzado en abril de 2026. Describe el paradigma de prompting «Outcome-First», que prioriza la definición de los criterios de éxito frente a las instrucciones paso a paso.",
+ "title": "GPT-5.5: guía oficial de prompting de OpenAI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

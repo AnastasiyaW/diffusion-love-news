@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "IceCache 发表于 ICLR 2026，代表了语义感知 KV 缓存管理的当前前沿。它扩展了 PagedAttention 的思想，增加了基于 DCI-tree 的分层索引，用于查询感知的 token 检索。",
+ "id": "n-fc612ab002",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在 LongBench 基准上达到 99% 的准确率，同时活跃 GPU 缓存中仅使用 256 个 token。",
+ "source_sha256": "a6368bea7c7d668ef51f9281dc82a11401b2f436827875e90ffb411812e7ffb2",
+ "summary": "IceCache 通过语义 token 聚类和分层索引重组 KV 缓存，以优化长上下文大语言模型的推理。它通过选择性地将相关缓存页从 CPU 加载到 GPU，在大幅降低 GPU 内存占用的同时保持较高的准确率。",
+ "title": "IceCache：面向长上下文大语言模型的内存高效语义 KV 缓存",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

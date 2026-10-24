@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该工作入选 CVPR 2026 Highlight，项目于 2026 年 4 月正式发布。它标志着从割裂的两阶段流程向统一的基于扩散模型架构的重大转变，并于 2026 年 5 月公开了推理代码与模型权重。",
+ "id": "n-e33dfb0bdb",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由首尔国立大学视觉计算实验室（SNU Visual Computing Lab）开发；采用一种新颖的合成三元组监督方法，使模型能够在非配对数据上进行训练。",
+ "source_sha256": "2fab6617fedcc7b173781496aab260be69beb80a44253849142804e2908a811c",
+ "summary": "Vanast 是一个单阶段框架，将全身虚拟试穿与姿态引导的人体动画统一在一起。它可直接根据人物图像、服装输入和动作序列生成高保真视频，并保证时间一致性与身份保持。",
+ "title": "Vanast：统一的人体动画与虚拟试穿",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

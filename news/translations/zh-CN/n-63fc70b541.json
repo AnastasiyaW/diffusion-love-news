@@ -1,0 +1,10 @@
+{
+ "id": "n-63fc70b541",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b49815145e60cd50f91909145aa78748e54cd79f1267bc6fb096354d8db6bcf3",
+ "summary": "2026-03-13，与 SynthID-Bypass 相关的链接包括其公开代码仓库以及一个带版本号的 JSON 工作流产物 SynthID-Bypass-v2.0.json。同一批带日期的链接中还包含一个 Hugging Face 引用。这里记录的是一条具体的项目产物引用，但并不能确认其发布说明、功能、作者归属或验证状态。",
+ "title": "SynthID-Bypass v2.0 工作流产物已被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

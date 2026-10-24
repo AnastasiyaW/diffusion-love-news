@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt hat sich von v3 bis v11 weiterentwickelt und um spezialisierte Modelle für die Bearbeitung per Bounding-Box und Drag-and-Drop erweitert. Diese Updates verbessern das Identity Locking, indem sie gezielt bestimmte Architekturblöcke adressieren, sowie die Einbindung in interaktive Hugging Face Spaces.",
+ "id": "n-e5bb396e69",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die optimale Inferenzstärke liegt bei 0,65–0,75; der Erhalt der Identität konzentriert sich auf die Double-Blocks 6–7 der Klein-Architektur.",
+ "source_sha256": "24ac5cc0d6fc5b1957b7bb4ea8cb3da2ec88d5ef306b7b3417b410a52a21776e",
+ "summary": "Ein spezialisiertes LoRA für das FLUX.2 [klein]-9B-Modell, das präzises, interaktives Verschieben von Objekten innerhalb generierter Szenen ermöglicht. Es bewahrt die Identität von Figuren und die Konsistenz der Texturen während der räumlichen Bearbeitung, und zwar mithilfe von Bounding-Box- oder Drag-and-Drop-Workflows.",
+ "title": "FLUX.2 [klein] Move: Interaktives LoRA zum Verschieben von Objekten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

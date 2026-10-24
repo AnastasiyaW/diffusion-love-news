@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已从实验性工程原型演进为面向生产环境的企业级套件，具备 'Dreaming' 记忆优化和 'Outcomes' 自动纠错功能。现已原生集成 Claude 4.7 模型，用于实现持久化的自主编排。",
+ "id": "n-b4bbea9668",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "采用按量计费的 'Agent Credit' 计费体系，除标准 token 使用费外，每个会话每小时收取 0.08 美元的会话费。",
+ "source_sha256": "4c7f852afa1b9bdd48efe1f4de0dae6c5c9c45328d88b1b1f05bab52534df99e",
+ "summary": "Anthropic Managed Agents 为长时间运行、自主执行的 AI 工作流提供托管基础设施，并原生支持状态管理与工具集成。它负责沙箱隔离、凭证保险库和持久化记忆，以支持复杂的多步骤任务执行。",
+ "title": "Anthropic Managed Agents：面向长时间运行 AI 工作流的托管服务",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

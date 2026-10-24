@@ -1,0 +1,10 @@
+{
+ "id": "n-5540a93cb5",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "59b01f20584cc122d45834c8083c50585a9591472aec535f392b185383e60a7f",
+ "summary": "2026-06-26, Seed Audio 개발 기록에 ByteDance Seed Audio 1.0의 fal.ai 모델 페이지 링크가 포함되었다. 이는 해당 프로젝트에 대한 호스팅 접근 관련 참조로서, 모델의 최초 출시일이나 기술적 역량을 확정하지는 않는다.",
+ "title": "Seed Audio 1.0가 fal.ai 모델 페이지를 통해 참조됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

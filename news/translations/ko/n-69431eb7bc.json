@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "해당 뉴스 게시물은 로컬 또는 Colab 환경에서의 파인튜닝과 Qwen3.5 2B에 필요한 5 GB VRAM 요구 사항을 소개했다.",
+ "id": "n-69431eb7bc",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72aa2773e29a27aa7412c4fa2285d094ec9f581950059f9d46a578c17bc05fb2",
+ "summary": "해당 뉴스 게시물은 로컬 또는 Colab 환경에서의 파인튜닝과 Qwen3.5 2B에 필요한 5 GB VRAM 요구 사항을 소개했다.",
+ "title": "Unsloth, Qwen3.5 파인튜닝 가이드 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

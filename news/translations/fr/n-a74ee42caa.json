@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié officiellement en avril 2026 ; établi comme une méthode de référence sans entraînement (state-of-the-art) qui améliore la baseline Wan-Edit en résolvant les problèmes de signal bleeding et de fading. Il prolonge les travaux antérieurs de CUC-MIPG, notamment Edit-Transfer et IC-Effect.",
+ "id": "n-a74ee42caa",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le cadre cible spécifiquement les difficultés posées par les scénarios à objets multiples et à mouvements rapides, où les méthodes traditionnelles basées sur l'inversion échouent souvent ou manquent d'efficacité.",
+ "source_sha256": "9db928760533f732082915319093a0b5058fbb17aef0bff28f74ebc3ba99c209",
+ "summary": "FlowAnchor est un cadre d'édition vidéo sans entraînement et sans inversion, conçu pour des transformations vidéo-vers-vidéo de haute qualité. Il s'appuie sur un raffinement de l'attention spatialement conscient et sur une modulation adaptative de l'amplitude afin d'assurer la cohérence temporelle et des signaux d'édition précis.",
+ "title": "FlowAnchor : édition vidéo stable sans inversion",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

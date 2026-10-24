@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 LeapLabTHU와 Tencent Hunyuan의 협업으로 정식 공개되었습니다. '편집'에서 '재생성'으로 패러다임을 전환했으며, GeneralEval과 UniGeneralBench++ 같은 벤치마크에서 뚜렷한 성능 향상을 보였습니다.",
+ "id": "n-b6c1907179",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "ViT에서 유래한 의미 토큰을 사용하여 핵심 문맥은 보존하면서, 모델이 구조적 세부 요소를 완전히 새로 그릴 수 있도록 합니다.",
+ "source_sha256": "369ddf6f222587561439b9695f19255c404658fa22513e367387e80bd82eddd4",
+ "summary": "RvR은 픽셀 단위 편집 대신 고수준 의미 토큰으로부터 이미지를 재생성하여 이미지 품질과 의미적 정합성을 높이는 프레임워크입니다. 7B 규모의 Mixture-of-Tokens(MoT) 모델을 활용하여 기존 방법들이 해결하지 못하던 구조적 오류와 스타일 불일치를 바로잡습니다.",
+ "title": "RvR: 고품질 이미지 정제를 위한 재생성 기반 정제",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

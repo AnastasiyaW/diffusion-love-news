@@ -1,0 +1,11 @@
+{
+ "id": "n-2222547f97",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Fast는 텍스트/이미지-투-비디오를 처리했고, Pro는 오디오-투-비디오, Retake, Extend를 추가했다. 22B dev/distilled 가중치와 latent 업스케일러가 함께 공개되었다.",
+ "source_sha256": "0332afcf4f1322905920ce4cfb7fd721dd86b080ab6d6e73bf64be33d2f42540",
+ "summary": "2026년 3월 5일, LTX-2.3이 모델 페이지, 퀵스타트 문서, 텍스트-투-비디오 플레이그라운드와 함께 소개되었다. 이는 LTX-2.3 라인의 공개 제공 및 온보딩 단계로, 참고 자료와 대화형 진입점을 모두 포함한다.",
+ "title": "LTX-2.3, 문서와 텍스트-투-비디오 플레이그라운드와 함께 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

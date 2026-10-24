@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "HeyGen의 내부 도구에서 출발해 12,000개가 넘는 스타를 보유한 주요 오픈소스 생태계로 성장했습니다. 최근 업데이트에서는 'Agentic Video Stack'을 도입하고 AI 코딩 어시스턴트와의 통합을 추가했습니다.",
+ "id": "n-963305f6b7",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Apache 2.0 라이선스를 적용한 완전한 오픈소스 대안으로 Remotion과 비교되며, AI 네이티브 비디오 생성 워크플로를 1급으로 지원하는 점이 특징입니다.",
+ "source_sha256": "40095e12800612f0136089c4f59f0a9c22b45b30f9d447f511de6a464e045ea7",
+ "summary": "HTML, CSS, React 같은 웹 기술을 사용해 고품질 비디오를 제작하기 위한 Apache 2.0 오픈소스 프레임워크입니다. 고성능 렌더링을 위해 설계되었으며, AI 에이전트의 프로그래밍 방식 제어에 최적화되어 있습니다.",
+ "title": "HyperFrames: HeyGen의 프로그래밍 방식 비디오 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

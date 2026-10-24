@@ -1,0 +1,11 @@
+{
+ "id": "n-15f28b9d26",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Elige un modelo Claude actual para la carga de trabajo y, a continuación, usa su ID de modelo documentado y la plataforma compatible para tomar una decisión de integración.\n\nCrea una integración con la API realizando una primera llamada a la Messages API, manteniendo las credenciales fuera del control de versiones y del código del lado del cliente.\n\nPara trabajar con repositorios, instala Claude Code, autentícate con una cuenta elegible o con un proveedor compatible, inícialo desde el directorio del proyecto y verifica la instalación con `claude --version`.\n\nEscribe instrucciones de tarea directas, indica el formato de salida requerido y usa ejemplos cuando sea necesario; aplica la guía de prompting específica del modelo elegido.\n\nEstablece una fecha de caducidad para las claves de API, mantenlas fuera del control de versiones, del código del lado del cliente y de los prompts, y considera la federación de identidades de carga de trabajo en lugar de una clave estática.",
+ "source_sha256": "0217da0b603854b5bea3e1f88fe085bcb1ee6481c23eb17f1e9c1d5603c14653",
+ "summary": "El Tribunal de Apelaciones del Circuito del Distrito de Columbia desestimó las peticiones de Anthropic que impugnaban la medida del Departamento de Guerra de eliminar a Claude de su cadena de suministro. El dictamen recoge una orden para retirar los productos de Anthropic de los sistemas del departamento e impedir que los contratistas los utilicen en trabajos para el departamento.",
+ "title": "El Tribunal de Apelaciones del Circuito del Distrito de Columbia desestima las peticiones de Anthropic contra la exclusión de su cadena de suministro por parte del Pentágono",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-6ab0eb34ad",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3ed5a9d649b9b582c97f0f4363ae395b19d91c18a1e2a41cbb1c67ed780dff83",
+ "summary": "El 2026-03-20, un mensaje con fecha enlazó al repositorio de GitHub de S3T-Former. Esto establece una referencia pública de código contemporánea al proyecto, pero las pruebas disponibles no identifican una versión, una versión del artículo, un resultado de benchmark ni un cambio de código concreto. Por tanto, la entrada del historial debe registrar únicamente la disponibilidad del repositorio.",
+ "title": "Se compartió el repositorio de código fuente de S3T-Former",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

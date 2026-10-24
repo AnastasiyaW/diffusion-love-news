@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Auf der CVPR 2026 vorgestellt, führte C-MET durch die Nutzung selbstüberwachter Audio-Encoder eine Zero-Shot-Fähigkeit für erweiterte Emotionen ein. Derzeit gilt es als State-of-the-art-Plug-and-Play-Modul für die emotionale Synthese von Talking Heads.",
+ "id": "n-70f82f82ae",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt von Forschenden der UNIST und des KAIST; nutzt emotion2vec+ zur hochpräzisen semantischen Extraktion von Audiomerkmalen.",
+ "source_sha256": "899d771c9b52fa0f12a402b98bcdef84e84fe76893c4cb18630b087ff4747218",
+ "summary": "Ein modulares Framework zur feingranularen Emotionsbearbeitung in Talking-Face-Videos, das Sprachmerkmale auf Gesichtsausdrücke abbildet. Es unterstützt komplexe emotionale Zustände wie Sarkasmus und Empathie jenseits grundlegender Kategorien und lässt sich in bestehende, auf Disentanglement basierende Generatoren integrieren.",
+ "title": "C-MET: Cross-Modal Emotion Transfer für Talking-Face-Videos",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

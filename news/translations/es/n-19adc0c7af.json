@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "La herramienta pasó de ser una sencilla utilidad de cola JSON para Wan2GP a un espacio de trabajo completo full-stack (Vite/Express). Ahora incluye un storyboard visual, una línea de tiempo, un historial de versiones para los «takes» y herramientas especializadas para la sincronización de videoclips musicales con IA.",
+ "id": "n-19adc0c7af",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Optimizada específicamente para el ecosistema Wan2GP/LTX-2 y desarrollada bajo la marca ByteSound.",
+ "source_sha256": "3f5b12312b9880de61c604c109acd07d0410d43c1216461206f8875f32c5accf",
+ "summary": "Una «Director's Console» de código abierto diseñada para gestionar flujos de trabajo complejos de vídeo con IA, la organización de storyboards y la generación por lotes. Funciona como un frontend estructurado para modelos como LTX-2, con gestión de planos basada en línea de tiempo y control de parámetros en cascada.",
+ "title": "ByteCut Director: espacio de trabajo para producción de vídeo con IA",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

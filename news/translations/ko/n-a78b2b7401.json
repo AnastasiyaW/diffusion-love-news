@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "공식 프로젝트가 학습 및 추론 코드와 5B 720p 체크포인트를 공개했습니다. 검증 시점에는 14B 체크포인트가 아직 공개되지 않은 상태였습니다.",
+ "id": "n-a78b2b7401",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "74e4d6d2fa112ba42901075ae1898b3c70b70fbaea9ff125a2a9658d02bac472",
+ "summary": "공식 프로젝트가 학습 및 추론 코드와 5B 720p 체크포인트를 공개했습니다. 검증 시점에는 14B 체크포인트가 아직 공개되지 않은 상태였습니다.",
+ "title": "SANA-Video2 5B 코드와 체크포인트 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

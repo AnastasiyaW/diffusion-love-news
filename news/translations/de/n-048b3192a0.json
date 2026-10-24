@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Sechs Artikel wurden hinzugefügt, zwei Wiki-Links wurden korrigiert, und die Zahl der veröffentlichten Beiträge stieg von 828 auf 834.",
+ "id": "n-048b3192a0",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Ereignis erfasst nur den öffentlichen Commit-Betreff und unveränderliche Repository-Belege.",
+ "source_sha256": "15a5eb2cbe4101e7eff92b75fdf1e923d1f3eeea053e7b22133b71b91da93484",
+ "summary": "Ein Inhalts-Batch fügte sechs Artikel hinzu, behob zwei defekte Wiki-Links und aktualisierte die Zahl der veröffentlichten Beiträge von 828 auf 834.",
+ "title": "Batch 2026-06-04: sechs Artikel und Korrekturen bei Wiki-Links",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

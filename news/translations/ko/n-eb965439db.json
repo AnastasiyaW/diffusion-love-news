@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "GBrain은 2026년 4월 출시 이후 빠르게 발전했으며, 백그라운드 메모리 유지관리와 중복 제거를 담당하는 자율 'Dream Cycle'을 도입했습니다. 현재는 검색 평가를 위한 BrainBench-Real을 포함하고 있으며, OpenClaw 및 Hermes 에이전트 아키텍처의 기본 메모리 런타임으로 쓰이고 있습니다.",
+ "id": "n-eb965439db",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "AI 에이전트의 무상태(statelessness) 문제를 해결하기 위해 Garry Tan이 만들었습니다. 구조화된 메타데이터와 Git 버전 관리 기반 지식 저장을 통해 높은 데이터 밀도를 확보하는 데 중점을 둡니다.",
+ "source_sha256": "50c43596ab3a9181ceaee81d8f808e9eca76aaafd4b03ce9829af993288a61cc",
+ "summary": "GBrain은 Git으로 관리되는 Markdown 저장소와 PostgreSQL/pgvector 데이터베이스를 결합한 오픈소스 영속 메모리 기반(substrate)입니다. AI 에이전트에 장기적으로 누적되는 지식 베이스와 하이브리드 검색 기능을 제공합니다.",
+ "title": "OpenClaw 및 Hermes 에이전트를 위한 GBrain 메모리 레이어",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Ursprünglich als ERNIE-ViLG gestartet, entwickelte sich das Projekt Anfang 2026 zu den offenen Gewichtsvarianten ERNIE-Image 8B und Turbo. Es hat sich von frühen Diffusionsexperimenten zu einer effizienten 8B-DiT-Architektur mit optimiertem Textrendering entwickelt.",
+ "id": "n-97b254669d",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Enthält ein spezialisiertes Prompt-Enhancer-Modell und Day-0-Unterstützung für ComfyUI; belegt beim Textrendering auf LongText-Bench die Spitzenposition in Bezug auf die Genauigkeit.",
+ "source_sha256": "c240dae8239e73491086fff81574d39483fbb7545fef9df2a0bce5171b4a4525",
+ "summary": "Baidus fortschrittliche Suite zur Text-zu-Bild-Generierung auf Basis des multimodalen ERNIE-Frameworks. Sie nutzt eine Diffusion-Transformer-Architektur für hochwertige Ausgaben und native Unterstützung mehrerer Sprachen.",
+ "title": "ERNIE-Image 8B: Baidu-Hochleistungsmodell auf DiT-Basis",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

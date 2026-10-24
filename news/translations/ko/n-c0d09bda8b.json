@@ -1,0 +1,10 @@
+{
+ "id": "n-c0d09bda8b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a7e81c3fbd41a28e032762ccf160f28c39d4aaf991741500c1a14d00fbc71a02",
+ "summary": "2026-03-12, NVIDIA가 Nemotron 3 Super를 발표했다. 제공된 날짜가 명시된 링크들은 이번 릴리스를 모델 배포 페이지, 호스팅 기반 접근 경로, 영상 개요, NeMo 사용 쿡북과 연결하고 있어, 해당 프로젝트에서 의미 있는 진전 단계로 볼 수 있다.",
+ "title": "NVIDIA, Nemotron 3 Super 발표",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

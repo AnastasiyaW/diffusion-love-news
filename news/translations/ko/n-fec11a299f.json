@@ -1,0 +1,10 @@
+{
+ "id": "n-fec11a299f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7a8201b4c84b8ae4acf46b985e4a55184a43dddcf3e0163e4c8a97be8c869342",
+ "summary": "2026년 8월 1일, ByteShape는 Qwen Image 2512를 다룬 블로그 페이지와 관련 비교 페이지를 함께 링크했습니다. 이는 프로젝트 개발 이력에서 의미 있는 문서화 또는 평가 단계로 제시되고 있습니다. 현재 확보된 근거만으로는 어떤 모델 성능, 결과, 제품 변경도 확인되지 않습니다.",
+ "title": "ByteShape, Qwen Image 2512 관련 기사와 비교 자료 링크 게시",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

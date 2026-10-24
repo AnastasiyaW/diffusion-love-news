@@ -1,0 +1,10 @@
+{
+ "id": "n-0c7b2e5273",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7faf35982f1257f0e9acc8e0a58af72fa00ec583d1b968b100905357bd5b58e0",
+ "summary": "2026年3月11日，一条带日期的条目关联了 Omni-Diffusion 的项目网站、源代码仓库和 Hugging Face 模型页面。这些资源共同为该项目的文档、实现和模型获取提供了一个公开的参考入口。仅凭这些带日期的链接，无法确定发布版本、能力范围或评估结果。",
+ "title": "Omni-Diffusion 项目公开资源已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Lancé en avril 2026 pour ICML, OmniShow a introduit le cadre RAP2V et le benchmark d'évaluation HOIVG-Bench. Il constitue actuellement une solution de référence pour le conditionnement multimodal unifié en génération vidéo.",
+ "id": "n-03e4a812c8",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par ByteDance en collaboration avec de grandes universités de recherche, dont CUHK et HKU.",
+ "source_sha256": "ece3b672c34e72d912aa2220d3b006978d30d3e585222f8b1e407b25094728d0",
+ "summary": "OmniShow est un cadre de bout en bout permettant de générer des vidéos haute fidélité de personnes interagissant avec des objets à partir d'images, d'audio et de poses. Il se distingue par un contrôle précis du mouvement et une synchronisation labiale, destinés aux applications de commerce électronique et d'avatars numériques.",
+ "title": "OmniShow : génération vidéo unifiée multimodale d'interactions homme-objet",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

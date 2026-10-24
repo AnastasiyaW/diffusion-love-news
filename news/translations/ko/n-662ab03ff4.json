@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "단순한 역할극(role-play) 실험에서 출발해 프로덕션 수준의 '목표-DAG(Goal-to-DAG)' 오케스트레이션 프레임워크로 발전했습니다. 주요 업데이트로는 MCP 통합, 보안을 위한 컨텍스트 격리(context isolation), 엔터프라이즈 환경을 위한 엄격한 토큰 예산 관리(token budgeting) 등이 포함됩니다.",
+ "id": "n-662ab03ff4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "극단적인 이식성을 위해 '런타임 의존성 3개 이하' 원칙을 유지하며, 스스로를 LangGraph의 TypeScript 네이티브 기반 목표 우선(goal-first) 대안으로 자리매김하고 있습니다.",
+ "source_sha256": "b48d907ba4a40c348018c771a99bae818eb2cdb1c3e5f35ef3029ee1b6c46362",
+ "summary": "자율형 멀티 에이전트 팀을 구축하기 위한 목표 중심(goal-driven) TypeScript 오케스트레이션 엔진입니다. 고수준 목표를 작업 방향 비순환 그래프(DAG, directed acyclic graph)로 동적으로 분해하고, 병렬 실행과 결과 통합(synthesis)을 거쳐 이를 수행합니다.",
+ "title": "Open Multi-Agent (OMA) 프레임워크",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

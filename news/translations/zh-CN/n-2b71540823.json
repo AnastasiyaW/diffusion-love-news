@@ -1,0 +1,10 @@
+{
+ "id": "n-2b71540823",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "e5a517fa29020e1d75247f40a1234ce4240e45e6de2f15a989074dcad2c48b42",
+ "summary": "2026 年 7 月 31 日，WAN Create 站点包含一个标注为 realtime 的实验室演示场（lab playground）路由。这是一个值得关注的界面开发进展，因为它表明 WAN 存在一个交互式实时入口，有别于模型下载或批处理工作流链接。",
+ "title": "WAN 暴露了一个实时演示场（realtime playground）路由",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

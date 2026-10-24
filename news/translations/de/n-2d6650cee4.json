@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt von einem skriptbasierten Setup zu einem umfassenden Windows-.exe-Ökosystem mit Mehrsprachenunterstützung und Echtzeit-Ressourcenüberwachung. Das Projekt konzentriert sich nun darauf, Ein-Klick-Installer für hochaktuelle Modelle wie Qwen3-TTS und Motif Video bereitzustellen.",
+ "id": "n-2d6650cee4",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Erfordert Docker Desktop und NVIDIA-Hardware; der Fokus liegt auf der Lösung der \"Dependency Hell\", die in Open-Source-KI-Tools häufig auftritt, durch Containerisierung.",
+ "source_sha256": "6c4920e99817af093dc9f0f13544dbbc17a6c518e94c4efe411a75b9046d4bc7",
+ "summary": "Ein spezialisierter Windows-Launcher zum Testen und Verwalten neuer KI-Modelle in den Bereichen Bild, Video und TTS. Er vereinfacht das komplexe Abhängigkeitsmanagement, indem er Docker und WSL2 nutzt, um für jedes Modell eine isolierte Laufzeitumgebung zu schaffen.",
+ "title": "Deno AI Studio Windows-Installer für KI-Modelle",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Kimodo 于2026年3月发布后，被集成到 NVIDIA 的 ProtoMotions 框架中，用于为 Unitree G1 等人形机器人生成合成训练数据。目前，该模型正在扩展，以便在 NVIDIA Omniverse 中用于工业数字孪生仿真。",
+ "id": "n-61c8c02fec",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "该模型采用两阶段扩散架构，将根部运动与肢体运动分离，从而有效消除脚部滑动等伪影。",
+ "source_sha256": "004d2fb47be0593fb60bd986d31c41cc391df04f8acf214be802f328f1747a68",
+ "summary": "NVIDIA Kimodo 是一种运动学运动扩散模型，可根据文本提示生成高保真的3D人体和机器人动画。它利用专有的 Rigplay（RP）数据集和 SOMA 骨架模型，实现专业级的运动质量。",
+ "title": "英伟达 Kimodo：面向3D动画的运动学运动扩散模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Cinco artículos de investigación de llm-agents fueron enriquecidos.",
+ "id": "n-2f94cbb043",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "El recuento de archivos afectados se verificó a partir de la lista de archivos del commit inmutable.",
+ "source_sha256": "cb5440c7c06174c1189c4e54254e91dfc5c9177b32393858396b68c4533c56c8",
+ "summary": "Cinco artículos públicos del dominio llm-agents fueron enriquecidos en el repositorio.",
+ "title": "Enriquecer artículos de investigación sobre agentes",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

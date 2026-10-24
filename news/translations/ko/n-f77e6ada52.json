@@ -1,0 +1,10 @@
+{
+ "id": "n-f77e6ada52",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "256ddf1659655dbc76b65a0b11d715cb1a6290f85dfbf55ba1545de8af42de38",
+ "summary": "2026-08-24 기준으로 macOS Harness 개발 라인에 browser-use/macos-harness GitHub 저장소 링크가 포함되었습니다. 확보된 증거는 날짜와 저장소 참조를 확인해 줄 뿐, 릴리스, 구현 변경, 프로젝트 성숙도는 확인하지 않습니다. 이 히스토리 이벤트는 날짜가 기록된 저장소 참조만을 담고 있습니다.",
+ "title": "macOS Harness GitHub 저장소 링크 추가",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

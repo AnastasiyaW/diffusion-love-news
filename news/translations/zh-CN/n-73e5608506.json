@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目于2026年4月正式发表于arXiv（2604.14004）。它标志着从单一领域的自我进化转向统一的跨领域记忆池，并在GPT-5-mini和Qwen3-Coder等新一代模型上得到验证。",
+ "id": "n-73e5608506",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由KAIST AI与NYU及DeepAuto.ai合作开发；在多个编程基准测试中展示了3.7%的性能提升。",
+ "source_sha256": "007dcebaa6fd1a70320e5ddd5c142a27086a93b59642f31a8bfc540a837823c6",
+ "summary": "一个来自KAIST的框架，使AI编程智能体能够在异构领域之间迁移知识。它通过从任务轨迹中提取高层次的策略性洞见，而非复用低层次的轨迹痕迹，从而提升性能。",
+ "title": "面向AI编程智能体的记忆迁移学习（MTL）",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

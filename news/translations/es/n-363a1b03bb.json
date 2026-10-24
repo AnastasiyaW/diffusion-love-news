@@ -1,0 +1,10 @@
+{
+ "id": "n-363a1b03bb",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0d34f1b89b4abed8835581884a1e8f050271037a01b6a661662a0a2f695ec447",
+ "summary": "El 2026-07-26, un enlace público registrado vinculó el repositorio del modelo Mage-Flow en Hugging Face con un repositorio de GitHub para la integración con ComfyUI. El conjunto de enlaces fechado registra que los recursos del modelo y una integración orientada a ComfyUI estaban conectados públicamente en ese momento. No establece una versión de lanzamiento específica, la autoría ni las capacidades técnicas.",
+ "title": "Modelo Mage-Flow e integración con ComfyUI vinculados públicamente",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

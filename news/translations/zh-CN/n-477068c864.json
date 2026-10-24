@@ -1,0 +1,10 @@
+{
+ "id": "n-477068c864",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "0711fa66213710976f1dccd8e14443ea1b8fc5edc738e446eacb4e42b7eea853",
+ "summary": "2026-04-02，H Company 发布了新模型 Holo3。相关项目、API 和模型仓库页面表明，此次发布既面向直接使用，也面向模型访问。该记录不包含原始文本或独立研究，因此具体能力和发布条款仍未经证实。",
+ "title": "H Company 发布 Holo3 模型",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

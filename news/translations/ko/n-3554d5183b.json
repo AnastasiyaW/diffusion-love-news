@@ -1,0 +1,10 @@
+{
+ "id": "n-3554d5183b",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "34253fde6d436bb7d2e721f0f0cbdc151f43cd8e009ed2ec4b3b7d08bc645e17",
+ "summary": "2026년 8월 3일, PrunaVAED가 LTX Video 개발 스레드에 Hugging Face 저장소 및 ComfyUI pull request 링크와 함께 기록되었습니다. 통합 측면에서 의미 있는 이정표이지만, 제공된 근거만으로는 해당 pull request의 결과, 버전, 런타임 동작을 확인할 수 없습니다.",
+ "title": "PrunaVAED, LTX Video 통합 스레드에 등장",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

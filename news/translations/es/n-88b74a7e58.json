@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Tras su aceptación en CVPR 2026, el proyecto se actualizó a la versión v2 en abril de 2026. Esta versión introdujo un decodificador VAE condicional mejorado, atención dispersa optimizada para el procesamiento de vídeo 4K y capacidades de inferencia distribuida en múltiples GPU.",
+ "id": "n-88b74a7e58",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por investigadores de USTC y Alibaba; el marco de trabajo utiliza Wan2.1-T2V-1.3B como backbone y generaliza con éxito a una resolución 4K mediante codificación VAE por mosaicos (tiled VAE).",
+ "source_sha256": "93d1cb5025a7d37b0d329fc040de48b0455f94b7281a37bf1b8433e39d48de76",
+ "summary": "Un marco de trabajo de vanguardia para la interpolación de fotogramas de vídeo que adapta la arquitectura de transformador de difusión Wan2.1 para el modelado holístico de secuencias. Utiliza generación auto-regresiva con muestreo Skip-Concatenate para mantener la consistencia temporal en vídeos largos y fotogramas de alta resolución.",
+ "title": "LDF-VFI: Local Diffusion Forcing para interpolación de fotogramas de vídeo",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

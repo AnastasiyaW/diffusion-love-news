@@ -1,0 +1,10 @@
+{
+ "id": "n-30436dd38f",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "73349b71de52afa36ee70764fd3430d048684bdb1b344106bc21d4a56407e2d8",
+ "summary": "2026年3月24日，该开发线记录了指向 Hugging Face 上 LTX-LoRAs 仓库以及 Civitai 上 LTX LoRAs 页面的链接。这些链接表明该项目存在一项与公开分发或发现相关的步骤，但该记录并未确定具体的模型变体、inpainting 行为、兼容性、来源或发布细节。",
+ "title": "LTX LoRA 分发链接已记录",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

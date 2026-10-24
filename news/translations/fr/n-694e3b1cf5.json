@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le service est devenu une plateforme commerciale mature, dotée d'une intégration dédiée sous forme de nœud ComfyUI et d'un partenariat stratégique avec Shutterstock.",
+ "id": "n-694e3b1cf5",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Propose un accès API pour les développeurs d'entreprise et génère plusieurs variantes stylistiques pour chaque vidéo importée.",
+ "source_sha256": "cb7f1e099284417e4a0dc160060726008b39254fe34168b8b4d7883339583c4e",
+ "summary": "Sonilo est une plateforme d'IA générative qui crée des bandes sonores synchronisées en analysant le mouvement, le rythme et les transitions de la vidéo. Elle fournit une musique de qualité professionnelle qui s'aligne automatiquement sur le contenu visuel, sans nécessiter de prompts textuels complexes.",
+ "title": "Sonilo : génération de musique à partir de vidéo pour créateurs de contenu",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

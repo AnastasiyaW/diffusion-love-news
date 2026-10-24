@@ -1,0 +1,10 @@
+{
+ "id": "n-145acbde64",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "4cfb8f526b16af44d24f885a8bb8e433fec24eb0a90d387da2bf451c5dab00fc",
+ "summary": "Am 16.05.2026 verknüpften die datierten Belege Dramabox-Ressourcen, darunter die Dokumentation von Resemble AI, ein Hugging-Face-Modell-Repository, ein Hugging-Face-Space und ein GitHub-Repository. Zusammengenommen deuten diese offiziellen Projektressourcen auf einen Meilenstein bei der öffentlichen Verfügbarkeit von Dramabox hin. Die vorliegenden Belege belegen jedoch weder eine Version, Funktionen oder eine Lizenz noch die ursprünglichen Veröffentlichungsdaten der verlinkten Ressourcen.",
+ "title": "Dramabox-Modell, Demo und Quellressourcen wurden verlinkt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

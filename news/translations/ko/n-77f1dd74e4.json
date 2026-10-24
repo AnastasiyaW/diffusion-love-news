@@ -1,0 +1,10 @@
+{
+ "id": "n-77f1dd74e4",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3816b191c42882ff1e390c8e026d0ab384bb71e63c146eb9b0b80451ff0d8e4f",
+ "summary": "2026-08-01, 이 라인은 Disney Research의 Studios 사이트에 연결된 “Interactive Generative Motion Editing via Scheduled Inpainting” 연구를 기록했습니다. 함께 제공된 영상 링크를 보면, 이 연구에는 모션 편집 접근법을 시각적으로 보여주는 데모가 포함되어 있는 것으로 보입니다.",
+ "title": "Disney Research, 예약 인페인팅 기반의 인터랙티브 생성형 모션 편집 연구 공개",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

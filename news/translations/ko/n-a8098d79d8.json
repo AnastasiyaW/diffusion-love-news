@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CameraBench(2025)를 기반으로, CHAI는 확장 가능한 감독 루프와 구조화된 영화 어휘를 도입했습니다. 전문 영화 제작 응용을 위해 Moodio와 CameraBench-Pro를 향한 개발이 이어지고 있습니다.",
+ "id": "n-a8098d79d8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "200여 개의 전문적인 시각적 기본 요소를 활용하며, 8B 모델 변형은 특정 캡셔닝 작업에서 GPT-5와 같은 더 큰 독점 시스템을 뚜렷이 능가합니다.",
+ "source_sha256": "4cfff856b825c26c2cb8c50bceab7892631824c1048445e1fbe1c8cdd7afa408",
+ "summary": "사람이 루프에 참여하는 비평(critique) 과정을 활용해 AI가 생성한 설명을 다듬는, 고정밀 비디오 이해 프레임워크입니다. 카메라 움직임이나 공간적 동역학과 같은 영화적 기본 요소(cinematic primitives)에 특화되어 있어, 소형 모델도 뛰어난 정확도를 달성할 수 있습니다.",
+ "title": "CHAI: 비디오 캡셔닝을 위한 비평 기반 인간-AI 감독",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

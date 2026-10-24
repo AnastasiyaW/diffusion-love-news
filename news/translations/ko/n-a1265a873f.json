@@ -1,0 +1,10 @@
+{
+ "id": "n-a1265a873f",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a4d69ce6041b374269b9a54cc9d08daa46864cf7f1cbd1304fbf750c84cb5aeb",
+ "summary": "2026년 6월 18일자 프로젝트 이력에 Unsloth의 Hugging Face 저장소 GLM-5.2-GGUF로 연결되는 링크가 기록되어 있다. 해당 날짜의 링크는 GGUF 배포를 위한 공개 저장소 참조가 존재했음을 보여주지만, 그 날짜 시점에 저장소에 어떤 파일과 내용이 있었는지, 또 공개 출시 상태였는지는 확인해 주지 않는다.",
+ "title": "GLM-5.2-GGUF Hugging Face 저장소 참조 기록",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

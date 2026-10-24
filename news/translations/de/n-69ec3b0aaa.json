@@ -1,0 +1,10 @@
+{
+ "id": "n-69ec3b0aaa",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "af8b33c0cec1a1a4cb9c92b6575085798616868496a9b2666ef64292f09f4e82",
+ "summary": "Am 13.03.2026 wurde die Entwicklungslinie NVILA-HD-Video über Links zum VILA-Quellcode, einem von NVIDIA bereitgestellten Modell-Checkpoint und verwandten AutoGaze-Ressourcen präsentiert. Zusammen schufen diese Links einen praktischen öffentlichen Einstiegspunkt, um die Implementierung einzusehen und das referenzierte Modell zu beziehen.",
+ "title": "NVILA-HD-Video wurde mit Quellcode, Modell und zugehörigen Demo-Ressourcen vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

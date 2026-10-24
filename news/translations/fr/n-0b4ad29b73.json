@@ -1,0 +1,10 @@
+{
+ "id": "n-0b4ad29b73",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "93c0b4467eb0ebf272c902b972285db40f4659abe067c998793f22b800522231",
+ "summary": "Le 14/06/2026, l'enregistrement daté renvoyait vers la documentation DevPack de Z.ai pour le dernier modèle de la lignée de projets GLM-5.2. Il s'agit d'une étape importante en matière de documentation et de disponibilité, mais le billet et la documentation associée n'ont pas fait l'objet d'une recherche approfondie ; aucun détail de sortie, capacité ou condition d'accès n'est donc affirmé.",
+ "title": "La documentation de Z.ai désigne GLM-5.2 comme son modèle le plus récent",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

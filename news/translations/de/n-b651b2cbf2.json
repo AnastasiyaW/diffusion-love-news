@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Akzeptiert auf der CVPR 2026. Die Arbeit stellt eine Weiterentwicklung früherer Arbeiten wie AvatarArtist und HeadArtist dar, weg von template-basierten oder Distillationsverfahren hin zu einem rein autoregressiven Generierungsansatz. Die öffentliche Veröffentlichung des Codes steht noch unter interner Prüfung aus.",
+ "id": "n-b651b2cbf2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Gemeinsames Projekt der HKUST und der Ant Group; nutzt 3D Gaussian Splatting für echtzeitfähiges, fotorealistisches Rendering und Animation.",
+ "source_sha256": "65cb8f16ec783347b37c98558f6414e0b16a1d206039b674da236201112aecb3",
+ "summary": "Ein Framework, das aus einem einzelnen Porträtbild steuerbare 4D-Gaussian-Avatare erzeugt, und zwar mit einem Decoder-only-Transformer. Die Avatar-Erzeugung wird als sequenzielle Vorhersageaufgabe behandelt, um hochauflösende geometrische Details und Mimik zu erreichen.",
+ "title": "AvatarPointillist: AutoRegressive 4D Gaussian Avatars aus Bildern",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

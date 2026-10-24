@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "FastGHA는 느린 대상별(subject-specific) 최적화에서 일반화된 feed-forward 3DGS 복원으로의 전환을 보여줍니다. 이전 연구인 Avat3r(2025)를 잇고 있으며, 고급 환경 조명 및 리깅을 위해 최신 Disney 프로젝트인 RelightAnyone 및 CANRIG와 통합되었습니다.",
+ "id": "n-8cf0d43011",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "ICLR 2026에 공식 발표되었습니다. DINOv3 및 Stable Diffusion VAE 특징을 활용하여 구조적 및 질감적 충실도를 향상시켰습니다.",
+ "source_sha256": "64eec020fa6cb02d9ba5a5a7b4fa84f3e58f118b9d46c291aacb304baa7f5c08",
+ "summary": "FastGHA는 희소한 이미지로부터 1초 이내에 고품질 3D 헤드 아바타를 복원하는 feed-forward 방법입니다. Transformer 기반 특징 융합과 사전 학습된 prior를 활용하여, 학습에 포함되지 않은 신원에 대해서도 실시간 애니메이션과 정밀한 표정 제어를 가능하게 합니다.",
+ "title": "FastGHA: 일반화된 Few-Shot 3D Gaussian 헤드 아바타",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

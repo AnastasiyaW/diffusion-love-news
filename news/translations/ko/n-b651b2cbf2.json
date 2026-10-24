@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "CVPR 2026에 채택되었다. AvatarArtist 및 HeadArtist와 같은 기존 연구에서 발전한 것으로, 템플릿 기반 또는 distillation 방식에서 순수 자기회귀 생성 방식으로 나아간 것이다. 공개 코드 릴리스는 내부 검토가 진행 중이다.",
+ "id": "n-b651b2cbf2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "HKUST와 Ant Group의 공동 프로젝트이며, 실시간 사실적 렌더링과 애니메이션을 위해 3D Gaussian Splatting을 활용한다.",
+ "source_sha256": "65cb8f16ec783347b37c98558f6414e0b16a1d206039b674da236201112aecb3",
+ "summary": "디코더 전용 Transformer를 사용해 단일 인물 사진으로부터 구동 가능한(drivable) 4D 가우시안 아바타를 생성하는 프레임워크다. 아바타 생성을 순차적 예측 과제로 다루어 고충실도의 기하학적 디테일과 표정을 구현한다.",
+ "title": "AvatarPointillist: 이미지로부터 생성하는 자기회귀 4D 가우시안 아바타",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

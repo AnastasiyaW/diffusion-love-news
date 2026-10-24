@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après son lancement en avril 2026, le projet a ajouté des checkpoints pré-entraînés, des consignes d'entraînement et un module d'inférence piloté par la pose pour un contrôle avancé du mouvement.",
+ "id": "n-d1faa63ee9",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Développé par des chercheurs de l'université Tsinghua ; il utilise un nouveau mécanisme de routage spatial pour la synthèse au niveau des tokens.",
+ "source_sha256": "532642119a046abaf8a2942eb758cea43c851ea837cfaf33cb79b839429f9cab",
+ "summary": "CoInteract est un cadre d'IA permettant de générer des vidéos présentant des interactions humain-objet réalistes, contrôlées par la parole et par des dispositions spatiales. Il s'appuie sur un mécanisme de type Human-Aware Mixture-of-Experts (MoE) pour synchroniser les mouvements humains avec les interactions avec les objets.",
+ "title": "CoInteract : génération vidéo d'interactions humain-objet",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

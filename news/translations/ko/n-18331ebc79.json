@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "이 프로젝트는 초기 JavisDiT(v0.1)에서 출발해 JavisGPT를 통해 생성과 이해를 통합하는 JavisVerse 생태계로 발전했습니다. 최신 버전인 JavisDiT++(v1.0)는 ICLR 2026에 채택되었으며, 정밀한 오디오-비주얼 동기화를 위해 Mixture-of-Experts(MoE) 설계와 Temporally Aligned RoPE를 도입했습니다.",
+ "id": "n-18331ebc79",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "JavisBench 평가 스위트를 포함하며, 출력 정렬을 위해 Audio-Video Direct Preference Optimization(AV-DPO)을 활용합니다.",
+ "source_sha256": "5f4b9c242b12f62c4747a53454f59583abecc973887a2335bff82d7765dfb521",
+ "summary": "조인트 오디오-비디오 생성 및 이해를 위한 멀티모달 생태계입니다. 통합 Diffusion Transformer 아키텍처를 채택하여 텍스트 프롬프트로부터 시간적으로 동기화된 사운드를 포함한 비디오를 생성합니다.",
+ "title": "JavisDiT: 조인트 오디오-비디오 디퓨전 트랜스포머",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

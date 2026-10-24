@@ -1,0 +1,10 @@
+{
+ "id": "n-868a3aaeef",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b99c62612430f77406df5fc705b402e55a25b3d1463cf1cf8be7cc4e738d19b7",
+ "summary": "2026-07-19, Canon UltraReal이 Civitai와 Hugging Face의 공개 모델 페이지와 연결되었습니다. 이는 해당 프로젝트의 배포 목록 공개 시점을 날짜와 함께 기록한 이정표이지만, 제공된 근거만으로는 버전, 가중치 변경, 릴리스 노트 또는 원본 메시지의 내용은 확인되지 않습니다.",
+ "title": "Canon UltraReal이 Civitai와 Hugging Face에 공개 등록됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

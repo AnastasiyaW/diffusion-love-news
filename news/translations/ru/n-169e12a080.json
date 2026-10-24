@@ -1,11 +1,12 @@
 {
+ "evolution_summary": "Проект прошёл путь от скрипта на Python, ориентированного на исследования, до нативного рантайма на C++ с аппаратным ускорением. Сейчас поддерживаются NVIDIA TensorRT на Windows и Apple Silicon через MLX, а также полная интеграция с современными NLE, включая DaVinci Resolve 19.",
  "id": "n-169e12a080",
  "lang": "ru",
- "model": "legacy-web-overlay",
- "research_notes": "Разработано Alexandre Alvaro совместно с Corridor Digital. Включает отдельный десктопный GUI и CLI для пакетной обработки.",
- "source_sha256": "legacy",
- "summary": "Нативное решение для кеинга зелёного экрана на основе AI, рассчитанное на высокопроизводительное локальное исполнение. Оно обеспечивает профессиональный matting в виде OFX-плагина для DaVinci Resolve и Foundry Nuke, без необходимости в сложных Python-окружениях.",
- "title": "CorridorKey-Runtime: AI-кеер хромакея",
- "translated_at": null,
+ "model": "claude-haiku-5-5",
+ "research_notes": "Разработан Александре Альваро в сотрудничестве с Corridor Digital. Включает standalone-десктопный GUI и CLI для пакетной обработки.",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "Нативное решение для AI-кеинга зелёного экрана, рассчитанное на высокопроизводительный локальный запуск. Оно предоставляет матирование профессионального уровня в виде OFX-плагина для DaVinci Resolve и Foundry Nuke и не требует сложного окружения Python.",
+ "title": "CorridorKey-Runtime: AI-кеер для зелёного экрана",
+ "translated_at": "2026-10-24",
  "translation": "machine"
 }

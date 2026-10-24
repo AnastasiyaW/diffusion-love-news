@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "OmniVoice ha evolucionado hasta convertirse en una biblioteca de nivel de producción, con integración completa en el framework de despliegue Sherpa-ONNX. Ahora admite un multilingüismo masivo en más de 600 idiomas y está optimizada para su ejecución multiplataforma en el edge.",
+ "id": "n-665b60a4fc",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Desarrollado por el equipo k2-fsa (Next-gen Kaldi); admite un control detallado que incluye señales no verbales y corrección de pronunciación.",
+ "source_sha256": "e34d6cee1a5109c7479bbfdc534c7408d8c00e6191b263960856c97beef40a1d",
+ "summary": "OmniVoice es un sistema de conversión de texto a voz multilingüe de alto rendimiento, compatible con más de 600 idiomas y con clonación de voz zero-shot avanzada. Utiliza una arquitectura de Diffusion Language Model para ofrecer audio de alta fidelidad a velocidades extremas.",
+ "title": "OmniVoice: síntesis de voz multilingüe y clonación de voz zero-shot",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

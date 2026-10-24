@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Aufbauend auf der ursprünglichen ThinkSound-Forschung führte PrismAudio spezialisierte CoT-Module für semantische, zeitliche, ästhetische und räumliche Audiomerkmale ein, die über Fast-GRPO-Reinforcement-Learning optimiert werden, um die Übereinstimmung mit der menschlichen Wahrnehmung zu verbessern.",
+ "id": "n-8fe6695c64",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Angenommen für die ICLR 2026; in der Lage, 9 Sekunden hochwertiges räumliches Audio in weniger als 0,7 Sekunden zu erzeugen, während Halluzinationen, wie sie bei monolithischen Modellen häufig auftreten, minimiert werden.",
+ "source_sha256": "0ac2a3d54994243ec7f7338959afbfd0787121c2f5777b7b9c4682a7cc1cfdb8",
+ "summary": "Ein modernes Framework zur Erzeugung synchronisierter Stereo-Soundeffekte aus Videos, das vierdimensionales, zerlegtes Chain-of-Thought-Reasoning nutzt. Entwickelt vom FunAudioLLM-Team von Alibaba, setzt es Reinforcement Learning ein, um hohe perzeptuelle Genauigkeit und zeitliche Ausrichtung sicherzustellen.",
+ "title": "PrismAudio: Video-zu-Audio-Generierung über zerlegte CoT",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

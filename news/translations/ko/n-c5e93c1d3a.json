@@ -1,0 +1,10 @@
+{
+ "id": "n-c5e93c1d3a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "fa41026ae0d140da4d03ca12cb37e4ac2e8a9dbe24147d8763f56fd44d03471f",
+ "summary": "2026년 7월 7일, 이 개발 흐름은 NVIDIA Nemotron-Labs-Audex-30B-A3B와 Nemotron-Labs-Audex-2B의 공개 Hugging Face 저장소 트리를 연결했습니다. 이 연결은 두 Audex 모델 변형의 공개 가용성에서 의미 있는 이정표가 되지만, 정확한 출시 세부 사항은 여기서 확인되지 않았습니다.",
+ "title": "Audex 모델 저장소 공개 검색 가능 상태로 전환",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

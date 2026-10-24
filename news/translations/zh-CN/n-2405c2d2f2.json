@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026 年 5 月 5 日起成为 ChatGPT 的默认模型，取代了 GPT-5.3 系列。它是自 GPT-4.5 以来第一个完全重新训练的基础模型，具备原生全模态能力，并深度集成 Codex。",
+ "id": "n-2405c2d2f2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "在 Terminal-Bench 2.0 上取得 82.7% 的创纪录成绩；指南强调提示词压缩，并去除“过程性冗余”以获得最佳性能。",
+ "source_sha256": "43e78fca2784068578bf3da3e2cec63971d8a696ec044c97b542ae9e5950b803",
+ "summary": "这是 GPT-5.5 的官方技术手册。GPT-5.5 是 OpenAI 于 2026 年 4 月发布的旗舰多模态模型。手册提出了“结果优先”（Outcome-First）的提示范式，主张优先定义成功标准，而非逐步指令。",
+ "title": "GPT-5.5：OpenAI 官方提示词指南",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

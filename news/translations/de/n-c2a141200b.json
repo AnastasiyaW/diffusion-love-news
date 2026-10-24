@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Von einem experimentellen Hilfsprogramm zu einer stabilen Vollversion im April 2026 weiterentwickelt. Größere Updates führten \"Lasers\" ein, eine visuelle Hervorhebung aktiver Verbindungen, sowie eine automatische Canvas-Sprungfunktion zur schnellen Überprüfung einzelner Knoten.",
+ "id": "n-c2a141200b",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "In reinem JavaScript/TypeScript für hohe Performance implementiert; vermeidet das \"Doom-Scroll\"-Problem in umfangreichen ComfyUI-Workflows.",
+ "source_sha256": "eb39a4719b3ae015bbdcb640b0ec707eaef551dd889007f0e925bc74ff558ea7",
+ "summary": "Eine Produktivitätserweiterung für ComfyUI, die eine Seitenleiste zum Verbinden von Knoten bereitstellt, ohne Verbindungen quer über die Canvas ziehen zu müssen. Sie verfügt über ein suchbasiertes Verbindungssystem, benötigt keine externen Abhängigkeiten und bleibt vollständig kompatibel mit den gängigen Workflow-JSON-Formaten.",
+ "title": "ConnectTheDots: Seitenleisten-Werkzeug zum Verbinden von Knoten für ComfyUI",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

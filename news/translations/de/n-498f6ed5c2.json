@@ -1,0 +1,10 @@
+{
+ "id": "n-498f6ed5c2",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c05292600227dc3698bdc17d2d2a09c0fa5d21b4dd04658ee74a931aba6e111a",
+ "summary": "Am 26.07.2026 enthielt die VVAH-Entwicklungslinie einen Verweis auf das öffentliche GitHub-Repository Visa Vulnerability Agentic Harness von Visa. Der datierte Verweis kennzeichnet das Projekt als Ressource für ein agentisches Harness zur Schwachstellenanalyse, belegt jedoch weder ein Release, eine Version, einen Funktionsumfang noch operative Ergebnisse.",
+ "title": "Repository-Verweis zum Visa Vulnerability Agentic Harness",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

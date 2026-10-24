@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "该项目从以研究为导向的 Python 脚本演进为具备硬件加速能力的原生 C++ 运行时。目前支持 Windows 上的 NVIDIA TensorRT 以及通过 MLX 运行于 Apple Silicon 的加速，并全面集成到 DaVinci Resolve 19 等现代非线性编辑系统（NLE）中。",
+ "id": "n-169e12a080",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由 Alexandre Alvaro 与 Corridor Digital 合作开发。提供独立的桌面 GUI 以及用于批量处理的 CLI。",
+ "source_sha256": "0e87be3add52e028a29fc5fe8946a710721ec2ab8f07f4b09d3d21322a160d52",
+ "summary": "一款原生的 AI 绿幕抠像方案，专为高性能本地运行而设计。它以 OFX 插件的形式为 DaVinci Resolve 和 Foundry Nuke 提供专业级的抠图（matting）能力，无需搭建复杂的 Python 环境。",
+ "title": "CorridorKey-Runtime：AI 绿幕抠像工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

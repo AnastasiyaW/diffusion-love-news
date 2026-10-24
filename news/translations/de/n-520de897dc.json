@@ -1,0 +1,10 @@
+{
+ "id": "n-520de897dc",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "95cda5f5ce247bd05551fe5b9dec886357a0c22a543d21d4bcc108a23e9557d6",
+ "summary": "Am 2026-06-03 verlinkte eine Nachricht im braindb-Thread das Projekt-Repository unter github.com/dimknaf/braindb. Der datierte Link belegt einen öffentlichen Verweis auf das Repository, ohne Nachrichtentext oder Repository-Snapshot jedoch weder ein Release, ein Feature noch einen anderen Meilenstein der Implementierung. Diese Seite dokumentiert ausschließlich dieses Ereignis der Repository-Referenz.",
+ "title": "Das GitHub-Repository von braindb wurde öffentlich referenziert",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

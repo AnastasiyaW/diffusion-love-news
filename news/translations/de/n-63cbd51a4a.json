@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelt von einem macOS-Desktop-Client zu einer Full-Stack-Plattform mit einem \"Squads\"-System für die Zusammenarbeit mehrerer Agenten und einem standardisierten Agent Client Protocol (ACP). Kürzlich kamen ein Skills-Framework zum Verpacken von Agenten-Mustern sowie ein Template-Katalog für Bereitstellung mit einem Klick hinzu.",
+ "id": "n-63cbd51a4a",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Das Projekt ist nach dem Betriebssystem Multics benannt und soll als Human-AI Operating System für die kollaborative Softwareentwicklung fungieren.",
+ "source_sha256": "58158f0705320c8d7363672746ea6e69e1ce7435f44218c6ffcb006c45084184",
+ "summary": "Eine quelloffene Plattform für verwaltete Agenten, die autonome Coding-Agenten als vollwertige Teammitglieder in menschliche Arbeitsabläufe einbindet. Sie stellt eine herstellerneutrale Betriebsschicht bereit, die lokale Daemons und Cloud-Laufzeitumgebungen für Agenten wie Claude Code, Gemini und GitHub Copilot CLI koordiniert.",
+ "title": "Multica: Open-Source-Plattform zur Verwaltung von KI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

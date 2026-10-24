@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Seit der Veröffentlichung im April 2026 hat das Projekt offizielle Gewichte und eine interaktive Gradio-Demo auf Hugging Face veröffentlicht. Es hat einen neuen State-of-the-Art-Benchmark für Video-Segmentierung in anspruchsvollen Domänen wie Anime und Gaming etabliert.",
+ "id": "n-bb0f83ff09",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt vom UVA Computer Vision Lab; verwendet einen neuartigen relationalen Ansatz anstelle der traditionellen Klassifikation Frame für Frame.",
+ "source_sha256": "cbc998eeca454fc89e8c30d09e0cc528886ead2204a1aca726b5c0025c1c47c1",
+ "summary": "OmniShotCut ist ein transformerbasiertes Framework für hochpräzise Shot-Boundary-Detection über verschiedene Videotypen hinweg. Es nutzt eine Shot-Query-Architektur, um komplexe Übergänge wie Dissolves, Fades und abrupte Sprünge ganzheitlich zu erkennen.",
+ "title": "OmniShotCut: Holistische relationale Shot-Boundary-Detection",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

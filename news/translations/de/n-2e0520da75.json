@@ -1,0 +1,10 @@
+{
+ "id": "n-2e0520da75",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "21d268ce6bc17eb87c57cce2f947aa9ca084c3906d183432cb9a314b616d637c",
+ "summary": "Am 04.06.2026 stellte Google Gemma 4 12B vor, wie der datierte offizielle Google-Blog-Link belegt. Der gleiche datierte Eintrag verlinkt auf eine GGUF-Distribution von Unsloth auf Hugging Face, wodurch neben der Vorstellung ein verfügbarer Bereitstellungsweg in Form von GGUF besteht.",
+ "title": "Gemma 4 12B vorgestellt",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

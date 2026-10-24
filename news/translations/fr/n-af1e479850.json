@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Évolué à partir de nœuds utilitaires stéréo basiques vers un système complet d'outpainting panoramique, intégré à LTX-Video 2.3 pour l'expansion du champ de vision.",
+ "id": "n-af1e479850",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Comprend un installateur tenant compte de la VRAM et des nœuds spécialisés pour la génération de profondeur 3D en côte à côte (SBS).",
+ "source_sha256": "0b857a7bcf61ce143473a92e16ee4d3f5f8cffe701385462fd23d68718095135",
+ "summary": "Une suite de nœuds ComfyUI permettant de créer des panoramas VR immersifs par outpainting de contenus vidéo standard. Elle utilise LTX-Video 2.3 pour l'expansion panoramique et prend en charge les projections VR180, équirectangulaire 360 et fisheye.",
+ "title": "Muffins Flat 2 : nœuds ComfyUI pour panoramas VR",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

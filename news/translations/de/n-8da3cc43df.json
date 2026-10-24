@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das Projekt hat sich rasch zu einem umfassenden Ökosystem entwickelt: Hinzugekommen sind 'Thinking'-Varianten für komplexe Schlussfolgerungen und 'Instruct'-Modelle für Produktionspipelines. Heute umfasst es außerdem MOSS-TTS für hochwertige Sprachsynthese sowie spezialisierte Tokenizer, die auf 3 Millionen Stunden Audio trainiert wurden.",
+ "id": "n-8da3cc43df",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt vom OpenMOSS-Team (Fudan University); bietet eine einzigartige zeitbewusste Repräsentation für die zeitliche Analyse und unterstützt den Einsatz auf Edge-Geräten über GGUF/ONNX.",
+ "source_sha256": "ac714693238d5377f66b693dd16c66a02eb5229e8d2c517f5ae2b4ff0836c8e0",
+ "summary": "MOSS-Audio ist ein modulares Foundation-Modell, das Sprach-, Umgebungsgeräusch- und Musikverständnis in einer einzigen Architektur vereint. Es nutzt einen eigens trainierten CAT-Audio-Encoder und ein LLM-Backbone, um komplexe Schlussfolgerungen und Instruction-Following-Aufgaben auf rohen Audiodaten auszuführen.",
+ "title": "MOSS-Audio: Einheitliches Open-Source-Foundation-Modell für Audio",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

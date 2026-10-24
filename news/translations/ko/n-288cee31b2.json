@@ -1,0 +1,11 @@
+{
+ "id": "n-288cee31b2",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "2026-07-21자 관련 Google 페이지는 Gemini 3.6 Flash, 3.5 Flash-Lite, 그리고 제한된 파일럿 버전인 3.5 Flash Cyber를 발표했다. 3.6 및 3.5 Flash-Lite는 Gemini API와 AI Studio를 통해 이용할 수 있게 되었다.",
+ "source_sha256": "743bde1d6ba6946dd2d3915d0ecb7330436ccb55c01fe128bbc6ea2822c4e826",
+ "summary": "2026-07-22 기준으로, 이 기록은 URL에 Gemini 3.6 Flash, Gemini 3.5 Flash Lite, Gemini 3.5 Flash Cyber가 명시된 Google Blog의 공식 Gemini 모델 페이지를 연결했다. 또한 Gemini 3.6 Flash로 설정된 AI Studio 새 채팅 URL도 연결해, 같은 시점의 모델 선택 참조를 확인해 준다. 제공된 근거만으로는 출시 세부 사항, 기능, 지원 지역, 이용 조건을 확인할 수 없으므로 여기에서는 언급하지 않는다.",
+ "title": "Gemini 3.6 Flash, 업데이트된 Flash 모델 변종들과 연결됨",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

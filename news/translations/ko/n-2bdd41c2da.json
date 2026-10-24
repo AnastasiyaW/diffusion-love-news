@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "'From Skills to Talent' 연구 논문에서 출발하여 2026년 5월에 프로덕션 준비가 된 'Agent Operating System'으로 발전했습니다. 모듈식 에이전트 배포를 위한 Talent Market과, 에이전트 회고 및 성과 기반 퇴출(offboarding)을 수행하는 자동화된 HR 파이프라인을 도입했습니다.",
+ "id": "n-2bdd41c2da",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "PRD Bench 벤치마크에서 85%의 성공률을 달성했으며, 독특한 픽셀 아트 'office' 관리 인터페이스를 갖추고 있습니다.",
+ "source_sha256": "03db44d2521249daf7610c461dbb44fff7ca30bf21695d5a6c1a6dae966e8410",
+ "summary": "이기종 AI 에이전트들을 계층적 회사 구조로 조율하는 오픈소스 프레임워크입니다. Talent-Container 아키텍처를 활용해 인지적 역할을 실행 환경에서 분리하며, 웹 기반 픽셀 아트 UI를 통해 관리됩니다.",
+ "title": "OneManCompany: 자기 조직화 AI 에이전트 운영체제",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

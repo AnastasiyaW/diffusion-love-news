@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "L'annonce décrivait l'exécution et le fine-tuning de modèles en local sous Windows, macOS et Linux, sur CPU et plusieurs backends d'accélération, ainsi que des fonctionnalités d'agent, de recherche, de RAG, de MCP et d'export.",
+ "id": "n-57b1c93e50",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "a37f33ca11a03f62174647f6f13c89b4ed6a94d80cfb4b709aae60f5cd43852f",
+ "summary": "L'annonce décrivait l'exécution et le fine-tuning de modèles en local sous Windows, macOS et Linux, sur CPU et plusieurs backends d'accélération, ainsi que des fonctionnalités d'agent, de recherche, de RAG, de MCP et d'export.",
+ "title": "Unsloth Desktop est présenté",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

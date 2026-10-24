@@ -1,0 +1,10 @@
+{
+ "id": "n-3f0a9c0170",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "b01da70fcc313be6aaeb2db0825b35be321b0ea7151335e958a6671a373ce859",
+ "summary": "Am 07.08.2026 hat ein Projekt-Update zwei getrennte ComfyUI-Sol-Attn-Codebasen miteinander verknüpft: eine für Blackwell gekennzeichnete und eine für Triton gekennzeichnete. Das ist ein wesentlicher Entwicklungsschritt, weil damit die Verfügbarkeit von Implementierungspfaden für unterschiedliche Ausführungsumgebungen dokumentiert wird, ohne dass dabei deren Reife, Kompatibilität oder Performance belegt wären.",
+ "title": "ComfyUI-Sol-Attn-Implementierungen für Blackwell und Triton wurden verknüpft",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

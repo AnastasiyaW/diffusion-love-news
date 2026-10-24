@@ -1,0 +1,10 @@
+{
+ "id": "n-dbba09c3a2",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "5920d66db0b9869f1cfbac31245c04d6819c77366e5aa405f5b60882c5c51257",
+ "summary": "2026 年 3 月 31 日，ShotStream 的一名具名成员向读者提供了其公开项目页、GitHub 代码仓库和 Hugging Face 页面的链接。这为该项目的开发脉络提供了一个带日期的公开参照点，但现有证据并不能确定其发布版本、功能特性、作者身份，或原始消息的确切文本。",
+ "title": "ShotStream 的公开项目页、代码和模型页已被链接",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

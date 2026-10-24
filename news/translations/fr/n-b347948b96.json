@@ -1,0 +1,10 @@
+{
+ "id": "n-b347948b96",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8b9243ca67452145a2aada0ab62bad120fdd8f22fadb738b263ce110c638b876",
+ "summary": "Le 2026-03-24, la lignée de développement de Clarity-OMR a relié son dépôt GitHub, la page de son modèle sur Hugging Face et une démonstration hébergée sur Hugging Face Spaces. Il s'agissait d'une étape importante pour le projet, car elle a réuni, dans une même mise à jour datée, l'implémentation, l'accès au modèle et la démonstration interactive.",
+ "title": "Clarity-OMR a relié ses ressources de code, de modèle et de démonstration",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

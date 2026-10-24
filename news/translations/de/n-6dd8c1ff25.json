@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das im April 2026 veröffentlichte Framework adressiert die Zersplitterung der GUI-Agenten-Forschung, indem es eine einheitliche Pipeline vom Training bis zum produktiven Einsatz bereitstellt. Das enthaltene Modell ClawGUI-2B übertrifft derzeit in den wichtigsten Benchmarks deutlich größere Modelle wie UI-Venus-72B.",
+ "id": "n-6dd8c1ff25",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Entwickelt vom ZJU-REAL-Labor; enthält eine spezialisierte Android-Anwendung für den Einsatz auf dem Gerät, die Shizuku nutzt.",
+ "source_sha256": "1c9a07d6ace730d04e078adf9513dce4a2ff2b5b392a5c894b31d96e167765e2",
+ "summary": "Ein quelloffenes Full-Stack-Framework für den gesamten Lebenszyklus von GUI-Agenten, das Reinforcement-Learning-Training, standardisierte Evaluation und plattformübergreifenden Einsatz abdeckt. Es ermöglicht Agenten, Android-, iOS- und HarmonyOS-Geräte zu steuern, und setzt dabei fortgeschrittene Policy-Optimierung und Process Reward Models ein.",
+ "title": "ClawGUI: Einheitliches Framework für das Training und den Einsatz von GUI-Agenten",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

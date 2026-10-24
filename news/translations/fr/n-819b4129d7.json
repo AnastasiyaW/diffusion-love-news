@@ -1,0 +1,10 @@
+{
+ "id": "n-819b4129d7",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "50ead66e7519ae15d2d4df863e52f69339fc85436d4b5ebbb66b8fecc59bfc3c",
+ "summary": "Le 2026-06-10, le projet a été associé, par référence, à une page de modèle Hugging Face consacrée à un LoRA de colorisation de manga pour FLUX.2 Klein 9B. Il s'agit d'un élément significatif de l'historique de développement, car il identifie un artefact concret du projet, bien que son statut de publication et ses détails techniques n'aient pas fait l'objet d'une vérification indépendante.",
+ "title": "Référence à un modèle Hugging Face enregistrée pour le projet",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado en abril de 2026 como proyecto conjunto de Huawei Research y el CUHK MMLab. Establece un nuevo estado del arte en la clasificación de StreamingBench, superando a modelos propietarios anteriores en razonamiento visual en tiempo real y en alertas proactivas.",
+ "id": "n-5e356466d0",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construido sobre el backbone Qwen3-VL-8B-Instruct, emplea un sistema dual de gestión de contexto mediante ventanas deslizantes para procesar flujos de vídeo infinitos.",
+ "source_sha256": "a27c541dfd6e27428449a82269a078db7e4e8cc2ada1010df428ebd9dd1e5eb9",
+ "summary": "AURA es un marco de interacción visual en streaming de extremo a extremo para la comprensión continua de vídeo y la asistencia en tiempo real. Integra ASR, VLM y TTS en una canalización asíncrona unificada que procesa vídeo en directo a 2 FPS. El sistema permite preguntas y respuestas proactivas e interacciones con múltiples respuestas, con una latencia inferior a un segundo.",
+ "title": "AURA — Comprensión Siempre Activa y Asistencia en Tiempo Real",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

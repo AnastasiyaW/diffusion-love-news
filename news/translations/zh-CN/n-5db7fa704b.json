@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "World-R1于2026年4月发布，提出了一种无需3D资产的训练后强化学习方法。与基础模型相比，其几何一致性显著提升（PSNR提高7–10 dB），该成果已在ICML 2026上发表。",
+ "id": "n-5db7fa704b",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "利用来自Depth Anything 3和Qwen3-VL的反馈，在训练过程中强化3D约束。",
+ "source_sha256": "e9ddb8344cf25665f01002e5a2c9dcdb9ac7aeff40a80c5531da2cd936292d0f",
+ "summary": "这是微软的一项研究项目，利用Flow-GRPO强化学习框架提升文生视频模型的3D几何一致性。该方法以3D基础模型提供的反馈优化Wan 2.1等模型，以防止相机运动过程中出现物体扭曲和幻觉。",
+ "title": "World-R1：以强化学习为视频生成注入3D约束",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

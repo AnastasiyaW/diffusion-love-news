@@ -1,0 +1,10 @@
+{
+ "id": "n-1ee49081d2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "c9269a15c718b1746bd40e2d929241862e5945e90b2d198773b588a0c5b6b55e",
+ "summary": "Le 2026-03-12, Google a présenté Gemini Embedding 2, une nouvelle étape dans sa gamme de modèles d'embedding. La documentation Google AI fournie présente cette version comme une capacité d'embedding accessible via API, destinée aux développeurs. Il s'agit d'une étape produit significative, car elle établit un modèle d'embedding distinct et nommé, ainsi que sa référence d'intégration.",
+ "title": "Google présente Gemini Embedding 2",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

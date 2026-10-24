@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 초 출시 이후, 2026년 3월 v2.0 업데이트에서는 1.5k 고해상도 추론과 사실감에 맞춰 모델이 최적화되었습니다. 2026년 4월에는 GGUF 양자화가 도입되어 소비자용 GPU의 VRAM 요구량을 크게 낮추었습니다.",
+ "id": "n-c78d87f531",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "NeuralVFX가 Z-Image 생태계 안에서 더 뛰어난 세그멘테이션 제어를 제공하기 위해 개발했으며, 고급 ComfyUI 포토그래메트리-렌더 워크플로에서 핵심 도구로 쓰이고 있습니다.",
+ "source_sha256": "542e1094c81388a2473963140793608fdbdfc737562f3af4206cfea86db5f9e0",
+ "summary": "Segment Anything Model(SAM) 세그멘테이션 마스크로부터 사실적인 이미지를 합성하는 Z-Image 6B 모델 전용 ControlNet입니다. 생성된 콘텐츠가 복잡한 입력 마스크 경계를 엄격히 따르도록 보장하여 정밀한 공간 제어를 제공합니다.",
+ "title": "NeuralVFX의 Z-Image-SAM-ControlNet",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

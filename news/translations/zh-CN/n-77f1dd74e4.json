@@ -1,0 +1,10 @@
+{
+ "id": "n-77f1dd74e4",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "3816b191c42882ff1e390c8e026d0ab384bb71e63c146eb9b0b80451ff0d8e4f",
+ "summary": "2026年8月1日，本条目记录了迪士尼研究院题为“Interactive Generative Motion Editing via Scheduled Inpainting”的工作，该工作链接自其 Studios 网站。随附的视频链接表明，该工作包含对动作编辑方法的可视化演示。",
+ "title": "迪士尼研究院记录了通过计划修复（scheduled inpainting）实现的交互式生成式动作编辑",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

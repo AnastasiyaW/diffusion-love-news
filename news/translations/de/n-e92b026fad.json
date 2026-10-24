@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Das im Mai 2026 gestartete Projekt entwickelt sich von einfachem Schwachstellen-Scanning hin zu autonomem Patching über sein agentisches Codex-Security-Harness. Derzeit befindet es sich in einer kontrollierten Rollout-Phase mit ausgewählten Partnern aus der Industrie wie Cloudflare und Cisco.",
+ "id": "n-e92b026fad",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Die Initiative setzt ein gestuftes Zugriffsmodell ein, um Dual-Use-Risiken zu steuern. Die Variante „Cyber“ ist verifizierten Red-Teaming-Einsätzen und fortgeschrittenem Binary Reverse Engineering vorbehalten.",
+ "source_sha256": "ca6317a0f6a1ee0a3d4c1e9eab1dc26e56bd1c44276d0924a8d78edc0b19ac16",
+ "summary": "OpenAI Daybreak ist eine spezialisierte Cybersicherheitsplattform, die KI-Agenten einsetzt, um Schwachstellen in Software autonom zu erkennen und zu beheben. Sie fungiert als verwaltete Security-Steuerungsoberfläche und basiert auf einer mehrstufigen Bereitstellung der GPT-5.5-Architektur.",
+ "title": "OpenAI Daybreak",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2026년 4월 말, 공식 Qwen3.6 릴리스에 맞추어 업데이트되었으며, 수학 및 코딩 분야에서 가중치를 안정화했습니다. 현재 DGX Spark v4 생태계의 핵심 구성 요소입니다.",
+ "id": "n-dc7072d90a",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "게이트 저장소입니다. 효율을 유지하려면 FP16 또는 고정밀 양자화가 필요하며, 특히 NVIDIA Blackwell 및 Ada 아키텍처에 최적화되어 있습니다.",
+ "source_sha256": "bf35123bcab17c1f4b0c16e4a91b8b99bb47c18e56f7599b4798c2b5d6ca46ab",
+ "summary": "Qwen3.6-27B 시리즈에 맞춰 설계된 블록 디퓨전 기반 추측 디코딩 드래프터로, 추론 속도를 크게 향상시킵니다. 이 프로젝트에는 다양한 로컬 배포를 위한 최적화 버전과 검열 해제 버전이 포함되어 있습니다.",
+ "title": "Qwen3.6-27B-DFlash 추측 디코딩 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-e6ade9848e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "72484ff4ce6a964d606cda05b6017dca3e7d9b293b5cded09c79063c488f9a3b",
+ "summary": "2026年7月14日，开发链路关联了 MOSS-SoundEffect v2.0 的源码树、模型页面、模型系列列表以及托管演示空间。同一批带日期的链接还包括一个 ComfyUI 集成仓库，这对评估或使用 v2.0 版本线的从业者而言，是一个具有实质意义的生态里程碑。",
+ "title": "MOSS-SoundEffect v2.0 相关资源与 ComfyUI 集成已关联",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

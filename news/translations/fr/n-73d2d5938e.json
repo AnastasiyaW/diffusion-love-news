@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Le projet est passé d'une orchestration uniquement locale à un modèle orienté distant avec la version 2.0, en ajoutant des Cloud Workspaces et une CLI autonome. Il est passé de la prise en charge de Claude Code et Codex à un écosystème agnostique incluant Cursor et Gemini CLI.",
+ "id": "n-73d2d5938e",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Parmi les principales fonctionnalités techniques figurent l'isolation par worktrees Git, qui sépare les tâches au niveau des branches, et Electric SQL, utilisé pour la synchronisation en temps réel entre les espaces de travail.",
+ "source_sha256": "a7d61e426aa57a2102be39e0f8136d3fbd6dc3ce6437615597408b2097d5736a",
+ "summary": "Un orchestrateur open source, utilisable depuis le terminal ou l'IDE, conçu pour l'exécution en parallèle de plusieurs agents de codage IA. Il s'appuie sur les worktrees Git pour isoler les tâches des agents, évitant les conflits de fichiers et le mélange de contextes pendant le développement concurrent.",
+ "title": "Superset : orchestrateur open source d'agents IA en parallèle",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

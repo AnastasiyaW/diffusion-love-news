@@ -1,0 +1,11 @@
+{
+ "id": "n-c724eb9e4c",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "가중치가 더 효율적으로 오프로드되어 RAM 사용량과 OOM 위험이 줄어든다.",
+ "source_sha256": "47a955f6010bdb0428afd134015f8532d4bd4ac5e92f8edfdea5a156a47cd7aa",
+ "summary": "2026-03-26, ComfyUI는 지원되는 Nvidia 시스템에서 메모리 부담과 out-of-memory 실패를 줄이는 안정화된 메커니즘으로 Dynamic VRAM을 문서화했다. 해당 가이드는 개별 반복(iteration) 속도 대신 전체 워크플로 소요 시간을 측정할 것을 강조했다.",
+ "title": "ComfyUI, 안정화된 Dynamic VRAM 관리 기능 도입",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

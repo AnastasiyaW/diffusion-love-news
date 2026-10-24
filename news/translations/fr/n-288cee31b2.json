@@ -1,0 +1,11 @@
+{
+ "id": "n-288cee31b2",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "La page Google associée, datée du 2026-07-21, présentait Gemini 3.6 Flash, 3.5 Flash-Lite et un pilote restreint de 3.5 Flash Cyber ; Gemini 3.6 Flash et 3.5 Flash-Lite sont devenus accessibles via Gemini API et AI Studio.",
+ "source_sha256": "743bde1d6ba6946dd2d3915d0ecb7330436ccb55c01fe128bbc6ea2822c4e826",
+ "summary": "Le 2026-07-22, l'enregistrement renvoyait vers une page officielle de modèles Gemini sur le blog de Google, dont l'URL identifie Gemini 3.6 Flash, Gemini 3.5 Flash Lite et Gemini 3.5 Flash Cyber. Il renvoyait également vers une URL de nouvelle conversation AI Studio configurée pour Gemini 3.6 Flash, ce qui établit une référence contemporaine de sélection de modèle. Les éléments fournis ne permettent pas d'établir les détails de lancement, les capacités, les régions ou les conditions ; aucun de ces éléments n'est donc mentionné ici.",
+ "title": "Gemini 3.6 Flash a été associé à des variantes mises à jour du modèle Flash",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "已丰富五篇 llm-agents 研究文章。",
+ "id": "n-2f94cbb043",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "受影响文件数量已根据不可变提交的文件列表核实。",
+ "source_sha256": "cb5440c7c06174c1189c4e54254e91dfc5c9177b32393858396b68c4533c56c8",
+ "summary": "代码库中已丰富 llm-agents 领域的五篇公开文章。",
+ "title": "丰富智能体研究文章",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

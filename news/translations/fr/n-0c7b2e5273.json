@@ -1,0 +1,10 @@
+{
+ "id": "n-0c7b2e5273",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "7faf35982f1257f0e9acc8e0a58af72fa00ec583d1b968b100905357bd5b58e0",
+ "summary": "Le 11 mars 2026, une entrée datée a fait le lien vers le site web du projet Omni-Diffusion, son dépôt source et sa page de modèle sur Hugging Face. Ensemble, ces ressources constituent un point de référence public pour la documentation, l'implémentation et l'accès au modèle du projet. Les seuls liens datés n'établissent toutefois ni la version publiée, ni les capacités, ni les résultats d'évaluation.",
+ "title": "Ressources publiques du projet Omni-Diffusion référencées",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

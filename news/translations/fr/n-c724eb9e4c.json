@@ -1,0 +1,11 @@
+{
+ "id": "n-c724eb9e4c",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Les poids sont déchargés de manière plus économe, la consommation de RAM et le risque d'erreurs OOM diminuent.",
+ "source_sha256": "47a955f6010bdb0428afd134015f8532d4bd4ac5e92f8edfdea5a156a47cd7aa",
+ "summary": "Le 26 mars 2026, ComfyUI a documenté Dynamic VRAM comme mécanisme stable permettant de réduire la pression sur la mémoire et les erreurs out-of-memory sur les systèmes Nvidia pris en charge. Ses recommandations insistaient sur la mesure du temps total d'un workflow plutôt que sur la vitesse d'itération isolée.",
+ "title": "ComfyUI introduit une gestion stable de la Dynamic VRAM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

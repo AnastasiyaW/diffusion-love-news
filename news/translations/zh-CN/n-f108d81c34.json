@@ -1,0 +1,10 @@
+{
+ "id": "n-f108d81c34",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ab1e0f01477501d19a37f2eca291be897ac8a6973d27c39319fc4d3ccd49f6cc",
+ "summary": "2026年3月17日，PixVerse表示其图像和视频生成能力可通过命令行界面访问。随附的ClawHub条目显示，该接口已发布，以便在基于终端的工作流中复用。这标志着访问方式从面向网页的形式向命令行使用迈出了实质性的一步。",
+ "title": "PixVerse推出面向终端的生成接口",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

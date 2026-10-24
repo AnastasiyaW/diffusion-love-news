@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Après sa sortie en mars 2026, Kimodo a été intégré au framework ProtoMotions de NVIDIA afin de générer des données d'entraînement synthétiques pour des robots humanoïdes comme l'Unitree G1. Il est actuellement en cours d'extension pour un usage dans NVIDIA Omniverse, dans le cadre de simulations de jumeaux numériques industriels.",
+ "id": "n-61c8c02fec",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le modèle emploie une architecture de diffusion en deux étapes qui sépare le mouvement de la racine des mouvements des membres, éliminant efficacement des artefacts comme le glissement des pieds.",
+ "source_sha256": "004d2fb47be0593fb60bd986d31c41cc391df04f8acf214be802f328f1747a68",
+ "summary": "NVIDIA Kimodo est un modèle de diffusion cinématique de mouvement qui génère des animations 3D d'humains et de robots de haute fidélité à partir de prompts textuels. Il exploite le jeu de données propriétaire Rigplay (RP) et le modèle de squelette SOMA pour atteindre une qualité de mouvement de niveau professionnel.",
+ "title": "Nvidia Kimodo : diffusion cinématique de mouvement pour l'animation 3D",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

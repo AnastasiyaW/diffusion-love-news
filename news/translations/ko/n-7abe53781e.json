@@ -1,0 +1,10 @@
+{
+ "id": "n-7abe53781e",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "8186151a96472d2e35e038160896b706f266ed94047e3d761dac85557bcf008a",
+ "summary": "2026-08-13, xAI가 Grok 4.6의 공식 발표문을 게시했습니다. 함께 제공된 xAI Build 링크는 이번 출시와 관련된 개발자용 경로를 가리킵니다. 제공된 링크만으로는 가격, API 계약, 출시 범위를 확인할 수 없습니다.",
+ "title": "xAI, Grok 4.6 발표",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

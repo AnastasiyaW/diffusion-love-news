@@ -1,0 +1,10 @@
+{
+ "id": "n-68b3b1fae6",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d73b2b044b46582b088ecb2ef2415b62a808abdd8943e5bffc6a878bf42158de",
+ "summary": "2026-03-27，Cohere 发布了 Cohere Transcribe 的相关资源，包括 Cohere 博客页面、Hugging Face 模型仓库和一个演示空间。所链接的 Model Vault 页面还显示，该项目被纳入 Cohere 的模型访问服务之中。",
+ "title": "Cohere 发布 Cohere Transcribe 模型资源",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

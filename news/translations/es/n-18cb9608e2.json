@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Presentado en NeurIPS 2025, el método se ha utilizado para publicar versiones comprimidas de Llama 2 y Llama 3.1. Sigue siendo una herramienta clave de código abierto para la simplificación eficiente de modelos en modo zero-shot.",
+ "id": "n-18cb9608e2",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Es capaz de podar hasta el 25 % de las capas manteniendo aproximadamente el 90 % del rendimiento del modelo original.",
+ "source_sha256": "2d773d003d156f082bd7efd5961d01be4c43dc5a6acbe99eb3b23bf31c243dde",
+ "summary": "ReplaceMe es un método de poda de profundidad sin entrenamiento desarrollado por MTS AI que sustituye los bloques transformer redundantes por transformaciones lineales. Comprime los modelos sin reentrenarlos, integrando estas aproximaciones en los pesos restantes.",
+ "title": "ReplaceMe: poda de profundidad sin entrenamiento para LLM",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

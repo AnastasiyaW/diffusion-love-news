@@ -1,0 +1,11 @@
+{
+ "id": "n-6398af54be",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le code d'inférence ainsi que les poids FP8/NF4 soumis à accès restreint sont devenus publics, avec un contrôle structuré par JSON pour le texte, les palettes et la mise en page par boîtes englobantes ; ComfyUI a annoncé une prise en charge dès le jour zéro.",
+ "source_sha256": "012cfceaf4d2265756ce07cb4721efee917aa55566b6098048e670c8d5e55983",
+ "summary": "Le 2026-06-04, l'ensemble de liens daté reliait Ideogram 4 à un dépôt de code source, à plusieurs distributions de modèle et à une annonce d'intégration ComfyUI. Il s'agit d'une étape significative, car elle consigne à la fois une distribution et une voie d'intégration. Les liens signalent également des variantes à plus faible précision et des variantes étiquetées comme conversions, sans établir leur statut précis ni leur comportement.",
+ "title": "Ideogram 4 : code source, variantes de modèle et intégration ComfyUI référencés",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

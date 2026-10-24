@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "从首次发布到 v0.1.9 迭代迅速，新增自动压缩（Auto-Compaction）和技能工作流（Skill Workflows）等功能。未来路线图聚焦于 ClawTeam 集成以及增强的多智能体通信协议。",
+ "id": "n-44c547a245",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "由香港大学数据科学实验室（HKU Data Science Lab）开发；包含个人智能体 'ohmo'，用于自动化代码仓库管理和编程任务。",
+ "source_sha256": "8090bd850deecfbf39273226e5fa339bdf963061d317dd1e5de3ab734f5c1bc4",
+ "summary": "一个开源 Python 框架，为大语言模型提供工具、记忆和治理能力，用于自主智能体工作流。它采用模块化的技能系统，并支持跨多种模型提供商的多智能体编排。",
+ "title": "OpenHarness：面向大语言模型的轻量级多智能体基础设施",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

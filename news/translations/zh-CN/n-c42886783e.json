@@ -1,0 +1,11 @@
+{
+ "id": "n-c42886783e",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "research_notes": "创建 Python 3.11 或 3.12 虚拟环境，并安装固定版本的依赖项。\n\n运行 `python its_giving_v2.py --calibrate`，在七秒钟的校准期间保持面无表情，然后运行 `python its_giving_v2.py`。\n\n为操作系统安装虚拟摄像头后端，在会议应用程序之前启动 ItsGiving，然后在该应用程序的视频设置中选择已发布的虚拟摄像头。\n\n保持依赖项版本固定不变：文档中记录的 MediaPipe、NumPy 和 OpenCV 兼容性约束是相互关联的。\n\n如有需要，请使用 v2 并重新校准，因为其表情阈值基于用户的无表情面部基线。\n\n添加新姿态时，在降低阈值之前先检查姿态顺序，因为第一个匹配的姿态会生效；可使用 HUD 和手臂计数来调整误触发。\n\n在会议中使用反应效果之前先进行测试，因为输出可能自动触发，并且对所有通话参与者可见。",
+ "source_sha256": "74e7cd4373cfea8835cc7ded287bc144095e8057a47b92761f1656ef651896b2",
+ "summary": "ItsGiving 将面部表情以及手部和身体姿态映射为网络梗叠加效果，并将结果发布为虚拟摄像头，供会议软件使用；该代码仓库记录了 14 种内置反应以及一个经过校准的 v2 检测器。",
+ "title": "ItsGiving 会议视频网络梗叠加工具",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

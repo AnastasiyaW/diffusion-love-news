@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "HunyuanVideo(2024년 12월)와 HunyuanVideo-1.5(2025년 11월)의 후속 모델이다. 지능형 프롬프트 추론을 위한 'Thinking Mode'를 도입하고, text-to-video, image-to-video, 비디오 편집 작업을 하나의 모델에서 통합 지원한다.",
+ "id": "n-fb32c38877",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "IntelligentVBench 벤치마크와 함께 공개되었으며, EU와 UK를 포함한 일부 지역에서의 사용을 제한하는 커뮤니티 라이선스가 적용된다.",
+ "source_sha256": "989989695f6ea22977d3b1eed634673989dd4a6b5bd231a62982abf881bec1cc",
+ "summary": "Tencent Hunyuan이 개발한 통합 비디오 생성 프레임워크로, 추론 기능을 강화한 합성을 위해 Multimodal Large Language Model을 통합했다. 텍스트, 이미지, 비디오 입력을 인터리브 방식으로 지원하여 복잡한 멀티모달 구성 및 편집을 수행한다.",
+ "title": "OmniWeaving 통합 비디오 생성 모델",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

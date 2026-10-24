@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "2025년 LLM 간 협업적 추론에 초점을 맞춘 프로젝트로 시작했으며, 2026년 초에 자율 연구 플랫폼으로 발전했습니다. 현재는 에이전트들이 연합을 형성하고 협업 구조를 스스로 개선하여 복잡한 엔지니어링 및 수학 과제를 해결하는 '자발적 조직화(spontaneous organization)'를 지원합니다.",
+ "id": "n-f771c01e06",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "research_notes": "커널 엔지니어링과 수학적 최적화 분야에서 새로운 SOTA 결과를 달성했으며, Anthropic의 커널 벤치마크에서 인간 수준 베이스라인 대비 20% 성능 향상을 기록했습니다.",
+ "source_sha256": "a6fe1d72662debf7bed5c8d0f5c88b70f65ea88a8d25dcc46f5e0826ff74ee67",
+ "summary": "CORAL은 Human-Agent-Society가 개발한 오픈소스 프레임워크로, 자기 진화하는 다중 에이전트 조직을 구축하기 위해 설계되었습니다. 자율 에이전트가 격리된 워크트리(worktree)에서 실험을 수행하도록 하면서, 영속적인 지식 허브를 공유하여 개방형 과학적 발견과 시스템 최적화를 이끌어 냅니다.",
+ "title": "CORAL: 자율 다중 에이전트 진화를 위한 인프라",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

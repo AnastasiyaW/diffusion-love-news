@@ -1,0 +1,10 @@
+{
+ "id": "n-7314a6bcc8",
+ "lang": "ko",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "40000fe376f8d76e8d695959eebe1a5f96f4b4a127f06ceec46d42f8f5f6f7be",
+ "summary": "2026-08-24, UPAL 개발 라인에 프로젝트의 GitHub 저장소에 대한 참조가 포함되었다. 날짜가 명시된 근거는 github.com/francois141/upal을 확인해 주지만, 릴리스, 커밋, 기능 또는 기타 이정표는 확인되지 않는다. 이 출처 연결 참조는 저장소 조사가 진행되는 동안 보존된다.",
+ "title": "UPAL GitHub 저장소 참조",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "evolution_summary": "La noticia informaba sobre las cuotas de Qwen OAuth, la búsqueda web, una edición aproximada (fuzzy) mejorada, los controles de modelo, la integración con Zed, los cambios en la salida y la búsqueda, y las correcciones de plataforma.",
+ "id": "n-87c78ee187",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ac2bfec48aa5f7b2625bb4617647c0ed1f219b9c717a988f5f442f7777240d6b",
+ "summary": "La noticia informaba sobre las cuotas de Qwen OAuth, la búsqueda web, una edición aproximada (fuzzy) mejorada, los controles de modelo, la integración con Zed, los cambios en la salida y la búsqueda, y las correcciones de plataforma.",
+ "title": "Qwen Code v0.2.1 amplía la búsqueda, la edición y el soporte para IDE",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

@@ -1,0 +1,10 @@
+{
+ "id": "n-7150bbd771",
+ "lang": "zh-CN",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "ccf8e6d4f29fd3e600fbba140d353413161506e859d4dddea6a4a8ce457f6cf0",
+ "summary": "2026-07-30，一个名为 LTX-2.3-22B-IC-LoRA-Relight 的 Hugging Face 资源被公布。这是 LTX-2.3 系列的一次实质性扩展，它通过 LoRA 资源增加了专门的重光照能力。",
+ "title": "LTX-2.3 22B IC LoRA 重光照模型已发布",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

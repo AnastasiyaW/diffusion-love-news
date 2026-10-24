@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publicado oficialmente en mayo de 2026 y aceptado en SIGGRAPH 2026. El marco se presentó con dos modelos especializados: UniVid-Intrinsic, para propiedades físicas, y UniVid-Alpha, para la descomposición en capas.",
+ "id": "n-70e759ac2b",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Construido sobre el backbone Wan2.1, utiliza Stochastic Condition Masking y Decoupled Gated LoRA para mantener la consistencia entre modalidades con un volumen mínimo de datos de entrenamiento.",
+ "source_sha256": "e207a63bd072333e1cd083c11bb5d7e17dbedce818e81762f5a3ffc5c526daec",
+ "summary": "Un marco unificado de difusión de vídeo de tipo \"any-to-any\", diseñado para más de 15 tareas, entre ellas matting de vídeo, relighting e inverse rendering. Trata distintas modalidades, como RGB, profundidad y alfa, como condiciones u objetivos intercambiables dentro de una única arquitectura.",
+ "title": "UniVidX: marco unificado de difusión de vídeo multimodal",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

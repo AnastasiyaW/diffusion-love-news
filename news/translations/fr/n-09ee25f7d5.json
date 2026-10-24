@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Publié en mars 2026, HyDRA repose sur l'architecture Wan2.1-T2V-1.3B et introduit le jeu de données HM-World, destiné à l'entraînement de modèles sur des scénarios complexes de réentrée d'objets.",
+ "id": "n-09ee25f7d5",
+ "lang": "fr",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Le projet comprend un tokenizer de mémoire sensible au mouvement et est particulièrement optimisé pour les simulateurs de conduite autonome et les modèles du monde pour l'IA incarnée (Embodied AI).",
+ "source_sha256": "0548b801e3538dc55c0432006be5380d131fcf7bf08d3b35c2abba0a4d46c77f",
+ "summary": "HyDRA est une architecture de mémoire spécialisée pour la génération vidéo, qui assure un suivi stable des objets et une cohérence lors de leur réapparition. Elle s'appuie sur un mécanisme de récupération spatio-temporelle pour « se souvenir » des sujets, même lorsqu'ils sortent du cadre ou sont occultés.",
+ "title": "HyDRA : mémoire hybride pour les modèles du monde vidéo dynamiques",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

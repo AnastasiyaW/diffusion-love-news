@@ -1,0 +1,10 @@
+{
+ "id": "n-b495739d31",
+ "lang": "es",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "bcfeff25fdd19443df7d1a4d0fe9d179b540abe69f10f4f94b1d8a1d5837ea75",
+ "summary": "El 2026-03-16, Percepta AI publicó un artículo en su blog que aborda si los grandes modelos de lenguaje pueden entenderse como computadoras. Se trata de una contribución pública fechada que se suma a la línea de pensamiento aparente de la empresa sobre la computación basada en LLM, y no de la evidencia de un lanzamiento de producto concreto ni de un resultado técnico específico.",
+ "title": "Percepta AI publica una perspectiva sobre los LLM como computadoras",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}
