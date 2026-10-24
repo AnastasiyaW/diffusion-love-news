@@ -1,0 +1,11 @@
+{
+ "id": "n-169e12a080",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработано Alexandre Alvaro совместно с Corridor Digital. Включает отдельный десктопный GUI и CLI для пакетной обработки.",
+ "source_sha256": "legacy",
+ "summary": "Нативное решение для кеинга зелёного экрана на основе AI, рассчитанное на высокопроизводительное локальное исполнение. Оно обеспечивает профессиональный matting в виде OFX-плагина для DaVinci Resolve и Foundry Nuke, без необходимости в сложных Python-окружениях.",
+ "title": "CorridorKey-Runtime: AI-кеер хромакея",
+ "translated_at": null,
+ "translation": "machine"
+}

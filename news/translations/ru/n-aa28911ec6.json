@@ -1,0 +1,11 @@
+{
+ "id": "n-aa28911ec6",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Модель отслеживает 308 ключевых точек и выпущена под лицензией Sapiens2 License с весами, доступными на Hugging Face.",
+ "source_sha256": "legacy",
+ "summary": "Sapiens2 — набор foundation-моделей от Meta AI для точной реконструкции и анализа тела человека по одному изображению. Поддерживает оценку 2D-позы, сегментацию частей тела, поверхностные нормали и восстановление 3D-геометрии вплоть до разрешения 4K.",
+ "title": "Sapiens2: foundation-модели Meta для человекоцентричного зрения",
+ "translated_at": null,
+ "translation": "machine"
+}

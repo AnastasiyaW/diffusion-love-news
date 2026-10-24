@@ -1,0 +1,11 @@
+{
+ "id": "n-f4d17d7115",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Очень популярна в сообществе локальных LLM за своё поведение 'без нянек'; требует GGUF-совместимых инструментов инференса, таких как LM Studio или llama.cpp.",
+ "source_sha256": "legacy",
+ "summary": "Версия модели Google Gemma 4 без ограничений, модифицированная методом абляции HERETIC для нейтрализации защитных guardrail и направлений отказа. Оптимизирована для творческого письма и ролевых сценариев без AI-нравоучений и фильтрации.",
+ "title": "Gemma 4 E4B Heretic Uncensored",
+ "translated_at": null,
+ "translation": "machine"
+}

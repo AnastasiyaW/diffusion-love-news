@@ -1,0 +1,11 @@
+{
+ "id": "n-23270485c3",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Создано специально для композеров Nuke, чтобы предоставлять надёжные многоканальные AI-проходы без сложностей нодовых AI-графов.",
+ "source_sha256": "legacy",
+ "summary": "Open-source standalone-приложение, генерирующее качественные VFX-проходы — глубину, нормали и маски сегментации — из реальной съёмки. Оно автоматизирует создание совместимых с Nuke sidecar EXR-файлов, управляя конвертацией в scene-linear colorspace и пакетной обработкой.",
+ "title": "LiveActionAOV: standalone-инструмент для пакетной генерации VFX-проходов",
+ "translated_at": null,
+ "translation": "machine"
+}

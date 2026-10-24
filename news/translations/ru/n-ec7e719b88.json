@@ -1,0 +1,11 @@
+{
+ "id": "n-ec7e719b88",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Несмотря на компактный размер, превосходит OpenAI Operator и Claude Computer Use по точности кликов в GUI-бенчмарках.",
+ "source_sha256": "legacy",
+ "summary": "Визуально-языковая модель на 4B параметров, специализированная на GUI-grounding для точной локализации элементов экрана. Позволяет AI-агентам взаимодействовать со сложными интерфейсами при разных разрешениях и соотношениях сторон.",
+ "title": "Phi-Ground-Any: мультимодальная модель GUI-grounding от Microsoft",
+ "translated_at": null,
+ "translation": "machine"
+}

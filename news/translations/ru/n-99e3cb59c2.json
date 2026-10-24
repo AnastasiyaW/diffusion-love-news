@@ -1,0 +1,11 @@
+{
+ "id": "n-99e3cb59c2",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует конфигурацию на основе Markdown (AGENTS.md) для поведения агентов и поддерживает высокоскоростную виртуальную изоляцию через just-bash.",
+ "source_sha256": "legacy",
+ "summary": "Headless TypeScript-фреймворк от команды Astro для построения и развёртывания автономных AI-агентов. Использует архитектуру 'agent harness' для объединения LLM с программируемой логикой и виртуальными изолированными окружениями.",
+ "title": "Flue — TypeScript-фреймворк для автономных AI-агентов",
+ "translated_at": null,
+ "translation": "machine"
+}

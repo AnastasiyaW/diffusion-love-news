@@ -1,0 +1,11 @@
+{
+ "id": "n-3354f12396",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Ключевые зависимости включают Open3D и FFmpeg; инструмент особенно оптимизирован под итеративный outpainting в полносферические VR-окружения.",
+ "source_sha256": "legacy",
+ "summary": "Специализированный набор кастомных нод для ComfyUI, позволяющий выполнять продвинутые 3D-aware трансформации изображений и создавать VR-контент с помощью пайплайнов depth-to-point cloud. Он упрощает бесшовное перепроецирование между моделями камер pinhole, fisheye и equirectangular для сложных воркфлоу синтеза видео.",
+ "title": "camera-comfyUI: ноды 3D-проекции камеры для ComfyUI",
+ "translated_at": null,
+ "translation": "machine"
+}

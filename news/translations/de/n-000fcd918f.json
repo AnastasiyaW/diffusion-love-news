@@ -1,0 +1,10 @@
+{
+ "id": "n-000fcd918f",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "source_sha256": "d351435670166d36c542d0b690a1cf034d87b14f706d2fc11e01a98a1fd621fc",
+ "summary": "Am 01.08.2026 wurde die Entwicklungslinie von SenseNova mit Hugging-Face-Seiten für SenseNova-U1.5-8B-MoT-Preview und SenseNova-U1-8B-MoT-Infographic-V3 sowie mit entsprechenden Spaces in Verbindung gebracht. Die datierten Verknüpfungen deuten auf einen bedeutenden Meilenstein bei Modell und Demo hin, belegen jedoch weder die Fähigkeiten der Artefakte noch deren Veröffentlichungsstatus oder technische Änderungen.",
+ "title": "SenseNova verknüpfte U1-MoT-Preview- und Infografik-Artefakte auf Hugging Face",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

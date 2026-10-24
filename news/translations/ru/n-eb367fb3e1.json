@@ -1,0 +1,11 @@
+{
+ "id": "n-eb367fb3e1",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Генерирует scene-linear EXR-файлы, совместимые с Nuke и DaVinci Resolve; интегрируется в ComfyUI через набор нод ComfyUI_Gear.",
+ "source_sha256": "legacy",
+ "summary": "LumiPic — опенсорсный инструмент, преобразующий изображения Standard Dynamic Range (SDR) в 16-битные HDR-файлы EXR с помощью диффузионных трансформеров. Использует диффузию с кодировкой LogC3 для восстановления утраченных деталей в светах и тенях для профессиональных VFX-пайплайнов.",
+ "title": "LumiPic: диффузионное преобразование изображений SDR-в-HDR",
+ "translated_at": null,
+ "translation": "machine"
+}

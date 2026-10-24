@@ -1,0 +1,11 @@
+{
+ "id": "n-8a620616a1",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Нативное аппаратное ускорение требует NVIDIA Blackwell (серия RTX 50 или B100); совместима с vLLM, SGLang и Ollama.",
+ "source_sha256": "legacy",
+ "summary": "Qwen3.6-35B-A3B-NVFP4 — это MoE-LLM на 35B параметров, оптимизированная Red Hat под архитектуру NVIDIA Blackwell с использованием 4-битного floating point квантования. Она даёт существенный прирост пропускной способности на GPU серии RTX 50, сохраняя способности к рассуждению благодаря подсети из 3B активных параметров.",
+ "title": "Qwen3.6-35B-A3B-NVFP4: высокоэффективная MoE, оптимизированная под Blackwell",
+ "translated_at": null,
+ "translation": "machine"
+}

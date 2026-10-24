@@ -1,0 +1,11 @@
+{
+ "id": "n-5f36799f6d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигает 720p при 40 FPS на модели в 5B параметров; использует Diffusion Transformer с дополненной памятью и поддерживает AMD ROCm через AITER CK.",
+ "source_sha256": "legacy",
+ "summary": "Open-source интерактивная world-модель, обеспечивающая стриминг в реальном времени и сохраняющая долгосрочную пространственно-временную консистентность. Работает как высокопроизводительный симулятор мира, генерируя окружения высокого разрешения вплоть до 40 FPS.",
+ "title": "Matrix-Game 3.0: интерактивная world-модель от Skywork AI",
+ "translated_at": null,
+ "translation": "machine"
+}

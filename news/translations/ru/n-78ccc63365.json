@@ -1,0 +1,11 @@
+{
+ "id": "n-78ccc63365",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Содержит обширные ссылки на инструмент ru-normalizr для предобработки текста и сообщество speechinfo с новостями исследований русского ML.",
+ "source_sha256": "legacy",
+ "summary": "Тщательно собранный репозиторий датасетов, инструментов и open-source моделей для распознавания и синтеза русской речи. Поддерживается командой Alpha Cephei, стоящей за toolkit распознавания речи Vosk.",
+ "title": "Awesome Russian Speech: ресурсы по русским речевым технологиям",
+ "translated_at": null,
+ "translation": "machine"
+}

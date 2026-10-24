@@ -1,0 +1,11 @@
+{
+ "id": "n-fdbf17ddf7",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Совместная работа The University of Hong Kong и Apple; примечательно, это первый метод, достигший нативного 4K feed-forward Gaussian Splatting.",
+ "source_sha256": "legacy",
+ "summary": "Фреймворк 3D-реконструкции, использующий компактные текстурированные гауссовы примитивы для развязки геометрической сложности и разрешения рендеринга. Он обеспечивает высококачественный feed-forward синтез 4K без необходимости пооптимизации каждой сцены.",
+ "title": "LGTM: Less Gaussians, Texture More для 3D-реконструкции",
+ "translated_at": null,
+ "translation": "machine"
+}

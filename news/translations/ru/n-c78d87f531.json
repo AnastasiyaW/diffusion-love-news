@@ -1,0 +1,11 @@
+{
+ "id": "n-c78d87f531",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан NeuralVFX для превосходного контроля сегментации в экосистеме Z-Image; основной инструмент в high-end ComfyUI-пайплайнах photogrammetry-to-render.",
+ "source_sha256": "legacy",
+ "summary": "Специализированный ControlNet для модели Z-Image 6B, синтезирующий фотореалистичные изображения из сегментационных масок Segment Anything Model (SAM). Обеспечивает точный пространственный контроль, гарантируя, что сгенерированный контент строго соответствует сложным границам входных масок.",
+ "title": "Z-Image-SAM-ControlNet от NeuralVFX",
+ "translated_at": null,
+ "translation": "machine"
+}

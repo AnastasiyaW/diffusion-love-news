@@ -1,0 +1,11 @@
+{
+ "id": "n-76a6e0d291",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан capitan01R; обходит ограничения текстового энкодера на основе Qwen3, изолируя активные токены и нацеливаясь напрямую на внутренние блоки модели.",
+ "source_sha256": "legacy",
+ "summary": "Набор нод ComfyUI для сохранения идентичности персонажа в моделях FLUX.2 Klein без обучения LoRA. Использует трассировку хуков модели и identity guidance для инъекции референсных признаков напрямую в двухпоточную архитектуру модели.",
+ "title": "ComfyUI-Flux2Klein-Enhancer: ноды для сохранения лица",
+ "translated_at": null,
+ "translation": "machine"
+}

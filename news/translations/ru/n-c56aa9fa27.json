@@ -1,0 +1,11 @@
+{
+ "id": "n-c56aa9fa27",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигла VBench-оценки 83.76%, превзойдя 14B-модель Wan2.1 при значительно меньших вычислительных затратах.",
+ "source_sha256": "legacy",
+ "summary": "Motif-Video 2B — это open-source модель text-to-video, построенная на архитектуре Decoupled Diffusion Transformer (DDT) и VAE из Wan2.1. Она использует общее cross-attention и выравнивание признаков, чтобы давать качественный синтез видео всего при 2 миллиардах параметров.",
+ "title": "Motif-Video 2B: эффективная видеомодель на Decoupled Diffusion Transformer",
+ "translated_at": null,
+ "translation": "machine"
+}

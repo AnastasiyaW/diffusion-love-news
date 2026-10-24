@@ -1,0 +1,11 @@
+{
+ "id": "n-5b56fca93a",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигает real-time factor до 3000x на GPU H100 с задержками от 160ms; имеет нативную поддержку пунктуации и заглавных букв.",
+ "source_sha256": "legacy",
+ "summary": "Модель автоматического распознавания речи на 600 миллионов параметров, объединяющая офлайн пакетную обработку и потоковую транскрипцию в реальном времени. Использует архитектуру Unified-FastConformer-RNNT для высокой точности и низкой задержки в разнообразных аудиозадачах.",
+ "title": "NVIDIA Parakeet-unified-en-0.6b: единая ASR-модель",
+ "translated_at": null,
+ "translation": "machine"
+}

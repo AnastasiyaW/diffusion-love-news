@@ -1,0 +1,11 @@
+{
+ "id": "n-492f7ebf1e",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Триггер-слово: «bodypositivity». Рекомендуемая сила LoRA — 1.0 для оптимального баланса между трансформацией и сохранением идентичности.",
+ "source_sha256": "legacy",
+ "summary": "Специализированный Image-to-Video адаптер для модели LTX-2.3, изменяющий тип телосложения субъекта с сохранением идентичности и движения. Работает как IC-LoRA, обученная на вручную отобранном синтетическом датасете.",
+ "title": "TheBurgstall LTX-2.3 Body Positivity LoRA",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-e4fab55e05",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает собственное SOG-сжатие для уменьшения размеров файлов и поддерживает воспроизведение 4D Gaussian Splatting.",
+ "source_sha256": "legacy",
+ "summary": "Веб-платформа для создания, хостинга и встраивания интерактивных 3D-сцен на основе технологии Gaussian Splatting. Имеет движок на PlayCanvas с поддержкой LOD-стриминга, динамического освещения и навигации от первого лица внутри захваченных окружений.",
+ "title": "StorySplat v2.3: интерактивный редактор 3D Gaussian Splatting",
+ "translated_at": null,
+ "translation": "machine"
+}

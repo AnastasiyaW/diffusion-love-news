@@ -1,0 +1,11 @@
+{
+ "id": "n-2ffed2d338",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан Inworld AI; стабильно занимает верхние строчки Artificial Analysis Speech Arena и напрямую конкурирует с Realtime API от OpenAI.",
+ "source_sha256": "legacy",
+ "summary": "Разговорный голосовой AI с низкой задержкой, динамически адаптирующий тон и эмоциональную выразительность на основе аудиоввода пользователя. Имеет 'поведенческий слой' для социальных рассуждений и поддерживает управление на естественном языке на более чем 100 языках.",
+ "title": "Inworld Realtime TTS-2: эмоциональная AI-система синтеза речи",
+ "translated_at": null,
+ "translation": "machine"
+}

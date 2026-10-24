@@ -1,0 +1,12 @@
+{
+ "evolution_summary": "Entwickelte sich von einem einfachen Modell-Wrapper zu einer vollwertigen Desktop-Suite auf Basis von Tauri mit betriebssystemnahen Diktier-Widgets und MCP-Server-Integration. Für das Bootstrapping lokaler Umgebungen ohne externe Abhängigkeiten nutzt sie nun den Paketmanager 'uv'.",
+ "id": "n-0124eabefd",
+ "lang": "de",
+ "model": "claude-haiku-5-5",
+ "research_notes": "Integriert Demucs zur Audiotrennung und sieht auf der Roadmap die Integration von Wav2Lip v2 vor, um die Realitätsnähe beim Video-Dubbing zu verbessern.",
+ "source_sha256": "806b1dc9c6d906c0e49719a87cd2e8152ee9feb3ed81a80a0247556499541933",
+ "summary": "Eine auf Datenschutz ausgelegte Desktop-Anwendung für Zero-Shot-Voice-Cloning, filmreifes Dubbing und Echtzeit-Diktat in über 600 Sprachen. Sie läuft zu 100 % lokal und unterstützt Beschleuniger von NVIDIA, Apple Silicon und AMD.",
+ "title": "OmniVoice Studio: lokales Voice Cloning und Dubbing",
+ "translated_at": "2026-10-24",
+ "translation": "machine"
+}

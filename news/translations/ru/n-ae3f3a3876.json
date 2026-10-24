@@ -1,0 +1,11 @@
+{
+ "id": "n-ae3f3a3876",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Privacy-first архитектура на основе расширений Chrome; требует браузер с поддержкой WebGPU.",
+ "source_sha256": "legacy",
+ "summary": "Полностью автономный AI-агент, работающий локально в браузере с аппаратным ускорением WebGPU и моделями Gemma 4 от Google. Выполняет навигацию по вебу, заполнение форм и исполнение JS без внешних API-ключей и облачных подключений.",
+ "title": "Gemma Gem: локальный браузерный AI-агент на WebGPU",
+ "translated_at": null,
+ "translation": "machine"
+}

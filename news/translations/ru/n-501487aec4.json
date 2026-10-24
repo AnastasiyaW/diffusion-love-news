@@ -1,0 +1,11 @@
+{
+ "id": "n-501487aec4",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживает до 16 независимых персонажей и использует стандартную для Mixamo схему именования скелета для авторигинга.",
+ "source_sha256": "legacy",
+ "summary": "Продвинутая система 3D-вьюпорта и анимации для ComfyUI, обеспечивающая интерактивную постановку персонажей в позы и композицию сцен. Генерирует многослойные данные ControlNet, включая Depth, Normal и OpenPose, напрямую из анимированных 3D-ассетов.",
+ "title": "ComfyUI Yedp Action Director — композитор 3D-сцен",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-840bb8c6c7",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживает более 90 языков со специальными улучшениями для южноазиатских письменностей. Разработана Datalab и сейчас считается ведущей open-source альтернативой проприетарным OCR-решениям.",
+ "source_sha256": "legacy",
+ "summary": "State-of-the-art vision-language модель для преобразования изображений и PDF в структурированный Markdown, HTML или JSON. Она сохраняет сложную вёрстку, включая многоколоночный текст, таблицы с объединёнными ячейками и математические формулы.",
+ "title": "Chandra OCR 2: open-source модель понимания документов",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-08dc2040a6",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработан Техническим университетом Мюнхена (TUM); представляет собой значительный сдвиг в сторону Large Reconstruction Models (LRM) для аватаров головы.",
+ "source_sha256": "legacy",
+ "summary": "FlexAvatar — это передовой фреймворк, который генерирует анимируемые 3D-аватары головы из разреженных входных данных, например из одной фотографии. Он использует 3D Gaussian Splatting и новый механизм Bias Sinks, что позволяет обучаться на разнообразных монокулярных и многоракурсных датасетах.",
+ "title": "FlexAvatar: высокоточные 3D-аватары головы через Bias Sinks",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-49b64d4933",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует лицензию NVIDIA OneWay Noncommercial; требует веса бэкбона Cosmos-Predict1 и доступ к Hugging Face.",
+ "source_sha256": "legacy",
+ "summary": "Разработанный NVIDIA, UniRelight — это фреймворк для переосвещения видео за один проход, который одновременно выполняет внутреннюю декомпозицию (intrinsic decomposition) и синтез. Он использует фундаментальную модель Cosmos-Predict1 на 7B параметров, достигая высокой точности и временной согласованности в сложных сценариях освещения.",
+ "title": "UniRelight: единый фреймворк для декомпозиции и синтеза видео",
+ "translated_at": null,
+ "translation": "machine"
+}

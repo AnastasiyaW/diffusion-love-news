@@ -1,0 +1,11 @@
+{
+ "id": "n-4a638abcfe",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Разработана SenseTime и Light-AI; представляет переход от модульных адаптеров к нативному end-to-end мультимодальному интеллекту.",
+ "source_sha256": "legacy",
+ "summary": "Серия нативных унифицированных мультимодальных моделей от SenseTime, объединяющая понимание, рассуждение и генерацию в единой end-to-end архитектуре. Использует backbone на основе Mixture-of-Transformers для обработки сырых пикселей и текстовых токенов без отдельных энкодеров.",
+ "title": "SenseNova-U1: унифицированный мультимодальный ИИ с NEO-unify",
+ "translated_at": null,
+ "translation": "machine"
+}

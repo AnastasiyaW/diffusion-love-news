@@ -1,0 +1,11 @@
+{
+ "id": "n-535631e71f",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Реализует архитектуру Entity-Component-System (ECS) и поддерживает сериализацию данных движения в высокопроизводительный формат .npz из источников GLB, FBX и BVH.",
+ "source_sha256": "legacy",
+ "summary": "Нативный Python-фреймворк от Meta Research для ИИ-анимации персонажей, объединяющий обработку данных, обучение и визуализацию в реальном времени. Он избавляет от необходимости в игровых движках вроде Unity, используя чистый бэкенд на NumPy и PyTorch со встроенным рендерером Raylib.",
+ "title": "AI4AnimationPy: Python-фреймворк для интеллектуальной анимации персонажей",
+ "translated_at": null,
+ "translation": "machine"
+}

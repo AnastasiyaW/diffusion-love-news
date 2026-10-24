@@ -1,0 +1,11 @@
+{
+ "id": "n-08bc14aa3d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживает офлайн-обработку на Apple Silicon и Bring Your Own Key (BYOK) для моделей вроде GPT-5.5 и Claude 4.7.",
+ "source_sha256": "legacy",
+ "summary": "Offline-first инструмент AI-транскрипции, использующий модели Whisper для преобразования речи в текст на разных платформах. Он предлагает настраиваемые режимы и агентные воркфлоу для приведения текста к конкретным форматам с помощью локальных или облачных LLM.",
+ "title": "Superwhisper: универсальный AI speech-to-text для десктопа и мобильных",
+ "translated_at": null,
+ "translation": "machine"
+}

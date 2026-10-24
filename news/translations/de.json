@@ -1,0 +1,25 @@
+{
+ "n-000fcd918f": {
+  "summary": "Am 01.08.2026 wurde die Entwicklungslinie von SenseNova mit Hugging-Face-Seiten für SenseNova-U1.5-8B-MoT-Preview und SenseNova-U1-8B-MoT-Infographic-V3 sowie mit entsprechenden Spaces in Verbindung gebracht. Die datierten Verknüpfungen deuten auf einen bedeutenden Meilenstein bei Modell und Demo hin, belegen jedoch weder die Fähigkeiten der Artefakte noch deren Veröffentlichungsstatus oder technische Änderungen.",
+  "title": "SenseNova verknüpfte U1-MoT-Preview- und Infografik-Artefakte auf Hugging Face"
+ },
+ "n-001a2f8ef9": {
+  "evolution_summary": "diffusion.love hat eine explizite Vertragsdefinition für den Entwicklungsgraphen von Projekten und Unternehmen veröffentlicht. Sie umfasst von Reviewern freigegebene Entwicklungslinien für Projekte und Unternehmen sowie eine commit-adressierte Knowledge-Space-Brücke mit einem agentenfertigen Briefing.",
+  "summary": "diffusion.love hat eine explizite Vertragsdefinition für den Entwicklungsgraphen von Projekten und Unternehmen veröffentlicht. Sie umfasst von Reviewern freigegebene Entwicklungslinien für Projekte und Unternehmen sowie eine commit-adressierte Knowledge-Space-Brücke mit einem agentenfertigen Briefing.",
+  "title": "diffusion.love veröffentlicht explizite Vertragsdefinition für den Entwicklungsgraphen von Projekten und Unternehmen"
+ },
+ "n-006a78034f": {
+  "summary": "Am 2026-03-23 verwies eine versiegelte Nachricht Leser auf die UNI-1-Seite bei Luma Labs sowie auf die Anwendung von Luma Labs. Damit ist ein datierter offizieller Projektverweis in der Entwicklungsgeschichte von UNI-1 belegt. Die vorliegenden Belege lassen jedoch weder den genauen Veröffentlichungsstatus noch die Fähigkeiten oder Einzelheiten der Ankündigung erkennen.",
+  "title": "UNI-1 erhielt einen offiziellen Projektverweis von Luma Labs"
+ },
+ "n-00c9c3996b": {
+  "summary": "Am 2026-06-27 enthielt eine datierte Quelle zu HATCHA einen Link zum GitHub-Repository des Projekts. Dies dokumentiert einen öffentlichen Repository-Verweis in der Historie von HATCHA, belegt jedoch weder das Erstellungsdatum des Repositorys noch ein Release oder eine bestimmte Fähigkeit.",
+  "title": "Auf das GitHub-Repository von HATCHA wurde verwiesen"
+ },
+ "n-0124eabefd": {
+  "evolution_summary": "Entwickelte sich von einem einfachen Modell-Wrapper zu einer vollwertigen Desktop-Suite auf Basis von Tauri mit betriebssystemnahen Diktier-Widgets und MCP-Server-Integration. Für das Bootstrapping lokaler Umgebungen ohne externe Abhängigkeiten nutzt sie nun den Paketmanager 'uv'.",
+  "research_notes": "Integriert Demucs zur Audiotrennung und sieht auf der Roadmap die Integration von Wav2Lip v2 vor, um die Realitätsnähe beim Video-Dubbing zu verbessern.",
+  "summary": "Eine auf Datenschutz ausgelegte Desktop-Anwendung für Zero-Shot-Voice-Cloning, filmreifes Dubbing und Echtzeit-Diktat in über 600 Sprachen. Sie läuft zu 100 % lokal und unterstützt Beschleuniger von NVIDIA, Apple Silicon und AMD.",
+  "title": "OmniVoice Studio: lokales Voice Cloning und Dubbing"
+ }
+}

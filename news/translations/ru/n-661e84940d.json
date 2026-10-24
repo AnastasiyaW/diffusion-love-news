@@ -1,0 +1,11 @@
+{
+ "id": "n-661e84940d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Требует PyTorch 2.8.0 или новее; пользователям рекомендуется устанавливать через ComfyUI Manager либо использовать флаг --no-deps во избежание конфликтов зависимостей с основным окружением ComfyUI.",
+ "source_sha256": "legacy",
+ "summary": "Интеграция в ComfyUI модели zero-shot клонирования голоса OmniVoice, обеспечивающая качественный синтез речи и voice design в node-based воркфлоу. Поддерживает более 600 языков и достигает real-time factor вплоть до 0.025.",
+ "title": "Кастомные ноды OmniVoice для ComfyUI",
+ "translated_at": null,
+ "translation": "machine"
+}

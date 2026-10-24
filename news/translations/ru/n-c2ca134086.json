@@ -1,0 +1,11 @@
+{
+ "id": "n-c2ca134086",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Широко известна благодаря лучшим в индустрии возможностям рендеринга текста и производительности при генерации сложных макетов вроде инфографики и раскадровок.",
+ "source_sha256": "legacy",
+ "summary": "Модель text-to-image на 8 миллиардов параметров от Baidu, построенная на архитектуре Diffusion Transformer (DiT). Она использует Distribution Matching Distillation (DMD) и обучение с подкреплением, чтобы генерировать высококачественные изображения всего за 8 шагов инференса.",
+ "title": "ERNIE-Image-Turbo 8B: Diffusion Transformer с открытыми весами",
+ "translated_at": null,
+ "translation": "machine"
+}

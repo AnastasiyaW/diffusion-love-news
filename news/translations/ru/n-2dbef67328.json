@@ -1,0 +1,11 @@
+{
+ "id": "n-2dbef67328",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Поддерживается PasiKoodaa наряду с другими local-first инструментами вроде Chat-with-Screen и Screen-Analysis-Overlay.",
+ "source_sha256": "legacy",
+ "summary": "Лёгкий открытый инструмент, позволяющий вести автономное AI-программирование прямо в браузере без внешних API-ключей. Использует локальное исполнение моделей, предоставляя упрощённую среду для агентных задач кодинга и быстрых экспериментов.",
+ "title": "SlopLobster: локальный AI-ассистент кодинга в браузере",
+ "translated_at": null,
+ "translation": "machine"
+}

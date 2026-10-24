@@ -1,0 +1,11 @@
+{
+ "id": "n-85862dbbb3",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует устойчивый решатель RANSAC + Umeyama для выравнивания координат, устойчивого к выбросам; есть режим 'No Scene' для обработки отдельных PLY-файлов с применением готовых матриц подобия.",
+ "source_sha256": "legacy",
+ "summary": "Открытый инструмент на Python для геопривязки моделей 3D Gaussian Splatting к реальным координатам с использованием EXIF-метаданных изображений или внешних CSV-логов. Обеспечивает профессиональную интеграцию с GIS за счёт экспорта сцен в форматы 3D Tiles 1.1, LAS и LAZ.",
+ "title": "Geo Register Plugin для сцен 3D Gaussian Splatting",
+ "translated_at": null,
+ "translation": "machine"
+}

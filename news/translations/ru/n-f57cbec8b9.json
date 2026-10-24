@@ -1,0 +1,11 @@
+{
+ "id": "n-f57cbec8b9",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "На момент запуска достигла state-of-the-art результатов на бенчмарках Oxford Spires и ETH3D, обойдя как потоковые, так и оффлайн-методы.",
+ "source_sha256": "legacy",
+ "summary": "LingBot-Map — это 3D-фундаментальная модель, рассчитанная на потоковую 3D-реконструкцию в реальном времени из обычных последовательностей RGB-видео. Она использует архитектуру Geometric Context Transformer (GCT) для привязки координат и коррекции долговременного дрейфа в задачах воплощённого ИИ (embodied AI).",
+ "title": "LingBot-Map: потоковая реконструкция 3D-сцен в реальном времени",
+ "translated_at": null,
+ "translation": "machine"
+}

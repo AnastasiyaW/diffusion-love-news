@@ -1,0 +1,11 @@
+{
+ "id": "n-a236c67d82",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Использует двухстадийный пайплайн из ace-lm для композиции и ace-synth для рендеринга на основе диффузии.",
+ "source_sha256": "legacy",
+ "summary": "Лёгкая переносимая C++ реализация музыкальной foundation-модели ACE-Step 1.5 на бэкенде GGML. Она позволяет генерировать качественную стереомузыку 48kHz без зависимостей от Python на пользовательских CPU и GPU.",
+ "title": "C++ порт ACE-Step 1.5 (acestep.cpp)",
+ "translated_at": null,
+ "translation": "machine"
+}

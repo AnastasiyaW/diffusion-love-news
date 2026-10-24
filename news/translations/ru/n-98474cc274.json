@@ -1,0 +1,11 @@
+{
+ "id": "n-98474cc274",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Модель выпущена под лицензией Apache-2.0 и включает полные рецепты обучения и веса на Hugging Face.",
+ "source_sha256": "legacy",
+ "summary": "Модель text-to-image на 17B параметров, использующая архитектуру Sparse Mixture-of-Experts, чтобы развязать ёмкость модели и стоимость инференса. Она активирует лишь ~2B параметров на каждый проход, обеспечивая высокое качество генерации при значительно сниженной задержке.",
+ "title": "Nucleus Image: диффузионная модель на разреженной Mixture-of-Experts",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-08ae804484",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Представила систему quadmask для физически осведомлённого инпейнтинга; широко используется как основная точка входа для VOID в экосистеме ComfyUI.",
+ "source_sha256": "legacy",
+ "summary": "Реализация модели VOID от Netflix в ComfyUI для продвинутого видео-инпейнтинга. Удаляет объекты вместе с их физическими взаимодействиями — тенями и отражениями — с помощью уникальной системы quadmask.",
+ "title": "AP Netflix VOID — ноды ComfyUI для удаления объектов из видео",
+ "translated_at": null,
+ "translation": "machine"
+}

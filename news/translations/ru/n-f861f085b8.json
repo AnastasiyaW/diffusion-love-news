@@ -1,0 +1,11 @@
+{
+ "id": "n-f861f085b8",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает 'fcc-server' для проксирования и обёртку 'fcc-claude' для простой настройки; к середине 2026 года набрал более 24k звёзд на GitHub.",
+ "source_sha256": "legacy",
+ "summary": "Слой абстракции рантайма и прокси-сервер, позволяющий официальному Claude Code CLI работать с альтернативными LLM-провайдерами вроде NVIDIA NIM, OpenRouter и локальными моделями. Обеспечивает полный паритет протокола, поддерживая агентное использование инструментов, стриминг и reasoning-блоки без необходимости в прямом API-ключе Anthropic.",
+ "title": "Free Claude Code: ИИ-прокси для Claude CLI",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,1612 @@
+{
+ "n-0124eabefd": {
+  "fresh": false,
+  "title": "OmniVoice Studio: локальное клонирование голоса и дубляж",
+  "translated_at": null
+ },
+ "n-019c913613": {
+  "fresh": false,
+  "title": "Qwen3.6-27B-3bit-mlx",
+  "translated_at": null
+ },
+ "n-01b786ce9f": {
+  "fresh": false,
+  "title": "AlayaRenderer: генеративный world-рендерер для AAA-игр",
+  "translated_at": null
+ },
+ "n-02d9e4ba24": {
+  "fresh": false,
+  "title": "OpenMobile: опенсорсный фреймворк для мобильных агентов",
+  "translated_at": null
+ },
+ "n-02e0b8ae6c": {
+  "fresh": false,
+  "title": "AI Metadata Inspector — просмотрщик метаданных для Windows",
+  "translated_at": null
+ },
+ "n-03e4a812c8": {
+  "fresh": false,
+  "title": "OmniShow: унифицированная мультимодальная генерация видео взаимодействия человека с объектами",
+  "translated_at": null
+ },
+ "n-04529e7d46": {
+  "fresh": false,
+  "title": "Qwen3.6-35B-A3B: мультимодальная разреженная MoE-модель от Alibaba",
+  "translated_at": null
+ },
+ "n-047f61d312": {
+  "fresh": false,
+  "title": "video-use: инструментарий видеомонтажа для AI-агентов",
+  "translated_at": null
+ },
+ "n-0588f1e672": {
+  "fresh": false,
+  "title": "Happy Horse 1.0: унифицированная модель генерации видео",
+  "translated_at": null
+ },
+ "n-0646f210ee": {
+  "fresh": false,
+  "title": "Промпт в стиле MS Paint для DALL-E: стилизация фото",
+  "translated_at": null
+ },
+ "n-06b8f54c97": {
+  "fresh": false,
+  "title": "MARBLE: фреймворк обучения с подкреплением для многоаспектного согласования диффузии",
+  "translated_at": null
+ },
+ "n-0739891476": {
+  "fresh": false,
+  "title": "JoyAI-Image: официальные ноды ComfyUI и модель пространственного редактирования",
+  "translated_at": null
+ },
+ "n-0841776bd9": {
+  "fresh": false,
+  "title": "Hunyuan3 Preview (Hy3-preview)",
+  "translated_at": null
+ },
+ "n-08ae804484": {
+  "fresh": false,
+  "title": "AP Netflix VOID — ноды ComfyUI для удаления объектов из видео",
+  "translated_at": null
+ },
+ "n-08bc14aa3d": {
+  "fresh": false,
+  "title": "Superwhisper: универсальный AI speech-to-text для десктопа и мобильных",
+  "translated_at": null
+ },
+ "n-08dc2040a6": {
+  "fresh": false,
+  "title": "FlexAvatar: высокоточные 3D-аватары головы через Bias Sinks",
+  "translated_at": null
+ },
+ "n-08fceb7eae": {
+  "fresh": false,
+  "title": "bEpic Viewer Professional: набор для ревью в ComfyUI",
+  "translated_at": null
+ },
+ "n-093c066bee": {
+  "fresh": false,
+  "title": "QClaw: десктопный ИИ-агент автоматизации от Tencent",
+  "translated_at": null
+ },
+ "n-0948d8e4a5": {
+  "fresh": false,
+  "title": "CutClaw: агентный мульти-агентный монтаж видео под музыку",
+  "translated_at": null
+ },
+ "n-09ee25f7d5": {
+  "fresh": false,
+  "title": "HyDRA: гибридная память для динамических видео world-моделей",
+  "translated_at": null
+ },
+ "n-09f901429d": {
+  "fresh": false,
+  "title": "Stream-R1: дистилляция видео в реальном времени под управлением reward",
+  "translated_at": null
+ },
+ "n-0cf9d026b8": {
+  "fresh": false,
+  "title": "SCAIL-2: студийная анимация персонажей через in-context learning",
+  "translated_at": null
+ },
+ "n-10b1471000": {
+  "fresh": false,
+  "title": "RefineAnything: мультимодальное уточнение изображений по областям",
+  "translated_at": null
+ },
+ "n-110bebc860": {
+  "fresh": false,
+  "title": "Spark 2.0: крупномасштабный веб-движок Gaussian Splatting",
+  "translated_at": null
+ },
+ "n-11e8a99b4c": {
+  "fresh": false,
+  "title": "Rowboat: local-first AI-агент и персональный граф знаний",
+  "translated_at": null
+ },
+ "n-129b6b09c0": {
+  "fresh": false,
+  "title": "Qwen3.6-35B: дистилляция рассуждений Claude 4.6 Opus",
+  "translated_at": null
+ },
+ "n-133a0bfd18": {
+  "fresh": false,
+  "title": "ComfyUI Command Palette",
+  "translated_at": null
+ },
+ "n-155ef8c3dc": {
+  "fresh": false,
+  "title": "Any4D: единая feed-forward метрическая 4D-реконструкция",
+  "translated_at": null
+ },
+ "n-15fd6206af": {
+  "fresh": false,
+  "title": "Marco-MoE: открытые многоязычные MoE-модели от Alibaba AIDC",
+  "translated_at": null
+ },
+ "n-169e12a080": {
+  "fresh": false,
+  "title": "CorridorKey-Runtime: AI-кеер хромакея",
+  "translated_at": null
+ },
+ "n-16ee77b7eb": {
+  "fresh": false,
+  "title": "Новые GGUF-модели: Qwen 3.5, Gemma 4 и Qwopus",
+  "translated_at": null
+ },
+ "n-18331ebc79": {
+  "fresh": false,
+  "title": "JavisDiT: совместный аудио-видео Diffusion Transformer",
+  "translated_at": null
+ },
+ "n-18c1e67c85": {
+  "fresh": false,
+  "title": "Delulu Stream: манипуляция видео в реальном времени",
+  "translated_at": null
+ },
+ "n-18cb9608e2": {
+  "fresh": false,
+  "title": "ReplaceMe: training-free прунинг по глубине для LLM",
+  "translated_at": null
+ },
+ "n-18e6b47885": {
+  "fresh": false,
+  "title": "ComfyStudio: AI-видеоредактор с таймлайном для ComfyUI",
+  "translated_at": null
+ },
+ "n-1985ad3cff": {
+  "fresh": false,
+  "title": "OpenAI Privacy Filter: локальная модель для редактирования PII",
+  "translated_at": null
+ },
+ "n-19adc0c7af": {
+  "fresh": false,
+  "title": "ByteCut Director: рабочее пространство для AI-видеопродакшна",
+  "translated_at": null
+ },
+ "n-1b0490d011": {
+  "fresh": false,
+  "title": "GeoSR: геометрическое пространственное рассуждение для VLM",
+  "translated_at": null
+ },
+ "n-1b11977658": {
+  "fresh": false,
+  "title": "ComfyUI Hires Fix Ultra: универсальная нода «всё в одном»",
+  "translated_at": null
+ },
+ "n-1b656b5ff8": {
+  "fresh": false,
+  "title": "Многопользовательские агенты на больших языковых моделях",
+  "translated_at": null
+ },
+ "n-1c50287b34": {
+  "fresh": false,
+  "title": "X2SAM — мультимодальная модель для сегментации изображений и видео",
+  "translated_at": null
+ },
+ "n-1cfc0e728d": {
+  "fresh": false,
+  "title": "NVIDIA Nemotron-3-Nano-Omni-30B-A3B",
+  "translated_at": null
+ },
+ "n-1e0d9b8388": {
+  "fresh": false,
+  "title": "HY-World 2.0: мультимодальная модель мира от Tencent",
+  "translated_at": null
+ },
+ "n-1fef5a401b": {
+  "fresh": false,
+  "title": "Tencent Hunyuan UniCom",
+  "translated_at": null
+ },
+ "n-207ed94fbd": {
+  "fresh": false,
+  "title": "MUA: мобильные ультрадетализированные анимируемые аватары",
+  "translated_at": null
+ },
+ "n-2090ac5f1b": {
+  "fresh": false,
+  "title": "Waypoint-1.5: интерактивная видеомодель мира в реальном времени",
+  "translated_at": null
+ },
+ "n-221dea80c4": {
+  "fresh": false,
+  "title": "MIA: фреймворк агента Memory In Intelligence",
+  "translated_at": null
+ },
+ "n-2244c25f96": {
+  "fresh": false,
+  "title": "DeepSeek TVP: Thinking with Visual Primitives",
+  "translated_at": null
+ },
+ "n-23270485c3": {
+  "fresh": false,
+  "title": "LiveActionAOV: standalone-инструмент для пакетной генерации VFX-проходов",
+  "translated_at": null
+ },
+ "n-23309eb954": {
+  "fresh": false,
+  "title": "InfiniDepth: монокулярная оценка глубины произвольного разрешения",
+  "translated_at": null
+ },
+ "n-2405c2d2f2": {
+  "fresh": false,
+  "title": "GPT-5.5: официальное руководство OpenAI по промптингу",
+  "translated_at": null
+ },
+ "n-250fdb3b1b": {
+  "fresh": false,
+  "title": "Color-Grade-Transfer-LoRA для точного подбора цвета",
+  "translated_at": null
+ },
+ "n-2915ceca6f": {
+  "fresh": false,
+  "title": "ComfyUI-DreamScene360 — панорамный Gaussian Splatting и 3D-сцены",
+  "translated_at": null
+ },
+ "n-2938402642": {
+  "fresh": false,
+  "title": "Boxer: подъём 2D в 3D bounding box в открытом мире",
+  "translated_at": null
+ },
+ "n-2a8f5beb6c": {
+  "fresh": false,
+  "title": "OpenAI Codex CLI",
+  "translated_at": null
+ },
+ "n-2aa536ccdc": {
+  "fresh": false,
+  "title": "Kimi K2.6: фронтирная агентная LLM от Moonshot AI",
+  "translated_at": null
+ },
+ "n-2af8215f2c": {
+  "fresh": false,
+  "title": "DiffHDR: генеративная диффузия видео из LDR в HDR",
+  "translated_at": null
+ },
+ "n-2bdd41c2da": {
+  "fresh": false,
+  "title": "OneManCompany: самоорганизующаяся ОС для ИИ-агентов",
+  "translated_at": null
+ },
+ "n-2c91e42c2d": {
+  "fresh": false,
+  "title": "Meta-CoT: иерархический Chain-of-Thought для редактирования изображений",
+  "translated_at": null
+ },
+ "n-2d6650cee4": {
+  "fresh": false,
+  "title": "Deno AI Studio: Windows-инсталлятор для ИИ-моделей",
+  "translated_at": null
+ },
+ "n-2dbef67328": {
+  "fresh": false,
+  "title": "SlopLobster: локальный AI-ассистент кодинга в браузере",
+  "translated_at": null
+ },
+ "n-2eb209422c": {
+  "fresh": false,
+  "title": "MAI-Transcribe-1: модель распознавания речи от Microsoft",
+  "translated_at": null
+ },
+ "n-2f8c6f34f0": {
+  "fresh": false,
+  "title": "ClawEnvKit: автоматическая генерация сред для ИИ-агентов",
+  "translated_at": null
+ },
+ "n-2fc856ac34": {
+  "fresh": false,
+  "title": "UniGenDet: унифицированный генеративно-дискриминативный фреймворк для коэволюционной генерации и детекции изображений",
+  "translated_at": null
+ },
+ "n-2fd5e60740": {
+  "fresh": false,
+  "title": "QuickMagic AI: профессиональный сервис video-to-mocap и аватаров",
+  "translated_at": null
+ },
+ "n-2ff0f435cc": {
+  "fresh": false,
+  "title": "ComfyUI-mesh2motion: интерактивный редактор 3D-мешей для AI-анимации",
+  "translated_at": null
+ },
+ "n-2ffed2d338": {
+  "fresh": false,
+  "title": "Inworld Realtime TTS-2: эмоциональная AI-система синтеза речи",
+  "translated_at": null
+ },
+ "n-30f5861cb4": {
+  "fresh": false,
+  "title": "Flux FaceIR: качественное восстановление лиц для Flux",
+  "translated_at": null
+ },
+ "n-332335c756": {
+  "fresh": false,
+  "title": "ComfyUI Wan VACE Video Joiner для бесшовных переходов",
+  "translated_at": null
+ },
+ "n-3354f12396": {
+  "fresh": false,
+  "title": "camera-comfyUI: ноды 3D-проекции камеры для ComfyUI",
+  "translated_at": null
+ },
+ "n-33f31b6935": {
+  "fresh": false,
+  "title": "MOSS-Audio-8B-Thinking",
+  "translated_at": null
+ },
+ "n-34034d382e": {
+  "fresh": false,
+  "title": "LTX 2.3 Enhancers: LoRA для визуальной точности и чёткости",
+  "translated_at": null
+ },
+ "n-348f0ce004": {
+  "fresh": false,
+  "title": "DisCa: обучаемое кэширование признаков, совместимое с дистилляцией",
+  "translated_at": null
+ },
+ "n-367db0be8e": {
+  "fresh": false,
+  "title": "Nous Hermes Agent: автономный самоэволюционирующий фреймворк",
+  "translated_at": null
+ },
+ "n-36e9bae8ed": {
+  "fresh": false,
+  "title": "MiniCPM-V 4.6: эффективная edge-нативная мультимодальная модель",
+  "translated_at": null
+ },
+ "n-396cd4f7c0": {
+  "fresh": false,
+  "title": "MotionDeblur IC-LoRA для восстановления видео в LTX-2.3",
+  "translated_at": null
+ },
+ "n-39f773b51f": {
+  "fresh": false,
+  "title": "ComfyUI-Photopea-tab: редактор изображений в сайдбаре для ComfyUI",
+  "translated_at": null
+ },
+ "n-3ae3ddb34b": {
+  "fresh": false,
+  "title": "LTX-2.3-22b-IC-LoRA-Outpaint: расширение кадра видео",
+  "translated_at": null
+ },
+ "n-3b297c8441": {
+  "fresh": false,
+  "title": "World Labs Marble: генеративные 3D world-модели",
+  "translated_at": null
+ },
+ "n-3ef8391496": {
+  "fresh": false,
+  "title": "GLiGuard: компактная модель для модерации безопасности LLM",
+  "translated_at": null
+ },
+ "n-3fedc168df": {
+  "fresh": false,
+  "title": "SpatialEdit-16B: тонкое пространственное редактирование изображений",
+  "translated_at": null
+ },
+ "n-40f1573a5d": {
+  "fresh": false,
+  "title": "Map2World: генерация 3D-мира из сегментной карты и текста",
+  "translated_at": null
+ },
+ "n-41c999d507": {
+  "fresh": false,
+  "title": "ComfyUI_SenseNova_U1: кастомные ноды для мультимодальных моделей",
+  "translated_at": null
+ },
+ "n-44592b77d5": {
+  "fresh": false,
+  "title": "Tuna-2: эмбеддинги пикселей обходят vision-энкодеры",
+  "translated_at": null
+ },
+ "n-44b3b570af": {
+  "fresh": false,
+  "title": "MACE-Dance: каскадные эксперты движения и внешнего вида для генерации танцев",
+  "translated_at": null
+ },
+ "n-44c547a245": {
+  "fresh": false,
+  "title": "OpenHarness: лёгкая мульти-агентная инфраструктура для LLM",
+  "translated_at": null
+ },
+ "n-461304d95b": {
+  "fresh": false,
+  "title": "ReconViaGen: точная многоракурсная 3D-реконструкция через генерацию",
+  "translated_at": null
+ },
+ "n-464a2f9508": {
+  "fresh": false,
+  "title": "Large Performance Model LPM 1.0: интерактивное видео",
+  "translated_at": null
+ },
+ "n-4694b833dd": {
+  "fresh": false,
+  "title": "Pi-HOC: попарный 3D-контакт человека и объекта",
+  "translated_at": null
+ },
+ "n-4697df47f5": {
+  "fresh": false,
+  "title": "Token Warping для понимания ракурса в MLLM",
+  "translated_at": null
+ },
+ "n-492f7ebf1e": {
+  "fresh": false,
+  "title": "TheBurgstall LTX-2.3 Body Positivity LoRA",
+  "translated_at": null
+ },
+ "n-49a6616381": {
+  "fresh": false,
+  "title": "BRO v14: мега-промпт хардкорного стоика-инженера",
+  "translated_at": null
+ },
+ "n-49b64d4933": {
+  "fresh": false,
+  "title": "UniRelight: единый фреймворк для декомпозиции и синтеза видео",
+  "translated_at": null
+ },
+ "n-49e8a26e33": {
+  "fresh": false,
+  "title": "flova.ai: AI-видеоагент на базе Seedance 2.0",
+  "translated_at": null
+ },
+ "n-4a638abcfe": {
+  "fresh": false,
+  "title": "SenseNova-U1: унифицированный мультимодальный ИИ с NEO-unify",
+  "translated_at": null
+ },
+ "n-4bbad7fe81": {
+  "fresh": false,
+  "title": "Ltx2.3-VBVR: LoRA визуального рассуждения для LTX-Video",
+  "translated_at": null
+ },
+ "n-501487aec4": {
+  "fresh": false,
+  "title": "ComfyUI Yedp Action Director — композитор 3D-сцен",
+  "translated_at": null
+ },
+ "n-511353336a": {
+  "fresh": false,
+  "title": "KupkaProd Cinema Pipeline: локальная агентная AI-киностудия",
+  "translated_at": null
+ },
+ "n-525a6be75a": {
+  "fresh": false,
+  "title": "EMF: расширение одношаговой генерации изображений (Alibaba)",
+  "translated_at": null
+ },
+ "n-52e566a651": {
+  "fresh": false,
+  "title": "LumiVid: генерация видео SDR-в-HDR через LTX-Video 2.3",
+  "translated_at": null
+ },
+ "n-535631e71f": {
+  "fresh": false,
+  "title": "AI4AnimationPy: Python-фреймворк для интеллектуальной анимации персонажей",
+  "translated_at": null
+ },
+ "n-541dc74a2e": {
+  "fresh": false,
+  "title": "Foresyn AI: предсказатель виральности для HackerNews",
+  "translated_at": null
+ },
+ "n-545c4e25d2": {
+  "fresh": false,
+  "title": "Hugging Face Kernels Hub для оптимизации GPU",
+  "translated_at": null
+ },
+ "n-545f242033": {
+  "fresh": false,
+  "title": "Clad Size-aware: 3D-сканирование тела для виртуальной примерки",
+  "translated_at": null
+ },
+ "n-553243c913": {
+  "fresh": false,
+  "title": "RotorQuant: сжатие KV-кэша блочно-диагональными роторами Клиффорда",
+  "translated_at": null
+ },
+ "n-55968207e4": {
+  "fresh": false,
+  "title": "PixelSmile для ComfyUI: точное управление мимикой лица",
+  "translated_at": null
+ },
+ "n-55db199d87": {
+  "fresh": false,
+  "title": "FlowInOne: унифицированная vision-centric мультимодальная генерация и редактирование изображений",
+  "translated_at": null
+ },
+ "n-57264ece04": {
+  "fresh": false,
+  "title": "LTX-2.3 22B IC-LoRA ReFocus: инструмент восстановления видео",
+  "translated_at": null
+ },
+ "n-58129455d1": {
+  "fresh": false,
+  "title": "Ring-2.6-1T: высокопроизводительная агентная MoE-модель",
+  "translated_at": null
+ },
+ "n-58225bc7d0": {
+  "fresh": false,
+  "title": "Spectrum: адаптивное спектральное прогнозирование признаков для ускорения диффузии",
+  "translated_at": null
+ },
+ "n-596ffa06da": {
+  "fresh": false,
+  "title": "ACE-Step 1.5 XL",
+  "translated_at": null
+ },
+ "n-5ac53c2267": {
+  "fresh": false,
+  "title": "Квантованная модель NVIDIA Gemma-4-31B-IT NVFP4",
+  "translated_at": null
+ },
+ "n-5ade5d658c": {
+  "fresh": false,
+  "title": "Open Generative AI (ранее Open Higgsfield AI)",
+  "translated_at": null
+ },
+ "n-5b56fca93a": {
+  "fresh": false,
+  "title": "NVIDIA Parakeet-unified-en-0.6b: единая ASR-модель",
+  "translated_at": null
+ },
+ "n-5be6e62e52": {
+  "fresh": false,
+  "title": "AnyRecon: 3D-реконструкция с произвольных ракурсов через видеодиффузию",
+  "translated_at": null
+ },
+ "n-5cac0a3186": {
+  "fresh": false,
+  "title": "Luma Agents: мультимодальные ИИ-соавторы для творческих задач",
+  "translated_at": null
+ },
+ "n-5d03d1bfa4": {
+  "fresh": false,
+  "title": "LongCat-Next: нативная мультимодальная MoE-модель",
+  "translated_at": null
+ },
+ "n-5d75a2276e": {
+  "fresh": false,
+  "title": "Seeduplex: full-duplex голосовая модель от ByteDance",
+  "translated_at": null
+ },
+ "n-5db7fa704b": {
+  "fresh": false,
+  "title": "World-R1: усиление 3D-ограничений для генерации видео",
+  "translated_at": null
+ },
+ "n-5e1a256a5e": {
+  "fresh": false,
+  "title": "Happy Oyster: интерактивная ИИ-модель мира от Alibaba в реальном времени",
+  "translated_at": null
+ },
+ "n-5e356466d0": {
+  "fresh": false,
+  "title": "AURA — постоянное понимание и помощь в реальном времени",
+  "translated_at": null
+ },
+ "n-5e92efec32": {
+  "fresh": false,
+  "title": "Baidu ERNIE 5.1: большая языковая модель",
+  "translated_at": null
+ },
+ "n-5f36799f6d": {
+  "fresh": false,
+  "title": "Matrix-Game 3.0: интерактивная world-модель от Skywork AI",
+  "translated_at": null
+ },
+ "n-60f7bb3300": {
+  "fresh": false,
+  "title": "Реконструкция поверхности Луны через 3DGS (NASA Artemis II)",
+  "translated_at": null
+ },
+ "n-61c8c02fec": {
+  "fresh": false,
+  "title": "Nvidia Kimodo: кинематическая диффузия движений для 3D-анимации",
+  "translated_at": null
+ },
+ "n-637b9d18ed": {
+  "fresh": false,
+  "title": "D-OPSD: непрерывное дообучение step-distilled диффузионных моделей",
+  "translated_at": null
+ },
+ "n-63cbd51a4a": {
+  "fresh": false,
+  "title": "Multica: open-source платформа для управления AI-агентами",
+  "translated_at": null
+ },
+ "n-64094eafae": {
+  "fresh": false,
+  "title": "LLaDA2.0-Uni: объединение мультимодального понимания и генерации",
+  "translated_at": null
+ },
+ "n-6562acabdd": {
+  "fresh": false,
+  "title": "Happy Horse 1.0: единая модель генерации видео и аудио",
+  "translated_at": null
+ },
+ "n-661e84940d": {
+  "fresh": false,
+  "title": "Кастомные ноды OmniVoice для ComfyUI",
+  "translated_at": null
+ },
+ "n-662ab03ff4": {
+  "fresh": false,
+  "title": "Фреймворк Open Multi-Agent (OMA)",
+  "translated_at": null
+ },
+ "n-665b60a4fc": {
+  "fresh": false,
+  "title": "OmniVoice: мультиязычный TTS и zero-shot клонирование голоса",
+  "translated_at": null
+ },
+ "n-694e3b1cf5": {
+  "fresh": false,
+  "title": "Sonilo: ИИ-генерация музыки по видео для создателей контента",
+  "translated_at": null
+ },
+ "n-69cc1d969e": {
+  "fresh": false,
+  "title": "LTX-2.3 EditAnything IC-LoRA",
+  "translated_at": null
+ },
+ "n-6a0618307a": {
+  "fresh": false,
+  "title": "Nemotron-OCR v2: мультиязычная система анализа документов от NVIDIA",
+  "translated_at": null
+ },
+ "n-6a60e32785": {
+  "fresh": false,
+  "title": "Qwen 3.6 Plus",
+  "translated_at": null
+ },
+ "n-6b3a93f373": {
+  "fresh": false,
+  "title": "VibeComfy 2.0: агентный Python-интерфейс для ComfyUI",
+  "translated_at": null
+ },
+ "n-6dd8c1ff25": {
+  "fresh": false,
+  "title": "ClawGUI: единый фреймворк для обучения и развёртывания GUI-агентов",
+  "translated_at": null
+ },
+ "n-70e759ac2b": {
+  "fresh": false,
+  "title": "UniVidX: унифицированный мультимодальный фреймворк видео-диффузии",
+  "translated_at": null
+ },
+ "n-70f82f82ae": {
+  "fresh": false,
+  "title": "C-MET: кросс-модальный перенос эмоций для talking face видео",
+  "translated_at": null
+ },
+ "n-73d2d5938e": {
+  "fresh": false,
+  "title": "Superset — оркестратор для параллельной работы AI-агентов",
+  "translated_at": null
+ },
+ "n-73e5608506": {
+  "fresh": false,
+  "title": "Memory Transfer Learning (MTL) для ИИ-агентов кодинга",
+  "translated_at": null
+ },
+ "n-73e8b27cb3": {
+  "fresh": false,
+  "title": "Assistant_Pepe_32B: человекоцентричный творческий файнтюн Qwen-3",
+  "translated_at": null
+ },
+ "n-768295e164": {
+  "fresh": false,
+  "title": "Xiaomi MiMo V2.5: омнимодальные reasoning-модели",
+  "translated_at": null
+ },
+ "n-76a6e0d291": {
+  "fresh": false,
+  "title": "ComfyUI-Flux2Klein-Enhancer: ноды для сохранения лица",
+  "translated_at": null
+ },
+ "n-76eee2c69c": {
+  "fresh": false,
+  "title": "Echo-2: генерация 3D-мира от SpAItial AI",
+  "translated_at": null
+ },
+ "n-78a59b56b6": {
+  "fresh": false,
+  "title": "PersonaVLM: персонализированные мультимодальные большие языковые модели",
+  "translated_at": null
+ },
+ "n-78ccc63365": {
+  "fresh": false,
+  "title": "Awesome Russian Speech: ресурсы по русским речевым технологиям",
+  "translated_at": null
+ },
+ "n-7c1f689c14": {
+  "fresh": false,
+  "title": "UniGeo: редактирование изображений с управлением камерой через видеомодели",
+  "translated_at": null
+ },
+ "n-7cc366b545": {
+  "fresh": false,
+  "title": "OpenGame: открытый агентный кодинг для веб-игр",
+  "translated_at": null
+ },
+ "n-7d8614adad": {
+  "fresh": false,
+  "title": "HiDream-O1-Image: унифицированный 8B-трансформер в пиксельном пространстве",
+  "translated_at": null
+ },
+ "n-7de8349cd0": {
+  "fresh": false,
+  "title": "CosyVoice 3.0: многоязычная генерация и клонирование речи",
+  "translated_at": null
+ },
+ "n-7e83db4168": {
+  "fresh": false,
+  "title": "Qwen Code: автономный AI-агент для кодинга",
+  "translated_at": null
+ },
+ "n-807bf78763": {
+  "fresh": false,
+  "title": "Pika: платформа генеративного AI для видео и анимации",
+  "translated_at": null
+ },
+ "n-83af6888de": {
+  "fresh": false,
+  "title": "VOID: удаление объектов и взаимодействий из видео от Netflix",
+  "translated_at": null
+ },
+ "n-840bb8c6c7": {
+  "fresh": false,
+  "title": "Chandra OCR 2: open-source модель понимания документов",
+  "translated_at": null
+ },
+ "n-85862dbbb3": {
+  "fresh": false,
+  "title": "Geo Register Plugin для сцен 3D Gaussian Splatting",
+  "translated_at": null
+ },
+ "n-86ce44c208": {
+  "fresh": false,
+  "title": "Qwen-Image-2.0-Pro",
+  "translated_at": null
+ },
+ "n-88b74a7e58": {
+  "fresh": false,
+  "title": "LDF-VFI: Local Diffusion Forcing для интерполяции видеокадров",
+  "translated_at": null
+ },
+ "n-8913c98771": {
+  "fresh": false,
+  "title": "Модели генерации видео Sulphur 2 и LTX2.3-10Eros",
+  "translated_at": null
+ },
+ "n-8a620616a1": {
+  "fresh": false,
+  "title": "Qwen3.6-35B-A3B-NVFP4: высокоэффективная MoE, оптимизированная под Blackwell",
+  "translated_at": null
+ },
+ "n-8a851b82d9": {
+  "fresh": false,
+  "title": "Reshoot-Anything: синтез ракурсов видео с управлением через 4D-якоря",
+  "translated_at": null
+ },
+ "n-8c91402db3": {
+  "fresh": false,
+  "title": "Плагины Spec Security для Claude Code",
+  "translated_at": null
+ },
+ "n-8cf0d43011": {
+  "fresh": false,
+  "title": "FastGHA: обобщающие few-shot 3D Gaussian Head Avatars",
+  "translated_at": null
+ },
+ "n-8da3cc43df": {
+  "fresh": false,
+  "title": "MOSS-Audio: унифицированная open-source аудио-foundation-модель",
+  "translated_at": null
+ },
+ "n-8e2ceecbcb": {
+  "fresh": false,
+  "title": "Mistral Medium 3.5: унифицированная мультимодальная модель 128B",
+  "translated_at": null
+ },
+ "n-8fe6695c64": {
+  "fresh": false,
+  "title": "PrismAudio: генерация аудио из видео через декомпозированный CoT",
+  "translated_at": null
+ },
+ "n-8ff86e4411": {
+  "fresh": false,
+  "title": "M2SVid: преобразование монокулярного видео в стерео",
+  "translated_at": null
+ },
+ "n-9139899069": {
+  "fresh": false,
+  "title": "Gemma 4 31B-it",
+  "translated_at": null
+ },
+ "n-95d245f3eb": {
+  "fresh": false,
+  "title": "Hermes Agent: автономная система творческих workflow",
+  "translated_at": null
+ },
+ "n-963305f6b7": {
+  "fresh": false,
+  "title": "HyperFrames: программный видео-фреймворк от HeyGen",
+  "translated_at": null
+ },
+ "n-972d1e2832": {
+  "fresh": false,
+  "title": "TML Interaction Models: мультимодальный AI в реальном времени",
+  "translated_at": null
+ },
+ "n-9744e9b73c": {
+  "fresh": false,
+  "title": "Workflow детейлинга лиц для Z-Image Turbo",
+  "translated_at": null
+ },
+ "n-97b254669d": {
+  "fresh": false,
+  "title": "ERNIE-Image 8B: высокопроизводительная DiT-модель от Baidu",
+  "translated_at": null
+ },
+ "n-97c6278d46": {
+  "fresh": false,
+  "title": "Qwen3.6-27B: высокопроизводительная кодинг-модель с открытыми весами",
+  "translated_at": null
+ },
+ "n-98474cc274": {
+  "fresh": false,
+  "title": "Nucleus Image: диффузионная модель на разреженной Mixture-of-Experts",
+  "translated_at": null
+ },
+ "n-997df70c3d": {
+  "fresh": false,
+  "title": "LTX-2.3-22B-DISTILLED-1.1: видеомодель на базе DiT",
+  "translated_at": null
+ },
+ "n-99c607c318": {
+  "fresh": false,
+  "title": "Luma Uni-1.1: API унифицированного интеллекта",
+  "translated_at": null
+ },
+ "n-99e3cb59c2": {
+  "fresh": false,
+  "title": "Flue — TypeScript-фреймворк для автономных AI-агентов",
+  "translated_at": null
+ },
+ "n-9a27202165": {
+  "fresh": false,
+  "title": "VR-360-Outpaint: LTX-2.3 IC-LoRA для 360-видео",
+  "translated_at": null
+ },
+ "n-9aa3cb6ab5": {
+  "fresh": false,
+  "title": "Audio Flamingo Next (AF-Next)",
+  "translated_at": null
+ },
+ "n-9af7222826": {
+  "fresh": false,
+  "title": "QClaw-4B: компактная языковая модель для агентных задач",
+  "translated_at": null
+ },
+ "n-9db878fd06": {
+  "fresh": false,
+  "title": "KIRI Engine: из Gaussian Splatting в меш",
+  "translated_at": null
+ },
+ "n-9dd20d8e0c": {
+  "fresh": false,
+  "title": "4C4D: 4D Gaussian Splatting с четырьмя камерами",
+  "translated_at": null
+ },
+ "n-9e0a0fba7f": {
+  "fresh": false,
+  "title": "Pixal3D: pixel-aligned генерация 3D от Tencent",
+  "translated_at": null
+ },
+ "n-9f3f263dfe": {
+  "fresh": false,
+  "title": "StyleID: identity-энкодер с учётом восприятия для персонализации портретов",
+  "translated_at": null
+ },
+ "n-a236c67d82": {
+  "fresh": false,
+  "title": "C++ порт ACE-Step 1.5 (acestep.cpp)",
+  "translated_at": null
+ },
+ "n-a3583f87c7": {
+  "fresh": false,
+  "title": "MemPalace: эффективное бесконечное сжатие памяти для LLM",
+  "translated_at": null
+ },
+ "n-a3aa871dfa": {
+  "fresh": false,
+  "title": "Unsloth Studio для дообучения Gemma 4 в Colab",
+  "translated_at": null
+ },
+ "n-a3c0ebdd3a": {
+  "fresh": false,
+  "title": "UniCorrn: унифицированный трансформер соответствий для 2D и 3D",
+  "translated_at": null
+ },
+ "n-a4fb636ca8": {
+  "fresh": false,
+  "title": "Face Anything: единая 4D-реконструкция и трекинг лица",
+  "translated_at": null
+ },
+ "n-a549ac3575": {
+  "fresh": false,
+  "title": "Lyra 2.0: исследуемые генеративные 3D-миры",
+  "translated_at": null
+ },
+ "n-a56b9d31b6": {
+  "fresh": false,
+  "title": "Perplexity Personal Computer для Mac",
+  "translated_at": null
+ },
+ "n-a5ceb23735": {
+  "fresh": false,
+  "title": "Uni-ViGU: единая генерация и понимание видео",
+  "translated_at": null
+ },
+ "n-a6a4ba2d0f": {
+  "fresh": false,
+  "title": "Cursor: AI-нативный редактор кода",
+  "translated_at": null
+ },
+ "n-a71a838b34": {
+  "fresh": false,
+  "title": "GyroScope: модель определения и коррекции ориентации изображений",
+  "translated_at": null
+ },
+ "n-a74ee42caa": {
+  "fresh": false,
+  "title": "FlowAnchor: стабильное редактирование видео без инверсии",
+  "translated_at": null
+ },
+ "n-a7521b7b08": {
+  "fresh": false,
+  "title": "BACH 1.0: многокадровая AI-генерация видео",
+  "translated_at": null
+ },
+ "n-a7d1f83b13": {
+  "fresh": false,
+  "title": "ArcFlow: фреймворк нелинейной генерации изображений за 2 шага",
+  "translated_at": null
+ },
+ "n-a8098d79d8": {
+  "fresh": false,
+  "title": "CHAI: критика-ориентированный надзор Human-AI для описания видео",
+  "translated_at": null
+ },
+ "n-a81182e9ac": {
+  "fresh": false,
+  "title": "Claude Opus 4.7: флагманская модель Anthropic для кодинга и рассуждений",
+  "translated_at": null
+ },
+ "n-a8a043a8fd": {
+  "fresh": false,
+  "title": "INSID3: быстрая in-context сегментация с DINOv3",
+  "translated_at": null
+ },
+ "n-aa28911ec6": {
+  "fresh": false,
+  "title": "Sapiens2: foundation-модели Meta для человекоцентричного зрения",
+  "translated_at": null
+ },
+ "n-ab5423ca1c": {
+  "fresh": false,
+  "title": "OlmPool: исследование архитектур длинного контекста от AI2",
+  "translated_at": null
+ },
+ "n-ac33c5f998": {
+  "fresh": false,
+  "title": "LTX2.3-Multifunctional: продвинутый локальный AI-видеонабор",
+  "translated_at": null
+ },
+ "n-ae3f3a3876": {
+  "fresh": false,
+  "title": "Gemma Gem: локальный браузерный AI-агент на WebGPU",
+  "translated_at": null
+ },
+ "n-af1e479850": {
+  "fresh": false,
+  "title": "Muffins Flat 2: ноды ComfyUI для VR-панорам",
+  "translated_at": null
+ },
+ "n-af7e0341d4": {
+  "fresh": false,
+  "title": "GPT Image 2 (OpenAI)",
+  "translated_at": null
+ },
+ "n-af83147e90": {
+  "fresh": false,
+  "title": "Nucleus-Image: разреженный MoE диффузионный трансформер",
+  "translated_at": null
+ },
+ "n-b107eae70b": {
+  "fresh": false,
+  "title": "Sommelier: open-source пайплайн обработки аудио",
+  "translated_at": null
+ },
+ "n-b18df4c1c8": {
+  "fresh": false,
+  "title": "Semantic Progress Function (SPF) для плавного ИИ-видео",
+  "translated_at": null
+ },
+ "n-b1f200df41": {
+  "fresh": false,
+  "title": "Seeing Fast and Slow: обучение течению времени",
+  "translated_at": null
+ },
+ "n-b1f4237092": {
+  "fresh": false,
+  "title": "Qwen3.5-35B-A3B: дистилляция рассуждений Claude 4.6 Opus",
+  "translated_at": null
+ },
+ "n-b2b9ca697e": {
+  "fresh": false,
+  "title": "GLM-5V-Turbo: мультимодальная модель для инжиниринга design-to-code",
+  "translated_at": null
+ },
+ "n-b2c1d5a768": {
+  "fresh": false,
+  "title": "FLUX.2 Small Decoder (дистиллированный VAE)",
+  "translated_at": null
+ },
+ "n-b4bbea9668": {
+  "fresh": false,
+  "title": "Anthropic Managed Agents для долго работающих AI-воркфлоу",
+  "translated_at": null
+ },
+ "n-b651b2cbf2": {
+  "fresh": false,
+  "title": "AvatarPointillist: авторегрессионные 4D-гауссовы аватары из изображений",
+  "translated_at": null
+ },
+ "n-b6c1907179": {
+  "fresh": false,
+  "title": "RvR: Refinement via Regeneration для качественного улучшения изображений",
+  "translated_at": null
+ },
+ "n-b9e02bd01a": {
+  "fresh": false,
+  "title": "ACE-Step 1.5 XL: генерация музыки",
+  "translated_at": null
+ },
+ "n-bab7f8e6fd": {
+  "fresh": false,
+  "title": "Audio-Omni: единый фреймворк для понимания и генерации аудио",
+  "translated_at": null
+ },
+ "n-bb0f83ff09": {
+  "fresh": false,
+  "title": "OmniShotCut: целостное реляционное определение границ сцен",
+  "translated_at": null
+ },
+ "n-bb60458b02": {
+  "fresh": false,
+  "title": "FLUX.2-klein-9B-Nunchaku",
+  "translated_at": null
+ },
+ "n-bc5c88f85f": {
+  "fresh": false,
+  "title": "DeepSeek-V4-Pro: флагманская MoE-модель триллионного масштаба",
+  "translated_at": null
+ },
+ "n-bcef63351f": {
+  "fresh": false,
+  "title": "Z-Anime: высокоточная модель генерации аниме S3-DiT 6B",
+  "translated_at": null
+ },
+ "n-bded34e024": {
+  "fresh": false,
+  "title": "Большая языковая модель Gemopus-4-26B",
+  "translated_at": null
+ },
+ "n-bec376434e": {
+  "fresh": false,
+  "title": "TinyMU: компактная аудио-языковая модель для понимания музыки",
+  "translated_at": null
+ },
+ "n-c15c8a5410": {
+  "fresh": false,
+  "title": "ClawBench: реальный бенчмарк для веб-агентов на живых сайтах",
+  "translated_at": null
+ },
+ "n-c2a141200b": {
+  "fresh": false,
+  "title": "ConnectTheDots: инструмент соединения нодов через сайдбар для ComfyUI",
+  "translated_at": null
+ },
+ "n-c2ca134086": {
+  "fresh": false,
+  "title": "ERNIE-Image-Turbo 8B: Diffusion Transformer с открытыми весами",
+  "translated_at": null
+ },
+ "n-c449ab03a6": {
+  "fresh": false,
+  "title": "RawGen: обучение генерации camera raw изображений",
+  "translated_at": null
+ },
+ "n-c492e2a3e4": {
+  "fresh": false,
+  "title": "IC-LoRA Cameraman для LTX-Video 2.3",
+  "translated_at": null
+ },
+ "n-c4a452f85d": {
+  "fresh": false,
+  "title": "NumPy как движок синтеза (PyTheory)",
+  "translated_at": null
+ },
+ "n-c5207bfa4a": {
+  "fresh": false,
+  "title": "WildDet3D: масштабирование промптируемого 3D-детектирования в реальных условиях",
+  "translated_at": null
+ },
+ "n-c56aa9fa27": {
+  "fresh": false,
+  "title": "Motif-Video 2B: эффективная видеомодель на Decoupled Diffusion Transformer",
+  "translated_at": null
+ },
+ "n-c56d07046e": {
+  "fresh": false,
+  "title": "DreamLite: унифицированная on-device генерация и редактирование изображений",
+  "translated_at": null
+ },
+ "n-c660c4f559": {
+  "fresh": false,
+  "title": "CDM: дистилляция диффузии через непрерывное согласование распределений",
+  "translated_at": null
+ },
+ "n-c66b8c38b0": {
+  "fresh": false,
+  "title": "RS Nodes: обучение LoRA для видео в ComfyUI",
+  "translated_at": null
+ },
+ "n-c78d87f531": {
+  "fresh": false,
+  "title": "Z-Image-SAM-ControlNet от NeuralVFX",
+  "translated_at": null
+ },
+ "n-c7bfff5d31": {
+  "fresh": false,
+  "title": "Gemma 4: семейство мультимодальных открытых моделей от Google",
+  "translated_at": null
+ },
+ "n-c8fc3fe21e": {
+  "fresh": false,
+  "title": "Modddif — набор инструментов для AI-текстурирования и доводки 3D-моделей",
+  "translated_at": null
+ },
+ "n-c96f664d5d": {
+  "fresh": false,
+  "title": "Habitat-GS: симулятор на Gaussian Splatting для навигации роботов",
+  "translated_at": null
+ },
+ "n-c9e1e40a9c": {
+  "fresh": false,
+  "title": "Unify-Agent: open-book агентный синтез изображений",
+  "translated_at": null
+ },
+ "n-ca390bf3b3": {
+  "fresh": false,
+  "title": "GPT Image 2",
+  "translated_at": null
+ },
+ "n-ccb2a502fb": {
+  "fresh": false,
+  "title": "Адаптивный пространственно-временной 3D Gaussian Splatting",
+  "translated_at": null
+ },
+ "n-ccdb07b0af": {
+  "fresh": false,
+  "title": "LTX-2.3-22b-IC-LoRA-Ungrade: восстановление нейтрального цвета",
+  "translated_at": null
+ },
+ "n-cd25320940": {
+  "fresh": false,
+  "title": "Sync-3: профессиональная AI-синхронизация губ от Sync Labs",
+  "translated_at": null
+ },
+ "n-cf88820803": {
+  "fresh": false,
+  "title": "Wan2.2 Distill: ускоренная генерация видео с 4-шаговыми моделями",
+  "translated_at": null
+ },
+ "n-cfec66a95b": {
+  "fresh": false,
+  "title": "AgentOfficeSuite (AOSE) — совместный офисный пакет для людей и AI-агентов",
+  "translated_at": null
+ },
+ "n-d111345e9c": {
+  "fresh": false,
+  "title": "GEMS: agent-native мультимодальная генерация с памятью",
+  "translated_at": null
+ },
+ "n-d192447768": {
+  "fresh": false,
+  "title": "JoyAI-Image: унифицированная мультимодальная foundation-модель",
+  "translated_at": null
+ },
+ "n-d1faa63ee9": {
+  "fresh": false,
+  "title": "CoInteract: генерация видео с интерактивным взаимодействием человека и объектов",
+  "translated_at": null
+ },
+ "n-d4d07dd0bf": {
+  "fresh": false,
+  "title": "P-Video-Avatar: скоростная AI-анимация говорящей головы",
+  "translated_at": null
+ },
+ "n-d4f61075f4": {
+  "fresh": false,
+  "title": "Prompt Relay: темпоральный контроль видео на этапе инференса",
+  "translated_at": null
+ },
+ "n-d5e685b3b1": {
+  "fresh": false,
+  "title": "Gemini 3.1 Flash TTS: высокоточный контроль речи",
+  "translated_at": null
+ },
+ "n-d745776a36": {
+  "fresh": false,
+  "title": "Wan2.7-Video — режиссёрский набор для генерации и редактирования видео",
+  "translated_at": null
+ },
+ "n-d755c8bc8a": {
+  "fresh": false,
+  "title": "Qwen3-TTS: продвинутый zero-shot синтез речи",
+  "translated_at": null
+ },
+ "n-d7b1c6bb36": {
+  "fresh": false,
+  "title": "VoxCPM2 — многоязычный TTS на 2B без токенизатора и клонирование голоса",
+  "translated_at": null
+ },
+ "n-d7c3a5e60e": {
+  "fresh": false,
+  "title": "TRELLIS.2: высококачественная 3D-генерация на Mac",
+  "translated_at": null
+ },
+ "n-d883c4c40c": {
+  "fresh": false,
+  "title": "Sync.so: AI-студия визуального дубляжа и липсинка",
+  "translated_at": null
+ },
+ "n-d8bf4374be": {
+  "fresh": false,
+  "title": "Odyssey-2 Max: генеративный симулятор мира в реальном времени",
+  "translated_at": null
+ },
+ "n-d967265835": {
+  "fresh": false,
+  "title": "LongCat-AudioDiT: высококачественный TTS на латентной диффузии в пространстве сигнала",
+  "translated_at": null
+ },
+ "n-d9b76e73f7": {
+  "fresh": false,
+  "title": "Vista4D: фреймворк Netflix для 4D-пересъёмки видео",
+  "translated_at": null
+ },
+ "n-d9eaebd61d": {
+  "fresh": false,
+  "title": "Wan 2.7-Image (Pro)",
+  "translated_at": null
+ },
+ "n-da24004da2": {
+  "fresh": false,
+  "title": "PSDesigner: автоматизированный графический дизайн с человекоподобным воркфлоу",
+  "translated_at": null
+ },
+ "n-daa2681205": {
+  "fresh": false,
+  "title": "Obscura Remova LTX23: video-to-video LoRA",
+  "translated_at": null
+ },
+ "n-db7fee9bb2": {
+  "fresh": false,
+  "title": "girl-agent: движок AI-персон для Telegram с упором на личность",
+  "translated_at": null
+ },
+ "n-dc7072d90a": {
+  "fresh": false,
+  "title": "Qwen3.6-27B-DFlash: модель спекулятивного декодирования",
+  "translated_at": null
+ },
+ "n-dd8d68b69f": {
+  "fresh": false,
+  "title": "MF0-1984: долговременная память для мультимодальных AI-агентов",
+  "translated_at": null
+ },
+ "n-de24cf852f": {
+  "fresh": false,
+  "title": "TIPSv2: предобучение текст-изображение с пространственным восприятием",
+  "translated_at": null
+ },
+ "n-df001e7bab": {
+  "fresh": false,
+  "title": "GPT Image 2: галерея промптов и skill",
+  "translated_at": null
+ },
+ "n-df8413780a": {
+  "fresh": false,
+  "title": "ComfyUI-zveroboy-photo для RAW-воркфлоу и фотореализма",
+  "translated_at": null
+ },
+ "n-dfe5e1e7a6": {
+  "fresh": false,
+  "title": "MiniMax Music 2.6: платформа генерации музыки AI",
+  "translated_at": null
+ },
+ "n-e17cbf7ded": {
+  "fresh": false,
+  "title": "Tencent Hy-MT1.5: мобильный машинный перевод",
+  "translated_at": null
+ },
+ "n-e33dfb0bdb": {
+  "fresh": false,
+  "title": "Vanast: унифицированная анимация человека и виртуальная примерка",
+  "translated_at": null
+ },
+ "n-e3abad048f": {
+  "fresh": false,
+  "title": "NUMINA: числовое выравнивание для видеодиффузии",
+  "translated_at": null
+ },
+ "n-e3fe618151": {
+  "fresh": false,
+  "title": "MegaStyle: масштабируемый пайплайн курирования художественных стилей",
+  "translated_at": null
+ },
+ "n-e4b7a4de7b": {
+  "fresh": false,
+  "title": "MiroFish: open-source движок мультиагентной симуляции социального поведения",
+  "translated_at": null
+ },
+ "n-e4d5ff5436": {
+  "fresh": false,
+  "title": "Интеграция Seedance 2.0 в ComfyUI",
+  "translated_at": null
+ },
+ "n-e4fab55e05": {
+  "fresh": false,
+  "title": "StorySplat v2.3: интерактивный редактор 3D Gaussian Splatting",
+  "translated_at": null
+ },
+ "n-e51898fad5": {
+  "fresh": false,
+  "title": "GLM-5.1: автономный инженерный агент от Z.ai",
+  "translated_at": null
+ },
+ "n-e5bb396e69": {
+  "fresh": false,
+  "title": "FLUX.2 [klein] Move: LoRA для интерактивного перемещения объектов",
+  "translated_at": null
+ },
+ "n-e60825c137": {
+  "fresh": false,
+  "title": "Unity AI (Muse и Sentis) для Unity 6",
+  "translated_at": null
+ },
+ "n-e63a0d4512": {
+  "fresh": false,
+  "title": "M-XR: генерация production-PBR из изображения в материал",
+  "translated_at": null
+ },
+ "n-e76fc8f96f": {
+  "fresh": false,
+  "title": "SANA-Video: эффективный синтез и апскейл видео 720p",
+  "translated_at": null
+ },
+ "n-e9259b87d6": {
+  "fresh": false,
+  "title": "CADD-Base-7B: маскированная диффузионная модель Apple для генерации кода",
+  "translated_at": null
+ },
+ "n-e92b026fad": {
+  "fresh": false,
+  "title": "OpenAI Daybreak",
+  "translated_at": null
+ },
+ "n-e96d2e151b": {
+  "fresh": false,
+  "title": "TriAttention: эффективный длинный reasoning через тригонометрическое сжатие KV",
+  "translated_at": null
+ },
+ "n-ea4c5d4dff": {
+  "fresh": false,
+  "title": "LAVA Genie: умная безструнная гитара с интеграцией AI",
+  "translated_at": null
+ },
+ "n-ea5cb3e3f2": {
+  "fresh": false,
+  "title": "CoPaw-Flash-9B: автономный агент-аналитик данных",
+  "translated_at": null
+ },
+ "n-ea73b925dc": {
+  "fresh": false,
+  "title": "Seed3D 2.0: готовая к продакшену 3D foundation-модель от ByteDance",
+  "translated_at": null
+ },
+ "n-eaa27c5213": {
+  "fresh": false,
+  "title": "Gen-Searcher: мультимодальный deep research агент с опорой на поиск",
+  "translated_at": null
+ },
+ "n-eb367fb3e1": {
+  "fresh": false,
+  "title": "LumiPic: диффузионное преобразование изображений SDR-в-HDR",
+  "translated_at": null
+ },
+ "n-eb965439db": {
+  "fresh": false,
+  "title": "GBrain: слой памяти для агентов OpenClaw и Hermes",
+  "translated_at": null
+ },
+ "n-ebeab9837a": {
+  "fresh": false,
+  "title": "Griptape: платформа оркестрации ИИ для VFX",
+  "translated_at": null
+ },
+ "n-ec5428386a": {
+  "fresh": false,
+  "title": "Claude Design: прототипирование и генерация UI на Opus 4.7",
+  "translated_at": null
+ },
+ "n-ec7e719b88": {
+  "fresh": false,
+  "title": "Phi-Ground-Any: мультимодальная модель GUI-grounding от Microsoft",
+  "translated_at": null
+ },
+ "n-edad1a10a0": {
+  "fresh": false,
+  "title": "MegaStyle: фреймворк переноса стиля и ноды для ComfyUI",
+  "translated_at": null
+ },
+ "n-ee38e77991": {
+  "fresh": false,
+  "title": "PhysForge: физически обоснованная генерация интерактивных 3D-ассетов",
+  "translated_at": null
+ },
+ "n-ee8bd2e38f": {
+  "fresh": false,
+  "title": "GSD 2: автономный CLI-агент для разработки ПО",
+  "translated_at": null
+ },
+ "n-efaa00d50b": {
+  "fresh": false,
+  "title": "OpenReview: AI-бот для код-ревью от Vercel Labs",
+  "translated_at": null
+ },
+ "n-f0cec18709": {
+  "fresh": false,
+  "title": "Rodin Gen 2.5 (Hyper3D)",
+  "translated_at": null
+ },
+ "n-f1139f1ee9": {
+  "fresh": false,
+  "title": "CompHairHead: one-shot 3D-аватары с деформируемыми волосами",
+  "translated_at": null
+ },
+ "n-f1ea79cf67": {
+  "fresh": false,
+  "title": "MOSS-TTS-Nano",
+  "translated_at": null
+ },
+ "n-f24b5871aa": {
+  "fresh": false,
+  "title": "SDXS-1B: диффузия в реальном времени и высококачественный апскейлер",
+  "translated_at": null
+ },
+ "n-f306331601": {
+  "fresh": false,
+  "title": "GameWorld: стандартизированная платформа для оценки мультимодальных AI-агентов",
+  "translated_at": null
+ },
+ "n-f3c22d2162": {
+  "fresh": false,
+  "title": "PhoneClaw: локальный on-device агент Gemma 4 для iOS",
+  "translated_at": null
+ },
+ "n-f4c04ff479": {
+  "fresh": false,
+  "title": "Spatial Studio: 3D Gaussian Splatting от Real Horizons",
+  "translated_at": null
+ },
+ "n-f4d17d7115": {
+  "fresh": false,
+  "title": "Gemma 4 E4B Heretic Uncensored",
+  "translated_at": null
+ },
+ "n-f57cbec8b9": {
+  "fresh": false,
+  "title": "LingBot-Map: потоковая реконструкция 3D-сцен в реальном времени",
+  "translated_at": null
+ },
+ "n-f5dbfdb346": {
+  "fresh": false,
+  "title": "ElevenLabs: on-premise и on-device развёртывание речевого AI",
+  "translated_at": null
+ },
+ "n-f6c6cdf729": {
+  "fresh": false,
+  "title": "ComfyUI 6DOF Camera — манипуляции с 3D-сценами и расстановка персонажей",
+  "translated_at": null
+ },
+ "n-f735b8e846": {
+  "fresh": false,
+  "title": "SVGS: пространственно-переменный Gaussian Splatting для реконструкции сцен",
+  "translated_at": null
+ },
+ "n-f771c01e06": {
+  "fresh": false,
+  "title": "CORAL: инфраструктура для автономной эволюции мульти-агентных систем",
+  "translated_at": null
+ },
+ "n-f861f085b8": {
+  "fresh": false,
+  "title": "Free Claude Code: ИИ-прокси для Claude CLI",
+  "translated_at": null
+ },
+ "n-f9bd7f602b": {
+  "fresh": false,
+  "title": "TRIBE Review MVP",
+  "translated_at": null
+ },
+ "n-fa9c04297f": {
+  "fresh": false,
+  "title": "SillyTavern: продвинутый интерфейс для AI-ролеплея",
+  "translated_at": null
+ },
+ "n-fb32c38877": {
+  "fresh": false,
+  "title": "OmniWeaving — унифицированная модель генерации видео",
+  "translated_at": null
+ },
+ "n-fc612ab002": {
+  "fresh": false,
+  "title": "IceCache: эффективный по памяти семантический KV-кэш для длинноконтекстных LLM",
+  "translated_at": null
+ },
+ "n-fdbf17ddf7": {
+  "fresh": false,
+  "title": "LGTM: Less Gaussians, Texture More для 3D-реконструкции",
+  "translated_at": null
+ },
+ "n-fe9036dfac": {
+  "fresh": false,
+  "title": "PlayCoder: делаем сгенерированный LLM GUI-код работоспособным",
+  "translated_at": null
+ },
+ "n-ff03e5bf7b": {
+  "fresh": false,
+  "title": "Majoor Assets Manager для ComfyUI",
+  "translated_at": null
+ },
+ "n-ff21b44ef5": {
+  "fresh": false,
+  "title": "Open Design: local-first open-source движок AI-дизайна",
+  "translated_at": null
+ }
+}

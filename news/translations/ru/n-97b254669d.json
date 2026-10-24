@@ -1,0 +1,11 @@
+{
+ "id": "n-97b254669d",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает специализированную модель Prompt Enhancer и поддержку ComfyUI с первого дня; занимает топовые позиции по точности рендеринга текста на LongText-Bench.",
+ "source_sha256": "legacy",
+ "summary": "Продвинутый набор инструментов генерации text-to-image от Baidu на базе мультимодального фреймворка ERNIE. Он опирается на архитектуру Diffusion Transformer для высококачественных результатов и нативную поддержку множества языков.",
+ "title": "ERNIE-Image 8B: высокопроизводительная DiT-модель от Baidu",
+ "translated_at": null,
+ "translation": "machine"
+}

@@ -1,0 +1,11 @@
+{
+ "id": "n-396cd4f7c0",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Для работы в пайплайнах ComfyUI требует специализированную ноду LTXICLoRALoaderModelOnly.",
+ "source_sha256": "legacy",
+ "summary": "Специализированная In-Context LoRA (IC-LoRA) для модели Lightricks LTX-2.3 (22B), предназначенная для удаления motion blur и покадрового смаза. Работает как инструмент video-to-video восстановления, реконструируя резкие кадры, используя размытый источник как condition.",
+ "title": "MotionDeblur IC-LoRA для восстановления видео в LTX-2.3",
+ "translated_at": null,
+ "translation": "machine"
+}

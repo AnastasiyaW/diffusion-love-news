@@ -1,0 +1,11 @@
+{
+ "id": "n-110bebc860",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Вводит собственный формат файлов .RAD с поддержкой HTTP Range-запросов для прогрессивной загрузки и построитель LoD на Rust для обработки миллиардов сплатов.",
+ "source_sha256": "legacy",
+ "summary": "Spark 2.0 — это высокопроизводительный веб-движок рендеринга, разработанный World Labs для массивных сцен 3D Gaussian Splatting. Он реализует иерархический Level-of-Detail (LoD) и потоковый формат .RAD для визуализации окружений с миллиардами сплатов в реальном времени.",
+ "title": "Spark 2.0: крупномасштабный веб-движок Gaussian Splatting",
+ "translated_at": null,
+ "translation": "machine"
+}

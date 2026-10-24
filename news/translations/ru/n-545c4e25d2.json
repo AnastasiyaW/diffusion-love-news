@@ -1,0 +1,11 @@
+{
+ "id": "n-545c4e25d2",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Глубоко интегрирована в Python-библиотеку 'kernels' и стандартные инструменты Hugging Face, такие как Transformers и Diffusers (v0.38.0+).",
+ "source_sha256": "legacy",
+ "summary": "Платформа и библиотека для распространения предкомпилированных GPU-ядер (CUDA, ROCm, Metal, XPU) напрямую из Hugging Face Hub. Она устраняет «кошмар установки» высокопроизводительных компонентов вроде Flash Attention, предоставляя мгновенные бинарники под конкретное окружение.",
+ "title": "Hugging Face Kernels Hub для оптимизации GPU",
+ "translated_at": null,
+ "translation": "machine"
+}

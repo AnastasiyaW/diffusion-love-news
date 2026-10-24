@@ -1,0 +1,11 @@
+{
+ "id": "n-18331ebc79",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Включает набор для оценки JavisBench и использует Audio-Video Direct Preference Optimization (AV-DPO) для согласования выходных данных.",
+ "source_sha256": "legacy",
+ "summary": "Мультимодальная экосистема для совместной генерации и понимания аудио и видео. Использует единую архитектуру Diffusion Transformer для создания временно синхронизированных озвученных видео по текстовым промптам.",
+ "title": "JavisDiT: совместный аудио-видео Diffusion Transformer",
+ "translated_at": null,
+ "translation": "machine"
+}

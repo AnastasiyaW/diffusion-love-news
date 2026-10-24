@@ -1,0 +1,11 @@
+{
+ "id": "n-2938402642",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Проект включает масштабный датасет из 1,22 миллиона уникальных 3D bounding box и поддерживает интеграцию с очками Project Aria и ScanNet.",
+ "source_sha256": "legacy",
+ "summary": "Исследовательский проект Meta Reality Labs, поднимающий open-vocabulary 2D-детекции объектов в глобально согласованные 3D-ориентированные bounding box с помощью изображений с известной позой и опциональной разреженной глубины. Он использует трансформерную сеть BoxerNet для предсказания 7-DoF боксов на эгоцентрических и indoor-датасетах.",
+ "title": "Boxer: подъём 2D в 3D bounding box в открытом мире",
+ "translated_at": null,
+ "translation": "machine"
+}

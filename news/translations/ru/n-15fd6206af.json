@@ -1,0 +1,11 @@
+{
+ "id": "n-15fd6206af",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Представили бенчмарк CulturAll для многоязычной оценки; лучше всего разворачиваются через vLLM для корректной обработки tied embedding-слоёв.",
+ "source_sha256": "legacy",
+ "summary": "Серия гиперразреженных моделей Mixture-of-Experts, рассчитанных на эффективную многоязычную работу. Разработанные Alibaba AIDC, эти модели активируют лишь 5–7.5% параметров на токен, что обеспечивает быструю работу на пользовательском железе.",
+ "title": "Marco-MoE: открытые многоязычные MoE-модели от Alibaba AIDC",
+ "translated_at": null,
+ "translation": "machine"
+}

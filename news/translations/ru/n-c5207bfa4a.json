@@ -1,0 +1,11 @@
+{
+ "id": "n-c5207bfa4a",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Построена на бэкбоне SAM 3 и LingBot-Depth; достигает state-of-the-art zero-shot производительности на Argoverse 2 и ScanNet.",
+ "source_sha256": "legacy",
+ "summary": "Единая geometry-aware архитектура для open-vocabulary монокулярного детектирования 3D-объектов по одному RGB-изображению. Она поддерживает мультимодальные промпты, включая текст, точки и боксы, работая как промптируемый детектор по аналогии с SAM.",
+ "title": "WildDet3D: масштабирование промптируемого 3D-детектирования в реальных условиях",
+ "translated_at": null,
+ "translation": "machine"
+}

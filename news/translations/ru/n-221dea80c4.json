@@ -1,0 +1,11 @@
+{
+ "id": "n-221dea80c4",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Совместная разработка ECNU и Shanghai Institute of Intelligence для решения проблемы разрастания контекста в сложных исследовательских воркфлоу.",
+ "source_sha256": "legacy",
+ "summary": "Специализированная система управления памятью для AI-агентов глубоких исследований, использующая трёхуровневую архитектуру Manager-Planner-Executor. Она оптимизирует рассуждение на длинном контексте, переходя от пассивного хранения к активному стратегическому планированию с помощью Continual Test-Time Learning.",
+ "title": "MIA: фреймворк агента Memory In Intelligence",
+ "translated_at": null,
+ "translation": "machine"
+}

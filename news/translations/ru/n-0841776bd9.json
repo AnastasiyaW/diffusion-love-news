@@ -1,0 +1,11 @@
+{
+ "id": "n-0841776bd9",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Достигла 74.4% на SWE-bench Verified; интегрирована в ассистент Yuanbao от Tencent и экосистему WeChat при заметно более низкой стоимости инференса по сравнению с Hy2.",
+ "source_sha256": "legacy",
+ "summary": "Большая языковая модель Mixture-of-Experts (MoE) на 295B параметров от Tencent, рассчитанная на высокоэффективное рассуждение. Имеет контекстное окно 256K и оптимизирована под многошаговые агентные воркфлоу и сложное использование инструментов.",
+ "title": "Hunyuan3 Preview (Hy3-preview)",
+ "translated_at": null,
+ "translation": "machine"
+}

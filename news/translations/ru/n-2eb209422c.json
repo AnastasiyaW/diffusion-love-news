@@ -1,0 +1,11 @@
+{
+ "id": "n-2eb209422c",
+ "lang": "ru",
+ "model": "legacy-web-overlay",
+ "research_notes": "Превосходит OpenAI Whisper Large v3 и Google Gemini 1.5 Flash по скорости и точности; конкурентная цена — $0.36 за час аудио.",
+ "source_sha256": "legacy",
+ "summary": "MAI-Transcribe-1 — это проприетарная модель автоматического распознавания речи от Microsoft AI, предназначенная для высокоточной пакетной и real-time транскрипции. Она достигает мирового рекорда в 3.88% Word Error Rate на бенчмарке FLEURS и оптимизирована для шумной среды.",
+ "title": "MAI-Transcribe-1: модель распознавания речи от Microsoft",
+ "translated_at": null,
+ "translation": "machine"
+}
