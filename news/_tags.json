@@ -2509,6 +2509,10 @@
   "Spark 2.0": [
     "n-110bebc860"
   ],
+  "Spark-X2.6-4B: spark-x-model-line": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
   "SparkVSR": [
     "n-e48a82e567"
   ],
@@ -6619,6 +6623,10 @@
   "family:spark": [
     "n-110bebc860"
   ],
+  "family:spark-x2-6-4b": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
   "family:sparkvsr": [
     "n-e48a82e567"
   ],
@@ -9095,6 +9103,7 @@
     "n-c2e38d5935",
     "n-c2c4915336",
     "n-c16d03e2b0",
+    "n-c13e04020a",
     "n-c0d09bda8b",
     "n-bd49bc44b7",
     "n-bbc670c0e1",
@@ -9210,6 +9219,7 @@
     "n-86023c7979",
     "n-84568364fd",
     "n-841bc05497",
+    "n-83d7f5eb84",
     "n-837f41c777",
     "n-833da82530",
     "n-831457a1a0",
@@ -11352,6 +11362,14 @@
   ],
   "spark-2-0": [
     "n-110bebc860"
+  ],
+  "spark-x-model-line": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
+  "spark-x2-6-4b": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
   ],
   "sparkvsr": [
     "n-e48a82e567"

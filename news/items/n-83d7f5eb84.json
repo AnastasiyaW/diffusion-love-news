@@ -1,0 +1,123 @@
+{
+ "schema_version": "1.4",
+ "id": "n-83d7f5eb84",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+ "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference.",
+ "research_notes": "Download model weights or quantized variants directly from the official Hugging Face repository.\n\nDeploy locally using llama.cpp or Ollama with the provided GGUF files for memory-constrained consumer hardware.\n\nServe via vLLM or SGLang to provide an OpenAI-compatible API endpoint supporting long-context requests up to 1M tokens.\n\nConfigure the thinking budget parameter (none, low, or high) per request to regulate reasoning latency and token expenditure.\n\nUse quantized INT4 or GGUF variants when running on edge hardware or consumer GPUs to maintain low memory consumption within 4GB to 8GB.\n\nSelect the 'none' thinking budget for straightforward conversational and extractive workloads to minimize time-to-first-token, switching to 'high' for multi-step logic or code generation.\n\nWhen processing long contexts up to 1M tokens, utilize paged attention runtimes like vLLM or SGLang with appropriate host memory allocations to prevent KV-cache OOM.",
+ "project": {
+  "name": "Spark-X2.6-4B: spark-x-model-line",
+  "family_slug": "spark-x2-6-4b",
+  "family_display": "Spark-X2.6-4B: spark-x-model-line",
+  "model_slug": "spark-x2-6-4b",
+  "model_display": "Spark-X2.6-4B: spark-x-model-line",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "spark-x-model-line",
+  "thread_display": "Spark X Model Line",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Spark-X2.6-4B: spark-x-model-line",
+  "article_url": "https://happyin.space/projects/spark-x2-6-4b/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/6ca1d62c6e80d8400854a51252ca9d80be8d910e/docs/projects/spark-x2-6-4b.md",
+  "agent_context_url": "https://happyin.space/projects/spark-x2-6-4b/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-23",
+  "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+  "version": null,
+  "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference."
+ },
+ "tags": [
+  "Spark-X2.6-4B: spark-x-model-line",
+  "family:spark-x2-6-4b",
+  "misc",
+  "spark-x-model-line",
+  "spark-x2-6-4b"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "spark-x2-6-4b"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-25T07:19:17Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-25T07:19:17Z"
+  },
+  {
+   "kind": "weights",
+   "url": "https://huggingface.co/collections/XHToken/spark-x26",
+   "host": "huggingface.co",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-25T07:19:17Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-23",
+  "excerpt": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-25T07:19:17Z",
+  "classified_at": "2026-10-25T07:19:17Z",
+  "enriched_at": "2026-10-25T07:19:17Z",
+  "verified_at": "2026-10-25T07:19:17Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

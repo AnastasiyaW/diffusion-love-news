@@ -19,6 +19,25 @@
     "has_video": false
   },
   {
+    "id": "n-c13e04020a",
+    "date": "2026-10-23",
+    "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "spark-x2-6-4b",
+    "version": null,
+    "tags": [
+      "Spark-X2.6-4B: spark-x-model-line",
+      "family:spark-x2-6-4b",
+      "misc",
+      "spark-x-model-line",
+      "spark-x2-6-4b"
+    ],
+    "primary_link": "https://huggingface.co/collections/XHToken/spark-x26",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-a3e4d25dc2",
     "date": "2026-10-23",
     "title": "CanAI released as open-source canvas for generative image and video",
@@ -53,6 +72,25 @@
       "tools-frontend"
     ],
     "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-83d7f5eb84",
+    "date": "2026-10-23",
+    "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "spark-x2-6-4b",
+    "version": null,
+    "tags": [
+      "Spark-X2.6-4B: spark-x-model-line",
+      "family:spark-x2-6-4b",
+      "misc",
+      "spark-x-model-line",
+      "spark-x2-6-4b"
+    ],
+    "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B",
     "has_image": false,
     "has_video": false
   },

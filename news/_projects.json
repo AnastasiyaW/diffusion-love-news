@@ -85102,6 +85102,204 @@
     ],
     "claims": []
   },
+  "spark-x2-6-4b": {
+    "family_slug": "spark-x2-6-4b",
+    "family_display": "Spark-X2.6-4B: spark-x-model-line",
+    "family_display_variants": [
+      {
+        "family_display": "Spark-X2.6-4B: spark-x-model-line",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-83d7f5eb84",
+      "n-c13e04020a"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-83d7f5eb84",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-c13e04020a",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-83d7f5eb84",
+            "is_primary": true,
+            "verified_at": "2026-10-25T07:19:17Z"
+          },
+          {
+            "news_id": "n-c13e04020a",
+            "is_primary": false,
+            "verified_at": "2026-10-25T07:19:17Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/collections/XHToken/spark-x26",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-83d7f5eb84",
+            "is_primary": false,
+            "verified_at": "2026-10-25T07:19:17Z"
+          },
+          {
+            "news_id": "n-c13e04020a",
+            "is_primary": true,
+            "verified_at": "2026-10-25T07:19:17Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
+        "is_primary": false,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference.",
+        "version": null,
+        "news_id": "n-83d7f5eb84",
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "summary": "Spark-X2.6-4B is available as an open-weight 4B parameter model retaining the version 2.5 architecture with post-training improvements, offering three thinking budget modes, context handling up to 1M tokens, and base, FP8, INT8, INT4, and GGUF quantization formats.",
+        "version": null,
+        "news_id": "n-c13e04020a",
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c13e04020a",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "spark-x2-6-4b",
+        "version": null,
+        "tags": [
+          "Spark-X2.6-4B: spark-x-model-line",
+          "family:spark-x2-6-4b",
+          "misc",
+          "spark-x-model-line",
+          "spark-x2-6-4b"
+        ],
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-83d7f5eb84",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "spark-x2-6-4b",
+        "version": null,
+        "tags": [
+          "Spark-X2.6-4B: spark-x-model-line",
+          "family:spark-x2-6-4b",
+          "misc",
+          "spark-x-model-line",
+          "spark-x2-6-4b"
+        ],
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "spark-x-model-line",
+        "display": "Spark X Model Line",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-c13e04020a",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ]
+  },
   "sparkvsr": {
     "family_slug": "sparkvsr",
     "family_display": "SparkVSR",
