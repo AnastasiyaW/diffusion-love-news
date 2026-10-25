@@ -1,5 +1,81 @@
 [
   {
+    "id": "n-d135dd8f66",
+    "date": "2026-10-24",
+    "title": "Moonshot deploys Kimi K3.1 Pro refresh with scheduled open release",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "kimi-k3-1-pro",
+    "version": null,
+    "tags": [
+      "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+      "family:kimi-k3-1-pro",
+      "kimi-k3-1-pro",
+      "kimi-k3-1-pro-release",
+      "misc"
+    ],
+    "primary_link": "https://www.kimi.ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-6202d8d932",
+    "date": "2026-10-24",
+    "title": "Kimi K3.1 Pro released with Highspeed variant and planned open weights",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "kimi-k3-1-pro",
+    "version": null,
+    "tags": [
+      "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+      "family:kimi-k3-1-pro",
+      "kimi-k3-1-pro",
+      "kimi-k3-1-pro-release",
+      "misc"
+    ],
+    "primary_link": "https://platform.kimi.ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-37e9305c06",
+    "date": "2026-10-24",
+    "title": "Kimi K3.1 Pro opens on developer platform with 1M-token context",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "kimi-k3-1-pro",
+    "version": null,
+    "tags": [
+      "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+      "family:kimi-k3-1-pro",
+      "kimi-k3-1-pro",
+      "kimi-k3-1-pro-release",
+      "misc"
+    ],
+    "primary_link": "https://platform.kimi.ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
+    "id": "n-183de9a149",
+    "date": "2026-10-24",
+    "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "kimi-k3-1-pro",
+    "version": null,
+    "tags": [
+      "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+      "family:kimi-k3-1-pro",
+      "kimi-k3-1-pro",
+      "kimi-k3-1-pro-release",
+      "misc"
+    ],
+    "primary_link": "https://www.kimi.ai/",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-d4678fd961",
     "date": "2026-10-23",
     "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",

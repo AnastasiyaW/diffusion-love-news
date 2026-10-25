@@ -1,0 +1,114 @@
+{
+ "schema_version": "1.4",
+ "id": "n-183de9a149",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+ "summary": "Moonshot rolled out Kimi K3.1 Pro across Kimi, Kimi Work, and Kimi Code as an RL-scaled post-training update.",
+ "research_notes": "Access the model interactively through the Kimi web application, Kimi Work, or Kimi Code.\n\nCall the kimi-k3.1-pro model endpoint through the Moonshot Open Platform API for standard inference at $2 input and $10 output per million tokens.\n\nSelect the Highspeed API variant for workloads requiring two to three times faster generation at doubled token rates.\n\nUse the 1M-token context window to ingest entire multi-file codebases and complex CAD/3D asset configurations in a single session.\n\nSpecify targeted engine and script conventions when prompting for Unreal Engine, Unity, Godot, or Three.js procedural generation.\n\nRoute high-throughput, latency-critical interactive tasks to the Highspeed endpoint while keeping complex offline reasoning on the standard tier to control inference costs.",
+ "project": {
+  "name": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+  "family_slug": "kimi-k3-1-pro",
+  "family_display": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+  "model_slug": "kimi-k3-1-pro",
+  "model_display": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "kimi-k3-1-pro-release",
+  "thread_display": "Kimi K3 1 Pro Release",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+  "article_url": "https://happyin.space/projects/kimi-k3-1-pro/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/153b189affa10a8c2f7ed18b9db037714fd14981/docs/projects/kimi-k3-1-pro.md",
+  "agent_context_url": "https://happyin.space/projects/kimi-k3-1-pro/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-24",
+  "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+  "version": null,
+  "summary": "Moonshot rolled out Kimi K3.1 Pro across Kimi, Kimi Work, and Kimi Code as an RL-scaled post-training update."
+ },
+ "tags": [
+  "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+  "family:kimi-k3-1-pro",
+  "kimi-k3-1-pro",
+  "kimi-k3-1-pro-release",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "kimi-k3-1-pro"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "reference",
+   "url": "https://www.kimi.ai/",
+   "host": "kimi.ai",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-25T22:49:23Z"
+  },
+  {
+   "kind": "reference",
+   "url": "https://platform.kimi.ai/",
+   "host": "platform.kimi.ai",
+   "lang": "en",
+   "is_primary": false,
+   "status": "unverified",
+   "verified_at": "2026-10-25T22:49:23Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-24",
+  "excerpt": "Moonshot rolled out Kimi K3.1 Pro across Kimi, Kimi Work, and Kimi Code as an RL-scaled post-training update."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-25T22:49:23Z",
+  "classified_at": "2026-10-25T22:49:23Z",
+  "enriched_at": "2026-10-25T22:49:23Z",
+  "verified_at": "2026-10-25T22:49:23Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}
