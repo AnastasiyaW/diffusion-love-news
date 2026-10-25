@@ -13054,6 +13054,154 @@
     ],
     "claims": []
   },
+  "cavc-convergence-adaptive-audio-visual-cache": {
+    "family_slug": "cavc-convergence-adaptive-audio-visual-cache",
+    "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+    "family_display_variants": [
+      {
+        "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-5966d93d70",
+      "n-d4678fd961"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-5966d93d70",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-d4678fd961",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.30854",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:10:15Z",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps.",
+        "version": null,
+        "news_id": "n-5966d93d70",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "summary": "Benchmarking in preprint 2610.30854 reports 1.10x to 1.35x wall-clock acceleration across public benchmarks using modality-asymmetric caching while maintaining audio fidelity and cross-modal synchronization.",
+        "version": null,
+        "news_id": "n-d4678fd961",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-d4678fd961",
+        "date": "2026-10-23",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "cavc-convergence-adaptive-audio-visual-cache",
+        "version": null,
+        "tags": [
+          "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+          "cavc-audio-visual-diffusion-caching",
+          "cavc-convergence-adaptive-audio-visual-cache",
+          "family:cavc-convergence-adaptive-audio-visual-cache",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.30854",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-5966d93d70",
+        "date": "2026-10-23",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "cavc-convergence-adaptive-audio-visual-cache",
+        "version": null,
+        "tags": [
+          "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+          "cavc-audio-visual-diffusion-caching",
+          "cavc-convergence-adaptive-audio-visual-cache",
+          "family:cavc-convergence-adaptive-audio-visual-cache",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.30854",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "cavc-audio-visual-diffusion-caching",
+        "display": "Cavc Audio Visual Diffusion Caching",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-d4678fd961",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ]
+  },
   "cdm": {
     "family_slug": "cdm",
     "family_display": "Cdm",
@@ -16811,11 +16959,12 @@
       {
         "family_display": "ComfyUI Development",
         "first_seen": "2026-09-02",
-        "last_seen": "2026-09-02",
+        "last_seen": "2026-10-23",
         "news_ids": [
           "n-046d02af9f",
           "n-2d6b42b1d8",
-          "n-3c2855adb1"
+          "n-3c2855adb1",
+          "n-a167c6f61b"
         ]
       }
     ],
@@ -16826,11 +16975,12 @@
     "base_model": null,
     "categories": [
       "diffusion-video",
-      "misc"
+      "misc",
+      "tools-frontend"
     ],
-    "post_count": 5,
+    "post_count": 6,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-10-23",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
@@ -16838,7 +16988,8 @@
       "n-dee637a9a1",
       "n-046d02af9f",
       "n-2d6b42b1d8",
-      "n-3c2855adb1"
+      "n-3c2855adb1",
+      "n-a167c6f61b"
     ],
     "versions_timeline": [
       {
@@ -16875,6 +17026,13 @@
         "news_id": "n-3c2855adb1",
         "title": "Launch of ComfyUI H3VAE TensorRT integration",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-a167c6f61b",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5"
       }
     ],
     "features": [],
@@ -16889,6 +17047,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+        "is_primary": true,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
+        ]
+      },
       {
         "kind": "code",
         "host": "github.com",
@@ -16942,6 +17112,30 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-c724eb9e4c"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "is_primary": false,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI/releases",
+        "is_primary": false,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
         ]
       },
       {
@@ -17038,9 +17232,37 @@
         "version": null,
         "news_id": "n-3c2855adb1",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track.",
+        "version": null,
+        "news_id": "n-a167c6f61b",
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5"
       }
     ],
     "related_news": [
+      {
+        "id": "n-a167c6f61b",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "project": "comfyui",
+        "version": null,
+        "tags": [
+          "ComfyUI Development",
+          "comfyui",
+          "comfyui-development",
+          "family:comfyui",
+          "tools-frontend"
+        ],
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-3c2855adb1",
         "date": "2026-09-02",
@@ -17156,10 +17378,11 @@
         "slug": "comfyui-development",
         "display": "Comfyui Development",
         "first_seen": "2026-09-02",
-        "last_seen": "2026-09-02",
-        "latest_news_id": "n-046d02af9f",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-a167c6f61b",
         "news_ids": [
-          "n-046d02af9f"
+          "n-046d02af9f",
+          "n-a167c6f61b"
         ]
       }
     ]
@@ -103966,6 +104189,204 @@
       }
     ],
     "claims": []
+  },
+  "spark-x2-6-4b": {
+    "family_slug": "spark-x2-6-4b",
+    "family_display": "Spark-X2.6-4B: spark-x-model-line",
+    "family_display_variants": [
+      {
+        "family_display": "Spark-X2.6-4B: spark-x-model-line",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-83d7f5eb84",
+      "n-c13e04020a"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-83d7f5eb84",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-c13e04020a",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-83d7f5eb84",
+            "is_primary": true,
+            "verified_at": "2026-10-25T07:19:17Z"
+          },
+          {
+            "news_id": "n-c13e04020a",
+            "is_primary": false,
+            "verified_at": "2026-10-25T07:19:17Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/collections/XHToken/spark-x26",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-83d7f5eb84",
+            "is_primary": false,
+            "verified_at": "2026-10-25T07:19:17Z"
+          },
+          {
+            "news_id": "n-c13e04020a",
+            "is_primary": true,
+            "verified_at": "2026-10-25T07:19:17Z"
+          }
+        ]
+      },
+      {
+        "kind": "weights",
+        "host": "huggingface.co",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
+        "is_primary": false,
+        "verified_at": "2026-10-25T07:19:17Z",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference.",
+        "version": null,
+        "news_id": "n-83d7f5eb84",
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "summary": "Spark-X2.6-4B is available as an open-weight 4B parameter model retaining the version 2.5 architecture with post-training improvements, offering three thinking budget modes, context handling up to 1M tokens, and base, FP8, INT8, INT4, and GGUF quantization formats.",
+        "version": null,
+        "news_id": "n-c13e04020a",
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-c13e04020a",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "spark-x2-6-4b",
+        "version": null,
+        "tags": [
+          "Spark-X2.6-4B: spark-x-model-line",
+          "family:spark-x2-6-4b",
+          "misc",
+          "spark-x-model-line",
+          "spark-x2-6-4b"
+        ],
+        "primary_link": "https://huggingface.co/collections/XHToken/spark-x26",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-83d7f5eb84",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "spark-x2-6-4b",
+        "version": null,
+        "tags": [
+          "Spark-X2.6-4B: spark-x-model-line",
+          "family:spark-x2-6-4b",
+          "misc",
+          "spark-x-model-line",
+          "spark-x2-6-4b"
+        ],
+        "primary_link": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "spark-x-model-line",
+        "display": "Spark X Model Line",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-c13e04020a",
+        "news_ids": [
+          "n-83d7f5eb84",
+          "n-c13e04020a"
+        ]
+      }
+    ]
   },
   "sparkvsr": {
     "family_slug": "sparkvsr",

@@ -400,6 +400,10 @@
   "CausalCine": [
     "n-6ada41074f"
   ],
+  "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
   "Chandra": [
     "n-840bb8c6c7"
   ],
@@ -533,6 +537,7 @@
     "n-133a0bfd18"
   ],
   "ComfyUI Development": [
+    "n-a167c6f61b",
     "n-046d02af9f"
   ],
   "ComfyUI Hires Fix": [
@@ -2931,6 +2936,10 @@
   "Spark 2.0": [
     "n-110bebc860"
   ],
+  "Spark-X2.6-4B: spark-x-model-line": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
   "SparkVSR": [
     "n-e48a82e567"
   ],
@@ -4135,6 +4144,14 @@
   "causalcine-release": [
     "n-6ada41074f"
   ],
+  "cavc-audio-visual-diffusion-caching": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
+  "cavc-convergence-adaptive-audio-visual-cache": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
   "cdm": [
     "n-c660c4f559"
   ],
@@ -4604,6 +4621,7 @@
     "n-c492e2a3e4",
     "n-c2a141200b",
     "n-af1e479850",
+    "n-a167c6f61b",
     "n-9a27202165",
     "n-97b254669d",
     "n-9744e9b73c",
@@ -4651,6 +4669,7 @@
     "n-8c14423e0d"
   ],
   "comfyui-development": [
+    "n-a167c6f61b",
     "n-046d02af9f"
   ],
   "comfyui-drama3": [
@@ -5842,6 +5861,10 @@
   "family:causalcine": [
     "n-6ada41074f"
   ],
+  "family:cavc-convergence-adaptive-audio-visual-cache": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
   "family:cdm": [
     "n-c660c4f559"
   ],
@@ -5941,6 +5964,7 @@
   "family:comfyui": [
     "n-dee637a9a1",
     "n-c724eb9e4c",
+    "n-a167c6f61b",
     "n-3c2855adb1",
     "n-2d6b42b1d8",
     "n-046d02af9f"
@@ -8096,6 +8120,10 @@
   ],
   "family:spark": [
     "n-110bebc860"
+  ],
+  "family:spark-x2-6-4b": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
   ],
   "family:sparkvsr": [
     "n-e48a82e567"
@@ -11230,6 +11258,7 @@
     "n-d4832f37b0",
     "n-d471b3d097",
     "n-d46d9eb28f",
+    "n-d4678fd961",
     "n-d3641add96",
     "n-d2d3810c3f",
     "n-d2bc181ad0",
@@ -11297,6 +11326,7 @@
     "n-c20e4c38be",
     "n-c1cdd7886b",
     "n-c16d03e2b0",
+    "n-c13e04020a",
     "n-c134d8a6e7",
     "n-c0f459a01f",
     "n-c0d09bda8b",
@@ -11518,6 +11548,7 @@
     "n-84568364fd",
     "n-841bc05497",
     "n-8410b784f7",
+    "n-83d7f5eb84",
     "n-837f41c777",
     "n-833da82530",
     "n-831457a1a0",
@@ -11691,6 +11722,7 @@
     "n-5b5558fedd",
     "n-5a0726226f",
     "n-599684b34f",
+    "n-5966d93d70",
     "n-595169f554",
     "n-594cd03215",
     "n-57fc3619fc",
@@ -14841,6 +14873,14 @@
   "spark-2-0": [
     "n-110bebc860"
   ],
+  "spark-x-model-line": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
+  "spark-x2-6-4b": [
+    "n-c13e04020a",
+    "n-83d7f5eb84"
+  ],
   "sparkvsr": [
     "n-e48a82e567"
   ],
@@ -15208,6 +15248,7 @@
     "n-bb76b83d43",
     "n-af1e479850",
     "n-a71a838b34",
+    "n-a167c6f61b",
     "n-9744e9b73c",
     "n-963305f6b7",
     "n-92aedf6bb2",

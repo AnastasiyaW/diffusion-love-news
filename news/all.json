@@ -1,9 +1,237 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T23:16:23Z",
+  "generated_at": "2026-10-25T07:19:17Z",
   "site": "diffusion.love",
-  "total": 1311,
+  "total": 1316,
   "records": [
+    {
+      "schema_version": "1.4",
+      "id": "n-d4678fd961",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+      "summary": "Benchmarking in preprint 2610.30854 reports 1.10x to 1.35x wall-clock acceleration across public benchmarks using modality-asymmetric caching while maintaining audio fidelity and cross-modal synchronization.",
+      "research_notes": "Identify the cache-tolerant regime in the sampling trajectory of the joint audio-visual diffusion model, typically corresponding to intermediate diffusion timesteps.\n\nConfigure the sampling loop to cache and reuse audio denoiser outputs and bypass cross-modal attention during the intermediate phase while maintaining full un-cached video denoiser execution.\n\nRestore full joint audio-visual denoising across both modalities for the final terminal steps to eliminate cross-modal drift and lock audio-visual synchronization.\n\nAvoid caching video denoiser outputs across intermediate sampling steps, as video representations lack the asymmetric recoverability of audio and suffer irrecoverable temporal blur and motion degradation.\n\nEnsure a sufficient window of terminal joint denoising steps is preserved at the end of the sampling trajectory to guarantee audio fidelity and precise temporal alignment with video dynamics.",
+      "project": {
+        "name": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "family_slug": "cavc-convergence-adaptive-audio-visual-cache",
+        "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "model_slug": "cavc-convergence-adaptive-audio-visual-cache",
+        "model_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "cavc-audio-visual-diffusion-caching",
+        "thread_display": "Cavc Audio Visual Diffusion Caching",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "article_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7e65c5ec0190b99560fa30ed418184ac68ddde92/docs/projects/cavc-convergence-adaptive-audio-visual-cache.md",
+        "agent_context_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "version": null,
+        "summary": "Benchmarking in preprint 2610.30854 reports 1.10x to 1.35x wall-clock acceleration across public benchmarks using modality-asymmetric caching while maintaining audio fidelity and cross-modal synchronization."
+      },
+      "tags": [
+        "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "cavc-audio-visual-diffusion-caching",
+        "cavc-convergence-adaptive-audio-visual-cache",
+        "family:cavc-convergence-adaptive-audio-visual-cache",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "cavc-convergence-adaptive-audio-visual-cache"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "paper",
+          "url": "https://arxiv.org/abs/2610.30854",
+          "host": "arxiv.org",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:10:15Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "Benchmarking in preprint 2610.30854 reports 1.10x to 1.35x wall-clock acceleration across public benchmarks using modality-asymmetric caching while maintaining audio fidelity and cross-modal synchronization."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T07:10:15Z",
+        "classified_at": "2026-10-25T07:10:15Z",
+        "enriched_at": "2026-10-25T07:10:15Z",
+        "verified_at": "2026-10-25T07:10:15Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-c13e04020a",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+      "summary": "Spark-X2.6-4B is available as an open-weight 4B parameter model retaining the version 2.5 architecture with post-training improvements, offering three thinking budget modes, context handling up to 1M tokens, and base, FP8, INT8, INT4, and GGUF quantization formats.",
+      "research_notes": "Download model weights or quantized variants directly from the official Hugging Face repository.\n\nDeploy locally using llama.cpp or Ollama with the provided GGUF files for memory-constrained consumer hardware.\n\nServe via vLLM or SGLang to provide an OpenAI-compatible API endpoint supporting long-context requests up to 1M tokens.\n\nConfigure the thinking budget parameter (none, low, or high) per request to regulate reasoning latency and token expenditure.\n\nUse quantized INT4 or GGUF variants when running on edge hardware or consumer GPUs to maintain low memory consumption within 4GB to 8GB.\n\nSelect the 'none' thinking budget for straightforward conversational and extractive workloads to minimize time-to-first-token, switching to 'high' for multi-step logic or code generation.\n\nWhen processing long contexts up to 1M tokens, utilize paged attention runtimes like vLLM or SGLang with appropriate host memory allocations to prevent KV-cache OOM.",
+      "project": {
+        "name": "Spark-X2.6-4B: spark-x-model-line",
+        "family_slug": "spark-x2-6-4b",
+        "family_display": "Spark-X2.6-4B: spark-x-model-line",
+        "model_slug": "spark-x2-6-4b",
+        "model_display": "Spark-X2.6-4B: spark-x-model-line",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "spark-x-model-line",
+        "thread_display": "Spark X Model Line",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Spark-X2.6-4B: spark-x-model-line",
+        "article_url": "https://happyin.space/projects/spark-x2-6-4b/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/6ca1d62c6e80d8400854a51252ca9d80be8d910e/docs/projects/spark-x2-6-4b.md",
+        "agent_context_url": "https://happyin.space/projects/spark-x2-6-4b/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B released under Apache 2.0 with quantized variants and configurable reasoning",
+        "version": null,
+        "summary": "Spark-X2.6-4B is available as an open-weight 4B parameter model retaining the version 2.5 architecture with post-training improvements, offering three thinking budget modes, context handling up to 1M tokens, and base, FP8, INT8, INT4, and GGUF quantization formats."
+      },
+      "tags": [
+        "Spark-X2.6-4B: spark-x-model-line",
+        "family:spark-x2-6-4b",
+        "misc",
+        "spark-x-model-line",
+        "spark-x2-6-4b"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "spark-x2-6-4b"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/collections/XHToken/spark-x26",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "Spark-X2.6-4B is available as an open-weight 4B parameter model retaining the version 2.5 architecture with post-training improvements, offering three thinking budget modes, context handling up to 1M tokens, and base, FP8, INT8, INT4, and GGUF quantization formats."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T07:19:17Z",
+        "classified_at": "2026-10-25T07:19:17Z",
+        "enriched_at": "2026-10-25T07:19:17Z",
+        "verified_at": "2026-10-25T07:19:17Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
     {
       "schema_version": "1.4",
       "id": "n-a3e4d25dc2",
@@ -121,6 +349,357 @@
         "classified_at": "2026-10-23T23:16:23Z",
         "enriched_at": "2026-10-23T23:16:23Z",
         "verified_at": "2026-10-23T23:16:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-a167c6f61b",
+      "entry_type": "news",
+      "category": "tools-frontend",
+      "lang": "en",
+      "title": "ComfyUI v0.42.5 maintenance patch published",
+      "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track.",
+      "research_notes": "Install the application from the official release distribution or clone the repository into the local Python environment.\n\nPlace required model checkpoints, text encoders, and VAE weights into their corresponding subdirectories under the models folder.\n\nLaunch the backend server using the main execution script to open the web-based canvas interface.\n\nConstruct a directed acyclic graph connecting model loader, prompt conditioning, latent sampling, and VAE decode nodes, then queue the prompt.\n\nTrack and apply progressive point release updates from the tagged release stream on GitHub.\n\nGroup related functional blocks into visual group boxes with explicit labels and reroute nodes to prevent tangled connection lines across large graphs.\n\nReuse loaded model and VAE outputs across downstream conditioning branches rather than instantiating duplicate loader nodes into GPU memory.\n\nVerify execution flow on a minimal baseline graph before adding complex third-party custom node extensions.\n\nConsult official release tags and changelogs prior to updating production runtime environments to avoid schema or custom node breakage.",
+      "project": {
+        "name": "ComfyUI Development",
+        "family_slug": "comfyui",
+        "family_display": "ComfyUI Development",
+        "model_slug": "comfyui",
+        "model_display": "ComfyUI Development",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "comfyui-development",
+        "thread_display": "Comfyui Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "ComfyUI Development",
+        "article_url": "https://happyin.space/projects/comfyui/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/60150580533e70c0e102ca1605008f23e7f2813e/docs/projects/comfyui.md",
+        "agent_context_url": "https://happyin.space/projects/comfyui/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "version": null,
+        "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track."
+      },
+      "tags": [
+        "ComfyUI Development",
+        "comfyui",
+        "comfyui-development",
+        "family:comfyui",
+        "tools-frontend"
+      ],
+      "facets": {
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "projects": [
+          "comfyui"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI/releases",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T06:40:51Z",
+        "classified_at": "2026-10-25T06:40:51Z",
+        "enriched_at": "2026-10-25T06:40:51Z",
+        "verified_at": "2026-10-25T06:40:51Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-83d7f5eb84",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+      "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference.",
+      "research_notes": "Download model weights or quantized variants directly from the official Hugging Face repository.\n\nDeploy locally using llama.cpp or Ollama with the provided GGUF files for memory-constrained consumer hardware.\n\nServe via vLLM or SGLang to provide an OpenAI-compatible API endpoint supporting long-context requests up to 1M tokens.\n\nConfigure the thinking budget parameter (none, low, or high) per request to regulate reasoning latency and token expenditure.\n\nUse quantized INT4 or GGUF variants when running on edge hardware or consumer GPUs to maintain low memory consumption within 4GB to 8GB.\n\nSelect the 'none' thinking budget for straightforward conversational and extractive workloads to minimize time-to-first-token, switching to 'high' for multi-step logic or code generation.\n\nWhen processing long contexts up to 1M tokens, utilize paged attention runtimes like vLLM or SGLang with appropriate host memory allocations to prevent KV-cache OOM.",
+      "project": {
+        "name": "Spark-X2.6-4B: spark-x-model-line",
+        "family_slug": "spark-x2-6-4b",
+        "family_display": "Spark-X2.6-4B: spark-x-model-line",
+        "model_slug": "spark-x2-6-4b",
+        "model_display": "Spark-X2.6-4B: spark-x-model-line",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "spark-x-model-line",
+        "thread_display": "Spark X Model Line",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Spark-X2.6-4B: spark-x-model-line",
+        "article_url": "https://happyin.space/projects/spark-x2-6-4b/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/6ca1d62c6e80d8400854a51252ca9d80be8d910e/docs/projects/spark-x2-6-4b.md",
+        "agent_context_url": "https://happyin.space/projects/spark-x2-6-4b/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "Spark-X2.6-4B adds OpenAI-compatible serving support via vLLM and SGLang",
+        "version": null,
+        "summary": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference."
+      },
+      "tags": [
+        "Spark-X2.6-4B: spark-x-model-line",
+        "family:spark-x2-6-4b",
+        "misc",
+        "spark-x-model-line",
+        "spark-x2-6-4b"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "spark-x2-6-4b"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/XHToken/Spark-X2.6-4B-GGUF",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        },
+        {
+          "kind": "weights",
+          "url": "https://huggingface.co/collections/XHToken/spark-x26",
+          "host": "huggingface.co",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:19:17Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "The Spark-X2.6-4B release includes post-trained weights and base variants supporting OpenAI-compatible local serving via SGLang and vLLM, alongside GGUF quantizations for consumer hardware inference."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T07:19:17Z",
+        "classified_at": "2026-10-25T07:19:17Z",
+        "enriched_at": "2026-10-25T07:19:17Z",
+        "verified_at": "2026-10-25T07:19:17Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-5966d93d70",
+      "entry_type": "news",
+      "category": "misc",
+      "lang": "en",
+      "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+      "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps.",
+      "research_notes": "Identify the cache-tolerant regime in the sampling trajectory of the joint audio-visual diffusion model, typically corresponding to intermediate diffusion timesteps.\n\nConfigure the sampling loop to cache and reuse audio denoiser outputs and bypass cross-modal attention during the intermediate phase while maintaining full un-cached video denoiser execution.\n\nRestore full joint audio-visual denoising across both modalities for the final terminal steps to eliminate cross-modal drift and lock audio-visual synchronization.\n\nAvoid caching video denoiser outputs across intermediate sampling steps, as video representations lack the asymmetric recoverability of audio and suffer irrecoverable temporal blur and motion degradation.\n\nEnsure a sufficient window of terminal joint denoising steps is preserved at the end of the sampling trajectory to guarantee audio fidelity and precise temporal alignment with video dynamics.",
+      "project": {
+        "name": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "family_slug": "cavc-convergence-adaptive-audio-visual-cache",
+        "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "model_slug": "cavc-convergence-adaptive-audio-visual-cache",
+        "model_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "cavc-audio-visual-diffusion-caching",
+        "thread_display": "Cavc Audio Visual Diffusion Caching",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "article_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7e65c5ec0190b99560fa30ed418184ac68ddde92/docs/projects/cavc-convergence-adaptive-audio-visual-cache.md",
+        "agent_context_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "version": null,
+        "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps."
+      },
+      "tags": [
+        "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "cavc-audio-visual-diffusion-caching",
+        "cavc-convergence-adaptive-audio-visual-cache",
+        "family:cavc-convergence-adaptive-audio-visual-cache",
+        "misc"
+      ],
+      "facets": {
+        "category": "misc",
+        "entry_type": "news",
+        "projects": [
+          "cavc-convergence-adaptive-audio-visual-cache"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "paper",
+          "url": "https://arxiv.org/abs/2610.30854",
+          "host": "arxiv.org",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T07:10:15Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T07:10:15Z",
+        "classified_at": "2026-10-25T07:10:15Z",
+        "enriched_at": "2026-10-25T07:10:15Z",
+        "verified_at": "2026-10-25T07:10:15Z",
         "models_used": {
           "research": "curated-live-material"
         },
