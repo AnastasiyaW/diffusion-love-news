@@ -133,6 +133,25 @@
     "has_video": false
   },
   {
+    "id": "n-2988748edd",
+    "date": "2026-10-23",
+    "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+    "category": "misc",
+    "entry_type": "news",
+    "project": "genxr-bench",
+    "version": null,
+    "tags": [
+      "Genxr Bench: genxr-bench-release",
+      "family:genxr-bench",
+      "genxr-bench",
+      "genxr-bench-release",
+      "misc"
+    ],
+    "primary_link": "https://arxiv.org/abs/2610.29014",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-2171fbda3c",
     "date": "2026-10-23",
     "title": "CanAI open-source local canvas studio released with fal.ai integration",
