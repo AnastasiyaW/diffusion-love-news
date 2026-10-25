@@ -337,6 +337,10 @@
   "CausalCine": [
     "n-6ada41074f"
   ],
+  "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
   "Chandra": [
     "n-840bb8c6c7"
   ],
@@ -3474,6 +3478,14 @@
   "causalcine-release": [
     "n-6ada41074f"
   ],
+  "cavc-audio-visual-diffusion-caching": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
+  "cavc-convergence-adaptive-audio-visual-cache": [
+    "n-d4678fd961",
+    "n-5966d93d70"
+  ],
   "cdm": [
     "n-c660c4f559"
   ],
@@ -4713,6 +4725,10 @@
   ],
   "family:causalcine": [
     "n-6ada41074f"
+  ],
+  "family:cavc-convergence-adaptive-audio-visual-cache": [
+    "n-d4678fd961",
+    "n-5966d93d70"
   ],
   "family:cdm": [
     "n-c660c4f559"
@@ -9033,6 +9049,7 @@
     "n-d4f7f53653",
     "n-d497328784",
     "n-d46d9eb28f",
+    "n-d4678fd961",
     "n-d3641add96",
     "n-d2bc181ad0",
     "n-d22e265efd",
@@ -9305,6 +9322,7 @@
     "n-5cbb79d999",
     "n-5b5558fedd",
     "n-599684b34f",
+    "n-5966d93d70",
     "n-595169f554",
     "n-594cd03215",
     "n-55b3aea30b",

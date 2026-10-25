@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.4",
+ "id": "n-5966d93d70",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+ "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps.",
+ "research_notes": "Identify the cache-tolerant regime in the sampling trajectory of the joint audio-visual diffusion model, typically corresponding to intermediate diffusion timesteps.\n\nConfigure the sampling loop to cache and reuse audio denoiser outputs and bypass cross-modal attention during the intermediate phase while maintaining full un-cached video denoiser execution.\n\nRestore full joint audio-visual denoising across both modalities for the final terminal steps to eliminate cross-modal drift and lock audio-visual synchronization.\n\nAvoid caching video denoiser outputs across intermediate sampling steps, as video representations lack the asymmetric recoverability of audio and suffer irrecoverable temporal blur and motion degradation.\n\nEnsure a sufficient window of terminal joint denoising steps is preserved at the end of the sampling trajectory to guarantee audio fidelity and precise temporal alignment with video dynamics.",
+ "project": {
+  "name": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+  "family_slug": "cavc-convergence-adaptive-audio-visual-cache",
+  "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+  "model_slug": "cavc-convergence-adaptive-audio-visual-cache",
+  "model_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "cavc-audio-visual-diffusion-caching",
+  "thread_display": "Cavc Audio Visual Diffusion Caching",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+  "article_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/7e65c5ec0190b99560fa30ed418184ac68ddde92/docs/projects/cavc-convergence-adaptive-audio-visual-cache.md",
+  "agent_context_url": "https://happyin.space/projects/cavc-convergence-adaptive-audio-visual-cache/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-23",
+  "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+  "version": null,
+  "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps."
+ },
+ "tags": [
+  "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+  "cavc-audio-visual-diffusion-caching",
+  "cavc-convergence-adaptive-audio-visual-cache",
+  "family:cavc-convergence-adaptive-audio-visual-cache",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "cavc-convergence-adaptive-audio-visual-cache"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "paper",
+   "url": "https://arxiv.org/abs/2610.30854",
+   "host": "arxiv.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-25T07:10:15Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-23",
+  "excerpt": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-25T07:10:15Z",
+  "classified_at": "2026-10-25T07:10:15Z",
+  "enriched_at": "2026-10-25T07:10:15Z",
+  "verified_at": "2026-10-25T07:10:15Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

@@ -10018,6 +10018,154 @@
     ],
     "claims": []
   },
+  "cavc-convergence-adaptive-audio-visual-cache": {
+    "family_slug": "cavc-convergence-adaptive-audio-visual-cache",
+    "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+    "family_display_variants": [
+      {
+        "family_display": "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 2,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-5966d93d70",
+      "n-d4678fd961"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-5966d93d70",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-d4678fd961",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.30854",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:10:15Z",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "summary": "Preprint 2610.30854 introduces CAVC, a training-free caching framework for diffusion audio-visual generation that caches intermediate audio denoising steps while continuing video refinement, finishing with terminal joint steps.",
+        "version": null,
+        "news_id": "n-5966d93d70",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "summary": "Benchmarking in preprint 2610.30854 reports 1.10x to 1.35x wall-clock acceleration across public benchmarks using modality-asymmetric caching while maintaining audio fidelity and cross-modal synchronization.",
+        "version": null,
+        "news_id": "n-d4678fd961",
+        "primary_link": "https://arxiv.org/abs/2610.30854"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-d4678fd961",
+        "date": "2026-10-23",
+        "title": "CAVC Demonstrates 1.10-1.35x Inference Acceleration in Audio-Visual Generation",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "cavc-convergence-adaptive-audio-visual-cache",
+        "version": null,
+        "tags": [
+          "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+          "cavc-audio-visual-diffusion-caching",
+          "cavc-convergence-adaptive-audio-visual-cache",
+          "family:cavc-convergence-adaptive-audio-visual-cache",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.30854",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-5966d93d70",
+        "date": "2026-10-23",
+        "title": "CAVC Modality-Asymmetric Caching Framework Introduced for Audio-Visual Diffusion",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "cavc-convergence-adaptive-audio-visual-cache",
+        "version": null,
+        "tags": [
+          "Cavc Convergence Adaptive Audio Visual Cache: cavc-audio-visual-diffusion-caching",
+          "cavc-audio-visual-diffusion-caching",
+          "cavc-convergence-adaptive-audio-visual-cache",
+          "family:cavc-convergence-adaptive-audio-visual-cache",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.30854",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "cavc-audio-visual-diffusion-caching",
+        "display": "Cavc Audio Visual Diffusion Caching",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-d4678fd961",
+        "news_ids": [
+          "n-5966d93d70",
+          "n-d4678fd961"
+        ]
+      }
+    ]
+  },
   "cdm": {
     "family_slug": "cdm",
     "family_display": "Cdm",
