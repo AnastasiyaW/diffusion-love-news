@@ -42773,6 +42773,291 @@
     ],
     "claims": []
   },
+  "kimi-k3-1-pro": {
+    "family_slug": "kimi-k3-1-pro",
+    "family_display": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+    "family_display_variants": [
+      {
+        "family_display": "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+        "first_seen": "2026-10-24",
+        "last_seen": "2026-10-24",
+        "news_ids": [
+          "n-183de9a149",
+          "n-37e9305c06",
+          "n-6202d8d932",
+          "n-d135dd8f66"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 4,
+    "first_seen": "2026-10-24",
+    "last_seen": "2026-10-24",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-183de9a149",
+      "n-37e9305c06",
+      "n-6202d8d932",
+      "n-d135dd8f66"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-24",
+        "news_id": "n-183de9a149",
+        "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+        "primary_link": "https://www.kimi.ai/"
+      },
+      {
+        "version": null,
+        "date": "2026-10-24",
+        "news_id": "n-37e9305c06",
+        "title": "Kimi K3.1 Pro opens on developer platform with 1M-token context",
+        "primary_link": "https://platform.kimi.ai/"
+      },
+      {
+        "version": null,
+        "date": "2026-10-24",
+        "news_id": "n-6202d8d932",
+        "title": "Kimi K3.1 Pro released with Highspeed variant and planned open weights",
+        "primary_link": "https://platform.kimi.ai/"
+      },
+      {
+        "version": null,
+        "date": "2026-10-24",
+        "news_id": "n-d135dd8f66",
+        "title": "Moonshot deploys Kimi K3.1 Pro refresh with scheduled open release",
+        "primary_link": "https://www.kimi.ai/"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "reference",
+        "host": "platform.kimi.ai",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://platform.kimi.ai/",
+        "is_primary": true,
+        "verified_at": "2026-10-25T22:49:23Z",
+        "news_ids": [
+          "n-183de9a149",
+          "n-37e9305c06",
+          "n-6202d8d932",
+          "n-d135dd8f66"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-183de9a149",
+            "is_primary": false,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-37e9305c06",
+            "is_primary": true,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-6202d8d932",
+            "is_primary": true,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-d135dd8f66",
+            "is_primary": false,
+            "verified_at": "2026-10-25T22:49:23Z"
+          }
+        ]
+      },
+      {
+        "kind": "reference",
+        "host": "kimi.ai",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://www.kimi.ai/",
+        "is_primary": true,
+        "verified_at": "2026-10-25T22:49:23Z",
+        "news_ids": [
+          "n-183de9a149",
+          "n-37e9305c06",
+          "n-6202d8d932",
+          "n-d135dd8f66"
+        ],
+        "occurrences": [
+          {
+            "news_id": "n-183de9a149",
+            "is_primary": true,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-37e9305c06",
+            "is_primary": false,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-6202d8d932",
+            "is_primary": false,
+            "verified_at": "2026-10-25T22:49:23Z"
+          },
+          {
+            "news_id": "n-d135dd8f66",
+            "is_primary": true,
+            "verified_at": "2026-10-25T22:49:23Z"
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+        "summary": "Moonshot rolled out Kimi K3.1 Pro across Kimi, Kimi Work, and Kimi Code as an RL-scaled post-training update.",
+        "version": null,
+        "news_id": "n-183de9a149",
+        "primary_link": "https://www.kimi.ai/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro opens on developer platform with 1M-token context",
+        "summary": "Kimi K3.1 Pro became available via API with 1M context and support for Unreal, Unity, Godot, and Blender, priced at $2 input and $10 output per million tokens.",
+        "version": null,
+        "news_id": "n-37e9305c06",
+        "primary_link": "https://platform.kimi.ai/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro released with Highspeed variant and planned open weights",
+        "summary": "Moonshot deployed Kimi K3.1 Pro with game-engine integration, a 1M token context, and a 2-3x faster Highspeed API tier.",
+        "version": null,
+        "news_id": "n-6202d8d932",
+        "primary_link": "https://platform.kimi.ai/"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-24",
+        "title": "Moonshot deploys Kimi K3.1 Pro refresh with scheduled open release",
+        "summary": "Moonshot launched Kimi K3.1 Pro featuring extensive domain reinforcement learning across 3D, coding, and finance.",
+        "version": null,
+        "news_id": "n-d135dd8f66",
+        "primary_link": "https://www.kimi.ai/"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-d135dd8f66",
+        "date": "2026-10-24",
+        "title": "Moonshot deploys Kimi K3.1 Pro refresh with scheduled open release",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "kimi-k3-1-pro",
+        "version": null,
+        "tags": [
+          "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+          "family:kimi-k3-1-pro",
+          "kimi-k3-1-pro",
+          "kimi-k3-1-pro-release",
+          "misc"
+        ],
+        "primary_link": "https://www.kimi.ai/",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-6202d8d932",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro released with Highspeed variant and planned open weights",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "kimi-k3-1-pro",
+        "version": null,
+        "tags": [
+          "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+          "family:kimi-k3-1-pro",
+          "kimi-k3-1-pro",
+          "kimi-k3-1-pro-release",
+          "misc"
+        ],
+        "primary_link": "https://platform.kimi.ai/",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-37e9305c06",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro opens on developer platform with 1M-token context",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "kimi-k3-1-pro",
+        "version": null,
+        "tags": [
+          "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+          "family:kimi-k3-1-pro",
+          "kimi-k3-1-pro",
+          "kimi-k3-1-pro-release",
+          "misc"
+        ],
+        "primary_link": "https://platform.kimi.ai/",
+        "has_image": false,
+        "has_video": false
+      },
+      {
+        "id": "n-183de9a149",
+        "date": "2026-10-24",
+        "title": "Kimi K3.1 Pro released as post-training refinement with Highspeed option",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "kimi-k3-1-pro",
+        "version": null,
+        "tags": [
+          "Kimi K3.1 Pro: kimi-k3-1-pro-release",
+          "family:kimi-k3-1-pro",
+          "kimi-k3-1-pro",
+          "kimi-k3-1-pro-release",
+          "misc"
+        ],
+        "primary_link": "https://www.kimi.ai/",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "kimi-k3-1-pro-release",
+        "display": "Kimi K3 1 Pro Release",
+        "first_seen": "2026-10-24",
+        "last_seen": "2026-10-24",
+        "latest_news_id": "n-d135dd8f66",
+        "news_ids": [
+          "n-183de9a149",
+          "n-37e9305c06",
+          "n-6202d8d932",
+          "n-d135dd8f66"
+        ]
+      }
+    ]
+  },
   "kimodo": {
     "family_slug": "kimodo",
     "family_display": "Kimodo",
