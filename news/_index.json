@@ -19,6 +19,25 @@
     "has_video": false
   },
   {
+    "id": "n-a167c6f61b",
+    "date": "2026-10-23",
+    "title": "ComfyUI v0.42.5 maintenance patch published",
+    "category": "tools-frontend",
+    "entry_type": "news",
+    "project": "comfyui",
+    "version": null,
+    "tags": [
+      "ComfyUI Development",
+      "comfyui",
+      "comfyui-development",
+      "family:comfyui",
+      "tools-frontend"
+    ],
+    "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+    "has_image": false,
+    "has_video": false
+  },
+  {
     "id": "n-595169f554",
     "date": "2026-10-23",
     "title": "CanAI local AI canvas studio published on GitHub",

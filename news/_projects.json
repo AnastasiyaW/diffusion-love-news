@@ -12981,9 +12981,10 @@
       {
         "family_display": "ComfyUI Development",
         "first_seen": "2026-09-02",
-        "last_seen": "2026-09-02",
+        "last_seen": "2026-10-23",
         "news_ids": [
-          "n-046d02af9f"
+          "n-046d02af9f",
+          "n-a167c6f61b"
         ]
       }
     ],
@@ -12994,16 +12995,18 @@
     "base_model": null,
     "categories": [
       "diffusion-video",
-      "misc"
+      "misc",
+      "tools-frontend"
     ],
-    "post_count": 2,
+    "post_count": 3,
     "first_seen": "2026-03-26",
-    "last_seen": "2026-09-02",
+    "last_seen": "2026-10-23",
     "latest_version": null,
     "latest_evolution": null,
     "news_ids": [
       "n-c724eb9e4c",
-      "n-046d02af9f"
+      "n-046d02af9f",
+      "n-a167c6f61b"
     ],
     "versions_timeline": [
       {
@@ -13019,6 +13022,13 @@
         "news_id": "n-046d02af9f",
         "title": "TensorRT VAE nodes for MiniMax-H3 workflows in ComfyUI",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-a167c6f61b",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5"
       }
     ],
     "features": [],
@@ -13033,6 +13043,18 @@
     "aliases": [],
     "domains": [],
     "links": [
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+        "is_primary": true,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
+        ]
+      },
       {
         "kind": "code",
         "host": "github.com",
@@ -13055,6 +13077,30 @@
         "verified_at": "2026-09-04T22:01:31Z",
         "news_ids": [
           "n-c724eb9e4c"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI",
+        "is_primary": false,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
+        ]
+      },
+      {
+        "kind": "code",
+        "host": "github.com",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://github.com/Comfy-Org/ComfyUI/releases",
+        "is_primary": false,
+        "verified_at": "2026-10-25T06:40:51Z",
+        "news_ids": [
+          "n-a167c6f61b"
         ]
       },
       {
@@ -13112,9 +13158,37 @@
         "version": null,
         "news_id": "n-046d02af9f",
         "primary_link": "https://github.com/lihaoyun6/ComfyUI-H3VAE_TRT"
+      },
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track.",
+        "version": null,
+        "news_id": "n-a167c6f61b",
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5"
       }
     ],
     "related_news": [
+      {
+        "id": "n-a167c6f61b",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "project": "comfyui",
+        "version": null,
+        "tags": [
+          "ComfyUI Development",
+          "comfyui",
+          "comfyui-development",
+          "family:comfyui",
+          "tools-frontend"
+        ],
+        "primary_link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+        "has_image": false,
+        "has_video": false
+      },
       {
         "id": "n-046d02af9f",
         "date": "2026-09-02",
@@ -13164,10 +13238,11 @@
         "slug": "comfyui-development",
         "display": "Comfyui Development",
         "first_seen": "2026-09-02",
-        "last_seen": "2026-09-02",
-        "latest_news_id": "n-046d02af9f",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-a167c6f61b",
         "news_ids": [
-          "n-046d02af9f"
+          "n-046d02af9f",
+          "n-a167c6f61b"
         ]
       }
     ]

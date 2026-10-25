@@ -1,8 +1,8 @@
 {
   "schema_version": "1.4",
-  "generated_at": "2026-10-23T23:16:23Z",
+  "generated_at": "2026-10-25T06:40:51Z",
   "site": "diffusion.love",
-  "total": 953,
+  "total": 954,
   "records": [
     {
       "schema_version": "1.4",
@@ -121,6 +121,129 @@
         "classified_at": "2026-10-23T23:16:23Z",
         "enriched_at": "2026-10-23T23:16:23Z",
         "verified_at": "2026-10-23T23:16:23Z",
+        "models_used": {
+          "research": "curated-live-material"
+        },
+        "schema_validated": true
+      }
+    },
+    {
+      "schema_version": "1.4",
+      "id": "n-a167c6f61b",
+      "entry_type": "news",
+      "category": "tools-frontend",
+      "lang": "en",
+      "title": "ComfyUI v0.42.5 maintenance patch published",
+      "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track.",
+      "research_notes": "Install the application from the official release distribution or clone the repository into the local Python environment.\n\nPlace required model checkpoints, text encoders, and VAE weights into their corresponding subdirectories under the models folder.\n\nLaunch the backend server using the main execution script to open the web-based canvas interface.\n\nConstruct a directed acyclic graph connecting model loader, prompt conditioning, latent sampling, and VAE decode nodes, then queue the prompt.\n\nTrack and apply progressive point release updates from the tagged release stream on GitHub.\n\nGroup related functional blocks into visual group boxes with explicit labels and reroute nodes to prevent tangled connection lines across large graphs.\n\nReuse loaded model and VAE outputs across downstream conditioning branches rather than instantiating duplicate loader nodes into GPU memory.\n\nVerify execution flow on a minimal baseline graph before adding complex third-party custom node extensions.\n\nConsult official release tags and changelogs prior to updating production runtime environments to avoid schema or custom node breakage.",
+      "project": {
+        "name": "ComfyUI Development",
+        "family_slug": "comfyui",
+        "family_display": "ComfyUI Development",
+        "model_slug": "comfyui",
+        "model_display": "ComfyUI Development",
+        "version": null,
+        "released": null,
+        "vendor": null,
+        "vendor_slug": null,
+        "origin_region": null,
+        "license": null,
+        "base_model": null,
+        "adaptation": null
+      },
+      "organization": null,
+      "development": {
+        "scope": "project",
+        "thread_slug": "comfyui-development",
+        "thread_display": "Comfyui Development",
+        "predecessor_ids": []
+      },
+      "knowledge": {
+        "title": "ComfyUI Development",
+        "article_url": "https://happyin.space/projects/comfyui/",
+        "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/60150580533e70c0e102ca1605008f23e7f2813e/docs/projects/comfyui.md",
+        "agent_context_url": "https://happyin.space/projects/comfyui/#agent-brief"
+      },
+      "lifecycle_event": {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "ComfyUI v0.42.5 maintenance patch published",
+        "version": null,
+        "summary": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track."
+      },
+      "tags": [
+        "ComfyUI Development",
+        "comfyui",
+        "comfyui-development",
+        "family:comfyui",
+        "tools-frontend"
+      ],
+      "facets": {
+        "category": "tools-frontend",
+        "entry_type": "news",
+        "projects": [
+          "comfyui"
+        ],
+        "versions": [],
+        "features": [],
+        "formats": [],
+        "platforms": [],
+        "vendors": [],
+        "base_models": [],
+        "origin": null,
+        "license": null,
+        "year": 2026,
+        "models": [],
+        "adaptations": []
+      },
+      "links": [
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.5",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": true,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        },
+        {
+          "kind": "code",
+          "url": "https://github.com/Comfy-Org/ComfyUI/releases",
+          "host": "github.com",
+          "lang": "en",
+          "is_primary": false,
+          "status": "unverified",
+          "verified_at": "2026-10-25T06:40:51Z"
+        }
+      ],
+      "evolution": {
+        "summary": null,
+        "latest_version": null,
+        "related_ids": [],
+        "is_latest_in_family": false
+      },
+      "media": {
+        "has_image": false,
+        "has_video": false
+      },
+      "source": {
+        "posted_at": "2026-10-23",
+        "excerpt": "Comfy-Org published release v0.42.5 on GitHub, delivering routine core fixes and node maintenance within the v0.42 release track."
+      },
+      "_meta": {
+        "extracted_at": "2026-10-25T06:40:51Z",
+        "classified_at": "2026-10-25T06:40:51Z",
+        "enriched_at": "2026-10-25T06:40:51Z",
+        "verified_at": "2026-10-25T06:40:51Z",
         "models_used": {
           "research": "curated-live-material"
         },

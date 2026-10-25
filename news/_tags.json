@@ -451,6 +451,7 @@
     "n-133a0bfd18"
   ],
   "ComfyUI Development": [
+    "n-a167c6f61b",
     "n-046d02af9f"
   ],
   "ComfyUI Hires Fix": [
@@ -3723,6 +3724,7 @@
     "n-c492e2a3e4",
     "n-c2a141200b",
     "n-af1e479850",
+    "n-a167c6f61b",
     "n-9a27202165",
     "n-97b254669d",
     "n-9744e9b73c",
@@ -3768,6 +3770,7 @@
     "n-8c14423e0d"
   ],
   "comfyui-development": [
+    "n-a167c6f61b",
     "n-046d02af9f"
   ],
   "comfyui-drama3": [
@@ -4791,6 +4794,7 @@
   ],
   "family:comfyui": [
     "n-c724eb9e4c",
+    "n-a167c6f61b",
     "n-046d02af9f"
   ],
   "family:comfyui-6dof": [
@@ -11618,6 +11622,7 @@
     "n-bb76b83d43",
     "n-af1e479850",
     "n-a71a838b34",
+    "n-a167c6f61b",
     "n-9744e9b73c",
     "n-963305f6b7",
     "n-92aedf6bb2",
