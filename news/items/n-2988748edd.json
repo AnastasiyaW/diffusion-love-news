@@ -1,0 +1,105 @@
+{
+ "schema_version": "1.4",
+ "id": "n-2988748edd",
+ "entry_type": "news",
+ "category": "misc",
+ "lang": "en",
+ "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+ "summary": "Researchers published GenXR-Bench on arXiv, establishing an evaluation framework of 112 expert tasks across application generation, feature implementation, and bug repair to assess AI coding agents on interactive 3D spatial computing, where top evaluated models achieved 50.9% Pass@1.",
+ "research_notes": "Select an XR evaluation task from the benchmark repository, providing the coding agent with the natural-language specification and editable project scaffold.\n\nDeploy the coding agent to generate the application, add requested features, or repair spatial bugs within the scaffold.\n\nExecute the resulting application in the benchmark harness on consumer XR hardware or simulator using automated scripted and adaptive interaction sequences.\n\nCollect evaluation results through programmatic assertions and visual verification to calculate overall Pass@1 performance.\n\nEvaluate XR coding agents against continuous multimodal interactions and visual assertions rather than static code diffs or pure-function unit tests.\n\nStructure agent prompts and tool APIs to explicitly account for asynchronous sensor lifecycles and embodied spatial coordinate systems.",
+ "project": {
+  "name": "Genxr Bench: genxr-bench-release",
+  "family_slug": "genxr-bench",
+  "family_display": "Genxr Bench: genxr-bench-release",
+  "model_slug": "genxr-bench",
+  "model_display": "Genxr Bench: genxr-bench-release",
+  "version": null,
+  "released": null,
+  "vendor": null,
+  "vendor_slug": null,
+  "origin_region": null,
+  "license": null,
+  "base_model": null,
+  "adaptation": null
+ },
+ "organization": null,
+ "development": {
+  "scope": "project",
+  "thread_slug": "genxr-bench-release",
+  "thread_display": "Genxr Bench Release",
+  "predecessor_ids": []
+ },
+ "knowledge": {
+  "title": "Genxr Bench: genxr-bench-release",
+  "article_url": "https://happyin.space/projects/genxr-bench/",
+  "source_url": "https://raw.githubusercontent.com/AnastasiyaW/knowledge-space/1aa180dae3aa798e5d3eb3ed43bdcafc7241b4da/docs/projects/genxr-bench.md",
+  "agent_context_url": "https://happyin.space/projects/genxr-bench/#agent-brief"
+ },
+ "lifecycle_event": {
+  "kind": "reported-update",
+  "date": "2026-10-23",
+  "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+  "version": null,
+  "summary": "Researchers published GenXR-Bench on arXiv, establishing an evaluation framework of 112 expert tasks across application generation, feature implementation, and bug repair to assess AI coding agents on interactive 3D spatial computing, where top evaluated models achieved 50.9% Pass@1."
+ },
+ "tags": [
+  "Genxr Bench: genxr-bench-release",
+  "family:genxr-bench",
+  "genxr-bench",
+  "genxr-bench-release",
+  "misc"
+ ],
+ "facets": {
+  "category": "misc",
+  "entry_type": "news",
+  "projects": [
+   "genxr-bench"
+  ],
+  "versions": [],
+  "features": [],
+  "formats": [],
+  "platforms": [],
+  "vendors": [],
+  "base_models": [],
+  "origin": null,
+  "license": null,
+  "year": 2026,
+  "models": [],
+  "adaptations": []
+ },
+ "links": [
+  {
+   "kind": "paper",
+   "url": "https://arxiv.org/abs/2610.29014",
+   "host": "arxiv.org",
+   "lang": "en",
+   "is_primary": true,
+   "status": "unverified",
+   "verified_at": "2026-10-25T07:36:26Z"
+  }
+ ],
+ "evolution": {
+  "summary": null,
+  "latest_version": null,
+  "related_ids": [],
+  "is_latest_in_family": false
+ },
+ "media": {
+  "has_image": false,
+  "has_video": false
+ },
+ "source": {
+  "posted_at": "2026-10-23",
+  "excerpt": "Researchers published GenXR-Bench on arXiv, establishing an evaluation framework of 112 expert tasks across application generation, feature implementation, and bug repair to assess AI coding agents on interactive 3D spatial computing, where top evaluated models achieved 50.9% Pass@1."
+ },
+ "_meta": {
+  "extracted_at": "2026-10-25T07:36:26Z",
+  "classified_at": "2026-10-25T07:36:26Z",
+  "enriched_at": "2026-10-25T07:36:26Z",
+  "verified_at": "2026-10-25T07:36:26Z",
+  "models_used": {
+   "research": "curated-live-material"
+  },
+  "schema_validated": true
+ }
+}

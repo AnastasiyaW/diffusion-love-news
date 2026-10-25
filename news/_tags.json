@@ -1019,6 +1019,9 @@
   "Generative World Renderer": [
     "n-01b786ce9f"
   ],
+  "Genxr Bench: genxr-bench-release": [
+    "n-2988748edd"
+  ],
   "Geo Register Plugin": [
     "n-85862dbbb3"
   ],
@@ -5263,6 +5266,9 @@
   "family:gen-searcher": [
     "n-eaa27c5213"
   ],
+  "family:genxr-bench": [
+    "n-2988748edd"
+  ],
   "family:geo-register-plugin": [
     "n-85862dbbb3"
   ],
@@ -7363,6 +7369,12 @@
   "generative-world-renderer": [
     "n-01b786ce9f"
   ],
+  "genxr-bench": [
+    "n-2988748edd"
+  ],
+  "genxr-bench-release": [
+    "n-2988748edd"
+  ],
   "geo-register-plugin": [
     "n-85862dbbb3"
   ],
@@ -9437,6 +9449,7 @@
     "n-2af9b3efb0",
     "n-29eb1f831e",
     "n-29d4083d61",
+    "n-2988748edd",
     "n-292e34fcb3",
     "n-29037afbf8",
     "n-29022e4fd2",

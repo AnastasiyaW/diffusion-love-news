@@ -30622,6 +30622,115 @@
     ],
     "claims": []
   },
+  "genxr-bench": {
+    "family_slug": "genxr-bench",
+    "family_display": "Genxr Bench: genxr-bench-release",
+    "family_display_variants": [
+      {
+        "family_display": "Genxr Bench: genxr-bench-release",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "news_ids": [
+          "n-2988748edd"
+        ]
+      }
+    ],
+    "vendor": null,
+    "vendor_slug": null,
+    "origin_region": null,
+    "license": null,
+    "base_model": null,
+    "categories": [
+      "misc"
+    ],
+    "post_count": 1,
+    "first_seen": "2026-10-23",
+    "last_seen": "2026-10-23",
+    "latest_version": null,
+    "latest_evolution": null,
+    "news_ids": [
+      "n-2988748edd"
+    ],
+    "versions_timeline": [
+      {
+        "version": null,
+        "date": "2026-10-23",
+        "news_id": "n-2988748edd",
+        "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+        "primary_link": "https://arxiv.org/abs/2610.29014"
+      }
+    ],
+    "features": [],
+    "formats": [],
+    "platforms": [],
+    "base_models": [],
+    "kind": null,
+    "status": null,
+    "homepage": null,
+    "repository": null,
+    "summary": null,
+    "aliases": [],
+    "domains": [],
+    "links": [
+      {
+        "kind": "paper",
+        "host": "arxiv.org",
+        "lang": "en",
+        "status": "unverified",
+        "url": "https://arxiv.org/abs/2610.29014",
+        "is_primary": true,
+        "verified_at": "2026-10-25T07:36:26Z",
+        "news_ids": [
+          "n-2988748edd"
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "kind": "reported-update",
+        "date": "2026-10-23",
+        "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+        "summary": "Researchers published GenXR-Bench on arXiv, establishing an evaluation framework of 112 expert tasks across application generation, feature implementation, and bug repair to assess AI coding agents on interactive 3D spatial computing, where top evaluated models achieved 50.9% Pass@1.",
+        "version": null,
+        "news_id": "n-2988748edd",
+        "primary_link": "https://arxiv.org/abs/2610.29014"
+      }
+    ],
+    "related_news": [
+      {
+        "id": "n-2988748edd",
+        "date": "2026-10-23",
+        "title": "GenXR-Bench announced on arXiv for evaluating coding agents on interactive XR development",
+        "category": "misc",
+        "entry_type": "news",
+        "project": "genxr-bench",
+        "version": null,
+        "tags": [
+          "Genxr Bench: genxr-bench-release",
+          "family:genxr-bench",
+          "genxr-bench",
+          "genxr-bench-release",
+          "misc"
+        ],
+        "primary_link": "https://arxiv.org/abs/2610.29014",
+        "has_image": false,
+        "has_video": false
+      }
+    ],
+    "claims": [],
+    "development_threads": [
+      {
+        "slug": "genxr-bench-release",
+        "display": "Genxr Bench Release",
+        "first_seen": "2026-10-23",
+        "last_seen": "2026-10-23",
+        "latest_news_id": "n-2988748edd",
+        "news_ids": [
+          "n-2988748edd"
+        ]
+      }
+    ]
+  },
   "geo-register-plugin": {
     "family_slug": "geo-register-plugin",
     "family_display": "Geo Register Plugin",
